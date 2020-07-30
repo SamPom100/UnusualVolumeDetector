@@ -16,8 +16,11 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 ## Controlling the Script
 -Line 17 controls the amount of months of historical volume the script gets
+
 -Line 75 controls the amount of days before today that it will alert you
+
 -Line 84 controls the number of standard deviations away from the mean volume
+
 
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
