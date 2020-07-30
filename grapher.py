@@ -12,11 +12,11 @@ import numpy as np
 
 
 class mainObj:
-    def getData(self):
+    def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
-        pastDate = currentDate - dateutil.relativedelta.relativedelta(months=2)
-        data = yf.download('TSLA', pastDate, currentDate)
+        pastDate = currentDate - dateutil.relativedelta.relativedelta(months=4)
+        data = yf.download(ticker, pastDate, currentDate)
         return data[["Volume"]]
 
     def printData(self, data):
@@ -33,11 +33,13 @@ class mainObj:
         data['goodDate'] = tempList
         data = data.drop('Date', 1)
         data.set_index('goodDate', inplace=True)
+        ################
         fig, ax = plt.subplots(figsize=(15, 7))
         data.plot(kind='bar', ax=ax)
         ax.get_yaxis().set_major_formatter(
             matplotlib.ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
         mplcursors.cursor(hover=True)
+        ################
         plt.show()
 
     def lineGraph(self, data):
@@ -47,6 +49,9 @@ class mainObj:
         ax.get_yaxis().set_major_formatter(
             matplotlib.ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
         mplcursors.cursor(hover=True)
+        currentDate = datetime.datetime.strptime(
+            date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
+        pastDate = currentDate - dateutil.relativedelta.relativedelta(months=4)
         plt.show()
 
     def find_anomalies(self, random_data):
@@ -54,7 +59,7 @@ class mainObj:
         random_data_std = np.std(random_data)
         random_data_mean = np.mean(random_data)
         # Set upper and lower limit to 3 standard deviation
-        anomaly_cut_off = random_data_std * 3
+        anomaly_cut_off = random_data_std * 4
 
         lower_limit = random_data_mean - anomaly_cut_off
         upper_limit = random_data_mean + anomaly_cut_off
@@ -69,7 +74,7 @@ class mainObj:
 main = mainObj()
 
 # commands
-data = main.getData()
+data = main.getData("FB")
 # main.printData(data)
-print(main.find_anomalies(data['Volume']))
-main.barGraph(data)
+# main.barGraph(data)
+main.lineGraph(data)
