@@ -147,6 +147,7 @@ ALTA|Altabancorp - Common Stock|S|N|N|100|N|N
 ALTM|Altus Midstream Company - Class A Common Stock|G|N|N|100|N|N
 ALTR|Altair Engineering Inc. - Class A Common Stock|Q|N|N|100|N|N
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
+ALVR|AlloVir, Inc. - Common Stock|Q|N|N|100|N|N
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ALXO|ALX Oncology Holdings Inc. - Common Stock|Q|N|N|100|N|N
 ALYA|Alithya Group inc. - Class A subordinate voting shares|S|N|N|100|N|N
@@ -257,7 +258,9 @@ ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100|N|N
 ARVN|Arvinas, Inc. - Common Stock|Q|N|N|100|N|N
 ARWR|Arrowhead Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
+ARYB|ARYA Sciences Acquisition Corp II - Class A Ordinary Shares|S|N|N|100|N|N
 ARYBU|ARYA Sciences Acquisition Corp II - Unit|S|N|N|100|N|N
+ARYBW|ARYA Sciences Acquisition Corp II - Warrant|S|N|N|100|N|N
 ASET|FlexShares Real Assets Allocation Index Fund|G|N|N|100|Y|N
 ASFI|Asta Funding, Inc. - Common Stock|Q|N|N|100|N|N
 ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares|G|N|N|100|N|N
@@ -870,7 +873,6 @@ CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100|
 CYCN|Cyclerion Therapeutics, Inc. - Common Stock |Q|N|N|100|N|N
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100|N|N
 CYRX|CryoPort, Inc. - Common Stock|S|N|N|100|N|N
-CYRXW|CryoPort, Inc. - Warrants|S|N|N|100|N|N
 CYTK|Cytokinetics, Incorporated - Common Stock|Q|N|N|100|N|N
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100|N|N
 CZR|Caesars Entertainment, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1004,6 +1006,7 @@ ECPG|Encore Capital Group Inc - Common Stock|Q|N|N|100|N|N
 EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share|G|N|N|100|N|N
 EDIT|Editas Medicine, Inc. - Common Stock|Q|N|N|100|N|N
 EDNT|Edison Nation, Inc. - Common Stock|S|N|N|100|N|N
+EDOC|Global X Telemedicine & Digital Health ETF|G|N|N|100|Y|N
 EDRY|EuroDry Ltd. - Common Shares|S|N|N|100|N|N
 EDSA|Edesa Biotech, Inc. - Common Shares|S|N|N|100|N|N
 EDTK|Skillful Craftsman Education Technology Limited - Ordinary Share|S|N|N|100|N|N
@@ -1518,7 +1521,9 @@ HDS|HD Supply Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 HDSN|Hudson Technologies, Inc. - Common Stock|S|N|D|100|N|N
 HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100|N|N
 HEBT|Hebron Technology Co., Ltd. - Class A Common Shares|S|N|N|100|N|N
+HEC|Hudson Executive Investment Corp. - Class A Common Stock|S|N|N|100|N|N
 HECCU|Hudson Executive Investment Corp. - Units|S|N|N|100|N|N
+HECCW|Hudson Executive Investment Corp. - Warrant|S|N|N|100|N|N
 HEES|H&E Equipment Services, Inc. - Common Stock|Q|N|N|100|N|N
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100|N|N
 HEPA|Hepion Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -1915,6 +1920,7 @@ LGHLW|Lion Group Holding Ltd. - Warrant|S|N|N|100|N|N
 LGIH|LGI Homes, Inc. - Common Stock|Q|N|N|100|N|N
 LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100|N|N
 LHCG|LHC Group - common stock|Q|N|N|100|N|N
+LI|Li Auto Inc. - American Depositary Shares|Q|N|N|100|N|N
 LIFE|aTyr Pharma, Inc. - Common Stock|S|N|N|100|N|N
 LILA|Liberty Latin America Ltd. - Class A Common Stock|Q|N|N|100|N|N
 LILAK|Liberty Latin America Ltd. - Class C Common Stock|Q|N|N|100|N|N
@@ -2785,6 +2791,7 @@ RMBS|Rambus, Inc. - Common Stock|Q|N|N|100|N|N
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100|N|N
 RMNI|Rimini Street, Inc. - Common Stock|G|N|N|100|N|N
 RMR|The RMR Group Inc. - Class A Common Stock|S|N|N|100|N|N
+RMRM|RMR Mortgage Trust - Common Stock|S|N|N|100|N|N
 RMTI|Rockwell Medical, Inc. - Common Stock|G|N|N|100|N|N
 RNA|Avidity Biosciences, Inc. - Common Stock|G|N|N|100|N|N
 RNDB|Randolph Bancorp, Inc. - Common Stock|G|N|N|100|N|N
@@ -3587,4 +3594,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0729202021:32|||||||
+File Creation Time: 0730202014:02|||||||

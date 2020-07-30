@@ -464,8 +464,7 @@ BEDU,BEDU|Bright Scholar Education Holdings Limited American Depositary Shares, 
 BEN,BEN|Franklin Resources, Inc. Common Stock
 BEP,BEP|Brookfield Renewable Partners L.P. 
 BEP$A,BEP$A|Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17
-BEP.V,BEP.V|Brookfield Renewable Partners L.P. Limited Partnership Units Ex-Distribution When Issued
-BEPC.V,BEPC.V|Brookfield Renewable Corporation Class A Subordinate Voting Shares When Issued
+BEPC,BEPC|Brookfield Renewable Corporation Class A Subordinate Voting Shares 
 BERY,BERY|Berry Global Group, Inc. Common Stock
 BEST,BEST|BEST Inc. American Depositary Shares, each representing one Class A Ordinary Share
 BETZ,BETZ|Roundhill Sports Betting & iGaming ETF
@@ -730,6 +729,7 @@ CCH.U,CCH.U|Collier Creek Holdings Units, each consisting of one Class A ordinar
 CCH.W,CCH.W|Collier Creek Holdings Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CCI,CCI|Crown Castle International Corp. (REIT) Common Stock
 CCI$A,CCI$A|Crown Castle International Corporation 6.875% Mandatory Convertible Preferred Stock, Series A
+CCIV.U,CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 CCJ,CCJ|Cameco Corporation Common Stock
 CCK,CCK|Crown Holdings, Inc.
 CCL,CCL|Carnival Corporation Common Stock
@@ -1356,7 +1356,6 @@ EDOW,EDOW|First Trust Dow 30 Equal Weight ETF
 EDU,EDU|New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)
 EDV,EDV|Vanguard Extended Duration Treasury ETF
 EDZ,EDZ|Direxion Emerging Markets Bear 3X Shares
-EE,EE|El Paso Electric Company Common Stock
 EEA,EEA|The European Equity Fund, Inc. Common Stock
 EEH,EEH|Aktiebolaget Svensk Exportkredit (Swed Ex Cred Corp) Elements (SM) Linked to the SPECTRUM Large Cap U.S. Sector Momentum Index developed by BNP Paribas due August 8, 2022, Medium-Term Notes, Series D
 EELV,EELV|Invesco S&P Emerging Markets Low Volatility ETF
@@ -2862,6 +2861,7 @@ KORU,KORU|Direxion Daily South Korea Bull 3X Shares
 KOS,KOS|Kosmos Energy Ltd. Common Shares (DE)
 KR,KR|Kroger Company (The) Common Stock
 KRA,KRA|Kraton Corporation Common Stock
+KRBN,KRBN|KFA Global Carbon ETF
 KRC,KRC|Kilroy Realty Corporation Common Stock
 KRE,KRE|SPDR S&P Regional Banking ETF
 KREF,KREF|KKR Real Estate Finance Trust Inc. Common Stock
@@ -3590,6 +3590,7 @@ OVS,OVS|Overlay Shares Small Cap Equity ETF
 OVV,OVV|Ovintiv Inc. (DE)
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
+OXY.V,OXY.V|Occidental Petroleum Corporation Warrants When Issued
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACD,PACD|Pacific Drilling S.A. Common Shares
@@ -4052,7 +4053,6 @@ RHE$A,RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeema
 RHI,RHI|Robert Half International Inc. Common Stock
 RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
 RHS,RHS|Invesco S&P 500 Equal Weight Consumer Staples ETF  
-RIF,RIF|RMR Real Estate Income Fund (MD) Common Stock
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIGS,RIGS|RiverFront Strategic Income Fund
 RINF,RINF|ProShares Inflation Expectations ETF
@@ -4757,7 +4757,7 @@ TOK,TOK|iShares MSCI Kokusai ETF
 TOKE,TOKE|Cambria Cannabis ETF
 TOL,TOL|Toll Brothers, Inc. Common Stock
 TOLZ,TOLZ|ProShares DJ Brookfield Global Infrastructure ETF
-TOT,TOT|Total S.A.
+TOT,TOT|Total SE
 TOTL,TOTL|SPDR DoubleLine Total Return Tactical ETF
 TPAY,TPAY|Tortoise Digital Payments Infrastructure Fund
 TPB,TPB|Turning Point Brands, Inc. Common Stock
@@ -5520,6 +5520,7 @@ ALTA,ALTA|Altabancorp - Common Stock
 ALTM,ALTM|Altus Midstream Company - Class A Common Stock
 ALTR,ALTR|Altair Engineering Inc. - Class A Common Stock
 ALTY,ALTY|Global X SuperDividend Alternatives ETF
+ALVR,ALVR|AlloVir, Inc. - Common Stock
 ALXN,ALXN|Alexion Pharmaceuticals, Inc. - Common Stock
 ALXO,ALXO|ALX Oncology Holdings Inc. - Common Stock
 ALYA,ALYA|Alithya Group inc. - Class A subordinate voting shares
@@ -5630,7 +5631,9 @@ ARTNA,ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock
 ARTW,ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock
 ARVN,ARVN|Arvinas, Inc. - Common Stock
 ARWR,ARWR|Arrowhead Pharmaceuticals, Inc. - Common Stock
+ARYB,ARYB|ARYA Sciences Acquisition Corp II - Class A Ordinary Shares
 ARYBU,ARYBU|ARYA Sciences Acquisition Corp II - Unit
+ARYBW,ARYBW|ARYA Sciences Acquisition Corp II - Warrant
 ASET,ASET|FlexShares Real Assets Allocation Index Fund
 ASFI,ASFI|Asta Funding, Inc. - Common Stock
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
@@ -6243,7 +6246,6 @@ CYCCP,CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock
 CYCN,CYCN|Cyclerion Therapeutics, Inc. - Common Stock 
 CYRN,CYRN|CYREN Ltd. - Ordinary Shares
 CYRX,CYRX|CryoPort, Inc. - Common Stock
-CYRXW,CYRXW|CryoPort, Inc. - Warrants
 CYTK,CYTK|Cytokinetics, Incorporated - Common Stock
 CZNC,CZNC|Citizens & Northern Corp - Common Stock
 CZR,CZR|Caesars Entertainment, Inc. - Common Stock
@@ -6377,6 +6379,7 @@ ECPG,ECPG|Encore Capital Group Inc - Common Stock
 EDAP,EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 EDIT,EDIT|Editas Medicine, Inc. - Common Stock
 EDNT,EDNT|Edison Nation, Inc. - Common Stock
+EDOC,EDOC|Global X Telemedicine & Digital Health ETF
 EDRY,EDRY|EuroDry Ltd. - Common Shares
 EDSA,EDSA|Edesa Biotech, Inc. - Common Shares
 EDTK,EDTK|Skillful Craftsman Education Technology Limited - Ordinary Share
@@ -6891,7 +6894,9 @@ HDS,HDS|HD Supply Holdings, Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
 HEBT,HEBT|Hebron Technology Co., Ltd. - Class A Common Shares
+HEC,HEC|Hudson Executive Investment Corp. - Class A Common Stock
 HECCU,HECCU|Hudson Executive Investment Corp. - Units
+HECCW,HECCW|Hudson Executive Investment Corp. - Warrant
 HEES,HEES|H&E Equipment Services, Inc. - Common Stock
 HELE,HELE|Helen of Troy Limited - Common Stock
 HEPA,HEPA|Hepion Pharmaceuticals, Inc. - Common Stock
@@ -7288,6 +7293,7 @@ LGHLW,LGHLW|Lion Group Holding Ltd. - Warrant
 LGIH,LGIH|LGI Homes, Inc. - Common Stock
 LGND,LGND|Ligand Pharmaceuticals Incorporated - Common Stock
 LHCG,LHCG|LHC Group - common stock
+LI,LI|Li Auto Inc. - American Depositary Shares
 LIFE,LIFE|aTyr Pharma, Inc. - Common Stock
 LILA,LILA|Liberty Latin America Ltd. - Class A Common Stock
 LILAK,LILAK|Liberty Latin America Ltd. - Class C Common Stock
@@ -8158,6 +8164,7 @@ RMBS,RMBS|Rambus, Inc. - Common Stock
 RMCF,RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock
 RMNI,RMNI|Rimini Street, Inc. - Common Stock
 RMR,RMR|The RMR Group Inc. - Class A Common Stock
+RMRM,RMRM|RMR Mortgage Trust - Common Stock
 RMTI,RMTI|Rockwell Medical, Inc. - Common Stock
 RNA,RNA|Avidity Biosciences, Inc. - Common Stock
 RNDB,RNDB|Randolph Bancorp, Inc. - Common Stock

@@ -465,8 +465,7 @@ BEDU|Bright Scholar Education Holdings Limited American Depositary Shares, each 
 BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BEP|Brookfield Renewable Partners L.P. |N|BEP|N|100|N|BEP
 BEP$A|Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17|N|BEPpA|N|100|N|BEP-A
-BEP.V|Brookfield Renewable Partners L.P. Limited Partnership Units Ex-Distribution When Issued|N|BEPw|N|100|N|BEP#
-BEPC.V|Brookfield Renewable Corporation Class A Subordinate Voting Shares When Issued|N|BEPCw|N|100|N|BEPC#
+BEPC|Brookfield Renewable Corporation Class A Subordinate Voting Shares |N|BEPC|N|100|N|BEPC
 BERY|Berry Global Group, Inc. Common Stock|N|BERY|N|100|N|BERY
 BEST|BEST Inc. American Depositary Shares, each representing one Class A Ordinary Share|N|BEST|N|100|N|BEST
 BETZ|Roundhill Sports Betting & iGaming ETF|P|BETZ|Y|100|N|BETZ
@@ -731,6 +730,7 @@ CCH.U|Collier Creek Holdings Units, each consisting of one Class A ordinary shar
 CCH.W|Collier Creek Holdings Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CCH.WS|N|100|N|CCH+
 CCI|Crown Castle International Corp. (REIT) Common Stock|N|CCI|N|100|N|CCI
 CCI$A|Crown Castle International Corporation 6.875% Mandatory Convertible Preferred Stock, Series A|N|CCIpA|N|100|N|CCI-A
+CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|CCIV.U|N|100|N|CCIV=
 CCJ|Cameco Corporation Common Stock|N|CCJ|N|100|N|CCJ
 CCK|Crown Holdings, Inc.|N|CCK|N|100|N|CCK
 CCL|Carnival Corporation Common Stock|N|CCL|N|100|N|CCL
@@ -1357,7 +1357,6 @@ EDOW|First Trust Dow 30 Equal Weight ETF|P|EDOW|Y|100|N|EDOW
 EDU|New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)|N|EDU|N|100|N|EDU
 EDV|Vanguard Extended Duration Treasury ETF|P|EDV|Y|100|N|EDV
 EDZ|Direxion Emerging Markets Bear 3X Shares|P|EDZ|Y|100|N|EDZ
-EE|El Paso Electric Company Common Stock|N|EE|N|100|N|EE
 EEA|The European Equity Fund, Inc. Common Stock|N|EEA|N|100|N|EEA
 EEH|Aktiebolaget Svensk Exportkredit (Swed Ex Cred Corp) Elements (SM) Linked to the SPECTRUM Large Cap U.S. Sector Momentum Index developed by BNP Paribas due August 8, 2022, Medium-Term Notes, Series D|P|EEH|N|100|N|EEH
 EELV|Invesco S&P Emerging Markets Low Volatility ETF|P|EELV|Y|100|N|EELV
@@ -2863,6 +2862,7 @@ KORU|Direxion Daily South Korea Bull 3X Shares|P|KORU|Y|100|N|KORU
 KOS|Kosmos Energy Ltd. Common Shares (DE)|N|KOS|N|100|N|KOS
 KR|Kroger Company (The) Common Stock|N|KR|N|100|N|KR
 KRA|Kraton Corporation Common Stock|N|KRA|N|100|N|KRA
+KRBN|KFA Global Carbon ETF|P|KRBN|Y|100|N|KRBN
 KRC|Kilroy Realty Corporation Common Stock|N|KRC|N|100|N|KRC
 KRE|SPDR S&P Regional Banking ETF|P|KRE|Y|100|N|KRE
 KREF|KKR Real Estate Finance Trust Inc. Common Stock|N|KREF|N|100|N|KREF
@@ -3591,6 +3591,7 @@ OVS|Overlay Shares Small Cap Equity ETF|P|OVS|Y|100|N|OVS
 OVV|Ovintiv Inc. (DE)|N|OVV|N|100|N|OVV
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
+OXY.V|Occidental Petroleum Corporation Warrants When Issued|N|OXY.WSw|N|100|N|OXY+#
 PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
 PACD|Pacific Drilling S.A. Common Shares|N|PACD|N|100|N|PACD
@@ -4053,7 +4054,6 @@ RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Pr
 RHI|Robert Half International Inc. Common Stock|N|RHI|N|100|N|RHI
 RHP|Ryman Hospitality Properties, Inc. (REIT)|N|RHP|N|100|N|RHP
 RHS|Invesco S&P 500 Equal Weight Consumer Staples ETF  |P|RHS|Y|100|N|RHS
-RIF|RMR Real Estate Income Fund (MD) Common Stock|A|RIF|N|100|N|RIF
 RIG|Transocean Ltd (Switzerland) Common Stock|N|RIG|N|100|N|RIG
 RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
 RINF|ProShares Inflation Expectations ETF|P|RINF|Y|100|N|RINF
@@ -4758,7 +4758,7 @@ TOK|iShares MSCI Kokusai ETF|P|TOK|Y|100|N|TOK
 TOKE|Cambria Cannabis ETF|Z|TOKE|Y|100|N|TOKE
 TOL|Toll Brothers, Inc. Common Stock|N|TOL|N|100|N|TOL
 TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
-TOT|Total S.A.|N|TOT|N|100|N|TOT
+TOT|Total SE|N|TOT|N|100|N|TOT
 TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TPAY|Tortoise Digital Payments Infrastructure Fund|Z|TPAY|Y|100|N|TPAY
 TPB|Turning Point Brands, Inc. Common Stock|N|TPB|N|100|N|TPB
@@ -5373,4 +5373,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0729202021:32||||||
+File Creation Time: 0730202014:02||||||
