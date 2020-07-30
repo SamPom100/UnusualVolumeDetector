@@ -73,7 +73,7 @@ class mainObj:
 main = mainObj()
 
 # commands
-data = main.getData("ANVS")
+data = main.getData("KODK")
 # main.printData(data)
 # main.barGraph(data)
 main.lineGraph(data)
