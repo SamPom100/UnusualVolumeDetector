@@ -72,4 +72,4 @@ class mainObj:
 
 
 # input desired anomaly standard deviation cuttoff
-mainObj().main_func(6)
+mainObj().main_func(12)
