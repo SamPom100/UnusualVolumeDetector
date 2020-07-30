@@ -7,6 +7,7 @@ import datetime
 import numpy as np
 import sys
 from stocklist import NasdaqController
+from tqdm import tqdm
 
 
 class mainObj:
@@ -48,28 +49,29 @@ class mainObj:
         return d
 
     def customPrint(self, d, tick):
-        if d['Dates']:
-            print("\n*******  " + tick.upper() + "  *******")
-            print("Ticker is: "+tick.upper())
-            for i in range(len(d['Dates'])):
-                str1 = str(d['Dates'][i])
-                str2 = str(d['Volume'][i])
-                print(str1 + " - " + str2)
-            print("*********************")
+        print("\n\n\n*******  " + tick.upper() + "  *******")
+        print("Ticker is: "+tick.upper())
+        for i in range(len(d['Dates'])):
+            str1 = str(d['Dates'][i])
+            str2 = str(d['Volume'][i])
+            print(str1 + " - " + str2)
+        print("*********************\n\n\n")
 
     def main_func(self, cutoff):
         StocksController = NasdaqController(True)
         list_of_tickers = StocksController.getList()
         # list_of_tickers = ['aapl', 'amzn', 'nvda', 'ostk', 'msft',
-        #                  'fb', 'shop', 'baba', 'tmus', 'f', 'sq', 'docu', 'nflx']
+        #                  'fb', 'shop', 'baba', 'tmus', 'f', 'sq', 'docu', 'nflx', 'KODK']
         print("-- updates complete --")
         start_time = time.time()
-        for x in list_of_tickers:
-            test = (self.find_anomalies_two(self.getData(x), cutoff))
-            self.customPrint(test, x)
+        for x in tqdm(list_of_tickers):
+            d = (self.find_anomalies_two(self.getData(x), cutoff))
+            if d['Dates']:
+                self.customPrint(d, x)
+
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
 
 # input desired anomaly standard deviation cuttoff
-mainObj().main_func(12)
+mainObj().main_func(10)
