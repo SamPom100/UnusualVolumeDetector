@@ -12,7 +12,7 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 -open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
 
 -run the market_scanner.py and it will print out results into the terminal
--you can also graph any ticker in graph.py
+-you can also graph any ticker's volume in grapher.py
 
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
