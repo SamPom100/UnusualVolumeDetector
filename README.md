@@ -4,6 +4,17 @@
 This scans every ticker on the market, gets their last 6 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).
 
 
+How to run this:
+
+-download your favorite Python IDE. (I use VSCode)
+
+-get my script from GitHub
+
+-open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
+
+-run the code and it will print out results into the terminal
+
+
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
 
