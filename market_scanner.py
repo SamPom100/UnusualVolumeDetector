@@ -62,7 +62,6 @@ class mainObj:
         list_of_tickers = StocksController.getList()
         # list_of_tickers = ['aapl', 'amzn', 'nvda', 'ostk', 'msft',
         #                  'fb', 'shop', 'baba', 'tmus', 'f', 'sq', 'docu', 'nflx', 'KODK']
-        print("-- updates complete --")
         start_time = time.time()
         for x in tqdm(list_of_tickers):
             d = (self.find_anomalies_two(self.getData(x), cutoff))
