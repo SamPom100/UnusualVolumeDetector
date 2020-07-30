@@ -57,16 +57,23 @@ class mainObj:
             print(str1 + " - " + str2)
         print("*********************\n\n\n")
 
+    def days_between(self, d1, d2):
+        d1 = datetime.datetime.strptime(d1, "%Y-%m-%d")
+        d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
+        return abs((d2 - d1).days)
+
     def main_func(self, cutoff):
         StocksController = NasdaqController(True)
         list_of_tickers = StocksController.getList()
-        # list_of_tickers = ['aapl', 'amzn', 'nvda', 'ostk', 'msft',
-        #                  'fb', 'shop', 'baba', 'tmus', 'f', 'sq', 'docu', 'nflx', 'KODK']
+        currentDate = datetime.datetime.strptime(
+            date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
         for x in tqdm(list_of_tickers):
             d = (self.find_anomalies_two(self.getData(x), cutoff))
             if d['Dates']:
-                self.customPrint(d, x)
+                for i in range(len(d['Dates'])):
+                    if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= 3:
+                        self.customPrint(d, x)
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))

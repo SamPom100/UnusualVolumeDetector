@@ -60,7 +60,6 @@ class mainObj:
         random_data_mean = np.mean(random_data)
         # Set upper and lower limit to 3 standard deviation
         anomaly_cut_off = random_data_std * 4
-
         lower_limit = random_data_mean - anomaly_cut_off
         upper_limit = random_data_mean + anomaly_cut_off
         # Generate outliers
