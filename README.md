@@ -14,8 +14,9 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 -run the market_scanner.py and it will print out results into the terminal
 -you can also graph any ticker's volume in grapher.py
 
-Line 17 controls the amount of months of historical volume the script gets
-Line 77 controls the amount of days before today that it will alert you
+## Controlling the Script
+-Line 17 controls the amount of months of historical volume the script gets
+-Line 77 controls the amount of days before today that it will alert you
 
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
