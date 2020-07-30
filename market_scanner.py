@@ -80,4 +80,5 @@ class mainObj:
 
 
 # input desired anomaly standard deviation cuttoff
+# run time around 50 minutes for every single ticker.
 mainObj().main_func(10)
