@@ -63,20 +63,30 @@ class mainObj:
         return abs((d2 - d1).days)
 
     def main_func(self, cutoff):
-        StocksController = NasdaqController(True)
-        list_of_tickers = StocksController.getList()
-        currentDate = datetime.datetime.strptime(
-            date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
-        start_time = time.time()
-        for x in tqdm(list_of_tickers):
-            d = (self.find_anomalies_two(self.getData(x), cutoff))
-            if d['Dates']:
-                for i in range(len(d['Dates'])):
-                    if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= 3:
-                        self.customPrint(d, x)
+    	# create results.txt file to hold the output tickers
+    	f = open('results.txt', 'w')
 
-        print("\n\n\n\n--- this took %s seconds to run ---" %
-              (time.time() - start_time))
+    	StocksController = NasdaqController(True)
+    	list_of_tickers = StocksController.getList()
+    	currentDate = datetime.datetime.strptime(date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
+    	start_time = time.time()
+
+    	for x in tqdm(list_of_tickers):
+    		d = (self.find_anomalies_two(self.getData(x), cutoff))
+    		if d['Dates']:
+    			for i in range(len(d['Dates'])):
+    				if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= 3:
+    					self.customPrint(d, x)
+    					# add ticker to results.txt file
+    					f.write(x + '\n')
+
+    	# print("\n\n\n\n--- this took %s seconds to run ---" %
+    	#       (time.time() - start_time))
+
+    	# print the time in minutes instead of seconds
+    	print("\n\n\n\n--- this took {} minutes to run ---\n\n".format(int((time.time() - start_time) / 60)))
+
+    	f.close()
 
 
 # input desired anomaly standard deviation cuttoff

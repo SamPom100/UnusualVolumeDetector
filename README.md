@@ -16,14 +16,17 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 -open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
 
 -run the market_scanner.py and it will print out results into the terminal
--you can also graph any ticker's volume in grapher.py
+
+-you can also graph the anomalous ticker's volume in grapher.py (as well as any ticker(s) you want by editing the code)
+
+-open all the anomalous tickers in robinhood with openRobinhood.py
 
 ## Controlling the Script
 -Line 17 controls the amount of months of historical volume the script gets
 
--Line 75 controls the amount of days before today that it will alert you
+-Line 81 controls the amount of days before today that it will alert you
 
--Line 84 controls the number of standard deviations away from the mean volume
+-Line 103 controls the number of standard deviations away from the mean volume
 
 
 
