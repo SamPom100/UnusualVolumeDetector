@@ -25,6 +25,21 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 -Line 84 controls the number of standard deviations away from the mean volume
 
+## Enabling Email
+Create a new file called email_config.txt and add:
+
+```
+[email-config]
+enabled=true
+server="smtp.gmail.com"
+from_email=""
+password=""
+to_emails = ["test@test.com", "test1@test.com"]
+```
+
+Fill in your GMail from email, password, and your to email(s).
+Email can be disabled by setting enabled to false.
+
 
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
