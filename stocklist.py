@@ -38,19 +38,34 @@ class NasdaqController:
                                     ".txt", open(filepath, 'wb').write)
 
         all_listed = open("data/alllisted.txt", 'w')
-
+        all_tickers = []
+        tickers_to_exclude = []
+        # Compile list of all tickers possible
         for filename, filepath in self.filenames.items():
             with open(filepath, "r") as file_reader:
                 for i, line in enumerate(file_reader, 0):
                     if i == 0:
                         continue
-
-                    line = line.strip().split("|")
-
-                    if line[0] == "" or line[1] == "":
+                    line_split = line.strip().split("|")
+                    if line_split[0] == "" or line_split[1] == "":
                         continue
+                    all_tickers.append(line)
+        # Compile list of tickers to exclude
+        with open("data/excluded.txt", "r") as file_reader_excluded:
+            for j, line_excluded in enumerate(file_reader_excluded, 0):
+                if j == 0:
+                    continue
+                line_excluded = line_excluded.strip().split("|")
+                if line_excluded[0] == "" or line[1] == "" or line_excluded[0].startswith('#'):
+                    continue
+                tickers_to_exclude.append(line_excluded[0])
 
-                    all_listed.write(line[0] + ",")
-                    global exportList
-                    exportList.append(line[0])
-                    all_listed.write(line[0] + "|" + line[1] + "\n")
+        # Output all tickers - tickers to exclude
+        for y in all_tickers:
+            line = y.strip().split("|")
+            if line[0] == "" or line[1] == "" or line[0] in tickers_to_exclude:
+                continue
+            all_listed.write(line[0] + ",")
+            global exportList
+            exportList.append(line[0])
+            all_listed.write(line[0] + "|" + line[1] + "\n")
