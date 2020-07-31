@@ -1,4 +1,5 @@
 # Tickers with large float that are not likely to run much can be excluded
+# These are the tickers returned from Finviz when searching for price > $10 and float > 20M
 TERP
 CIIC
 PINS
