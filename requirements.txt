@@ -5,3 +5,4 @@ numpy==1.18.4
 mplcursors==0.3
 python_dateutil==2.8.1
 tqdm==4.48.0
+joblib
