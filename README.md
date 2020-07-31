@@ -15,9 +15,9 @@ Alternatively,
 3) Open project in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
 
 ## How to run
-Build docker image by running
+Build docker image by running commands below, from the same directory as Dockerfile.
 <pre>
-docker build docker build --tag NAME:VERSION . ie docker build --tag wsb:1.0 .
+docker build --tag NAME:VERSION . ie docker build --tag wsb:1.0 .
 </pre>
 You will be presented with a message
 <pre>
