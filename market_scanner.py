@@ -8,7 +8,9 @@ import numpy as np
 import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
+
 from joblib import Parallel, delayed
+import multiprocessing
 
 
 class mainObj:
@@ -77,7 +79,7 @@ class mainObj:
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
 
-        Parallel(n_jobs=16)(delayed(self.parallel_wrapper)(x, cutoff, currentDate) for x in tqdm(list_of_tickers) )
+        Parallel(n_jobs=multiprocessing.cpu_count())(delayed(self.parallel_wrapper)(x, cutoff, currentDate) for x in tqdm(list_of_tickers) )
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
