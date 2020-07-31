@@ -9,7 +9,7 @@ import matplotlib
 import matplotlib.dates as mdates
 from dateutil import parser
 import numpy as np
-
+from pathlib import Path
 
 class mainObj:
     def getData(self, ticker):
@@ -26,7 +26,7 @@ class mainObj:
             print("\n---- {} ----".format(stock))
             print(cleanData_print.to_string(index=False))
 
-    def barGraph(self, data, stock):
+    def barGraph(self, data, stock, save):
         data.reset_index(level=0, inplace=True)
         tempList = []
         for x in data['Date']:
@@ -42,9 +42,13 @@ class mainObj:
         mplcursors.cursor(hover=True)
         ################
         plt.title(stock)
-        plt.show()
 
-    def lineGraph(self, data, stock):
+        if save:
+            plt.savefig(file_path)
+        else:
+            plt.show()
+
+    def lineGraph(self, data, stock, save):
         data.reset_index(level=0, inplace=True)
         fig, ax = plt.subplots(figsize=(15, 7))
         ax.plot(data['Date'], data['Volume'])
@@ -56,7 +60,11 @@ class mainObj:
         pastDate = currentDate - dateutil.relativedelta.relativedelta(months=4)
 
         plt.title(stock)
-        plt.show()
+
+        if save:
+            plt.savefig(file_path)
+        else:
+            plt.show()
 
     def find_anomalies(self, random_data):
         anomalies = []
@@ -85,9 +93,18 @@ with open("results.txt", "r") as f:
 
 # results = ['AMZN']
 
-for stock in results:
-    data = main.getData(stock)
-    #main.printData(data, stock)
-    #main.barGraph(data, stock)
-    main.lineGraph(data, stock)
+save_or_print = input("Do you want to save the {} graphs as images or print them to screen? [S/p]: ".format(len(results)))
 
+if save_or_print.lower() == 'p':
+    save = False
+else:
+    save = True
+
+for stock in results:
+    # create Path object so it works for all OS's
+    file_path = Path("figures/{}_{}.png".format(stock, datetime.date.today()))
+
+    data = main.getData(stock)
+    #main.printData(data, stock, save)
+    #main.barGraph(data, stock, save)
+    main.lineGraph(data, stock, save)
