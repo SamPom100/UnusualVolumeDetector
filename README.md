@@ -14,7 +14,7 @@ $ git clone https://github.com/SamPom100/UnusualVolumeDetector.git
 
 Get packages
 ```
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 Run the app
