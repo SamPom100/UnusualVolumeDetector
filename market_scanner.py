@@ -9,11 +9,15 @@ import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
 
-from joblib import Parallel, delayed
+from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 
 
-class mainObj:
+class marketScanner:
+
+    def __init__(self):
+        pass
+
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
@@ -65,12 +69,17 @@ class mainObj:
         d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
         return abs((d2 - d1).days)
 
-    def parallel_wrapper(self,x, cutoff, currentDate):
+    def parallel_wrapper(self,x, cutoff, currentDate, positive_scans):
         d = (self.find_anomalies_two(self.getData(x), cutoff))
         if d['Dates']:
             for i in range(len(d['Dates'])):
                 if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= 3:
                     self.customPrint(d, x)
+                    stonk = dict()
+                    stonk['Ticker'] = x
+                    stonk['TargetDate'] = d['Dates'][0]
+                    stonk['TargetVolume'] = d['Volume'][0]
+                    positive_scans.append(stonk)
 
     def main_func(self, cutoff):
         StocksController = NasdaqController(True)
@@ -79,12 +88,19 @@ class mainObj:
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
 
-        Parallel(n_jobs=multiprocessing.cpu_count())(delayed(self.parallel_wrapper)(x, cutoff, currentDate) for x in tqdm(list_of_tickers) )
+        manager = multiprocessing.Manager()
+        positive_scans = manager.list()
+
+        with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
+            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans) for x in tqdm(list_of_tickers) )
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
+        return positive_scans
 
+if __name__ == '__main__':
+    marketScanner().main_func(10)
 # input desired anomaly standard deviation cuttoff
 # run time around 50 minutes for every single ticker.
-mainObj().main_func(10)
+#marketScanner().main_func(10)
