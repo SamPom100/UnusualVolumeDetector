@@ -19,13 +19,14 @@ class mainObj:
         data = yf.download(ticker, pastDate, currentDate)
         return data[["Volume"]]
 
-    def printData(self, data):
+    def printData(self, data, stock):
         with pd.option_context('display.max_rows', None, 'display.max_columns', None):
             cleanData_print = data.copy()
             cleanData_print.reset_index(level=0, inplace=True)
+            print("\n---- {} ----".format(stock))
             print(cleanData_print.to_string(index=False))
 
-    def barGraph(self, data):
+    def barGraph(self, data, stock):
         data.reset_index(level=0, inplace=True)
         tempList = []
         for x in data['Date']:
@@ -40,9 +41,10 @@ class mainObj:
             matplotlib.ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
         mplcursors.cursor(hover=True)
         ################
+        plt.title(stock)
         plt.show()
 
-    def lineGraph(self, data):
+    def lineGraph(self, data, stock):
         data.reset_index(level=0, inplace=True)
         fig, ax = plt.subplots(figsize=(15, 7))
         ax.plot(data['Date'], data['Volume'])
@@ -52,6 +54,8 @@ class mainObj:
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         pastDate = currentDate - dateutil.relativedelta.relativedelta(months=4)
+
+        plt.title(stock)
         plt.show()
 
     def find_anomalies(self, random_data):
@@ -72,8 +76,18 @@ class mainObj:
 # setup
 main = mainObj()
 
-# commands
-data = main.getData("KODK")
-# main.printData(data)
-# main.barGraph(data)
-main.lineGraph(data)
+# open results file (contains stocks from market_scanner.py output)
+with open("results.txt", "r") as f:
+    results = f.read().splitlines()
+
+# If you just want the plot for a stock of your choice comment out 
+# the with-open block above and uncomment the line below
+
+# results = ['AMZN']
+
+for stock in results:
+    data = main.getData(stock)
+    #main.printData(data, stock)
+    #main.barGraph(data, stock)
+    main.lineGraph(data, stock)
+
