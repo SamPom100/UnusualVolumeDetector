@@ -3,7 +3,7 @@ from flask import Flask, request, send_from_directory, render_template
 
 import numpy
 
-from market_scanner import marketScanner
+from market_scanner import mainObj
 
 app = flask.Flask(__name__, static_url_path='')
 app.config["DEBUG"] = False
@@ -25,6 +25,6 @@ def home():
 if __name__ == "__main__":
     stonk_search = mainObj()
     stonks = stonk_search.main_func(10)
-    print(stonks)
+    #print(stonks)
     app.run(host='0.0.0.0',port='5000') # run the app on LAN
     #app.run() # run the app on your machine
