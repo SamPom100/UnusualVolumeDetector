@@ -55,10 +55,10 @@ class NasdaqController:
             for j, line_excluded in enumerate(file_reader_excluded, 0):
                 if j == 0:
                     continue
-                line_excluded = line_excluded.strip()
-                if line_excluded.startswith('#'):
+                line_split = line_excluded.strip().split("|")
+                if line_split[0] == "":
                     continue
-                tickers_to_exclude.append(line_excluded)
+                tickers_to_exclude.append(line_split[0])
         print("Excluded tickers = " + str(len(tickers_to_exclude)))
         # Output all tickers - tickers to exclude
         for y in all_tickers:
