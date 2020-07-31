@@ -2,9 +2,9 @@
 
 This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
 
-## [Website Link!](http://165.22.228.6/ ):
+## [Website Link](http://165.22.228.6/ ):
 
-[credit!](https://www.reddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
+[credit](https://www.reddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
 
 ## How to run this:
