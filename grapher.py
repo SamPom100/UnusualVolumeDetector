@@ -84,6 +84,9 @@ class mainObj:
 # setup
 main = mainObj()
 
+# create figures dir if doesn't exit
+Path("figures/").mkdir(exist_ok=True)
+
 # open results file (contains stocks from market_scanner.py output)
 with open("results.txt", "r") as f:
     results = f.read().splitlines()
@@ -101,7 +104,7 @@ else:
     save = True
 
 for stock in results:
-    # create Path object so it works for all OS's
+    # use Path object so it works for all OS's
     file_path = Path("figures/{}_{}.png".format(stock, datetime.date.today()))
 
     data = main.getData(stock)
