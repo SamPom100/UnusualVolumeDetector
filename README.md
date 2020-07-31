@@ -8,21 +8,39 @@ Docker - install Docker https://docs.docker.com/get-docker/
 
 Alternatively,
 
-1) download your favorite Python IDE. (I use VSCode)
+1) download your favorite Python IDE. (For example, the project creator uses VSCode)
 
 2) Clone project from GitHub
 
 3) Open project in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
 
--run the market_scanner.py and it will print out results into the terminal
--you can also graph any ticker's volume in grapher.py
+## How to run
+Build docker image by running
+<pre>
+docker build docker build --tag NAME:VERSION . ie docker build --tag wsb:1.0 .
+</pre>
+You will be presented with a message
+<pre>
+Successfully built ID
+Successfully tagged wsb:1.0
+</pre>
+Then run
+<pre>
+docker run  -ti ID bash
+Once inside
+python /opt/wsb/market_scanner.py
+</pre>
+
+Alternatively,
+1) run the market_scanner.py and it will print out results into the terminal
+2) you can also graph any ticker's volume in grapher.py
 
 ## Controlling the Script
--Line 17 controls the amount of months of historical volume the script gets
+Line 17 controls the amount of months of historical volume the script gets
 
--Line 75 controls the amount of days before today that it will alert you
+Line 75 controls the amount of days before today that it will alert you
 
--Line 84 controls the number of standard deviations away from the mean volume
+Line 84 controls the number of standard deviations away from the mean volume
 
 
 
