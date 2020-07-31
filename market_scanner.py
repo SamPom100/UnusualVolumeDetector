@@ -71,16 +71,12 @@ class mainObj:
     	currentDate = datetime.datetime.strptime(date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
     	start_time = time.time()
 
-    	# create array to hold anomalous tickers
-    	results = []
-
     	for x in tqdm(list_of_tickers):
     		d = (self.find_anomalies_two(self.getData(x), cutoff))
     		if d['Dates']:
     			for i in range(len(d['Dates'])):
     				if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= 3:
     					self.customPrint(d, x)
-    					results.append(x)
     					# add ticker to results.txt file
     					f.write(x + '\n')
 
@@ -89,11 +85,6 @@ class mainObj:
 
     	# print the time in minutes instead of seconds
     	print("\n\n\n\n--- this took {} minutes to run ---\n\n".format(int((time.time() - start_time) / 60)))
-
-    	# print all results in a row if you want
-    	print("---- RESULTS ----\n")
-    	for stock in results:
-    		print(stock)
 
     	f.close()
 
