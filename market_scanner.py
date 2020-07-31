@@ -103,4 +103,3 @@ if __name__ == '__main__':
     mainObj().main_func(10)
 # input desired anomaly standard deviation cuttoff
 # run time around 50 minutes for every single ticker.
-#marketScanner().main_func(10)
