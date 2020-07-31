@@ -13,7 +13,7 @@ from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 
 
-class marketScanner:
+class mainObj:
 
     def __init__(self):
         pass
@@ -100,7 +100,7 @@ class marketScanner:
         return positive_scans
 
 if __name__ == '__main__':
-    marketScanner().main_func(10)
+    mainObj().main_func(10)
 # input desired anomaly standard deviation cuttoff
 # run time around 50 minutes for every single ticker.
 #marketScanner().main_func(10)
