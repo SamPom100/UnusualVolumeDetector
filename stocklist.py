@@ -47,7 +47,7 @@ class NasdaqController:
 
                     line = line.strip().split("|")
 
-                    #line[6] and line[4] is for ETFs. Let's skip those to make this faster.
+                    # line[6] and line[4] is for ETFs. Let's skip those to make this faster.
                     if line[0] == "" or line[1] == "" or (filename == 'nasdaqlisted' and line[6] == 'Y') or (filename == 'otherlisted' and line[4] == 'Y'):
                         continue
 
