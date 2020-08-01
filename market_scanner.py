@@ -37,7 +37,7 @@ class mainObj:
         sys.stdout = sys.__stdout__
         return data[["Volume"]]
 
-    def find_anomalies(self, data, cutoff, currentDate):
+    def find_anomalies(self, data, currentDate):
         global STD_CUTTOFF
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
@@ -54,8 +54,8 @@ class mainObj:
         print(d)
         print("*********************\n\n\n")
 
-  def parallel_wrapper(self,x, cutoff, currentDate, positive_scans):
-        d = (self.find_anomalies(self.getData(x), cutoff, currentDate))
+    def parallel_wrapper(self,x, currentDate, positive_scans):
+        d = (self.find_anomalies(self.getData(x), currentDate))
         if d.empty:
             return
 
