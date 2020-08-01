@@ -1,4 +1,4 @@
-# Unusual Volume Detector [New Website!  ](https://sampom100.github.io/UnusualVolumeDetector/):
+# Unusual Volume Detector --- [New Website!  ](https://sampom100.github.io/UnusualVolumeDetector/):
 
 This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
 
