@@ -2,6 +2,8 @@ import flask
 from flask_flatpages import FlatPages
 from flask_frozen import Freezer
 from flask import Flask, request, send_from_directory, render_template
+from shutil import copyfile
+import os
 
 import numpy
 
@@ -30,9 +32,11 @@ def home():
 
 
 if __name__ == "__main__":
+
     stonk_search = mainObj()
     stonks = stonk_search.main_func(10)
+    freezer.freeze()
+    copyfile('build/index.html', 'index.html')
     # print(stonks)
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine
-    freezer.freeze()
