@@ -17,7 +17,7 @@ import multiprocessing
 ###########################
 
 # Change variables to your liking then run the script
-MONTH_CUTTOFF = 6
+MONTH_CUTTOFF = 5
 DAY_CUTTOFF = 3
 STD_CUTTOFF = 10
 
@@ -59,7 +59,6 @@ class mainObj:
         d = (self.find_anomalies(self.getData(x), currentDate))
         if d.empty:
             return
-
         self.customPrint(d, x)
         stonk = dict()
         stonk['Ticker'] = x
