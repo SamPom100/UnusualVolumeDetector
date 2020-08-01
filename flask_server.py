@@ -20,14 +20,11 @@ def after_request(response):
 
 @app.route('/', methods=['GET'])
 def home():
-    return render_template('index.html', stonks=stonks)
+    return render_template('dynamic.html', stonks=stonks)
 
 if __name__ == "__main__":
     stonk_search = mainObj()
-    stonks = stonk_search.main_func(10)
-    '''stonks = list() #testing webinterface without rerunning script, ignore
-    #tmp = dict()
-    #stonks.append(tmp)
-    #print(stonks)'''
+    stonks = stonk_search.main_func()
+
     app.run(host='0.0.0.0',port='5000') # run the app on LAN
     #app.run() # run the app on your machine

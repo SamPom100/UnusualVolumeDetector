@@ -16,41 +16,36 @@ import multiprocessing
 # THIS IS THE MAIN SCRIPT #
 ###########################
 
-# Change variables to your liking then run the script
-MONTH_CUTTOFF = 6
-DAY_CUTTOFF = 3
-STD_CUTTOFF = 10
-
 class mainObj:
 
     def __init__(self):
-        pass
+# Change variables to your liking then run the script        
+        self.MONTH_CUTTOFF = 6
+        self.DAY_CUTTOFF = 3
+        self.STD_CUTTOFF = 10
 
     def getData(self, ticker):
-        global MONTH_CUTOFF
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         pastDate = currentDate - \
-            dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
+            dateutil.relativedelta.relativedelta(months=self.MONTH_CUTTOFF)
+
+        #potentially fixing an off-by-one bug(yfinance not getting data for currentDate), will test more after market close on monday. Doesn't break anything in the meantime
+        currentDate += dateutil.relativedelta.relativedelta(days=1)
+
         sys.stdout = open(os.devnull, "w")
-
-        #data = yf.download(ticker, pastDate, currentDate)
-        data = yf.download(tickers = ticker,period='6mo')
-        #comment above line out instead if you want the original window
-
+        data = yf.download(ticker, pastDate, currentDate)
         sys.stdout = sys.__stdout__
         return data[["Volume"]]
 
     def find_anomalies(self, data, currentDate):
-        global STD_CUTTOFF
-        global DAY_CUTTOFF
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
-        anomaly_cut_off = data_std * STD_CUTTOFF
+        anomaly_cut_off = data_std * self.STD_CUTTOFF
         upper_limit = data_mean + anomaly_cut_off
         data.reset_index(level=0, inplace=True)
         is_outlier = data['Volume'] > upper_limit
-        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=DAY_CUTTOFF))
+        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=self.DAY_CUTTOFF))
         return data[is_outlier & is_in_three_days]
 
     def customPrint(self, d, tick):
@@ -92,4 +87,6 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    mainObj().main_func()
+    results = mainObj().main_func()
+    for outlier in results:
+        print(outlier)
