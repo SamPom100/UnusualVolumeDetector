@@ -25,7 +25,7 @@ def home():
 if __name__ == "__main__":
     stonk_search = mainObj()
     stonks = stonk_search.main_func(10)
-    '''stonks = list()
+    '''stonks = list() #testing webinterface without rerunning script, ignore
     #tmp = dict()
     #stonks.append(tmp)
     #print(stonks)'''
