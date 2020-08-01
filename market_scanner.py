@@ -51,6 +51,7 @@ class mainObj:
         print("*********************\n\n\n")
 
 
+
     def parallel_wrapper(self,x, cutoff, currentDate, positive_scans):
         d = (self.find_anomalies(self.getData(x), cutoff, currentDate))
         if d.empty:
@@ -74,15 +75,17 @@ class mainObj:
         positive_scans = manager.list()
 
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
-            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans) for x in tqdm(list_of_tickers, miniters=1) )
+            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans)
+                       for x in tqdm(list_of_tickers, miniters=1))
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
         return positive_scans
 
+
 if __name__ == '__main__':
     sys.excepthook = show_exception_and_exit
     mainObj().main_func(10)
 # input desired anomaly standard deviation cuttoff
-# run time around 50 minutes for every single ticker.
+# run time around 50 minutes for every single ticker (not anymore with parallel processing).
