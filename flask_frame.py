@@ -29,5 +29,5 @@ if __name__ == "__main__":
     stonk_search = mainObj()
     stonks = stonk_search.main_func(10)
     # print(stonks)
-    # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
-    app.run()  # run the app on your machine
+    app.run(host='0.0.0.0', port='5000')  # run the app on LAN
+    # app.run()  # run the app on your machine
