@@ -24,6 +24,7 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 -Line 75 controls the amount of days before today that it will alert you
 -Line 84 controls the number of standard deviations away from the mean volume
 
+<img width="1347" alt="Screen Shot 2020-08-01 at 3 24 03 AM" src="https://user-images.githubusercontent.com/28206070/89097659-8fdeda00-d3a6-11ea-88f4-6c896eaadc59.png">
 
 ![j67nuj3cl0e51](https://user-images.githubusercontent.com/28206070/88943805-8d1ea080-d251-11ea-81ed-04138e21bf1f.png)
 
