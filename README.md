@@ -25,7 +25,7 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 ## Running the web interface
 - Requires Flask
-- run stonks.py
+- run flask_frame.py
 - webserver will start on port 5000. To use it on the same device, go to localhost:5000 in your favorite web browser. To access from LAN, go to server's_LAN_IP:5000 (assuming you're on a 192.168.1.x subnet)
 
 
