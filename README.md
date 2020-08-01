@@ -7,7 +7,6 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 [alternate website](https://www.reddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
 
-
 ## How to run this:
 
 -download your favorite Python IDE. (I use VSCode)
