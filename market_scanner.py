@@ -18,11 +18,10 @@ import multiprocessing
 
 class mainObj:
 
-    def __init__(self):
-# Change variables to your liking then run the script        
-        self.MONTH_CUTTOFF = 6
-        self.DAY_CUTTOFF = 3
-        self.STD_CUTTOFF = 10
+    def __init__(self,_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10): #default params 
+        self.MONTH_CUTTOFF = _month_cuttoff
+        self.DAY_CUTTOFF = _day_cuttoff
+        self.STD_CUTTOFF = _std_cuttoff
 
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
@@ -87,6 +86,6 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    results = mainObj().main_func()
+    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func() #customize these params to your liking
     for outlier in results:
         print(outlier)

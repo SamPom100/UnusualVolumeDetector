@@ -12,7 +12,10 @@ from market_scanner import mainObj
 
 app = flask.Flask(__name__, static_url_path='')
 app.config["DEBUG"] = False
-app.config['SECRET_KEY'] = 'deditaded wam'
+
+SECRET_KEY = os.getenv('SECRET_KEY', 'more_deditated_wam') #pulls SECRET_KEY from env var, else sets as 'more_detitaded_wam'
+app.config['SECRET_KEY'] = SECRET_KEY
+
 pages = FlatPages(app)
 freezer = Freezer(app)
 
@@ -38,6 +41,3 @@ if __name__ == "__main__":
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
-    # print(stonks)
-    # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
-    # app.run()  # run the app on your machine

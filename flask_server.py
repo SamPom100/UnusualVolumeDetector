@@ -1,13 +1,15 @@
 import flask
 from flask import Flask, request, send_from_directory, render_template
-
+import os
 import numpy
 
 from market_scanner import mainObj
 
 app = flask.Flask(__name__, static_url_path='')
 app.config["DEBUG"] = False
-app.config['SECRET_KEY'] = 'deditaded wam'
+
+SECRET_KEY = os.getenv('SECRET_KEY', 'deditated_wam') #pulls SECRET_KEY from env var, else sets as 'detitaded_wam'
+app.config['SECRET_KEY'] = SECRET_KEY
 
 
 

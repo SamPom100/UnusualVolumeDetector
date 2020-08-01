@@ -6,14 +6,12 @@ import errno
 # this is used to get all tickers from the market.
 
 
-exportList = []
-
 
 class NasdaqController:
-    def getList(self):
-        return exportList
 
     def __init__(self, update=True):
+
+        self.exportList = []
 
         self.filenames = {
             "otherlisted": "data/otherlisted.txt",
@@ -56,6 +54,8 @@ class NasdaqController:
                         continue
 
                     all_listed.write(line[0] + ",")
-                    global exportList
-                    exportList.append(line[0])
+                    self.exportList.append(line[0])
                     all_listed.write(line[0] + "|" + line[1] + "\n")
+
+    def getList(self):
+        return self.exportList
