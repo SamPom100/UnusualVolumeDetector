@@ -26,7 +26,7 @@ def after_request(response):
 
 @app.route('/', methods=['GET'])
 def home():
-    return render_template('index_temp.html', stonks=stonks)
+    return render_template('template.html', stonks=stonks)
 
 
 if __name__ == "__main__":

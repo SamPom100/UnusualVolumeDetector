@@ -24,8 +24,11 @@
     ></script>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
-      h1 {font-family: 'Lexend Deca', sans-serif; text-align: center; color: white; padding-top: 25px;}
+      h1 {font-family: 'Lexend Deca', sans-serif; text-align: center; color: white; padding-top: 25vh;}
       h2 {font-family: 'Lexend Deca', sans-serif; font-size: 20px; text-align: center; color: white;}
+
+      @media (min-width: 1024px) { h1 { font-size: 20vw; } }
+
     </style>
   </head>
 
@@ -38,7 +41,7 @@
       class="d-flex flex-column justify-content-center align-items-center"
       style="height: 100vh; margin-left: 5vw; margin-right: 5vw;"
     >
-      <h1 class="mt-auto display-1">Abnormal Volume Scanner</h1>
+    <h1 class="mt-auto display-3">Abnormal Volume Scanner</h1>
       <h2 >
         Get alerted when a stock's volume exceeds 10 standard deviations from the mean
         within the last 3 days. Find the next $KODK.
