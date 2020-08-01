@@ -4,7 +4,8 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 ## [Website](https://sampom100.github.io/UnusualVolumeDetector/):
 
-[alternate website](https://www.reddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
+[alternate website](http://165.22.228.6/)
+[alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
 
 ## How to run this:
