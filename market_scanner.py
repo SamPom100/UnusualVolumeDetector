@@ -78,7 +78,8 @@ class mainObj:
                     stonk = dict()
                     stonk['Ticker'] = x
                     stonk['TargetDate'] = d['Dates'][0]
-                    stonk['TargetVolume'] = '{:,.2f}'.format(d['Volume'][0])
+                    stonk['TargetVolume'] = str(
+                        '{:,.2f}'.format(d['Volume'][0]))[:-3]
                     positive_scans.append(stonk)
 
     def main_func(self):
@@ -103,47 +104,3 @@ class mainObj:
 
 if __name__ == '__main__':
     mainObj().main_func()
-
-
-"""
-Some legacy code down below
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    def find_anomalies(self, data, cutoff):
-        data_std = np.std(data['Volume'])
-        data_mean = np.mean(data['Volume'])
-        anomaly_cut_off = data_std * cutoff
-        upper_limit = data_mean + anomaly_cut_off
-        indexs = data[data['Volume'] > upper_limit].index.tolist()
-        outliers = data[data['Volume'] > upper_limit].Volume.tolist()
-        index_clean = [str(x)[:-9] for x in indexs]
-        d = {'Dates': index_clean, 'Volume': outliers}
-        return d
-"""
