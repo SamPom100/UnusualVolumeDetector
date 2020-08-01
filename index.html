@@ -5,6 +5,7 @@
   <head>
     <title>Abnormal Volume Scanner</title>
     <meta charset="UTF-8" />
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -21,13 +22,30 @@
       integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
       crossorigin="anonymous"
     ></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+      h1 {font-family: 'Lexend Deca', sans-serif; text-align: center; color: white; padding-top: 25vh;}
+      h2 {font-family: 'Lexend Deca', sans-serif; font-size: 20px; text-align: center; color: white;}
+
+      @media (min-width: 1024px) { h1 { font-size: 20vw; } }
+
+    </style>
   </head>
+
+
+
+
+
   <body style="background-color: black;">
     <div
       class="d-flex flex-column justify-content-center align-items-center"
       style="height: 100vh; margin-left: 5vw; margin-right: 5vw;"
     >
-      <h1 class="mt-auto display-1">Abnormal Volume Scanner</h1>
+    <h1 class="mt-auto display-3">Abnormal Volume Scanner</h1>
+      <h2 >
+        Get alerted when a stock's volume exceeds 10 standard deviations from the mean
+        within the last 3 days. Find the next $KODK.
+      </h2>
       <table class="mb-auto table table-hover table-dark">
         <thead>
           <tr>
@@ -52,12 +70,89 @@
           <tr>
             <th scope="row">
               <a
+                href=" http://robinhood.com/stocks/CRS"
+                >CRS</a
+              >
+            </th>
+            <td>2020-07-31</td>
+            <td>10557100</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/CVEO"
+                >CVEO</a
+              >
+            </th>
+            <td>2020-07-29</td>
+            <td>19171900</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/PRK"
+                >PRK</a
+              >
+            </th>
+            <td>2020-07-31</td>
+            <td>2983600</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/RFP"
+                >RFP</a
+              >
+            </th>
+            <td>2020-07-30</td>
+            <td>5640300</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/ACHV"
+                >ACHV</a
+              >
+            </th>
+            <td>2020-07-30</td>
+            <td>69760400</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
                 href=" http://robinhood.com/stocks/DRIO"
                 >DRIO</a
               >
             </th>
             <td>2020-07-31</td>
             <td>5732200</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/DRTT"
+                >DRTT</a
+              >
+            </th>
+            <td>2020-07-30</td>
+            <td>12860600</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/FLDM"
+                >FLDM</a
+              >
+            </th>
+            <td>2020-07-31</td>
+            <td>64597600</td>
           </tr>
           
           <tr>
@@ -85,6 +180,17 @@
           <tr>
             <th scope="row">
               <a
+                href=" http://robinhood.com/stocks/HIHO"
+                >HIHO</a
+              >
+            </th>
+            <td>2020-07-31</td>
+            <td>2174500</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
                 href=" http://robinhood.com/stocks/LI"
                 >LI</a
               >
@@ -102,6 +208,28 @@
             </th>
             <td>2020-07-31</td>
             <td>3703600</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/PRPO"
+                >PRPO</a
+              >
+            </th>
+            <td>2020-07-30</td>
+            <td>97202900</td>
+          </tr>
+          
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/RGLS"
+                >RGLS</a
+              >
+            </th>
+            <td>2020-07-29</td>
+            <td>49427800</td>
           </tr>
           
           <tr>
@@ -148,19 +276,35 @@
             <td>5896100</td>
           </tr>
           
+          <tr>
+            <th scope="row">
+              <a
+                href=" http://robinhood.com/stocks/ZN"
+                >ZN</a
+              >
+            </th>
+            <td>2020-07-31</td>
+            <td>183981300</td>
+          </tr>
+          
         </tbody>
       </table>
       <body>
-        Gets the last 5 months of volume history for every ticker, and alerts
-        you when a stock's volume exceeds 10 standard deviations from the mean
-        within the last 3 days
-      </body>
-      <body>
         
-      <body>
-        <a href = "https://github.com/SamPom100/UnusualVolumeDetector">
-          GitHub
-        </a>
+        <body>
+          Made by Sam Pomerantz and contributors.
+        <body>
+          <span>
+          <a href = "https://github.com/SamPom100/UnusualVolumeDetector">
+            GitHub
+          </a>
+          <a>
+            •
+          </a>
+          <a href = "https://www.linkedin.com/in/pomerantzsam/">
+            LinkedIn
+          <a>
+          </span>
     </div>
   </body>
 </html>
