@@ -8,7 +8,6 @@ import numpy as np
 import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
-
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 
@@ -69,7 +68,7 @@ class mainObj:
         d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
         return abs((d2 - d1).days)
 
-    def parallel_wrapper(self,x, cutoff, currentDate, positive_scans):
+    def parallel_wrapper(self, x, cutoff, currentDate, positive_scans):
         d = (self.find_anomalies_two(self.getData(x), cutoff))
         if d['Dates']:
             for i in range(len(d['Dates'])):
@@ -92,14 +91,16 @@ class mainObj:
         positive_scans = manager.list()
 
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
-            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans) for x in tqdm(list_of_tickers) )
+            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans)
+                       for x in tqdm(list_of_tickers))
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
         return positive_scans
 
+
 if __name__ == '__main__':
     mainObj().main_func(10)
 # input desired anomaly standard deviation cuttoff
-# run time around 50 minutes for every single ticker.
+# run time around 50 minutes for every single ticker (not anymore with parallel processing).
