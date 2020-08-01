@@ -21,9 +21,11 @@ class mainObj:
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
-        pastDate = currentDate - dateutil.relativedelta.relativedelta(months=5)
+        #currentDate = currentDate + dateutil.relativedelta.relativedelta(days=1)
+        #pastDate = currentDate - dateutil.relativedelta.relativedelta(months=5)
         sys.stdout = open(os.devnull, "w")
-        data = yf.download(ticker, pastDate, currentDate)
+        #data = yf.download(ticker, pastDate, currentDate)
+        data = yf.download(tickers = ticker,period='6mo')
         sys.stdout = sys.__stdout__
         return data[["Volume"]]
 
@@ -92,6 +94,7 @@ class mainObj:
         positive_scans = manager.list()
 
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
+#        with parallel_backend('loky', n_jobs=1):
             Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans) for x in tqdm(list_of_tickers) )
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
