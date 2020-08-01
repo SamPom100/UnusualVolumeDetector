@@ -5,10 +5,10 @@ from flask import Flask, request, send_from_directory, render_template
 from shutil import copyfile
 import os
 import shutil
-
 import numpy
-
 from market_scanner import mainObj
+
+# this is used by me to generate the web page you can find at: https://sampom100.github.io/UnusualVolumeDetector/
 
 app = flask.Flask(__name__, static_url_path='')
 app.config["DEBUG"] = False
@@ -34,7 +34,7 @@ def home():
 
 if __name__ == "__main__":
     stonk_search = mainObj()
-    stonks = stonk_search.main_func(10)
+    stonks = stonk_search.main_func()
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')

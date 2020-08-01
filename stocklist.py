@@ -2,6 +2,10 @@ from ftplib import FTP
 import os
 import errno
 
+
+# this is used to get all tickers from the market.
+
+
 exportList = []
 
 
