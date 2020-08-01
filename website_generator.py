@@ -8,7 +8,7 @@ import shutil
 import numpy
 from market_scanner import mainObj
 
-# this is used by me to generate the web page you can find at: https://sampom100.github.io/UnusualVolumeDetector/
+# this is used by me AUTOMATICALLY to update the web page you can find at: https://sampom100.github.io/UnusualVolumeDetector/
 
 app = flask.Flask(__name__, static_url_path='')
 app.config["DEBUG"] = False
@@ -38,6 +38,9 @@ if __name__ == "__main__":
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
+    os.system('git add .')
+    os.system('git commit -m "updated website"')
+    os.system('git push origin master')
     # print(stonks)
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine
