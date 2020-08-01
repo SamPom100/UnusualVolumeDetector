@@ -2,13 +2,17 @@
 
 This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
 
-## [Website](https://sampom100.github.io/UnusualVolumeDetector/):
+## Website
 
+[Main Website](https://sampom100.github.io/UnusualVolumeDetector/)
 [alternate website](http://165.22.228.6/)
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
+## Easiest way to see this:
 
-## How to run this:
+Go to the [Website](https://sampom100.github.io/UnusualVolumeDetector/)
+
+## How to run the script:
 
 -download your favorite Python IDE. (I use VSCode)
 
