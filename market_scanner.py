@@ -9,8 +9,21 @@ import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
 
+from joblib import Parallel, delayed, parallel_backend
+import multiprocessing
+
+def show_exception_and_exit(exc_type, exc_value, tb):
+    import traceback
+    traceback.print_exception(exc_type, exc_value, tb)
+    input("Press key to exit.")
+    sys.exit(-1)
+
 
 class mainObj:
+
+    def __init__(self):
+        pass
+
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
@@ -37,10 +50,18 @@ class mainObj:
         print(d)
         print("*********************\n\n\n")
 
-    def days_between(self, d1, d2):
-        d1 = datetime.datetime.strptime(d1, "%Y-%m-%d")
-        d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
-        return abs((d2 - d1).days)
+
+    def parallel_wrapper(self,x, cutoff, currentDate, positive_scans):
+        d = (self.find_anomalies(self.getData(x), cutoff, currentDate))
+        if d.empty:
+            return
+
+        self.customPrint(d, x)
+        stonk = dict()
+        stonk['Ticker'] = x
+        stonk['TargetDate'] = d['Date'].iloc[0]
+        stonk['TargetVolume'] = d['Volume'].iloc[0]
+        positive_scans.append(stonk)
 
     def main_func(self, cutoff):
         StocksController = NasdaqController(True)
@@ -48,16 +69,20 @@ class mainObj:
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
-        for x in tqdm(list_of_tickers, miniters=1):
-            d = (self.find_anomalies(self.getData(x), cutoff, currentDate))
-            if d.empty:
-                continue
-            self.customPrint(d, x)
+
+        manager = multiprocessing.Manager()
+        positive_scans = manager.list()
+
+        with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
+            Parallel()(delayed(self.parallel_wrapper)(x, cutoff, currentDate, positive_scans) for x in tqdm(list_of_tickers, miniters=1) )
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
+        return positive_scans
 
+if __name__ == '__main__':
+    sys.excepthook = show_exception_and_exit
+    mainObj().main_func(10)
 # input desired anomaly standard deviation cuttoff
 # run time around 50 minutes for every single ticker.
-mainObj().main_func(10)

@@ -648,7 +648,6 @@ BURL|Burlington Stores, Inc. Common Stock|N|BURL|N|100|N|BURL
 BUY|USCF SummerHaven SHPEI Index Fund|P|BUY|Y|100|N|BUY
 BUYZ|Franklin Disruptive Commerce ETF|Z|BUYZ|Y|100|N|BUYZ
 BV|BrightView Holdings, Inc. Common Stock|N|BV|N|100|N|BV
-BVAL|Brand Value ETF|P|BVAL|Y|100|N|BVAL
 BVN|Buenaventura Mining Company Inc.|N|BVN|N|100|N|BVN
 BW|Babcock & Wilcox Enterprises, Inc. Common Stock|N|BW|N|100|N|BW
 BWA|BorgWarner Inc. Common Stock|N|BWA|N|100|N|BWA
@@ -1343,7 +1342,6 @@ ECNS|iShares MSCI China Small-Cap ETF|P|ECNS|Y|100|N|ECNS
 ECOM|ChannelAdvisor Corporation Common Stock|N|ECOM|N|100|N|ECOM
 ECON|Columbia Emerging Markets Consumer ETF|P|ECON|Y|100|N|ECON
 ECOZ|TrueShares ESG Active Opportunities ETF|P|ECOZ|Y|100|N|ECOZ
-ECT|ECA Marcellus Trust I Common Units of Beneficial Interest|N|ECT|N|100|N|ECT
 ED|Consolidated Edison, Inc. Common Stock|N|ED|N|100|N|ED
 EDC|Direxion Emerging Markets Bull 3X Shares|P|EDC|Y|100|N|EDC
 EDD|Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock|N|EDD|N|100|N|EDD
@@ -1953,7 +1951,6 @@ GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBUG|iPath Gold ETN|P|GBUG|Y|100|N|GBUG
 GBUY|Goldman Sachs New Age Consumer ETF|P|GBUY|Y|100|N|GBUY
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
-GCAP|GAIN Capital Holdings, Inc. Common Stock|N|GCAP|N|100|N|GCAP
 GCC|WisdomTree Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
 GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
@@ -2089,6 +2086,7 @@ GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Pre
 GNW|Genworth Financial Inc Common Stock|N|GNW|N|100|N|GNW
 GOAT|VanEck Vectors Morningstar Global Wide Moat ETF|Z|GOAT|Y|100|N|GOAT
 GOAU|US Global GO Gold and Precious Metal Miners ETF|P|GOAU|Y|100|N|GOAU
+GOED|1847 Goedeker Inc. Commom Stock|A|GOED|N|100|N|GOED
 GOEX|Global X Gold Explorers ETF|P|GOEX|Y|100|N|GOEX
 GOF|Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest|N|GOF|N|100|N|GOF
 GOL|Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares|N|GOL|N|100|N|GOL
@@ -2590,6 +2588,7 @@ ITGR|Integer Holdings Corporation Common Stock|N|ITGR|N|100|N|ITGR
 ITM|VanEck Vectors AMT-Free Intermediate Municipal Index ETF|Z|ITM|Y|100|N|ITM
 ITOT|iShares Core S&P Total U.S. Stock Market ETF|P|ITOT|Y|100|N|ITOT
 ITP|IT Tech Packaging, Inc. Common Stock|A|ITP|N|100|N|ITP
+ITRG|Integra Resources Corp. Common Shares|A|ITRG|N|100|N|ITRG
 ITT|ITT Inc. Common Stock |N|ITT|N|100|N|ITT
 ITUB|Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)|N|ITUB|N|100|N|ITUB
 ITW|Illinois Tool Works Inc. Common Stock|N|ITW|N|100|N|ITW
@@ -3837,6 +3836,7 @@ PRMW|Primo Water Corporation Common Stock|N|PRMW|N|100|N|PRMW
 PRNT|3D Printing (The) ETF|Z|PRNT|Y|100|N|PRNT
 PRO|PROS Holdings, Inc. Common Stock|N|PRO|N|100|N|PRO
 PROS|ProSight Global, Inc. Common Stock|N|PROS|N|100|N|PROS
+PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|PRPB.U|N|100|N|PRPB=
 PRS|Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058|N|PRS|N|100|N|PRS
 PRSP|Perspecta Inc. Common Stock |N|PRSP|N|100|N|PRSP
 PRT|PermRock Royalty Trust Trust Units|N|PRT|N|100|N|PRT
@@ -5373,4 +5373,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0730202014:02||||||
+File Creation Time: 0731202021:31||||||

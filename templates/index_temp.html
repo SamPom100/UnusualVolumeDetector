@@ -1,0 +1,67 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Abnormal Volume Scanner</title>
+    <meta charset="UTF-8" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body style="background-color: black;">
+    <div
+      class="d-flex flex-column justify-content-center align-items-center"
+      style="height: 100vh; margin-left: 5vw; margin-right: 5vw;"
+    >
+      <h1 class="mt-auto display-1">Abnormal Volume Scanner</h1>
+      <table class="mb-auto table table-hover table-dark">
+        <thead>
+          <tr>
+            <th scope="col">Ticker</th>
+            <th scope="col">Date</th>
+            <th scope="col">Volume</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for stonk in stonks %}
+          <tr>
+            <th scope="row">
+              <a
+                href=" {{ 'http://robinhood.com/stocks/{}'.format(stonk['Ticker']) }}"
+                >{{stonk['Ticker']}}</a
+              >
+            </th>
+            <td>{{stonk['TargetDate']}}</td>
+            <td>{{stonk['TargetVolume']}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <body>
+        Gets the last 5 months of volume history for every ticker, and alerts
+        you when a stock's volume exceeds 10 standard deviations from the mean
+        within the last 3 days
+      </body>
+      <body>
+        
+      <body>
+        <a href = "https://github.com/SamPom100/UnusualVolumeDetector">
+          GitHub
+        </a>
+    </div>
+  </body>
+</html>
