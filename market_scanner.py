@@ -10,6 +10,9 @@ from stocklist import NasdaqController
 from tqdm import tqdm
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
+import logging
+
+logging.basicConfig(filename="main_ouput.log", level=logging.INFO)
 
 ###########################
 # THIS IS THE MAIN SCRIPT #
@@ -55,13 +58,13 @@ class mainObj:
         return d
 
     def customPrint(self, d, tick):
-        print("\n\n\n*******  " + tick.upper() + "  *******")
-        print("Ticker is: "+tick.upper())
+        logging.info("\n\n\n*******  " + tick.upper() + "  *******")
+        logging.info("Ticker is: "+tick.upper())
         for i in range(len(d['Dates'])):
             str1 = str(d['Dates'][i])
             str2 = str(d['Volume'][i])
-            print(str1 + " - " + str2)
-        print("*********************\n\n\n")
+            logging.info(str1 + " - " + str2)
+        logging.info("*********************\n\n\n")
 
     def days_between(self, d1, d2):
         d1 = datetime.datetime.strptime(d1, "%Y-%m-%d")
@@ -95,13 +98,14 @@ class mainObj:
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                        for x in tqdm(list_of_tickers))
 
-        print("\n\n\n\n--- this took %s seconds to run ---" %
+        logging.info("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
         return positive_scans
 
 
 if __name__ == '__main__':
+    logging.info("Starting main application")
     mainObj().main_func()
 
 
