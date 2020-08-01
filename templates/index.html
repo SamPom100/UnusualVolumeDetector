@@ -1,0 +1,55 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Abnormal Volume Scanner</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
+
+    <style>
+      .dataTables_wrapper{
+        margin-bottom: auto;
+        margin-top: auto;
+        max-height: 75vh;
+
+      }
+    </style>
+
+  </head>
+  <body style="overflow-y: auto; background-color: #e9ecef;">
+    <div class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;margin-left:5vw; margin-right:5vw;">
+      <h1 class="mt-auto display-1">Abnormal Volume Scanner</h1>
+      <p class="lead">Get alerted when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. <a href = "https://github.com/SamPom100/UnusualVolumeDetector">Find the next $KODK.</a></p>
+      <table id="stonkstable" class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Ticker</th>
+              <th scope="col">Date</th>
+              <th scope="col">Volume</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for stonk in stonks %}
+          <tr>
+              <th scope="row"><a href=" {{ 'http://robinhood.com/stocks/{}'.format(stonk['Ticker']) }}">{{stonk['Ticker']}}</a></th>
+              <td>{{stonk['TargetDate']}}</td>
+              <td>{{stonk['TargetVolume']}}</td>
+            </tr>
+          {% endfor %}
+          </tbody>
+      </table>
+      </div>
+      <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <script>
+        $(document).ready( function () {
+          $('#stonkstable').DataTable();
+          });
+      </script>
+  </body>
+</html>
