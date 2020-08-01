@@ -27,6 +27,21 @@ Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 
 ![s9jtygygl0e51](https://user-images.githubusercontent.com/28206070/88943801-8c860a00-d251-11ea-833b-8e7685360ab2.png)
 
+### Docker
+
+Build the docker image using ```docker build```
+
+```
+docker build -t unusual-volume-detector:latest .
+```
+
+Run the docker image using docker run
+```
+docker run --rm -d --name unusual_volume_detector -p 5000:5000 unusual-volume-detector:latest
+```
+
+The main code take ~ 100 sec to run before the webserver will start.
+After that, open [http://localhost:5000](http://localhost:5000) for the webserver.
 
 ### Websites
 
@@ -36,6 +51,7 @@ Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
+Or run your own via docker container (above)
 
 ### Donations
 
