@@ -39,13 +39,14 @@ class mainObj:
 
     def find_anomalies(self, data, currentDate):
         global STD_CUTTOFF
+        global DAY_CUTTOFF
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
         anomaly_cut_off = data_std * STD_CUTTOFF
         upper_limit = data_mean + anomaly_cut_off
         data.reset_index(level=0, inplace=True)
         is_outlier = data['Volume'] > upper_limit
-        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=3))
+        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=DAY_CUTTOFF))
         return data[is_outlier & is_in_three_days]
 
     def customPrint(self, d, tick):
