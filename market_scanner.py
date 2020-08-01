@@ -78,7 +78,7 @@ class mainObj:
                     stonk = dict()
                     stonk['Ticker'] = x
                     stonk['TargetDate'] = d['Dates'][0]
-                    stonk['TargetVolume'] = d['Volume'][0]
+                    stonk['TargetVolume'] = '{:,.2f}'.format(d['Volume'][0])
                     positive_scans.append(stonk)
 
     def main_func(self):
