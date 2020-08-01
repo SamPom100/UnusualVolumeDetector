@@ -35,3 +35,8 @@ Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 [alternate website](http://165.22.228.6/)
 
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
+
+
+### Donations
+
+If you enjoy my work, please [donate here](https://www.paypal.me/SamPom100)
