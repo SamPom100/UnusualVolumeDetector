@@ -14,23 +14,17 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 
-## How to run the script:
+###How to run the script:
+- Download your favorite Python IDE. (I use VSCode)
+- Get my script from GitHub
+- Open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
+- Run the market_scanner.py and it will print out results into the terminal
+- You can also graph any ticker's volume in grapher.py
 
--download your favorite Python IDE. (I use VSCode)
-
--get my script from GitHub
-
--open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
-
--run the market_scanner.py and it will print out results into the terminal
--you can also graph any ticker's volume in grapher.py
-
-## Controlling the Script
--Line 17 controls the amount of months of historical volume the script gets
-
--Line 75 controls the amount of days before today that it will alert you
-
--Line 84 controls the number of standard deviations away from the mean volume
+###Controlling the Script
+- Line 17 controls the amount of months of historical volume the script gets
+- Line 75 controls the amount of days before today that it will alert you
+- Line 84 controls the number of standard deviations away from the mean volume
 
 <img width="1347" alt="Screen Shot 2020-08-01 at 3 24 03 AM" src="https://user-images.githubusercontent.com/28206070/89097659-8fdeda00-d3a6-11ea-88f4-6c896eaadc59.png">
 
