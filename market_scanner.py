@@ -8,6 +8,7 @@ import numpy as np
 import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
+
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 
