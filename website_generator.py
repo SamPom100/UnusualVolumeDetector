@@ -33,15 +33,16 @@ def home():
 
 
 if __name__ == "__main__":
+    os.system('git fetch')
     stonk_search = mainObj()
     stonks = stonk_search.main_func()
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
     # I'm lazy :)
-    #os.system('git add .')
-    #os.system('git commit -m "updated website"')
-    #os.system('git push origin master')
+    os.system('git add .')
+    os.system('git commit -m "updated website"')
+    os.system('git push origin master')
     # print(stonks)
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine
