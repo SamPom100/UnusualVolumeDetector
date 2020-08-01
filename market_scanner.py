@@ -16,7 +16,7 @@ import multiprocessing
 ###########################
 
 # Change variables to your liking then run the script
-MONTH_CUTTOFF = 6
+MONTH_CUTTOFF = 5
 DAY_CUTTOFF = 3
 STD_CUTTOFF = 10
 
