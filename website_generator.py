@@ -38,6 +38,7 @@ if __name__ == "__main__":
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
+    # I'm lazy :)
     os.system('git add .')
     os.system('git commit -m "updated website"')
     os.system('git push origin master')
