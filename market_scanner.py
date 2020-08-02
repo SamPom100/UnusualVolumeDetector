@@ -5,8 +5,11 @@ import dateutil.relativedelta
 from datetime import date
 import datetime
 import numpy as np
+import pandas as pd
 import sys
+
 from stocklist import NasdaqController
+
 from tqdm import tqdm
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
@@ -65,15 +68,21 @@ class mainObj:
         stonk['TargetVolume'] = d['Volume'].iloc[0]
         positive_scans.append(stonk)
 
-    def main_func(self):
+    def main_func(self,doFilter=False):
+        manager = multiprocessing.Manager()
+        positive_scans = manager.list()
+
         StocksController = NasdaqController(True)
         list_of_tickers = StocksController.getList()
+        if doFilter:
+            filtered_tickers = pd.read_csv('filtered_tickers.csv', names=['Ticker'], index_col=None, header=None).Ticker.astype('string')
+            list_of_tickers = list(filtered_tickers[filtered_tickers.isin(list_of_tickers)].values)
+
+        print(f'num tickers: {len(list_of_tickers)}')
+
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
-
-        manager = multiprocessing.Manager()
-        positive_scans = manager.list()
 
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
@@ -86,6 +95,6 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func() #customize these params to your liking
+    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func(doFilter=True) #customize these params to your liking
     for outlier in results:
         print(outlier)

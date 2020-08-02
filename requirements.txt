@@ -8,3 +8,4 @@ tqdm==4.48.0
 joblib
 flask
 multiprocessing
+pandas
