@@ -5,96 +5,88 @@ import dateutil.relativedelta
 from datetime import date
 import datetime
 import numpy as np
+import pandas as pd
 import sys
+
 from stocklist import NasdaqController
+
 from tqdm import tqdm
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
+
 
 ###########################
 # THIS IS THE MAIN SCRIPT #
 ###########################
 
-# Change variables to your liking then run the script
-MONTH_CUTTOFF = 5
-DAY_CUTTOFF = 3
-STD_CUTTOFF = 10
-
-
 class mainObj:
 
-    def __init__(self):
-        pass
+    def __init__(self,_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10): #default params 
+        self.MONTH_CUTTOFF = _month_cuttoff
+        self.DAY_CUTTOFF = _day_cuttoff
+        self.STD_CUTTOFF = _std_cuttoff
 
     def getData(self, ticker):
-        global MONTH_CUTOFF
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         pastDate = currentDate - \
-            dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
+            dateutil.relativedelta.relativedelta(months=self.MONTH_CUTTOFF)
+
+        #potentially fixing an off-by-one bug(yfinance not getting data for currentDate), will test more after market close on monday. Doesn't break anything in the meantime
+        currentDate += dateutil.relativedelta.relativedelta(days=1)
+
         sys.stdout = open(os.devnull, "w")
         data = yf.download(ticker, pastDate, currentDate)
         sys.stdout = sys.__stdout__
         return data[["Volume"]]
 
-    def find_anomalies(self, data):
-        global STD_CUTTOFF
-        indexs = []
-        outliers = []
+    def find_anomalies(self, data, currentDate):
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
-        anomaly_cut_off = data_std * STD_CUTTOFF
+        anomaly_cut_off = data_std * self.STD_CUTTOFF
         upper_limit = data_mean + anomaly_cut_off
         data.reset_index(level=0, inplace=True)
-        for i in range(len(data)):
-            temp = data['Volume'].iloc[i]
-            if temp > upper_limit:
-                indexs.append(str(data['Date'].iloc[i])[:-9])
-                outliers.append(temp)
-        d = {'Dates': indexs, 'Volume': outliers}
-        return d
+        is_outlier = data['Volume'] > upper_limit
+        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=self.DAY_CUTTOFF))
+        return data[is_outlier & is_in_three_days]
 
     def customPrint(self, d, tick):
         print("\n\n\n*******  " + tick.upper() + "  *******")
         print("Ticker is: "+tick.upper())
-        for i in range(len(d['Dates'])):
-            str1 = str(d['Dates'][i])
-            str2 = str(d['Volume'][i])
-            print(str1 + " - " + str2)
+        print(d)
         print("*********************\n\n\n")
 
-    def days_between(self, d1, d2):
-        d1 = datetime.datetime.strptime(d1, "%Y-%m-%d")
-        d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
-        return abs((d2 - d1).days)
+    def parallel_wrapper(self,x, currentDate, positive_scans):
+        d = (self.find_anomalies(self.getData(x), currentDate))
+        if d.empty:
+            return
 
-    def parallel_wrapper(self, x, currentDate, positive_scans):
-        global DAY_CUTTOFF
-        d = (self.find_anomalies(self.getData(x)))
-        if d['Dates']:
-            for i in range(len(d['Dates'])):
-                if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= DAY_CUTTOFF:
-                    self.customPrint(d, x)
-                    stonk = dict()
-                    stonk['Ticker'] = x
-                    stonk['TargetDate'] = d['Dates'][0]
-                    stonk['TargetVolume'] = str(
-                        '{:,.2f}'.format(d['Volume'][0]))[:-3]
-                    positive_scans.append(stonk)
+        self.customPrint(d, x)
+        stonk = dict()
+        stonk['Ticker'] = x
+        stonk['TargetDate'] = d['Date'].iloc[0]
+        stonk['TargetVolume'] = d['Volume'].iloc[0]
+        positive_scans.append(stonk)
 
-    def main_func(self):
+    def main_func(self,doFilter=False):
+        manager = multiprocessing.Manager()
+        positive_scans = manager.list()
+
         StocksController = NasdaqController(True)
         list_of_tickers = StocksController.getList()
+        if doFilter:
+            filtered_tickers = pd.read_csv('filtered_tickers.csv', names=['Ticker'], index_col=None, header=None).Ticker.astype('string')
+            list_of_tickers = list(filtered_tickers.values)
+
+        print(f'num tickers: {len(list_of_tickers)}')
+
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
 
-        manager = multiprocessing.Manager()
-        positive_scans = manager.list()
-
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
-                       for x in tqdm(list_of_tickers))
+                       for x in tqdm(list_of_tickers, miniters=1))
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
@@ -103,4 +95,7 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    mainObj().main_func()
+    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func(doFilter=True) #customize these params to your liking
+    for outlier in results:
+        print(outlier)
+    print(f'num outliers: {len(results)}')
