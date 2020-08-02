@@ -76,7 +76,7 @@ class mainObj:
         list_of_tickers = StocksController.getList()
         if doFilter:
             filtered_tickers = pd.read_csv('filtered_tickers.csv', names=['Ticker'], index_col=None, header=None).Ticker.astype('string')
-            list_of_tickers = list(filtered_tickers[filtered_tickers.isin(list_of_tickers)].values)
+            list_of_tickers = list(filtered_tickers.values)
 
         print(f'num tickers: {len(list_of_tickers)}')
 
