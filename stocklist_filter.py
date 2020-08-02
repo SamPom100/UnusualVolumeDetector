@@ -21,7 +21,7 @@ class stockFilter:
 
         self.frame = pd.DataFrame.from_records(master_list)
 
-        low = 0.0
+        low = 0.0 # change these to set the range
         high = 0.95
 
         self.filtered_tickers = self.frame[self.frame.AvgVol.between(*self.frame.AvgVol.quantile([low, high]).tolist())].Ticker
