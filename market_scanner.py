@@ -32,7 +32,7 @@ class mainObj:
         pastDate = currentDate - \
             dateutil.relativedelta.relativedelta(months=self.MONTH_CUTTOFF)
 
-        #potentially fixing an off-by-one bug(yfinance not getting data for currentDate), will test more after market close on monday. Doesn't break anything in the meantime
+        # Fixes an off-by-one bug(yfinance not getting data for currentDate)
         currentDate += dateutil.relativedelta.relativedelta(days=1)
 
         sys.stdout = open(os.devnull, "w")
