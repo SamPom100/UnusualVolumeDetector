@@ -1,7 +1,11 @@
-matplotlib==3.2.1
-yfinance==0.1.54
-pandas==1.0.3
-numpy==1.18.4
 mplcursors==0.3
-python_dateutil==2.8.1
+numpy==1.18.4
+yfinance==0.1.54
 tqdm==4.48.0
+joblib==0.16.0
+matplotlib==3.2.1
+Flask==1.1.2
+Flask_FlatPages==0.7.2
+pandas==1.0.3
+Frozen_Flask==0.15
+python_dateutil==2.8.1
