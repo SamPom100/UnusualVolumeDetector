@@ -85,7 +85,13 @@ class mainObj:
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
         start_time = time.time()
 
-        with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
+        print(f'num CPU threads {multiprocessing.cpu_count()}')
+        # Double the number of worker threads (API seems to be the bottleneck)
+        # Probably needs further testing. If your CPU ignites, remove the multiplier
+        num_worker_threads = multiprocessing.cpu_count() * 2
+        print(f'num worker threads {num_worker_threads}\n')
+
+        with parallel_backend('loky', n_jobs=num_worker_threads):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                        for x in tqdm(list_of_tickers, miniters=1))
 
@@ -99,4 +105,4 @@ if __name__ == '__main__':
     results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func(doFilter=True) #customize these params to your liking
     for outlier in results:
         print(outlier)
-    print(f'num outliers: {len(results)}')
+    print(f'\nnum outliers: {len(results)}')
