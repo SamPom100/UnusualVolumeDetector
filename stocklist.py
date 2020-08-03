@@ -57,22 +57,22 @@ class NasdaqController:
                             if line_split[0] == "" or line_split[1] == "" or (filename == 'nasdaqlisted' and line_split[6] == 'Y') or (filename == 'otherlisted' and line_split[4] == 'Y'):
                                 continue
                             all_tickers.append(line)
-                # Compile list of tickers to exclude
-                with open("data/excluded.txt", "r") as file_reader_excluded:
-                    for j, line_excluded in enumerate(file_reader_excluded, 0):
-                        if j == 0:
-                            continue
-                        line_split = line_excluded.strip().split("|")
-                        if line_split[0] == "":
-                            continue
-                        tickers_to_exclude.append(line_split[0])
-                print("Excluded tickers = " + str(len(tickers_to_exclude)))
-                # Output all tickers - tickers to exclude
-                for y in all_tickers:
-                    line = y.strip().split("|")
-                    if line[0] == "" or line[1] == "" or line[0] in tickers_to_exclude:
+            # Compile list of tickers to exclude
+            with open("data/excluded.txt", "r") as file_reader_excluded:
+                for j, line_excluded in enumerate(file_reader_excluded, 0):
+                    if j == 0:
                         continue
-                    all_listed.write(line[0] + ",")
-                    global exportList
-                    exportList.append(line[0])
-                    all_listed.write(line[0] + "|" + line[1] + "\n")
+                    line_split = line_excluded.strip().split("|")
+                    if line_split[0] == "":
+                        continue
+                    tickers_to_exclude.append(line_split[0])
+            print("Excluded tickers = " + str(len(tickers_to_exclude)))
+            # Output all tickers - tickers to exclude
+            for y in all_tickers:
+                line = y.strip().split("|")
+                if line[0] == "" or line[1] == "" or line[0] in tickers_to_exclude:
+                    continue
+                all_listed.write(line[0] + ",")
+                global exportList
+                exportList.append(line[0])
+                all_listed.write(line[0] + "|" + line[1] + "\n")
