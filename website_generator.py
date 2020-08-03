@@ -35,7 +35,7 @@ def home():
 
 if __name__ == "__main__":
     os.system('git fetch')
-    stonk_search = mainObj()
+    stonk_search = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=9)
     stonks = stonk_search.main_func()
     freezer.freeze()
     copyfile('build/index.html', 'index.html')

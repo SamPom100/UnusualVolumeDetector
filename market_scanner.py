@@ -48,24 +48,23 @@ class mainObj:
         data.reset_index(level=0, inplace=True)
         is_outlier = data['Volume'] > upper_limit
         is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=self.DAY_CUTTOFF))
-        return data[is_outlier & is_in_three_days]
+        return data[is_outlier & is_in_three_days], data_std, data_mean
 
-    def customPrint(self, d, tick):
-        print("\n\n\n*******  " + tick.upper() + "  *******")
-        print("Ticker is: "+tick.upper())
+    def customPrint(self, d):
+        print("\n\n*********************")
         print(d)
-        print("*********************\n\n\n")
+        print("*********************\n\n")
 
     def parallel_wrapper(self,x, currentDate, positive_scans):
-        d = (self.find_anomalies(self.getData(x), currentDate))
+        d, deviation, mean = (self.find_anomalies(self.getData(x), currentDate))
         if d.empty:
             return
-
-        self.customPrint(d, x)
         stonk = dict()
         stonk['Ticker'] = x
-        stonk['TargetDate'] = d['Date'].iloc[0]
-        stonk['TargetVolume'] = d['Volume'].iloc[0]
+        stonk['Date'] = d['Date'].iloc[0]
+        stonk['Volume'] = d['Volume'].iloc[-1]
+        stonk['Deviations'] = (d['Volume'].iloc[-1] - mean) / deviation    
+        #self.customPrint(stonk)
         positive_scans.append(stonk)
         return
 

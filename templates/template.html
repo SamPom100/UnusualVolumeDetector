@@ -58,6 +58,7 @@
             <th scope="col">Ticker</th>
             <th scope="col">Date</th>
             <th scope="col">Volume</th>
+            <th scope="col">Devs</th>
           </tr>
         </thead>
         <tbody>
@@ -69,8 +70,9 @@
                 >{{stonk['Ticker']}}</a
               >
             </th>
-            <td>{{stonk['TargetDate']}}</td>
-            <td>{{stonk['TargetVolume']}}</td>
+            <td>{{stonk['Date']}}</td>
+            <td>{{stonk['Volume']}}</td>
+            <td>{{stonk['Deviations']|round(2)}}</td>
           </tr>
           {% endfor %}
         </tbody>

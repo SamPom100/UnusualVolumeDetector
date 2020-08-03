@@ -25,7 +25,7 @@ def home():
     return render_template('dynamic.html', stonks=stonks)
 
 if __name__ == "__main__":
-    stonk_search = mainObj()
+    stonk_search = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=2)
     stonks = stonk_search.main_func(doFilter=True)
 
     app.run(host='0.0.0.0',port='5000') # run the app on LAN
