@@ -9,3 +9,4 @@ Flask_FlatPages==0.7.2
 pandas==1.0.3
 Frozen_Flask==0.15
 python_dateutil==2.8.1
+flask-wtf==0.14.3

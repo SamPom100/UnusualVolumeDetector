@@ -101,7 +101,7 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=10).main_func(doFilter=True) #customize these params to your liking
+    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=9).main_func(doFilter=True) #customize these params to your liking
     for outlier in results:
         print(outlier)
     print(f'\nnum outliers: {len(results)}')
