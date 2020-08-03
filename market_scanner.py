@@ -67,6 +67,7 @@ class mainObj:
         stonk['TargetDate'] = d['Date'].iloc[0]
         stonk['TargetVolume'] = d['Volume'].iloc[0]
         positive_scans.append(stonk)
+        return
 
     def main_func(self,doFilter=False):
         manager = multiprocessing.Manager()
