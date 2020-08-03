@@ -22,7 +22,7 @@
       <h1 class="mt-auto text-centerdisplay-1">Abnormal Volume Scanner</h1>
       <p class="text-center lead">Get alerted when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. <a href = "https://github.com/SamPom100/UnusualVolumeDetector">Find the next $KODK.</a></p>
       <form enctype="multipart/form-data" id="scanform" method="post" action="/reload/">
-        <div class="form-group">
+        <div class="d-flex form-group">
           <label for="quantity">Month Cutoff:</label>
           <input type="number" id="month_cutoff" name="month_cutoff" min="1" max="12" value="{{month_cut}}">
           <label for="quantity">Day Cutoff:</label>
