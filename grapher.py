@@ -11,6 +11,9 @@ from dateutil import parser
 import numpy as np
 
 
+# Use this to graph the volume history of your favorite ticker#
+
+
 class mainObj:
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
@@ -69,10 +72,12 @@ class mainObj:
         return anomalies
 
 
-# setup
 main = mainObj()
 
-# commands
+# INSTRUCTIONS #
+
+# change KODK to your desired ticker
+# feel free to uncomment 'printData' or 'barGraph' depending on what you'd like
 data = main.getData("KODK")
 # main.printData(data)
 # main.barGraph(data)
