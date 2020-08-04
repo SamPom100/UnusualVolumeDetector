@@ -1211,6 +1211,8 @@ FCF,FCF|First Commonwealth Financial Corporation Common Stock
 FCN,FCN|FTI Consulting, Inc. Common Stock
 FCO,FCO|Aberdeen Global Income Fund, Inc. Common Stock
 FCPT,FCPT|Four Corners Property Trust, Inc. Common Stock
+FCRW,FCRW|First Eagle Alternative Capital BDC, 
+FCRZ,FCRZ|First Eagle Alternative Capital BDC, Inc.
 FCT,FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
 FCX,FCX|Freeport-McMoRan, Inc. Common Stock
 FDEU,FDEU|First Trust Dynamic Europe Equity Income Fund Common Shares of Beneficial Interest
@@ -2451,7 +2453,7 @@ OUT,OUT|OUTFRONT Media Inc. Common Stock
 OVV,OVV|Ovintiv Inc. (DE)
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
-OXY.V,OXY.V|Occidental Petroleum Corporation Warrants When Issued
+OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACD,PACD|Pacific Drilling S.A. Common Shares
@@ -3083,8 +3085,6 @@ TCO,TCO|Taubman Centers, Inc. Common Stock
 TCO$J,TCO$J|Taubman Centers, Inc. Preferred Shares Series J
 TCO$K,TCO$K|Taubman Centers, Inc. Preferred Series K
 TCP,TCP|TC PipeLines, LP Common Units representing Limited Partner Interests
-TCRW,TCRW|THL Credit, Inc. 6.125% Notes Due 2023
-TCRZ,TCRZ|THL Credit, Inc. 6.75% Notes due 2022
 TCS,TCS|Container Store (The) Common Stock
 TD,TD|Toronto Dominion Bank (The) Common Stock
 TDA,TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061
@@ -3147,7 +3147,6 @@ TKC,TKC|Turkcell Iletisim Hizmetleri AS Common Stock
 TKR,TKR|Timken Company (The) Common Stock
 TLI,TLI|Western Asset Corporate Loan Fund Inc Common Stock
 TLK,TLK|PT Telekomunikasi Indonesia, Tbk
-TLRD,TLRD|Tailored Brands, Inc. Common Stock
 TLYS,TLYS|Tilly's, Inc. Common Stock
 TM,TM|Toyota Motor Corporation Common Stock
 TMBR,TMBR|Timber Pharmaceuticals, Inc. Common Stock
@@ -3510,6 +3509,7 @@ XXII,XXII|22nd Century Group, Inc. Common Stock
 XYF,XYF|X Financial American Depositary Shares, each representing two Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
+YAC.U,YAC.U|Yucaipa Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 YCBD,YCBD|cbdMD, Inc. Common Stock
 YCBD$A,YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock
 YELP,YELP|Yelp Inc. Common Stock
@@ -3790,7 +3790,6 @@ ASFI,ASFI|Asta Funding, Inc. - Common Stock
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
 ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
-ASNA,ASNA|Ascena Retail Group, Inc. - Common Stock
 ASND,ASND|Ascendis Pharma A/S - American Depositary Shares
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
 ASPU,ASPU|Aspen Group Inc. - Common Stock
@@ -4462,7 +4461,6 @@ ENLV,ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares
 ENOB,ENOB|Enochian Biosciences, Inc. - Common Stock
 ENPH,ENPH|Enphase Energy, Inc. - Common Stock
 ENSG,ENSG|The Ensign Group, Inc. - Common Stock
-ENT,ENT|Global Eagle Entertainment Inc. - Common Stock
 ENTA,ENTA|Enanta Pharmaceuticals, Inc. - Common Stock
 ENTG,ENTG|Entegris, Inc. - Common Stock
 ENTX,ENTX|Entera Bio Ltd. - Ordinary Shares
@@ -4910,6 +4908,7 @@ HQY,HQY|HealthEquity, Inc. - Common Stock
 HROW,HROW|Harrow Health, Inc. - Common Stock
 HRTX,HRTX|Heron Therapeutics, Inc.   - Common Stock
 HRZN,HRZN|Horizon Technology Finance Corporation - Common Stock
+HSAQ,HSAQ|Health Sciences Acquisitions Corporation 2 - Ordinary Shares
 HSDT,HSDT|Helius Medical Technologies, Inc. - Class A Common Stock
 HSIC,HSIC|Henry Schein, Inc. - Common Stock
 HSII,HSII|Heidrick & Struggles International, Inc. - Common Stock
