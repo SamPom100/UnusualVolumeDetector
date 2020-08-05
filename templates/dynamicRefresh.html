@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="60">
     <title>Unusual Volume Scanner</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -85,6 +84,8 @@
           $(this).html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Rescanning...`);
           document.getElementById("scanform").submit();
         });
+
+        setInterval(function(){ location.reload(); }, 150000);
 
       </script>
   </body>
