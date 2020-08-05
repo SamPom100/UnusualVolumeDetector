@@ -52,7 +52,7 @@ class mainObj:
 
         changes = data.tail().copy()
         changes['Diff'] = changes['Close'].pct_change() * 100
-        changes['Premarket'] = changes['Open'].sub(changes['Close'].shift()).div(changes['Close']).fillna(0) * 100
+        changes['Premarket'] = changes['Open'].sub(changes['Close'].shift()).div(changes['Close'].shift()).fillna(0) * 100
 
 
         return data[is_outlier & is_in_three_days], changes[['Diff', 'Premarket']], data_std, data_mean
