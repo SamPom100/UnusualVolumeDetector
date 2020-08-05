@@ -1,0 +1,92 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Unusual Volume Scanner</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.21/r-2.2.5/sc-2.0.2/datatables.min.css"/>
+
+    <style>
+      .dataTables_wrapper{
+        margin-bottom: auto;
+        margin-top: auto;
+        max-height: 75vh;
+        max-width: 90vw;
+      }
+      .dataTables_info {
+        display: none;
+      }
+
+      .d-flex{
+        min-height: min-content;
+      }
+
+      @supports (-webkit-touch-callout: none) {
+        /* iOS specific CSS goes here */
+        .d-flex{
+          min-height: -webkit-min-content;
+        }
+      }
+
+    </style>
+
+  </head>
+  <body style="overflow-y: auto; background-color: #e9ecef;">
+    <div class="d-flex flex-column justify-content-center align-items-center" style="margin-top: auto; margin-bottom: auto; height: 100vh;margin-left:5vw; margin-right:5vw;">
+      <h1 class="text-center display-5" style="margin:auto">Unusual Volume Scanner</h1>
+      <p class="text-center lead">Get alerted when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. <a href = "https://github.com/SamPom100/UnusualVolumeDetector">Find the next $KODK.</a></p>
+      
+      <p class="text-center lead">Last updated at {{update_time}}</p>
+      <table id="stonkstable" class="table dt-responsive table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Ticker</th>
+              <th scope="col">Date</th>
+              <th scope="col">Volume</th>
+              <th scope="col">Devs</th>
+              <th scope="col">Price</th>
+              <th scope="col">Premarket %</th>
+              <th scope="col">% Change</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for stonk in stonks %}
+          <tr>
+              <th scope="row"><a href=" {{ 'http://robinhood.com/stocks/{}'.format(stonk['Ticker']) }}">{{stonk['Ticker']}}</a></th>
+              <td>{{stonk['Date']}}</td>
+              <td>{{stonk['Volume']}}</td>
+              <td>{{stonk['Deviations']|round(2)}}</td>
+              <td>{{stonk['Close']|round(2)}}</td>
+              <td>{{stonk['Premarket']|round(2)}}</td>
+              <td>{{stonk['Diff']|round(2)}}</td>
+            </tr>
+          {% endfor %}
+          </tbody>
+      </table>
+      </div>
+      <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+      <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.21/r-2.2.5/sc-2.0.2/datatables.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <script>
+        $(document).ready( function () {
+          $('#stonkstable').DataTable({
+              "columnDefs": [
+                { "type": "num" }
+              ]
+          });
+        });
+
+        $('#reloadbutton').on('click', function() {
+          $(this).prop("disabled", true);
+          $(this).html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Rescanning...`);
+          document.getElementById("scanform").submit();
+        });
+
+        setInterval(function(){ location.reload(); }, 60000);
+
+      </script>
+  </body>
+</html>
