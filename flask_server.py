@@ -11,6 +11,8 @@ app.config["DEBUG"] = False
 SECRET_KEY = os.getenv('SECRET_KEY', 'deditated_wam') #pulls SECRET_KEY from env var, else sets as 'detitaded_wam'
 app.config['SECRET_KEY'] = SECRET_KEY
 
+AUTO_REFRESH = False
+UPDATE_FREQ = 10
 
 
 @app.after_request
@@ -22,7 +24,7 @@ def after_request(response):
 
 @app.route('/', methods=['GET'])
 def home():
-    return render_template('dynamic.html', stonks=stonks, month_cut=6, day_cut=3, std_cut=2)
+    return render_template('dynamic.html', stonks=stonks, month_cut=6, day_cut=3, std_cut=2, update_time=stonk_search.updated_at)
 
 @app.route('/reload/', endpoint="reload", methods=["POST"]) 
 def refresh():
@@ -46,7 +48,7 @@ def refresh():
         std_cut = 1
     stonk_search = mainObj(_month_cuttoff=month_cut,_day_cuttoff=day_cut,_std_cuttoff=std_cut)
     stonks = stonk_search.main_func(doFilter=True)
-    return render_template('dynamic.html', stonks=stonks, month_cut=month_cut, day_cut=day_cut, std_cut=std_cut)
+    return render_template('dynamic.html', stonks=stonks, month_cut=month_cut, day_cut=day_cut, std_cut=std_cut, update_time=stonk_search.updated_at)
 
 if __name__ == "__main__":
     stonk_search = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=2)

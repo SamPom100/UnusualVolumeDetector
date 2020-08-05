@@ -25,6 +25,7 @@ class mainObj:
         self.MONTH_CUTTOFF = _month_cuttoff
         self.DAY_CUTTOFF = _day_cuttoff
         self.STD_CUTTOFF = _std_cuttoff
+        self.updated_at = datetime.datetime.now().strftime("%H:%M:%S")
 
     def getData(self, ticker):
         currentDate = datetime.datetime.strptime(
@@ -50,11 +51,11 @@ class mainObj:
         is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=self.DAY_CUTTOFF))
 
         changes = data.tail().copy()
-        changes['prevClose2Open'] = changes['Open'].sub(changes['Close'].shift()).div(changes['Close'] - 1).fillna(0)
-        changes['open2Close'] = (changes['Close'] - changes['Open']) / changes['Open'] * 100
+        changes['Diff'] = changes['Close'].pct_change() * 100
+        changes['Premarket'] = changes['Open'].sub(changes['Close'].shift()).div(changes['Close']).fillna(0) * 100
 
 
-        return data[is_outlier & is_in_three_days], changes[['prevClose2Open', 'open2Close']], data_std, data_mean
+        return data[is_outlier & is_in_three_days], changes[['Diff', 'Premarket']], data_std, data_mean
 
     def customPrint(self, d):
         print("\n\n*********************")
@@ -75,9 +76,9 @@ class mainObj:
         stonk['Volume'] = d['Volume'].iloc[-1]
         stonk['Deviations'] = (d['Volume'].iloc[-1] - mean) / deviation  
         stonk['Open'] = d['Open'].iloc[-1]
-        stonk['Close'] = d['Open'].iloc[-1]
-        stonk['prevClose2Open'] = changes['prevClose2Open'].iloc[-1]
-        stonk['open2Close'] = changes['open2Close'].iloc[-1]
+        stonk['Close'] = d['Close'].iloc[-1]
+        stonk['Premarket'] = changes['Premarket'].iloc[-1]
+        stonk['Diff'] = changes['Diff'].iloc[-1]
 
         #self.customPrint(stonk)
         positive_scans.append(stonk)
@@ -108,6 +109,8 @@ class mainObj:
         with parallel_backend('loky', n_jobs=num_worker_threads):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                        for x in tqdm(list_of_tickers, miniters=1))
+
+        self.updated_at = datetime.datetime.now().strftime("%H:%M:%S")
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Abnormal Volume Scanner</title>
+    <title>Unusual Volume Scanner</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.21/r-2.2.5/sc-2.0.2/datatables.min.css"/>
@@ -18,24 +18,37 @@
       .dataTables_info {
         display: none;
       }
+
+      .d-flex{
+        min-height: min-content;
+      }
+
+      @supports (-webkit-touch-callout: none) {
+        /* iOS specific CSS goes here */
+        .d-flex{
+          min-height: -webkit-min-content;
+        }
+      }
+
     </style>
 
   </head>
   <body style="overflow-y: auto; background-color: #e9ecef;">
-    <div class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;margin-left:5vw; margin-right:5vw;">
-      <h1 class="mt-auto text-center display-4">Abnormal Volume Scanner</h1>
+    <div class="d-flex flex-column justify-content-center align-items-center" style="margin-top: auto; margin-bottom: auto; height: 100vh;margin-left:5vw; margin-right:5vw;">
+      <h1 class="text-center display-5" style="margin:auto">Unusual Volume Scanner</h1>
       <p class="text-center lead">Get alerted when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. <a href = "https://github.com/SamPom100/UnusualVolumeDetector">Find the next $KODK.</a></p>
       <form enctype="multipart/form-data" id="scanform" method="post" action="/reload/">
         <div class="d-flex form-group">
           <label for="quantity">Month Cutoff:</label>
-          <input type="number" id="month_cutoff" name="month_cutoff" min="1" max="12" value="{{month_cut}}">
+          <input type="number" pattern="\d*" id="month_cutoff" name="month_cutoff" min="1" max="12" value="{{month_cut}}">
           <label for="quantity">Day Cutoff:</label>
-          <input type="number" id="day_cutoff" name="day_cutoff" min="1" max="30" value="{{day_cut}}">
+          <input type="number" pattern="\d*" id="day_cutoff" name="day_cutoff" min="1" max="30" value="{{day_cut}}">
           <label for="quantity">STD Cutoff:</label>
-          <input type="number" id="std_cutoff" name="std_cutoff" min="1" max="10" value="{{std_cut}}">
+          <input type="number" pattern="\d*" id="std_cutoff" name="std_cutoff" min="1" max="10" value="{{std_cut}}">
         </div>
       <button id="reloadbutton" class="btn btn-success btn-sm btn-block">Reload</button>
     </form>
+    <p class="text-center lead">Last updated at {{update_time}}</p>
       <table id="stonkstable" class="table dt-responsive table-hover">
           <thead>
             <tr>
@@ -43,6 +56,9 @@
               <th scope="col">Date</th>
               <th scope="col">Volume</th>
               <th scope="col">Devs</th>
+              <th scope="col">Price</th>
+              <th scope="col">Premarket %</th>
+              <th scope="col">% Change</th>
             </tr>
           </thead>
           <tbody>
@@ -52,6 +68,9 @@
               <td>{{stonk['Date']}}</td>
               <td>{{stonk['Volume']}}</td>
               <td>{{stonk['Deviations']|round(2)}}</td>
+              <td>{{stonk['Close']|round(2)}}</td>
+              <td>{{stonk['Premarket']|round(2)}}</td>
+              <td>{{stonk['Diff']|round(2)}}</td>
             </tr>
           {% endfor %}
           </tbody>
@@ -63,8 +82,12 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
       <script>
         $(document).ready( function () {
-          $('#stonkstable').DataTable();
+          $('#stonkstable').DataTable({
+              "columnDefs": [
+                { "type": "num" }
+              ]
           });
+        });
 
         $('#reloadbutton').on('click', function() {
           $(this).prop("disabled", true);

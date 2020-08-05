@@ -1654,8 +1654,8 @@ FCOM|Fidelity MSCI Communication Services Index ETF|P|FCOM|Y|100|N|FCOM
 FCOR|Fidelity Corporate Bond ETF|P|FCOR|Y|100|N|FCOR
 FCPI|Fidelity Stocks for Inflation ETF |Z|FCPI|Y|100|N|FCPI
 FCPT|Four Corners Property Trust, Inc. Common Stock|N|FCPT|N|100|N|FCPT
-FCRW|First Eagle Alternative Capital BDC, |N|FCRW|N|100|N|FCRW
-FCRZ|First Eagle Alternative Capital BDC, Inc.|N|FCRZ|N|100|N|FCRZ
+FCRW|First Eagle Alternative Capital BDC, Inc. 6.125% Notes Due 2023|N|FCRW|N|100|N|FCRW
+FCRZ|First Eagle Alternative Capital BDC, Inc. 6.75% Notes due 2022|N|FCRZ|N|100|N|FCRZ
 FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest|N|FCT|N|100|N|FCT
 FCTR|First Trust Lunt U.S. Factor Rotation ETF|Z|FCTR|Y|100|N|FCTR
 FCX|Freeport-McMoRan, Inc. Common Stock|N|FCX|N|100|N|FCX
@@ -2085,6 +2085,7 @@ GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
 GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)|N|GNTpA|N|100|N|GNT-A
 GNW|Genworth Financial Inc Common Stock|N|GNW|N|100|N|GNW
+GOAC.U|GO Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant|N|GOAC.U|N|100|N|GOAC=
 GOAT|VanEck Vectors Morningstar Global Wide Moat ETF|Z|GOAT|Y|100|N|GOAT
 GOAU|US Global GO Gold and Precious Metal Miners ETF|P|GOAU|Y|100|N|GOAU
 GOED|1847 Goedeker Inc. Commom Stock|A|GOED|N|100|N|GOED
@@ -4635,6 +4636,7 @@ TBLU|Tortoise Global Water ESG Fund|Z|TBLU|Y|100|N|TBLU
 TBND|Tactical Income ETF|P|TBND|Y|100|N|TBND
 TBT|ProShares UltraShort Lehman 20  Year Treasury|P|TBT|Y|100|N|TBT
 TBX|ProShares Short 7 10 Year Treasury|P|TBX|Y|100|N|TBX
+TCHP|T. Rowe Price Blue Chip Growth ETF|P|TCHP|Y|100|N|TCHP
 TCI|Transcontinental Realty Investors, Inc. Common Stock|N|TCI|N|100|N|TCI
 TCO|Taubman Centers, Inc. Common Stock|N|TCO|N|100|N|TCO
 TCO$J|Taubman Centers, Inc. Preferred Shares Series J|N|TCOpJ|N|100|N|TCO-J
@@ -4655,6 +4657,7 @@ TDS|Telephone and Data Systems, Inc. Common Shares|N|TDS|N|100|N|TDS
 TDTF|FlexShares iBoxx 5 Year Target Duration TIPS Index Fund|P|TDTF|Y|100|N|TDTF
 TDTT|FlexShares iBoxx 3 Year Target Duration TIPS Index Fund|P|TDTT|Y|100|N|TDTT
 TDV|ProShares S&P Technology Dividend Aristocrats ETF|Z|TDV|Y|100|N|TDV
+TDVG|T. Rowe Price Dividend Growth ETF|P|TDVG|Y|100|N|TDVG
 TDW|Tidewater Inc. Common Stock|N|TDW|N|100|N|TDW
 TDW.A|Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)|N|TDW.WS.A|N|100|N|TDW+A
 TDW.B|Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)|N|TDW.WS.B|N|100|N|TDW+B
@@ -4671,6 +4674,7 @@ TEI|Templeton Emerging Markets Income Fund, Inc. Common Stock|N|TEI|N|100|N|TEI
 TEL|TE Connectivity Ltd. New Switzerland Registered Shares|N|TEL|N|100|N|TEL
 TEN|Tenneco Inc. Class A Voting Common Stock|N|TEN|N|100|N|TEN
 TEO|Telecom Argentina SA|N|TEO|N|100|N|TEO
+TEQI|T. Rowe Price Equity Income ETF|P|TEQI|Y|100|N|TEQI
 TERM|EquityCompass Tactical Risk Manager ETF|P|TERM|Y|100|N|TERM
 TEVA|Teva Pharmaceutical Industries Limited American Depositary Shares|N|TEVA|N|100|N|TEVA
 TEX|Terex Corporation Common Stock|N|TEX|N|100|N|TEX
@@ -4695,6 +4699,7 @@ TGNA|TEGNA Inc|N|TGNA|N|100|N|TGNA
 TGP|Teekay LNG Partners L.P.|N|TGP|N|100|N|TGP
 TGP$A|Teekay LNG Partners L.P. 9.00% Series A Cumulative Redeemable Perpetual Preferred Units, representing limited partner interests|N|TGPpA|N|100|N|TGP-A
 TGP$B|Teekay LNG Partners L.P. 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units, representing limited partner interests|N|TGPpB|N|100|N|TGP-B
+TGRW|T. Rowe Price Growth Stock ETF|P|TGRW|Y|100|N|TGRW
 TGS|Transportadora de Gas del Sur SA TGS Common Stock|N|TGS|N|100|N|TGS
 TGT|Target Corporation Common Stock|N|TGT|N|100|N|TGT
 THC|Tenet Healthcare Corporation Common Stock|N|THC|N|100|N|THC
@@ -5370,4 +5375,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0804202021:32||||||
+File Creation Time: 0805202003:03||||||
