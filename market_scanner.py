@@ -38,7 +38,7 @@ class mainObj:
         sys.stdout = open(os.devnull, "w")
         data = yf.download(ticker, pastDate, currentDate)
         sys.stdout = sys.__stdout__
-        return data[["Volume"]]
+        return data[["Volume","Open","Close"]]
 
     def find_anomalies(self, data, currentDate):
         data_std = np.std(data['Volume'])
@@ -48,7 +48,13 @@ class mainObj:
         data.reset_index(level=0, inplace=True)
         is_outlier = data['Volume'] > upper_limit
         is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=self.DAY_CUTTOFF))
-        return data[is_outlier & is_in_three_days], data_std, data_mean
+
+        changes = data.tail().copy()
+        changes['prevClose2Open'] = changes['Open'].sub(changes['Close'].shift()).div(changes['Close'] - 1).fillna(0)
+        changes['open2Close'] = (changes['Close'] - changes['Open']) / changes['Open'] * 100
+
+
+        return data[is_outlier & is_in_three_days], changes[['prevClose2Open', 'open2Close']], data_std, data_mean
 
     def customPrint(self, d):
         print("\n\n*********************")
@@ -56,14 +62,23 @@ class mainObj:
         print("*********************\n\n")
 
     def parallel_wrapper(self,x, currentDate, positive_scans):
-        d, deviation, mean = (self.find_anomalies(self.getData(x), currentDate))
+        d, changes, deviation, mean = (self.find_anomalies(self.getData(x), currentDate))
         if d.empty:
             return
         stonk = dict()
         stonk['Ticker'] = x
-        stonk['Date'] = d['Date'].iloc[0]
+
+        #getting rid of the timestamps for right now, the tickers update but the timestamp is always 00:00:00
+        #we'd have to cap the monthly window at 2 if we want "true" intraday ticks
+        stonk['Date'] = d['Date'].iloc[-1].strftime("%Y-%m-%d")
+
         stonk['Volume'] = d['Volume'].iloc[-1]
-        stonk['Deviations'] = (d['Volume'].iloc[-1] - mean) / deviation    
+        stonk['Deviations'] = (d['Volume'].iloc[-1] - mean) / deviation  
+        stonk['Open'] = d['Open'].iloc[-1]
+        stonk['Close'] = d['Open'].iloc[-1]
+        stonk['prevClose2Open'] = changes['prevClose2Open'].iloc[-1]
+        stonk['open2Close'] = changes['open2Close'].iloc[-1]
+
         #self.customPrint(stonk)
         positive_scans.append(stonk)
         return
@@ -101,7 +116,7 @@ class mainObj:
 
 
 if __name__ == '__main__':
-    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=9).main_func(doFilter=True) #customize these params to your liking
+    results = mainObj(_month_cuttoff=6,_day_cuttoff=3,_std_cuttoff=9).main_func(doFilter=False) #customize these params to your liking
     for outlier in results:
         print(outlier)
     print(f'\nnum outliers: {len(results)}')
