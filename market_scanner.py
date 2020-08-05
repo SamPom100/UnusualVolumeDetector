@@ -18,7 +18,7 @@ import multiprocessing
 # Change variables to your liking then run the script
 MONTH_CUTTOFF = 5
 DAY_CUTTOFF = 3
-STD_CUTTOFF = 10
+STD_CUTTOFF = 9
 
 
 class mainObj:
@@ -28,8 +28,7 @@ class mainObj:
 
     def getData(self, ticker):
         global MONTH_CUTOFF
-        currentDate = datetime.datetime.strptime(
-            date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
+        currentDate = datetime.date.today() + datetime.timedelta(days=1)
         pastDate = currentDate - \
             dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
         sys.stdout = open(os.devnull, "w")

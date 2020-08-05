@@ -594,7 +594,6 @@ CCH,CCH|Collier Creek Holdings Class A Ordinary Shares
 CCH.U,CCH.U|Collier Creek Holdings Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of  one redeemable warrant
 CCH.W,CCH.W|Collier Creek Holdings Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CCI,CCI|Crown Castle International Corp. (REIT) Common Stock
-CCI$A,CCI$A|Crown Castle International Corporation 6.875% Mandatory Convertible Preferred Stock, Series A
 CCIV.U,CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 CCJ,CCJ|Cameco Corporation Common Stock
 CCK,CCK|Crown Holdings, Inc.
@@ -964,7 +963,6 @@ DNK,DNK|Phoenix Tree Holdings Limited American Depositary Shares, each represent
 DNN,DNN|Denison Mines Corp Ordinary Shares (Canada)
 DNOW,DNOW|NOW Inc. Common Stock
 DNP,DNP|DNP Select Income Fund, Inc. Common Stock
-DNR,DNR|Denbury Resources Inc. Common Stock
 DOC,DOC|Physicians Realty Trust Common Shares of Beneficial Interest
 DOOR,DOOR|Masonite International Corporation Ordinary Shares (Canada)
 DOV,DOV|Dover Corporation Common Stock
@@ -1213,6 +1211,8 @@ FCF,FCF|First Commonwealth Financial Corporation Common Stock
 FCN,FCN|FTI Consulting, Inc. Common Stock
 FCO,FCO|Aberdeen Global Income Fund, Inc. Common Stock
 FCPT,FCPT|Four Corners Property Trust, Inc. Common Stock
+FCRW,FCRW|First Eagle Alternative Capital BDC, 
+FCRZ,FCRZ|First Eagle Alternative Capital BDC, Inc.
 FCT,FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
 FCX,FCX|Freeport-McMoRan, Inc. Common Stock
 FDEU,FDEU|First Trust Dynamic Europe Equity Income Fund Common Shares of Beneficial Interest
@@ -1941,7 +1941,6 @@ LINX,LINX|Linx S.A. American Depositary Shares, each representing one common sha
 LITB,LITB|LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares
 LL,LL|Lumber Liquidators Holdings, Inc Common Stock
 LLY,LLY|Eli Lilly and Company Common Stock
-LM,LM|Legg Mason, Inc. Common Stock
 LMHA,LMHA|Legg Mason, Inc. 6.375% Junior Subordinated Notes due 2056
 LMHB,LMHB|Legg Mason, Inc. 5.45% Junior Subordinated Notes due 2056
 LMND,LMND|Lemonade, Inc. Common Stock
@@ -2219,7 +2218,6 @@ NCV$A,NCV$A|AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Prefe
 NCZ,NCZ|AllianzGI Convertible & Income Fund II Common Shares of Beneficial Interest
 NCZ$A,NCZ$A|AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
 NDP,NDP|Tortoise Energy Independence Fund, Inc. Common Stock
-NE,NE|Noble Corporation Ordinary Shares (UK)
 NEA,NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
 NEE,NEE|NextEra Energy, Inc. Common Stock
 NEE$I,NEE$I|NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072
@@ -2455,7 +2453,7 @@ OUT,OUT|OUTFRONT Media Inc. Common Stock
 OVV,OVV|Ovintiv Inc. (DE)
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
-OXY.V,OXY.V|Occidental Petroleum Corporation Warrants When Issued
+OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACD,PACD|Pacific Drilling S.A. Common Shares
@@ -3087,8 +3085,6 @@ TCO,TCO|Taubman Centers, Inc. Common Stock
 TCO$J,TCO$J|Taubman Centers, Inc. Preferred Shares Series J
 TCO$K,TCO$K|Taubman Centers, Inc. Preferred Series K
 TCP,TCP|TC PipeLines, LP Common Units representing Limited Partner Interests
-TCRW,TCRW|THL Credit, Inc. 6.125% Notes Due 2023
-TCRZ,TCRZ|THL Credit, Inc. 6.75% Notes due 2022
 TCS,TCS|Container Store (The) Common Stock
 TD,TD|Toronto Dominion Bank (The) Common Stock
 TDA,TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061
@@ -3151,7 +3147,6 @@ TKC,TKC|Turkcell Iletisim Hizmetleri AS Common Stock
 TKR,TKR|Timken Company (The) Common Stock
 TLI,TLI|Western Asset Corporate Loan Fund Inc Common Stock
 TLK,TLK|PT Telekomunikasi Indonesia, Tbk
-TLRD,TLRD|Tailored Brands, Inc. Common Stock
 TLYS,TLYS|Tilly's, Inc. Common Stock
 TM,TM|Toyota Motor Corporation Common Stock
 TMBR,TMBR|Timber Pharmaceuticals, Inc. Common Stock
@@ -3514,6 +3509,7 @@ XXII,XXII|22nd Century Group, Inc. Common Stock
 XYF,XYF|X Financial American Depositary Shares, each representing two Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
+YAC.U,YAC.U|Yucaipa Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 YCBD,YCBD|cbdMD, Inc. Common Stock
 YCBD$A,YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock
 YELP,YELP|Yelp Inc. Common Stock
@@ -3794,7 +3790,6 @@ ASFI,ASFI|Asta Funding, Inc. - Common Stock
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
 ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
-ASNA,ASNA|Ascena Retail Group, Inc. - Common Stock
 ASND,ASND|Ascendis Pharma A/S - American Depositary Shares
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
 ASPU,ASPU|Aspen Group Inc. - Common Stock
@@ -4466,7 +4461,6 @@ ENLV,ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares
 ENOB,ENOB|Enochian Biosciences, Inc. - Common Stock
 ENPH,ENPH|Enphase Energy, Inc. - Common Stock
 ENSG,ENSG|The Ensign Group, Inc. - Common Stock
-ENT,ENT|Global Eagle Entertainment Inc. - Common Stock
 ENTA,ENTA|Enanta Pharmaceuticals, Inc. - Common Stock
 ENTG,ENTG|Entegris, Inc. - Common Stock
 ENTX,ENTX|Entera Bio Ltd. - Ordinary Shares
@@ -4569,6 +4563,7 @@ FCEL,FCEL|FuelCell Energy, Inc. - Common Stock
 FCFS,FCFS|FirstCash, Inc. - Common Stock
 FCNCA,FCNCA|First Citizens BancShares, Inc. - Class A Common Stock
 FCNCP,FCNCP|First Citizens BancShares, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Non-Cumulative Perpetual Preferred Stock, Series A
+FCRD,FCRD|First Eagle Alternative Capital BDC, Inc. - Common Stock
 FDBC,FDBC|Fidelity D & D Bancorp, Inc. - Common Stock
 FDUS,FDUS|Fidus Investment Corporation - Common Stock
 FDUSG,FDUSG|Fidus Investment Corporation - 5.375% Notes Due 2024
@@ -4913,6 +4908,7 @@ HQY,HQY|HealthEquity, Inc. - Common Stock
 HROW,HROW|Harrow Health, Inc. - Common Stock
 HRTX,HRTX|Heron Therapeutics, Inc.   - Common Stock
 HRZN,HRZN|Horizon Technology Finance Corporation - Common Stock
+HSAQ,HSAQ|Health Sciences Acquisitions Corporation 2 - Ordinary Shares
 HSDT,HSDT|Helius Medical Technologies, Inc. - Class A Common Stock
 HSIC,HSIC|Henry Schein, Inc. - Common Stock
 HSII,HSII|Heidrick & Struggles International, Inc. - Common Stock
@@ -6025,9 +6021,6 @@ ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
 ROIC,ROIC|Retail Opportunity Investments Corp. - Common Stock
 ROKU,ROKU|Roku, Inc. - Class A Common Stock
 ROLL,ROLL|RBC Bearings Incorporated - Common Stock
-ROSE,ROSE|Rosehill Resources Inc. - Class A Common Stock
-ROSEU,ROSEU|Rosehill Resources Inc. - Unit
-ROSEW,ROSEW|Rosehill Resources Inc. - Warrants
 ROST,ROST|Ross Stores, Inc. - Common Stock
 RP,RP|RealPage, Inc. - Common Stock
 RPAY,RPAY|Repay Holdings Corporation - Class A Common Stock
@@ -6073,7 +6066,6 @@ SATS,SATS|EchoStar Corporation - Common stock
 SAVA,SAVA|Cassava Sciences, Inc. - Common Stock
 SBAC,SBAC|SBA Communications Corporation - Class A Common Stock
 SBBP,SBBP|Strongbridge Biopharma plc - Ordinary Shares
-SBBX,SBBX|SB One Bancorp - Common Stock
 SBCF,SBCF|Seacoast Banking Corporation of Florida - Common Stock
 SBFG,SBFG|SB Financial Group, Inc. - Common Stock
 SBGI,SBGI|Sinclair Broadcast Group, Inc. - Class A Common Stock
@@ -6348,7 +6340,6 @@ TCMD,TCMD|Tactile Systems Technology, Inc. - Common Stock
 TCOM,TCOM|Trip.com Group Limited - American Depositary Shares
 TCON,TCON|TRACON Pharmaceuticals, Inc. - Common Stock
 TCPC,TCPC|BlackRock TCP Capital Corp. - Common Stock
-TCRD,TCRD|THL Credit, Inc. - Common Stock
 TCRR,TCRR|TCR2 Therapeutics Inc. - Common Stock
 TCX,TCX|Tucows Inc. - Common Stock
 TDAC,TDAC|Trident Acquisitions Corp. - Common Stock
@@ -6363,7 +6354,6 @@ TELL,TELL|Tellurian Inc. - Common Stock
 TENB,TENB|Tenable Holdings, Inc. - Common Stock
 TENX,TENX|Tenax Therapeutics, Inc. - Common Stock
 TER,TER|Teradyne, Inc. - Common Stock
-TERP,TERP|TerraForm Power, Inc. - Class A Common Stock New
 TESS,TESS|TESSCO Technologies Incorporated - Common Stock
 TEUM,TEUM|Pareteum Corporation - Common Stock
 TFFP,TFFP|TFF Pharmaceuticals, Inc. - Common Stock
