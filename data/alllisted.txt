@@ -1211,8 +1211,8 @@ FCF,FCF|First Commonwealth Financial Corporation Common Stock
 FCN,FCN|FTI Consulting, Inc. Common Stock
 FCO,FCO|Aberdeen Global Income Fund, Inc. Common Stock
 FCPT,FCPT|Four Corners Property Trust, Inc. Common Stock
-FCRW,FCRW|First Eagle Alternative Capital BDC, 
-FCRZ,FCRZ|First Eagle Alternative Capital BDC, Inc.
+FCRW,FCRW|First Eagle Alternative Capital BDC, Inc. 6.125% Notes Due 2023
+FCRZ,FCRZ|First Eagle Alternative Capital BDC, Inc. 6.75% Notes due 2022
 FCT,FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
 FCX,FCX|Freeport-McMoRan, Inc. Common Stock
 FDEU,FDEU|First Trust Dynamic Europe Equity Income Fund Common Shares of Beneficial Interest
@@ -1462,6 +1462,7 @@ GNRC,GNRC|Generac Holdlings Inc. Common Stock
 GNT,GNT|GAMCO Natural Resources, Gold & Income Trust
 GNT$A,GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
 GNW,GNW|Genworth Financial Inc Common Stock
+GOAC.U,GOAC.U|GO Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant
 GOED,GOED|1847 Goedeker Inc. Commom Stock
 GOF,GOF|Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOL,GOL|Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares
@@ -3614,7 +3615,6 @@ AGBAU,AGBAU|AGBA Acquisition Limited - Unit
 AGBAW,AGBAW|AGBA Acquisition Limited - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
-AGFSW,AGFSW|AgroFresh Solutions, Inc. - Warrants
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
 AGLE,AGLE|Aeglea BioTherapeutics, Inc. - Common Stock
 AGMH,AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares
@@ -3911,6 +3911,7 @@ BHFAO,BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a
 BHFAP,BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A
 BHTG,BHTG|BioHiTech Global, Inc. - Common Stock
 BIDU,BIDU|Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share
+BIGC,BIGC|BigCommerce Holdings, Inc. - Series 1 Common Stock
 BIIB,BIIB|Biogen Inc. - Common Stock
 BILI,BILI|Bilibili Inc. - American Depositary Shares
 BIMI,BIMI|BOQI International Medical Inc. - Common Stock
@@ -3960,6 +3961,7 @@ BOMN,BOMN|Boston Omaha Corporation - Class A Common Stock
 BOOM,BOOM|DMC Global Inc. - Common Stock
 BOSC,BOSC|B.O.S. Better Online Solutions - Ordinary Shares
 BOTJ,BOTJ|Bank of the James Financial Group, Inc. - Common Stock
+BOWXU,BOWXU|BowX Acquisition Corp. - Unit
 BOXL,BOXL|Boxlight Corporation - Class A Common Stock
 BPFH,BPFH|Boston Private Financial Holdings, Inc. - Common Stock
 BPMC,BPMC|Blueprint Medicines Corporation - Common Stock
@@ -4896,6 +4898,7 @@ HOFT,HOFT|Hooker Furniture Corporation - Common Stock
 HOFV,HOFV|Hall of Fame Resort &amp; Entertainment Company - Common Stock
 HOFVW,HOFVW|Hall of Fame Resort &amp; Entertainment Company - Warrant
 HOLI,HOLI|Hollysys Automation Technologies, Ltd. - Common Stock
+HOLUU,HOLUU|Holicity Inc. - Unit
 HOLX,HOLX|Hologic, Inc. - Common Stock
 HOMB,HOMB|Home BancShares, Inc. - common stock
 HONE,HONE|HarborOne Bancorp, Inc. - Common Stock
@@ -5370,8 +5373,8 @@ MICT,MICT|MICT, Inc. - Common Stock
 MIDD,MIDD|The Middleby Corporation - Common Stock
 MIK,MIK|The Michaels Companies, Inc. - Common Stock
 MIME,MIME|Mimecast Limited - Ordinary Shares
-MIND,MIND|Mitcham Industries, Inc. - Common Stock
-MINDP,MINDP|Mitcham Industries, Inc. - Series A 9.00% Series A Cumulative Preferred Stock
+MIND,MIND|MIND Technology, Inc. - Common Stock
+MINDP,MINDP|MIND Technology, Inc. - Series A 9.00% Series A Cumulative Preferred Stock
 MIRM,MIRM|Mirum Pharmaceuticals, Inc. - common stock
 MIST,MIST|Milestone Pharmaceuticals Inc. - Common Shares
 MITK,MITK|Mitek Systems, Inc. - Common Stock
@@ -6043,6 +6046,7 @@ RVMD,RVMD|Revolution Medicines, Inc. - Common Stock
 RVNC,RVNC|Revance Therapeutics, Inc. - Common Stock
 RVSB,RVSB|Riverview Bancorp Inc - Common Stock
 RWLK,RWLK|ReWalk Robotics Ltd. - Ordinary Shares
+RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
 RYTM,RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock
 SABR,SABR|Sabre Corporation - Common Stock
