@@ -42,6 +42,9 @@ class mainObj:
         return data[["Volume","Open","Close"]]
 
     def find_anomalies(self, data, currentDate):
+        if data.empty:
+            return ([],[],[],[])
+
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
         anomaly_cut_off = data_std * self.STD_CUTTOFF
@@ -64,7 +67,7 @@ class mainObj:
 
     def parallel_wrapper(self,x, currentDate, positive_scans):
         d, changes, deviation, mean = (self.find_anomalies(self.getData(x), currentDate))
-        if d.empty:
+        if (len(d) < 1) or d.empty:
             return
         stonk = dict()
         stonk['Ticker'] = x
