@@ -7,6 +7,9 @@ import os
 import shutil
 import numpy
 from market_scanner import mainObj
+import logging
+
+logging.basicConfig(filename="web_ouput.log", level=logging.INFO)
 
 # this is used by me AUTOMATICALLY to update the web page you can find at: https://sampom100.github.io/UnusualVolumeDetector/
 
@@ -33,16 +36,18 @@ def home():
 
 
 if __name__ == "__main__":
-    os.system('git fetch')
+    # os.system('git fetch')
+    logging.info("Staring main calculation")
     stonk_search = mainObj()
     stonks = stonk_search.main_func()
+    logging.info("Calculation finish")
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
     # I'm lazy :)
-    os.system('git add .')
-    os.system('git commit -m "updated website"')
-    os.system('git push origin master')
-    # print(stonks)
-    # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
+    # os.system('git add .')
+    # os.system('git commit -m "updated website"')
+    # os.system('git push origin master')
+    logging.info(stonks)
+    app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine
