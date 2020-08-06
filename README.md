@@ -36,6 +36,12 @@ Go to the [website](https://unusualvolume.info/)
 
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
+### To-do list
+- automatic intraday support
+- fit volume to lognormal distribution
+- ?
+- profit
+
 
 ### Donations
 
