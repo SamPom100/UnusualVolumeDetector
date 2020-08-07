@@ -1007,7 +1007,6 @@ CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock|N|CTR|N|10
 CTRA|Contura Energy, Inc. Common Stock|N|CTRA|N|100|N|CTRA
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
 CTT|CatchMark Timber Trust, Inc. Class A Common Stock|N|CTT|N|100|N|CTT
-CTV|Qwest Corporation 6.875% Notes due 2054|N|CTV|N|100|N|CTV
 CTVA|Corteva, Inc. Common Stock |N|CTVA|N|100|N|CTVA
 CTY|Qwest Corporation 6.125% Notes due 2053|N|CTY|N|100|N|CTY
 CTZ|Qwest Corporation 6.625% Notes due 2055|N|CTZ|N|100|N|CTZ
@@ -4680,6 +4679,7 @@ TFC$G|Truist Financial Corporation Depositary Shares Series G|N|TFCpG|N|100|N|TF
 TFC$H|Truist Financial Corporation Series H |N|TFCpH|N|100|N|TFC-H
 TFC$I|Truist Financial Corporation Depositary Shares|N|TFCpI|N|100|N|TFC-I
 TFC$O|Truist Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series O Non-Cumulative Perpetual Preferred Stock|N|TFCpO|N|100|N|TFC-O
+TFC$R|Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock|N|TFCpR|N|100|N|TFC-R
 TFI|SPDR Nuveen Bloomberg Barclays Municipal Bond ETF|P|TFI|Y|100|N|TFI
 TFII|TFI International Inc. Common Shares|N|TFII|N|100|N|TFII
 TFIV|Global X TargetIncome 5 ETF|Z|TFIV|Y|100|N|TFIV
@@ -4777,7 +4777,9 @@ TPYP|Tortoise North American Pipeline ETF|P|TPYP|Y|100|N|TPYP
 TPZ|Tortoise Power and Energy Infrastructure Fund, Inc Common Stock|N|TPZ|N|100|N|TPZ
 TR|Tootsie Roll Industries, Inc. Common Stock|N|TR|N|100|N|TR
 TRC|Tejon Ranch Co Common Stock|N|TRC|N|100|N|TRC
+TREB|Trebia Acquisition Corp. Class A Ordinary Shares|N|TREB|N|100|N|TREB
 TREB.U|Trebia Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant|N|TREB.U|N|100|N|TREB=
+TREB.W|Trebia Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|TREB.WS|N|100|N|TREB+
 TREC|Trecora Resources Common Stock|N|TREC|N|100|N|TREC
 TREX|Trex Company, Inc. Common Stock|N|TREX|N|100|N|TREX
 TRGP|Targa Resources, Inc. Common Stock|N|TRGP|N|100|N|TRGP
@@ -5371,4 +5373,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0806202014:02||||||
+File Creation Time: 0807202012:11||||||
