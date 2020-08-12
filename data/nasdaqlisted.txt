@@ -285,7 +285,7 @@ ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
 ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
-ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|D|100|N|N
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100|N|N
 ATLO|Ames National Corporation - Common Stock|S|N|N|100|N|N
 ATNI|ATN International, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1288,6 +1288,7 @@ FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|N|100|N
 FRTA|Forterra, Inc. - Common Stock|Q|N|N|100|N|N
 FSBW|FS Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FSCT|ForeScout Technologies, Inc. - Common Stock|G|N|N|100|N|N
+FSDC|FS Development Corp. - Class A Common Stock|S|N|N|100|N|N
 FSEA|First Seacoast Bancorp - Common Stock|S|N|N|100|N|N
 FSFG|First Savings Financial Group, Inc. - Common Stock|S|N|N|100|N|N
 FSLR|First Solar, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1525,7 +1526,7 @@ HCKT|The Hackett Group, Inc. - Common Stock|Q|N|N|100|N|N
 HCM|Hutchison China MediTech Limited - American Depositary Shares|Q|N|N|100|N|N
 HCSG|Healthcare Services Group, Inc. - Common Stock|Q|N|N|100|N|N
 HDS|HD Supply Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-HDSN|Hudson Technologies, Inc. - Common Stock|S|N|D|100|N|N
+HDSN|Hudson Technologies, Inc. - Common Stock|S|N|N|100|N|N
 HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100|N|N
 HEBT|Hebron Technology Co., Ltd. - Class A Common Shares|S|N|N|100|N|N
 HEC|Hudson Executive Investment Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -1833,6 +1834,8 @@ KBLM|KBL Merger Corp. IV - Common Stock|S|N|D|100|N|N
 KBLMR|KBL Merger Corp. IV - Rights|S|N|D|100|N|N
 KBLMU|KBL Merger Corp. IV - Unit|S|N|D|100|N|N
 KBLMW|KBL Merger Corp. IV - Warrant|S|N|D|100|N|N
+KBNT|Kubient, Inc. - Common Stock|S|N|N|100|N|N
+KBNTW|Kubient, Inc. - Warrant|S|N|N|100|N|N
 KBSF|KBS Fashion Group Limited - Common Stock|S|N|N|100|N|N
 KBWB|Invesco KBW Bank ETF|G|N|N|100|Y|N
 KBWD|Invesco KBW High Dividend Yield Financial ETF|G|N|N|100|Y|N
@@ -1865,6 +1868,7 @@ KNSA|Kiniksa Pharmaceuticals, Ltd. - Class A Common Stock|Q|N|N|100|N|N
 KNSL|Kinsale Capital Group, Inc. - Common Stock|Q|N|N|100|N|N
 KOD|Kodiak Sciences Inc - Common Stock|G|N|N|100|N|N
 KOPN|Kopin Corporation - Common Stock|S|N|N|100|N|N
+KOR|Corvus Gold Inc. - Common Shares|S|N|N|100|N|N
 KOSS|Koss Corporation - Common Stock|S|N|N|100|N|N
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 KRKR|36Kr Holdings Inc. - American Depositary Shares|G|N|N|100|N|N
@@ -2303,7 +2307,7 @@ NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100|N|N
 NRIX|Nurix Therapeutics, Inc. - Common stock|G|N|N|100|N|N
 NSEC|National Security Group, Inc. - Common Stock|G|N|N|100|N|N
 NSIT|Insight Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
-NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100|N|N
+NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|D|100|N|N
 NSTG|NanoString Technologies, Inc. - Common Stock|G|N|N|100|N|N
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100|N|N
 NTAP|NetApp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3055,7 +3059,7 @@ SPT|Sprout Social, Inc - Class A Common Stock|S|N|N|100|N|N
 SPTN|SpartanNash Company - Common Stock|Q|N|N|100|N|N
 SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPWR|SunPower Corporation - Common Stock|Q|N|N|100|N|N
-SQBG|Sequential Brands Group, Inc. - Common Stock|S|N|D|100|N|N
+SQBG|Sequential Brands Group, Inc. - Common Stock|S|N|N|100|N|N
 SQLV|Legg Mason Small-Cap Quality Value ETF|G|N|N|100|Y|N
 SQQQ|ProShares UltraPro Short QQQ|G|N|N|100|Y|N
 SRAC|Stable Road Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -3287,7 +3291,7 @@ TUSK|Mammoth Energy Services, Inc. - Common Stock|Q|N|D|100|N|N
 TVTY|Tivity Health, Inc. - Common Stock|Q|N|N|100|N|N
 TW|Tradeweb Markets Inc. - Class A Common Stock|Q|N|N|100|N|N
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100|N|N
-TWMC|Trans World Entertainment Corp. - Common Stock|S|N|N|100|N|N
+TWMC|Trans World Entertainment Corp. - Common Stock|S|N|D|100|N|N
 TWNK|Hostess Brands, Inc. - Class A Common Stock|S|N|N|100|N|N
 TWNKW|Hostess Brands, Inc. - Warrants|S|N|N|100|N|N
 TWOU|2U, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3505,6 +3509,7 @@ WPRT|Westport Fuel Systems Inc - Common Shares|Q|N|N|100|N|N
 WRLD|World Acceptance Corporation - Common Stock|Q|N|N|100|N|N
 WRTC|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
 WSBC|WesBanco, Inc. - Common Stock|Q|N|N|100|N|N
+WSBCP|WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A|Q|N|N|100|N|N
 WSBF|Waterstone Financial, Inc. - Common Stock|Q|N|N|100|N|N
 WSC|WillScot Mobile Mini Holdings Corp. - Class A Common Stock|S|N|N|100|N|N
 WSFS|WSFS Financial Corporation - Common Stock|Q|N|N|100|N|N
@@ -3610,4 +3615,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0811202014:02|||||||
+File Creation Time: 0812202012:11|||||||
