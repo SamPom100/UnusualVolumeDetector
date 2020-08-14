@@ -911,6 +911,7 @@ DFVL,DFVL|iPath US Treasury 5 Year Bull ETN
 DFVS,DFVS|iPath US Treasury 5 Year Bear ETN
 DG,DG|Dollar General Corporation Common Stock
 DGBP,DGBP|ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index
+DGNR.U,DGNR.U|Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
 DGP,DGP|DB Gold Double Long ETN due February 15, 2038
 DGX,DGX|Quest Diagnostics Incorporated Common Stock
 DGZ,DGZ|DB Gold Short ETN due February 15, 2038
@@ -954,6 +955,7 @@ DMF,DMF|BNY Mellon Municipal Income Inc. Common Stock
 DMO,DMO|Western Asset Mortgage Opportunity Fund Inc. Common Stock
 DMS,DMS|Digital Media Solutions, Inc. Class A Ordinary Shares
 DMS.W,DMS.W|Digital Media Solutions, Inc. Warrants, 
+DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
 DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
@@ -1332,7 +1334,9 @@ FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS 
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
 FUL,FUL|H. B. Fuller Company Common Stock
 FUN,FUN|Cedar Fair, L.P. Common Stock
+FUSE,FUSE|Fusion Acquisition Corp. Class A Common Stock
 FUSE.U,FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
+FUSE.W,FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FVAC,FVAC|Fortress Value Acquisition Corp. Class A Common Stock
 FVAC.U,FVAC.U|Fortress Value Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one Warrant
 FVAC.W,FVAC.W|Fortress Value Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
@@ -3350,7 +3354,7 @@ VICI,VICI|VICI Properties Inc. Common Stock
 VIPS,VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares
 VIST,VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
 VIV,VIV|Telefonica Brasil, S.A. ADS
-VJET,VJET|voxeljet AG American Depositary Shares, each representing one-fifth of an ordinary share/
+VJET,VJET|voxeljet AG American Depositary Shares, each representing one Ordinary share/
 VKI,VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
 VKQ,VKQ|Invesco Municipal Trust Common Stock
 VLO,VLO|Valero Energy Corporation Common Stock
@@ -4311,6 +4315,7 @@ CTXS,CTXS|Citrix Systems, Inc. - Common Stock
 CUBA,CUBA|The Herzfeld Caribbean Basin Fund, Inc. - Closed End FUnd
 CUE,CUE|Cue Biopharma, Inc. - Common Stock
 CUTR,CUTR|Cutera, Inc. - Common Stock
+CVAC,CVAC|CureVac N.V. - Ordinary Shares
 CVBF,CVBF|CVB Financial Corporation - Common Stock
 CVCO,CVCO|Cavco Industries, Inc. - Common Stock
 CVCY,CVCY|Central Valley Community Bancorp - Common Stock
@@ -4350,6 +4355,7 @@ DBX,DBX|Dropbox, Inc. - Class A Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
+DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
 DENN,DENN|Denny's Corporation - Common Stock
@@ -4611,6 +4617,7 @@ FLL,FLL|Full House Resorts, Inc. - Common Stock
 FLMN,FLMN|Falcon Minerals Corporation - Class A Common Stock
 FLMNW,FLMNW|Falcon Minerals Corporation - Warrant
 FLNT,FLNT|Fluent, Inc. - Common Stock
+FLUX,FLUX|Flux Power Holdings, Inc. - Common Stock
 FLWS,FLWS|1-800-FLOWERS.COM, Inc. - Class A Common Stock
 FLXN,FLXN|Flexion Therapeutics, Inc. - Common Stock
 FLXS,FLXS|Flexsteel Industries, Inc. - Common Stock
@@ -5203,6 +5210,7 @@ LBTYK,LBTYK|Liberty Global plc - Class C Ordinary Shares
 LCA,LCA|Landcadia Holdings II, Inc. - Class A Common Stock
 LCAHU,LCAHU|Landcadia Holdings II, Inc. - Unit
 LCAHW,LCAHW|Landcadia Holdings II, Inc. - Warrant
+LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCNB,LCNB|LCNB Corporation - Common Stock
 LCUT,LCUT|Lifetime Brands, Inc. - Common Stock
 LE,LE|Lands' End, Inc. - Common Stock
@@ -5319,6 +5327,7 @@ MARPS,MARPS|Marine Petroleum Trust - Units of Beneficial Interest
 MASI,MASI|Masimo Corporation - Common Stock
 MAT,MAT|Mattel, Inc. - Common Stock
 MATW,MATW|Matthews International Corporation - Class A Common Stock
+MAXNV,MAXNV|Maxeon Solar Technologies, Ltd. - Ordinary Shares
 MAYS,MAYS|J. W. Mays, Inc. - Common Stock
 MBCN,MBCN|Middlefield Banc Corp. - Common Stock
 MBII,MBII|Marrone Bio Innovations, Inc. - Common Stock
@@ -6248,6 +6257,7 @@ SPT,SPT|Sprout Social, Inc - Class A Common Stock
 SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
+SPWRV,SPWRV|SunPower Corporation - Common Stock Ex-Distribution When Issued
 SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
 SRAC,SRAC|Stable Road Acquisition Corp. - Class A Common Stock
 SRACU,SRACU|Stable Road Acquisition Corp. - Unit

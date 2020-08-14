@@ -1143,6 +1143,7 @@ DFVS|iPath US Treasury 5 Year Bear ETN|Z|DFVS|N|100|N|DFVS
 DG|Dollar General Corporation Common Stock|N|DG|N|100|N|DG
 DGBP|ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index|P|DGBP|N|100|N|DGBP
 DGL|Invesco DB Gold Fund|P|DGL|Y|100|N|DGL
+DGNR.U|Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|DGNR.U|N|100|N|DGNR=
 DGP|DB Gold Double Long ETN due February 15, 2038|P|DGP|N|100|N|DGP
 DGRO|iShares Core Dividend Growth ETF|P|DGRO|Y|100|N|DGRO
 DGS|WisdomTree Emerging Market SmallCap Fund|P|DGS|Y|100|N|DGS
@@ -1212,6 +1213,7 @@ DMRM|DeltaShares S&P 400 Managed Risk ETF|P|DMRM|Y|100|N|DMRM
 DMRS|DeltaShares S&P 600 Managed Risk ETF|P|DMRS|Y|100|N|DMRS
 DMS|Digital Media Solutions, Inc. Class A Ordinary Shares|N|DMS|N|100|N|DMS
 DMS.W|Digital Media Solutions, Inc. Warrants, |N|DMS.WS|N|100|N|DMS+
+DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|DMYD.U|N|100|N|DMYD=
 DMYT|dMY Technology Group, Inc. Class A Common Stock|N|DMYT|N|100|N|DMYT
 DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|DMYT.U|N|100|N|DMYT=
 DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|DMYT.WS|N|100|N|DMYT+
@@ -1897,7 +1899,9 @@ FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Retur
 FUL|H. B. Fuller Company Common Stock|N|FUL|N|100|N|FUL
 FUMB|First Trust Ultra Short Duration Municipal ETF|P|FUMB|Y|100|N|FUMB
 FUN|Cedar Fair, L.P. Common Stock|N|FUN|N|100|N|FUN
+FUSE|Fusion Acquisition Corp. Class A Common Stock|N|FUSE|N|100|N|FUSE
 FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|FUSE.U|N|100|N|FUSE=
+FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FUSE.WS|N|100|N|FUSE+
 FUT|ProShares Managed Futures Strategy ETF|Z|FUT|Y|100|N|FUT
 FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAC|Fortress Value Acquisition Corp. Class A Common Stock|N|FVAC|N|100|N|FVAC
@@ -5061,7 +5065,7 @@ VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representi
 VIV|Telefonica Brasil, S.A. ADS|N|VIV|N|100|N|VIV
 VIXM|ProShares Trust VIX Mid-Term Futures ETF|P|VIXM|Y|100|N|VIXM
 VIXY|ProShares Trust VIX Short-Term Futures ETF|P|VIXY|Y|100|N|VIXY
-VJET|voxeljet AG American Depositary Shares, each representing one-fifth of an ordinary share/|N|VJET|N|100|N|VJET
+VJET|voxeljet AG American Depositary Shares, each representing one Ordinary share/|N|VJET|N|100|N|VJET
 VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)|A|VKI|N|100|N|VKI
 VKQ|Invesco Municipal Trust Common Stock|N|VKQ|N|100|N|VKQ
 VLO|Valero Energy Corporation Common Stock|N|VLO|N|100|N|VLO
@@ -5372,4 +5376,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0813202018:01||||||
+File Creation Time: 0814202012:11||||||
