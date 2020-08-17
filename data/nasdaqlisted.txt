@@ -27,7 +27,7 @@ ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100|N|N
 ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F|Q|N|N|100|N|N
 ACGLP|Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs|Q|N|N|100|N|N
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100|N|N
-ACHV|Achieve Life Sciences, Inc.  - Common Shares|S|N|D|100|N|N
+ACHV|Achieve Life Sciences, Inc.  - Common Shares|S|N|N|100|N|N
 ACIA|Acacia Communications, Inc. - Common Stock|Q|N|N|100|N|N
 ACIU|AC Immune SA - Common Stock|G|N|N|100|N|N
 ACIW|ACI Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1072,12 +1072,12 @@ ERYP|Erytech Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
 ESBK|Elmira Savings Bank NY (The) - Common Stock|S|N|N|100|N|N
 ESCA|Escalade, Incorporated - Common Stock|G|N|N|100|N|N
 ESEA|Euroseas Ltd. - Common Stock|S|N|N|100|N|N
-ESGD|iShares ESG MSCI EAFE ETF|G|N|N|100|Y|N
-ESGE|iShares ESG MSCI EM ETF|G|N|N|100|Y|N
+ESGD|iShares ESG Aware MSCI EAFE ETF|G|N|N|100|Y|N
+ESGE|iShares ESG Aware MSCI EM ETF|G|N|N|100|Y|N
 ESGR|Enstar Group Limited - Ordinary Shares|Q|N|N|100|N|N
 ESGRO|Enstar Group Limited - Depository Shares 7.00% Perpetual Non-Cumulative Preference Shares, Series E|Q|N|N|100|N|N
 ESGRP|Enstar Group Limited - Depositary Shares Each Representing 1/1000th of an interest in Preference Shares|Q|N|N|100|N|N
-ESGU|iShares ESG MSCI USA ETF|G|N|N|100|Y|N
+ESGU|iShares ESG Aware MSCI USA ETF|G|N|N|100|Y|N
 ESLT|Elbit Systems Ltd. - Ordinary Shares|Q|N|D|100|N|N
 ESPO|VanEck Vectors Video Gaming and eSports ETF|G|N|N|100|Y|N
 ESPR|Esperion Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -1360,7 +1360,6 @@ GBDC|Golub Capital BDC, Inc. - Common Stock|Q|N|N|100|N|N
 GBIO|Generation Bio Co. - Common stock|Q|N|N|100|N|N
 GBLI|Global Indemnity Limited - Class A Common Shares|Q|N|N|100|N|N
 GBLIL|Global Indemnity Limited - 7.875% Subordinated Notes due 2047|Q|N|N|100|N|N
-GBLIZ|Global Indemnity Limited - 7.75% Subordinated Note Due 2045|Q|N|N|100|N|N
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 GDEN|Golden Entertainment, Inc. - Common Stock|G|N|N|100|N|N
@@ -2173,7 +2172,7 @@ MRBK|Meridian Corporation - Common Stock|Q|N|N|100|N|N
 MRCC|Monroe Capital Corporation - Common Stock|Q|N|N|100|N|N
 MRCCL|Monroe Capital Corporation - 5.75% Notes due 2023|Q|N|N|100|N|N
 MRCY|Mercury Systems Inc - Common Stock|Q|N|N|100|N|N
-MREO|Mereo BioPharma Group plc - American Depositary Shares|G|N|N|100|N|N
+MREO|Mereo BioPharma Group plc - American Depositary Shares|G|N|D|100|N|N
 MRIN|Marin Software Incorporated - Common Stock|G|N|N|100|N|N
 MRKR|Marker Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 MRLN|Marlin Business Services Corp. - Common Stock|Q|N|N|100|N|N
@@ -2598,7 +2597,6 @@ PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares|Q|N|N|100|N|N
 PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100|N|N
 PMD|Psychemedics Corporation - Common Stock|S|N|N|100|N|N
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100|N|N
-PMOM|Principal Sustainable Momentum Index ETF|G|N|N|100|Y|N
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100|N|N
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100|N|N
 PNFPP|Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B|Q|N|N|100|N|N
@@ -2618,7 +2616,6 @@ PPBI|Pacific Premier Bancorp Inc - Common Stock|Q|N|N|100|N|N
 PPC|Pilgrim's Pride Corporation - Common Stock|Q|N|N|100|N|N
 PPD|PPD, Inc. - Common Stock|Q|N|N|100|N|N
 PPH|VanEck Vectors Pharmaceutical ETF|G|N|N|100|Y|N
-PPHI|Positive Physicians Holdings, Inc. - Common Stock|S|N|D|100|N|N
 PPIH|Perma-Pipe International Holdings, Inc. - Common Stock|G|N|N|100|N|N
 PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100|N|N
 PRAA|PRA Group, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2691,7 +2688,6 @@ PUI|Invesco DWA Utilities Momentum ETF|G|N|N|100|Y|N
 PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100|N|N
 PUYI|Puyi Inc. - American Depository Shares|G|N|N|100|N|N
 PVAC|Penn Virginia Corporation - Common Stock|Q|N|N|100|N|N
-PVAL|Principal Contrarian Value Index ETF|G|N|N|100|Y|N
 PVBC|Provident Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 PWFL|PowerFleet, Inc. - Common Stock|G|N|N|100|N|N
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3610,7 +3606,7 @@ ZNGA|Zynga Inc. - Class A Common Stock|Q|N|N|100|N|N
 ZNTL|Zentalis Pharmaceuticals, Inc. - common stock|G|N|N|100|N|N
 ZNWAA|Zion Oil  - Warrants|S|N|D|100|N|N
 ZS|Zscaler, Inc. - Common Stock|Q|N|N|100|N|N
-ZSAN|Zosano Pharma Corporation - Common Stock|S|N|D|100|N|N
+ZSAN|Zosano Pharma Corporation - Common Stock|S|N|N|100|N|N
 ZUMZ|Zumiez Inc. - Common Stock|Q|N|N|100|N|N
 ZVO|Zovio Inc. - Common Stock|Q|N|N|100|N|N
 ZVZZC|NASDAQ TEST STOCK Nextshares Test Security|G|Y|N|100||Y
@@ -3620,4 +3616,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0814202017:01|||||||
+File Creation Time: 0817202012:11|||||||

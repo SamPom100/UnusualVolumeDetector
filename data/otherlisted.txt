@@ -40,8 +40,8 @@ ACSG|Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF|P|ACSG|Y|100|N|ACSG
 ACSI|American Customer Satisfaction ETF|Z|ACSI|Y|100|N|ACSI
 ACU|Acme United Corporation. Common Stock|A|ACU|N|100|N|ACU
 ACV|AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest|N|ACV|N|100|N|ACV
-ACWF|iShares Edge MSCI Multifactor Global ETF|P|ACWF|Y|100|N|ACWF
-ACWV|iShares Edge MSCI Min Vol Global ETF|Z|ACWV|Y|100|N|ACWV
+ACWF|iShares MSCI Global Multifactor ETF|P|ACWF|Y|100|N|ACWF
+ACWV|iShares MSCI Global Min Vol Factor ETF|Z|ACWV|Y|100|N|ACWV
 ACY|AeroCentury Corp. Common Stock|A|ACY|N|100|N|ACY
 ADC|Agree Realty Corporation Common Stock|N|ADC|N|100|N|ADC
 ADCT|ADC Therapeutics SA Common Shares|N|ADCT|N|100|N|ADCT
@@ -1362,7 +1362,7 @@ EEM|iShares MSCI Emerging Index Fund|P|EEM|Y|100|N|EEM
 EEMD|AAM S&P Emerging Markets High Dividend Value ETF|P|EEMD|Y|100|N|EEMD
 EEMO|Invesco S&P Emerging Markets Momentum ETF|P|EEMO|Y|100|N|EEMO
 EEMS|Ishares MSCI Emerging Markets Small Cap Index Fund|P|EEMS|Y|100|N|EEMS
-EEMV|iShares Edge MSCI Min Vol Emerging Markets ETF|Z|EEMV|Y|100|N|EEMV
+EEMV|iShares MSCI Emerging Markets Min Vol Factor ETF|Z|EEMV|Y|100|N|EEMV
 EEMX|SPDR MSCI Emerging Markets Fuel Reserves Free ETF|P|EEMX|Y|100|N|EEMX
 EES|WisdomTree U.S. SmallCap Fund|P|EES|Y|100|N|EES
 EET|ProShares Ultra MSCI Emerging Markets|P|EET|Y|100|N|EET
@@ -1370,7 +1370,7 @@ EEV|ProShares UltraShort MSCI Emerging Markets|P|EEV|Y|100|N|EEV
 EEX|Emerald Holding, Inc. Common Stock|N|EEX|N|100|N|EEX
 EFA|iShares MSCI EAFE ETF|P|EFA|Y|100|N|EFA
 EFAD|ProShares Trust ProShares MSCI EAFE Dividend Growers ETF|Z|EFAD|Y|100|N|EFAD
-EFAV|iShares Edge MSCI Min Vol EAFE ETF|Z|EFAV|Y|100|N|EFAV
+EFAV|iShares MSCI EAFE Min Vol Factor ETF|Z|EFAV|Y|100|N|EFAV
 EFAX|SPDR MSCI EAFE Fossil Fuel Reserves Free ETF|P|EFAX|Y|100|N|EFAX
 EFC|Ellington Financial Inc. Common Stock |N|EFC|N|100|N|EFC
 EFC$A|Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|EFCpA|N|100|N|EFC-A
@@ -1430,7 +1430,7 @@ EMDV|ProShares MSCI Emerging Markets Dividend Growers ETF|Z|EMDV|Y|100|N|EMDV
 EME|EMCOR Group, Inc. Common Stock|N|EME|N|100|N|EME
 EMF|Templeton Emerging Markets Fund Common Stock|N|EMF|N|100|N|EMF
 EMFM|Global X MSCI Next Emerging & Frontier ETF|P|EMFM|Y|100|N|EMFM
-EMGF|iShares Edge MSCI Multifactor Emerging Markets ETF|Z|EMGF|Y|100|N|EMGF
+EMGF|iShares MSCI Emerging Markets Multifactor ETF|Z|EMGF|Y|100|N|EMGF
 EMHY|iShares J.P. Morgan EM High Yield Bond ETF|Z|EMHY|Y|100|N|EMHY
 EMLC|VanEck Vectors J.P. Morgan EM Local Currency Bond ETF|P|EMLC|Y|100|N|EMLC
 EMLP|First Trust North American Energy Infrastructure Fund|P|EMLP|Y|100|N|EMLP
@@ -1524,7 +1524,7 @@ ESGS|Columbia Sustainable U.S. Equity Income ETF|P|ESGS|Y|100|N|ESGS
 ESGV|Vanguard ESG U.S. Stock ETF|Z|ESGV|Y|100|N|ESGV
 ESHY|Xtrackers J.P. Morgan ESG USD High Yield Corporate Bond ETF|Z|ESHY|Y|100|N|ESHY
 ESI|Element Solutions Inc. Common Stock|N|ESI|N|100|N|ESI
-ESML|iShares ESG MSCI USA Small-Cap ETF|Z|ESML|Y|100|N|ESML
+ESML|iShares ESG Aware MSCI USA Small-Cap ETF|Z|ESML|Y|100|N|ESML
 ESNG|Direxion MSCI USA ESG - Leaders vs. Laggards ETF|P|ESNG|Y|100|N|ESNG
 ESNT|Essent Group Ltd. Common Shares|N|ESNT|N|100|N|ESNT
 ESP|Espey Mfg. & Electronics Corp. Common Stock|A|ESP|N|100|N|ESP
@@ -1715,7 +1715,7 @@ FHN$C|First Horizon National Corporation Depositary Shares, each representing a 
 FHN$D|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D|N|FHNpD|N|100|N|FHN-D
 FHN$E|First Horizon National Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E|N|FHNpE|N|100|N|FHN-E
 FI|Frank's International N.V. Common Stock|N|FI|N|100|N|FI
-FIBR|iShares Edge U.S. Fixed Income Balanced Risk ETF|Z|FIBR|Y|100|N|FIBR
+FIBR|iShares U.S. Fixed Income Balanced Risk Factor ETF|Z|FIBR|Y|100|N|FIBR
 FICO|Fair Isaac Corproation Common Stock|N|FICO|N|100|N|FICO
 FIDI|Fidelity International High Dividend ETF|P|FIDI|Y|100|N|FIDI
 FIDU|Fidelity MSCI Industrials Index ETF|P|FIDU|Y|100|N|FIDU
@@ -1865,7 +1865,6 @@ FRLG|Large Cap Growth Index-Linked Exchange Traded Notes due 2028|P|FRLG|N|100|N
 FRO|Frontline Ltd. Ordinary Shares|N|FRO|N|100|N|FRO
 FRT|Federal Realty Investment Trust Common Stock|N|FRT|N|100|N|FRT
 FRT$C|Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share|N|FRTpC|N|100|N|FRT-C
-FSB|Franklin Financial Network, Inc. Common Stock|N|FSB|N|100|N|FSB
 FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest|N|FSD|N|100|N|FSD
 FSI|Flexible Solutions International Inc. Common Stock (CDA)|A|FSI|N|100|N|FSI
 FSK|FS KKR Capital Corp. Common Stock|N|FSK|N|100|N|FSK
@@ -2350,7 +2349,7 @@ HXL|Hexcel Corporation Common Stock|N|HXL|N|100|N|HXL
 HY|Hyster-Yale Materials Handling, Inc. Class A Common Stock|N|HY|N|100|N|HY
 HYB|New America High Income Fund, Inc. (The) Common Stock|N|HYB|N|100|N|HYB
 HYD|VanEck Vectors High Yield Municipal Index ETF|Z|HYD|Y|100|N|HYD
-HYDB|iShares Edge High Yield Defensive Bond ETF|Z|HYDB|Y|100|N|HYDB
+HYDB|iShares High Yield Bond Factor ETF|Z|HYDB|Y|100|N|HYDB
 HYDW|Xtrackers Low Beta High Yield Bond ETF|P|HYDW|Y|100|N|HYDW
 HYEM|VanEck Vectors Emerging Markets High Yield Bond ETF|P|HYEM|Y|100|N|HYEM
 HYG|iShares iBoxx $ High Yield Corporate Bond ETF|P|HYG|Y|100|N|HYG
@@ -2463,7 +2462,7 @@ IGBH|iShares Interest Rate Hedged Long-Term Corporate Bond ETF|P|IGBH|Y|100|N|IG
 IGC|India Globalization Capital Inc. Common Stock|A|IGC|N|100|N|IGC
 IGD|Voya Global Equity Dividend and Premium Opportunity Fund|N|IGD|N|100|N|IGD
 IGE|iShares North American Natural Resources ETF|Z|IGE|Y|100|N|IGE
-IGEB|iShares Edge Investment Grade Enhanced Bond ETF|Z|IGEB|Y|100|N|IGEB
+IGEB|iShares Investment Grade Bond Factor ETF|Z|IGEB|Y|100|N|IGEB
 IGHG|ProShares Investment Grade-Interest Rate Hedged|Z|IGHG|Y|100|N|IGHG
 IGI|Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock|N|IGI|N|100|N|IGI
 IGLB|Shares Long-Term Corporate Bond ETF|P|IGLB|Y|100|N|IGLB
@@ -2508,7 +2507,7 @@ IMLP|iPath S&P MLP ETN|Z|IMLP|N|100|N|IMLP
 IMO|Imperial Oil Limited Common Stock|A|IMO|N|100|N|IMO
 IMOM|Alpha Architect International Quantitative Momentum ETF|Z|IMOM|Y|100|N|IMOM
 IMTB|iShares Core 5-10 Year USD Bond ETF|P|IMTB|Y|100|N|IMTB
-IMTM|iShares Edge MSCI Intl Momentum Factor ETF|P|IMTM|Y|100|N|IMTM
+IMTM|iShares MSCI Intl Momentum Factor ETF|P|IMTM|Y|100|N|IMTM
 INCO|Columbia India Consumer ETF|P|INCO|Y|100|N|INCO
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
 INDL|Direxion Daily MSCI India Bull 3x Shares|P|INDL|Y|100|N|INDL
@@ -2529,7 +2528,7 @@ INSP|Inspire Medical Systems, Inc. Common Stock|N|INSP|N|100|N|INSP
 INSW|International Seaways, Inc. Common Stock |N|INSW|N|100|N|INSW
 INSW$A|International Seaways, Inc. 8.50% Senior Notes due June 30, 2023|N|INSWpA|N|100|N|INSW-A
 INT|World Fuel Services Corporation Common Stock|N|INT|N|100|N|INT
-INTF|iShares Edge MSCI Multifactor Intl ETF|P|INTF|Y|100|N|INTF
+INTF|iShares MSCI Intl Multifactor ETF|P|INTF|Y|100|N|INTF
 INTT|inTest Corporation Common Stock|A|INTT|N|100|N|INTT
 INUV|Inuvo, Inc.|A|INUV|N|100|N|INUV
 INVH|Invitation Homes Inc. Common Stock|N|INVH|N|100|N|INVH
@@ -2561,7 +2560,7 @@ IQDG|WisdomTree International Quality Dividend Growth Fund|Z|IQDG|Y|100|N|IQDG
 IQDY|FlexShares International Quality Dividend Dynamic Index Fund|P|IQDY|Y|100|N|IQDY
 IQI|Invesco Quality Municipal Income Trust Common Stock|N|IQI|N|100|N|IQI
 IQIN|IQ 500 International ETF|P|IQIN|Y|100|N|IQIN
-IQLT|iShares Edge MSCI Intl Quality Factor ETF|P|IQLT|Y|100|N|IQLT
+IQLT|iShares MSCI Intl Quality Factor ETF|P|IQLT|Y|100|N|IQLT
 IQM|Franklin Intelligent Machines ETF|Z|IQM|Y|100|N|IQM
 IQSI|IQ Candriam ESG International Equity ETF|P|IQSI|Y|100|N|IQSI
 IQSU|IQ Candriam ESG US Equity ETF|P|IQSU|Y|100|N|IQSU
@@ -2575,13 +2574,13 @@ IRM|Iron Mountain Incorporated (Delaware)Common Stock REIT|N|IRM|N|100|N|IRM
 IRR|Voya Natural Resources Equity Income Fund Common Shares of Beneficial Interest|N|IRR|N|100|N|IRR
 IRS|IRSA Inversiones Y Representaciones S.A. Common Stock|N|IRS|N|100|N|IRS
 IRT|Independence Realty Trust, Inc. Common Stock|N|IRT|N|100|N|IRT
-ISCF|iShares Edge MSCI Intl Size Factor ETF|P|ISCF|Y|100|N|ISCF
+ISCF|iShares MSCI Intl Small-Cap Multifactor ETF|P|ISCF|Y|100|N|ISCF
 ISD|PGIM High Yield Bond Fund, Inc.|N|ISD|N|100|N|ISD
 ISDR|Issuer Direct Corporation Common Stock|A|ISDR|N|100|N|ISDR
 ISMD|Inspire Small/Mid Cap Impact ETF|P|ISMD|Y|100|N|ISMD
 ISR|IsoRay, Inc. Common Stock (DE)|A|ISR|N|100|N|ISR
 ISRA|VanEck Vectors Israel ETF|P|ISRA|Y|100|N|ISRA
-ISZE|iShares Edge MSCI Intl Size Factor ETF|P|ISZE|Y|100|N|ISZE
+ISZE|iShares MSCI Intl Size Factor ETF|P|ISZE|Y|100|N|ISZE
 IT|Gartner, Inc. Common Stock|N|IT|N|100|N|IT
 ITA|iShares U.S. Aerospace & Defense ETF|Z|ITA|Y|100|N|ITA
 ITB|iShares U.S. Home Construction ETF|Z|ITB|Y|100|N|ITB
@@ -2600,7 +2599,7 @@ IVC|Invacare Corporation Common Stock|N|IVC|N|100|N|IVC
 IVE|iShares S&P 500 Value ETF|P|IVE|Y|100|N|IVE
 IVES|Wedbush ETFMG Global Cloud Technology ETF|P|IVES|Y|100|N|IVES
 IVH|Ivy High Income Opportunities Fund Common Shares of Beneficial Interest|N|IVH|N|100|N|IVH
-IVLU|iShares Edge MSCI Intl Value Factor ETF|P|IVLU|Y|100|N|IVLU
+IVLU|iShares MSCI Intl Value Factor ETF|P|IVLU|Y|100|N|IVLU
 IVOG|Vanguard S&P Mid-Cap 400 Growth ETF|P|IVOG|Y|100|N|IVOG
 IVOL|Quadratic Interest Rate Volatility and Inflation Hedge ETF|P|IVOL|Y|100|N|IVOL
 IVOO|Vanguard S&P Mid-Cap 400 ETF|P|IVOO|Y|100|N|IVOO
@@ -2795,7 +2794,9 @@ KBA|KraneShares Bosera MSCI China A ETF|P|KBA|Y|100|N|KBA
 KBE|SPDR S&P Bank ETF|P|KBE|Y|100|N|KBE
 KBH|KB Home Common Stock|N|KBH|N|100|N|KBH
 KBR|KBR, Inc. Common Stock|N|KBR|N|100|N|KBR
+KCAC|Kensington Capital Acquisition Corp. Class A Common Stock|N|KCAC|N|100|N|KCAC
 KCAC.U|Kensington Capital Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|KCAC.U|N|100|N|KCAC=
+KCAC.W|Kensington Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|KCAC.WS|N|100|N|KCAC+
 KCCB|KraneShares CCBS China Corporate High Yield Bond USD Index ETF|P|KCCB|Y|100|N|KCCB
 KCE|SPDR S&P Capital Markets ETF|P|KCE|Y|100|N|KCE
 KCNY|KraneShares E Fund China Commercial Paper ETF|P|KCNY|Y|100|N|KCNY
@@ -2975,7 +2976,7 @@ LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LQDI|iShares Inflation Hedged Corporate Bond ETF|Z|LQDI|Y|100|N|LQDI
-LRGF|iShares Edge MSCI Multifactor USA ETF|P|LRGF|Y|100|N|LRGF
+LRGF|iShares MSCI USA Multifactor ETF|P|LRGF|Y|100|N|LRGF
 LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
 LRNZ|TrueShares Technology, AI & Deep Learning ETF|P|LRNZ|Y|100|N|LRNZ
 LSAF|LeaderShares AlphaFactor US Core Equity ETF|P|LSAF|Y|100|N|LSAF
@@ -3102,7 +3103,7 @@ MHNC|Maiden Holdings North America, Ltd. 7.75% Notes due 2043|N|MHNC|N|100|N|MHN
 MHO|M/I Homes, Inc. Common Stock|N|MHO|N|100|N|MHO
 MIC|Macquarie Infrastructure Corporation Common Stock|N|MIC|N|100|N|MIC
 MID|American Century Mid Cap Growth Impact ETF|P|MID|Y|100|N|MID
-MIDF|iShares Edge MSCI Multifactor USA Mid-Cap ETF|P|MIDF|Y|100|N|MIDF
+MIDF|iShares MSCI USA Mid-Cap Multifactor ETF|P|MIDF|Y|100|N|MIDF
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
@@ -3221,7 +3222,7 @@ MTOR|Meritor, Inc. Common Stock|N|MTOR|N|100|N|MTOR
 MTR|Mesa Royalty Trust Common Stock|N|MTR|N|100|N|MTR
 MTRN|Materion Corporation|N|MTRN|N|100|N|MTRN
 MTT|Western Asset Municipal Defined Opportunity Trust Inc Common Stock|N|MTT|N|100|N|MTT
-MTUM|iShares Edge MSCI USA Momentum Factor ETF|Z|MTUM|Y|100|N|MTUM
+MTUM|iShares MSCI USA Momentum Factor ETF|Z|MTUM|Y|100|N|MTUM
 MTW|Manitowoc Company, Inc. (The) Common Stock|N|MTW|N|100|N|MTW
 MTX|Minerals Technologies Inc. Common Stock|N|MTX|N|100|N|MTX
 MTZ|MasTec, Inc. Common Stock|N|MTZ|N|100|N|MTZ
@@ -3820,7 +3821,7 @@ PRE$F|PartnerRe Ltd. Redeemable Preferred Shares Series F (Bermuda)|N|PREpF|N|10
 PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpG|N|100|N|PRE-G
 PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpH|N|100|N|PRE-H
 PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpI|N|100|N|PRE-I
-PREF|Principal Spectrum Preferred Securities Active ETF|Z|PREF|Y|100|N|PREF
+PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
 PRF|Invesco FTSE RAFI US 1000 ETF|P|PRF|Y|100|N|PRF
 PRGO|Perrigo Company plc Ordinary Shares|N|PRGO|N|100|N|PRGO
 PRH|Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053|N|PRH|N|100|N|PRH
@@ -3964,7 +3965,7 @@ QTS$B|QTS Realty Trust, Inc. 6.50% Series B Cumulative Convertible Perpetual Pre
 QTUM|Defiance Quantum ETF|P|QTUM|Y|100|N|QTUM
 QTWO|Q2 Holdings, Inc. Common Stock|N|QTWO|N|100|N|QTWO
 QUAD|Quad Graphics, Inc Class A Common Stock|N|QUAD|N|100|N|QUAD
-QUAL|iShares Edge MSCI USA Quality Factor ETF|Z|QUAL|Y|100|N|QUAL
+QUAL|iShares MSCI USA Quality Factor ETF|Z|QUAL|Y|100|N|QUAL
 QUOT|Quotient Technology Inc. Common Stock|N|QUOT|N|100|N|QUOT
 QUS|SPDR MSCI USA StrategicFactors ETF|P|QUS|Y|100|N|QUS
 QVAL|Alpha Architect U.S. Quantitative Value ETF|Z|QVAL|Y|100|N|QVAL
@@ -4352,7 +4353,7 @@ SIXA|6 Meridian Mega Cap Equity ETF|P|SIXA|Y|100|N|SIXA
 SIXH|6 Meridian Hedged Equity-Index Option Strategy ETF|P|SIXH|Y|100|N|SIXH
 SIXL|6 Meridian Low Beta Equity Strategy ETF|P|SIXL|Y|100|N|SIXL
 SIXS|6 Meridian Small Cap Equity ETF|P|SIXS|Y|100|N|SIXS
-SIZE|iShares Edge MSCI USA Size Factor ETF|P|SIZE|Y|100|N|SIZE
+SIZE|iShares MSCI USA Size Factor ETF|P|SIZE|Y|100|N|SIZE
 SJB|ProShares Short High Yield|P|SJB|Y|100|N|SJB
 SJI|South Jersey Industries, Inc. Common Stock|N|SJI|N|100|N|SJI
 SJIJ|South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079|N|SJIJ|N|100|N|SJIJ
@@ -4392,14 +4393,14 @@ SMG|Scotts Miracle-Gro Company (The) Common Stock|N|SMG|N|100|N|SMG
 SMHB|ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B|P|SMHB|N|100|N|SMHB
 SMHI|SEACOR Marine Holdings Inc. Common Stock |N|SMHI|N|100|N|SMHI
 SMIN|Ishares MSCI India Small Cap ETF|Z|SMIN|Y|100|N|SMIN
-SMLF|iShares Edge MSCI Multifactor USA Small-Cap ETF|P|SMLF|Y|100|N|SMLF
+SMLF|iShares MSCI USA Small-Cap Multifactor ETF|P|SMLF|Y|100|N|SMLF
 SMLL|Direxion Daily Small Cap Bull 2X Shares|P|SMLL|Y|100|N|SMLL
 SMLP|Summit Midstream Partners, LP Common Units Representing Limited Partner Interests|N|SMLP|N|100|N|SMLP
 SMLV|SPDR SSGA US Small Cap Low Volatility Index ETF|P|SMLV|Y|100|N|SMLV
 SMM|Salient Midstream Common Shares of Beneficial Interest|N|SMM|N|100|N|SMM
 SMMD|iShares Trust iShares Russell 2500 ETF|Z|SMMD|Y|100|N|SMMD
 SMMU|Short Term Municipal Bond Active Exchange-Traded Fund|P|SMMU|Y|100|N|SMMU
-SMMV|iShares Trust ETF|Z|SMMV|Y|100|N|SMMV
+SMMV|iShares MSCI USA Small-Cap Min Vol Factor ETF|Z|SMMV|Y|100|N|SMMV
 SMN|ProShares UltraShort Basic Materials|P|SMN|Y|100|N|SMN
 SMOG|VanEck Vectors Low Carbon Energy ETF|P|SMOG|Y|100|N|SMOG
 SMP|Standard Motor Products, Inc. Common Stock|N|SMP|N|100|N|SMP
@@ -4967,7 +4968,7 @@ USI|Principal Ultra-Short Active Income ETF|P|USI|Y|100|N|USI
 USL|United States 12 Month Oil|P|USL|Y|100|N|USL
 USM|United States Cellular Corporation Common Stock|N|USM|N|100|N|USM
 USMF|WisdomTree U.S. Multifactor Fund|Z|USMF|Y|100|N|USMF
-USMV|iShares Edge MSCI Min Vol USA ETF|Z|USMV|Y|100|N|USMV
+USMV|iShares MSCI USA Min Vol Factor ETF|Z|USMV|Y|100|N|USMV
 USNA|USANA Health Sciences, Inc. Common Stock|N|USNA|N|100|N|USNA
 USO|United States Oil Fund|P|USO|Y|100|N|USO
 USPH|U.S. Physical Therapy, Inc. Common Stock|N|USPH|N|100|N|USPH
@@ -5072,7 +5073,7 @@ VLO|Valero Energy Corporation Common Stock|N|VLO|N|100|N|VLO
 VLRS|Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates|N|VLRS|N|100|N|VLRS
 VLT|Invesco High Income Trust II|N|VLT|N|100|N|VLT
 VLU|SPDR S&P 1500 Value Tilt ETF|P|VLU|Y|100|N|VLU
-VLUE|iShares Edge MSCI USA Value Factor ETF|Z|VLUE|Y|100|N|VLUE
+VLUE|iShares MSCI USA Value Factor ETF|Z|VLUE|Y|100|N|VLUE
 VMC|Vulcan Materials Company (Holding Company) Common Stock|N|VMC|N|100|N|VMC
 VMI|Valmont Industries, Inc. Common Stock|N|VMI|N|100|N|VMI
 VMM|Delaware Investments Minnesota Municipal Income Fund II, Inc. Common Stock|A|VMM|N|100|N|VMM
@@ -5376,4 +5377,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0814202017:01||||||
+File Creation Time: 0817202012:11||||||
