@@ -190,6 +190,7 @@ ANTM,ANTM|Anthem, Inc. Common Stock
 ANVS,ANVS|Annovis Bio, Inc. Common Stock
 AOD,AOD|Aberdeen Total Dynamic Dividend Fund Common Stock
 AON,AON|Aon plc Class A Ordinary Shares (Ireland)
+AONE.U,AONE.U|one Units, each consisting of one Class A Ordinary Share, and one third of one Warrant to acquire one Class A Ordinary Share
 AOS,AOS|A.O. Smith Corporation Common Stock
 AP,AP|Ampco-Pittsburgh Corporation Common Stock
 APAM,APAM|Artisan Partners Asset Management Inc. Class A Common Stock
@@ -643,7 +644,6 @@ CFXA,CFXA|Colfax Corporation 5.75% Tangible Equity Units
 CGA,CGA|China Green Agriculture, Inc. Common Stock
 CGC,CGC|Canopy Growth Corporation Common Stock
 CHA,CHA|China Telecom Corp Ltd ADS
-CHAP,CHAP|Chaparral Energy, Inc. Class A Common Stock
 CHAQ,CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock
 CHAQ.U,CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock
 CHAQ.W,CHAQ.W|Chardan Healthcare Acquisition 2 Corp. Warrants, entitling the holder thereof to purchase one-half (1/2) of a share of common stock at a price of $11.50 per whole share
@@ -2245,6 +2245,7 @@ NFH,NFH|New Frontier Health Corporation Ordinary Shares
 NFH.W,NFH.W|New Frontier Health Corporation Warrants
 NFJ,NFJ|AllianzGI Dividend, Interest & Premium Strategy Fund
 NG,NG|Novagold Resources Inc.
+NGA.U,NGA.U|Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant
 NGD,NGD|New Gold Inc.
 NGG,NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
 NGL,NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
@@ -2394,6 +2395,7 @@ NXP,NXP|Nuveen Select Tax Free Income Portfolio Common Stock
 NXQ,NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock
 NXR,NXR|Nuveen Select Tax Free Income Portfolio III Common Stock
 NXRT,NXRT|NexPoint Residential Trust, Inc. Common Stock
+NYC,NYC|New York City REIT, Inc. Class A Common Stock
 NYCB,NYCB|New York Community Bancorp, Inc. Common Stock
 NYCB$A,NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock
 NYCB$U,NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)
@@ -2812,7 +2814,6 @@ RY,RY|Royal Bank Of Canada Common Stock
 RY$T,RY$T|Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2
 RYAM,RYAM|Rayonier Advanced Materials Inc. Common Stock
 RYB,RYB|RYB Education, Inc. American depositary shares, each representing one Class A ordinary share
-RYCE,RYCE|Amira Nature Foods Ltd Ordinary Shares
 RYI,RYI|Ryerson Holding Corporation Common Stock
 RYN,RYN|Rayonier Inc. REIT Common Stock
 RZA,RZA|Reinsurance Group of America, Incorporated 6.20% Fixed-to-Floating Rate Subordinated Debentures due 2042
@@ -3035,6 +3036,7 @@ STN,STN|Stantec Inc Common Stock
 STNG,STNG|Scorpio Tankers Inc. Common Shares
 STON,STON|StoneMor Inc. Common Stock
 STOR,STOR|STORE Capital Corporation Common Stock
+STPK.U,STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant
 STT,STT|State Street Corporation Common Stock
 STT$D,STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
 STT$G,STT$G|State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative
@@ -4668,7 +4670,6 @@ FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRTA,FRTA|Forterra, Inc. - Common Stock
 FSBW,FSBW|FS Bancorp, Inc. - Common Stock
-FSCT,FSCT|ForeScout Technologies, Inc. - Common Stock
 FSDC,FSDC|FS Development Corp. - Class A Common Stock
 FSEA,FSEA|First Seacoast Bancorp - Common Stock
 FSFG,FSFG|First Savings Financial Group, Inc. - Common Stock
@@ -5219,6 +5220,7 @@ LEDS,LEDS|SemiLEDS Corporation - Common Stock
 LEGH,LEGH|Legacy Housing Corporation - Common Stock
 LEGN,LEGN|Legend Biotech Corporation - American Depositary Shares
 LEVL,LEVL|Level One Bancorp, Inc. - Common Stock
+LEVLP,LEVLP|Level One Bancorp, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B
 LFAC,LFAC|LF Capital Acquistion Corp. - Class A Common Stock
 LFACU,LFACU|LF Capital Acquistion Corp. - Unit
 LFACW,LFACW|LF Capital Acquistion Corp. - Warrant

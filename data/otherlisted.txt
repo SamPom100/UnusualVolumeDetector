@@ -45,6 +45,7 @@ ACWV|iShares MSCI Global Min Vol Factor ETF|Z|ACWV|Y|100|N|ACWV
 ACY|AeroCentury Corp. Common Stock|A|ACY|N|100|N|ACY
 ADC|Agree Realty Corporation Common Stock|N|ADC|N|100|N|ADC
 ADCT|ADC Therapeutics SA Common Shares|N|ADCT|N|100|N|ADCT
+ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
 ADNT|Adient plc Ordinary Shares |N|ADNT|N|100|N|ADNT
@@ -227,6 +228,7 @@ AOD|Aberdeen Total Dynamic Dividend Fund Common Stock|N|AOD|N|100|N|AOD
 AOK|iShares Core Conservative Allocation ETF|P|AOK|Y|100|N|AOK
 AOM|iShares Core Moderate Allocation ETF|P|AOM|Y|100|N|AOM
 AON|Aon plc Class A Ordinary Shares (Ireland)|N|AON|N|100|N|AON
+AONE.U|one Units, each consisting of one Class A Ordinary Share, and one third of one Warrant to acquire one Class A Ordinary Share|N|AONE.U|N|100|N|AONE=
 AOR|iShares Core Growth Allocation ETF|P|AOR|Y|100|N|AOR
 AOS|A.O. Smith Corporation Common Stock|N|AOS|N|100|N|AOS
 AP|Ampco-Pittsburgh Corporation Common Stock|N|AP|N|100|N|AP
@@ -789,7 +791,6 @@ CGC|Canopy Growth Corporation Common Stock|N|CGC|N|100|N|CGC
 CGW|Invesco S&P Global Water Index ETF|P|CGW|Y|100|N|CGW
 CHA|China Telecom Corp Ltd ADS|N|CHA|N|100|N|CHA
 CHAD|Direxion Daily CSI 300 China A Shares Bear 1X Shares|P|CHAD|Y|100|N|CHAD
-CHAP|Chaparral Energy, Inc. Class A Common Stock|N|CHAP|N|100|N|CHAP
 CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock|A|CHAQ|N|100|N|CHAQ
 CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock|A|CHAQ.U|N|100|N|CHAQ=
 CHAQ.W|Chardan Healthcare Acquisition 2 Corp. Warrants, entitling the holder thereof to purchase one-half (1/2) of a share of common stock at a price of $11.50 per whole share|A|CHAQ.WS|N|100|N|CHAQ+
@@ -1555,7 +1556,6 @@ EUDG|WisdomTree Europe Quality Dividend Growth Fund|P|EUDG|Y|100|N|EUDG
 EUDV|ProShares MSCI Europe Dividend Growers ETF|Z|EUDV|Y|100|N|EUDV
 EUFX|ProShares Short Euro|P|EUFX|N|100|N|EUFX
 EUM|ProShares Short MSCI Emerging Markets|P|EUM|Y|100|N|EUM
-EUMV|iShares Edge MSCI Min Vol Europe ETF|P|EUMV|Y|100|N|EUMV
 EUO|ProShares UltraShort Euro|P|EUO|Y|100|N|EUO
 EURL|Direxion Daily FTSE Europe Bull 3x Shares|P|EURL|Y|100|N|EURL
 EURN|Euronav NV Ordinary Shares|N|EURN|N|100|N|EURN
@@ -2199,7 +2199,6 @@ HAIL|SPDR S&P Kensho Smart Mobility ETF|P|HAIL|Y|100|N|HAIL
 HAL|Halliburton Company Common Stock|N|HAL|N|100|N|HAL
 HAP|VanEck Vectors Natural Resources ETF|P|HAP|Y|100|N|HAP
 HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock|N|HASI|N|100|N|HASI
-HAUD|iShares Currency Hedged MSCI Australia ETF|P|HAUD|Y|100|N|HAUD
 HAUZ|Xtrackers International Real Estate ETF|P|HAUZ|Y|100|N|HAUZ
 HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
 HBB|Hamilton Beach Brands Holding Company Class A Common Stock |N|HBB|N|100|N|HBB
@@ -2235,13 +2234,9 @@ HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interes
 HES|Hess Corporation Common Stock|N|HES|N|100|N|HES
 HESM|Hess Midstream LP Class A Share|N|HESM|N|100|N|HESM
 HEWC|iShares Currency Hedged MSCI Canada ETF|P|HEWC|Y|100|N|HEWC
-HEWI|iShares Currency Hedged MSCI Italy ETF|P|HEWI|Y|100|N|HEWI
 HEWJ|iShares Currency Hedged MSCI Japan ETF|P|HEWJ|Y|100|N|HEWJ
-HEWL|iShares Currency Hedged MSCI Switzerland ETF|P|HEWL|Y|100|N|HEWL
-HEWP|iShares Currency Hedged MSCI Spain|P|HEWP|Y|100|N|HEWP
 HEWU|iShares Currency Hedged MSCI United Kingdom ETF|P|HEWU|Y|100|N|HEWU
 HEWW|iShares Currency Hedged MSCI Mexico ETF|P|HEWW|Y|100|N|HEWW
-HEWY|iShares Currency Hedged MSCI South Korea ETF|P|HEWY|Y|100|N|HEWY
 HEXO|HEXO Corp. Common Shares|N|HEXO|N|100|N|HEXO
 HEZU|iShares Currency Hedged MSCI Eurozone ETF|P|HEZU|Y|100|N|HEZU
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
@@ -2754,7 +2749,6 @@ JPM$H|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th inter
 JPM$J|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG|N|JPMpJ|N|100|N|JPM-J
 JPMB|JPMorgan USD Emerging Markets Sovereign Bond ETF|P|JPMB|Y|100|N|JPMB
 JPME|JPMorgan Diversified Return U.S. Mid Cap Equity ETF|P|JPME|Y|100|N|JPME
-JPMV|iShares Edge MSCI Min Vol Japan ETF|P|JPMV|Y|100|N|JPMV
 JPN|Xtrackers Japan JPX-Nikkei 400 Equity ETF|P|JPN|Y|100|N|JPN
 JPNL|Direxion Daily Japan Bull 3X ETF|P|JPNL|Y|100|N|JPNL
 JPS|Nuveen Preferred & Income Securities Fund|N|JPS|N|100|N|JPS
@@ -3331,6 +3325,7 @@ NFJ|AllianzGI Dividend, Interest & Premium Strategy Fund|N|NFJ|N|100|N|NFJ
 NFLT|Virtus Newfleet Multi-Sector Bond ETF|P|NFLT|Y|100|N|NFLT
 NFRA|FlexShares STOXX Global Broad Infrastructure Index Fund|P|NFRA|Y|100|N|NFRA
 NG|Novagold Resources Inc.|A|NG|N|100|N|NG
+NGA.U|Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|NGA.U|N|100|N|NGA=
 NGD|New Gold Inc.|A|NGD|N|100|N|NGD
 NGE|Global X MSCI Nigeria ETF|P|NGE|Y|100|N|NGE
 NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares|N|NGG|N|100|N|NGG
@@ -3504,6 +3499,7 @@ NXP|Nuveen Select Tax Free Income Portfolio Common Stock|N|NXP|N|100|N|NXP
 NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock|N|NXQ|N|100|N|NXQ
 NXR|Nuveen Select Tax Free Income Portfolio III Common Stock|N|NXR|N|100|N|NXR
 NXRT|NexPoint Residential Trust, Inc. Common Stock|N|NXRT|N|100|N|NXRT
+NYC|New York City REIT, Inc. Class A Common Stock|N|NYC|N|100|N|NYC
 NYCB|New York Community Bancorp, Inc. Common Stock|N|NYCB|N|100|N|NYCB
 NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock|N|NYCBpA|N|100|N|NYCB-A
 NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)|N|NYCBpU|N|100|N|NYCB-U
@@ -4164,7 +4160,6 @@ RY|Royal Bank Of Canada Common Stock|N|RY|N|100|N|RY
 RY$T|Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2|N|RYpT|N|100|N|RY-T
 RYAM|Rayonier Advanced Materials Inc. Common Stock|N|RYAM|N|100|N|RYAM
 RYB|RYB Education, Inc. American depositary shares, each representing one Class A ordinary share|N|RYB|N|100|N|RYB
-RYCE|Amira Nature Foods Ltd Ordinary Shares|N|RYCE|N|100|N|RYCE
 RYE|Invesco S&P 500 Equal Weight Energy ETF|P|RYE|Y|100|N|RYE
 RYF|Invesco S&P 500 Equal Weight Financial ETF|P|RYF|Y|100|N|RYF
 RYH|Invesco S&P 500 Equal Weight Health Care ETF|P|RYH|Y|100|N|RYH
@@ -4560,6 +4555,7 @@ STNG|Scorpio Tankers Inc. Common Shares|N|STNG|N|100|N|STNG
 STON|StoneMor Inc. Common Stock|N|STON|N|100|N|STON
 STOR|STORE Capital Corporation Common Stock|N|STOR|N|100|N|STOR
 STOT|SPDR DoubleLine Short Duration Total Return Tactical ETF|Z|STOT|Y|100|N|STOT
+STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|STPK.U|N|100|N|STPK=
 STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
 STSB|iShares Factors US Small Blend Style ETF|Z|STSB|Y|100|N|STSB
 STT|State Street Corporation Common Stock|N|STT|N|100|N|STT
@@ -4631,6 +4627,7 @@ TBB|AT&T Inc. 5.350% Global Notes due 2066|N|TBB|N|100|N|TBB
 TBC|AT&T Inc. 5.625% Global Notes due 2067|N|TBC|N|100|N|TBC
 TBF|ProShares Short 20+ Year Treasury|P|TBF|Y|100|N|TBF
 TBI|TrueBlue, Inc. Common Stock|N|TBI|N|100|N|TBI
+TBJL|Innovator 20  Year Treasury Bond 9 Buffer ETF - July|Z|TBJL|Y|100|N|TBJL
 TBLU|Tortoise Global Water ESG Fund|Z|TBLU|Y|100|N|TBLU
 TBND|Tactical Income ETF|P|TBND|Y|100|N|TBND
 TBT|ProShares UltraShort Lehman 20  Year Treasury|P|TBT|Y|100|N|TBT
@@ -4687,6 +4684,7 @@ TFC$R|Truist Financial Corporation Depositary Shares, each representing 1/1,000t
 TFI|SPDR Nuveen Bloomberg Barclays Municipal Bond ETF|P|TFI|Y|100|N|TFI
 TFII|TFI International Inc. Common Shares|N|TFII|N|100|N|TFII
 TFIV|Global X TargetIncome 5 ETF|Z|TFIV|Y|100|N|TFIV
+TFJL|Innovator 20  Year Treasury Bond 5 Floor ETF - July|Z|TFJL|Y|100|N|TFJL
 TFLO|iShares Treasury Floating Rate Bond ETF|P|TFLO|Y|100|N|TFLO
 TFLT|Global X TargetIncome Plus 2 ETF|Z|TFLT|Y|100|N|TFLT
 TFX|Teleflex Incorporated Common Stock|N|TFX|N|100|N|TFX
@@ -5377,4 +5375,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0817202018:02||||||
+File Creation Time: 0818202012:11||||||
