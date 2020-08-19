@@ -54,6 +54,7 @@ AEM,AEM|Agnico Eagle Mines Limited Common Stock
 AEO,AEO|American Eagle Outfitters, Inc. Common Stock
 AEP,AEP|American Electric Power Company, Inc. Common Stock
 AEP$B,AEP$B|American Electric Power Company, Inc. Corporate Unit
+AEP$C,AEP$C|American Electric Power Company, Inc. Corporate Units
 AER,AER|AerCap Holdings N.V. Ordinary Shares
 AES,AES|The AES Corporation Common Stock
 AFB,AFB|AllianceBernstein National Municipal Income Fund Inc
@@ -394,6 +395,7 @@ BFO,BFO|Blackrock Florida Municipal 2020 Term Trust
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
+BFT.U,BFT.U|Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-third of one warrant
 BFY,BFY|BlackRock New York Municipal Income Trust II
 BFZ,BFZ|BlackRock California Municipal Income Trust
 BG,BG|Bunge Limited Bunge Limited
@@ -3326,6 +3328,7 @@ UVV,UVV|Universal Corporation Common Stock
 UZA,UZA|United States Cellular Corporation 6.95% Senior Notes due 2060
 UZB,UZB|United States Cellular Corporation 7.25% Senior Notes due 2063
 UZC,UZC|United States Cellular Corporation 7.25% Senior Notes due 2064
+UZD,UZD|United States Cellular Corporation 6.250% Senior Notes due 2069
 V,V|Visa Inc.
 VAC,VAC|Marriott Vacations Worldwide Corporation Common Stock
 VAL,VAL|Valaris plc Class A Ordinary Shares
@@ -4352,7 +4355,6 @@ DADA,DADA|Dada Nexus Limited - American Depositary Shares
 DAIO,DAIO|Data I/O Corporation - Common Stock
 DAKT,DAKT|Daktronics, Inc. - Common Stock
 DARE,DARE|Dare Bioscience, Inc. - Common Stock
-DBCP,DBCP|Delmar Bancorp - Common Stock
 DBVT,DBVT|DBV Technologies S.A. - American Depositary Shares
 DBX,DBX|Dropbox, Inc. - Class A Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
@@ -4601,6 +4603,7 @@ FGBI,FGBI|First Guaranty Bancshares, Inc. - Common Stock
 FGEN,FGEN|FibroGen, Inc - Common Stock
 FHB,FHB|First Hawaiian, Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
+FIIIU,FIIIU|Forum Merger III Corporation - Units
 FISI,FISI|Financial Institutions, Inc. - Common Stock
 FISV,FISV|Fiserv, Inc. - Common Stock
 FITB,FITB|Fifth Third Bancorp - Common Stock
@@ -4924,6 +4927,7 @@ HOTH,HOTH|Hoth Therapeutics, Inc. - Common Stock
 HOVNP,HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
 HQI,HQI|HireQuest, Inc. - Common Stock
 HQY,HQY|HealthEquity, Inc. - Common Stock
+HRMY,HRMY|Harmony Biosciences Holdings, Inc. - Common Stock
 HROW,HROW|Harrow Health, Inc. - Common Stock
 HRTX,HRTX|Heron Therapeutics, Inc.   - Common Stock
 HRZN,HRZN|Horizon Technology Finance Corporation - Common Stock
@@ -5034,6 +5038,7 @@ IMXI,IMXI|International Money Express, Inc. - Common Stock
 INBK,INBK|First Internet Bancorp - Common Stock
 INBKL,INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026
 INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
+INBX,INBX|Inhibrx, Inc. - Common Stock
 INCY,INCY|Incyte Corporation - Common Stock
 INDB,INDB|Independent Bank Corp. - Common Stock
 INFI,INFI|Infinity Pharmaceuticals, Inc. - Common Stock
@@ -5921,6 +5926,7 @@ PTI,PTI|Proteostasis Therapeutics, Inc. - Common Stock
 PTMN,PTMN|Portman Ridge Finance Corporation - common stock
 PTNR,PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share
 PTON,PTON|Peloton Interactive, Inc. - Common Stock
+PTRS,PTRS|Partners Bancorp - Common Stock
 PTSI,PTSI|P.A.M. Transportation Services, Inc. - Common Stock
 PTVCA,PTVCA|Protective Insurance Corporation - Class A (voting) Common Stock
 PTVCB,PTVCB|Protective Insurance Corporation - Class B (nonvoting) Common Stock

@@ -354,8 +354,8 @@ BBIO|BridgeBio Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 BBQ|BBQ Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
 BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100|N|N
 BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100|N|N
-BCDA|BioCardia, Inc. - Common Stock|S|N|D|100|N|N
-BCDAW|BioCardia, Inc. - Warrant|S|N|D|100|N|N
+BCDA|BioCardia, Inc. - Common Stock|S|N|N|100|N|N
+BCDAW|BioCardia, Inc. - Warrant|S|N|N|100|N|N
 BCEL|Atreca, Inc. - Class A Common Stock|Q|N|N|100|N|N
 BCLI|Brainstorm Cell Therapeutics Inc. - Common Stock|S|N|N|100|N|N
 BCML|BayCom Corp - Common Stock|Q|N|N|100|N|N
@@ -889,7 +889,6 @@ DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100|N|N
 DALI|First Trust DorseyWright DALI 1 ETF|G|N|N|100|Y|N
 DARE|Dare Bioscience, Inc. - Common Stock|S|N|N|100|N|N
 DAX|Global X DAX Germany ETF|G|N|N|100|Y|N
-DBCP|Delmar Bancorp - Common Stock|S|N|N|100|N|N
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100|N|N
 DBX|Dropbox, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1206,6 +1205,7 @@ FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
 FHK|First Trust Hong Kong AlphaDEX Fund|G|N|N|100|Y|N
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
+FIIIU|Forum Merger III Corporation - Units|S|N|N|100|N|N
 FINX|Global X FinTech ETF|G|N|N|100|Y|N
 FISI|Financial Institutions, Inc. - Common Stock|Q|N|N|100|N|N
 FISV|Fiserv, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1578,6 +1578,7 @@ HOTH|Hoth Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock|G|N|N|100|N|N
 HQI|HireQuest, Inc. - Common Stock|S|N|N|100|N|N
 HQY|HealthEquity, Inc. - Common Stock|Q|N|N|100|N|N
+HRMY|Harmony Biosciences Holdings, Inc. - Common Stock|G|N|N|100|N|N
 HROW|Harrow Health, Inc. - Common Stock|S|N|N|100|N|N
 HRTX|Heron Therapeutics, Inc.   - Common Stock|S|N|N|100|N|N
 HRZN|Horizon Technology Finance Corporation - Common Stock|Q|N|N|100|N|N
@@ -1716,6 +1717,7 @@ IMXI|International Money Express, Inc. - Common Stock|S|N|N|100|N|N
 INBK|First Internet Bancorp - Common Stock|Q|N|N|100|N|N
 INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026|Q|N|N|100|N|N
 INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029|Q|N|N|100|N|N
+INBX|Inhibrx, Inc. - Common Stock|G|N|N|100|N|N
 INCY|Incyte Corporation - Common Stock|Q|N|N|100|N|N
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100|N|N
 INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100|Y|N
@@ -2679,6 +2681,7 @@ PTI|Proteostasis Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 PTMN|Portman Ridge Finance Corporation - common stock|Q|N|N|100|N|N
 PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share|Q|N|N|100|N|N
 PTON|Peloton Interactive, Inc. - Common Stock|Q|N|N|100|N|N
+PTRS|Partners Bancorp - Common Stock|S|N|N|100|N|N
 PTSI|P.A.M. Transportation Services, Inc. - Common Stock|G|N|N|100|N|N
 PTVCA|Protective Insurance Corporation - Class A (voting) Common Stock|G|N|N|100|N|N
 PTVCB|Protective Insurance Corporation - Class B (nonvoting) Common Stock|G|N|N|100|N|N
@@ -3286,7 +3289,7 @@ TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100|N|N
 TUR|iShares MSCI Turkey ETF|G|N|N|100|Y|N
 TURN|180 Degree Capital Corp. - Common Stock|G|N|N|100|N|N
 TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100|Y|N
-TUSK|Mammoth Energy Services, Inc. - Common Stock|Q|N|D|100|N|N
+TUSK|Mammoth Energy Services, Inc. - Common Stock|Q|N|N|100|N|N
 TVTY|Tivity Health, Inc. - Common Stock|Q|N|N|100|N|N
 TW|Tradeweb Markets Inc. - Class A Common Stock|Q|N|N|100|N|N
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100|N|N
@@ -3614,4 +3617,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0818202015:41|||||||
+File Creation Time: 0819202012:11|||||||
