@@ -1900,6 +1900,7 @@ FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Retur
 FUL|H. B. Fuller Company Common Stock|N|FUL|N|100|N|FUL
 FUMB|First Trust Ultra Short Duration Municipal ETF|P|FUMB|Y|100|N|FUMB
 FUN|Cedar Fair, L.P. Common Stock|N|FUN|N|100|N|FUN
+FUNL|CornerCap Fundametrics Large-Cap ETF|Z|FUNL|Y|100|N|FUNL
 FUSE|Fusion Acquisition Corp. Class A Common Stock|N|FUSE|N|100|N|FUSE
 FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|FUSE.U|N|100|N|FUSE=
 FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FUSE.WS|N|100|N|FUSE+
@@ -2136,7 +2137,9 @@ GS$D|Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg|N|GSpD
 GS$J|Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to Fltg Rate|N|GSpJ|N|100|N|GS-J
 GS$K|Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K|N|GSpK|N|100|N|GS-K
 GS$N|Goldman Sachs Group, Inc. (The) Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.30% Non-Cumulative Preferred Stock, Series N|N|GSpN|N|100|N|GS-N
+GSAH|GS Acquisition Holdings Corp II Class A Common Stock|N|GSAH|N|100|N|GSAH
 GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-quarter of one redeemable Warrant|N|GSAH.U|N|100|N|GSAH=
+GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|GSAH.WS|N|100|N|GSAH+
 GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
@@ -3854,6 +3857,7 @@ PSA$I|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.875% Cum
 PSA$J|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.700% Cumulative Preferred Share of Beneficial Interest, Series J, par value $0.01 per share|N|PSApJ|N|100|N|PSA-J
 PSA$K|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75% Cumulative Preferred Share of Beneficial Interest, Series K|N|PSApK|N|100|N|PSA-K
 PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share|N|PSApL|N|100|N|PSA-L
+PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M|N|PSApM|N|100|N|PSA-M
 PSA$W|Public Storage Depositary Shares Representing 1/1000 Preferred Shares of Benficial Interest Series W|N|PSApW|N|100|N|PSA-W
 PSA$X|Public Storage Depositary Shares Representing 1/1000th Cumulative Preferred Shares Beneficial Interest Series X|N|PSApX|N|100|N|PSA-X
 PSB|PS Business Parks, Inc. Common Stock|N|PSB|N|100|N|PSB
@@ -5003,7 +5007,6 @@ UZC|United States Cellular Corporation 7.25% Senior Notes due 2064|N|UZC|N|100|N
 UZD|United States Cellular Corporation 6.250% Senior Notes due 2069|N|UZD|N|100|N|UZD
 V|Visa Inc.|N|V|N|100|N|V
 VAC|Marriott Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
-VAL|Valaris plc Class A Ordinary Shares|N|VAL|N|100|N|VAL
 VALE|VALE S.A.  American Depositary Shares Each Representing one common share|N|VALE|N|100|N|VALE
 VALQ|American Century STOXX U.S. Quality Value ETF|P|VALQ|Y|100|N|VALQ
 VALT|ETFMG Sit Ultra Short ETF|P|VALT|Y|100|N|VALT
@@ -5378,4 +5381,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0819202021:33||||||
+File Creation Time: 0820202012:12||||||
