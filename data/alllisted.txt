@@ -689,6 +689,7 @@ CIX,CIX|CompX International Inc. Common Stock
 CKH,CKH|SEACOR Holdings Inc. Common Stock
 CKX,CKX|CKX Lands, Inc. Common Stock
 CL,CL|Colgate-Palmolive Company Common Stock
+CLA.U,CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 CLB,CLB|Core Laboratories N.V. Common Stock
 CLDR,CLDR|Cloudera, Inc. Common Stock
 CLDT,CLDT|Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
@@ -1318,6 +1319,7 @@ FSLY,FSLY|Fastly, Inc. Class A Common Stock
 FSM,FSM|Fortuna Silver Mines Inc Ordinary Shares (Canada)
 FSP,FSP|Franklin Street Properties Corp. Common Stock
 FSS,FSS|Federal Signal Corporation Common Stock
+FST.U,FST.U|FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 FT,FT|Franklin Universal Trust Common Stock
 FTAI,FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares
 FTAI$A,FTAI$A|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
@@ -1648,6 +1650,7 @@ HY,HY|Hyster-Yale Materials Handling, Inc. Class A Common Stock
 HYB,HYB|New America High Income Fund, Inc. (The) Common Stock
 HYI,HYI|Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
 HYT,HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock
+HZAC.U,HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Class A Ordinary Shares and one-third of one Redeemable warrant
 HZN,HZN|Horizon Global Corporation Common Shares
 HZO,HZO|MarineMax, Inc.  (FL) Common Stock
 IAA,IAA|IAA, Inc. Common Stock 
@@ -1865,6 +1868,7 @@ KIQ,KIQ|Kelso Technologies Inc Ordinary Shares
 KKR,KKR|KKR & Co. Inc. Common Stock
 KKR$A,KKR$A|KKR & Co. Inc. 6.75% Series A Preferred Stock
 KKR$B,KKR$B|KKR & Co. Inc. 6.50% Series B Preferred Stock
+KKR$C,KKR$C|KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock
 KL,KL|Kirkland Lake Gold Ltd. Common Shares
 KLR,KLR|Kaleyra, Inc. Common Stock
 KLR.W,KLR.W|Kaleyra, Inc. Warrants
@@ -1948,8 +1952,6 @@ LINX,LINX|Linx S.A. American Depositary Shares, each representing one common sha
 LITB,LITB|LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares
 LL,LL|Lumber Liquidators Holdings, Inc Common Stock
 LLY,LLY|Eli Lilly and Company Common Stock
-LMHA,LMHA|Legg Mason, Inc. 6.375% Junior Subordinated Notes due 2056
-LMHB,LMHB|Legg Mason, Inc. 5.45% Junior Subordinated Notes due 2056
 LMND,LMND|Lemonade, Inc. Common Stock
 LMT,LMT|Lockheed Martin Corporation Common Stock
 LN,LN|LINE Corporation American Depositary Shares (each representing one share of Common Stock)
@@ -2475,7 +2477,9 @@ PAGP,PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partne
 PAGS,PAGS|PagSeguro Digital Ltd. Class A Common Shares
 PAI,PAI|Western Asset Investment Grade Income Fund Inc.
 PAM,PAM|Pampa Energia S.A. Pampa Energia S.A.
+PANA,PANA|Panacea Acquisition Corp. Class A Common Stock
 PANA.U,PANA.U|Panacea Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+PANA.W,PANA.W|Panacea Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 PANW,PANW|Palo Alto Networks, Inc. Common Stock
 PAR,PAR|PAR Technology Corporation Common Stock
 PARR,PARR|Par Pacific Holdings, Inc.  Common Stock
@@ -5154,7 +5158,6 @@ KERN,KERN|Akerna Corp. - Common Stock
 KERNW,KERNW|Akerna Corp. - Warrant
 KFFB,KFFB|Kentucky First Federal Bancorp - Common Stock
 KFRC,KFRC|Kforce, Inc. - Common Stock
-KGJI,KGJI|Kingold Jewelry Inc. - Common Stock
 KHC,KHC|The Kraft Heinz Company - Common Stock
 KIDS,KIDS|OrthoPediatrics Corp. - Common Stock
 KIN,KIN|Kindred Biosciences, Inc. - Common Stock
@@ -5190,6 +5193,7 @@ KTRA,KTRA|Kintara Therapeutics, Inc. - Common Stock
 KURA,KURA|Kura Oncology, Inc. - Common Stock
 KVHI,KVHI|KVH Industries, Inc. - Common Stock
 KXIN,KXIN|Kaixin Auto Holdings - Ordinary Share
+KYMR,KYMR|Kymera Therapeutics, Inc. - Common Stock
 KZIA,KZIA|Kazia Therapeutics Limited - American Depositary Shares
 KZR,KZR|Kezar Life Sciences, Inc. - Common Stock
 LACQ,LACQ|Leisure Acquisition Corp. - Common Stock
@@ -5583,6 +5587,7 @@ NMRK,NMRK|Newmark Group, Inc. - Class A Common Stock
 NMTR,NMTR|9 Meters Biopharma, Inc. - Common Stock
 NNBR,NNBR|NN, Inc. - Common Stock
 NNDM,NNDM|Nano Dimension Ltd. - American Depositary Shares
+NNOX,NNOX|NANO-X IMAGING LTD - Ordinary Shares
 NODK,NODK|NI Holdings, Inc. - Common Stock
 NOVN,NOVN|Novan, Inc. - Common Stock
 NOVS,NOVS|Novus Capital Corporation - Common Stock
@@ -6591,7 +6596,9 @@ VLGEA,VLGEA|Village Super Market, Inc. - Class A Common Stock
 VLY,VLY|Valley National Bancorp - Common Stock
 VLYPO,VLYPO|Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 VLYPP,VLYPP|Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock
+VMAC,VMAC|Vistas Media Acquisition Company Inc. - Class A Common Stock
 VMACU,VMACU|Vistas Media Acquisition Company Inc. - Unit
+VMACW,VMACW|Vistas Media Acquisition Company Inc. - Warrant
 VMD,VMD|Viemed Healthcare, Inc. - Common Shares
 VNDA,VNDA|Vanda Pharmaceuticals Inc. - Common Stock
 VNET,VNET|21Vianet Group, Inc. - American Depositary Shares

@@ -573,7 +573,7 @@ CBAT|CBAK Energy Technology, Inc. - Common Stock|S|N|D|100|N|N
 CBAY|CymaBay Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100|N|N
 CBIO|Catalyst Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
-CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|D|100|N|N
+CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100|N|N
 CBMB|CBM Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 CBMG|Cellular Biomedicine Group, Inc. - Common Stock|Q|N|N|100|N|N
 CBNK|Capital Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -991,7 +991,7 @@ DYAI|Dyadic International, Inc. - Common Stock|S|N|N|100|N|N
 DYNT|Dynatronics Corporation - Common Stock|S|N|D|100|N|N
 DZSI|DASAN Zhone Solutions, Inc. - Common Stock|S|N|N|100|N|N
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100|N|N
-EARS|Auris Medical Holding Ltd. - Common Shares|S|N|D|100|N|N
+EARS|Auris Medical Holding Ltd. - Common Shares|S|N|N|100|N|N
 EAST|Eastside Distilling, Inc. - Common Stock|S|N|N|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBAYL|eBay Inc. - 6.0% Notes Due 2056|Q|N|N|100|N|N
@@ -1852,7 +1852,6 @@ KERN|Akerna Corp. - Common Stock|S|N|N|100|N|N
 KERNW|Akerna Corp. - Warrant|S|N|N|100|N|N
 KFFB|Kentucky First Federal Bancorp - Common Stock|G|N|N|100|N|N
 KFRC|Kforce, Inc. - Common Stock|Q|N|N|100|N|N
-KGJI|Kingold Jewelry Inc. - Common Stock|S|N|E|100|N|N
 KHC|The Kraft Heinz Company - Common Stock|Q|N|N|100|N|N
 KIDS|OrthoPediatrics Corp. - Common Stock|G|N|N|100|N|N
 KIN|Kindred Biosciences, Inc. - Common Stock|S|N|N|100|N|N
@@ -1889,6 +1888,7 @@ KTRA|Kintara Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
 KXIN|Kaixin Auto Holdings - Ordinary Share|S|N|D|100|N|N
+KYMR|Kymera Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 KZIA|Kazia Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 KZR|Kezar Life Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 LACQ|Leisure Acquisition Corp. - Common Stock|S|N|N|100|N|N
@@ -2296,6 +2296,7 @@ NMRK|Newmark Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NMTR|9 Meters Biopharma, Inc. - Common Stock|S|N|D|100|N|N
 NNBR|NN, Inc. - Common Stock|Q|N|N|100|N|N
 NNDM|Nano Dimension Ltd. - American Depositary Shares|S|N|N|100|N|N
+NNOX|NANO-X IMAGING LTD - Ordinary Shares|G|N|N|100|N|N
 NODK|NI Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NOVN|Novan, Inc. - Common Stock|G|N|D|100|N|N
 NOVS|Novus Capital Corporation - Common Stock|S|N|N|100|N|N
@@ -3005,7 +3006,7 @@ SMMCW|South Mountain Merger Corp. - Warrants|S|N|N|100|N|N
 SMMF|Summit Financial Group, Inc. - Common Stock|Q|N|N|100|N|N
 SMMT|Summit Therapeutics plc - American Depositary Shares|G|N|N|100|N|N
 SMPL|The Simply Good Foods Company - Common Stock|S|N|N|100|N|N
-SMRT|Stein Mart, Inc. - Common Stock|S|N|D|100|N|N
+SMRT|Stein Mart, Inc. - Common Stock|S|N|G|100|N|N
 SMSI|Smith Micro Software, Inc. - Common Stock|S|N|N|100|N|N
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100|N|N
 SMTX|SMTC Corporation - Common Stock|G|N|N|100|N|N
@@ -3156,7 +3157,7 @@ TANH|Tantech Holdings Ltd. - Common Stock|S|N|N|100|N|N
 TANNI|TravelCenters of America Inc.  - 8.25% Senior Notes due 2028|Q|N|N|100|N|N
 TANNL|TravelCenters of America Inc.  - 8.00% Senior Notes due 2029|Q|N|N|100|N|N
 TANNZ|TravelCenters of America Inc.  - 8.00% Senior Notes due 2030|Q|N|N|100|N|N
-TAOP|Taoping Inc. - Ordinary Shares|S|N|D|100|N|N
+TAOP|Taoping Inc. - Ordinary Shares|S|N|N|100|N|N
 TARA|Protara Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|N|100|N|N
 TATT|TAT Technologies Ltd. - Ordinary Shares|G|N|N|100|N|N
@@ -3412,7 +3413,9 @@ VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100|N|N
 VLY|Valley National Bancorp - Common Stock|Q|N|N|100|N|N
 VLYPO|Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
 VLYPP|Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
+VMAC|Vistas Media Acquisition Company Inc. - Class A Common Stock|S|N|N|100|N|N
 VMACU|Vistas Media Acquisition Company Inc. - Unit|S|N|N|100|N|N
+VMACW|Vistas Media Acquisition Company Inc. - Warrant|S|N|N|100|N|N
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100|Y|N
 VMD|Viemed Healthcare, Inc. - Common Shares|S|N|N|100|N|N
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100|N|N
@@ -3617,4 +3620,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0820202017:02|||||||
+File Creation Time: 0821202011:03|||||||
