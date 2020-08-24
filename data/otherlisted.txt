@@ -962,7 +962,9 @@ CPK|Chesapeake Utilities Corporation Common Stock|N|CPK|N|100|N|CPK
 CPLG|CorePoint Lodging Inc. Common Stock |N|CPLG|N|100|N|CPLG
 CPRI|Capri Holdings Limited Ordinary Shares|N|CPRI|N|100|N|CPRI
 CPS|Cooper-Standard Holdings Inc. Common Stock|N|CPS|N|100|N|CPS
+CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock|N|CPSR|N|100|N|CPSR
 CPSR.U|Capstar Special Purpose Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|CPSR.U|N|100|N|CPSR=
+CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CPSR.WS|N|100|N|CPSR+
 CPT|Camden Property Trust Common Stock|N|CPT|N|100|N|CPT
 CQP|Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units|A|CQP|N|100|N|CQP
 CQQQ|Invesco China Technology ETF|P|CQQQ|Y|100|N|CQQQ
@@ -4256,10 +4258,6 @@ SCHW$D|The Charles Schwab Corporation Depositary Shares each representing 1/40th
 SCHX|Schwab U.S. Large-Cap ETF|P|SCHX|Y|100|N|SCHX
 SCHZ|Schwab US Aggregate Bond ETF|P|SCHZ|Y|100|N|SCHZ
 SCI|Service Corporation International Common Stock|N|SCI|N|100|N|SCI
-SCID|Global X Scientific Beta Europe ETF|P|SCID|Y|100|N|SCID
-SCIJ|Global X Scientific Beta Japan ETF|P|SCIJ|Y|100|N|SCIJ
-SCIU|Global X Scientific Beta US ETF|P|SCIU|Y|100|N|SCIU
-SCIX|Global X Scientific Beta Asia ex-Japan ETF|P|SCIX|Y|100|N|SCIX
 SCJ|iShares MSCI Japan Sm Cap|P|SCJ|Y|100|N|SCJ
 SCL|Stepan Company Common Stock|N|SCL|N|100|N|SCL
 SCM|Stellus Capital Investment Corporation Common Stock|N|SCM|N|100|N|SCM
@@ -4429,7 +4427,6 @@ SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one
 SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|SOAC.WS|N|100|N|SOAC+
 SOGO|Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share|N|SOGO|N|100|N|SOGO
 SOI|Solaris Oilfield Infrastructure, Inc. Class A Common Stock|N|SOI|N|100|N|SOI
-SOIL|Global X Fertilizers/Potash ETF|P|SOIL|Y|100|N|SOIL
 SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes due October 15, 2075|N|SOJA|N|100|N|SOJA
 SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076|N|SOJB|N|100|N|SOJB
 SOJC|Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077|N|SOJC|N|100|N|SOJC
@@ -5385,4 +5382,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0821202021:33||||||
+File Creation Time: 0824202014:01||||||

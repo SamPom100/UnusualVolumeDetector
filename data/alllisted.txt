@@ -782,7 +782,9 @@ CPK,CPK|Chesapeake Utilities Corporation Common Stock
 CPLG,CPLG|CorePoint Lodging Inc. Common Stock 
 CPRI,CPRI|Capri Holdings Limited Ordinary Shares
 CPS,CPS|Cooper-Standard Holdings Inc. Common Stock
+CPSR,CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock
 CPSR.U,CPSR.U|Capstar Special Purpose Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+CPSR.W,CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 CPT,CPT|Camden Property Trust Common Stock
 CQP,CQP|Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units
 CR,CR|Crane Co. Common Stock
@@ -3921,7 +3923,6 @@ BFC,BFC|Bank First Corporation - Common Stock
 BFIN,BFIN|BankFinancial Corporation - Common Stock
 BFRA,BFRA|Biofrontera AG - American Depositary Shares
 BFST,BFST|Business First Bancshares, Inc. - Common Stock
-BFYT,BFYT|Benefytt Technologies, Inc. - Class A Common Stock
 BGCP,BGCP|BGC Partners, Inc. - Class A Common Stock
 BGFV,BGFV|Big 5 Sporting Goods Corporation - Common Stock
 BGNE,BGNE|BeiGene, Ltd. - American Depositary Shares
@@ -4930,6 +4931,8 @@ HOOK,HOOK|HOOKIPA Pharma Inc. - Common Stock
 HOPE,HOPE|Hope Bancorp, Inc. - Common Stock
 HOTH,HOTH|Hoth Therapeutics, Inc. - Common Stock
 HOVNP,HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
+HPK,HPK|HighPeak Energy, Inc. - Common Stock
+HPKEW,HPKEW|HighPeak Energy, Inc. - Warrant
 HQI,HQI|HireQuest, Inc. - Common Stock
 HQY,HQY|HealthEquity, Inc. - Common Stock
 HRMY,HRMY|Harmony Biosciences Holdings, Inc. - Common Stock
@@ -5372,6 +5375,7 @@ MDGSW,MDGSW|Medigus Ltd. - Series C Warrant
 MDIA,MDIA|Mediaco Holding Inc. - Class A Common Stock
 MDJH,MDJH|MDJM LTD - Ordinary Shares
 MDLZ,MDLZ|Mondelez International, Inc. - Class A Common Stock
+MDNA,MDNA|Medicenna Therapeutics Corp. - Common Shares
 MDRR,MDRR|Medalist Diversified REIT, Inc. - Common Stock
 MDRRP,MDRRP|Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock
 MDRX,MDRX|Allscripts Healthcare Solutions, Inc. - common stock
@@ -5574,7 +5578,6 @@ NICK,NICK|Nicholas Financial, Inc. - Common Stock
 NIU,NIU|Niu Technologies - American Depositary Shares
 NK,NK|NantKwest, Inc. - Common Stock
 NKLA,NKLA|Nikola Corporation - Common Stock
-NKLAW,NKLAW|Nikola Corporation - Warrant expiring 6/3/2025
 NKSH,NKSH|National Bankshares, Inc. - Common Stock
 NKTR,NKTR|Nektar Therapeutics - Common Stock
 NKTX,NKTX|Nkarta, Inc. - Common Stock
@@ -5764,9 +5767,6 @@ OYST,OYST|Oyster Point Pharma, Inc. - common stock
 OZK,OZK|Bank OZK - Common Stock
 PAAS,PAAS|Pan American Silver Corp. - Common Stock
 PACB,PACB|Pacific Biosciences of California, Inc. - Common Stock
-PACQ,PACQ|Pure Acquisition Corp. - Class A Common Stock
-PACQU,PACQU|Pure Acquisition Corp. - Unit
-PACQW,PACQW|Pure Acquisition Corp. - Warrant
 PACW,PACW|PacWest Bancorp - Common Stock
 PAE,PAE|PAE Incorporated - Class A Common Stock
 PAEWW,PAEWW|PAE Incorporated - Warrants
@@ -6221,7 +6221,6 @@ SMMCW,SMMCW|South Mountain Merger Corp. - Warrants
 SMMF,SMMF|Summit Financial Group, Inc. - Common Stock
 SMMT,SMMT|Summit Therapeutics plc - American Depositary Shares
 SMPL,SMPL|The Simply Good Foods Company - Common Stock
-SMRT,SMRT|Stein Mart, Inc. - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
 SMTX,SMTX|SMTC Corporation - Common Stock
