@@ -208,7 +208,7 @@ ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100|N|N
 ANTE|AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares|S|N|H|100|N|N
 ANY|Sphere 3D Corp. - Common Shares|S|N|D|100|N|N
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100|N|N
-AOUTV|American Outdoor Brands, Inc. - Common Stock|Q|N|N|100|N|N
+AOUT|American Outdoor Brands, Inc. - Common Stock|Q|N|N|100|N|N
 APA|Apache Corporation - Common Stock|Q|N|N|100|N|N
 APDN|Applied DNA Sciences, Inc. - Common Stock|S|N|N|100|N|N
 APEI|American Public Education, Inc. - Common Stock|Q|N|N|100|N|N
@@ -349,7 +349,7 @@ BBBY|Bed Bath & Beyond Inc. - Common Stock|Q|N|N|100|N|N
 BBCP|Concrete Pumping Holdings, Inc.  - Common Stock|S|N|N|100|N|N
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 BBH|VanEck Vectors Biotech ETF|G|N|N|100|Y|N
-BBI|Brickell Biotech, Inc. - Common Stock|S|N|N|100|N|N
+BBI|Brickell Biotech, Inc. - Common Stock|S|N|D|100|N|N
 BBIO|BridgeBio Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 BBQ|BBQ Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
 BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1018,7 +1018,7 @@ EDUT|Global X Education ETF|G|N|N|100|Y|N
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 EEMA|iShares MSCI Emerging Markets Asia ETF|G|N|N|100|Y|N
 EFAS|Global X MSCI SuperDividend EAFE ETF|G|N|N|100|Y|N
-EFOI|Energy Focus, Inc. - Common Stock|S|N|N|100|N|N
+EFOI|Energy Focus, Inc. - Common Stock|S|N|D|100|N|N
 EFSC|Enterprise Financial Services Corporation - Common Stock|Q|N|N|100|N|N
 EGAN|eGain Corporation - Common Stock|S|N|N|100|N|N
 EGBN|Eagle Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -1721,7 +1721,7 @@ INBX|Inhibrx, Inc. - Common Stock|G|N|N|100|N|N
 INCY|Incyte Corporation - Common Stock|Q|N|N|100|N|N
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100|N|N
 INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100|Y|N
-INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|D|100|N|N
+INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 INFN|Infinera Corporation - Common Stock|Q|N|N|100|N|N
 INFR|Legg Mason Global Infrastructure ETF|G|N|N|100|Y|N
 INGN|Inogen, Inc - Common Stock|Q|N|N|100|N|N
@@ -2458,7 +2458,7 @@ OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
 OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
-OTRK|Ontrak, Inc. - Common Stock|S|N|N|100|N|N
+OTRK|Ontrak, Inc. - Common Stock|G|N|N|100|N|N
 OTTR|Otter Tail Corporation - Common Stock|Q|N|N|100|N|N
 OVBC|Ohio Valley Banc Corp. - Common Stock|G|N|N|100|N|N
 OVID|Ovid Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
@@ -3130,7 +3130,6 @@ SVRA|Savara, Inc. - Common Stock|Q|N|N|100|N|N
 SVVC|Firsthand Technology Value Fund, Inc. - Common Stock|Q|N|N|100|N|N
 SWAV|ShockWave Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SWBI|Smith & Wesson Brands, Inc. - Common Stock|Q|N|N|100|N|N
-SWBIV|Smith & Wesson Brands, Inc. - Common Stock Ex-Distribution When Issued|Q|N|N|100|N|N
 SWIR|Sierra Wireless, Inc. - Common Stock|Q|N|N|100|N|N
 SWKH|SWK Holdings Corporation - Common Stock|S|N|N|100|N|N
 SWKS|Skyworks Solutions, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3236,7 +3235,7 @@ TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100|N|N
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100|N|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100|N|N
-TOPS|TOP Ships Inc. - Common Stock|S|N|D|100|N|N
+TOPS|TOP Ships Inc. - Common Stock|S|N|N|100|N|N
 TORC|resTORbio, Inc. - Common Stock|Q|N|N|100|N|N
 TOTA|Tottenham Acquisition I Limited - Ordinary Shares|S|N|N|100|N|N
 TOTAR|Tottenham Acquisition I Limited - Right|S|N|N|100|N|N
@@ -3617,4 +3616,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0824202014:01|||||||
+File Creation Time: 0825202012:11|||||||
