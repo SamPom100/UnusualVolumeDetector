@@ -2680,8 +2680,8 @@ JEQ|Aberdeen Japan Equity Fund, Inc.  Common Stock|N|JEQ|N|100|N|JEQ
 JETS|U.S. Global Jets ETF|P|JETS|Y|100|N|JETS
 JFR|Nuveen Floating Rate Income Fund Common Stock|N|JFR|N|100|N|JFR
 JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|100|N|JGH
-JHAA|Nuveen High Income 2023 Target Term Fund Common Shares of Beneficial Interest|N|JHAA|N|100|N|JHAA
-JHB|Nuveen High Income November 2021 Target Term Fund Nuveen High Income November 2021 Target Term Fund|N|JHB|N|100|N|JHB
+JHAA|Nuveen Corporate Income 2023 Target Term Fund|N|JHAA|N|100|N|JHAA
+JHB|Nuveen Corporate Income November 2021 Target Term Fund|N|JHB|N|100|N|JHB
 JHCS|John Hancock Multifactor Media and Communications ETF|P|JHCS|Y|100|N|JHCS
 JHEM|John Hancock Multifactor Emerging Markets ETF|P|JHEM|Y|100|N|JHEM
 JHG|Janus Henderson Group plc Ordinary Shares|N|JHG|N|100|N|JHG
@@ -2909,6 +2909,7 @@ LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
 LBRT|Liberty Oilfield Services Inc. Class A Common Stock|N|LBRT|N|100|N|LBRT
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
+LCG|Sterling Capital Focus Equity ETF|P|LCG|Y|100|N|LCG
 LCI|Lannett Co Inc Common Stock|N|LCI|N|100|N|LCI
 LCII|LCI Industries|N|LCII|N|100|N|LCII
 LCR|Leuthold Core ETF|P|LCR|Y|100|N|LCR
@@ -3305,6 +3306,7 @@ NCV|AllianzGI Convertible & Income Fund|N|NCV|N|100|N|NCV
 NCV$A|AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares  (Liquidation Preference $25.00 per share)|N|NCVpA|N|100|N|NCV-A
 NCZ|AllianzGI Convertible & Income Fund II Common Shares of Beneficial Interest|N|NCZ|N|100|N|NCZ
 NCZ$A|AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)|N|NCZpA|N|100|N|NCZ-A
+NDMO|Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest|N|NDMO|N|100|N|NDMO
 NDP|Tortoise Energy Independence Fund, Inc. Common Stock|N|NDP|N|100|N|NDP
 NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01|N|NEA|N|100|N|NEA
 NEAR|iShares Short Maturity Bond ETF|Z|NEAR|Y|100|N|NEAR
@@ -5314,6 +5316,7 @@ XNTK|SPDR NYSE Technology ETF|P|XNTK|Y|100|N|XNTK
 XOM|Exxon Mobil Corporation Common Stock|N|XOM|N|100|N|XOM
 XOP|SPDR S&P Oil & Gas Explor & Product|P|XOP|Y|100|N|XOP
 XOUT|GraniteShares XOUT U.S. Large Cap ETF|P|XOUT|Y|100|N|XOUT
+XPEV|XPeng Inc. American depositary shares, each representing two Class A ordinary shares|N|XPEV|N|100|N|XPEV
 XPH|SPDR S&P Pharmaceuticals ETF|P|XPH|Y|100|N|XPH
 XPL|Solitario Zinc Corp. Common Stock|A|XPL|N|100|N|XPL
 XPO|XPO Logistics, Inc.|N|XPO|N|100|N|XPO
@@ -5384,4 +5387,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0826202015:41||||||
+File Creation Time: 0827202012:11||||||

@@ -1781,8 +1781,8 @@ JEMD,JEMD|Nuveen Emerging Markets Debt 2022 Target Term Fund Common Shares of Be
 JEQ,JEQ|Aberdeen Japan Equity Fund, Inc.  Common Stock
 JFR,JFR|Nuveen Floating Rate Income Fund Common Stock
 JGH,JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest
-JHAA,JHAA|Nuveen High Income 2023 Target Term Fund Common Shares of Beneficial Interest
-JHB,JHB|Nuveen High Income November 2021 Target Term Fund Nuveen High Income November 2021 Target Term Fund
+JHAA,JHAA|Nuveen Corporate Income 2023 Target Term Fund
+JHB,JHB|Nuveen Corporate Income November 2021 Target Term Fund
 JHG,JHG|Janus Henderson Group plc Ordinary Shares
 JHI,JHI|John Hancock Investors Trust Common Stock
 JHS,JHS|John Hancock Income Securities Trust Common Stock
@@ -2229,6 +2229,7 @@ NCV,NCV|AllianzGI Convertible & Income Fund
 NCV$A,NCV$A|AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares  (Liquidation Preference $25.00 per share)
 NCZ,NCZ|AllianzGI Convertible & Income Fund II Common Shares of Beneficial Interest
 NCZ$A,NCZ$A|AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
+NDMO,NDMO|Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest
 NDP,NDP|Tortoise Energy Independence Fund, Inc. Common Stock
 NEA,NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
 NEE,NEE|NextEra Energy, Inc. Common Stock
@@ -3522,6 +3523,7 @@ XFLT,XFLT|XAI Octagon Floating Rate & Alternative Income Term Trust Common Share
 XHR,XHR|Xenia Hotels & Resorts, Inc. Common Stock
 XIN,XIN|Xinyuan Real Estate Co Ltd American Depositary Shares
 XOM,XOM|Exxon Mobil Corporation Common Stock
+XPEV,XPEV|XPeng Inc. American depositary shares, each representing two Class A ordinary shares
 XPL,XPL|Solitario Zinc Corp. Common Stock
 XPO,XPO|XPO Logistics, Inc.
 XRX,XRX|Xerox Holdings Corporation Common Stock
@@ -4024,6 +4026,7 @@ BSRR,BSRR|Sierra Bancorp - Common Stock
 BSTC,BSTC|BioSpecifics Technologies Corp - Common Stock
 BSVN,BSVN|Bank7 Corp. - Common stock
 BTAI,BTAI|BioXcel Therapeutics, Inc. - Common Stock
+BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
 BTBT,BTBT|Golden Bull Limited - Ordinary Share
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
@@ -4126,6 +4129,7 @@ CFFAU,CFFAU|CF Finance Acquisition Corp. - Unit
 CFFAW,CFFAW|CF Finance Acquisition Corp. - Warrant
 CFFI,CFFI|C&F Financial Corporation - Common Stock
 CFFN,CFFN|Capitol Federal Financial, Inc. - Common Stock
+CFIIU,CFIIU|CF Finance Acquisition Corp. II - Unit
 CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
 CG,CG|The Carlyle Group Inc. - Common Stock
@@ -5344,7 +5348,7 @@ MARPS,MARPS|Marine Petroleum Trust - Units of Beneficial Interest
 MASI,MASI|Masimo Corporation - Common Stock
 MAT,MAT|Mattel, Inc. - Common Stock
 MATW,MATW|Matthews International Corporation - Class A Common Stock
-MAXNV,MAXNV|Maxeon Solar Technologies, Ltd. - Ordinary Shares
+MAXN,MAXN|Maxeon Solar Technologies, Ltd. - Ordinary Shares
 MAYS,MAYS|J. W. Mays, Inc. - Common Stock
 MBCN,MBCN|Middlefield Banc Corp. - Common Stock
 MBII,MBII|Marrone Bio Innovations, Inc. - Common Stock
@@ -5357,7 +5361,9 @@ MBOT,MBOT|Microbot Medical Inc.  - Common Stock
 MBRX,MBRX|Moleculin Biotech, Inc. - Common Stock
 MBUU,MBUU|Malibu Boats, Inc. - Common Stock
 MBWM,MBWM|Mercantile Bank Corporation - Common Stock
-MCACU,MCACU|Mountain Crest Acquisition Corp - Unit
+MCAC,MCAC|Mountain Crest Acquisition Corp. - Common Stock
+MCACR,MCACR|Mountain Crest Acquisition Corp. - Right
+MCACU,MCACU|Mountain Crest Acquisition Corp. - Unit
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
 MCEP,MCEP|Mid-Con Energy Partners, LP - Common Units
@@ -6271,7 +6277,6 @@ SPT,SPT|Sprout Social, Inc - Class A Common Stock
 SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
-SPWRV,SPWRV|SunPower Corporation - Common Stock Ex-Distribution When Issued
 SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
 SRAC,SRAC|Stable Road Acquisition Corp. - Class A Common Stock
 SRACU,SRACU|Stable Road Acquisition Corp. - Unit

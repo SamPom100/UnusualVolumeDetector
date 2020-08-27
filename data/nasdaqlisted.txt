@@ -285,7 +285,7 @@ ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
 ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
-ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|D|100|N|N
+ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100|N|N
 ATLO|Ames National Corporation - Common Stock|S|N|N|100|N|N
 ATNI|ATN International, Inc. - Common Stock|Q|N|N|100|N|N
@@ -521,6 +521,7 @@ BSRR|Sierra Bancorp - Common Stock|Q|N|N|100|N|N
 BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|N|100|N|N
 BSVN|Bank7 Corp. - Common stock|Q|N|N|100|N|N
 BTAI|BioXcel Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+BTAQU|Burgundy Technology Acquisition Corporation - Unit|S|N|N|100|N|N
 BTBT|Golden Bull Limited - Ordinary Share|S|N|N|100|N|N
 BTEC|Principal Healthcare Innovators Index ETF|G|N|N|100|Y|N
 BUG|Global X Cybersecurity ETF|G|N|N|100|Y|N
@@ -634,6 +635,7 @@ CFFAU|CF Finance Acquisition Corp. - Unit|S|N|D|100|N|N
 CFFAW|CF Finance Acquisition Corp. - Warrant|S|N|D|100|N|N
 CFFI|C&F Financial Corporation - Common Stock|Q|N|N|100|N|N
 CFFN|Capitol Federal Financial, Inc. - Common Stock|Q|N|N|100|N|N
+CFIIU|CF Finance Acquisition Corp. II - Unit|S|N|N|100|N|N
 CFMS|Conformis, Inc. - Common Stock|Q|N|D|100|N|N
 CFO|VictoryShares US 500 Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
 CFRX|ContraFect Corporation - Common Stock|S|N|N|100|N|N
@@ -2043,7 +2045,7 @@ MARPS|Marine Petroleum Trust - Units of Beneficial Interest|S|N|N|100|N|N
 MASI|Masimo Corporation - Common Stock|Q|N|N|100|N|N
 MAT|Mattel, Inc. - Common Stock|Q|N|N|100|N|N
 MATW|Matthews International Corporation - Class A Common Stock|Q|N|N|100|N|N
-MAXNV|Maxeon Solar Technologies, Ltd. - Ordinary Shares|Q|N|N|100|N|N
+MAXN|Maxeon Solar Technologies, Ltd. - Ordinary Shares|Q|N|N|100|N|N
 MAYS|J. W. Mays, Inc. - Common Stock|S|N|N|100|N|N
 MBB|iShares MBS ETF|G|N|N|100|Y|N
 MBCN|Middlefield Banc Corp. - Common Stock|S|N|N|100|N|N
@@ -2058,7 +2060,9 @@ MBRX|Moleculin Biotech, Inc. - Common Stock|S|N|N|100|N|N
 MBSD|FlexShares Disciplined Duration MBS Index Fund|G|N|N|100|Y|N
 MBUU|Malibu Boats, Inc. - Common Stock|G|N|N|100|N|N
 MBWM|Mercantile Bank Corporation - Common Stock|Q|N|N|100|N|N
-MCACU|Mountain Crest Acquisition Corp - Unit|S|N|N|100|N|N
+MCAC|Mountain Crest Acquisition Corp. - Common Stock|S|N|N|100|N|N
+MCACR|Mountain Crest Acquisition Corp. - Right|S|N|N|100|N|N
+MCACU|Mountain Crest Acquisition Corp. - Unit|S|N|N|100|N|N
 MCBC|Macatawa Bank Corporation - Common Stock|Q|N|N|100|N|N
 MCBS|MetroCity Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 MCEF|First Trust Municipal CEF Income Opportunity ETF|G|N|N|100|Y|N
@@ -2245,7 +2249,7 @@ NCTY|The9 Limited - American Depository Shares representing three ordinary share
 NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100|N|N
 NDLS|Noodles & Company - Common Stock|Q|N|N|100|N|N
 NDRA|ENDRA Life Sciences Inc. - Common Stock|S|N|D|100|N|N
-NDRAW|ENDRA Life Sciences Inc. - Warrants|S|N|N|100|N|N
+NDRAW|ENDRA Life Sciences Inc. - Warrants|S|N|D|100|N|N
 NDSN|Nordson Corporation - Common Stock|Q|N|N|100|N|N
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100|N|N
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100|N|N
@@ -3059,7 +3063,6 @@ SPT|Sprout Social, Inc - Class A Common Stock|S|N|N|100|N|N
 SPTN|SpartanNash Company - Common Stock|Q|N|N|100|N|N
 SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPWR|SunPower Corporation - Common Stock|Q|N|N|100|N|N
-SPWRV|SunPower Corporation - Common Stock Ex-Distribution When Issued|Q|N|N|100|N|N
 SQBG|Sequential Brands Group, Inc. - Common Stock|S|N|N|100|N|N
 SQLV|Legg Mason Small-Cap Quality Value ETF|G|N|N|100|Y|N
 SQQQ|ProShares UltraPro Short QQQ|G|N|N|100|Y|N
@@ -3616,4 +3619,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0826202015:41|||||||
+File Creation Time: 0827202012:11|||||||
