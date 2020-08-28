@@ -429,7 +429,6 @@ BILL,BILL|Bill.com Holdings, Inc. Common Stock
 BIO,BIO|Bio-Rad Laboratories, Inc. Class A Common Stock
 BIO.B,BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock
 BIOX,BIOX|Bioceres Crop Solutions Corp. Ordinary Shares
-BIOX.W,BIOX.W|Bioceres Crop Solutions Corp. Warrant
 BIP,BIP|Brookfield Infrastructure Partners LP Limited Partnership Units
 BIPC,BIPC|Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares 
 BIT,BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest
@@ -4728,8 +4727,8 @@ GASS,GASS|StealthGas, Inc. - common stock
 GBCI,GBCI|Glacier Bancorp, Inc. - Common Stock
 GBDC,GBDC|Golub Capital BDC, Inc. - Common Stock
 GBIO,GBIO|Generation Bio Co. - Common stock
-GBLI,GBLI|Global Indemnity Limited - Class A Common Shares
-GBLIL,GBLIL|Global Indemnity Limited - 7.875% Subordinated Notes due 2047
+GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
+GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCBC,GCBC|Greene County Bancorp, Inc. - Common Stock
 GDEN,GDEN|Golden Entertainment, Inc. - Common Stock
@@ -4809,12 +4808,15 @@ GOODN,GOODN|Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeem
 GOOG,GOOG|Alphabet Inc. - Class C Capital Stock
 GOOGL,GOOGL|Alphabet Inc. - Class A Common Stock
 GOSS,GOSS|Gossamer Bio, Inc. - Common Stock
+GP,GP|GreenPower Motor Company Inc. - Common Shares
 GPOR,GPOR|Gulfport Energy Corporation - Common Stock
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
 GRBK,GRBK|Green Brick Partners, Inc. - Common Stock
+GRCY,GRCY|Greencity Acquisition Corporation - Ordinary Shares
 GRCYU,GRCYU|Greencity Acquisition Corporation - Unit
+GRCYW,GRCYW|Greencity Acquisition Corporation - Warrants
 GRFS,GRFS|Grifols, S.A. - American Depositary Shares
 GRIF,GRIF|Griffin Industrial Realty, Inc. - Common Stock
 GRIL,GRIL|Muscle Maker, Inc - Common Stock
@@ -4888,6 +4890,7 @@ HCCI,HCCI|Heritage-Crystal Clean, Inc. - Common Stock
 HCCO,HCCO|Healthcare Merger Corp. - Class A Common Stock
 HCCOU,HCCOU|Healthcare Merger Corp. - Units
 HCCOW,HCCOW|Healthcare Merger Corp. - Warrants
+HCDI,HCDI|Harbor Custom Development, Inc. - Common Stock
 HCKT,HCKT|The Hackett Group, Inc. - Common Stock
 HCM,HCM|Hutchison China MediTech Limited - American Depositary Shares
 HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
@@ -5756,6 +5759,7 @@ OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
 OTLKW,OTLKW|Outlook Therapeutics, Inc. - Series A Warrant
 OTRK,OTRK|Ontrak, Inc. - Common Stock
+OTRKP,OTRKP|Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock
 OTTR,OTTR|Otter Tail Corporation - Common Stock
 OVBC,OVBC|Ohio Valley Banc Corp. - Common Stock
 OVID,OVID|Ovid Therapeutics Inc. - Common Stock
@@ -5919,7 +5923,9 @@ PRTS,PRTS|CarParts.com, Inc. - Common Stock
 PRVB,PRVB|Provention Bio, Inc. - Common Stock
 PRVL,PRVL|Prevail Therapeutics Inc. - common stock
 PS,PS|Pluralsight, Inc. - Class A Common Stock
+PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
 PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
+PSACW,PSACW|Property Solutions Acquisition Corp. - Warrant
 PSEC,PSEC|Prospect Capital Corporation - Common Stock
 PSHG,PSHG|Performance Shipping Inc. - Common Shares
 PSMT,PSMT|PriceSmart, Inc. - Common Stock
@@ -6231,6 +6237,7 @@ SMPL,SMPL|The Simply Good Foods Company - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
 SMTX,SMTX|SMTC Corporation - Common Stock
+SNBP,SNBP|Sun BioPharma, Inc. - Common Stock
 SNBR,SNBR|Sleep Number Corporation - Common Stock
 SNCA,SNCA|Seneca Biopharma, Inc. - Common Stock
 SNCR,SNCR|Synchronoss Technologies, Inc. - Common Stock
