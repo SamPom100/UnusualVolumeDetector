@@ -732,9 +732,6 @@ CCAC.W|CITIC Capital Acquisition Corp. Warrants, each whole warrant exercisable 
 CCC|Clarivate Plc Ordinary Shares|N|CCC|N|100|N|CCC
 CCEP|Coca-Cola European Partners plc Ordinary Shares|N|CCEP|N|100|N|CCEP
 CCF|Chase Corporation Common Stock|A|CCF|N|100|N|CCF
-CCH|Collier Creek Holdings Class A Ordinary Shares|N|CCH|N|100|N|CCH
-CCH.U|Collier Creek Holdings Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of  one redeemable warrant|N|CCH.U|N|100|N|CCH=
-CCH.W|Collier Creek Holdings Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CCH.WS|N|100|N|CCH+
 CCI|Crown Castle International Corp. (REIT) Common Stock|N|CCI|N|100|N|CCI
 CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|CCIV.U|N|100|N|CCIV=
 CCJ|Cameco Corporation Common Stock|N|CCJ|N|100|N|CCJ
@@ -1843,9 +1840,6 @@ FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock|N|FOF|N|100|N|
 FOR|Forestar Group Inc Common Stock |N|FOR|N|100|N|FOR
 FOUR|Shift4 Payments, Inc. Class A Common Stock|N|FOUR|N|100|N|FOUR
 FOVL|iShares Focused Value Factor ETF|P|FOVL|Y|100|N|FOVL
-FPAC|Far Point Acquisition Corporation Class A Common Stock|N|FPAC|N|100|N|FPAC
-FPAC.U|Far Point Acquisition Corporation Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant|N|FPAC.U|N|100|N|FPAC=
-FPAC.W|Far Point Acquisition Corporation Warrants, exercisable for one share of Class A Common Stock for $11.50 per share|N|FPAC.WS|N|100|N|FPAC+
 FPE|First Trust Preferred Securities and Income ETF ETF|P|FPE|Y|100|N|FPE
 FPEI|First Trust Institutional Preferred Securities and Income ETF|P|FPEI|Y|100|N|FPEI
 FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest|N|FPF|N|100|N|FPF
@@ -1952,6 +1946,8 @@ GAMR|Wedbush ETFMG Video Game Tech ETF|P|GAMR|Y|100|N|GAMR
 GATX|GATX Corporation Common Stock|N|GATX|N|100|N|GATX
 GAU|Galiano Gold Inc.|A|GAU|N|100|N|GAU
 GAZ|Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return ETN|P|GAZ|N|100|N|GAZ
+GB|Global Blue Group Holding AG Ordinary Shares|N|GB|N|100|N|GB
+GB.W|Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share|N|GB.WS|N|100|N|GB+
 GBAB|Guggenheim Taxable Municipal Managed Duration Trust Common Shares of Beneficial Interest|N|GBAB|N|100|N|GBAB
 GBDV|Global Beta ETF Trust Global Beta Smart Income ETF|P|GBDV|Y|100|N|GBDV
 GBF|iShares Government/Credit Bond ETF|P|GBF|Y|100|N|GBF
@@ -2147,7 +2143,6 @@ GSAH|GS Acquisition Holdings Corp II Class A Common Stock|N|GSAH|N|100|N|GSAH
 GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-quarter of one redeemable Warrant|N|GSAH.U|N|100|N|GSAH=
 GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|GSAH.WS|N|100|N|GSAH+
 GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
-GSB|GlobalSCAPE, Inc. Common Stock|A|GSB|N|100|N|GSB
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
 GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
 GSEE|Goldman Sachs MarketBeta Emerging Markets Equity ETF|Z|GSEE|Y|100|N|GSEE
@@ -3022,6 +3017,7 @@ MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
 MAV|Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest|N|MAV|N|100|N|MAV
 MAXR|Maxar Technologies Inc.|N|MAXR|N|100|N|MAXR
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
+MBSD|FlexShares Trust FlexShares Disciplined Duration MBS Index Fund|P|MBSD|Y|100|N|MBSD
 MBT|Mobile TeleSystems PJSC|N|MBT|N|100|N|MBT
 MC|Moelis & Company Class A Common Stock|N|MC|N|100|N|MC
 MCA|Blackrock MuniYield California Quality Fund, Inc. Common Stock|N|MCA|N|100|N|MCA
@@ -4991,6 +4987,8 @@ UTI|Universal Technical Institute Inc Common Stock|N|UTI|N|100|N|UTI
 UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
 UTRN|Vesper US Large Cap Short-Term Reversal Strategy ETF|P|UTRN|Y|100|N|UTRN
 UTSL|Direxion Daily Utilities Bull 3X Shares|P|UTSL|Y|100|N|UTSL
+UTZ|Utz Brands Inc Class A Common Stock |N|UTZ|N|100|N|UTZ
+UTZ.W|Utz Brands, Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|UTZ.WS|N|100|N|UTZ+
 UUP|Invesco DB USD Index Bullish Fund ETF|P|UUP|Y|100|N|UUP
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
 UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
@@ -5071,7 +5069,6 @@ VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representi
 VIV|Telefonica Brasil, S.A. ADS|N|VIV|N|100|N|VIV
 VIXM|ProShares Trust VIX Mid-Term Futures ETF|P|VIXM|Y|100|N|VIXM
 VIXY|ProShares Trust VIX Short-Term Futures ETF|P|VIXY|Y|100|N|VIXY
-VJET|voxeljet AG American Depositary Shares, each representing one Ordinary share/|N|VJET|N|100|N|VJET
 VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)|A|VKI|N|100|N|VKI
 VKQ|Invesco Municipal Trust Common Stock|N|VKQ|N|100|N|VKQ
 VLO|Valero Energy Corporation Common Stock|N|VLO|N|100|N|VLO
@@ -5384,4 +5381,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0828202015:41||||||
+File Creation Time: 0831202014:02||||||

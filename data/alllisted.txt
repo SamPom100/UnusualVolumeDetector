@@ -594,9 +594,6 @@ CCAC.W,CCAC.W|CITIC Capital Acquisition Corp. Warrants, each whole warrant exerc
 CCC,CCC|Clarivate Plc Ordinary Shares
 CCEP,CCEP|Coca-Cola European Partners plc Ordinary Shares
 CCF,CCF|Chase Corporation Common Stock
-CCH,CCH|Collier Creek Holdings Class A Ordinary Shares
-CCH.U,CCH.U|Collier Creek Holdings Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of  one redeemable warrant
-CCH.W,CCH.W|Collier Creek Holdings Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CCI,CCI|Crown Castle International Corp. (REIT) Common Stock
 CCIV.U,CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 CCJ,CCJ|Cameco Corporation Common Stock
@@ -1291,9 +1288,6 @@ FOE,FOE|Ferro Corporation Common Stock
 FOF,FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOR,FOR|Forestar Group Inc Common Stock 
 FOUR,FOUR|Shift4 Payments, Inc. Class A Common Stock
-FPAC,FPAC|Far Point Acquisition Corporation Class A Common Stock
-FPAC.U,FPAC.U|Far Point Acquisition Corporation Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant
-FPAC.W,FPAC.W|Far Point Acquisition Corporation Warrants, exercisable for one share of Class A Common Stock for $11.50 per share
 FPF,FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
 FPH,FPH|Five Point Holdings, LLC Class A Common Shares
 FPI,FPI|Farmland Partners Inc. Common Stock
@@ -1357,6 +1351,8 @@ GAM$B,GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock
 GATX,GATX|GATX Corporation Common Stock
 GAU,GAU|Galiano Gold Inc.
 GAZ,GAZ|Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return ETN
+GB,GB|Global Blue Group Holding AG Ordinary Shares
+GB.W,GB.W|Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share
 GBAB,GBAB|Guggenheim Taxable Municipal Managed Duration Trust Common Shares of Beneficial Interest
 GBL,GBL|Gamco Investors, Inc. Common Stock
 GBR,GBR|New Concept Energy, Inc Common Stock
@@ -1511,7 +1507,6 @@ GSAH,GSAH|GS Acquisition Holdings Corp II Class A Common Stock
 GSAH.U,GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-quarter of one redeemable Warrant
 GSAH.W,GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 GSAT,GSAT|Globalstar, Inc. Common Stock
-GSB,GSB|GlobalSCAPE, Inc. Common Stock
 GSBD,GSBD|Goldman Sachs BDC, Inc. Common Stock
 GSC,GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index
 GSH,GSH|Guangshen Railway Company Limited Common Stock
@@ -3330,6 +3325,8 @@ UTF,UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock
 UTG,UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest
 UTI,UTI|Universal Technical Institute Inc Common Stock
 UTL,UTL|UNITIL Corporation Common Stock
+UTZ,UTZ|Utz Brands Inc Class A Common Stock 
+UTZ.W,UTZ.W|Utz Brands, Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 UUU,UUU|Universal Security Instruments, Inc. Common Stock
 UUUU,UUUU|Energy Fuels Inc Ordinary Shares (Canada)
 UUUU.W,UUUU.W|Energy Fuels Inc Warrants, exercisable for one common share until September 20, 2021 at an exercise price of $2.45
@@ -3369,7 +3366,6 @@ VICI,VICI|VICI Properties Inc. Common Stock
 VIPS,VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares
 VIST,VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
 VIV,VIV|Telefonica Brasil, S.A. ADS
-VJET,VJET|voxeljet AG American Depositary Shares, each representing one Ordinary share/
 VKI,VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
 VKQ,VKQ|Invesco Municipal Trust Common Stock
 VLO,VLO|Valero Energy Corporation Common Stock
@@ -3854,6 +3850,7 @@ AUDC,AUDC|AudioCodes Ltd. - Ordinary Shares
 AUPH,AUPH|Aurinia Pharmaceuticals Inc - Common Shares
 AUTL,AUTL|Autolus Therapeutics plc - American Depositary Shares
 AUTO,AUTO|AutoWeb, Inc. - Common Stock
+AUVI,AUVI|Applied UV, Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
 AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
 AVCT,AVCT|American Virtual Cloud Technologies, Inc.  - Common Stock
@@ -4440,7 +4437,7 @@ DXPE,DXPE|DXP Enterprises, Inc. - Common Stock
 DXYN,DXYN|The Dixie Group, Inc. - Common Stock
 DYAI,DYAI|Dyadic International, Inc. - Common Stock
 DYNT,DYNT|Dynatronics Corporation - Common Stock
-DZSI,DZSI|DASAN Zhone Solutions, Inc. - Common Stock
+DZSI,DZSI|DZS Inc. - Common Stock
 EA,EA|Electronic Arts Inc. - Common Stock
 EARS,EARS|Auris Medical Holding Ltd. - Common Shares
 EAST,EAST|Eastside Distilling, Inc. - Common Stock
@@ -4907,6 +4904,7 @@ HEPA,HEPA|Hepion Pharmaceuticals, Inc. - Common Stock
 HFBL,HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock
 HFFG,HFFG|HF Foods Group Inc. - Common Stock
 HFWA,HFWA|Heritage Financial Corporation - Common Stock
+HGBL,HGBL|Heritage Global Inc. - Common Stock
 HGSH,HGSH|China HGS Real Estate, Inc. - Common Stock
 HHR,HHR|HeadHunter Group PLC - American Depositary Shares
 HHT,HHT|Color Star Technology Co. Ltd. - Ordinary Shares
@@ -6601,6 +6599,7 @@ VISL,VISL|Vislink Technologies, Inc. - Common Stock
 VITL,VITL|Vital Farms, Inc. - Common Stock
 VIVE,VIVE|Viveve Medical, Inc. - Common Stock
 VIVO,VIVO|Meridian Bioscience Inc. - Common Stock
+VJET,VJET|voxeljet AG - American Depositary Shares
 VKTX,VKTX|Viking Therapeutics, Inc. - Common Stock
 VKTXW,VKTXW|Viking Therapeutics, Inc. - Warrants
 VLGEA,VLGEA|Village Super Market, Inc. - Class A Common Stock
