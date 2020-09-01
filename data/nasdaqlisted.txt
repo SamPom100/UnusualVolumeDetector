@@ -580,7 +580,6 @@ CBNK|Capital Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 CBPO|China Biologic Products Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 CBRL|Cracker Barrel Old Country Store, Inc. - Common Stock|Q|N|N|100|N|N
 CBSH|Commerce Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
-CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
 CBTX|CBTX, Inc. - Common Stock|Q|N|N|100|N|N
 CCAP|Crescent Capital BDC, Inc. - Common Stock|G|N|N|100|N|N
 CCB|Coastal Financial Corporation - Common Stock|Q|N|N|100|N|N
@@ -1627,6 +1626,7 @@ HYACW|Haymaker Acquisition Corp. II - Warrant|S|N|N|100|N|N
 HYLS|First Trust High Yield Long/Short ETF|G|N|N|100|Y|N
 HYMC|Hycroft Mining Holding Corporation - Class A Common Stock|S|N|N|100|N|N
 HYMCW|Hycroft Mining Holding Corporation - Warrant|S|N|N|100|N|N
+HYMCZ|Hycroft Mining Holding Corporation - Warrant|S|N|N|100|N|N
 HYRE|HyreCar Inc. - Common Stock|S|N|N|100|N|N
 HYXE|iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF|G|N|N|100|Y|N
 HYZD|WisdomTree Interest Rate Hedged High Yield Bond Fund|G|N|N|100|Y|N
@@ -1997,7 +1997,6 @@ LOB|Live Oak Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 LOGC|LogicBio Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100|N|N
-LOGM|LogMeIn, Inc. - Common Stock|Q|N|N|100|N|N
 LONE|Lonestar Resources US Inc. - Class A Common Stock|G|N|D|100|N|N
 LOOP|Loop Industries, Inc. - Common Stock|G|N|N|100|N|N
 LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2632,6 +2631,7 @@ PRAH|PRA Health Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 PRCP|Perceptron, Inc. - Common Stock|G|N|N|100|N|N
 PRDO|Perdoceo Education Corporation - Common Stock|Q|N|N|100|N|N
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100|N|N
+PRFX|PainReform Ltd. - Ordinary Shares|S|N|N|100|N|N
 PRFZ|Invesco FTSE RAFI US 1500 Small-Mid ETF|G|N|N|100|Y|N
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100|N|N
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2734,6 +2734,7 @@ QQXT|First Trust NASDAQ-100 Ex-Technology Sector Index Fund|G|N|N|100|Y|N
 QRHC|Quest Resource Holding Corporation - Common Stock|S|N|N|100|N|N
 QRTEA|Qurate Retail, Inc. - Series A Common Stock|Q|N|N|100|N|N
 QRTEB|Qurate Retail, Inc. - Series B Common Stock|Q|N|N|100|N|N
+QRTEV|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock When Issued|Q|N|N|100|N|N
 QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100|N|N
 QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|100|Y|N
 QTNT|Quotient Limited - Ordinary Shares|G|N|N|100|N|N
@@ -3311,7 +3312,7 @@ TXG|10x Genomics, Inc. - Common Stock|Q|N|N|100|N|N
 TXMD|TherapeuticsMD, Inc. - Common Stock|Q|N|N|100|N|N
 TXN|Texas Instruments Incorporated - Common Stock|Q|N|N|100|N|N
 TXRH|Texas Roadhouse, Inc. - Common Stock|Q|N|N|100|N|N
-TYHT|Shineco, Inc. - Common Stock|S|N|D|100|N|N
+TYHT|Shineco, Inc. - Common Stock|S|N|N|100|N|N
 TYME|Tyme Technologies, Inc. - Common Stock|S|N|N|100|N|N
 TZAC|Tenzing Acquisition Corp. - Ordinary Shares|S|N|N|100|N|N
 TZACU|Tenzing Acquisition Corp. - Units|S|N|N|100|N|N
@@ -3415,7 +3416,7 @@ VISL|Vislink Technologies, Inc. - Common Stock|S|N|N|100|N|N
 VITL|Vital Farms, Inc. - Common Stock|G|N|N|100|N|N
 VIVE|Viveve Medical, Inc. - Common Stock|S|N|D|100|N|N
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100|N|N
-VJET|voxeljet AG - American Depositary Shares|S|N|D|100|N|N
+VJET|voxeljet AG - American Depositary Shares|S|N|N|100|N|N
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VKTXW|Viking Therapeutics, Inc. - Warrants|S|N|N|100|N|N
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -3629,4 +3630,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0831202014:02|||||||
+File Creation Time: 0901202014:02|||||||

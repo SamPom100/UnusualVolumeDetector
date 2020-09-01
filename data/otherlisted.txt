@@ -1960,7 +1960,6 @@ GBUG|iPath Gold ETN|P|GBUG|Y|100|N|GBUG
 GBUY|Goldman Sachs New Age Consumer ETF|P|GBUY|Y|100|N|GBUY
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCC|WisdomTree Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
-GCE|Clarymore CEF GS Connect ETN|P|GCE|N|100|N|GCE
 GCI|Gannett Co., Inc. Common Stock|N|GCI|N|100|N|GCI
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCOW|Pacer Global Cash Cows Dividend ETF|Z|GCOW|Y|100|N|GCOW
@@ -2144,7 +2143,6 @@ GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one share of Cl
 GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|GSAH.WS|N|100|N|GSAH+
 GSAT|Globalstar, Inc. Common Stock|A|GSAT|N|100|N|GSAT
 GSBD|Goldman Sachs BDC, Inc. Common Stock|N|GSBD|N|100|N|GSBD
-GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index|P|GSC|N|100|N|GSC
 GSEE|Goldman Sachs MarketBeta Emerging Markets Equity ETF|Z|GSEE|Y|100|N|GSEE
 GSEU|Goldman Sachs ActiveBeta Europe Equity ETF|P|GSEU|Y|100|N|GSEU
 GSEW|Goldman Sachs Equal Weight U.S. Large Cap Equity ETF|Z|GSEW|Y|100|N|GSEW
@@ -2348,7 +2346,7 @@ HWM$|Howmet Aerospace Inc. $3.75 Preferred Stock|A|HWMp|N|100|N|HWM-
 HXL|Hexcel Corporation Common Stock|N|HXL|N|100|N|HXL
 HY|Hyster-Yale Materials Handling, Inc. Class A Common Stock|N|HY|N|100|N|HY
 HYB|New America High Income Fund, Inc. (The) Common Stock|N|HYB|N|100|N|HYB
-HYD|VanEck Vectors High Yield Municipal Index ETF|Z|HYD|Y|100|N|HYD
+HYD|VanEck Vectors ETF Trust VanEck Vectors High Yield Muni ETF|Z|HYD|Y|100|N|HYD
 HYDB|iShares High Yield Bond Factor ETF|Z|HYDB|Y|100|N|HYDB
 HYDW|Xtrackers Low Beta High Yield Bond ETF|P|HYDW|Y|100|N|HYDW
 HYEM|VanEck Vectors Emerging Markets High Yield Bond ETF|P|HYEM|Y|100|N|HYEM
@@ -2588,7 +2586,7 @@ ITB|iShares U.S. Home Construction ETF|Z|ITB|Y|100|N|ITB
 ITCB|Itau CorpBanca American Depositary Shares (each representing 1,500 shares of Common Stock, no par value)|N|ITCB|N|100|N|ITCB
 ITEQ|BlueStar Israel Technology ETF|P|ITEQ|Y|100|N|ITEQ
 ITGR|Integer Holdings Corporation Common Stock|N|ITGR|N|100|N|ITGR
-ITM|VanEck Vectors AMT-Free Intermediate Municipal Index ETF|Z|ITM|Y|100|N|ITM
+ITM|VanEck Vectors ETF Trust VanEck Vectors Intermediate Muni ETF|Z|ITM|Y|100|N|ITM
 ITOT|iShares Core S&P Total U.S. Stock Market ETF|P|ITOT|Y|100|N|ITOT
 ITP|IT Tech Packaging, Inc. Common Stock|A|ITP|N|100|N|ITP
 ITRG|Integra Resources Corp. Common Shares|A|ITRG|N|100|N|ITRG
@@ -3004,7 +3002,7 @@ M|Macy's Inc Common Stock|N|M|N|100|N|M
 MA|Mastercard Incorporated Common Stock|N|MA|N|100|N|MA
 MAA|Mid-America Apartment Communities, Inc. Common Stock|N|MAA|N|100|N|MAA
 MAA$I|Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock|N|MAApI|N|100|N|MAA-I
-MAAX|VanEck Vectors Municipal Allocation ETF|Z|MAAX|Y|100|N|MAAX
+MAAX|VanEck Vectors ETF Trust VanEck Vectors Muni Allocation ETF|Z|MAAX|Y|100|N|MAAX
 MAC|Macerich Company (The) Common Stock|N|MAC|N|100|N|MAC
 MAG|MAG Silver Corporation Ordinary Shares|A|MAG|N|100|N|MAG
 MAGA|Point Bridge GOP Stock Tracker ETF|Z|MAGA|Y|100|N|MAGA
@@ -3124,7 +3122,7 @@ MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC.V|N|100|N|MKC.V
 MKL|Markel Corporation Common Stock|N|MKL|N|10|N|MKL
 MLI|Mueller Industries, Inc. Common Stock|N|MLI|N|100|N|MLI
 MLM|Martin Marietta Materials, Inc. Common Stock|N|MLM|N|100|N|MLM
-MLN|VanEck Vectors AMT-Free Long Municipal Index ETF|Z|MLN|Y|100|N|MLN
+MLN|VanEck Vectors ETF Trust VanEck Vectors Long Muni ETF|Z|MLN|Y|100|N|MLN
 MLP|Maui Land & Pineapple Company, Inc. Common Stock|N|MLP|N|100|N|MLP
 MLPA|Global X MLP ETF|P|MLPA|Y|100|N|MLPA
 MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040|P|MLPB|N|100|N|MLPB
@@ -3568,6 +3566,7 @@ ONTO|Onto Innovation Inc. Common Stock|N|ONTO|N|100|N|ONTO
 OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
 OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock|N|OPP|N|100|N|OPP
+OPP.V|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring October 1, 2020)|N|OPPrw|N|100|N|OPP^#
 OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)|N|OPY|N|100|N|OPY
 OR|Osisko Gold Royalties Ltd Common Shares|N|OR|N|100|N|OR
 ORA|Ormat Technologies, Inc. Common Stock|N|ORA|N|100|N|ORA
@@ -3791,7 +3790,6 @@ PMT$B|PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate C
 PMX|PIMCO Municipal Income Fund III Common Shares of Beneficial Interest|N|PMX|N|100|N|PMX
 PNC|PNC Financial Services Group, Inc. (The) Common Stock|N|PNC|N|100|N|PNC
 PNC$P|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P|N|PNCpP|N|100|N|PNC-P
-PNC$Q|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Shares Series Q|N|PNCpQ|N|100|N|PNC-Q
 PNF|PIMCO New York Municipal Income Fund Common Stock|N|PNF|N|100|N|PNF
 PNI|Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest|N|PNI|N|100|N|PNI
 PNM|PNM Resources, Inc. (Holding Co.) Common Stock|N|PNM|N|100|N|PNM
@@ -4290,6 +4288,7 @@ SEF|ProShares Short Financials|P|SEF|Y|100|N|SEF
 SEIX|Virtus Seix Senior Loan ETF|P|SEIX|Y|100|N|SEIX
 SEM|Select Medical Holdings Corporation Common Stock|N|SEM|N|100|N|SEM
 SENS|Senseonics Holdings, Inc. Common Stock|A|SENS|N|100|N|SENS
+SEPZ|Listed Funds Trust TrueShares Structured Outcome (September) ETF|Z|SEPZ|Y|100|N|SEPZ
 SERV|ServiceMaster Global Holdings, Inc. Common Stock|N|SERV|N|100|N|SERV
 SF|Stifel Financial Corporation Common Stock|N|SF|N|100|N|SF
 SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A|N|SFpA|N|100|N|SF-A
@@ -4329,7 +4328,7 @@ SHO$E|Sunstone Hotel Investors, Inc. 6.950% Series E Cumulative Redeemable Prefe
 SHO$F|Sunstone Hotel Investors, Inc. 6.450% Series F Cumulative Redeemable Preferred Stock|N|SHOpF|N|100|N|SHO-F
 SHOP|Shopify Inc. Class A Subordinate Voting Shares|N|SHOP|N|100|N|SHOP
 SHW|Sherwin-Williams Company (The) Common Stock|N|SHW|N|100|N|SHW
-SHYD|VanEck Vectors Short High-Yield Municipal Index ETF|Z|SHYD|Y|100|N|SHYD
+SHYD|VanEck Vectors ETF Trust VanEck Vectors Short High Yield Muni ETF|Z|SHYD|Y|100|N|SHYD
 SHYG|iShares 0-5 Year High Yield Corporate Bond ETF|P|SHYG|Y|100|N|SHYG
 SHYL|Xtrackers Short Duration High Yield Bond ETF|P|SHYL|Y|100|N|SHYL
 SI|Silvergate Capital Corporation Class A Common Stock|N|SI|N|100|N|SI
@@ -4383,7 +4382,7 @@ SLYG|SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index -
 SLYV|SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index--symbol--CVK|P|SLYV|Y|100|N|SLYV
 SM|SM Energy Company Common Stock|N|SM|N|100|N|SM
 SMAR|Smartsheet Inc. Class A Common Stock|N|SMAR|N|100|N|SMAR
-SMB|VanEck Vectors AMT-Free Short Municipal Index ETF|Z|SMB|Y|100|N|SMB
+SMB|VanEck Vectors ETF Trust VanEck Vectors Short Muni ETF|Z|SMB|Y|100|N|SMB
 SMDD|UltraPro Short MidCap400|P|SMDD|Y|100|N|SMDD
 SMDV|ProShares Russell 2000 Dividend Growers ETF|Z|SMDV|Y|100|N|SMDV
 SMDY|Syntax Stratified MidCap ETF|P|SMDY|Y|100|N|SMDY
@@ -5109,7 +5108,6 @@ VPG|Vishay Precision Group, Inc. Common Stock|N|VPG|N|100|N|VPG
 VPL|Vanguard FTSE Pacific ETF|P|VPL|Y|100|N|VPL
 VPU|Vanguard Utilities ETF|P|VPU|Y|100|N|VPU
 VPV|Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)|N|VPV|N|100|N|VPV
-VQT|iPath S&P VEQTOR ETN|Z|VQT|N|100|N|VQT
 VRAI|Virtus Real Asset Income ETF|P|VRAI|Y|100|N|VRAI
 VRP|Invesco Variable Rate Preferred ETF|P|VRP|Y|100|N|VRP
 VRS|Verso Corporation Common Stock|N|VRS|N|100|N|VRS
@@ -5381,4 +5379,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0831202014:02||||||
+File Creation Time: 0901202014:02||||||

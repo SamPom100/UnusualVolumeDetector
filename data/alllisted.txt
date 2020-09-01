@@ -1357,7 +1357,6 @@ GBAB,GBAB|Guggenheim Taxable Municipal Managed Duration Trust Common Shares of B
 GBL,GBL|Gamco Investors, Inc. Common Stock
 GBR,GBR|New Concept Energy, Inc Common Stock
 GBX,GBX|Greenbrier Companies, Inc. (The) Common Stock
-GCE,GCE|Clarymore CEF GS Connect ETN
 GCI,GCI|Gannett Co., Inc. Common Stock
 GCO,GCO|Genesco Inc. Common Stock
 GCP,GCP|GCP Applied Technologies Inc. Common Stock
@@ -1508,7 +1507,6 @@ GSAH.U,GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one shar
 GSAH.W,GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 GSAT,GSAT|Globalstar, Inc. Common Stock
 GSBD,GSBD|Goldman Sachs BDC, Inc. Common Stock
-GSC,GSC|Goldman Sachs Connect S&P Enhanced Commodity Total Return Strategy Index
 GSH,GSH|Guangshen Railway Company Limited Common Stock
 GSK,GSK|GlaxoSmithKline PLC Common Stock
 GSL,GSL|Global Ship Lease Inc New Class A Common Shares
@@ -2446,6 +2444,7 @@ ONE,ONE|OneSmart International Education Group Limited ADS
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
+OPP.V,OPP.V|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring October 1, 2020)
 OPY,OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)
 OR,OR|Osisko Gold Royalties Ltd Common Shares
 ORA,ORA|Ormat Technologies, Inc. Common Stock
@@ -2603,7 +2602,6 @@ PMT$B,PMT$B|PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating 
 PMX,PMX|PIMCO Municipal Income Fund III Common Shares of Beneficial Interest
 PNC,PNC|PNC Financial Services Group, Inc. (The) Common Stock
 PNC$P,PNC$P|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P
-PNC$Q,PNC$Q|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Shares Series Q
 PNF,PNF|PIMCO New York Municipal Income Fund Common Stock
 PNI,PNI|Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNM,PNM|PNM Resources, Inc. (Holding Co.) Common Stock
@@ -3390,7 +3388,6 @@ VOYA,VOYA|Voya Financial, Inc. Common Stock
 VOYA$B,VOYA$B|Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B
 VPG,VPG|Vishay Precision Group, Inc. Common Stock
 VPV,VPV|Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
-VQT,VQT|iPath S&P VEQTOR ETN
 VRS,VRS|Verso Corporation Common Stock
 VRT,VRT|Vertiv Holdings, LLC Class A Common Stock
 VRT.W,VRT.W|Vertiv Holdings, LLC Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
@@ -4075,7 +4072,6 @@ CBNK,CBNK|Capital Bancorp, Inc. - Common Stock
 CBPO,CBPO|China Biologic Products Holdings, Inc. - Common Stock
 CBRL,CBRL|Cracker Barrel Old Country Store, Inc. - Common Stock
 CBSH,CBSH|Commerce Bancshares, Inc. - Common Stock
-CBSHP,CBSHP|Commerce Bancshares, Inc. - Depositary Shares, each representing a 1/1000th interest of 6.00% Series B Non-Cumulative Perpetual Preferred Stock
 CBTX,CBTX|CBTX, Inc. - Common Stock
 CCAP,CCAP|Crescent Capital BDC, Inc. - Common Stock
 CCB,CCB|Coastal Financial Corporation - Common Stock
@@ -4981,6 +4977,7 @@ HYACU,HYACU|Haymaker Acquisition Corp. II - Unit
 HYACW,HYACW|Haymaker Acquisition Corp. II - Warrant
 HYMC,HYMC|Hycroft Mining Holding Corporation - Class A Common Stock
 HYMCW,HYMCW|Hycroft Mining Holding Corporation - Warrant
+HYMCZ,HYMCZ|Hycroft Mining Holding Corporation - Warrant
 HYRE,HYRE|HyreCar Inc. - Common Stock
 HZNP,HZNP|Horizon Therapeutics Public Limited Company - Ordinary Shares
 IAC,IAC|IAC/InterActiveCorp - Common Stock
@@ -5297,7 +5294,6 @@ LOB,LOB|Live Oak Bancshares, Inc. - Common Stock
 LOCO,LOCO|El Pollo Loco Holdings, Inc. - Common Stock
 LOGC,LOGC|LogicBio Therapeutics, Inc. - Common Stock
 LOGI,LOGI|Logitech International S.A. - Registered Shares
-LOGM,LOGM|LogMeIn, Inc. - Common Stock
 LONE,LONE|Lonestar Resources US Inc. - Class A Common Stock
 LOOP,LOOP|Loop Industries, Inc. - Common Stock
 LOPE,LOPE|Grand Canyon Education, Inc. - Common Stock
@@ -5901,6 +5897,7 @@ PRAH,PRAH|PRA Health Sciences, Inc. - Common Stock
 PRCP,PRCP|Perceptron, Inc. - Common Stock
 PRDO,PRDO|Perdoceo Education Corporation - Common Stock
 PRFT,PRFT|Perficient, Inc. - Common Stock
+PRFX,PRFX|PainReform Ltd. - Ordinary Shares
 PRGS,PRGS|Progress Software Corporation - Common Stock
 PRGX,PRGX|PRGX Global, Inc. - Common Stock
 PRIM,PRIM|Primoris Services Corporation - Common Stock
@@ -5976,6 +5973,7 @@ QQQX,QQQX|Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Intere
 QRHC,QRHC|Quest Resource Holding Corporation - Common Stock
 QRTEA,QRTEA|Qurate Retail, Inc. - Series A Common Stock
 QRTEB,QRTEB|Qurate Retail, Inc. - Series B Common Stock
+QRTEV,QRTEV|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock When Issued
 QRVO,QRVO|Qorvo, Inc. - Common Stock
 QTNT,QTNT|Quotient Limited - Ordinary Shares
 QTRX,QTRX|Quanterix Corporation - Common Stock
