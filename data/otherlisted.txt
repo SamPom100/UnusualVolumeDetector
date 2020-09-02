@@ -2399,7 +2399,6 @@ IBHD|iShares iBonds 2024 Term High Yield and Income ETF|Z|IBHD|Y|100|N|IBHD
 IBHE|iShares iBonds 2025 Term High Yield and Income ETF|Z|IBHE|Y|100|N|IBHE
 IBIO|iBio, Inc. Common Stock|A|IBIO|N|100|N|IBIO
 IBM|International Business Machines Corporation Common Stock|N|IBM|N|100|N|IBM
-IBMI|iShares iBonds Sep 2020 Term Muni Bond ETF|P|IBMI|Y|100|N|IBMI
 IBMJ|iShares iBonds Dec 2021 Term Muni Bond ETF|P|IBMJ|Y|100|N|IBMJ
 IBMK|iShares iBonds Dec 2022 Term Muni Bond ETF|P|IBMK|Y|100|N|IBMK
 IBML|iShares iBonds Dec 2023 Term Muni Bond ETF|Z|IBML|Y|100|N|IBML
@@ -3203,6 +3202,7 @@ MSGS|Madison Square Garden Sports Corp. Class A Common Stock (New)|N|MSGS|N|100|
 MSI|Motorola Solutions, Inc. Common Stock|N|MSI|N|100|N|MSI
 MSM|MSC Industrial Direct Company, Inc. Common Stock|N|MSM|N|100|N|MSM
 MSN|Emerson Radio Corporation Common Stock|A|MSN|N|100|N|MSN
+MSOS|AdvisorShares Trust AdvisorShares Pure US Cannabis ETF|P|MSOS|Y|100|N|MSOS
 MSVX|LHA Market State Alpha Seeker ETF|Z|MSVX|Y|100|N|MSVX
 MT|Arcelor Mittal NY Registry Shares NEW|N|MT|N|100|N|MT
 MTA|Metalla Royalty & Streaming Ltd. Common Shares|A|MTA|N|100|N|MTA
@@ -3702,6 +3702,7 @@ PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 
 PFFR|ETFIS Series Trust I ETF|P|PFFR|Y|100|N|PFFR
 PFFV|Global X Variable Rate Preferred ETF|P|PFFV|Y|100|N|PFFV
 PFGC|Performance Food Group Company Common Stock|N|PFGC|N|100|N|PFGC
+PFH|Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060|N|PFH|N|100|N|PFH
 PFIG|Invesco Fundamental Investment Grade Corporate Bond  ETF|P|PFIG|Y|100|N|PFIG
 PFL|PIMCO Income Strategy Fund Shares of Beneficial Interest|N|PFL|N|100|N|PFL
 PFLD|AAM Low Duration Preferred and Income Securities ETF|P|PFLD|Y|100|N|PFLD
@@ -5211,7 +5212,7 @@ WK|Workiva Inc. Class A Common Stock|N|WK|N|100|N|WK
 WLDR|Affinity World Leaders Equity ETF |Z|WLDR|Y|100|N|WLDR
 WLK|Westlake Chemical Corporation Common Stock|N|WLK|N|100|N|WLK
 WLKP|Westlake Chemical Partners LP Common Units representing limited partner interests|N|WLKP|N|100|N|WLKP
-WLL|Whiting Petroleum Corporation Common Stock|N|WLL|N|100|N|WLL
+WLL|Whiting Petroleum Corporation Common Stock (New)|N|WLL|N|100|N|WLL
 WM|Waste Management, Inc. Common Stock|N|WM|N|100|N|WM
 WMB|Williams Companies, Inc. (The) Common Stock|N|WMB|N|100|N|WMB
 WMC|Western Asset Mortgage Capital Corporation Common Stock|N|WMC|N|100|N|WMC
@@ -5379,4 +5380,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0901202014:02||||||
+File Creation Time: 0902202014:02||||||

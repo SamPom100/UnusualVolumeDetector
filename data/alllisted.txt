@@ -2538,6 +2538,7 @@ PFD,PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated
 PFE,PFE|Pfizer, Inc. Common Stock
 PFFL,PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048
 PFGC,PFGC|Performance Food Group Company Common Stock
+PFH,PFH|Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060
 PFL,PFL|PIMCO Income Strategy Fund Shares of Beneficial Interest
 PFN,PFN|PIMCO Income Strategy Fund II
 PFNX,PFNX|Pfenex Inc. Common Stock
@@ -3456,7 +3457,7 @@ WIW,WIW|Western Asset Inflation-Linked Opportunities & Income Fund
 WK,WK|Workiva Inc. Class A Common Stock
 WLK,WLK|Westlake Chemical Corporation Common Stock
 WLKP,WLKP|Westlake Chemical Partners LP Common Units representing limited partner interests
-WLL,WLL|Whiting Petroleum Corporation Common Stock
+WLL,WLL|Whiting Petroleum Corporation Common Stock (New)
 WM,WM|Waste Management, Inc. Common Stock
 WMB,WMB|Williams Companies, Inc. (The) Common Stock
 WMC,WMC|Western Asset Mortgage Capital Corporation Common Stock
@@ -3619,7 +3620,6 @@ AESE,AESE|Allied Esports Entertainment, Inc. - Common Stock
 AEY,AEY|ADDvantage Technologies Group, Inc. - Common Stock
 AEYE,AEYE|AudioEye, Inc. - Common Stock
 AEZS,AEZS|Aeterna Zentaris Inc. - Common Stock
-AFH,AFH|Atlas Financial Holdings, Inc. - Ordinary Shares
 AFIB,AFIB|Acutus Medical, Inc. - Common Stock
 AFIN,AFIN|American Finance Trust, Inc. - Class A Common Stock
 AFINP,AFINP|American Finance Trust, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock
@@ -4082,6 +4082,7 @@ CCLP,CCLP|CSI Compressco LP - common units
 CCMP,CCMP|Cabot Microelectronics Corporation - Common Stock
 CCNC,CCNC|Code Chain New Continent Limited - Common Stock
 CCNE,CCNE|CNB Financial Corporation - Common Stock
+CCNEP,CCNEP|CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock
 CCOI,CCOI|Cogent Communications Holdings, Inc. - Common Stock
 CCRC,CCRC|China Customer Relations Centers, Inc. - Ordinary Shares
 CCRN,CCRN|Cross Country Healthcare, Inc. - Common Stock
@@ -4204,6 +4205,7 @@ CMCT,CMCT|CIM Commercial Trust Corporation - Common Stock
 CMCTP,CMCTP|CIM Commercial Trust Corporation - Series L Preferred Stock
 CME,CME|CME Group Inc. - Class A Common Stock
 CMFNL,CMFNL|Investcorp Credit Management BDC, Inc. - 6.125% Notes due 2023
+CMLFU,CMLFU|CM Life Sciences, Inc. - Unit
 CMLS,CMLS|Cumulus Media Inc. - Class A Common Stock
 CMPI,CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock
 CMPR,CMPR|Cimpress plc - Ordinary Shares
@@ -5971,6 +5973,8 @@ QMCO,QMCO|Quantum Corporation - Common Stock
 QNST,QNST|QuinStreet, Inc. - Common Stock
 QQQX,QQQX|Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest
 QRHC,QRHC|Quest Resource Holding Corporation - Common Stock
+QRTAV,QRTAV|Qurate Retail, Inc. - Series A Common Stock Ex-distribution When issued
+QRTBV,QRTBV|Qurate Retail, Inc. - Series B Common Stock Ex-distribution When issued
 QRTEA,QRTEA|Qurate Retail, Inc. - Series A Common Stock
 QRTEB,QRTEB|Qurate Retail, Inc. - Series B Common Stock
 QRTEV,QRTEV|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock When Issued
@@ -6772,10 +6776,8 @@ ZJZZT,ZJZZT|NASDAQ TEST STOCK
 ZKIN,ZKIN|ZK International Group Co., Ltd - Ordinary Share
 ZLAB,ZLAB|Zai Lab Limited - American Depositary Shares
 ZM,ZM|Zoom Video Communications, Inc. - Class A Common Stock
-ZN,ZN|Zion Oil  - Common Stock
 ZNGA,ZNGA|Zynga Inc. - Class A Common Stock
 ZNTL,ZNTL|Zentalis Pharmaceuticals, Inc. - common stock
-ZNWAA,ZNWAA|Zion Oil  - Warrants
 ZS,ZS|Zscaler, Inc. - Common Stock
 ZSAN,ZSAN|Zosano Pharma Corporation - Common Stock
 ZUMZ,ZUMZ|Zumiez Inc. - Common Stock
