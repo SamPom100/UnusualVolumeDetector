@@ -896,7 +896,9 @@ DDT,DDT|Dillard's Capital Trust I
 DE,DE|Deere & Company Common Stock
 DEA,DEA|Easterly Government Properties, Inc. Common Stock
 DECK,DECK|Deckers Outdoor Corporation Common Stock
+DEH,DEH|D8 Holdings Corp. Class A Ordinary Shares
 DEH.U,DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+DEH.W,DEH.W|D8 Holdings Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 DEI,DEI|Douglas Emmett, Inc. Common Stock
 DELL,DELL|Dell Technologies Inc. Class C Common Stock 
 DEO,DEO|Diageo plc Common Stock
@@ -978,6 +980,7 @@ DQ,DQ|DAQO New Energy Corp. American Depositary Shares, each representing five o
 DRD,DRD|DRDGOLD Limited American Depositary Shares
 DRE,DRE|Duke Realty Corporation Common Stock
 DRH,DRH|Diamondrock Hospitality Company Common Stock
+DRH$A,DRH$A|Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock
 DRI,DRI|Darden Restaurants, Inc. Common Stock
 DRQ,DRQ|Dril-Quip, Inc. Common Stock
 DRUA,DRUA|Dominion Energy, Inc. 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076
@@ -3242,6 +3245,7 @@ TVE,TVE|Tennessee Valley Authority
 TWI,TWI|Titan International, Inc. (DE) Common Stock
 TWLO,TWLO|Twilio Inc. Class A Common Stock
 TWN,TWN|Taiwan Fund, Inc. (The) Common Stock
+TWND.U,TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant
 TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
 TWO$B,TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
@@ -3554,7 +3558,9 @@ ZVV,ZVV|NYSE ARCA test stock
 ZXIET,ZXIET|IEX Test Company Test Symbol Three for IEX
 ZYME,ZYME|Zymeworks Inc. Common Shares
 AACG,AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares
+AACQ,AACQ|Artius Acquisition Inc. - Class A Common Stock
 AACQU,AACQU|Artius Acquisition Inc. - Unit consisting of one ordinary share and one third redeemable warrant
+AACQW,AACQW|Artius Acquisition Inc. - Warrant
 AAL,AAL|American Airlines Group, Inc. - Common Stock
 AAME,AAME|Atlantic American Corporation - Common Stock
 AAOI,AAOI|Applied Optoelectronics, Inc. - Common Stock
@@ -3661,6 +3667,7 @@ AKER,AKER|Akers Biosciences Inc. - Common Stock
 AKRO,AKRO|Akero Therapeutics, Inc. - Common Stock
 AKTS,AKTS|Akoustis Technologies, Inc. - Common Stock
 AKTX,AKTX|Akari Therapeutics Plc - American Depositary Shares
+AKU,AKU|Akumin Inc. - Common Shares
 AKUS,AKUS|Akouos, Inc. - Common Stock
 ALAC,ALAC|Alberton Acquisition Corporation - Ordinary Shares
 ALACR,ALACR|Alberton Acquisition Corporation - Rights
@@ -3905,6 +3912,7 @@ BCOV,BCOV|Brightcove Inc. - Common Stock
 BCOW,BCOW|1895 Bancorp of Wisconsin, Inc. - Common Stock
 BCPC,BCPC|Balchem Corporation - Common Stock
 BCRX,BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock
+BCTG,BCTG|BCTG Acquisition Corp. - Common Stock
 BCYC,BCYC|Bicycle Therapeutics plc - American Depositary Shares
 BDGE,BDGE|Bridge Bancorp, Inc. - Common Stock
 BDSI,BDSI|BioDelivery Sciences International, Inc. - Common Stock
@@ -4045,6 +4053,7 @@ CALT,CALT|Calliditas Therapeutics AB - American Depositary Shares
 CAMP,CAMP|CalAmp Corp. - Common Stock
 CAMT,CAMT|Camtek Ltd. - Ordinary Shares
 CAN,CAN|Canaan Inc. - American Depositary Shares
+CAPAU,CAPAU|HighCape Capital Acquisition Corp. - Unit
 CAPR,CAPR|Capricor Therapeutics, Inc. - Common Stock
 CAR,CAR|Avis Budget Group, Inc. - Common Stock
 CARA,CARA|Cara Therapeutics, Inc. - Common Stock
@@ -5048,6 +5057,7 @@ IMUX,IMUX|Immunic, Inc.  - Common Stock
 IMV,IMV|IMV Inc. - Common Shares
 IMVT,IMVT|Immunovant, Inc.  - Common Stock
 IMXI,IMXI|International Money Express, Inc. - Common Stock
+INAQU,INAQU|INSU Acquisition Corp. II - Unit
 INBK,INBK|First Internet Bancorp - Common Stock
 INBKL,INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026
 INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029

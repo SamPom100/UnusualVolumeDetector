@@ -1,6 +1,8 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
 AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|G|N|N|100|N|N
+AACQ|Artius Acquisition Inc. - Class A Common Stock|S|N|N|100|N|N
 AACQU|Artius Acquisition Inc. - Unit consisting of one ordinary share and one third redeemable warrant|S|N|N|100|N|N
+AACQW|Artius Acquisition Inc. - Warrant|S|N|N|100|N|N
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100|N|N
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100|N|N
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100|N|N
@@ -116,6 +118,7 @@ AKER|Akers Biosciences Inc. - Common Stock|S|N|N|100|N|N
 AKRO|Akero Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 AKTS|Akoustis Technologies, Inc. - Common Stock|S|N|N|100|N|N
 AKTX|Akari Therapeutics Plc - American Depositary Shares|S|N|N|100|N|N
+AKU|Akumin Inc. - Common Shares|S|N|N|100|N|N
 AKUS|Akouos, Inc. - Common Stock|Q|N|N|100|N|N
 ALAC|Alberton Acquisition Corporation - Ordinary Shares|S|N|N|100|N|N
 ALACR|Alberton Acquisition Corporation - Rights|S|N|N|100|N|N
@@ -365,6 +368,7 @@ BCOV|Brightcove Inc. - Common Stock|Q|N|N|100|N|N
 BCOW|1895 Bancorp of Wisconsin, Inc. - Common Stock|S|N|N|100|N|N
 BCPC|Balchem Corporation - Common Stock|Q|N|N|100|N|N
 BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
+BCTG|BCTG Acquisition Corp. - Common Stock|S|N|N|100|N|N
 BCYC|Bicycle Therapeutics plc - American Depositary Shares|Q|N|N|100|N|N
 BDGE|Bridge Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 BDSI|BioDelivery Sciences International, Inc. - Common Stock|Q|N|N|100|N|N
@@ -550,6 +554,7 @@ CALT|Calliditas Therapeutics AB - American Depositary Shares|Q|N|N|100|N|N
 CAMP|CalAmp Corp. - Common Stock|Q|N|N|100|N|N
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100|N|N
 CAN|Canaan Inc. - American Depositary Shares|G|N|N|100|N|N
+CAPAU|HighCape Capital Acquisition Corp. - Unit|S|N|N|100|N|N
 CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100|N|N
 CARA|Cara Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -662,7 +667,7 @@ CHMG|Chemung Financial Corp - Common Stock|Q|N|N|100|N|N
 CHNA|Loncar China BioPharma ETF|G|N|N|100|Y|N
 CHNG|Change Healthcare Inc. - Common Stock|Q|N|N|100|N|N
 CHNGU|Change Healthcare Inc. - Tangible Equity Units|Q|N|N|100|N|N
-CHNR|China Natural Resources, Inc. - Common Stock|S|N|D|100|N|N
+CHNR|China Natural Resources, Inc. - Common Stock|S|N|N|100|N|N
 CHPM|CHP Merger Corp. - Class A Common Stock|S|N|N|100|N|N
 CHPMU|CHP Merger Corp. - Unit|S|N|N|100|N|N
 CHPMW|CHP Merger Corp. - Warrant|S|N|N|100|N|N
@@ -1376,7 +1381,7 @@ GENE|Genetic Technologies Ltd - American Depositary Shares representing 600 ordi
 GENY|Principal Millennials Index ETF|G|N|N|100|Y|N
 GEOS|Geospace Technologies Corporation - Common Stock|Q|N|N|100|N|N
 GERN|Geron Corporation - Common Stock|Q|N|N|100|N|N
-GEVO|Gevo, Inc. - Common Stock|S|N|D|100|N|N
+GEVO|Gevo, Inc. - Common Stock|S|N|N|100|N|N
 GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 GFN|General Finance Corporation - Common Stock|G|N|N|100|N|N
 GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100|N|N
@@ -1723,6 +1728,7 @@ IMUX|Immunic, Inc.  - Common Stock|S|N|N|100|N|N
 IMV|IMV Inc. - Common Shares|S|N|N|100|N|N
 IMVT|Immunovant, Inc.  - Common Stock|Q|N|N|100|N|N
 IMXI|International Money Express, Inc. - Common Stock|S|N|N|100|N|N
+INAQU|INSU Acquisition Corp. II - Unit|S|N|N|100|N|N
 INBK|First Internet Bancorp - Common Stock|Q|N|N|100|N|N
 INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026|Q|N|N|100|N|N
 INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029|Q|N|N|100|N|N
@@ -2422,7 +2428,7 @@ ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100|Y|N
 ONEW|OneWater Marine Inc. - Class A Common Stock|G|N|N|100|N|N
 ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 ONTXW|Onconova Therapeutics, Inc. - Warrants|S|N|N|100|N|N
-ONVO|Organovo Holdings, Inc. - Common Stock|S|N|D|100|N|N
+ONVO|Organovo Holdings, Inc. - Common Stock|S|N|N|100|N|N
 OPBK|OP Bancorp - Common Stock|G|N|N|100|N|N
 OPCH|Option Care Health, Inc. - Common Stock|Q|N|N|100|N|N
 OPES|Opes Acquisition Corp. - Common Stock|S|N|N|100|N|N
@@ -2533,7 +2539,7 @@ PDP|Invesco DWA Momentum ETF|G|N|N|100|Y|N
 PDSB|PDS Biotechnology Corporation - Common Stock|S|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
 PEBO|Peoples Bancorp Inc. - Common Stock|Q|N|N|100|N|N
-PECK|The Peck Company Holdings, Inc. - Common Stock|S|N|N|100|N|N
+PECK|The Peck Company Holdings, Inc. - Common Stock|S|N|D|100|N|N
 PEGA|Pegasystems Inc. - Common Stock|Q|N|N|100|N|N
 PEIX|Pacific Ethanol, Inc. - Common Stock|S|N|N|100|N|N
 PENN|Penn National Gaming, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3631,4 +3637,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0902202015:41|||||||
+File Creation Time: 0904202015:43|||||||

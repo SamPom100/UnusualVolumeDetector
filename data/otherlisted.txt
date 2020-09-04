@@ -742,6 +742,7 @@ CCO|Clear Channel Outdoor Holdings, Inc. Common Stock|N|CCO|N|100|N|CCO
 CCON|Direxion Connected Consumer ETF|P|CCON|Y|100|N|CCON
 CCOR|Core Alternative ETF|P|CCOR|Y|100|N|CCOR
 CCR|CONSOL Coal Resources LP Common Units representing limited partner interests|N|CCR|N|100|N|CCR
+CCRV|iShares U.S. ETF Trust iShares Commodity Curve Carry Strategy ETF|P|CCRV|Y|100|N|CCRV
 CCS|Century Communities, Inc. Common Stock|N|CCS|N|100|N|CCS
 CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
 CCX|Churchill Capital Corp II Class A Common Stock|N|CCX|N|100|N|CCX
@@ -1120,7 +1121,9 @@ DEEF|Xtrackers FTSE Developed ex US Comprehensive Factor ETF|P|DEEF|Y|100|N|DEEF
 DEEP|Roundhill Acquirers Deep Value ETF|P|DEEP|Y|100|N|DEEP
 DEF|Invesco Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEFA|iShares Adaptive Currency Hedged MSCI EAFE ETF|Z|DEFA|Y|100|N|DEFA
+DEH|D8 Holdings Corp. Class A Ordinary Shares|N|DEH|N|100|N|DEH
 DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|DEH.U|N|100|N|DEH=
+DEH.W|D8 Holdings Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|DEH.WS|N|100|N|DEH+
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DELL|Dell Technologies Inc. Class C Common Stock |N|DELL|N|100|N|DELL
 DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
@@ -1245,6 +1248,7 @@ DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordi
 DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
 DRE|Duke Realty Corporation Common Stock|N|DRE|N|100|N|DRE
 DRH|Diamondrock Hospitality Company Common Stock|N|DRH|N|100|N|DRH
+DRH$A|Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock|N|DRHpA|N|100|N|DRH-A
 DRI|Darden Restaurants, Inc. Common Stock|N|DRI|N|100|N|DRI
 DRIP|Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares|P|DRIP|Y|100|N|DRIP
 DRN|Direxion Daily Real Estate Bull 3x Shares|P|DRN|Y|100|N|DRN
@@ -2885,6 +2889,7 @@ KURE|KraneShares MSCI All China Health Care Index ETF|P|KURE|Y|100|N|KURE
 KW|Kennedy-Wilson Holdings Inc. Common Stock|N|KW|N|100|N|KW
 KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
 KWR|Quaker Chemical Corporation Common Stock|N|KWR|N|100|N|KWR
+KWT|iShares Trust iShares MSCI Kuwait ETF|Z|KWT|Y|100|N|KWT
 KXI|iShares Global Consumer Staples ETF|P|KXI|Y|100|N|KXI
 KYN|Kayne Anderson MLP/Midstream Investment Company Common Stock|N|KYN|N|100|N|KYN
 L|Loews Corporation Common Stock|N|L|N|100|N|L
@@ -4444,6 +4449,7 @@ SPAQ.W|Spartan Energy Acquisition Corp Warrants, each whole warrant exercisable 
 SPB|Spectrum Brands Holdings, Inc. Common Stock|N|SPB|N|100|N|SPB
 SPBO|SPDR Portfolio Corporate Bond ETF|P|SPBO|Y|100|N|SPBO
 SPCE|Virgin Galactic Holdings, Inc. Common Stock|N|SPCE|N|100|N|SPCE
+SPD|Simplify Exchange Traded Funds Simplify US Equity PLUS Downside Convexity ETF|P|SPD|Y|100|N|SPD
 SPDN|Direxion Daily S&P 500 Bear 1X Shares|P|SPDN|Y|100|N|SPDN
 SPDV|AAM S&P 500 High Dividend Value ETF|P|SPDV|Y|100|N|SPDV
 SPDW|SPDR Portfolio Developed World ex-US ETF|P|SPDW|Y|100|N|SPDW
@@ -4484,6 +4490,7 @@ SPTI|SPDR Portfolio Intermediate Term Treasury ETF|P|SPTI|Y|100|N|SPTI
 SPTL|SPDR Portfolio Long Term Treasury ETF|P|SPTL|Y|100|N|SPTL
 SPTM|SPDR Portfolio S&P 1500 Composite Stock Market ETF|P|SPTM|Y|100|N|SPTM
 SPTS|SPDR Portfolio Short Term Treasury ETF|P|SPTS|Y|100|N|SPTS
+SPUC|Simplify Exchange Traded Funds Simplify US Equity PLUS Upside Convexity ETF|P|SPUC|Y|100|N|SPUC
 SPUS|SP Funds S&P 500 Sharia Industry Exclusions ETF|P|SPUS|Y|100|N|SPUS
 SPUU|Direxion Daily S&P 500 Bull 2X Shares|P|SPUU|Y|100|N|SPUU
 SPVM|Invesco S&P 500 Value with Momentum ETF|P|SPVM|Y|100|N|SPVM
@@ -4499,6 +4506,7 @@ SPXU|ProShares UltraPro Short S&P500|P|SPXU|Y|100|N|SPXU
 SPXV|ProShares S&P 500 Ex-Health Care ETF|P|SPXV|Y|100|N|SPXV
 SPXX|Nuveen S&P 500 Dynamic Overwrite Fund|N|SPXX|N|100|N|SPXX
 SPY|SPDR S&P 500|P|SPY|Y|100|N|SPY
+SPYC|Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF|P|SPYC|Y|100|N|SPYC
 SPYD|SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF|P|SPYD|Y|100|N|SPYD
 SPYG|SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF|P|SPYG|Y|100|N|SPYG
 SPYV|SPDR Series Trust SPDR Portfolio S&P 500 Value ETF|P|SPYV|Y|100|N|SPYV
@@ -4837,6 +4845,7 @@ TWI|Titan International, Inc. (DE) Common Stock|N|TWI|N|100|N|TWI
 TWLO|Twilio Inc. Class A Common Stock|N|TWLO|N|100|N|TWLO
 TWM|ProShares UltraShort Russell2000|P|TWM|Y|100|N|TWM
 TWN|Taiwan Fund, Inc. (The) Common Stock|N|TWN|N|100|N|TWN
+TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant|N|TWND.U|N|100|N|TWND=
 TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
 TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)|N|TWOpA|N|100|N|TWO-A
 TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|TWOpB|N|100|N|TWO-B
@@ -5380,4 +5389,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0902202015:41||||||
+File Creation Time: 0904202015:43||||||
