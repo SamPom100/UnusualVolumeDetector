@@ -948,7 +948,6 @@ DLPH,DLPH|Delphi Technologies PLC Ordinary Shares
 DLR,DLR|Digital Realty Trust, Inc. Common Stock
 DLR$C,DLR$C|Digital Realty Trust, Inc. 6.625% Series C Cumulative Redeemable Perpetual Preferred Stock
 DLR$G,DLR$G|Digital Realty Trust, Inc. Preferred Series G
-DLR$I,DLR$I|Digital Realty Trust, Inc. 6.350% Series I Cumulative Redeemable Preferred Stock, par value $0.01 per share
 DLR$J,DLR$J|Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock
 DLR$K,DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share
 DLR$L,DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock
@@ -1607,7 +1606,9 @@ HPP,HPP|Hudson Pacific Properties, Inc. Common Stock
 HPQ,HPQ|HP Inc. Common Stock
 HPR,HPR|HighPoint Resources Corporation Common Stock
 HPS,HPS|John Hancock Preferred Income Fund III Preferred Income Fund III
+HPX,HPX|HPX Corp. Class A Ordinary Shares
 HPX.U,HPX.U|HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+HPX.W,HPX.W|HPX Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 HQH,HQH|Tekla Healthcare Investors Common Stock
 HQL,HQL|TeklaLife Sciences Investors Common Stock
 HR,HR|Healthcare Realty Trust Incorporated Common Stock
@@ -2471,7 +2472,6 @@ PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACD,PACD|Pacific Drilling S.A. Common Shares
 PACK,PACK|Ranpak Holdings Corp Class A Common Stock
-PACK.W,PACK.W|Ranpak Holdings Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share
 PAG,PAG|Penske Automotive Group, Inc. Common Stock
 PAGP,PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests
 PAGS,PAGS|PagSeguro Digital Ltd. Class A Common Shares
@@ -3906,7 +3906,6 @@ BCDAW,BCDAW|BioCardia, Inc. - Warrant
 BCEL,BCEL|Atreca, Inc. - Class A Common Stock
 BCLI,BCLI|Brainstorm Cell Therapeutics Inc. - Common Stock
 BCML,BCML|BayCom Corp - Common Stock
-BCOM,BCOM|B Communications Ltd. - Ordinary Shares
 BCOR,BCOR|Blucora, Inc. - Common Stock
 BCOV,BCOV|Brightcove Inc. - Common Stock
 BCOW,BCOW|1895 Bancorp of Wisconsin, Inc. - Common Stock
@@ -5203,6 +5202,7 @@ KRTX,KRTX|Karuna Therapeutics, Inc. - Common Stock
 KRUS,KRUS|Kura Sushi USA, Inc. - Class A Common Stock
 KRYS,KRYS|Krystal Biotech, Inc. - Common Stock
 KSMTU,KSMTU|Kismet Acquisition One Corp - Unit
+KSPN,KSPN|Kaspien Holdings Inc. - Common Stock
 KTCC,KTCC|Key Tronic Corporation - Common Stock
 KTOS,KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock
 KTOV,KTOV|Kitov Pharma Ltd. - American Depositary Shares
@@ -5398,7 +5398,6 @@ MDRX,MDRX|Allscripts Healthcare Solutions, Inc. - common stock
 MDWD,MDWD|MediWound Ltd. - Ordinary Shares
 MEDP,MEDP|Medpace Holdings, Inc. - Common Stock
 MEDS,MEDS|Trxade Group, Inc. - Common Stock
-MEET,MEET|The Meet Group, Inc. - Common Stock
 MEIP,MEIP|MEI Pharma, Inc. - Common Stock
 MELI,MELI|MercadoLibre, Inc. - Common Stock
 MEOH,MEOH|Methanex Corporation - Common Stock
@@ -5457,7 +5456,6 @@ MNCLU,MNCLU|Monocle Acquisition Corporation - Units
 MNCLW,MNCLW|Monocle Acquisition Corporation - Warrants
 MNDO,MNDO|MIND C.T.I. Ltd. - Ordinary Shares
 MNKD,MNKD|MannKind Corporation - Common Stock
-MNLO,MNLO|Menlo Therapeutics Inc. - Common Stock
 MNOV,MNOV|MediciNova, Inc. - Common Stock
 MNPR,MNPR|Monopar Therapeutics Inc. - Common Stock
 MNRO,MNRO|Monro, Inc.  - Common Stock
@@ -6056,6 +6054,7 @@ RILY,RILY|B. Riley Financial, Inc. - Common Stock
 RILYG,RILYG|B. Riley Financial, Inc. - 7.25% Senior Notes due 2027
 RILYH,RILYH|B. Riley Financial, Inc. - 7.375% Senior Notes Due 2023
 RILYI,RILYI|B. Riley Financial, Inc. - 6.875% Senior Notes due 2023
+RILYL,RILYL|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
 RILYM,RILYM|B. Riley Financial, Inc. - 6.375% Senior Notes due 2025
 RILYN,RILYN|B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
 RILYO,RILYO|B. Riley Financial, Inc. - 6.75% Senior Notes due 2024
@@ -6227,6 +6226,7 @@ SLGL,SLGL|Sol-Gel Technologies Ltd. - Common Stock
 SLGN,SLGN|Silgan Holdings Inc. - Common Stock
 SLM,SLM|SLM Corporation - Common Stock
 SLMBP,SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
+SLN,SLN|Silence Therapeutics Plc - American Depository Share
 SLNO,SLNO|Soleno Therapeutics, Inc. - Common Stock
 SLP,SLP|Simulations Plus, Inc. - Common Stock
 SLRC,SLRC|Solar Capital Ltd. - Common Stock
@@ -6512,7 +6512,6 @@ TUSK,TUSK|Mammoth Energy Services, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
 TWIN,TWIN|Twin Disc, Incorporated - Common Stock
-TWMC,TWMC|Trans World Entertainment Corp. - Common Stock
 TWNK,TWNK|Hostess Brands, Inc. - Class A Common Stock
 TWNKW,TWNKW|Hostess Brands, Inc. - Warrants
 TWOU,TWOU|2U, Inc. - Common Stock
@@ -6655,6 +6654,7 @@ VUZI,VUZI|Vuzix Corporation - Common Stock
 VVPR,VVPR|VivoPower International PLC - Ordinary Shares
 VXRT,VXRT|Vaxart, Inc. - Common Stock
 VYGR,VYGR|Voyager Therapeutics, Inc. - Common Stock
+VYNE,VYNE|VYNE Therapeutics Inc. - Common Stock
 WABC,WABC|Westamerica Bancorporation - Common Stock
 WAFD,WAFD|Washington Federal, Inc. - Common Stock
 WAFU,WAFU|Wah Fu Education Group Limited - Ordinary Shares

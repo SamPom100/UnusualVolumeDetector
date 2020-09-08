@@ -1201,7 +1201,6 @@ DLPH|Delphi Technologies PLC Ordinary Shares |N|DLPH|N|100|N|DLPH
 DLR|Digital Realty Trust, Inc. Common Stock|N|DLR|N|100|N|DLR
 DLR$C|Digital Realty Trust, Inc. 6.625% Series C Cumulative Redeemable Perpetual Preferred Stock|N|DLRpC|N|100|N|DLR-C
 DLR$G|Digital Realty Trust, Inc. Preferred Series G|N|DLRpG|N|100|N|DLR-G
-DLR$I|Digital Realty Trust, Inc. 6.350% Series I Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|DLRpI|N|100|N|DLR-I
 DLR$J|Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock|N|DLRpJ|N|100|N|DLR-J
 DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|DLRpK|N|100|N|DLR-K
 DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock|N|DLRpL|N|100|N|DLR-L
@@ -2303,7 +2302,9 @@ HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
 HPQ|HP Inc. Common Stock|N|HPQ|N|100|N|HPQ
 HPR|HighPoint Resources Corporation Common Stock|N|HPR|N|100|N|HPR
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
+HPX|HPX Corp. Class A Ordinary Shares|N|HPX|N|100|N|HPX
 HPX.U|HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|HPX.U|N|100|N|HPX=
+HPX.W|HPX Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HPX.WS|N|100|N|HPX+
 HQH|Tekla Healthcare Investors Common Stock|N|HQH|N|100|N|HQH
 HQL|TeklaLife Sciences Investors Common Stock|N|HQL|N|100|N|HQL
 HR|Healthcare Realty Trust Incorporated Common Stock|N|HR|N|100|N|HR
@@ -3604,7 +3605,6 @@ PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
 PACD|Pacific Drilling S.A. Common Shares|N|PACD|N|100|N|PACD
 PACK|Ranpak Holdings Corp Class A Common Stock|N|PACK|N|100|N|PACK
-PACK.W|Ranpak Holdings Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|PACK.WS|N|100|N|PACK+
 PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
 PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
 PAGS|PagSeguro Digital Ltd. Class A Common Shares|N|PAGS|N|100|N|PAGS
@@ -5389,4 +5389,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0904202021:32||||||
+File Creation Time: 0908202012:11||||||
