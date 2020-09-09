@@ -789,6 +789,7 @@ CRD.A,CRD.A|Crawford & Company Common Stock
 CRD.B,CRD.B|Crawford & Company Common Stock
 CRF,CRF|Cornerstone Total Return Fund, Inc. (The) Common Stock
 CRH,CRH|CRH PLC American Depositary Shares
+CRHC.U,CRHC.U|Cohn Robbins Holdings Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 CRHM,CRHM|CRH Medical Corporation Common Shares of Beneficial Interest
 CRI,CRI|Carter's, Inc. Common Stock
 CRK,CRK|Comstock Resources, Inc. Common Stock
@@ -2448,7 +2449,7 @@ ONE,ONE|OneSmart International Education Group Limited ADS
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
-OPP.V,OPP.V|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring October 1, 2020)
+OPP.R,OPP.R|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring October 1, 2020)
 OPY,OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)
 OR,OR|Osisko Gold Royalties Ltd Common Shares
 ORA,ORA|Ormat Technologies, Inc. Common Stock
@@ -2536,7 +2537,6 @@ PEI$C,PEI$C|Pennsylvania Real Estate Investment Trust 7.20% Series C Cumulative 
 PEI$D,PEI$D|Pennsylvania Real Estate Investment Trust 6.875% Series D Cumulative Redeemable Perpetual Preferred Shares
 PEN,PEN|Penumbra, Inc. Common Stock
 PEO,PEO|Adams Natural Resources Fund, Inc. Common Stock
-PER,PER|SandRidge Permian Trust Common Units of Benficial Interest
 PFD,PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated
 PFE,PFE|Pfizer, Inc. Common Stock
 PFFL,PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048
@@ -5110,6 +5110,7 @@ ISNS,ISNS|Image Sensing Systems, Inc. - Common Stock
 ISRG,ISRG|Intuitive Surgical, Inc. - Common Stock
 ISSC,ISSC|Innovative Solutions and Support, Inc. - Common Stock
 ISTR,ISTR|Investar Holding Corporation - Common Stock
+ITACU,ITACU|Industrial Tech Acquisitions, Inc. - Unit
 ITCI,ITCI|Intra-Cellular Therapies Inc. - Common Stock
 ITI,ITI|Iteris, Inc. - Common Stock
 ITIC,ITIC|Investors Title Company - Common Stock
