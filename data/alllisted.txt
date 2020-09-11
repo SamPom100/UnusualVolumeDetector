@@ -508,6 +508,7 @@ BSIG,BSIG|BrightSphere Investment Group Inc. Common Stock
 BSL,BSL|Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest
 BSM,BSM|Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMX,BSMX|Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico
+BSN.U,BSN.U|Broadstone Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 BST,BST|BlackRock Science and Technology Trust Common Shares of Beneficial Interest
 BSTZ,BSTZ|BlackRock Science and Technology Trust II Common Shares of Beneficial Interest
 BSX,BSX|Boston Scientific Corporation Common Stock
@@ -1925,6 +1926,7 @@ LDOS,LDOS|Leidos Holdings, Inc. Common Stock
 LDP,LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
 LEA,LEA|Lear Corporation Common Stock
 LEAF,LEAF|Leaf Group Ltd. Common Stock
+LEAP.U,LEAP.U|Ribbit LEAP, Ltd. Units, each consisting of one Class A Ordinary Share, and one fifth of one Warrant to acquire one Class A Ordinary Share
 LEE,LEE|Lee Enterprises, Incorporated Common Stock
 LEG,LEG|Leggett & Platt, Incorporated Common Stock
 LEJU,LEJU|Leju Holdings Limited American Depositary Shares, each representing one Ordinary share
@@ -1972,6 +1974,7 @@ LPL,LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPX,LPX|Louisiana-Pacific Corporation Common Stock
 LRN,LRN|K12 Inc Common Stock
 LSI,LSI|Life Storage, Inc. Common Stock
+LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
 LTC,LTC|LTC Properties, Inc. Common Stock
 LTHM,LTHM|Livent Corporation Common Stock
 LUB,LUB|Luby's, Inc. Common Stock
@@ -2670,7 +2673,8 @@ PSF,PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock
 PSN,PSN|Parsons Corporation Common Stock
 PSO,PSO|Pearson, Plc Common Stock
 PSTG,PSTG|Pure Storage, Inc. Class A Common Stock
-PSTH.U,PSTH.U|Pershing Square Tontine Holdings, Ltd. Units, each consisting of one share of Class A Common Stock and one-ninth of one Warrant to purchase one share of Class A Common Stock
+PSTH,PSTH|Pershing Square Tontine Holdings, Ltd. Class A Common Stock
+PSTH.W,PSTH.W|Pershing Square Tontine Holdings, Ltd. Warrants, exercisable for one share of Class A Common Stock for $23.00 per share
 PSTL,PSTL|Postal Realty Trust, Inc. Class A Common Stock
 PSV,PSV|Hermitage Offshore Services Ltd. Ordinary Shares (Bermuda)
 PSX,PSX|Phillips 66 Common Stock
@@ -2970,6 +2974,7 @@ SNE,SNE|Sony Corporation Common Stock
 SNMP,SNMP|Sanchez Midstream Partners LP Common Stock
 SNN,SNN|Smith & Nephew SNATS, Inc. Common Stock
 SNP,SNP|China Petroleum & Chemical Corporation Common Stock
+SNPR.U,SNPR.U|Tortoise Acquisition Corp. II Units
 SNR,SNR|New Senior Investment Group Inc. Common Stock
 SNV,SNV|Synovus Financial Corp. Common Stock
 SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share
@@ -4293,6 +4298,8 @@ CRSA,CRSA|Crescent Acquisition Corp - Class A Common Stock
 CRSAU,CRSAU|Crescent Acquisition Corp - Unit
 CRSAW,CRSAW|Crescent Acquisition Corp - Warrant
 CRSP,CRSP|CRISPR Therapeutics AG - Common Shares
+CRTD,CRTD|Creatd Inc. - Common Stock
+CRTDW,CRTDW|Creatd Inc. - Warrant
 CRTO,CRTO|Criteo S.A. - American Depositary Shares
 CRTX,CRTX|Cortexyme, Inc. - Common Stock
 CRUS,CRUS|Cirrus Logic, Inc. - Common Stock
@@ -5268,7 +5275,7 @@ LI,LI|Li Auto Inc. - American Depositary Shares
 LIFE,LIFE|aTyr Pharma, Inc. - Common Stock
 LILA,LILA|Liberty Latin America Ltd. - Class A Common Stock
 LILAK,LILAK|Liberty Latin America Ltd. - Class C Common Stock
-LILRV,LILRV|Liberty Latin America Ltd. - Subscription Rights When Issued
+LILAR,LILAR|Liberty Latin America Ltd. - Subscription Rights
 LINC,LINC|Lincoln Educational Services Corporation - Common Stock
 LIND,LIND|Lindblad Expeditions Holdings Inc.  - Common Stock
 LIQT,LIQT|LiqTech International, Inc. - Common Stock
@@ -6516,6 +6523,7 @@ TURN,TURN|180 Degree Capital Corp. - Common Stock
 TUSK,TUSK|Mammoth Energy Services, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
+TWCTU,TWCTU|TWC Tech Holdings II Corp. - Unit
 TWIN,TWIN|Twin Disc, Incorporated - Common Stock
 TWNK,TWNK|Hostess Brands, Inc. - Class A Common Stock
 TWNKW,TWNKW|Hostess Brands, Inc. - Warrants
