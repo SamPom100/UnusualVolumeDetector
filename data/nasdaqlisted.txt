@@ -1069,7 +1069,9 @@ EQ|Equillium, Inc. - Common Stock|G|N|N|100|N|N
 EQBK|Equity Bancshares, Inc. - Class A Common Stock|Q|N|N|100|N|N
 EQIX|Equinix, Inc. - Common Stock|Q|N|N|100|N|N
 EQRR|ProShares Equities for Rising Rates ETF|G|N|N|100|Y|N
+ERES|East Resources Acquisition Company - Class A Common Stock|S|N|N|100|N|N
 ERESU|East Resources Acquisition Company - Unit|S|N|N|100|N|N
+ERESW|East Resources Acquisition Company - Warrant|S|N|N|100|N|N
 ERIC|Ericsson - American Depositary Shares each representing 1 underlying Class B share|Q|N|N|100|N|N
 ERIE|Erie Indemnity Company - Class A Common Stock|Q|N|N|100|N|N
 ERII|Energy Recovery, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2232,7 +2234,7 @@ MYOK|MyoKardia, Inc. - Common Stock|Q|N|N|100|N|N
 MYOS|MYOS RENS Technology Inc. - Common Stock|S|N|N|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|100|N|N
 MYSZ|My Size, Inc. - Common Stock|S|N|N|100|N|N
-MYT|Urban Tea, Inc. - Ordinary Shares|S|N|D|100|N|N
+MYT|Urban Tea, Inc. - Ordinary Shares|S|N|N|100|N|N
 NAII|Natural Alternatives International, Inc. - Common Stock|G|N|N|100|N|N
 NAKD|Naked Brand Group Limited - Ordinary Shares|S|N|D|100|N|N
 NAOV|NanoVibronix, Inc. - Common Stock|S|N|D|100|N|N
@@ -2308,6 +2310,8 @@ NKTX|Nkarta, Inc. - Common Stock|Q|N|N|100|N|N
 NLOK|NortonLifeLock Inc. - Common Stock|Q|N|N|100|N|N
 NLTX|Neoleukin Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests|Q|N|D|100|N|N
+NMFC|New Mountain Finance Corporation - Common Stock|Q|N|N|100|N|N
+NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023|Q|N|N|100|N|N
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100|N|N
 NMRD|Nemaura Medical Inc. - Common Stock|S|N|N|100|N|N
 NMRK|Newmark Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -3643,4 +3647,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0911202015:41|||||||
+File Creation Time: 0914202012:11|||||||

@@ -27,7 +27,9 @@ ACH,ACH|Aluminum Corporation of China Limited American Depositary Shares
 ACI,ACI|Albertsons Companies, Inc. Class A Common Stock
 ACM,ACM|AECOM Common Stock
 ACN,ACN|Accenture plc Class A Ordinary Shares (Ireland)
+ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
 ACND.U,ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+ACND.W,ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 ACP,ACP|Aberdeen Income Credit Strategies Fund Common Shares
 ACRE,ACRE|Ares Commercial Real Estate Corporation Common Stock
 ACU,ACU|Acme United Corporation. Common Stock
@@ -2296,8 +2298,6 @@ NM,NM|Navios Maritime Holdings Inc. Common Stock
 NM$G,NM$G|Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Preferred Series G (Marshall Islands)
 NM$H,NM$H|Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%
 NMCO,NMCO|Nuveen Municipal Credit Opportunities Fund Common Shares
-NMFC,NMFC|New Mountain Finance Corporation Common Stock
-NMFX,NMFX|New Mountain Finance Corporation 5.75% Notes due 2023
 NMI,NMI|Nuveen Municipal Income Fund, Inc. Common Stock
 NMK$B,NMK$B|Niagara Mohawk Holdings, Inc. Preferred Stock
 NMK$C,NMK$C|Niagara Mohawk Holdings, Inc. Preferred Stock
@@ -4514,7 +4514,9 @@ EPZM,EPZM|Epizyme, Inc. - Common Stock
 EQ,EQ|Equillium, Inc. - Common Stock
 EQBK,EQBK|Equity Bancshares, Inc. - Class A Common Stock
 EQIX,EQIX|Equinix, Inc. - Common Stock
+ERES,ERES|East Resources Acquisition Company - Class A Common Stock
 ERESU,ERESU|East Resources Acquisition Company - Unit
+ERESW,ERESW|East Resources Acquisition Company - Warrant
 ERIC,ERIC|Ericsson - American Depositary Shares each representing 1 underlying Class B share
 ERIE,ERIE|Erie Indemnity Company - Class A Common Stock
 ERII,ERII|Energy Recovery, Inc. - Common Stock
@@ -5610,6 +5612,8 @@ NKTX,NKTX|Nkarta, Inc. - Common Stock
 NLOK,NLOK|NortonLifeLock Inc. - Common Stock
 NLTX,NLTX|Neoleukin Therapeutics, Inc. - Common Stock
 NMCI,NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests
+NMFC,NMFC|New Mountain Finance Corporation - Common Stock
+NMFCL,NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023
 NMIH,NMIH|NMI Holdings Inc - Common Stock
 NMRD,NMRD|Nemaura Medical Inc. - Common Stock
 NMRK,NMRK|Newmark Group, Inc. - Class A Common Stock

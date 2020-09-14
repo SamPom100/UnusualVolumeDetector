@@ -34,7 +34,9 @@ ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACIO|ETF Series Solutions Aptus Collared Income Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
+ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares|N|ACND|N|100|N|ACND
 ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|ACND.U|N|100|N|ACND=
+ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|ACND.WS|N|100|N|ACND+
 ACP|Aberdeen Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
 ACSG|Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF|P|ACSG|Y|100|N|ACSG
@@ -1779,8 +1781,8 @@ FLKR|Franklin FTSE South Korea ETF|P|FLKR|Y|100|N|FLKR
 FLLA|Franklin FTSE Latin America ETF|P|FLLA|Y|100|N|FLLA
 FLLV|Franklin Liberty U.S. Low Volatility ETF|P|FLLV|Y|100|N|FLLV
 FLM|First Trust Global Engineering and Construction ETF|P|FLM|Y|100|N|FLM
-FLMB|Franklin Templeton ETF Trust Franklin Liberty Municipal Bond ETF|P|FLMB|Y|100|N|FLMB
-FLMI|Franklin Templeton ETF Trust Franklin Liberty Intermediate Municipal Opportunities ETF|P|FLMI|Y|100|N|FLMI
+FLMB|Franklin Templeton ETF Trust Franklin Liberty Federal Tax-Free Bond ETF|P|FLMB|Y|100|N|FLMB
+FLMI|Franklin Templeton ETF Trust Franklin Liberty Federal Intermediate Tax-Free Bond Opportunities ETF|P|FLMI|Y|100|N|FLMI
 FLMX|Franklin FTSE Mexico ETF|P|FLMX|Y|100|N|FLMX
 FLNG|FLEX LNG Ltd. Ordinary Shares|N|FLNG|N|100|N|FLNG
 FLO|Flowers Foods, Inc. Common Stock|N|FLO|N|100|N|FLO
@@ -1962,7 +1964,7 @@ GBIL|Goldman Sachs Access Treasury 0-1 Year ETF|P|GBIL|Y|100|N|GBIL
 GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
 GBLO|Global Beta Low Beta ETF|P|GBLO|Y|100|N|GBLO
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
-GBUG|iPath Gold ETN|P|GBUG|Y|100|N|GBUG
+GBUG|Barclays Bank PLC Pacer iPath Gold ETNs|P|GBUG|Y|100|N|GBUG
 GBUY|Goldman Sachs New Age Consumer ETF|P|GBUY|Y|100|N|GBUY
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCC|WisdomTree Continuous Commodity Index Fund|P|GCC|Y|100|N|GCC
@@ -2749,9 +2751,9 @@ JOYY|Infusive US Trust ETF Infusive Compounding Global Equities ETF|P|JOYY|Y|100
 JP|Jupai Holdings Limited American Depositary Shares, each representing six ordinary shares|N|JP|N|100|N|JP
 JPC|Nuveen Preferred & Income Opportunities Fund|N|JPC|N|100|N|JPC
 JPEM|JPMorgan Diversified Return Emerging Markets Equity ETF|P|JPEM|Y|100|N|JPEM
-JPGB|JPMorgan Global Bond Opportunities ETF|Z|JPGB|Y|100|N|JPGB
 JPHY|JPMorgan Research Enhanced High Yield ETF|Z|JPHY|Y|100|N|JPHY
 JPI|Nuveen Preferred and Income Term Fund Common Shares of Beneficial Interest|N|JPI|N|100|N|JPI
+JPIB|J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Bond Opportunities ETF|Z|JPIB|Y|100|N|JPIB
 JPIN|JPMorgan Diversified Return International Equity ETF|P|JPIN|Y|100|N|JPIN
 JPM|JP Morgan Chase & Co. Common Stock|N|JPM|N|100|N|JPM
 JPM$C|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non-Cumulative  Preferred Stock, Series EE|N|JPMpC|N|100|N|JPM-C
@@ -3388,8 +3390,6 @@ NM|Navios Maritime Holdings Inc. Common Stock|N|NM|N|100|N|NM
 NM$G|Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Preferred Series G (Marshall Islands)|N|NMpG|N|100|N|NM-G
 NM$H|Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%|N|NMpH|N|100|N|NM-H
 NMCO|Nuveen Municipal Credit Opportunities Fund Common Shares|N|NMCO|N|100|N|NMCO
-NMFC|New Mountain Finance Corporation Common Stock|N|NMFC|N|100|N|NMFC
-NMFX|New Mountain Finance Corporation 5.75% Notes due 2023|N|NMFX|N|100|N|NMFX
 NMI|Nuveen Municipal Income Fund, Inc. Common Stock|N|NMI|N|100|N|NMI
 NMK$B|Niagara Mohawk Holdings, Inc. Preferred Stock|N|NMKpB|N|10|N|NMK-B
 NMK$C|Niagara Mohawk Holdings, Inc. Preferred Stock|N|NMKpC|N|10|N|NMK-C
@@ -5399,4 +5399,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0911202015:41||||||
+File Creation Time: 0914202012:11||||||
