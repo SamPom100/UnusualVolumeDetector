@@ -375,6 +375,8 @@ BDTX|Black Diamond Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 BEAM|Beam Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 BEAT|BioTelemetry, Inc. - Common Stock|Q|N|N|100|N|N
 BECN|Beacon Roofing Supply, Inc. - Common Stock|Q|N|N|100|N|N
+BEEM|Beam Global - Common Stock|S|N|N|100|N|N
+BEEMW|Beam Global - Warrant|S|N|N|100|N|N
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100|N|N
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
 BFC|Bank First Corporation - Common Stock|S|N|N|100|N|N
@@ -1114,8 +1116,6 @@ EVLO|Evelo Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 EVOK|Evoke Pharma, Inc. - Common Stock|S|N|N|100|N|N
 EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100|N|N
 EVOP|EVO Payments, Inc. - Class A Common Stock|G|N|N|100|N|N
-EVSI|Envision Solar International, Inc. - Common Stock|S|N|N|100|N|N
-EVSIW|Envision Solar International, Inc. - Warrant|S|N|N|100|N|N
 EVSTC|Eaton Vance Stock NextShares|G|N|N|100|N|Y
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 EWJE|iShares MSCI Japan Equal Weighted ETF|G|N|N|100|Y|N
@@ -1637,7 +1637,7 @@ HYMC|Hycroft Mining Holding Corporation - Class A Common Stock|S|N|N|100|N|N
 HYMCW|Hycroft Mining Holding Corporation - Warrant|S|N|N|100|N|N
 HYMCZ|Hycroft Mining Holding Corporation - Warrant|S|N|N|100|N|N
 HYRE|HyreCar Inc. - Common Stock|S|N|N|100|N|N
-HYXE|iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF|G|N|N|100|Y|N
+HYXF|iShares ESG Advanced High Yield Corporate Bond ETF|G|N|N|100|Y|N
 HYZD|WisdomTree Interest Rate Hedged High Yield Bond Fund|G|N|N|100|Y|N
 HZNP|Horizon Therapeutics Public Limited Company - Ordinary Shares|Q|N|N|100|N|N
 IAC|IAC/InterActiveCorp - Common Stock|Q|N|N|100|N|N
@@ -2419,6 +2419,7 @@ OLB|The OLB Group, Inc. - Common Stock|S|N|N|100|N|N
 OLD|The Long-Term Care ETF|G|N|N|100|Y|N
 OLED|Universal Display Corporation - Common Stock|Q|N|N|100|N|N
 OLLI|Ollie's Bargain Outlet Holdings, Inc. - Common Stock|G|N|N|100|N|N
+OM|Outset Medical, Inc. - Common Stock|Q|N|N|100|N|N
 OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares|Q|N|N|100|N|N
 OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100|N|N
 OMER|Omeros Corporation - Common Stock|G|N|N|100|N|N
@@ -2746,11 +2747,9 @@ QQQN|VictoryShares Nasdaq Next 50 ETF|G|N|N|100|Y|N
 QQQX|Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest|Q|N|N|100|N|N
 QQXT|First Trust NASDAQ-100 Ex-Technology Sector Index Fund|G|N|N|100|Y|N
 QRHC|Quest Resource Holding Corporation - Common Stock|S|N|N|100|N|N
-QRTAV|Qurate Retail, Inc. - Series A Common Stock Ex-distribution When issued|Q|N|N|100|N|N
-QRTBV|Qurate Retail, Inc. - Series B Common Stock Ex-distribution When issued|Q|N|N|100|N|N
 QRTEA|Qurate Retail, Inc. - Series A Common Stock|Q|N|N|100|N|N
 QRTEB|Qurate Retail, Inc. - Series B Common Stock|Q|N|N|100|N|N
-QRTEV|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock When Issued|Q|N|N|100|N|N
+QRTEP|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100|N|N
 QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|100|Y|N
 QTNT|Quotient Limited - Ordinary Shares|G|N|N|100|N|N
@@ -2894,10 +2893,12 @@ RXT|Rackspace Technology, Inc. - Common Stock|Q|N|N|100|N|N
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100|N|N
 RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 SABR|Sabre Corporation - Common Stock|Q|N|N|100|N|N
+SABRP|Sabre Corporation - 6.50% Series A Mandatory Convertible Preferred Stock|Q|N|N|100|N|N
 SAFM|Sanderson Farms, Inc. - Common Stock|Q|N|N|100|N|N
 SAFT|Safety Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
 SAGE|Sage Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 SAIA|Saia, Inc. - Common Stock|Q|N|N|100|N|N
+SAIIU|Software Acquisition Group Inc. II - Unit|S|N|N|100|N|N
 SAL|Salisbury Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 SALM|Salem Media Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 SAMA|Schultze Special Purpose Acquisition Corp. - Common Stock|S|N|N|100|N|N
@@ -3647,4 +3648,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0914202021:32|||||||
+File Creation Time: 0915202012:10|||||||

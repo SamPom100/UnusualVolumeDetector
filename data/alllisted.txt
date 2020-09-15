@@ -2857,6 +2857,7 @@ SBBA,SBBA|Scorpio Tankers Inc. 7.00% Senior Notes due 2025
 SBE,SBE|Switchback Energy Acquisition Corporation Class A Common Stock
 SBE.U,SBE.U|Switchback Energy Acquisition Corporation Units
 SBE.W,SBE.W|Switchback Energy Acquisition Corporation Warrant
+SBG.U,SBG.U|Sandbridge Acquisition Corporation Units
 SBH,SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI,SBI|Western Asset Intermediate Muni Fund Inc Common Stock
 SBOW,SBOW|SilverBow Resorces, Inc. Common Stock
@@ -3927,6 +3928,8 @@ BDTX,BDTX|Black Diamond Therapeutics, Inc. - Common Stock
 BEAM,BEAM|Beam Therapeutics Inc. - Common Stock
 BEAT,BEAT|BioTelemetry, Inc. - Common Stock
 BECN,BECN|Beacon Roofing Supply, Inc. - Common Stock
+BEEM,BEEM|Beam Global - Common Stock
+BEEMW,BEEMW|Beam Global - Warrant
 BELFA,BELFA|Bel Fuse Inc. - Class A Common Stock
 BELFB,BELFB|Bel Fuse Inc. - Class B Common Stock
 BFC,BFC|Bank First Corporation - Common Stock
@@ -4554,8 +4557,6 @@ EVLO,EVLO|Evelo Biosciences, Inc. - Common Stock
 EVOK,EVOK|Evoke Pharma, Inc. - Common Stock
 EVOL,EVOL|Evolving Systems, Inc. - Common Stock
 EVOP,EVOP|EVO Payments, Inc. - Class A Common Stock
-EVSI,EVSI|Envision Solar International, Inc. - Common Stock
-EVSIW,EVSIW|Envision Solar International, Inc. - Warrant
 EVSTC,EVSTC|Eaton Vance Stock NextShares
 EWBC,EWBC|East West Bancorp, Inc. - Common Stock
 EXAS,EXAS|Exact Sciences Corporation - Common Stock
@@ -5719,6 +5720,7 @@ OKTA,OKTA|Okta, Inc. - Class A Common Stock
 OLB,OLB|The OLB Group, Inc. - Common Stock
 OLED,OLED|Universal Display Corporation - Common Stock
 OLLI,OLLI|Ollie's Bargain Outlet Holdings, Inc. - Common Stock
+OM,OM|Outset Medical, Inc. - Common Stock
 OMAB,OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares
 OMCL,OMCL|Omnicell, Inc. - Common Stock
 OMER,OMER|Omeros Corporation - Common Stock
@@ -5997,11 +5999,9 @@ QMCO,QMCO|Quantum Corporation - Common Stock
 QNST,QNST|QuinStreet, Inc. - Common Stock
 QQQX,QQQX|Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest
 QRHC,QRHC|Quest Resource Holding Corporation - Common Stock
-QRTAV,QRTAV|Qurate Retail, Inc. - Series A Common Stock Ex-distribution When issued
-QRTBV,QRTBV|Qurate Retail, Inc. - Series B Common Stock Ex-distribution When issued
 QRTEA,QRTEA|Qurate Retail, Inc. - Series A Common Stock
 QRTEB,QRTEB|Qurate Retail, Inc. - Series B Common Stock
-QRTEV,QRTEV|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock When Issued
+QRTEP,QRTEP|Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock
 QRVO,QRVO|Qorvo, Inc. - Common Stock
 QTNT,QTNT|Quotient Limited - Ordinary Shares
 QTRX,QTRX|Quanterix Corporation - Common Stock
@@ -6129,10 +6129,12 @@ RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
 RYTM,RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock
 SABR,SABR|Sabre Corporation - Common Stock
+SABRP,SABRP|Sabre Corporation - 6.50% Series A Mandatory Convertible Preferred Stock
 SAFM,SAFM|Sanderson Farms, Inc. - Common Stock
 SAFT,SAFT|Safety Insurance Group, Inc. - Common Stock
 SAGE,SAGE|Sage Therapeutics, Inc. - Common Stock
 SAIA,SAIA|Saia, Inc. - Common Stock
+SAIIU,SAIIU|Software Acquisition Group Inc. II - Unit
 SAL,SAL|Salisbury Bancorp, Inc. - Common Stock
 SALM,SALM|Salem Media Group, Inc. - Class A Common Stock
 SAMA,SAMA|Schultze Special Purpose Acquisition Corp. - Common Stock
