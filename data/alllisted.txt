@@ -1106,6 +1106,7 @@ ENIC,ENIC|Enel Chile S.A. American Depositary Shares (Each representing 50 share
 ENJ,ENJ|Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052
 ENLC,ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests
 ENO,ENO|Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066
+ENPC.U,ENPC.U|Executive Network Partnering Corporation Units, each consisting of one share of Class A common stock, and one-quarter of one redeemable warrant
 ENR,ENR|Energizer Holdings, Inc. Common Stock
 ENR$A,ENR$A|Energizer Holdings, Inc. 7.50% Series A Mandatory Convertible Preferred Stock
 ENS,ENS|EnerSys Common Stock
@@ -1132,6 +1133,7 @@ EPR$G,EPR$G|EPR Properties 5.750% Series G Cumulative Redeemable Preferred Share
 EPRT,EPRT|Essential Properties Realty Trust, Inc. Common Stock
 EQC,EQC|Equity Commonwealth Common Shares of Beneficial Interest
 EQC$D,EQC$D|Equity Commonwealth 6.50% Pfd Conv Shs Ser D
+EQD.U,EQD.U|Equity Distribution Acquisition Corp. Units
 EQH,EQH|Equitable Holdings, Inc. Common Stock
 EQH$A,EQH$A|Equitable Holdings, Inc. Depositary Shares
 EQNR,EQNR|Equinor ASA
@@ -2974,6 +2976,7 @@ SNDR,SNDR|Schneider National, Inc. Common Stock
 SNE,SNE|Sony Corporation Common Stock
 SNMP,SNMP|Sanchez Midstream Partners LP Common Stock
 SNN,SNN|Smith & Nephew SNATS, Inc. Common Stock
+SNOW,SNOW|Snowflake Inc. Class A Common Stock
 SNP,SNP|China Petroleum & Chemical Corporation Common Stock
 SNPR.U,SNPR.U|Tortoise Acquisition Corp. II Units
 SNR,SNR|New Senior Investment Group Inc. Common Stock
@@ -3590,6 +3593,7 @@ ACAMW,ACAMW|Acamar Partners Acquisition Corp. - Warrant
 ACBI,ACBI|Atlantic Capital Bancshares, Inc. - Common Stock
 ACCD,ACCD|Accolade, Inc. - common stock
 ACER,ACER|Acer Therapeutics Inc. - Common Stock
+ACET,ACET|Adicet Bio, Inc. - Common Stock
 ACEVU,ACEVU|ACE Convergence Acquisition Corp. - Unit
 ACGL,ACGL|Arch Capital Group Ltd. - Common Stock
 ACGLO,ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F
@@ -4391,7 +4395,9 @@ DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
 DENN,DENN|Denny's Corporation - Common Stock
 DFFN,DFFN|Diffusion Pharmaceuticals Inc. - Common Stock
+DFHT,DFHT|Deerfield Healthcare Technology Acquisitions Corp. - Class A Common Stock
 DFHTU,DFHTU|Deerfield Healthcare Technology Acquisitions Corp. - Unit
+DFHTW,DFHTW|Deerfield Healthcare Technology Acquisitions Corp. - Warrant
 DFPH,DFPH|DFP Healthcare Acquisitions Corp. - Class A Common Stock
 DFPHU,DFPHU|DFP Healthcare Acquisitions Corp. - Unit
 DFPHW,DFPHW|DFP Healthcare Acquisitions Corp. - Warrant
@@ -4693,6 +4699,7 @@ FRGI,FRGI|Fiesta Restaurant Group, Inc. - Common Stock
 FRHC,FRHC|Freedom Holding Corp. - Common Stock
 FRLN,FRLN|Freeline Therapeutics Holdings plc - ADSs
 FRME,FRME|First Merchants Corporation - Common Stock
+FROG,FROG|JFrog Ltd. - Ordinary shares
 FRPH,FRPH|FRP Holdings, Inc. - Common Stock
 FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
@@ -5475,6 +5482,7 @@ MNOV,MNOV|MediciNova, Inc. - Common Stock
 MNPR,MNPR|Monopar Therapeutics Inc. - Common Stock
 MNRO,MNRO|Monro, Inc.  - Common Stock
 MNSB,MNSB|MainStreet Bancshares, Inc. - Common Stock
+MNSBP,MNSBP|MainStreet Bancshares, Inc. - Depositary Shares
 MNST,MNST|Monster Beverage Corporation - Common Stock
 MNTA,MNTA|Momenta Pharmaceuticals, Inc. - Common Stock
 MNTX,MNTX|Manitex International, Inc. - common stock
@@ -5518,6 +5526,7 @@ MTBC,MTBC|MTBC, Inc. - Common Stock
 MTBCP,MTBCP|MTBC, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock
 MTC,MTC|MMTec, Inc. - Common Shares
 MTCH,MTCH|Match Group, Inc. - Common Stock
+MTCR,MTCR|Metacrine, Inc. - Common Stock
 MTEM,MTEM|Molecular Templates, Inc. - Common Stock
 MTEX,MTEX|Mannatech, Incorporated - Common Stock
 MTLS,MTLS|Materialise NV - American Depositary Shares
@@ -5989,7 +5998,7 @@ QADB,QADB|QAD Inc. - Class B Common Stock
 QCOM,QCOM|QUALCOMM Incorporated - Common Stock
 QCRH,QCRH|QCR Holdings, Inc. - Common Stock
 QDEL,QDEL|Quidel Corporation - Common Stock
-QFIN,QFIN|360 Finance, Inc. - American Depositary Shares
+QFIN,QFIN|360 DigiTech, Inc. - American Depositary Shares
 QH,QH|Quhuo Limited - American Depository Shares
 QIWI,QIWI|QIWI plc - American Depositary Shares
 QK,QK|Q&K International Group Limited - American Depositary Shares
@@ -6344,6 +6353,7 @@ STAF,STAF|Staffing 360 Solutions, Inc. - Common Stock
 STAY,STAY|Extended Stay America, Inc. - Paired Shares
 STBA,STBA|S&T Bancorp, Inc. - Common Stock
 STCN,STCN|Steel Connect, Inc. - Common Stock
+STEP,STEP|StepStone Group Inc. - Class A Common Stock
 STFC,STFC|State Auto Financial Corporation - Common Stock
 STIM,STIM|Neuronetics, Inc. - Common Stock
 STKL,STKL|SunOpta, Inc. - Common Stock
@@ -6480,7 +6490,6 @@ TNAV,TNAV|Telenav, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
 TOPS,TOPS|TOP Ships Inc. - Common Stock
-TORC,TORC|resTORbio, Inc. - Common Stock
 TOTA,TOTA|Tottenham Acquisition I Limited - Ordinary Shares
 TOTAR,TOTAR|Tottenham Acquisition I Limited - Right
 TOTAU,TOTAU|Tottenham Acquisition I Limited - Unit
