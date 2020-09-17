@@ -182,6 +182,7 @@ AMS,AMS|American Shared Hospital Services Common Stock
 AMT,AMT|American Tower Corporation (REIT) Common Stock
 AMU,AMU|ETRACS Alerian MLP Index ETN
 AMUB,AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042
+AMWL,AMWL|American Well Corporation Class A Common Stock
 AMX,AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L
 AN,AN|AutoNation, Inc. Common Stock
 ANET,ANET|Arista Networks, Inc. Common Stock
@@ -473,6 +474,7 @@ BNKD,BNKD|MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs
 BNKO,BNKO|MicroSectors U.S. Big Banks Index 2X Leveraged ETNs
 BNKU,BNKU|MicroSectors U.S. Big Banks Index 3X Leveraged ETNs
 BNKZ,BNKZ|MicroSectors U.S. Big Banks Index -2X Inverse Leveraged ETNs
+BNL,BNL|Broadstone Net Lease, Inc. Class A Common Stock
 BNS,BNS|Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNY,BNY|BlackRock New York Municipal Income Trust
 BOE,BOE|Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
@@ -1309,6 +1311,7 @@ FRC$G,FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th in
 FRC$H,FRC$H|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share
 FRC$I,FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share
 FRC$J,FRC$J|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncumulative Perpetual Series J Preferred Stock
+FRC$K,FRC$K|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.125% Noncumulative Perpetual Series K Preferred Stock
 FRD,FRD|Friedman Industries Inc. Common Stock
 FRLG,FRLG|Large Cap Growth Index-Linked Exchange Traded Notes due 2028
 FRO,FRO|Frontline Ltd. Ordinary Shares
@@ -2419,6 +2422,7 @@ O,O|Realty Income Corporation Common Stock
 OAC,OAC|Oaktree Acquisition Corp. Class A Ordinary Shares
 OAC.U,OAC.U|Oaktree Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
 OAC.W,OAC.W|Oaktree Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
+OACB.U,OACB.U|Oaktree Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
 OAK$A,OAK$A|Oaktree Capital Group, LLC 6.625% Series A Preferred units
 OAK$B,OAK$B|Oaktree Capital Group, LLC 6.550% Series B Preferred Units
 OBLG,OBLG|Oblong Inc. Common Stock
@@ -2820,6 +2824,7 @@ RS,RS|Reliance Steel & Aluminum Co. Common Stock (DE)
 RSF,RSF|RiverNorth Specialty Finance Corporation
 RSG,RSG|Republic Services, Inc. Common Stock
 RST,RST|Rosetta Stone Rosetta Stone, Inc.
+RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 RTX,RTX|Raytheon Technologies Corporation Common Stock
 RVI,RVI|Retail Value Inc. Common Stock 
 RVLV,RVLV|Revolve Group, Inc. Class A Common Stock
@@ -3594,7 +3599,9 @@ ACBI,ACBI|Atlantic Capital Bancshares, Inc. - Common Stock
 ACCD,ACCD|Accolade, Inc. - common stock
 ACER,ACER|Acer Therapeutics Inc. - Common Stock
 ACET,ACET|Adicet Bio, Inc. - Common Stock
+ACEV,ACEV|ACE Convergence Acquisition Corp. - Class A Ordinary Shares
 ACEVU,ACEVU|ACE Convergence Acquisition Corp. - Unit
+ACEVW,ACEVW|ACE Convergence Acquisition Corp. - Warrant
 ACGL,ACGL|Arch Capital Group Ltd. - Common Stock
 ACGLO,ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F
 ACGLP,ACGLP|Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs
@@ -4461,6 +4468,7 @@ DXLG,DXLG|Destination XL Group, Inc. - Common Stock
 DXPE,DXPE|DXP Enterprises, Inc. - Common Stock
 DXYN,DXYN|The Dixie Group, Inc. - Common Stock
 DYAI,DYAI|Dyadic International, Inc. - Common Stock
+DYN,DYN|Dyne Therapeutics, Inc. - Common Stock
 DYNT,DYNT|Dynatronics Corporation - Common Stock
 DZSI,DZSI|DZS Inc. - Common Stock
 EA,EA|Electronic Arts Inc. - Common Stock
@@ -5982,6 +5990,7 @@ PTRS,PTRS|Partners Bancorp - Common Stock
 PTSI,PTSI|P.A.M. Transportation Services, Inc. - Common Stock
 PTVCA,PTVCA|Protective Insurance Corporation - Class A (voting) Common Stock
 PTVCB,PTVCB|Protective Insurance Corporation - Class B (nonvoting) Common Stock
+PTVE,PTVE|Pactiv Evergreen Inc. - Common stock
 PULM,PULM|Pulmatrix, Inc. - Common Stock
 PUYI,PUYI|Puyi Inc. - American Depository Shares
 PVAC,PVAC|Penn Virginia Corporation - Common Stock
@@ -6370,8 +6379,10 @@ STRO,STRO|Sutro Biopharma, Inc. - Common Stock
 STRS,STRS|Stratus Properties Inc. - Common Stock
 STRT,STRT|STRATTEC SECURITY CORPORATION - Common Stock
 STSA,STSA|Satsuma Pharmaceuticals, Inc. - Common stock
+STWOU,STWOU|ACON S2 Acquisition Corp. - Unit
 STX,STX|Seagate Technology PLC - Ordinary Shares (Ireland)
 STXB,STXB|Spirit of Texas Bancshares, Inc. - Common Stock
+SUMO,SUMO|Sumo Logic, Inc. - Common Stock
 SUMR,SUMR|Summer Infant, Inc. - Common Stock
 SUNS,SUNS|Solar Senior Capital Ltd. - Common Stock
 SUNW,SUNW|Sunworks, Inc. - Common Stock
