@@ -65,6 +65,7 @@ AFG,AFG|American Financial Group, Inc. Common Stock
 AFGB,AFGB|American Financial Group, Inc. 5.875% Subordinated Debentures due 2059
 AFGC,AFGC|American Financial Group, Inc. 5.125% Subordinated Debentures due 2059
 AFGD,AFGD|American Financial Group, Inc. 5.625% Subordinated Debentures due 2060
+AFGE,AFGE|American Financial Group, Inc. 4.500% Subordinated Debentures due 2060
 AFGH,AFGH|American Financial Group, Inc. 6% Subordinated Debentures due 2055
 AFI,AFI|Armstrong Flooring, Inc. Common Stock
 AFL,AFL|AFLAC Incorporated Common Stock
@@ -600,7 +601,9 @@ CCC,CCC|Clarivate Plc Ordinary Shares
 CCEP,CCEP|Coca-Cola European Partners plc Ordinary Shares
 CCF,CCF|Chase Corporation Common Stock
 CCI,CCI|Crown Castle International Corp. (REIT) Common Stock
+CCIV,CCIV|Churchill Capital Corp IV Class A Common Stock
 CCIV.U,CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
+CCIV.W,CCIV.W|Churchill Capital Corp IV Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 CCJ,CCJ|Cameco Corporation Common Stock
 CCK,CCK|Crown Holdings, Inc.
 CCL,CCL|Carnival Corporation Common Stock
@@ -827,7 +830,6 @@ CTEST.O,CTEST.O|NYSE Test One Common Stock
 CTEST.S,CTEST.S|NYSE Test Six Common Stock
 CTEST.V,CTEST.V|NYSE Test One Common Stock
 CTK,CTK|CooTek (Cayman) Inc. American Depositary Shares, each representing 50 Class A Ordinary Shares
-CTL,CTL|CenturyLink, Inc. Common Stock
 CTLT,CTLT|Catalent, Inc. Common Stock
 CTO,CTO|CTO Realty Growth, Inc. Common Stock 
 CTR,CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock
@@ -1985,6 +1987,7 @@ LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
 LTC,LTC|LTC Properties, Inc. Common Stock
 LTHM,LTHM|Livent Corporation Common Stock
 LUB,LUB|Luby's, Inc. Common Stock
+LUMN,LUMN|CenturyLink, Inc. Common Stock
 LUV,LUV|Southwest Airlines Company Common Stock
 LVS,LVS|Las Vegas Sands Corp. Common Stock
 LW,LW|Lamb Weston Holdings, Inc. Common Stock 
@@ -3017,7 +3020,6 @@ SPGI,SPGI|S&P Global Inc. Common Stock
 SPH,SPH|Suburban Propane Partners, L.P. Common Stock
 SPLP,SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT
 SPLP$A,SPLP$A|Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value
-SPN,SPN|Superior Energy Services, Inc. Common Stock
 SPOT,SPOT|Spotify Technology S.A. Ordinary Shares
 SPR,SPR|Spirit Aerosystems Holdings, Inc. Common Stock
 SPXC,SPXC|SPX Corporation Common Stock
@@ -3276,6 +3278,7 @@ TY,TY|Tri Continental Corporation Common Stock
 TY$,TY$|Tri Continental Corporation Preferred Stock
 TYG,TYG|Tortoise Energy Infrastructure Corporation Common Stock
 TYL,TYL|Tyler Technologies, Inc. Common Stock
+U,U|Unity Software Inc. Common Stock
 UA,UA|Under Armour, Inc. Class C Common Stock
 UAA,UAA|Under Armour, Inc. Class A Common Stock
 UAG,UAG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Agriculture ETN
@@ -3523,7 +3526,6 @@ WTS,WTS|Watts Water Technologies, Inc. Class A Common Stock
 WTT,WTT|Wireless Telecom Group,  Inc. Common Stock
 WTTR,WTTR|Select Energy Services, Inc. Class A Common Stock
 WU,WU|Western Union Company (The) Common Stock
-WUBA,WUBA|58.com Inc. American Depositary Shares, each representing 2 Class A Ordinary Shares
 WWE,WWE|World Wrestling Entertainment, Inc. Class A Common Stock
 WWW,WWW|Wolverine World Wide, Inc. Common Stock
 WY,WY|Weyerhaeuser Company Common Stock
@@ -3668,6 +3670,7 @@ AGNCP,AGNCP|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,00
 AGRX,AGRX|Agile Therapeutics, Inc. - Common Stock
 AGTC,AGTC|Applied Genetic Technologies Corporation - Common Stock
 AGYS,AGYS|Agilysys, Inc. - Common Stock
+AHACU,AHACU|Alpha Healthcare Acquisition Corp. - Unit
 AHCO,AHCO|AdaptHealth Corp.  - Class A Common Stock
 AHPI,AHPI|Allied Healthcare Products, Inc. - Common Stock
 AIH,AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares
@@ -3850,6 +3853,7 @@ ATCX,ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock
 ATCXW,ATCXW|Atlas Technical Consultants, Inc. - Warrant
 ATEC,ATEC|Alphatec Holdings, Inc. - Common Stock
 ATEX,ATEX|Anterix Inc. - Common Stock
+ATHA,ATHA|Athira Pharma, Inc. - Common Stock
 ATHE,ATHE|Alterity Therapeutics Limited - American Depositary Shares
 ATHX,ATHX|Athersys, Inc. - Common Stock
 ATIF,ATIF|ATIF Holdings Limited - Ordinary Shares
@@ -3963,6 +3967,7 @@ BILI,BILI|Bilibili Inc. - American Depositary Shares
 BIMI,BIMI|BOQI International Medical Inc. - Common Stock
 BIOC,BIOC|Biocept, Inc. - Common Stock
 BIOL,BIOL|Biolase, Inc. - Common Stock
+BIVI,BIVI|BioVie Inc. - Common stock
 BJRI,BJRI|BJ's Restaurants, Inc. - Common Stock
 BKCC,BKCC|BlackRock Capital Investment Corporation - Common Stock
 BKEP,BKEP|Blueknight Energy Partners L.P., L.L.C. - Common Units representing Limited Partner Interests
@@ -4239,6 +4244,7 @@ CMLFU,CMLFU|CM Life Sciences, Inc. - Unit
 CMLS,CMLS|Cumulus Media Inc. - Class A Common Stock
 CMPI,CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock
 CMPR,CMPR|Cimpress plc - Ordinary Shares
+CMPS,CMPS|COMPASS Pathways Plc - American Depository Shares
 CMRX,CMRX|Chimerix, Inc. - Common Stock
 CMTL,CMTL|Comtech Telecommunications Corp. - Common Stock
 CNBKA,CNBKA|Century Bancorp, Inc. - Class A Common Stock
@@ -4554,7 +4560,9 @@ ESSCU,ESSCU|East Stone Acquisition Corporation - Unit
 ESSCW,ESSCW|East Stone Acquisition Corporation - Warrant
 ESTA,ESTA|Establishment Labs Holdings Inc. - Common Shares
 ESXB,ESXB|Community Bankers Trust Corporation. - Common Stock
+ETAC,ETAC|E.Merge Technology Acquisition Corp. - Class A Common stock
 ETACU,ETACU|E.Merge Technology Acquisition Corp. - Unit
+ETACW,ETACW|E.Merge Technology Acquisition Corp. - Warrant
 ETFC,ETFC|E*TRADE Financial Corporation - Common Stock
 ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
@@ -4939,6 +4947,7 @@ HFBL,HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock
 HFFG,HFFG|HF Foods Group Inc. - Common Stock
 HFWA,HFWA|Heritage Financial Corporation - Common Stock
 HGBL,HGBL|Heritage Global Inc. - Common Stock
+HGEN,HGEN|Humanigen, Inc. - Common Stock
 HGSH,HGSH|China HGS Real Estate, Inc. - Common Stock
 HHR,HHR|HeadHunter Group PLC - American Depositary Shares
 HHT,HHT|Color Star Technology Co. Ltd. - Ordinary Shares
@@ -5633,6 +5642,7 @@ NMCI,NMCI|Navios Maritime Containers L.P. - Common units representing limited pa
 NMFC,NMFC|New Mountain Finance Corporation - Common Stock
 NMFCL,NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023
 NMIH,NMIH|NMI Holdings Inc - Common Stock
+NMMCU,NMMCU|North Mountain Merger Corp. - Unit
 NMRD,NMRD|Nemaura Medical Inc. - Common Stock
 NMRK,NMRK|Newmark Group, Inc. - Class A Common Stock
 NMTR,NMTR|9 Meters Biopharma, Inc. - Common Stock
@@ -6687,6 +6697,7 @@ VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
+VTRU,VTRU|Vitru Limited - Common Shares
 VTSI,VTSI|VirTra, Inc. - Common Stock
 VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
 VUZI,VUZI|Vuzix Corporation - Common Stock

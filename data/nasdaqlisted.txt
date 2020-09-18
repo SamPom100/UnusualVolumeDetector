@@ -99,6 +99,7 @@ AGRX|Agile Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 AGTC|Applied Genetic Technologies Corporation - Common Stock|G|N|N|100|N|N
 AGYS|Agilysys, Inc. - Common Stock|Q|N|N|100|N|N
 AGZD|WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund|G|N|N|100|Y|N
+AHACU|Alpha Healthcare Acquisition Corp. - Unit|S|N|N|100|N|N
 AHCO|AdaptHealth Corp.  - Class A Common Stock|S|N|N|100|N|N
 AHPI|Allied Healthcare Products, Inc. - Common Stock|S|N|N|100|N|N
 AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
@@ -288,6 +289,7 @@ ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock|G|N|N|100|N|N
 ATCXW|Atlas Technical Consultants, Inc. - Warrant|G|N|N|100|N|N
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
+ATHA|Athira Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
 ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|N|100|N|N
@@ -407,6 +409,7 @@ BIMI|BOQI International Medical Inc. - Common Stock|S|N|E|100|N|N
 BIOC|Biocept, Inc. - Common Stock|S|N|D|100|N|N
 BIOL|Biolase, Inc. - Common Stock|S|N|D|100|N|N
 BIS|ProShares UltraShort Nasdaq Biotechnology|G|N|N|100|Y|N
+BIVI|BioVie Inc. - Common stock|S|N|N|100|N|N
 BJK|VanEck Vectors Gaming ETF|G|N|N|100|Y|N
 BJRI|BJ's Restaurants, Inc. - Common Stock|Q|N|N|100|N|N
 BKCC|BlackRock Capital Investment Corporation - Common Stock|Q|N|N|100|N|N
@@ -742,6 +745,7 @@ CMLFU|CM Life Sciences, Inc. - Unit|S|N|N|100|N|N
 CMLS|Cumulus Media Inc. - Class A Common Stock|G|N|N|100|N|N
 CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 CMPR|Cimpress plc - Ordinary Shares|Q|N|N|100|N|N
+CMPS|COMPASS Pathways Plc - American Depository Shares|Q|N|N|100|N|N
 CMRX|Chimerix, Inc. - Common Stock|G|N|N|100|N|N
 CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100|N|N
 CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -1107,7 +1111,9 @@ ESSCU|East Stone Acquisition Corporation - Unit|S|N|N|100|N|N
 ESSCW|East Stone Acquisition Corporation - Warrant|S|N|N|100|N|N
 ESTA|Establishment Labs Holdings Inc. - Common Shares|S|N|N|100|N|N
 ESXB|Community Bankers Trust Corporation. - Common Stock|S|N|N|100|N|N
+ETAC|E.Merge Technology Acquisition Corp. - Class A Common stock|S|N|N|100|N|N
 ETACU|E.Merge Technology Acquisition Corp. - Unit|S|N|N|100|N|N
+ETACW|E.Merge Technology Acquisition Corp. - Warrant|S|N|N|100|N|N
 ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100|N|N
 ETNB|89bio, Inc. - Common Stock|G|N|N|100|N|N
 ETON|Eton Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
@@ -1566,6 +1572,7 @@ HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100|N|N
 HFFG|HF Foods Group Inc. - Common Stock|S|N|N|100|N|N
 HFWA|Heritage Financial Corporation - Common Stock|Q|N|N|100|N|N
 HGBL|Heritage Global Inc. - Common Stock|S|N|N|100|N|N
+HGEN|Humanigen, Inc. - Common Stock|S|N|N|100|N|N
 HGSH|China HGS Real Estate, Inc. - Common Stock|S|N|D|100|N|N
 HHR|HeadHunter Group PLC - American Depositary Shares|Q|N|N|100|N|N
 HHT|Color Star Technology Co. Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -2195,7 +2202,7 @@ MORF|Morphic Holding, Inc. - Common Stock|G|N|N|100|N|N
 MORN|Morningstar, Inc. - Common Stock|Q|N|N|100|N|N
 MOSY|MoSys, Inc. - Common Stock|S|N|N|100|N|N
 MOTS|Motus GI Holdings, Inc. - Common Stock|S|N|N|100|N|N
-MOXC|Moxian, Inc. - Common Stock|S|N|D|100|N|N
+MOXC|Moxian, Inc. - Common Stock|S|N|N|100|N|N
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100|N|N
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100|N|N
 MPWR|Monolithic Power Systems, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2308,8 +2315,8 @@ NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055|G|N|N|
 NGM|NGM Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 NH|NantHealth, Inc. - Common Stock|Q|N|N|100|N|N
 NHICU|NewHold Investment Corp. - Unit|S|N|N|100|N|N
-NHLD|National Holdings Corporation - Common Stock|S|N|N|100|N|N
-NHLDW|National Holdings Corporation - Warrants|S|N|N|100|N|N
+NHLD|National Holdings Corporation - Common Stock|S|N|D|100|N|N
+NHLDW|National Holdings Corporation - Warrants|S|N|D|100|N|N
 NHTC|Natural Health Trends Corp. - Commn Stock|S|N|N|100|N|N
 NICE|NICE Ltd - American Depositary Shares each representing one Ordinary Share|Q|N|N|100|N|N
 NICK|Nicholas Financial, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2325,6 +2332,7 @@ NMCI|Navios Maritime Containers L.P. - Common units representing limited partner
 NMFC|New Mountain Finance Corporation - Common Stock|Q|N|N|100|N|N
 NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023|Q|N|N|100|N|N
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100|N|N
+NMMCU|North Mountain Merger Corp. - Unit|S|N|N|100|N|N
 NMRD|Nemaura Medical Inc. - Common Stock|S|N|N|100|N|N
 NMRK|Newmark Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NMTR|9 Meters Biopharma, Inc. - Common Stock|S|N|D|100|N|N
@@ -3499,6 +3507,7 @@ VTGN|VistaGen Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 VTHR|Vanguard Russell 3000 ETF|G|N|N|100|Y|N
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund|G|N|N|100|Y|N
 VTNR|Vertex Energy, Inc - Common Stock|S|N|D|100|N|N
+VTRU|Vitru Limited - Common Shares|Q|N|N|100|N|N
 VTSI|VirTra, Inc. - Common Stock|S|N|N|100|N|N
 VTVT|vTv Therapeutics Inc. - Class A Common Stock|S|N|N|100|N|N
 VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|100|Y|N
@@ -3663,4 +3672,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0917202015:42|||||||
+File Creation Time: 0918202012:11|||||||

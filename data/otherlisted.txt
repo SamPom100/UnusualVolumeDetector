@@ -79,6 +79,7 @@ AFG|American Financial Group, Inc. Common Stock|N|AFG|N|100|N|AFG
 AFGB|American Financial Group, Inc. 5.875% Subordinated Debentures due 2059|N|AFGB|N|100|N|AFGB
 AFGC|American Financial Group, Inc. 5.125% Subordinated Debentures due 2059|N|AFGC|N|100|N|AFGC
 AFGD|American Financial Group, Inc. 5.625% Subordinated Debentures due 2060|N|AFGD|N|100|N|AFGD
+AFGE|American Financial Group, Inc. 4.500% Subordinated Debentures due 2060|N|AFGE|N|100|N|AFGE
 AFGH|American Financial Group, Inc. 6% Subordinated Debentures due 2055|N|AFGH|N|100|N|AFGH
 AFI|Armstrong Flooring, Inc. Common Stock|N|AFI|N|100|N|AFI
 AFIF|Anfield Universal Fixed Income ETF|Z|AFIF|Y|100|N|AFIF
@@ -739,7 +740,9 @@ CCC|Clarivate Plc Ordinary Shares|N|CCC|N|100|N|CCC
 CCEP|Coca-Cola European Partners plc Ordinary Shares|N|CCEP|N|100|N|CCEP
 CCF|Chase Corporation Common Stock|A|CCF|N|100|N|CCF
 CCI|Crown Castle International Corp. (REIT) Common Stock|N|CCI|N|100|N|CCI
+CCIV|Churchill Capital Corp IV Class A Common Stock|N|CCIV|N|100|N|CCIV
 CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|CCIV.U|N|100|N|CCIV=
+CCIV.W|Churchill Capital Corp IV Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCIV.WS|N|100|N|CCIV+
 CCJ|Cameco Corporation Common Stock|N|CCJ|N|100|N|CCJ
 CCK|Crown Holdings, Inc.|N|CCK|N|100|N|CCK
 CCL|Carnival Corporation Common Stock|N|CCL|N|100|N|CCL
@@ -1015,7 +1018,6 @@ CTEST.O|NYSE Test One Common Stock|N|CTEST.O|N|100|Y|CTEST.O
 CTEST.S|NYSE Test Six Common Stock|N|CTEST.S|N|100|Y|CTEST.S
 CTEST.V|NYSE Test One Common Stock|N|CTEST.V|N|100|Y|CTEST.V
 CTK|CooTek (Cayman) Inc. American Depositary Shares, each representing 50 Class A Ordinary Shares|N|CTK|N|100|N|CTK
-CTL|CenturyLink, Inc. Common Stock|N|CTL|N|100|N|CTL
 CTLT|Catalent, Inc. Common Stock|N|CTLT|N|100|N|CTLT
 CTO|CTO Realty Growth, Inc. Common Stock |A|CTO|N|100|N|CTO
 CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock|N|CTR|N|100|N|CTR
@@ -3006,6 +3008,7 @@ LTHM|Livent Corporation Common Stock|N|LTHM|N|100|N|LTHM
 LTL|ProShares Ultra Telecommunications ProShares|P|LTL|Y|100|N|LTL
 LTPZ|Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund|P|LTPZ|Y|100|N|LTPZ
 LUB|Luby's, Inc. Common Stock|N|LUB|N|100|N|LUB
+LUMN|CenturyLink, Inc. Common Stock|N|LUMN|N|100|N|LUMN
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
 LVHI|Legg Mason International Low Volatility High Dividend ETF|Z|LVHI|Y|100|N|LVHI
 LVS|Las Vegas Sands Corp. Common Stock|N|LVS|N|100|N|LVS
@@ -4054,7 +4057,7 @@ REXR|Rexford Industrial Realty, Inc. Common Stock|N|REXR|N|100|N|REXR
 REXR$A|Rexford Industrial Realty, Inc. 5.875% Series A Cumulative Redeemable Preferred Stock|N|REXRpA|N|100|N|REXR-A
 REXR$B|Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock|N|REXRpB|N|100|N|REXR-B
 REXR$C|Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|REXRpC|N|100|N|REXR-C
-REZ|iShares Trust iShares Residential Real Estate ETF|P|REZ|Y|100|N|REZ
+REZ|iShares Residential and Multisector Real Estate ETF|P|REZ|Y|100|N|REZ
 REZI|Resideo Technologies, Inc. Common Stock |N|REZI|N|100|N|REZI
 RF|Regions Financial Corporation Common Stock|N|RF|N|100|N|RF
 RF$A|Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series A|N|RFpA|N|100|N|RF-A
@@ -4500,7 +4503,6 @@ SPMB|SPDR Portfolio Mortgage Backed Bond ETF|P|SPMB|Y|100|N|SPMB
 SPMD|SPDR Portfolio S&P 400 Mid Cap ETF  |P|SPMD|Y|100|N|SPMD
 SPMO|Invesco S&P 500 Momentum ETF|P|SPMO|Y|100|N|SPMO
 SPMV|Invesco S&P 500 Minimum Variance ETF|Z|SPMV|Y|100|N|SPMV
-SPN|Superior Energy Services, Inc. Common Stock|N|SPN|N|100|N|SPN
 SPOT|Spotify Technology S.A. Ordinary Shares|N|SPOT|N|100|N|SPOT
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
@@ -4889,6 +4891,7 @@ TYG|Tortoise Energy Infrastructure Corporation Common Stock|N|TYG|N|100|N|TYG
 TYL|Tyler Technologies, Inc. Common Stock|N|TYL|N|100|N|TYL
 TYO|Direxion Daily 10-Yr Treasury Bear 3x Shrs|P|TYO|Y|100|N|TYO
 TZA|Direxion Small Cap Bear 3X Shares|P|TZA|Y|100|N|TZA
+U|Unity Software Inc. Common Stock|N|U|N|100|N|U
 UA|Under Armour, Inc. Class C Common Stock|N|UA|N|100|N|UA
 UAA|Under Armour, Inc. Class A Common Stock|N|UAA|N|100|N|UAA
 UAG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Agriculture ETN|P|UAG|N|100|N|UAG
@@ -5297,7 +5300,6 @@ WTS|Watts Water Technologies, Inc. Class A Common Stock|N|WTS|N|100|N|WTS
 WTT|Wireless Telecom Group,  Inc. Common Stock|A|WTT|N|100|N|WTT
 WTTR|Select Energy Services, Inc. Class A Common Stock|N|WTTR|N|100|N|WTTR
 WU|Western Union Company (The) Common Stock|N|WU|N|100|N|WU
-WUBA|58.com Inc. American Depositary Shares, each representing 2 Class A Ordinary Shares|N|WUBA|N|100|N|WUBA
 WUGI|Esoterica NextG Economy ETF|Z|WUGI|Y|100|N|WUGI
 WWE|World Wrestling Entertainment, Inc. Class A Common Stock|N|WWE|N|100|N|WWE
 WWJD|Inspire International ESG ETF|P|WWJD|Y|100|N|WWJD
@@ -5417,4 +5419,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0917202015:42||||||
+File Creation Time: 0918202012:11||||||
