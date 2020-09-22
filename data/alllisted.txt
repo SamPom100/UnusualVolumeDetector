@@ -76,7 +76,6 @@ AGD,AGD|Aberdeen Global Dynamic Dividend Fund
 AGE,AGE|AgeX Therapeutics, Inc. Common Stock
 AGI,AGI|Alamos Gold Inc. Class A Common Shares
 AGM,AGM|Federal Agricultural Mortgage Corporation Common Stock
-AGM$A,AGM$A|Federal Agricultural Mortgage Corporation 5.875% Non-CUmulative Preferred Stock, Series A
 AGM$C,AGM$C|Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg
 AGM$D,AGM$D|Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D
 AGM$E,AGM$E|Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferred Stock, Series E
@@ -765,6 +764,7 @@ COF$G,COF$G|Capital One Financial Corporation Depositary Shares, Each Representi
 COF$H,COF$H|Capital One Financial Corporation Depositary Shares, Each Representing 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H
 COF$I,COF$I|Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer
 COF$J,COF$J|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non- Cumulative Perpetual Preferred Stock, Series J
+COF$K,COF$K|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K
 COG,COG|Cabot Oil & Gas Corporation Common Stock
 COHN,COHN|Cohen & Company Inc.
 COLD,COLD|Americold Realty Trust Common Shares
@@ -909,6 +909,7 @@ DEH.U,DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary sha
 DEH.W,DEH.W|D8 Holdings Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 DEI,DEI|Douglas Emmett, Inc. Common Stock
 DELL,DELL|Dell Technologies Inc. Class C Common Stock 
+DEN,DEN|Denbury Inc. Common Stock
 DEO,DEO|Diageo plc Common Stock
 DESP,DESP|Despegar.com, Corp. Ordinary Shares
 DEUR,DEUR|ETNs linked to the VelocityShares Daily 4X Long USD vs. EUR Index
@@ -1857,7 +1858,6 @@ KCAC,KCAC|Kensington Capital Acquisition Corp. Class A Common Stock
 KCAC.U,KCAC.U|Kensington Capital Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 KCAC.W,KCAC.W|Kensington Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 KDMN,KDMN|Kadmon Holdings, Inc. Common Stock
-KDP,KDP|Keurig Dr Pepper Inc. Common Stock
 KEN,KEN|Kenon Holdings Ltd. Ordinary Shares
 KEP,KEP|Korea Electric Power Corporation Common Stock
 KEX,KEX|Kirby Corporation Common Stock
@@ -2652,7 +2652,9 @@ PRLB,PRLB|Proto Labs, Inc. Common stock
 PRMW,PRMW|Primo Water Corporation Common Stock
 PRO,PRO|PROS Holdings, Inc. Common Stock
 PROS,PROS|ProSight Global, Inc. Common Stock
+PRPB,PRPB|CC Neuberger Principal Holdings II Class A Ordinary Shares
 PRPB.U,PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+PRPB.W,PRPB.W|CC Neuberger Principal Holdings II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PRS,PRS|Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
 PRSP,PRSP|Perspecta Inc. Common Stock 
 PRT,PRT|PermRock Royalty Trust Trust Units
@@ -3167,7 +3169,6 @@ TGS,TGS|Transportadora de Gas del Sur SA TGS Common Stock
 TGT,TGT|Target Corporation Common Stock
 THC,THC|Tenet Healthcare Corporation Common Stock
 THG,THG|Hanover Insurance Group Inc
-THGA,THGA|The Hanover Insurance Group, Inc. 6.35% Subordinated Debentures due 2053
 THM,THM|International Tower Hill Mines, Ltd. Ordinary Shares (Canada)
 THO,THO|Thor Industries, Inc. Common Stock
 THQ,THQ|Tekla Healthcare Opportunies Fund Shares of Beneficial Interest
@@ -4650,7 +4651,9 @@ FGBI,FGBI|First Guaranty Bancshares, Inc. - Common Stock
 FGEN,FGEN|FibroGen, Inc - Common Stock
 FHB,FHB|First Hawaiian, Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
+FIII,FIII|Forum Merger III Corporation - Class A Common Stock
 FIIIU,FIIIU|Forum Merger III Corporation - Units
+FIIIW,FIIIW|Forum Merger III Corporation - Warrant
 FISI,FISI|Financial Institutions, Inc. - Common Stock
 FISV,FISV|Fiserv, Inc. - Common Stock
 FITB,FITB|Fifth Third Bancorp - Common Stock
@@ -4711,6 +4714,7 @@ FREE,FREE|Whole Earth Brands, Inc. - Class A Common Stock
 FREEW,FREEW|Whole Earth Brands, Inc. - Warrant
 FREQ,FREQ|Frequency Therapeutics, Inc. - Common Stock
 FRG,FRG|Franchise Group, Inc. - Common Stock
+FRGAP,FRGAP|Franchise Group, Inc. - 7.50% Series A Cumulative Perpetual Preferred Stock
 FRGI,FRGI|Fiesta Restaurant Group, Inc. - Common Stock
 FRHC,FRHC|Freedom Holding Corp. - Common Stock
 FRLN,FRLN|Freeline Therapeutics Holdings plc - ADSs
@@ -5205,6 +5209,7 @@ KBNTW,KBNTW|Kubient, Inc. - Warrant
 KBSF,KBSF|KBS Fashion Group Limited - Common Stock
 KC,KC|Kingsoft Cloud Holdings Limited - American Depositary Shares
 KCAPL,KCAPL|Portman Ridge Finance Corporation - 6.125% Notes due 2022
+KDP,KDP|Keurig Dr Pepper Inc. - Common Stock
 KE,KE|Kimball Electronics, Inc. - Common Stock
 KELYA,KELYA|Kelly Services, Inc. - Class A Common Stock
 KELYB,KELYB|Kelly Services, Inc. - Class B Common Stock
@@ -5334,6 +5339,7 @@ LMRKO,LMRKO|Landmark Infrastructure Partners LP - Preferred Units
 LMRKP,LMRKP|Landmark Infrastructure Partners LP - 8.00% Series A Cumulative Redeemable Perpetual Preferred Units
 LMST,LMST|Limestone Bancorp, Inc. - Common Stock
 LNDC,LNDC|Landec Corporation - Common Stock
+LNSRV,LNSRV|LENSAR, Inc. - Common Stock When Issued
 LNT,LNT|Alliant Energy Corporation - Common Stock
 LNTH,LNTH|Lantheus Holdings, Inc. - Common Stock
 LOAC,LOAC|Longevity Acquisition Corporation - Ordinary Shares
@@ -5738,6 +5744,7 @@ OFED,OFED|Oconee Federal Financial Corp. - Common Stock
 OFIX,OFIX|Orthofix Medical Inc.  - Common Stock
 OFLX,OFLX|Omega Flex, Inc. - Common Stock
 OFS,OFS|OFS Capital Corporation - Common Stock
+OFSSG,OFSSG|OFS Capital Corporation - 6.25% Notes Due 2023
 OFSSI,OFSSI|OFS Capital Corporation - 5.95% Notes due 2026
 OFSSL,OFSSL|OFS Capital Corporation - 6.375% Notes due 2025
 OFSSZ,OFSSZ|OFS Capital Corporation - 6.50% Notes due 2025
@@ -5867,6 +5874,7 @@ PDEX,PDEX|Pro-Dex, Inc. - Common Stock
 PDFS,PDFS|PDF Solutions, Inc. - Common Stock
 PDLB,PDLB|PDL Community Bancorp - Common Stock
 PDLI,PDLI|PDL BioPharma, Inc. - Common Stock
+PDLIV,PDLIV|PDL BioPharma, Inc. - Common Stock Ex-Distribution When Issued
 PDSB,PDSB|PDS Biotechnology Corporation - Common Stock
 PEBK,PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO,PEBO|Peoples Bancorp Inc. - Common Stock
@@ -6287,7 +6295,7 @@ SMMC,SMMC|South Mountain Merger Corp. - Class A Common Stock
 SMMCU,SMMCU|South Mountain Merger Corp. - Unit
 SMMCW,SMMCW|South Mountain Merger Corp. - Warrants
 SMMF,SMMF|Summit Financial Group, Inc. - Common Stock
-SMMT,SMMT|Summit Therapeutics plc - American Depositary Shares
+SMMT,SMMT|Summit Therapeutics Inc.  - Common Stock
 SMPL,SMPL|The Simply Good Foods Company - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
