@@ -1536,7 +1536,6 @@ GTN,GTN|Gray Television, Inc. Common Stock
 GTN.A,GTN.A|Gray Television, Inc. CLass A Common Stock
 GTS,GTS|Triple-S Management Corporation Class B Common Stock
 GTT,GTT|GTT Communications, Inc. Common Stock
-GTX,GTX|Garrett Motion Inc. Common Stock 
 GTY,GTY|Getty Realty Corporation Common Stock
 GUT,GUT|Gabelli Utility Trust (The) Common Stock
 GUT$A,GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares
@@ -1987,7 +1986,7 @@ LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
 LTC,LTC|LTC Properties, Inc. Common Stock
 LTHM,LTHM|Livent Corporation Common Stock
 LUB,LUB|Luby's, Inc. Common Stock
-LUMN,LUMN|CenturyLink, Inc. Common Stock
+LUMN,LUMN|CenturyLink, Inc. d/b/a Lumen Technologies, Inc. Common Stock
 LUV,LUV|Southwest Airlines Company Common Stock
 LVS,LVS|Las Vegas Sands Corp. Common Stock
 LW,LW|Lamb Weston Holdings, Inc. Common Stock 
@@ -2617,6 +2616,7 @@ PMO,PMO|Putnam Municipal Opportunities Trust Common Stock
 PMT,PMT|PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
 PMT$A,PMT$A|PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest
 PMT$B,PMT$B|PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest
+PMVC.U,PMVC.U|PMV Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 PMX,PMX|PIMCO Municipal Income Fund III Common Shares of Beneficial Interest
 PNC,PNC|PNC Financial Services Group, Inc. (The) Common Stock
 PNC$P,PNC$P|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P
@@ -4620,6 +4620,7 @@ FBMS,FBMS|The First Bancshares, Inc. - Common Stock
 FBNC,FBNC|First Bancorp - Common Stock
 FBRX,FBRX|Forte Biosciences, Inc.  - Common Stock
 FBSS,FBSS|Fauquier Bankshares, Inc. - Common Stock
+FCACU,FCACU|Falcon Capital Acquisition Corp. - Unit
 FCAP,FCAP|First Capital, Inc. - Common Stock
 FCBC,FCBC|First Community Bankshares, Inc. - Common Stock
 FCBP,FCBP|First Choice Bancorp - Common Stock
@@ -5479,7 +5480,6 @@ MIRM,MIRM|Mirum Pharmaceuticals, Inc. - common stock
 MIST,MIST|Milestone Pharmaceuticals Inc. - Common Shares
 MITK,MITK|Mitek Systems, Inc. - Common Stock
 MITO,MITO|Stealth BioTherapeutics Corp. - American Depositary Shares
-MJCO,MJCO|Majesco - Common Stock
 MKD,MKD|Molecular Data Inc. - ADS
 MKGI,MKGI|Monaker Group, Inc. - Common Stock
 MKSI,MKSI|MKS Instruments, Inc. - Common Stock
@@ -5630,7 +5630,9 @@ NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stoc
 NGHCZ,NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055
 NGM,NGM|NGM Biopharmaceuticals, Inc. - Common Stock
 NH,NH|NantHealth, Inc. - Common Stock
+NHIC,NHIC|NewHold Investment Corp. - Class A Common Stock
 NHICU,NHICU|NewHold Investment Corp. - Unit
+NHICW,NHICW|NewHold Investment Corp. - Warrant
 NHLD,NHLD|National Holdings Corporation - Common Stock
 NHLDW,NHLDW|National Holdings Corporation - Warrants
 NHTC,NHTC|Natural Health Trends Corp. - Commn Stock
