@@ -198,6 +198,7 @@ AON,AON|Aon plc Class A Ordinary Shares (Ireland)
 AONE.U,AONE.U|one Units, each consisting of one Class A Ordinary Share, and one third of one Warrant to acquire one Class A Ordinary Share
 AOS,AOS|A.O. Smith Corporation Common Stock
 AP,AP|Ampco-Pittsburgh Corporation Common Stock
+AP.W,AP.W|Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock
 APAM,APAM|Artisan Partners Asset Management Inc. Class A Common Stock
 APD,APD|Air Products and Chemicals, Inc. Common Stock
 APG,APG|APi Group Corporation Common Stock
@@ -251,6 +252,7 @@ ASGN,ASGN|ASGN Incorporated Common Stock
 ASH,ASH|Ashland Global Holdings Inc. Common Stock
 ASIX,ASIX|AdvanSix Inc. Common Stock 
 ASM,ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)
+ASPL.U,ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ASPN,ASPN|Aspen Aerogels, Inc. Common Stock
 ASR,ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASX,ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
@@ -1150,10 +1152,10 @@ ERC,ERC|Wells Fargo Multi-Sector Income Fund Common Stock, no par value
 ERF,ERF|Enerplus Corporation Common Stock
 ERH,ERH|Wells Fargo Utilities and High Income Fund
 ERJ,ERJ|Embraer S.A. Common Stock
-EROS,EROS|Eros International PLC A Ordinary Shares
 ES,ES|Eversource Energy (D/B/A) Common Stock
 ESBA,ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests
 ESE,ESE|ESCO Technologies Inc. Common Stock
+ESGC,ESGC|Eros STX Global Corporation A Ordinary Shares
 ESI,ESI|Element Solutions Inc. Common Stock
 ESNT,ESNT|Essent Group Ltd. Common Shares
 ESP,ESP|Espey Mfg. & Electronics Corp. Common Stock
@@ -1202,6 +1204,7 @@ EW,EW|Edwards Lifesciences Corporation Common Stock
 EXD,EXD|Eaton Vance Tax-Managed Buy-Write Strategy Fund Common Shares of Beneficial Interest
 EXG,EXG|Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest
 EXK,EXK|Endeavour Silver Corporation Ordinary Shares (Canada)
+EXN,EXN|Excellon Resources Inc. Common Shares
 EXP,EXP|Eagle Materials Inc Common Stock
 EXPR,EXPR|Express, Inc. Common Stock
 EXR,EXR|Extra Space Storage Inc Common Stock
@@ -1981,6 +1984,7 @@ LPI,LPI|Laredo Petroleum, Inc. Common Stock
 LPL,LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPX,LPX|Louisiana-Pacific Corporation Common Stock
 LRN,LRN|K12 Inc Common Stock
+LSF,LSF|Laird Superfood, Inc. Common Stock
 LSI,LSI|Life Storage, Inc. Common Stock
 LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
 LTC,LTC|LTC Properties, Inc. Common Stock
@@ -2248,6 +2252,7 @@ NEE$K,NEE$K|NextEra Energy, Inc. Series K Junior Subordinated Debentures due Jun
 NEE$N,NEE$N|NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079
 NEE$O,NEE$O|NextEra Energy, Inc. 4.872% Corporate Units
 NEE$P,NEE$P|NextEra Energy, Inc. 5.279% Corporate Units
+NEE$Q,NEE$Q|NextEra Energy, Inc. 6.219% Corporate Units
 NEM,NEM|Newmont Corporation
 NEN,NEN|New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership
 NEP,NEP|NextEra Energy Partners, LP Common Units representing limited partner interests
@@ -2589,7 +2594,6 @@ PINE,PINE|Alpine Income Property Trust, Inc. Common Stock
 PING,PING|Ping Identity Holding Corp. Common Stock
 PINS,PINS|Pinterest, Inc. Class A Common Stock
 PIPR,PIPR|Piper Sandler Companies Common Stock
-PJH,PJH|Prudential Financial, Inc. 5.75% Junior Subordinated Notes due 2052
 PJT,PJT|PJT Partners Inc. Class A Common Stock
 PK,PK|Park Hotels & Resorts Inc. Common Stock 
 PKE,PKE|Park Aerospace Corp. Common Stock
@@ -2639,7 +2643,6 @@ PRE$G,PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares
 PRE$H,PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value
 PRE$I,PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value
 PRGO,PRGO|Perrigo Company plc Ordinary Shares
-PRH,PRH|Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053
 PRI,PRI|Primerica, Inc. Common Stock
 PRIF$A,PRIF$A|Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025
 PRIF$B,PRIF$B|Priority Income Fund, Inc. 6.25% Series B Term Preferred Stock due 2023,  par value $0.01 per share
@@ -2690,7 +2693,9 @@ PSTL,PSTL|Postal Realty Trust, Inc. Class A Common Stock
 PSV,PSV|Hermitage Offshore Services Ltd. Ordinary Shares (Bermuda)
 PSX,PSX|Phillips 66 Common Stock
 PSXP,PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership
+PTK,PTK|PTK Acquisition Corp. Common Stock
 PTK.U,PTK.U|PTK Acquisition Corp. Units
+PTK.W,PTK.W|PTK Acquisition Corp. Warrants, each whole warrant exercisable for one half (1/2) of a share of Common Stock at an exercise price of $11.50
 PTN,PTN|Palatin Technologies, Inc. Common Stock
 PTR,PTR|PetroChina Company Limited Common Stock
 PTY,PTY|Pimco Corporate & Income Opportunity Fund
@@ -3004,6 +3009,7 @@ SOJA,SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes du
 SOJB,SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076
 SOJC,SOJC|Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077
 SOJD,SOJD|Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080
+SOJE,SOJE|Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060
 SOL,SOL|Renesola Ltd. American Depsitary Shares (Each representing 10 shares)
 SOLN,SOLN|Southern Company (The) 2019 Series A Corporate Units
 SON,SON|Sonoco Products Company Common Stock
@@ -3620,6 +3626,7 @@ ACOR,ACOR|Acorda Therapeutics, Inc. - Common Stock
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc. - Class A Common Stock
+ACTCU,ACTCU|ArcLight Clean Transition Corp. - Unit
 ACTG,ACTG|Acacia Research Corporation - Common Stock
 ADAP,ADAP|Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE,ADBE|Adobe Inc. - Common Stock
@@ -4053,6 +4060,7 @@ BSQR,BSQR|BSQUARE Corporation - Common Stock
 BSRR,BSRR|Sierra Bancorp - Common Stock
 BSTC,BSTC|BioSpecifics Technologies Corp - Common Stock
 BSVN,BSVN|Bank7 Corp. - Common stock
+BSY,BSY|Bentley Systems, Incorporated - Class B Common Stock
 BTAI,BTAI|BioXcel Therapeutics, Inc. - Common Stock
 BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
 BTBT,BTBT|Golden Bull Limited - Ordinary Share
@@ -4319,6 +4327,7 @@ CRSA,CRSA|Crescent Acquisition Corp - Class A Common Stock
 CRSAU,CRSAU|Crescent Acquisition Corp - Unit
 CRSAW,CRSAW|Crescent Acquisition Corp - Warrant
 CRSP,CRSP|CRISPR Therapeutics AG - Common Shares
+CRSR,CRSR|Corsair Gaming, Inc. - Common Stock
 CRTD,CRTD|Creatd Inc. - Common Stock
 CRTDW,CRTDW|Creatd Inc. - Warrant
 CRTO,CRTO|Criteo S.A. - American Depositary Shares
@@ -4776,6 +4785,7 @@ GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCBC,GCBC|Greene County Bancorp, Inc. - Common Stock
 GDEN,GDEN|Golden Entertainment, Inc. - Common Stock
+GDRX,GDRX|GoodRx Holdings, Inc. - Class A Common Stock
 GDS,GDS|GDS Holdings Limited - American Depositary Shares
 GDYN,GDYN|Grid Dynamics Holdings, Inc. - Class A Common Stock
 GDYNW,GDYNW|Grid Dynamics Holdings, Inc. - Warrant
@@ -6661,6 +6671,7 @@ VIACA,VIACA|ViacomCBS Inc. - Class A Common Stock
 VIAV,VIAV|Viavi Solutions Inc. - Common Stock
 VICR,VICR|Vicor Corporation - Common Stock
 VIE,VIE|Viela Bio, Inc. - Common Stock
+VIHAU,VIHAU|VPC Impact Acquisition Holdings - Unit
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock

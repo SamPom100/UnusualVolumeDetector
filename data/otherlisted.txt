@@ -238,6 +238,7 @@ AONE.U|one Units, each consisting of one Class A Ordinary Share, and one third o
 AOR|iShares Core Growth Allocation ETF|P|AOR|Y|100|N|AOR
 AOS|A.O. Smith Corporation Common Stock|N|AOS|N|100|N|AOS
 AP|Ampco-Pittsburgh Corporation Common Stock|N|AP|N|100|N|AP
+AP.W|Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock|A|AP.WS|N|100|N|AP+
 APAM|Artisan Partners Asset Management Inc. Class A Common Stock|N|APAM|N|100|N|APAM
 APD|Air Products and Chemicals, Inc. Common Stock|N|APD|N|100|N|APD
 APG|APi Group Corporation Common Stock|N|APG|N|100|N|APG
@@ -304,6 +305,7 @@ ASHS|Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF|P|ASHS|Y|100|N|ASHS
 ASHX|Xtrackers MSCI China A Inclusion Equity ETF|P|ASHX|Y|100|N|ASHX
 ASIX|AdvanSix Inc. Common Stock |N|ASIX|N|100|N|ASIX
 ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)|A|ASM|N|100|N|ASM
+ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ASPL.U|N|100|N|ASPL=
 ASPN|Aspen Aerogels, Inc. Common Stock|N|ASPN|N|100|N|ASPN
 ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock|N|ASR|N|100|N|ASR
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
@@ -1527,7 +1529,6 @@ ERF|Enerplus Corporation Common Stock|N|ERF|N|100|N|ERF
 ERH|Wells Fargo Utilities and High Income Fund|A|ERH|N|100|N|ERH
 ERJ|Embraer S.A. Common Stock|N|ERJ|N|100|N|ERJ
 ERM|EquityCompass Risk Manager ETF|P|ERM|Y|100|N|ERM
-EROS|Eros International PLC A Ordinary Shares|N|EROS|N|100|N|EROS
 ERSX|ERShares Non-US Small Cap ETF|P|ERSX|Y|100|N|ERSX
 ERUS|iShares MSCI iShares MSCI Russia ETF |P|ERUS|Y|100|N|ERUS
 ERX|Direxion Energy Bull 2X Shares|P|ERX|Y|100|N|ERX
@@ -1539,6 +1540,7 @@ ESE|ESCO Technologies Inc. Common Stock|N|ESE|N|100|N|ESE
 ESEB|Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF|Z|ESEB|Y|100|N|ESEB
 ESG|FlexShares Trust FlexShares STOXX US ESG Impact Index Fund|Z|ESG|Y|100|N|ESG
 ESGA|American Century Sustainable Equity ETF|P|ESGA|Y|100|N|ESGA
+ESGC|Eros STX Global Corporation A Ordinary Shares|N|ESGC|N|100|N|ESGC
 ESGG|FlexShares Trust FlexShares STOXX Global ESG Impact Index Fund|Z|ESGG|Y|100|N|ESGG
 ESGN|Columbia Sustainable International Equity Income ETF|P|ESGN|Y|100|N|ESGN
 ESGS|Columbia Sustainable U.S. Equity Income ETF|P|ESGS|Y|100|N|ESGS
@@ -1634,6 +1636,7 @@ EXD|Eaton Vance Tax-Managed Buy-Write Strategy Fund Common Shares of Beneficial 
 EXG|Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest|N|EXG|N|100|N|EXG
 EXI|iShares Global Industrials ETF|P|EXI|Y|100|N|EXI
 EXK|Endeavour Silver Corporation Ordinary Shares (Canada)|N|EXK|N|100|N|EXK
+EXN|Excellon Resources Inc. Common Shares|A|EXN|N|100|N|EXN
 EXP|Eagle Materials Inc Common Stock|N|EXP|N|100|N|EXP
 EXPR|Express, Inc. Common Stock|N|EXPR|N|100|N|EXPR
 EXR|Extra Space Storage Inc Common Stock|N|EXR|N|100|N|EXR
@@ -2999,6 +3002,7 @@ LRGF|iShares MSCI USA Multifactor ETF|P|LRGF|Y|100|N|LRGF
 LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
 LRNZ|TrueShares Technology, AI & Deep Learning ETF|P|LRNZ|Y|100|N|LRNZ
 LSAF|LeaderShares AlphaFactor US Core Equity ETF|P|LSAF|Y|100|N|LSAF
+LSF|Laird Superfood, Inc. Common Stock|A|LSF|N|100|N|LSF
 LSI|Life Storage, Inc. Common Stock|N|LSI|N|100|N|LSI
 LSLT|Salt Low truBeta US Market ETF|Z|LSLT|Y|100|N|LSLT
 LSPD|Lightspeed POS Inc. Subordinate Voting Shares|N|LSPD|N|100|N|LSPD
@@ -3333,6 +3337,7 @@ NEE$K|NextEra Energy, Inc. Series K Junior Subordinated Debentures due June 1, 2
 NEE$N|NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079|N|NEEpN|N|100|N|NEE-N
 NEE$O|NextEra Energy, Inc. 4.872% Corporate Units|N|NEEpO|N|100|N|NEE-O
 NEE$P|NextEra Energy, Inc. 5.279% Corporate Units|N|NEEpP|N|100|N|NEE-P
+NEE$Q|NextEra Energy, Inc. 6.219% Corporate Units|N|NEEpQ|N|100|N|NEE-Q
 NEED|Direxion Daily Consumer Staples Bull 3X Shares|P|NEED|Y|100|N|NEED
 NEM|Newmont Corporation|N|NEM|N|100|N|NEM
 NEN|New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership|A|NEN|N|100|N|NEN
@@ -3776,7 +3781,6 @@ PING|Ping Identity Holding Corp. Common Stock|N|PING|N|100|N|PING
 PINS|Pinterest, Inc. Class A Common Stock|N|PINS|N|100|N|PINS
 PIPR|Piper Sandler Companies Common Stock|N|PIPR|N|100|N|PIPR
 PJAN|Innovator S&P 500 Power Buffer ETF - January|Z|PJAN|Y|100|N|PJAN
-PJH|Prudential Financial, Inc. 5.75% Junior Subordinated Notes due 2052|N|PJH|N|100|N|PJH
 PJP|Invesco Dynamic Pharmaceuticals ETF|P|PJP|Y|100|N|PJP
 PJT|PJT Partners Inc. Class A Common Stock|N|PJT|N|100|N|PJT
 PJUL|Innovator S&P 500 Power Buffer ETF - July|Z|PJUL|Y|100|N|PJUL
@@ -3851,7 +3855,6 @@ PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares,
 PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
 PRF|Invesco FTSE RAFI US 1000 ETF|P|PRF|Y|100|N|PRF
 PRGO|Perrigo Company plc Ordinary Shares|N|PRGO|N|100|N|PRGO
-PRH|Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053|N|PRH|N|100|N|PRH
 PRI|Primerica, Inc. Common Stock|N|PRI|N|100|N|PRI
 PRIF$A|Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025|N|PRIFpA|N|100|N|PRIF-A
 PRIF$B|Priority Income Fund, Inc. 6.25% Series B Term Preferred Stock due 2023,  par value $0.01 per share|N|PRIFpB|N|100|N|PRIF-B
@@ -3919,7 +3922,9 @@ PSXP|Phillips 66 Partners LP Common Units representing limited partner interest 
 PTBD|Pacer Trendpilot US Bond ETF|P|PTBD|Y|100|N|PTBD
 PTEU|Pacer TrendpilotTM European Index ETF|Z|PTEU|Y|100|N|PTEU
 PTIN|Pacer Trendpilot International ETF|P|PTIN|Y|100|N|PTIN
+PTK|PTK Acquisition Corp. Common Stock|A|PTK|N|100|N|PTK
 PTK.U|PTK Acquisition Corp. Units|A|PTK.U|N|100|N|PTK=
+PTK.W|PTK Acquisition Corp. Warrants, each whole warrant exercisable for one half (1/2) of a share of Common Stock at an exercise price of $11.50|A|PTK.WS|N|100|N|PTK+
 PTLC|Pacer Fund Trust Pacer Trendpilot US Large Cap ETF|Z|PTLC|Y|100|N|PTLC
 PTMC|Pacer Trendpilot US Mid Cap ETF|Z|PTMC|Y|100|N|PTMC
 PTN|Palatin Technologies, Inc. Common Stock|A|PTN|N|100|N|PTN
@@ -4460,6 +4465,7 @@ SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes due Oct
 SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076|N|SOJB|N|100|N|SOJB
 SOJC|Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077|N|SOJC|N|100|N|SOJC
 SOJD|Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080|N|SOJD|N|100|N|SOJD
+SOJE|Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060|N|SOJE|N|100|N|SOJE
 SOL|Renesola Ltd. American Depsitary Shares (Each representing 10 shares)|N|SOL|N|100|N|SOL
 SOLN|Southern Company (The) 2019 Series A Corporate Units|N|SOLN|N|100|N|SOLN
 SON|Sonoco Products Company Common Stock|N|SON|N|100|N|SON
@@ -5422,4 +5428,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0922202015:41||||||
+File Creation Time: 0923202012:11||||||
