@@ -1254,6 +1254,7 @@ FFC,FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FFEU,FFEU|Barclays ETN  FI Enhanced Europe 50 Exchange Traded Notes Series C
 FFG,FFG|FBL Financial Group, Inc. Common Stock
 FGB,FGB|First Trust Specialty Finance and Financial Opportunities Fund
+FGNA.U,FGNA.U|FG New America Acquisition Corp. Units
 FHI,FHI|Federated Hermes, Inc. Common Stock
 FHN,FHN|First Horizon National Corporation Common Stock
 FHN$A,FHN$A|First Horizon National Corporation Depositary Shares
@@ -1346,6 +1347,7 @@ FTS,FTS|Fortis Inc. Common Shares
 FTSI,FTSI|FTS International, Inc. Common Stock
 FTV,FTV|Fortive Corporation Common Stock 
 FTV$A,FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A
+FTV.V,FTV.V|Fortive Corporation Common Stock Ex-Distribution When Issued
 FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
 FUL,FUL|H. B. Fuller Company Common Stock
@@ -2535,6 +2537,7 @@ PCPL.U,PCPL.U|CC Neuberger Principal Holdings I Units, each consisting of one Cl
 PCPL.W,PCPL.W|CC Neuberger Principal Holdings I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PCQ,PCQ|PIMCO California Municipal Income Fund Common Stock
 PD,PD|PagerDuty, Inc. Common Stock
+PDAC.U,PDAC.U|Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDS,PDS|Precision Drilling Corporation Common Stock
@@ -2690,7 +2693,6 @@ PSTG,PSTG|Pure Storage, Inc. Class A Common Stock
 PSTH,PSTH|Pershing Square Tontine Holdings, Ltd. Class A Common Stock
 PSTH.W,PSTH.W|Pershing Square Tontine Holdings, Ltd. Warrants, exercisable for one share of Class A Common Stock for $23.00 per share
 PSTL,PSTL|Postal Realty Trust, Inc. Class A Common Stock
-PSV,PSV|Hermitage Offshore Services Ltd. Ordinary Shares (Bermuda)
 PSX,PSX|Phillips 66 Common Stock
 PSXP,PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership
 PTK,PTK|PTK Acquisition Corp. Common Stock
@@ -3413,6 +3415,7 @@ VNO$K,VNO$K|Vornado Realty Trust Pfd S K
 VNO$L,VNO$L|Vornado Realty Trust Pfd Ser L %
 VNO$M,VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share
 VNRX,VNRX|VolitionRX Limited Common Stock
+VNT.V,VNT.V|Vontier Corporation Common Stock When Issued
 VNTR,VNTR|Venator Materials PLC Ordinary Shares
 VOC,VOC|VOC Energy Trust Units of Beneficial Interest
 VOLT,VOLT|Volt Information Sciences, Inc. Common Stock
@@ -3516,6 +3519,7 @@ WRB$C,WRB$C|W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056
 WRB$D,WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056
 WRB$E,WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058
 WRB$F,WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059
+WRB$G,WRB$G|W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060
 WRE,WRE|Washington Real Estate Investment Trust Common Stock
 WRI,WRI|Weingarten Realty Investors Common Stock
 WRK,WRK|Westrock Company Common Stock
@@ -3556,7 +3560,9 @@ XXII,XXII|22nd Century Group, Inc. Common Stock
 XYF,XYF|X Financial American Depositary Shares, each representing two Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
+YAC,YAC|Yucaipa Acquisition Corporation Class A Ordinary Shares
 YAC.U,YAC.U|Yucaipa Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+YAC.W,YAC.W|Yucaipa Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 YCBD,YCBD|cbdMD, Inc. Common Stock
 YCBD$A,YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock
 YELP,YELP|Yelp Inc. Common Stock
@@ -4238,7 +4244,6 @@ CLRO,CLRO|ClearOne, Inc. - Common Stock
 CLSD,CLSD|Clearside Biomedical, Inc. - Common Stock
 CLSK,CLSK|CleanSpark, Inc. - Common Stock
 CLSN,CLSN|Celsion Corporation - Common Stock
-CLUB,CLUB|Town Sports International Holdings, Inc. - Common Stock
 CLVS,CLVS|Clovis Oncology, Inc. - Common Stock
 CLWT,CLWT|Euro Tech Holdings Company Limited - Ordinary Shares
 CLXT,CLXT|Calyxt, Inc. - Common Stock
@@ -6565,6 +6570,7 @@ TSCAP,TSCAP|TriState Capital Holdings, Inc. - Dep Shs Rep 1/40th Int 6.75% Srs A
 TSCBP,TSCBP|TriState Capital Holdings, Inc. - Depositary Share, representing a 1/40th Interest in a Share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 TSCO,TSCO|Tractor Supply Company - Common Stock
 TSEM,TSEM|Tower Semiconductor Ltd. - Ordinary Shares
+TSHA,TSHA|Taysha Gene Therapies, Inc. - Common Stock
 TSLA,TSLA|Tesla, Inc.  - Common Stock
 TSRI,TSRI|TSR, Inc. - Common Stock
 TTD,TTD|The Trade Desk, Inc. - Class A Common Stock

@@ -523,6 +523,7 @@ BIF|Boulder Growth & Income Fund, Inc.|N|BIF|N|100|N|BIF
 BIG|Big Lots, Inc. Common Stock|N|BIG|N|100|N|BIG
 BIL|SPDR Bloomberg Barclays 1-3 Month T-Bill ETF|P|BIL|Y|100|N|BIL
 BILL|Bill.com Holdings, Inc. Common Stock|N|BILL|N|100|N|BILL
+BILS|SPDR Bloomberg Barclays 3-12 Month T-Bill ETF|P|BILS|Y|100|N|BILS
 BIO|Bio-Rad Laboratories, Inc. Class A Common Stock|N|BIO|N|100|N|BIO
 BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock|N|BIO.B|N|100|N|BIO.B
 BIOX|Bioceres Crop Solutions Corp. Ordinary Shares|A|BIOX|N|100|N|BIOX
@@ -559,6 +560,7 @@ BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKTI|BK Technologies Corporation Common Stock|A|BKTI|N|100|N|BKTI
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
 BLD|TopBuild Corp. Common Stock|N|BLD|N|100|N|BLD
+BLDG|Cambria Global Real Estate ETF|Z|BLDG|Y|100|N|BLDG
 BLE|BlackRock Municipal Income Trust II|N|BLE|N|100|N|BLE
 BLES|Inspire Global Hope ETF|P|BLES|Y|100|N|BLES
 BLHY|Virtus Newfleet Dynamic Credit|P|BLHY|Y|100|N|BLHY
@@ -1729,6 +1731,7 @@ FFTI|FormulaFolios Tactical Income ETF|Z|FFTI|Y|100|N|FFTI
 FFTY|Innovator IBD 50 ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
+FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
 FHN|First Horizon National Corporation Common Stock|N|FHN|N|100|N|FHN
@@ -1917,6 +1920,7 @@ FTSD|Franklin Liberty Short Duration U.S. Government ETF|P|FTSD|Y|100|N|FTSD
 FTSI|FTS International, Inc. Common Stock|A|FTSI|N|100|N|FTSI
 FTV|Fortive Corporation Common Stock |N|FTV|N|100|N|FTV
 FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A|N|FTVpA|N|100|N|FTV-A
+FTV.V|Fortive Corporation Common Stock Ex-Distribution When Issued|N|FTVw|N|100|N|FTV#
 FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN|P|FUD|N|100|N|FUD
 FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return|P|FUE|N|100|N|FUE
 FUL|H. B. Fuller Company Common Stock|N|FUL|N|100|N|FUL
@@ -2126,6 +2130,7 @@ GOLF|Acushnet Holdings Corp. Common Stock|N|GOLF|N|100|N|GOLF
 GOOS|Canada Goose Holdings Inc. Subordinate Voting Shares|N|GOOS|N|100|N|GOOS
 GORO|Gold Resource Corporation Common Stock|A|GORO|N|100|N|GORO
 GOVT|iShares U.S. Treasury Bond ETF|Z|GOVT|Y|100|N|GOVT
+GOVZ|iShares 25  Year Treasury STRIPS Bond ETF|Z|GOVZ|Y|100|N|GOVZ
 GPC|Genuine Parts Company Common Stock|N|GPC|N|100|N|GPC
 GPI|Group 1 Automotive, Inc. Common Stock|N|GPI|N|100|N|GPI
 GPJA|Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077|N|GPJA|N|100|N|GPJA
@@ -3696,6 +3701,7 @@ PCPL.W|CC Neuberger Principal Holdings I Warrants, each whole warrant exercisabl
 PCQ|PIMCO California Municipal Income Fund Common Stock|N|PCQ|N|100|N|PCQ
 PCY|Invesco Emerging Markets Sovereign Debt ETF|P|PCY|Y|100|N|PCY
 PD|PagerDuty, Inc. Common Stock|N|PD|N|100|N|PD
+PDAC.U|Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|PDAC.U|N|100|N|PDAC=
 PDEC|Innovator S&P 500 Power Buffer ETF - December|Z|PDEC|Y|100|N|PDEC
 PDI|PIMCO Dynamic Income Fund Common Stock|N|PDI|N|100|N|PDI
 PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock|N|PDM|N|100|N|PDM
@@ -3916,7 +3922,6 @@ PSTG|Pure Storage, Inc. Class A Common Stock|N|PSTG|N|100|N|PSTG
 PSTH|Pershing Square Tontine Holdings, Ltd. Class A Common Stock|N|PSTH|N|100|N|PSTH
 PSTH.W|Pershing Square Tontine Holdings, Ltd. Warrants, exercisable for one share of Class A Common Stock for $23.00 per share|N|PSTH.WS|N|100|N|PSTH+
 PSTL|Postal Realty Trust, Inc. Class A Common Stock|N|PSTL|N|100|N|PSTL
-PSV|Hermitage Offshore Services Ltd. Ordinary Shares (Bermuda)|N|PSV|N|100|N|PSV
 PSX|Phillips 66 Common Stock|N|PSX|N|100|N|PSX
 PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership|N|PSXP|N|100|N|PSXP
 PTBD|Pacer Trendpilot US Bond ETF|P|PTBD|Y|100|N|PTBD
@@ -5064,6 +5069,7 @@ VBF|Invesco Bond Fund Common Stock|N|VBF|N|100|N|VBF
 VBK|Vanguard Small-Cap Growth ETF|P|VBK|Y|100|N|VBK
 VBND|ETF Series Solutions Trust Vident Core U.S. Bond Strategy Fund|P|VBND|Y|100|N|VBND
 VBR|Vanguard Small-Cap Value ETF|P|VBR|Y|100|N|VBR
+VCEB|Vanguard World Funds ETF|Z|VCEB|Y|100|N|VCEB
 VCF|Delaware Investments Colorado Municipal Income Fund, Inc  Common Stock|A|VCF|N|100|N|VCF
 VCIF|Vertical Capital Income Fund Common Shares of Beneficial Interest|N|VCIF|N|100|N|VCIF
 VCR|Vanguard Consumer Discretion ETF|P|VCR|Y|100|N|VCR
@@ -5140,6 +5146,7 @@ VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares
 VNQ|Vanguard Real Estate ETF|P|VNQ|Y|100|N|VNQ
 VNRX|VolitionRX Limited Common Stock|A|VNRX|N|100|N|VNRX
 VNSE|Natixis Vaughan Nelson Select ETF|P|VNSE|Y|100|N|VNSE
+VNT.V|Vontier Corporation Common Stock When Issued|N|VNTw|N|100|N|VNT#
 VNTR|Venator Materials PLC Ordinary Shares|N|VNTR|N|100|N|VNTR
 VO|Vanguard Mid-Cap ETF|P|VO|Y|100|N|VO
 VOC|VOC Energy Trust Units of Beneficial Interest|N|VOC|N|100|N|VOC
@@ -5290,6 +5297,7 @@ WRB$C|W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056|N|WRBpC|N
 WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056|N|WRBpD|N|100|N|WRB-D
 WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058|N|WRBpE|N|100|N|WRB-E
 WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059|N|WRBpF|N|100|N|WRB-F
+WRB$G|W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060|N|WRBpG|N|100|N|WRB-G
 WRE|Washington Real Estate Investment Trust Common Stock|N|WRE|N|100|N|WRE
 WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
 WRK|Westrock Company Common Stock|N|WRK|N|100|N|WRK
@@ -5333,6 +5341,8 @@ XHR|Xenia Hotels & Resorts, Inc. Common Stock|N|XHR|N|100|N|XHR
 XHS|SPDR S&P Health Care Services ETF|P|XHS|Y|100|N|XHS
 XIN|Xinyuan Real Estate Co Ltd American Depositary Shares|N|XIN|N|100|N|XIN
 XITK|SPDR FactSet Innovative Technology ETF|P|XITK|Y|100|N|XITK
+XJH|iShares ESG Screened S&P Mid-Cap ETF|Z|XJH|Y|100|N|XJH
+XJR|iShares ESG Screened S&P Small-Cap ETF|Z|XJR|Y|100|N|XJR
 XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
 XLC|The Communication Services Select Sector SPDR Fund|P|XLC|Y|100|N|XLC
 XLE|SPDR Select Sector Fund - Energy Select Sector|P|XLE|Y|100|N|XLE
@@ -5375,6 +5385,7 @@ XSW|SPDR S&P Software & Services ETF|P|XSW|Y|100|N|XSW
 XTL|SPDR S&P Telecom ETF|P|XTL|Y|100|N|XTL
 XTN|SPDR S&P Transportation ETF|P|XTN|Y|100|N|XTN
 XTNT|Xtant Medical Holdings, Inc. Common Stock|A|XTNT|N|100|N|XTNT
+XVV|iShares ESG Screened S&P 500 ETF|Z|XVV|Y|100|N|XVV
 XVZ|iPath S&P 500 Dynamic VIX ETN|Z|XVZ|N|100|N|XVZ
 XWEB|SPDR S&P Internet ETF|P|XWEB|Y|100|N|XWEB
 XXII|22nd Century Group, Inc. Common Stock|A|XXII|N|100|N|XXII
@@ -5383,7 +5394,9 @@ XYL|Xylem Inc. Common Stock New|N|XYL|N|100|N|XYL
 XYLD|Global X Funds Global X S&P 500 Covered Call ETF|P|XYLD|Y|100|N|XYLD
 XYLG|Global X S&P 500 Covered Call & Growth ETF|P|XYLG|Y|100|N|XYLG
 Y|Alleghany Corporation Common Stock|N|Y|N|100|N|Y
+YAC|Yucaipa Acquisition Corporation Class A Ordinary Shares|N|YAC|N|100|N|YAC
 YAC.U|Yucaipa Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|YAC.U|N|100|N|YAC=
+YAC.W|Yucaipa Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|YAC.WS|N|100|N|YAC+
 YANG|Direxion Daily FTSE China Bear 3x Shares|P|YANG|Y|100|N|YANG
 YCBD|cbdMD, Inc. Common Stock|A|YCBD|N|100|N|YCBD
 YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock|A|YCBDpA|N|100|N|YCBD-A
@@ -5428,4 +5441,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0923202015:41||||||
+File Creation Time: 0924202015:41||||||
