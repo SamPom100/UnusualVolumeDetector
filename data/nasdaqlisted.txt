@@ -186,6 +186,7 @@ AMRN|Amarin Corporation plc - American Depositary Shares, each representing one 
 AMRS|Amyris, Inc. - Common Stock|Q|N|D|100|N|N
 AMSC|American Superconductor Corporation - Common Stock|Q|N|N|100|N|N
 AMSF|AMERISAFE, Inc. - Common Stock|Q|N|N|100|N|N
+AMST|Amesite Inc. - Common Stock|S|N|N|100|N|N
 AMSWA|American Software, Inc. - Class A Common Stock|Q|N|N|100|N|N
 AMTB|Amerant Bancorp Inc. - Class A Common Stock|Q|N|N|100|N|N
 AMTBB|Amerant Bancorp Inc. - Class B Common Stock|Q|N|N|100|N|N
@@ -344,7 +345,8 @@ AY|Atlantica Sustainable Infrastructure plc - Ordinary Shares|Q|N|N|100|N|N
 AYLA|Ayala Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 AYRO|AYRO, Inc. - Common Stock|S|N|N|100|N|N
 AYTU|Aytu BioScience, Inc. - Common Stock|S|N|N|100|N|N
-AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100|N|N
+AZN|AstraZeneca PLC - American Depositary Shares|Q|N|N|100|N|N
+AZPN|Aspen Technology, Inc. - Common Stock|Q|N|E|100|N|N
 AZRX|AzurRx BioPharma, Inc. - Common Stock|S|N|D|100|N|N
 BAND|Bandwidth Inc. - Class A Common Stock|Q|N|N|100|N|N
 BANF|BancFirst Corporation - Common Stock|Q|N|N|100|N|N
@@ -1344,6 +1346,7 @@ FTFT|Future FinTech Group Inc. - Common Stock|S|N|N|100|N|N
 FTGC|First Trust Global Tactical Commodity Strategy Fund|G|N|N|100|Y|N
 FTHI|First Trust BuyWrite Income ETF|G|N|N|100|Y|N
 FTHM|Fathom Holdings Inc. - Common Stock|S|N|N|100|N|N
+FTIVU|FinTech Acquisition Corp. IV - Unit|S|N|N|100|N|N
 FTLB|First Trust Hedged BuyWrite Income ETF|G|N|N|100|Y|N
 FTNT|Fortinet, Inc. - Common Stock|Q|N|N|100|N|N
 FTOCU|FTAC Olympus Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -1440,6 +1443,7 @@ GLNG|Golar LNG Limited - Common Shares|Q|N|N|100|N|N
 GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100|N|N
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100|N|N
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100|N|N
+GLSI|Greenwich LifeSciences, Inc. - Common stock|S|N|N|100|N|N
 GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100|N|N
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100|N|N
 GMAB|Genmab A/S - American Depositary Shares|Q|N|N|100|N|N
@@ -1475,11 +1479,14 @@ GOODN|Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable P
 GOOG|Alphabet Inc. - Class C Capital Stock|Q|N|N|100|N|N
 GOOGL|Alphabet Inc. - Class A Common Stock|Q|N|N|100|N|N
 GOSS|Gossamer Bio, Inc. - Common Stock|Q|N|N|100|N|N
+GOVX|GeoVax Labs, Inc. - Common Stock|S|N|N|100|N|N
+GOVXW|GeoVax Labs, Inc. - Warrants|S|N|N|100|N|N
 GP|GreenPower Motor Company Inc. - Common Shares|S|N|N|100|N|N
 GPOR|Gulfport Energy Corporation - Common Stock|Q|N|N|100|N|N
 GPP|Green Plains Partners LP - Common Units|G|N|N|100|N|N
 GPRE|Green Plains, Inc. - Common Stock|Q|N|N|100|N|N
 GPRO|GoPro, Inc. - Class A Common Stock|Q|N|N|100|N|N
+GRAY|Graybug Vision, Inc. - Common Stock|G|N|N|100|N|N
 GRBK|Green Brick Partners, Inc. - Common Stock|S|N|N|100|N|N
 GRCY|Greencity Acquisition Corporation - Ordinary Shares|S|N|N|100|N|N
 GRCYU|Greencity Acquisition Corporation - Unit|S|N|N|100|N|N
@@ -1606,8 +1613,10 @@ HNRG|Hallador Energy Company - Common Stock|S|N|D|100|N|N
 HOFT|Hooker Furniture Corporation - Common Stock|Q|N|N|100|N|N
 HOFV|Hall of Fame Resort &amp; Entertainment Company - Common Stock|S|N|N|100|N|N
 HOFVW|Hall of Fame Resort &amp; Entertainment Company - Warrant|S|N|N|100|N|N
+HOL|Holicity Inc. - Class A Common Stock|S|N|N|100|N|N
 HOLI|Hollysys Automation Technologies, Ltd. - Common Stock|Q|N|N|100|N|N
 HOLUU|Holicity Inc. - Unit|S|N|N|100|N|N
+HOLUW|Holicity Inc. - Warrant|S|N|N|100|N|N
 HOLX|Hologic, Inc. - Common Stock|Q|N|N|100|N|N
 HOMB|Home BancShares, Inc. - common stock|Q|N|N|100|N|N
 HONE|HarborOne Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2652,6 +2661,7 @@ PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares|Q|N|N|100|N|N
 PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100|N|N
 PMD|Psychemedics Corporation - Common Stock|S|N|N|100|N|N
 PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|N|100|N|N
+PMVP|PMV Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100|N|N
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100|N|N
 PNFPP|Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B|Q|N|N|100|N|N
@@ -2683,6 +2693,7 @@ PRFZ|Invesco FTSE RAFI US 1500 Small-Mid ETF|G|N|N|100|Y|N
 PRGS|Progress Software Corporation - Common Stock|Q|N|N|100|N|N
 PRGX|PRGX Global, Inc. - Common Stock|Q|N|N|100|N|N
 PRIM|Primoris Services Corporation - Common Stock|Q|N|N|100|N|N
+PRLD|Prelude Therapeutics Incorporated - Common Stock|Q|N|N|100|N|N
 PRN|Invesco DWA Industrials Momentum ETF|G|N|N|100|Y|N
 PRNB|Principia Biopharma Inc. - Common Stock|Q|N|N|100|N|N
 PROF|Profound Medical Corp. - common stock|S|N|N|100|N|N
@@ -2718,7 +2729,7 @@ PSEC|Prospect Capital Corporation - Common Stock|Q|N|N|100|N|N
 PSET|Principal Price Setters Index ETF|G|N|N|100|Y|N
 PSHG|Performance Shipping Inc. - Common Shares|S|N|D|100|N|N
 PSL|Invesco DWA Consumer Staples Momentum ETF|G|N|N|100|Y|N
-PSM|Principal U.S. Small-MidCap Multi-Factor Core Index ETF|G|N|D|100|Y|N
+PSM|Principal U.S. Small-MidCap Multi-Factor Core Index ETF|G|N|N|100|Y|N
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100|N|N
 PSNL|Personalis, Inc. - Common Stock|G|N|N|100|N|N
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -3215,6 +3226,8 @@ SYNH|Syneos Health, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SYNL|Synalloy Corporation - Common Stock|G|N|N|100|N|N
 SYPR|Sypris Solutions, Inc. - Common Stock|G|N|N|100|N|N
 SYRS|Syros Pharmaceuticals, Inc. - common stock|Q|N|N|100|N|N
+SYTA|Siyata Mobile, Inc. - Common Shares|S|N|N|100|N|N
+SYTAW|Siyata Mobile, Inc. - Warrant|S|N|N|100|N|N
 TA|TravelCenters of America Inc.  - Common Stock|Q|N|N|100|N|N
 TACO|Del Taco Restaurants, Inc. - Common Stock|S|N|N|100|N|N
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100|N|N
@@ -3306,7 +3319,7 @@ TNAV|Telenav, Inc. - Common Stock|Q|N|N|100|N|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100|N|N
 TOPS|TOP Ships Inc. - Common Stock|S|N|N|100|N|N
-TOTA|Tottenham Acquisition I Limited - Ordinary Shares|S|N|N|100|N|N
+TOTA|Tottenham Acquisition I Limited - Ordinary Shares|S|N|D|100|N|N
 TOTAR|Tottenham Acquisition I Limited - Right|S|N|N|100|N|N
 TOTAU|Tottenham Acquisition I Limited - Unit|S|N|N|100|N|N
 TOTAW|Tottenham Acquisition I Limited - Warrant|S|N|N|100|N|N
@@ -3431,6 +3444,7 @@ UTMD|Utah Medical Products, Inc. - Common Stock|Q|N|N|100|N|N
 UTSI|UTStarcom Holdings Corp - Ordinary Shares|Q|N|N|100|N|N
 UVSP|Univest Financial Corporation - Common Stock|Q|N|N|100|N|N
 UXIN|Uxin Limited - American Depositary Shares|Q|N|N|100|N|N
+VACQU|Vector Acquisition Corporation - Unit|S|N|N|100|N|N
 VALU|Value Line, Inc. - Common Stock|S|N|N|100|N|N
 VBFC|Village Bank and Trust Financial Corp. - Common Stock|S|N|N|100|N|N
 VBIV|VBI Vaccines, Inc. - Ordinary Shares|S|N|N|100|N|N
@@ -3688,4 +3702,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0924202015:41|||||||
+File Creation Time: 0925202012:11|||||||

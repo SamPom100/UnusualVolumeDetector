@@ -383,7 +383,6 @@ AZAL|AllianzIM U.S. Large Cap Buffer10 Jul ETF|P|AZAL|Y|100|N|AZAL
 AZBA|AllianzIM U.S. Large Cap Buffer20 Apr ETF|P|AZBA|Y|100|N|AZBA
 AZBL|AllianzIM U.S. Large Cap Buffer20 Jul ETF|P|AZBL|Y|100|N|AZBL
 AZEK|The AZEK Company Inc. Class A Common Stock|N|AZEK|N|100|N|AZEK
-AZN|Astrazeneca PLC Common Stock|N|AZN|N|100|N|AZN
 AZO|AutoZone, Inc. Common Stock|N|AZO|N|100|N|AZO
 AZRE|Azure Power Global Limited Equity Shares|N|AZRE|N|100|N|AZRE
 AZUL|Azul S.A. American Depositary Shares (each representing three preferred shares)|N|AZUL|N|100|N|AZUL
@@ -445,6 +444,7 @@ BC|Brunswick Corporation Common Stock|N|BC|N|100|N|BC
 BC$A|Brunswick Corporation 6.500% Senior Notes due 2048|N|BCpA|N|100|N|BC-A
 BC$B|Brunswick Corporation 6.625% Senior Notes due 2049|N|BCpB|N|100|N|BC-B
 BC$C|Brunswick Corporation 6.375% Notes due 2049|N|BCpC|N|100|N|BC-C
+BCAT|BlackRock Capital Allocation Trust Common Shares of Beneficial Interest|N|BCAT|N|100|N|BCAT
 BCC|Boise Cascade, L.L.C. Common Stock|N|BCC|N|100|N|BCC
 BCD|Aberdeen Standard Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF|P|BCD|Y|100|N|BCD
 BCE|BCE, Inc. Common Stock|N|BCE|N|100|N|BCE
@@ -528,6 +528,7 @@ BIO|Bio-Rad Laboratories, Inc. Class A Common Stock|N|BIO|N|100|N|BIO
 BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock|N|BIO.B|N|100|N|BIO.B
 BIOX|Bioceres Crop Solutions Corp. Ordinary Shares|A|BIOX|N|100|N|BIOX
 BIP|Brookfield Infrastructure Partners LP Limited Partnership Units|N|BIP|N|100|N|BIP
+BIP$A|Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13|N|BIPpA|N|100|N|BIP-A
 BIPC|Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares |N|BIPC|N|100|N|BIPC
 BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest|N|BIT|N|100|N|BIT
 BITA|Bitauto Holdings Limited American Depositary Shares (each representing one ordinary share)|N|BITA|N|100|N|BITA
@@ -1731,7 +1732,6 @@ FFTI|FormulaFolios Tactical Income ETF|Z|FFTI|Y|100|N|FFTI
 FFTY|Innovator IBD 50 ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
-FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
 FHN|First Horizon National Corporation Common Stock|N|FHN|N|100|N|FHN
@@ -2003,7 +2003,6 @@ GDO|Western Asset Global Corporate Defined Opportunity Fund Inc. Western Asset G
 GDOT|Green Dot Corporation Class A Common Stock, $0.001 par value|N|GDOT|N|100|N|GDOT
 GDP|Goodrich Petroleum Corporation Common Stock|A|GDP|N|100|N|GDP
 GDV|Gabelli Dividend & Income Trust Common Shares of Beneficial Interest|N|GDV|N|100|N|GDV
-GDV$A|Gabelli Dividend & Income Tr Preferred Series A|N|GDVpA|N|100|N|GDV-A
 GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.001 per share|N|GDVpG|N|100|N|GDV-G
 GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares|N|GDVpH|N|100|N|GDV-H
 GDVD|Principal Active Global Dividend Income ETF|Z|GDVD|Y|100|N|GDVD
@@ -2118,7 +2117,9 @@ GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
 GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)|N|GNTpA|N|100|N|GNT-A
 GNW|Genworth Financial Inc Common Stock|N|GNW|N|100|N|GNW
+GOAC|GO Acquisition Corp. Class A Common Stock|N|GOAC|N|100|N|GOAC
 GOAC.U|GO Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant|N|GOAC.U|N|100|N|GOAC=
+GOAC.W|GO Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|GOAC.WS|N|100|N|GOAC+
 GOAT|VanEck Vectors Morningstar Global Wide Moat ETF|Z|GOAT|Y|100|N|GOAT
 GOAU|US Global GO Gold and Precious Metal Miners ETF|P|GOAU|Y|100|N|GOAU
 GOED|1847 Goedeker Inc. Commom Stock|A|GOED|N|100|N|GOED
@@ -5108,6 +5109,7 @@ VGZ|Vista Gold Corp Common Stock|A|VGZ|N|100|N|VGZ
 VHC|VirnetX Holding Corp Common Stock|N|VHC|N|100|N|VHC
 VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF|P|VHT|Y|100|N|VHT
+VIAO|VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share|N|VIAO|N|100|N|VIAO
 VICI|VICI Properties Inc. Common Stock|N|VICI|N|100|N|VICI
 VIDI|ETF Series Solutions Trust Vident International Equity Fund|P|VIDI|Y|100|N|VIDI
 VIG|Vanguard Div Appreciation ETF|P|VIG|Y|100|N|VIG
@@ -5441,4 +5443,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0924202015:41||||||
+File Creation Time: 0925202012:11||||||

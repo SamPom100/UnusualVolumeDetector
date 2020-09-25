@@ -317,7 +317,6 @@ AXU,AXU|Alexco Resource Corp Common Shares (Canada)
 AYI,AYI|Acuity Brands, Inc. 
 AYX,AYX|Alteryx, Inc. Class A Common Stock
 AZEK,AZEK|The AZEK Company Inc. Class A Common Stock
-AZN,AZN|Astrazeneca PLC Common Stock
 AZO,AZO|AutoZone, Inc. Common Stock
 AZRE,AZRE|Azure Power Global Limited Equity Shares
 AZUL,AZUL|Azul S.A. American Depositary Shares (each representing three preferred shares)
@@ -364,6 +363,7 @@ BC,BC|Brunswick Corporation Common Stock
 BC$A,BC$A|Brunswick Corporation 6.500% Senior Notes due 2048
 BC$B,BC$B|Brunswick Corporation 6.625% Senior Notes due 2049
 BC$C,BC$C|Brunswick Corporation 6.375% Notes due 2049
+BCAT,BCAT|BlackRock Capital Allocation Trust Common Shares of Beneficial Interest
 BCC,BCC|Boise Cascade, L.L.C. Common Stock
 BCE,BCE|BCE, Inc. Common Stock
 BCEI,BCEI|Bonanza Creek Energy, Inc. Common Stock
@@ -435,6 +435,7 @@ BIO,BIO|Bio-Rad Laboratories, Inc. Class A Common Stock
 BIO.B,BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock
 BIOX,BIOX|Bioceres Crop Solutions Corp. Ordinary Shares
 BIP,BIP|Brookfield Infrastructure Partners LP Limited Partnership Units
+BIP$A,BIP$A|Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13
 BIPC,BIPC|Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares 
 BIT,BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest
 BITA,BITA|Bitauto Holdings Limited American Depositary Shares (each representing one ordinary share)
@@ -1254,7 +1255,6 @@ FFC,FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FFEU,FFEU|Barclays ETN  FI Enhanced Europe 50 Exchange Traded Notes Series C
 FFG,FFG|FBL Financial Group, Inc. Common Stock
 FGB,FGB|First Trust Specialty Finance and Financial Opportunities Fund
-FGNA.U,FGNA.U|FG New America Acquisition Corp. Units
 FHI,FHI|Federated Hermes, Inc. Common Stock
 FHN,FHN|First Horizon National Corporation Common Stock
 FHN$A,FHN$A|First Horizon National Corporation Depositary Shares
@@ -1388,7 +1388,6 @@ GDO,GDO|Western Asset Global Corporate Defined Opportunity Fund Inc. Western Ass
 GDOT,GDOT|Green Dot Corporation Class A Common Stock, $0.001 par value
 GDP,GDP|Goodrich Petroleum Corporation Common Stock
 GDV,GDV|Gabelli Dividend & Income Trust Common Shares of Beneficial Interest
-GDV$A,GDV$A|Gabelli Dividend & Income Tr Preferred Series A
 GDV$G,GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.001 per share
 GDV$H,GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares
 GE,GE|General Electric Company Common Stock
@@ -1482,7 +1481,9 @@ GNRC,GNRC|Generac Holdlings Inc. Common Stock
 GNT,GNT|GAMCO Natural Resources, Gold & Income Trust
 GNT$A,GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
 GNW,GNW|Genworth Financial Inc Common Stock
+GOAC,GOAC|GO Acquisition Corp. Class A Common Stock
 GOAC.U,GOAC.U|GO Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant
+GOAC.W,GOAC.W|GO Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 GOED,GOED|1847 Goedeker Inc. Commom Stock
 GOF,GOF|Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOL,GOL|Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares
@@ -3394,6 +3395,7 @@ VGR,VGR|Vector Group Ltd. Common Stock
 VGZ,VGZ|Vista Gold Corp Common Stock
 VHC,VHC|VirnetX Holding Corp Common Stock
 VHI,VHI|Valhi, Inc. Common Stock
+VIAO,VIAO|VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share
 VICI,VICI|VICI Properties Inc. Common Stock
 VIPS,VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares
 VIST,VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
@@ -3765,6 +3767,7 @@ AMRN,AMRN|Amarin Corporation plc - American Depositary Shares, each representing
 AMRS,AMRS|Amyris, Inc. - Common Stock
 AMSC,AMSC|American Superconductor Corporation - Common Stock
 AMSF,AMSF|AMERISAFE, Inc. - Common Stock
+AMST,AMST|Amesite Inc. - Common Stock
 AMSWA,AMSWA|American Software, Inc. - Class A Common Stock
 AMTB,AMTB|Amerant Bancorp Inc. - Class A Common Stock
 AMTBB,AMTBB|Amerant Bancorp Inc. - Class B Common Stock
@@ -3921,6 +3924,7 @@ AY,AY|Atlantica Sustainable Infrastructure plc - Ordinary Shares
 AYLA,AYLA|Ayala Pharmaceuticals, Inc. - Common Stock
 AYRO,AYRO|AYRO, Inc. - Common Stock
 AYTU,AYTU|Aytu BioScience, Inc. - Common Stock
+AZN,AZN|AstraZeneca PLC - American Depositary Shares
 AZPN,AZPN|Aspen Technology, Inc. - Common Stock
 AZRX,AZRX|AzurRx BioPharma, Inc. - Common Stock
 BAND,BAND|Bandwidth Inc. - Class A Common Stock
@@ -4756,6 +4760,7 @@ FTDR,FTDR|frontdoor, inc. - Common Stock
 FTEK,FTEK|Fuel Tech, Inc. - Common Stock
 FTFT,FTFT|Future FinTech Group Inc. - Common Stock
 FTHM,FTHM|Fathom Holdings Inc. - Common Stock
+FTIVU,FTIVU|FinTech Acquisition Corp. IV - Unit
 FTNT,FTNT|Fortinet, Inc. - Common Stock
 FTOCU,FTOCU|FTAC Olympus Acquisition Corp. - Unit
 FULC,FULC|Fulcrum Therapeutics, Inc. - Common Stock
@@ -4834,6 +4839,7 @@ GLNG,GLNG|Golar LNG Limited - Common Shares
 GLPG,GLPG|Galapagos NV - American Depositary Shares
 GLPI,GLPI|Gaming and Leisure Properties, Inc. - Common Stock
 GLRE,GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
+GLSI,GLSI|Greenwich LifeSciences, Inc. - Common stock
 GLUU,GLUU|Glu Mobile Inc. - Common Stock
 GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
 GMAB,GMAB|Genmab A/S - American Depositary Shares
@@ -4867,11 +4873,14 @@ GOODN,GOODN|Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeem
 GOOG,GOOG|Alphabet Inc. - Class C Capital Stock
 GOOGL,GOOGL|Alphabet Inc. - Class A Common Stock
 GOSS,GOSS|Gossamer Bio, Inc. - Common Stock
+GOVX,GOVX|GeoVax Labs, Inc. - Common Stock
+GOVXW,GOVXW|GeoVax Labs, Inc. - Warrants
 GP,GP|GreenPower Motor Company Inc. - Common Shares
 GPOR,GPOR|Gulfport Energy Corporation - Common Stock
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
+GRAY,GRAY|Graybug Vision, Inc. - Common Stock
 GRBK,GRBK|Green Brick Partners, Inc. - Common Stock
 GRCY,GRCY|Greencity Acquisition Corporation - Ordinary Shares
 GRCYU,GRCYU|Greencity Acquisition Corporation - Unit
@@ -4991,8 +5000,10 @@ HNRG,HNRG|Hallador Energy Company - Common Stock
 HOFT,HOFT|Hooker Furniture Corporation - Common Stock
 HOFV,HOFV|Hall of Fame Resort &amp; Entertainment Company - Common Stock
 HOFVW,HOFVW|Hall of Fame Resort &amp; Entertainment Company - Warrant
+HOL,HOL|Holicity Inc. - Class A Common Stock
 HOLI,HOLI|Hollysys Automation Technologies, Ltd. - Common Stock
 HOLUU,HOLUU|Holicity Inc. - Unit
+HOLUW,HOLUW|Holicity Inc. - Warrant
 HOLX,HOLX|Hologic, Inc. - Common Stock
 HOMB,HOMB|Home BancShares, Inc. - common stock
 HONE,HONE|HarborOne Bancorp, Inc. - Common Stock
@@ -5954,6 +5965,7 @@ PLYA,PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares
 PMBC,PMBC|Pacific Mercantile Bancorp - Common Stock
 PMD,PMD|Psychemedics Corporation - Common Stock
 PME,PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares
+PMVP,PMVP|PMV Pharmaceuticals, Inc. - Common Stock
 PNBK,PNBK|Patriot National Bancorp Inc. - Common Stock
 PNFP,PNFP|Pinnacle Financial Partners, Inc. - Common Stock
 PNFPP,PNFPP|Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B
@@ -5981,6 +5993,7 @@ PRFX,PRFX|PainReform Ltd. - Ordinary Shares
 PRGS,PRGS|Progress Software Corporation - Common Stock
 PRGX,PRGX|PRGX Global, Inc. - Common Stock
 PRIM,PRIM|Primoris Services Corporation - Common Stock
+PRLD,PRLD|Prelude Therapeutics Incorporated - Common Stock
 PRNB,PRNB|Principia Biopharma Inc. - Common Stock
 PROF,PROF|Profound Medical Corp. - common stock
 PROG,PROG|Progenity, Inc. - Common Stock
@@ -6447,6 +6460,8 @@ SYNH,SYNH|Syneos Health, Inc. - Class A Common Stock
 SYNL,SYNL|Synalloy Corporation - Common Stock
 SYPR,SYPR|Sypris Solutions, Inc. - Common Stock
 SYRS,SYRS|Syros Pharmaceuticals, Inc. - common stock
+SYTA,SYTA|Siyata Mobile, Inc. - Common Shares
+SYTAW,SYTAW|Siyata Mobile, Inc. - Warrant
 TA,TA|TravelCenters of America Inc.  - Common Stock
 TACO,TACO|Del Taco Restaurants, Inc. - Common Stock
 TACT,TACT|TransAct Technologies Incorporated - Common Stock
@@ -6651,6 +6666,7 @@ UTMD,UTMD|Utah Medical Products, Inc. - Common Stock
 UTSI,UTSI|UTStarcom Holdings Corp - Ordinary Shares
 UVSP,UVSP|Univest Financial Corporation - Common Stock
 UXIN,UXIN|Uxin Limited - American Depositary Shares
+VACQU,VACQU|Vector Acquisition Corporation - Unit
 VALU,VALU|Value Line, Inc. - Common Stock
 VBFC,VBFC|Village Bank and Trust Financial Corp. - Common Stock
 VBIV,VBIV|VBI Vaccines, Inc. - Ordinary Shares
