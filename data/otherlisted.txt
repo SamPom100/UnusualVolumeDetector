@@ -2690,7 +2690,6 @@ JDD|Nuveen Diversified Dividend and Income Fund Shares of Beneficial Interest|N|
 JDIV|JPMorgan U.S. Dividend ETF|P|JDIV|Y|100|N|JDIV
 JDST|Direxion Daily Junior Gold Miners Index Bear 2X Shares|P|JDST|Y|100|N|JDST
 JE|Just Energy Group, Inc. Ordinary Shares (Canada)|N|JE|N|100|N|JE
-JE$A|Just Energy Group, Inc. 8.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares|N|JEpA|N|100|N|JE-A
 JEF|Jefferies Financial Group Inc. Common Stock|N|JEF|N|100|N|JEF
 JELD|JELD-WEN Holding, Inc. Common Stock|N|JELD|N|100|N|JELD
 JEMD|Nuveen Emerging Markets Debt 2022 Target Term Fund Common Shares of Beneficial Interest, $0.01 par value per share|N|JEMD|N|100|N|JEMD
@@ -2863,7 +2862,7 @@ KLR|Kaleyra, Inc. Common Stock|A|KLR|N|100|N|KLR
 KLR.W|Kaleyra, Inc. Warrants|A|KLR.WS|N|100|N|KLR+
 KMB|Kimberly-Clark Corporation Common Stock|N|KMB|N|100|N|KMB
 KMED|KraneShares Trust KraneShares Emerging Markets Healthcare Index ETF|P|KMED|Y|100|N|KMED
-KMF|Kayne Anderson Midstream Energy Fund, Inc Common Stock|N|KMF|N|100|N|KMF
+KMF|Kayne Anderson NextGen Energy & Infrastructure, Inc.|N|KMF|N|100|N|KMF
 KMI|Kinder Morgan, Inc. Common Stock|N|KMI|N|100|N|KMI
 KMPR|Kemper Corporation|N|KMPR|N|100|N|KMPR
 KMT|Kennametal Inc. Common Stock|N|KMT|N|100|N|KMT
@@ -2914,7 +2913,7 @@ KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
 KWR|Quaker Chemical Corporation Common Stock|N|KWR|N|100|N|KWR
 KWT|iShares Trust iShares MSCI Kuwait ETF|Z|KWT|Y|100|N|KWT
 KXI|iShares Global Consumer Staples ETF|P|KXI|Y|100|N|KXI
-KYN|Kayne Anderson MLP/Midstream Investment Company Common Stock|N|KYN|N|100|N|KYN
+KYN|Kayne Anderson Energy Infrastructure Fund, Inc.|N|KYN|N|100|N|KYN
 L|Loews Corporation Common Stock|N|L|N|100|N|L
 LABD|Direxion Daily S&P Biotech Bear 3X Shares|P|LABD|Y|100|N|LABD
 LABU|Direxion Daily S&P Biotech Bull 3X Shares|P|LABU|Y|100|N|LABU
@@ -3115,6 +3114,7 @@ MGK|Vanguard Mega Cap Growth ETF|P|MGK|Y|100|N|MGK
 MGM|MGM Resorts International Common Stock|N|MGM|N|100|N|MGM
 MGP|MGM Growth Properties LLC Class A common shares representing limited liability company interests|N|MGP|N|100|N|MGP
 MGR|Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059|N|MGR|N|100|N|MGR
+MGRB|Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060|N|MGRB|N|100|N|MGRB
 MGU|Macquarie Global Infrastructure Total Return Fund Inc. Common Stock|N|MGU|N|100|N|MGU
 MGV|Vanguard Mega Cap Value ETF|P|MGV|Y|100|N|MGV
 MGY|Magnolia Oil & Gas Corporation Class A Common Stock|N|MGY|N|100|N|MGY
@@ -5422,4 +5422,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0928202012:11||||||
+File Creation Time: 0929202012:12||||||

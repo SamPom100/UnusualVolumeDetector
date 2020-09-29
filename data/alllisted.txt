@@ -1785,7 +1785,6 @@ JCI,JCI|Johnson Controls International plc Ordinary Share
 JCO,JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest
 JDD,JDD|Nuveen Diversified Dividend and Income Fund Shares of Beneficial Interest
 JE,JE|Just Energy Group, Inc. Ordinary Shares (Canada)
-JE$A,JE$A|Just Energy Group, Inc. 8.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares
 JEF,JEF|Jefferies Financial Group Inc. Common Stock
 JELD,JELD|JELD-WEN Holding, Inc. Common Stock
 JEMD,JEMD|Nuveen Emerging Markets Debt 2022 Target Term Fund Common Shares of Beneficial Interest, $0.01 par value per share
@@ -1886,7 +1885,7 @@ KL,KL|Kirkland Lake Gold Ltd. Common Shares
 KLR,KLR|Kaleyra, Inc. Common Stock
 KLR.W,KLR.W|Kaleyra, Inc. Warrants
 KMB,KMB|Kimberly-Clark Corporation Common Stock
-KMF,KMF|Kayne Anderson Midstream Energy Fund, Inc Common Stock
+KMF,KMF|Kayne Anderson NextGen Energy & Infrastructure, Inc.
 KMI,KMI|Kinder Morgan, Inc. Common Stock
 KMPR,KMPR|Kemper Corporation
 KMT,KMT|Kennametal Inc. Common Stock
@@ -1919,7 +1918,7 @@ KTH,KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferre
 KTN,KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KW,KW|Kennedy-Wilson Holdings Inc. Common Stock
 KWR,KWR|Quaker Chemical Corporation Common Stock
-KYN,KYN|Kayne Anderson MLP/Midstream Investment Company Common Stock
+KYN,KYN|Kayne Anderson Energy Infrastructure Fund, Inc.
 L,L|Loews Corporation Common Stock
 LAC,LAC|Lithium Americas Corp. Common Shares
 LAD,LAD|Lithia Motors, Inc. Common Stock
@@ -2073,6 +2072,7 @@ MGF,MGF|MFS Government Markets Income Trust Common Stock
 MGM,MGM|MGM Resorts International Common Stock
 MGP,MGP|MGM Growth Properties LLC Class A common shares representing limited liability company interests
 MGR,MGR|Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059
+MGRB,MGRB|Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060
 MGU,MGU|Macquarie Global Infrastructure Total Return Fund Inc. Common Stock
 MGY,MGY|Magnolia Oil & Gas Corporation Class A Common Stock
 MH$A,MH$A|Maiden Holdings, Ltd. Pref Shs Ser A (Bermuda)
@@ -4891,7 +4891,9 @@ GRNVU,GRNVU|GreenVision Acquisition Corp - Unit
 GRNVW,GRNVW|GreenVision Acquisition Corp - Warrant
 GROW,GROW|U.S. Global Investors, Inc. - Class A Common Stock
 GRPN,GRPN|Groupon, Inc. - Common Stock
+GRSV,GRSV|Gores Holdings V, Inc. - Common stock
 GRSVU,GRSVU|Gores Holdings V, Inc. - Unit
+GRSVW,GRSVW|Gores Holdings V, Inc. - Warrant
 GRTS,GRTS|Gritstone Oncology, Inc. - Common Stock
 GRTX,GRTX|Galera Therapeutics, Inc. - Common Stock
 GRVY,GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one common share.
@@ -5815,6 +5817,7 @@ ORGS,ORGS|Orgenesis Inc. - Common Stock
 ORIC,ORIC|Oric Pharmaceuticals, Inc. - Common Stock
 ORLY,ORLY|O'Reilly Automotive, Inc. - Common Stock
 ORMP,ORMP|Oramed Pharmaceuticals Inc. - Common Stock
+ORPH,ORPH|Orphazyme A/S - American Depositary Shares
 ORRF,ORRF|Orrstown Financial Services Inc - Common Stock
 ORSN,ORSN|Orisun Acquisition Corp. - Common Stock
 ORSNR,ORSNR|Orisun Acquisition Corp. - Right
@@ -5987,7 +5990,6 @@ PRGS,PRGS|Progress Software Corporation - Common Stock
 PRGX,PRGX|PRGX Global, Inc. - Common Stock
 PRIM,PRIM|Primoris Services Corporation - Common Stock
 PRLD,PRLD|Prelude Therapeutics Incorporated - Common Stock
-PRNB,PRNB|Principia Biopharma Inc. - Common Stock
 PROF,PROF|Profound Medical Corp. - common stock
 PROG,PROG|Progenity, Inc. - Common Stock
 PROV,PROV|Provident Financial Holdings, Inc. - Common Stock
