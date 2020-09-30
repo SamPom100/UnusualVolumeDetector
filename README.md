@@ -32,9 +32,9 @@ Go to the [website](https://unusualvolume.info/)
 
 [Main Website](https://sampom100.github.io/UnusualVolumeDetector/)
 
-[alternate website](http://165.22.228.6/)
+[Alternate website](http://165.22.228.6/)
 
-[alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
+[Alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
 
 
 ### Donations
