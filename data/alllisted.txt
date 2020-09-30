@@ -240,6 +240,7 @@ ARR,ARR|ARMOUR Residential REIT, Inc.
 ARR$C,ARR$C|ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)
 ARW,ARW|Arrow Electronics, Inc. Common Stock
 ASA,ASA|ASA  Gold and Precious Metals Limited
+ASAN,ASAN|Asana, Inc. Class A Common Stock
 ASB,ASB|Associated Banc-Corp Common Stock
 ASB$C,ASB$C|Associated Banc-Corp Depositary shares, each representing a 1/40th ownership interest in a share of 6.125% Non-Cumulative Perpetual Preferred Stock, Series C
 ASB$D,ASB$D|Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.375% Non-Cumulative Perpetual Preferred Stock, Series D
@@ -488,6 +489,7 @@ BOX,BOX|Box, Inc. Class A Common Stock
 BP,BP|BP p.l.c. Common Stock
 BPMP,BPMP|BP Midstream Partners LP Common Units representing Limited Partner Interests
 BPT,BPT|BP Prudhoe Bay Royalty Trust Common Stock
+BQ,BQ|Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares
 BQH,BQH|Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest
 BR,BR|Broadridge Financial Solutions, Inc.Common Stock
 BRBR,BRBR|BellRing Brands, Inc. Class A Common Stock
@@ -704,6 +706,7 @@ CLF,CLF|Cleveland-Cliffs Inc. Common Stock
 CLGX,CLGX|CoreLogic, Inc. Common Stock
 CLH,CLH|Clean Harbors, Inc. Common Stock
 CLI,CLI|Mack-Cali Realty Corporation Common Stock
+CLII.U,CLII.U|Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
 CLM,CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock
 CLNC,CLNC|Colony Credit Real Estate, Inc. Class A Common Stock
 CLNY,CLNY|Colony Capital, Inc.
@@ -1254,6 +1257,7 @@ FFC,FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FFEU,FFEU|Barclays ETN  FI Enhanced Europe 50 Exchange Traded Notes Series C
 FFG,FFG|FBL Financial Group, Inc. Common Stock
 FGB,FGB|First Trust Specialty Finance and Financial Opportunities Fund
+FGNA.U,FGNA.U|FG New America Acquisition Corp. Units
 FHI,FHI|Federated Hermes, Inc. Common Stock
 FHN,FHN|First Horizon National Corporation Common Stock
 FHN$A,FHN$A|First Horizon National Corporation Depositary Shares
@@ -1501,9 +1505,6 @@ GPRK,GPRK|Geopark Ltd Common Shares
 GPS,GPS|Gap, Inc. (The) Common Stock
 GPX,GPX|GP Strategies Corporation Common Stock
 GRA,GRA|W.R. Grace & Co. Common Stock
-GRAF,GRAF|Graf Industrial Corp. Common Stock
-GRAF.U,GRAF.U|Graf Industrial Corp. Units, each consisting of One share of Common Stock and One redeemable Warrant
-GRAF.W,GRAF.W|Graf Industrial Corp. Warrants 
 GRAM,GRAM|Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares
 GRC,GRC|Gorman-Rupp Company (The) Common Stock
 GRF,GRF|Eagle Capital Growth Fund, Inc. Common Stock
@@ -2611,6 +2612,7 @@ PLM,PLM|Polymet Mining Corporation Ordinary Shares (Canada)
 PLNT,PLNT|Planet Fitness, Inc. Common Stock
 PLOW,PLOW|Douglas Dynamics, Inc. Common Stock
 PLT,PLT|Plantronics, Inc. Common Stock
+PLTR,PLTR|Palantir Technologies Inc. Class A Common Stock
 PLX,PLX|Protalix BioTherapeutics, Inc. (DE) Common Stock
 PLYM,PLYM|Plymouth Industrial REIT, Inc. Common Stock
 PLYM$A,PLYM$A|Plymouth Industrial REIT, Inc. 7.50% Series A Cumulative Redeemable Preferred Stock
@@ -2678,8 +2680,6 @@ PSA$J,PSA$J|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.70
 PSA$K,PSA$K|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75% Cumulative Preferred Share of Beneficial Interest, Series K
 PSA$L,PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share
 PSA$M,PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M
-PSA$W,PSA$W|Public Storage Depositary Shares Representing 1/1000 Preferred Shares of Benficial Interest Series W
-PSA$X,PSA$X|Public Storage Depositary Shares Representing 1/1000th Cumulative Preferred Shares Beneficial Interest Series X
 PSB,PSB|PS Business Parks, Inc. Common Stock
 PSB$W,PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W
 PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X
@@ -2786,6 +2786,7 @@ RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
+RIV.V,RIV.V|RiverNorth Opportunities Fund, Inc. Rights (expiring November 3, 2020)
 RJA,RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
 RJF,RJF|Raymond James Financial, Inc. Common Stock
 RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product
@@ -3559,6 +3560,7 @@ Y,Y|Alleghany Corporation Common Stock
 YAC,YAC|Yucaipa Acquisition Corporation Class A Ordinary Shares
 YAC.U,YAC.U|Yucaipa Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 YAC.W,YAC.W|Yucaipa Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+YALA,YALA|Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share
 YCBD,YCBD|cbdMD, Inc. Common Stock
 YCBD$A,YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock
 YELP,YELP|Yelp Inc. Common Stock
@@ -3845,7 +3847,6 @@ ARYA,ARYA|ARYA Sciences Acquisition Corp III - Class A Ordinary Shares
 ARYB,ARYB|ARYA Sciences Acquisition Corp II - Class A Ordinary Shares
 ARYBU,ARYBU|ARYA Sciences Acquisition Corp II - Unit
 ARYBW,ARYBW|ARYA Sciences Acquisition Corp II - Warrant
-ASFI,ASFI|Asta Funding, Inc. - Common Stock
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
 ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
@@ -4135,6 +4136,7 @@ CCOI,CCOI|Cogent Communications Holdings, Inc. - Common Stock
 CCRC,CCRC|China Customer Relations Centers, Inc. - Ordinary Shares
 CCRN,CCRN|Cross Country Healthcare, Inc. - Common Stock
 CCXI,CCXI|ChemoCentryx, Inc. - Common Stock
+CD,CD|Chindata Group Holdings Limited - American Depositary Shares
 CDEV,CDEV|Centennial Resource Development, Inc. - Class A Common Stock
 CDK,CDK|CDK Global, Inc. - Common Stock
 CDLX,CDLX|Cardlytics, Inc. - Common Stock
@@ -6050,6 +6052,7 @@ QADB,QADB|QAD Inc. - Class B Common Stock
 QCOM,QCOM|QUALCOMM Incorporated - Common Stock
 QCRH,QCRH|QCR Holdings, Inc. - Common Stock
 QDEL,QDEL|Quidel Corporation - Common Stock
+QELLU,QELLU|Qell Acquisition Corp. - Unit
 QFIN,QFIN|360 DigiTech, Inc. - American Depositary Shares
 QH,QH|Quhuo Limited - American Depository Shares
 QIWI,QIWI|QIWI plc - American Depositary Shares
@@ -6226,7 +6229,6 @@ SBUX,SBUX|Starbucks Corporation - Common Stock
 SCHL,SCHL|Scholastic Corporation - Common Stock
 SCHN,SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock
 SCKT,SCKT|Socket Mobile, Inc. - Common Stock
-SCON,SCON|Superconductor Technologies Inc. - Common Stock
 SCOR,SCOR|comScore, Inc. - Common Stock
 SCPH,SCPH|scPharmaceuticals Inc. - Common Stock
 SCPL,SCPL|SciPlay Corporation - Class A Common Stock
@@ -6700,6 +6702,8 @@ VIVO,VIVO|Meridian Bioscience Inc. - Common Stock
 VJET,VJET|voxeljet AG - American Depositary Shares
 VKTX,VKTX|Viking Therapeutics, Inc. - Common Stock
 VKTXW,VKTXW|Viking Therapeutics, Inc. - Warrants
+VLDR,VLDR|Velodyne Lidar, Inc. - Common Stock
+VLDRW,VLDRW|Velodyne Lidar, Inc. - Warrant
 VLGEA,VLGEA|Village Super Market, Inc. - Class A Common Stock
 VLY,VLY|Valley National Bancorp - Common Stock
 VLYPO,VLYPO|Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
@@ -6731,6 +6735,7 @@ VRTU,VRTU|Virtusa Corporation - Common Stock
 VRTX,VRTX|Vertex Pharmaceuticals Incorporated - Common Stock
 VSAT,VSAT|ViaSat, Inc. - Common Stock
 VSEC,VSEC|VSE Corporation - Common Stock
+VSPRU,VSPRU|Vesper Healthcare Acquisition Corp. - Unit
 VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
