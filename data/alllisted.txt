@@ -54,9 +54,6 @@ AEL$A,AEL$A|American Equity Investment Life Holding Company Depositary Shares, e
 AEL$B,AEL$B|American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B
 AEM,AEM|Agnico Eagle Mines Limited Common Stock
 AEO,AEO|American Eagle Outfitters, Inc. Common Stock
-AEP,AEP|American Electric Power Company, Inc. Common Stock
-AEP$B,AEP$B|American Electric Power Company, Inc. Corporate Unit
-AEP$C,AEP$C|American Electric Power Company, Inc. Corporate Units
 AER,AER|AerCap Holdings N.V. Ordinary Shares
 AES,AES|The AES Corporation Common Stock
 AFB,AFB|AllianceBernstein National Municipal Income Fund Inc
@@ -358,7 +355,6 @@ BBN,BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Inter
 BBU,BBU|Brookfield Business Partners L.P. Limited Partnership Units 
 BBVA,BBVA|Banco Bilbao Vizcaya Argentaria S.A. Common Stock
 BBW,BBW|Build-A-Bear Workshop, Inc. Common Stock
-BBX,BBX|BBX Capital Corporation Class A Common Stock
 BBY,BBY|Best Buy Co., Inc. Common Stock
 BC,BC|Brunswick Corporation Common Stock
 BC$A,BC$A|Brunswick Corporation 6.500% Senior Notes due 2048
@@ -535,6 +531,7 @@ BUD,BUD|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
 BUI,BUI|BlackRock Utility, Infrastructure & Power Opportunities Trust
 BURL,BURL|Burlington Stores, Inc. Common Stock
 BV,BV|BrightView Holdings, Inc. Common Stock
+BVH,BVH|Bluegreen Vacations Holding Corporation Class A Common Stock
 BVN,BVN|Buenaventura Mining Company Inc.
 BW,BW|Babcock & Wilcox Enterprises, Inc. Common Stock
 BWA,BWA|BorgWarner Inc. Common Stock
@@ -1711,6 +1708,7 @@ IMAX,IMAX|Imax Corporation Common Stock
 IMH,IMH|Impac Mortgage Holdings, Inc. Common Stock 
 IMLP,IMLP|iPath S&P MLP ETN
 IMO,IMO|Imperial Oil Limited Common Stock
+IMPX.U,IMPX.U|AEA-Bridges Impact Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 INDO,INDO|Indonesia Energy Corporation Limited Ordinary Shares
 INFO,INFO|IHS Markit Ltd. Common Shares
 INFU,INFU|InfuSystems Holdings, Inc. Common Stock
@@ -2407,7 +2405,6 @@ NVS,NVS|Novartis AG Common Stock
 NVST,NVST|Envista Holdings Corporation Common Stock
 NVT,NVT|nVent Electric plc Ordinary Shares 
 NVTA,NVTA|Invitae Corporation Common Stock
-NWE,NWE|NorthWestern Corporation Common Stock
 NWG,NWG|NatWest Group plc American Depositary Shares
 NWHM,NWHM|New Home Company Inc. (The) Common Stock
 NWN,NWN|Northwest Natural Holding Company Common Stock
@@ -2468,7 +2465,6 @@ ONE,ONE|OneSmart International Education Group Limited ADS
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
-OPP.R,OPP.R|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring October 1, 2020)
 OPY,OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)
 OR,OR|Osisko Gold Royalties Ltd Common Shares
 ORA,ORA|Ormat Technologies, Inc. Common Stock
@@ -2564,7 +2560,6 @@ PFGC,PFGC|Performance Food Group Company Common Stock
 PFH,PFH|Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060
 PFL,PFL|PIMCO Income Strategy Fund Shares of Beneficial Interest
 PFN,PFN|PIMCO Income Strategy Fund II
-PFNX,PFNX|Pfenex Inc. Common Stock
 PFO,PFO|Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated
 PFS,PFS|Provident Financial Services, Inc Common Stock
 PFSI,PFSI|PennyMac Financial Services, Inc. Common Stock
@@ -2786,7 +2781,6 @@ RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
-RIV.V,RIV.V|RiverNorth Opportunities Fund, Inc. Rights (expiring November 3, 2020)
 RJA,RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
 RJF,RJF|Raymond James Financial, Inc. Common Stock
 RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product
@@ -3655,6 +3649,9 @@ AEGN,AEGN|Aegion Corp - Class A Common Stock
 AEHR,AEHR|Aehr Test Systems - Common Stock
 AEIS,AEIS|Advanced Energy Industries, Inc. - Common Stock
 AEMD,AEMD|Aethlon Medical, Inc. - Common Stock
+AEP,AEP|American Electric Power Company, Inc. - Common Stock
+AEPPL,AEPPL|American Electric Power Company, Inc. - Corporate Unit
+AEPPZ,AEPPZ|American Electric Power Company, Inc. - Corporate Unit
 AERI,AERI|Aerie Pharmaceuticals, Inc. - Common Stock
 AESE,AESE|Allied Esports Entertainment, Inc. - Common Stock
 AEY,AEY|ADDvantage Technologies Group, Inc. - Common Stock
@@ -3669,6 +3666,7 @@ AGBA,AGBA|AGBA Acquisition Limited - Ordinary Share
 AGBAR,AGBAR|AGBA Acquisition Limited - Right
 AGBAU,AGBAU|AGBA Acquisition Limited - Unit
 AGBAW,AGBAW|AGBA Acquisition Limited - Warrant
+AGCUU,AGCUU|Altimeter Growth Corp. - Unit
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
@@ -3902,6 +3900,7 @@ AVGOP,AVGOP|Broadcom Inc. - 8.00% Mandatory Convertible Preferred Stock, Series 
 AVGR,AVGR|Avinger, Inc. - Common Stock
 AVID,AVID|Avid Technology, Inc. - Common Stock
 AVNW,AVNW|Aviat Networks, Inc. - Common Stock
+AVO,AVO|Mission Produce, Inc. - Common Stock
 AVRO,AVRO|AVROBIO, Inc. - Common Stock
 AVT,AVT|Avnet, Inc. - Common Stock
 AVXL,AVXL|Anavex Life Sciences Corp. - Common Stock
@@ -4040,7 +4039,6 @@ BPYPO,BPYPO|Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeem
 BPYPP,BPYPP|Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable Perpetual Preferred Units
 BPYU,BPYU|Brookfield Property REIT Inc. - Class A Common Stock
 BPYUP,BPYUP|Brookfield Property REIT Inc. - 6.375% Series A Preferred Stock
-BREW,BREW|Craft Brew Alliance, Inc. - Common Stock
 BRID,BRID|Bridgford Foods Corporation - Common Stock
 BRKL,BRKL|Brookline Bancorp, Inc. - Common Stock
 BRKR,BRKR|Bruker Corporation - Common Stock
@@ -4128,7 +4126,7 @@ CCBG,CCBG|Capital City Bank Group - Common Stock
 CCCL,CCCL|China Ceramics Co., Ltd. - Common Stock
 CCD,CCD|Calamos Dynamic Convertible & Income Fund - Common Shares
 CCLP,CCLP|CSI Compressco LP - common units
-CCMP,CCMP|Cabot Microelectronics Corporation - Common Stock
+CCMP,CCMP|CMC Materials, Inc. - Common Stock
 CCNC,CCNC|Code Chain New Continent Limited - Common Stock
 CCNE,CCNE|CNB Financial Corporation - Common Stock
 CCNEP,CCNEP|CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock
@@ -4344,6 +4342,7 @@ CRWD,CRWD|CrowdStrike Holdings, Inc. - Class A Common Stock
 CRWS,CRWS|Crown Crafts, Inc. - Common Stock
 CSBR,CSBR|Champions Oncology, Inc. - Common Stock
 CSCO,CSCO|Cisco Systems, Inc. - Common Stock
+CSCW,CSCW|Color Star Technology Co. Ltd. - Ordinary Shares
 CSGP,CSGP|CoStar Group, Inc. - Common Stock
 CSGS,CSGS|CSG Systems International, Inc. - Common Stock
 CSII,CSII|Cardiovascular Systems, Inc. - Common Stock
@@ -4552,6 +4551,8 @@ EPZM,EPZM|Epizyme, Inc. - Common Stock
 EQ,EQ|Equillium, Inc. - Common Stock
 EQBK,EQBK|Equity Bancshares, Inc. - Class A Common Stock
 EQIX,EQIX|Equinix, Inc. - Common Stock
+EQOS,EQOS|Diginex Limited - Ordinary Shares
+EQOSW,EQOSW|Diginex Limited - Warrant
 ERES,ERES|East Resources Acquisition Company - Class A Common Stock
 ERESU,ERESU|East Resources Acquisition Company - Unit
 ERESW,ERESW|East Resources Acquisition Company - Warrant
@@ -4977,7 +4978,6 @@ HGBL,HGBL|Heritage Global Inc. - Common Stock
 HGEN,HGEN|Humanigen, Inc. - Common Stock
 HGSH,HGSH|China HGS Real Estate, Inc. - Common Stock
 HHR,HHR|HeadHunter Group PLC - American Depositary Shares
-HHT,HHT|Color Star Technology Co. Ltd. - Ordinary Shares
 HIBB,HIBB|Hibbett Sports, Inc. - Common Stock
 HIFS,HIFS|Hingham Institution for Savings - Common Stock
 HIHO,HIHO|Highway Holdings Limited - Common Stock
@@ -5089,6 +5089,7 @@ IEP,IEP|Icahn Enterprises L.P. - Depositary units
 IESC,IESC|IES Holdings, Inc. - Common Stock
 IFMK,IFMK|iFresh Inc. - Common Stock
 IFRX,IFRX|InflaRx N.V. - Common Stock
+IGACU,IGACU|IG Acquisition Corp. - Unit
 IGIC,IGIC|International General Insurance Holdings Ltd. - Ordinary Shares
 IGICW,IGICW|International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025
 IGMS,IGMS|IGM Biosciences, Inc. - Common Stock
@@ -5202,10 +5203,6 @@ JCS,JCS|Communications Systems, Inc. - Common Stock
 JCTCF,JCTCF|Jewett-Cameron Trading Company - Common Shares
 JD,JD|JD.com, Inc. - American Depositary Shares
 JFIN,JFIN|Jiayin Group Inc. - American Depositary Shares
-JFK,JFK|8i Enterprises Acquisition Corp - Ordinary Shares
-JFKKR,JFKKR|8i Enterprises Acquisition Corp - Right
-JFKKU,JFKKU|8i Enterprises Acquisition Corp - Unit
-JFKKW,JFKKW|8i Enterprises Acquisition Corp - Warrant
 JFU,JFU|9F Inc. - American Depositary Shares
 JG,JG|Aurora Mobile Limited - American Depositary Shares
 JJSF,JJSF|J & J Snack Foods Corp. - Common Stock
@@ -5407,9 +5404,11 @@ LTRX,LTRX|Lantronix, Inc. - Common Stock
 LULU,LULU|lululemon athletica inc. - Common Stock
 LUMO,LUMO|Lumos Pharma, Inc. - Common Stock
 LUNA,LUNA|Luna Innovations Incorporated - Common Stock
+LUNG,LUNG|Pulmonx Corporation - Common Stock
 LVGO,LVGO|Livongo Health, Inc. - common stock
 LWAY,LWAY|Lifeway Foods, Inc. - Common Stock
 LX,LX|LexinFintech Holdings Ltd. - American Depositary Shares
+LXEH,LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares
 LXRX,LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock
 LYFT,LYFT|Lyft, Inc. - Class A Common Stock
 LYL,LYL|Dragon Victory International Limited - Ordinary Shares
@@ -5727,6 +5726,7 @@ NVIV,NVIV|InVivo Therapeutics Holdings Corp. - Common Stock
 NVMI,NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares
 NVUS,NVUS|Novus Therapeutics, Inc. - Common Stock
 NWBI,NWBI|Northwest Bancshares, Inc. - Common Stock
+NWE,NWE|NorthWestern Corporation - Common Stock
 NWFL,NWFL|Norwood Financial Corp. - Common Stock
 NWGI,NWGI|Newgioco Group, Inc. - Common Stock
 NWL,NWL|Newell Brands Inc. - Common Stock
@@ -6088,6 +6088,7 @@ RBCN,RBCN|Rubicon Technology, Inc. - Common Stock
 RBKB,RBKB|Rhinebeck Bancorp, Inc. - Common Stock
 RBNC,RBNC|Reliant Bancorp, Inc. - Common Stock
 RCEL,RCEL|Avita Therapeutics, Inc. - Common Stock
+RCHGU,RCHGU|Recharge Acquisition Corp. - Unit
 RCII,RCII|Rent-A-Center Inc. - Common Stock
 RCKT,RCKT|Rocket Pharmaceuticals, Inc. - Common Stock
 RCKY,RCKY|Rocky Brands, Inc. - Common Stock
@@ -6528,6 +6529,7 @@ THCBW,THCBW|Tuscan Holdings Corp. - Warrant
 THFF,THFF|First Financial Corporation Indiana - Common Stock
 THMO,THMO|ThermoGenesis Holdings, Inc. - Common Stock
 THRM,THRM|Gentherm Inc - Common Stock
+THRY,THRY|Thryv Holdings, Inc. - Common Stock
 THTX,THTX|Theratechnologies Inc. - Common Shares
 THWWW,THWWW|Target Hospitality Corp. - Warrant expiring 3/15/2024
 TIG,TIG|Trean Insurance Group, Inc. - Common Stock
@@ -6547,6 +6549,7 @@ TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNAV,TNAV|Telenav, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
+TOMZ,TOMZ|TOMI Environmental Solutions, Inc. - Common Stock
 TOPS,TOPS|TOP Ships Inc. - Common Stock
 TOTA,TOTA|Tottenham Acquisition I Limited - Ordinary Shares
 TOTAR,TOTAR|Tottenham Acquisition I Limited - Right
