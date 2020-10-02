@@ -110,7 +110,7 @@ AHPI|Allied Healthcare Products, Inc. - Common Stock|S|N|N|100|N|N
 AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
 AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares|G|N|N|100|N|N
 AIHS|Senmiao Technology Limited - Common Stock|S|N|D|100|N|N
-AIKI|AIkido Pharma Inc. - Common Stock|S|N|N|100|N|N
+AIKI|AIkido Pharma Inc. - Common Stock|S|N|D|100|N|N
 AIMC|Altra Industrial Motion Corp. - Common Stock|Q|N|N|100|N|N
 AIMT|Aimmune Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 AINV|Apollo Investment Corporation - Closed End Fund|Q|N|N|100|N|N
@@ -280,6 +280,7 @@ ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares|G|N|N|100|N|N
 ASMB|Assembly Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 ASML|ASML Holding N.V. - New York Registry Shares|Q|N|N|100|N|N
 ASND|Ascendis Pharma A/S - American Depositary Shares|Q|N|N|100|N|N
+ASO|Academy Sports and Outdoors, Inc. - Common Stock|Q|N|N|100|N|N
 ASPS|Altisource Portfolio Solutions S.A. - Common Stock|Q|N|N|100|N|N
 ASPU|Aspen Group Inc. - Common Stock|G|N|N|100|N|N
 ASRT|Assertio Holdings, Inc. - Common Stock|Q|N|D|100|N|N
@@ -605,6 +606,7 @@ CBTX|CBTX, Inc. - Common Stock|Q|N|N|100|N|N
 CCAP|Crescent Capital BDC, Inc. - Common Stock|G|N|N|100|N|N
 CCB|Coastal Financial Corporation - Common Stock|Q|N|N|100|N|N
 CCBG|Capital City Bank Group - Common Stock|Q|N|N|100|N|N
+CCCC|C4 Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 CCCL|China Ceramics Co., Ltd. - Common Stock|S|N|N|100|N|N
 CCD|Calamos Dynamic Convertible & Income Fund - Common Shares|Q|N|N|100|N|N
 CCLP|CSI Compressco LP - common units|Q|N|N|100|N|N
@@ -1525,7 +1527,7 @@ GSKY|GreenSky, Inc. - Common Stock|Q|N|N|100|N|N
 GSM|Ferroglobe PLC - Ordinary Shares|S|N|D|100|N|N
 GSMG|Glory Star New Media Group Holdings Limited - Ordinary Share|S|N|N|100|N|N
 GSMGW|Glory Star New Media Group Holdings Limited - Warrant|S|N|N|100|N|N
-GSUM|Gridsum Holding Inc. - American Depositary Shares|Q|N|D|100|N|N
+GSUM|Gridsum Holding Inc. - American Depositary Shares|Q|N|N|100|N|N
 GT|The Goodyear Tire & Rubber Company - Common Stock|Q|N|N|100|N|N
 GTEC|Greenland Technologies Holding Corporation - Ordinary Shares|S|N|N|100|N|N
 GTH|Genetron Holdings Limited - American Depositary Shares|G|N|N|100|N|N
@@ -1763,6 +1765,7 @@ IMKTA|Ingles Markets, Incorporated - Class A Common Stock|Q|N|N|100|N|N
 IMMP|Immutep Limited - American Depositary Shares|G|N|N|100|N|N
 IMMR|Immersion Corporation - Common Stock|Q|N|N|100|N|N
 IMMU|Immunomedics, Inc. - Common Stock|G|N|N|100|N|N
+IMNM|Immunome, Inc. - Common Stock|S|N|N|100|N|N
 IMOS|ChipMOS TECHNOLOGIES INC. - American Depositary Shares|Q|N|N|100|N|N
 IMRA|IMARA Inc. - Common Stock|Q|N|N|100|N|N
 IMRN|Immuron Limited - American Depositary Shares|S|N|N|100|N|N
@@ -1803,7 +1806,6 @@ INTG|The Intergroup Corporation - Common Stock|S|N|N|100|N|N
 INTU|Intuit Inc. - Common Stock|Q|N|N|100|N|N
 INVA|Innoviva, Inc. - Common Stock|Q|N|N|100|N|N
 INVE|Identiv, Inc. - Common Stock|S|N|N|100|N|N
-INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100|N|N
 INZY|Inozyme Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 IONS|Ionis Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 IOSP|Innospec Inc. - Common Stock|Q|N|N|100|N|N
@@ -1939,7 +1941,9 @@ KROS|Keros Therapeutics, Inc. - common stock|G|N|N|100|N|N
 KRTX|Karuna Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 KRUS|Kura Sushi USA, Inc. - Class A Common Stock|G|N|N|100|N|N
 KRYS|Krystal Biotech, Inc. - Common Stock|G|N|N|100|N|N
+KSMT|Kismet Acquisition One Corp - Ordinary Shares|S|N|N|100|N|N
 KSMTU|Kismet Acquisition One Corp - Unit|S|N|N|100|N|N
+KSMTW|Kismet Acquisition One Corp - Warrant|S|N|N|100|N|N
 KSPN|Kaspien Holdings Inc. - Common Stock|S|N|D|100|N|N
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100|N|N
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2038,7 +2042,7 @@ LMRKP|Landmark Infrastructure Partners LP - 8.00% Series A Cumulative Redeemable
 LMST|Limestone Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 LNDC|Landec Corporation - Common Stock|Q|N|N|100|N|N
 LNGR|Global X Longevity Thematic ETF|G|N|N|100|Y|N
-LNSRV|LENSAR, Inc. - Common Stock When Issued|S|N|N|100|N|N
+LNSR|LENSAR, Inc. - Common Stock|S|N|N|100|N|N
 LNT|Alliant Energy Corporation - Common Stock|Q|N|N|100|N|N
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100|N|N
 LOAC|Longevity Acquisition Corporation - Ordinary Shares|S|N|D|100|N|N
@@ -2214,7 +2218,6 @@ MNRO|Monro, Inc.  - Common Stock|Q|N|N|100|N|N
 MNSB|MainStreet Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 MNSBP|MainStreet Bancshares, Inc. - Depositary Shares|S|N|N|100|N|N
 MNST|Monster Beverage Corporation - Common Stock|Q|N|N|100|N|N
-MNTA|Momenta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 MNTX|Manitex International, Inc. - common stock|S|N|N|100|N|N
 MOBL|MobileIron, Inc. - Common Stock|Q|N|N|100|N|N
 MOFG|MidWestOne Financial Group, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2475,6 +2478,7 @@ OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|N|100|N|N
 OMP|Oasis Midstream Partners LP - Common Units, Representing Limited Partner Interests|Q|N|N|100|N|N
 ON|ON Semiconductor Corporation - Common Stock|Q|N|N|100|N|N
 ONB|Old National Bancorp - Common Stock|Q|N|N|100|N|N
+ONCR|Oncorus, Inc. - Common Stock|G|N|N|100|N|N
 ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100|N|N
 ONCT|Oncternal Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 ONCY|Oncolytics Biotech Inc. - Common Shares|S|N|N|100|N|N
@@ -2576,6 +2580,7 @@ PCB|PCB Bancorp - Common Stock|Q|N|N|100|N|N
 PCH|PotlatchDeltic Corporation - Common Stock|Q|N|N|100|N|N
 PCOM|Points International, Ltd. - Common Shares|S|N|N|100|N|N
 PCRX|Pacira BioSciences, Inc. - Common Stock|Q|N|N|100|N|N
+PCSA|Processa Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 PCSB|PCSB Financial Corporation - Common Stock|S|N|N|100|N|N
 PCTI|PCTEL, Inc. - Common Stock|Q|N|N|100|N|N
 PCTY|Paylocity Holding Corporation - Common Stock|Q|N|N|100|N|N
@@ -2591,7 +2596,6 @@ PDEX|Pro-Dex, Inc. - Common Stock|S|N|N|100|N|N
 PDFS|PDF Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 PDLB|PDL Community Bancorp - Common Stock|G|N|N|100|N|N
 PDLI|PDL BioPharma, Inc. - Common Stock|Q|N|N|100|N|N
-PDLIV|PDL BioPharma, Inc. - Common Stock Ex-Distribution When Issued|Q|N|N|100|N|N
 PDP|Invesco DWA Momentum ETF|G|N|N|100|Y|N
 PDSB|PDS Biotechnology Corporation - Common Stock|S|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
@@ -3715,4 +3719,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1001202015:41|||||||
+File Creation Time: 1002202012:11|||||||
