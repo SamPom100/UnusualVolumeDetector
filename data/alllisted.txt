@@ -929,7 +929,9 @@ DFVL,DFVL|iPath US Treasury 5 Year Bull ETN
 DFVS,DFVS|iPath US Treasury 5 Year Bear ETN
 DG,DG|Dollar General Corporation Common Stock
 DGBP,DGBP|ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index
+DGNR,DGNR|Dragoneer Growth Opportunities Corp. Class A Ordinary Shares
 DGNR.U,DGNR.U|Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
+DGNR.W,DGNR.W|Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 DGP,DGP|DB Gold Double Long ETN due February 15, 2038
 DGX,DGX|Quest Diagnostics Incorporated Common Stock
 DGZ,DGZ|DB Gold Short ETN due February 15, 2038
@@ -971,7 +973,9 @@ DMF,DMF|BNY Mellon Municipal Income Inc. Common Stock
 DMO,DMO|Western Asset Mortgage Opportunity Fund Inc. Common Stock
 DMS,DMS|Digital Media Solutions, Inc. Class A Ordinary Shares
 DMS.W,DMS.W|Digital Media Solutions, Inc. Warrants, 
+DMYD,DMYD|dMY Technology Group, Inc. II Class A Common Stock
 DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
 DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
 DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
@@ -2737,7 +2741,9 @@ RACE,RACE|Ferrari N.V. Common Shares
 RAD,RAD|Rite Aid Corporation Common Stock
 RAMP,RAMP|LiveRamp Holdings, Inc. Common Stock
 RBA,RBA|Ritchie Bros. Auctioneers Incorporated Common Stock
+RBAC,RBAC|RedBall Acquisition Corp. Class A Ordinary Shares
 RBAC.U,RBAC.U|RedBall Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+RBAC.W,RBAC.W|RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 RBC,RBC|Regal Beloit Corporation Common Stock
 RC,RC|Ready Capital Corproation Common Stock
 RCA,RCA|Ready Capital Corporation 7.00% Convertible Senior Notes due 2023
@@ -2919,7 +2925,6 @@ SEB,SEB|Seaboard Corporation Common Stock
 SEE,SEE|Sealed Air Corporation Common Stock
 SEM,SEM|Select Medical Holdings Corporation Common Stock
 SENS,SENS|Senseonics Holdings, Inc. Common Stock
-SERV,SERV|ServiceMaster Global Holdings, Inc. Common Stock
 SF,SF|Stifel Financial Corporation Common Stock
 SF$A,SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A
 SF$B,SF$B|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B
@@ -3195,6 +3200,7 @@ TMO,TMO|Thermo Fisher Scientific Inc Common Stock
 TMP,TMP|Tompkins Financial Corporation Common Stock
 TMQ,TMQ|Trilogy Metals Inc. Common Stock
 TMST,TMST|TimkenSteel Corporation Common Shares
+TMX,TMX|Terminix Global Holdings, Inc. Common Stock
 TNC,TNC|Tennant Company Common Stock
 TNET,TNET|TriNet Group, Inc. Common Stock
 TNK,TNK|Teekay Tankers Ltd.
@@ -3578,7 +3584,7 @@ ZEN,ZEN|Zendesk, Inc. Common Stock
 ZEXIT,ZEXIT|IEX Test Company Test Symbol Two for IEX
 ZIEXT,ZIEXT|IEX Test Company Test Symbol One for IEX
 ZNH,ZNH|China Southern Airlines Company Limited Common Stock
-ZOM,ZOM|Zomedica Pharmaceuticals Corp. Common Shares
+ZOM,ZOM|Zomedica Corp. Common Shares
 ZTEST,ZTEST|BATS BZX Exchange Common Stock (test issue)
 ZTO,ZTO|ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.
 ZTR,ZTR|Virtus Total Return Fund Inc.
@@ -4587,7 +4593,6 @@ ESXB,ESXB|Community Bankers Trust Corporation. - Common Stock
 ETAC,ETAC|E.Merge Technology Acquisition Corp. - Class A Common stock
 ETACU,ETACU|E.Merge Technology Acquisition Corp. - Unit
 ETACW,ETACW|E.Merge Technology Acquisition Corp. - Warrant
-ETFC,ETFC|E*TRADE Financial Corporation - Common Stock
 ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
 ETSY,ETSY|Etsy, Inc. - Common Stock
@@ -6085,6 +6090,7 @@ QUMU,QUMU|Qumu Corporation - Common Stock
 QURE,QURE|uniQure N.V. - Ordinary Shares
 RACA,RACA|Therapeutics Acquisition Corp. - Class A Common Stock
 RADA,RADA|RADA Electronic Industries Ltd. - Ordinary Shares
+RADI,RADI|Radius Global Infrastructure, Inc. - Common Stock
 RAIL,RAIL|Freightcar America, Inc. - Common Stock
 RAND,RAND|Rand Capital Corporation - Common Stock
 RAPT,RAPT|RAPT Therapeutics, Inc. - Common Stock
@@ -6209,7 +6215,9 @@ SAFM,SAFM|Sanderson Farms, Inc. - Common Stock
 SAFT,SAFT|Safety Insurance Group, Inc. - Common Stock
 SAGE,SAGE|Sage Therapeutics, Inc. - Common Stock
 SAIA,SAIA|Saia, Inc. - Common Stock
+SAII,SAII|Software Acquisition Group Inc. II - Class A Common Stock
 SAIIU,SAIIU|Software Acquisition Group Inc. II - Unit
+SAIIW,SAIIW|Software Acquisition Group Inc. II - Warrant
 SAL,SAL|Salisbury Bancorp, Inc. - Common Stock
 SALM,SALM|Salem Media Group, Inc. - Class A Common Stock
 SAMA,SAMA|Schultze Special Purpose Acquisition Corp. - Common Stock

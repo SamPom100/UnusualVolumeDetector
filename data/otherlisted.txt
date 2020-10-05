@@ -1173,7 +1173,9 @@ DFVS|iPath US Treasury 5 Year Bear ETN|Z|DFVS|N|100|N|DFVS
 DG|Dollar General Corporation Common Stock|N|DG|N|100|N|DG
 DGBP|ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index|P|DGBP|N|100|N|DGBP
 DGL|Invesco DB Gold Fund|P|DGL|Y|100|N|DGL
+DGNR|Dragoneer Growth Opportunities Corp. Class A Ordinary Shares|N|DGNR|N|100|N|DGNR
 DGNR.U|Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|DGNR.U|N|100|N|DGNR=
+DGNR.W|Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|DGNR.WS|N|100|N|DGNR+
 DGP|DB Gold Double Long ETN due February 15, 2038|P|DGP|N|100|N|DGP
 DGRO|iShares Core Dividend Growth ETF|P|DGRO|Y|100|N|DGRO
 DGS|WisdomTree Emerging Market SmallCap Fund|P|DGS|Y|100|N|DGS
@@ -1240,7 +1242,9 @@ DMRM|DeltaShares S&P 400 Managed Risk ETF|P|DMRM|Y|100|N|DMRM
 DMRS|DeltaShares S&P 600 Managed Risk ETF|P|DMRS|Y|100|N|DMRS
 DMS|Digital Media Solutions, Inc. Class A Ordinary Shares|N|DMS|N|100|N|DMS
 DMS.W|Digital Media Solutions, Inc. Warrants, |N|DMS.WS|N|100|N|DMS+
+DMYD|dMY Technology Group, Inc. II Class A Common Stock|N|DMYD|N|100|N|DMYD
 DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|DMYD.U|N|100|N|DMYD=
+DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|DMYD.WS|N|100|N|DMYD+
 DMYT|dMY Technology Group, Inc. Class A Common Stock|N|DMYT|N|100|N|DMYT
 DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|DMYT.U|N|100|N|DMYT=
 DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|DMYT.WS|N|100|N|DMYT+
@@ -4030,7 +4034,9 @@ RALS|ProShares RAFI Long Short ETF|P|RALS|Y|100|N|RALS
 RAMP|LiveRamp Holdings, Inc. Common Stock|N|RAMP|N|100|N|RAMP
 RAVI|FlexShares Ready Access Variable Income Fund|P|RAVI|Y|100|N|RAVI
 RBA|Ritchie Bros. Auctioneers Incorporated Common Stock|N|RBA|N|100|N|RBA
+RBAC|RedBall Acquisition Corp. Class A Ordinary Shares|N|RBAC|N|100|N|RBAC
 RBAC.U|RedBall Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|RBAC.U|N|100|N|RBAC=
+RBAC.W|RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|RBAC.WS|N|100|N|RBAC+
 RBC|Regal Beloit Corporation Common Stock|N|RBC|N|100|N|RBC
 RBIN|Nationwide Risk-Based International Equity ETF|P|RBIN|Y|100|N|RBIN
 RBUS|Nationwide Risk-Based U.S. Equity ETF|P|RBUS|Y|100|N|RBUS
@@ -4325,7 +4331,6 @@ SEIX|Virtus Seix Senior Loan ETF|P|SEIX|Y|100|N|SEIX
 SEM|Select Medical Holdings Corporation Common Stock|N|SEM|N|100|N|SEM
 SENS|Senseonics Holdings, Inc. Common Stock|A|SENS|N|100|N|SENS
 SEPZ|Listed Funds Trust TrueShares Structured Outcome (September) ETF|Z|SEPZ|Y|100|N|SEPZ
-SERV|ServiceMaster Global Holdings, Inc. Common Stock|N|SERV|N|100|N|SERV
 SF|Stifel Financial Corporation Common Stock|N|SF|N|100|N|SF
 SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A|N|SFpA|N|100|N|SF-A
 SF$B|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B|N|SFpB|N|100|N|SF-B
@@ -4789,6 +4794,7 @@ TMP|Tompkins Financial Corporation Common Stock|A|TMP|N|100|N|TMP
 TMQ|Trilogy Metals Inc. Common Stock|A|TMQ|N|100|N|TMQ
 TMST|TimkenSteel Corporation Common Shares|N|TMST|N|100|N|TMST
 TMV|Direxion Daily 20-Year Treasury Bear 3X|P|TMV|Y|100|N|TMV
+TMX|Terminix Global Holdings, Inc. Common Stock|N|TMX|N|100|N|TMX
 TNA|Direxion Small Cap Bull 3X Shares|P|TNA|Y|100|N|TNA
 TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
 TNET|TriNet Group, Inc. Common Stock|N|TNET|N|100|N|TNET
@@ -5425,7 +5431,7 @@ ZIG|The Acquirers Fund|P|ZIG|Y|100|N|ZIG
 ZJPN|SPDR Solactive Japan ETF|P|ZJPN|Y|100|N|ZJPN
 ZMLP|Direxion Zacks MLP High Income Index Shares|P|ZMLP|Y|100|N|ZMLP
 ZNH|China Southern Airlines Company Limited Common Stock|N|ZNH|N|100|N|ZNH
-ZOM|Zomedica Pharmaceuticals Corp. Common Shares|A|ZOM|N|100|N|ZOM
+ZOM|Zomedica Corp. Common Shares|A|ZOM|N|100|N|ZOM
 ZROZ|PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund|P|ZROZ|Y|100|N|ZROZ
 ZSL|ProShares UltraShort Silver|P|ZSL|Y|100|N|ZSL
 ZTEST|BATS BZX Exchange Common Stock (test issue)|Z|ZTEST|N|100|Y|ZTEST
@@ -5436,4 +5442,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1002202015:41||||||
+File Creation Time: 1005202012:11||||||
