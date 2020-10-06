@@ -1843,6 +1843,7 @@ FLY|Fly Leasing Limited|N|FLY|N|100|N|FLY
 FLYT|Direxion Flight to Safety Strategy ETF|P|FLYT|Y|100|N|FLYT
 FLZA|Franklin FTSE South Africa ETF|P|FLZA|Y|100|N|FLZA
 FM|iShares MSCI Frontier 100 Fund|P|FM|Y|100|N|FM
+FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|FMAC.U|N|100|N|FMAC=
 FMAT|Fidelity MSCI Materials Index ETF|P|FMAT|Y|100|N|FMAT
 FMAY|FT Cboe Vest U.S. Equity Buffer ETF - May|Z|FMAY|Y|100|N|FMAY
 FMC|FMC Corporation Common Stock|N|FMC|N|100|N|FMC
@@ -2083,6 +2084,7 @@ GL|Globe Life Inc. Common Stock|N|GL|N|100|N|GL
 GL$C|Globe Life Inc. 6.125% Junior Subordinated Debentures due 2056|N|GLpC|N|100|N|GL-C
 GLCN|VanEck Vectors China Growth Leaders ETF|P|GLCN|Y|100|N|GLCN
 GLD|SPDR Gold Trust|P|GLD|Y|100|N|GLD
+GLDG|GoldMining Inc. Common Shares|A|GLDG|N|100|N|GLDG
 GLDM|SPDR Gold MiniShares Trust|P|GLDM|Y|100|N|GLDM
 GLEO|Galileo Acquisition Corp. Ordinary Shares|N|GLEO|N|100|N|GLEO
 GLEO.U|Galileo Acquisition Corp. Units, each consisting of one Ordinary Share and one Redeemable Warrant|N|GLEO.U|N|100|N|GLEO=
@@ -2101,7 +2103,7 @@ GLOP$C|GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed 
 GLP|Global Partners LP Global Partners LP Common Units representing Limited Partner Interests|N|GLP|N|100|N|GLP
 GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests|N|GLPpA|N|100|N|GLP-A
 GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest|A|GLQ|N|100|N|GLQ
-GLT|Glatfelter Common Stock|N|GLT|N|100|N|GLT
+GLT|Glatfelter Corporation Common Stock|N|GLT|N|100|N|GLT
 GLTR|Aberdeen Standard Physical Precious Metals Basket Shares ETF|P|GLTR|Y|100|N|GLTR
 GLU|Gabelli Global Utility Common Shares of Beneficial Ownership|A|GLU|N|100|N|GLU
 GLU$A|The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares|A|GLUpA|N|100|N|GLU-A
@@ -4116,6 +4118,7 @@ RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RISE|Sit Rising Rate ETF|P|RISE|Y|100|N|RISE
 RISN|Inspire Tactical Balanced ESG ETF|P|RISN|Y|100|N|RISN
 RIV|RiverNorth Opportunities Fund, Inc. Common Stock|N|RIV|N|100|N|RIV
+RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 3, 2020)|N|RIVr|N|100|N|RIV^
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
 RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
 RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product|P|RJI|N|100|N|RJI
@@ -5442,4 +5445,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1005202015:41||||||
+File Creation Time: 1006202012:11||||||

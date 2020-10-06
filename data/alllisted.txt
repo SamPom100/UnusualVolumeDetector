@@ -1293,6 +1293,7 @@ FLR,FLR|Fluor Corporation Common Stock
 FLS,FLS|Flowserve Corporation Common Stock
 FLT,FLT|FleetCor Technologies, Inc. Common Stock
 FLY,FLY|Fly Leasing Limited
+FMAC.U,FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 FMC,FMC|FMC Corporation Common Stock
 FMN,FMN|Federated Hermes Premier Municipal Income Fund
 FMO,FMO|Fiduciary/Claymore Energy Infrastructure Fund Common Shares of Beneficial Interest
@@ -1449,6 +1450,7 @@ GJT,GJT|Synthetic Fixed-Income Securities, Inc. Synthetic Fixed-Income Securitie
 GKOS,GKOS|Glaukos Corporation Common Stock
 GL,GL|Globe Life Inc. Common Stock
 GL$C,GL$C|Globe Life Inc. 6.125% Junior Subordinated Debentures due 2056
+GLDG,GLDG|GoldMining Inc. Common Shares
 GLEO,GLEO|Galileo Acquisition Corp. Ordinary Shares
 GLEO.U,GLEO.U|Galileo Acquisition Corp. Units, each consisting of one Ordinary Share and one Redeemable Warrant
 GLEO.W,GLEO.W|Galileo Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50
@@ -1463,7 +1465,7 @@ GLOP$C,GLOP$C|GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual
 GLP,GLP|Global Partners LP Global Partners LP Common Units representing Limited Partner Interests
 GLP$A,GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests
 GLQ,GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest
-GLT,GLT|Glatfelter Common Stock
+GLT,GLT|Glatfelter Corporation Common Stock
 GLU,GLU|Gabelli Global Utility Common Shares of Beneficial Ownership
 GLU$A,GLU$A|The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares
 GLU$B,GLU$B|The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares
@@ -2793,6 +2795,7 @@ RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
+RIV.R,RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 3, 2020)
 RJA,RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
 RJF,RJF|Raymond James Financial, Inc. Common Stock
 RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product
@@ -3649,7 +3652,6 @@ ADMP,ADMP|Adamis Pharmaceuticals Corporation - Common Stock
 ADMS,ADMS|Adamas Pharmaceuticals, Inc. - Common Stock
 ADP,ADP|Automatic Data Processing, Inc. - Common Stock
 ADPT,ADPT|Adaptive Biotechnologies Corporation - Common Stock
-ADRO,ADRO|Aduro Biotech, Inc. - Common Stock
 ADSK,ADSK|Autodesk, Inc. - Common Stock
 ADTN,ADTN|ADTRAN, Inc. - Common Stock
 ADTX,ADTX|ADiTx Therapeutics, Inc. - Common Stock
@@ -3777,7 +3779,6 @@ AMST,AMST|Amesite Inc. - Common Stock
 AMSWA,AMSWA|American Software, Inc. - Class A Common Stock
 AMTB,AMTB|Amerant Bancorp Inc. - Class A Common Stock
 AMTBB,AMTBB|Amerant Bancorp Inc. - Class B Common Stock
-AMTD,AMTD|TD Ameritrade Holding Corporation - Common Stock
 AMTI,AMTI|Applied Molecular Transport Inc. - common stock
 AMTX,AMTX|Aemetis, Inc - Common Stock
 AMWD,AMWD|American Woodmark Corporation - Common Stock
@@ -4291,6 +4292,7 @@ COCP,COCP|Cocrystal Pharma, Inc. - Common Stock
 CODA,CODA|Coda Octopus Group, Inc. - Common stock
 CODX,CODX|Co-Diagnostics, Inc. - Common Stock
 COFS,COFS|ChoiceOne Financial Services, Inc. - Common Stock
+COGT,COGT|Cogent Biosciences, Inc. - Common Stock
 COHR,COHR|Coherent, Inc. - Common Stock
 COHU,COHU|Cohu, Inc. - Common Stock
 COKE,COKE|Coca-Cola Consolidated, Inc. - Common Stock
@@ -5244,6 +5246,7 @@ KBNTW,KBNTW|Kubient, Inc. - Warrant
 KBSF,KBSF|KBS Fashion Group Limited - Common Stock
 KC,KC|Kingsoft Cloud Holdings Limited - American Depositary Shares
 KCAPL,KCAPL|Portman Ridge Finance Corporation - 6.125% Notes due 2022
+KDNY,KDNY|Chinook Therapeutics, Inc. - Common Stock
 KDP,KDP|Keurig Dr Pepper Inc. - Common Stock
 KE,KE|Kimball Electronics, Inc. - Common Stock
 KELYA,KELYA|Kelly Services, Inc. - Class A Common Stock
@@ -5621,7 +5624,6 @@ NBACU,NBACU|Newborn Acquisition Corp. - Unit
 NBACW,NBACW|Newborn Acquisition Corp. - Warrant
 NBEV,NBEV|NewAge, Inc. - Common Stock
 NBIX,NBIX|Neurocrine Biosciences, Inc. - Common Stock
-NBL,NBL|Noble Energy Inc. - Common Stock
 NBLX,NBLX|Noble Midstream Partners LP - Common Units, Representing Limited Partner Interests
 NBN,NBN|Northeast Bank - Common Stock
 NBRV,NBRV|Nabriva Therapeutics plc - Ordinary Shares
@@ -6657,7 +6659,6 @@ ULH,ULH|Universal Logistics Holdings, Inc. - Common Stock
 ULTA,ULTA|Ulta Beauty, Inc. - Common Stock
 UMBF,UMBF|UMB Financial Corporation - Common Stock
 UMPQ,UMPQ|Umpqua Holdings Corporation - Common Stock
-UMRX,UMRX|Unum Therapeutics Inc. - Common Stock
 UNAM,UNAM|Unico American Corporation - Common Stock
 UNB,UNB|Union Bankshares, Inc. - Common Stock
 UNIT,UNIT|Uniti Group Inc. - Common Stock
