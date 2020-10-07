@@ -975,7 +975,7 @@ DMS,DMS|Digital Media Solutions, Inc. Class A Ordinary Shares
 DMS.W,DMS.W|Digital Media Solutions, Inc. Warrants, 
 DMYD,DMYD|dMY Technology Group, Inc. II Class A Common Stock
 DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
-DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
+DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants
 DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
 DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
@@ -1013,6 +1013,7 @@ DSU,DSU|Blackrock Debt Strategies Fund, Inc. Common Stock
 DSX,DSX|Diana Shipping inc. common stock
 DSX$B,DSX$B|Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)
 DT,DT|Dynatrace, Inc. Common Stock
+DTB,DTB|DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080
 DTE,DTE|DTE Energy Company Common Stock
 DTF,DTF|DTF Tax-Free Income, Inc. Common Stock
 DTJ,DTJ|DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076
@@ -1109,6 +1110,7 @@ EMF,EMF|Templeton Emerging Markets Fund Common Stock
 EMN,EMN|Eastman Chemical Company Common Stock
 EMO,EMO|ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock
 EMP,EMP|Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066
+EMPW.U,EMPW.U|Empower Ltd. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
 EMR,EMR|Emerson Electric Company Common Stock
 EMX,EMX|EMX Royalty Corporation Common Shares (Canada)
 ENB,ENB|Enbridge Inc Common Stock
@@ -2499,6 +2501,7 @@ OXY.W,OXY.W|Occidental Petroleum Corporation Warrants
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACD,PACD|Pacific Drilling S.A. Common Shares
+PACE.U,PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 PACK,PACK|Ranpak Holdings Corp Class A Common Stock
 PAG,PAG|Penske Automotive Group, Inc. Common Stock
 PAGP,PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests
@@ -3216,6 +3219,7 @@ TOL,TOL|Toll Brothers, Inc. Common Stock
 TOT,TOT|Total SE
 TPB,TPB|Turning Point Brands, Inc. Common Stock
 TPC,TPC|Tutor Perini Corporation Common Stock
+TPGY.U,TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 TPH,TPH|TRI Pointe Group, Inc. Common Stock
 TPHS,TPHS|Trinity Place Holdings Inc. Common Stock
 TPL,TPL|Texas Pacific Land Trust Common Stock
@@ -5432,6 +5436,7 @@ LYFT,LYFT|Lyft, Inc. - Class A Common Stock
 LYL,LYL|Dragon Victory International Limited - Ordinary Shares
 LYRA,LYRA|Lyra Therapeutics, Inc. - Common Stock
 LYTS,LYTS|LSI Industries Inc. - Common Stock
+MAACU,MAACU|Montes Archimedes Acquisition Corp. - Unit
 MACK,MACK|Merrimack Pharmaceuticals, Inc. - Common Stock
 MAGS,MAGS|Magal Security Systems Ltd. - Ordinary Shares
 MANH,MANH|Manhattan Associates, Inc. - Common Stock
@@ -5661,6 +5666,7 @@ NFIN,NFIN|Netfin Acquisition Corp. - Class A Ordinary Shares
 NFINU,NFINU|Netfin Acquisition Corp. - Unit
 NFINW,NFINW|Netfin Acquisition Corp. - Warrants
 NFLX,NFLX|Netflix, Inc. - Common Stock
+NGACU,NGACU|NextGen Acquisition Corporation - Units
 NGHC,NGHC|National General Holdings Corp - Common Stock
 NGHCN,NGHCN|National General Holdings Corp - Depositary Shares, each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock, Series C
 NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
@@ -6396,6 +6402,7 @@ SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
 SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
+SQFT,SQFT|Presidio Property Trust, Inc. - Common Stock
 SRAC,SRAC|Stable Road Acquisition Corp. - Class A Common Stock
 SRACU,SRACU|Stable Road Acquisition Corp. - Unit
 SRACW,SRACW|Stable Road Acquisition Corp. - Warrant
