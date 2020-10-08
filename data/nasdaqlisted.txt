@@ -351,6 +351,7 @@ AYTU|Aytu BioScience, Inc. - Common Stock|S|N|N|100|N|N
 AZN|AstraZeneca PLC - American Depositary Shares|Q|N|N|100|N|N
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|E|100|N|N
 AZRX|AzurRx BioPharma, Inc. - Common Stock|S|N|D|100|N|N
+AZYO|Aziyo Biologics, Inc. - Class A Common Stock|G|N|N|100|N|N
 BAND|Bandwidth Inc. - Class A Common Stock|Q|N|N|100|N|N
 BANF|BancFirst Corporation - Common Stock|Q|N|N|100|N|N
 BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities|Q|N|N|100|N|N
@@ -541,7 +542,9 @@ BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|N|100|N|N
 BSVN|Bank7 Corp. - Common stock|Q|N|N|100|N|N
 BSY|Bentley Systems, Incorporated - Class B Common Stock|Q|N|N|100|N|N
 BTAI|BioXcel Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+BTAQ|Burgundy Technology Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
 BTAQU|Burgundy Technology Acquisition Corporation - Unit|S|N|N|100|N|N
+BTAQW|Burgundy Technology Acquisition Corporation - Warrant|S|N|N|100|N|N
 BTBT|Golden Bull Limited - Ordinary Share|S|N|N|100|N|N
 BTEC|Principal Healthcare Innovators Index ETF|G|N|N|100|Y|N
 BUG|Global X Cybersecurity ETF|G|N|N|100|Y|N
@@ -1075,6 +1078,7 @@ EMIF|iShares S&P Emerging Markets Infrastructure Index Fund|G|N|N|100|Y|N
 EMKR|EMCORE Corporation - Common Stock|G|N|N|100|N|N
 EML|Eastern Company (The) - Common Stock|G|N|N|100|N|N
 EMXC|iShares MSCI Emerging Markets ex China ETF|G|N|N|100|Y|N
+EMXF|iShares ESG Advanced MSCI EM ETF|G|N|N|100|Y|N
 ENDP|Endo International plc - Ordinary Shares|Q|N|N|100|N|N
 ENG|ENGlobal Corporation - Common Stock|S|N|D|100|N|N
 ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -2120,7 +2124,7 @@ MBINP|Merchants Bancorp - 7.00% Fixed-to-Floating Rate Series A Non-Cumulative P
 MBIO|Mustang Bio, Inc. - Common Stock|G|N|N|100|N|N
 MBNKP|Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F|S|N|N|100|N|N
 MBOT|Microbot Medical Inc.  - Common Stock|S|N|N|100|N|N
-MBRX|Moleculin Biotech, Inc. - Common Stock|S|N|N|100|N|N
+MBRX|Moleculin Biotech, Inc. - Common Stock|S|N|D|100|N|N
 MBUU|Malibu Boats, Inc. - Common Stock|G|N|N|100|N|N
 MBWM|Mercantile Bank Corporation - Common Stock|Q|N|N|100|N|N
 MCAC|Mountain Crest Acquisition Corp. - Common Stock|S|N|N|100|N|N
@@ -2557,6 +2561,7 @@ PACW|PacWest Bancorp - Common Stock|Q|N|N|100|N|N
 PAE|PAE Incorporated - Class A Common Stock|S|N|N|100|N|N
 PAEWW|PAE Incorporated - Warrants|S|N|N|100|N|N
 PAHC|Phibro Animal Health Corporation - Class A Common Stock|G|N|N|100|N|N
+PAICU|Petra Acquisition, Inc. - Units|S|N|N|100|N|N
 PAND|Pandion Therapeutics Inc. - Common stock|Q|N|N|100|N|N
 PANL|Pangaea Logistics Solutions Ltd. - Common Stock|S|N|N|100|N|N
 PASG|Passage Bio, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2776,6 +2781,8 @@ PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 PXI|Invesco DWA Energy Momentum ETF|G|N|N|100|Y|N
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100|N|N
 PXS|Pyxis Tankers Inc. - Common Stock|S|N|D|100|N|N
+PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Redeemable Perpetual Preferred Share|S|N|N|100|N|N
+PXSAW|Pyxis Tankers Inc. - Warrant|S|N|N|100|N|N
 PY|Principal Value ETF|G|N|N|100|Y|N
 PYPD|PolyPid Ltd. - Ordinary Shares|G|N|N|100|N|N
 PYPL|PayPal Holdings, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3037,7 +3044,7 @@ SGRP|SPAR Group, Inc. - Common Stock|S|N|D|100|N|N
 SGRY|Surgery Partners, Inc. - Common Stock|Q|N|N|100|N|N
 SHBI|Shore Bancshares Inc - Common Stock|Q|N|N|100|N|N
 SHEN|Shenandoah Telecommunications Co - Common Stock|Q|N|N|100|N|N
-SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|N|100|N|N
+SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|D|100|N|N
 SHIPW|Seanergy Maritime Holdings Corp - Class A Warrants|S|N|N|100|N|N
 SHIPZ|Seanergy Maritime Holdings Corp - Class B Warrant|S|N|N|100|N|N
 SHOO|Steven Madden, Ltd. - Common Stock|Q|N|N|100|N|N
@@ -3136,7 +3143,7 @@ SOXX|iShares PHLX SOX Semiconductor Sector Index Fund|G|N|N|100|Y|N
 SP|SP Plus Corporation - Common Stock|Q|N|N|100|N|N
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|E|100|N|N
 SPFI|South Plains Financial, Inc. - Common Stock|Q|N|N|100|N|N
-SPI|SPI Energy Co., Ltd. - Ordinary Shares|Q|N|D|100|N|N
+SPI|SPI Energy Co., Ltd. - Ordinary Shares|Q|N|N|100|N|N
 SPKE|Spark Energy, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SPKEP|Spark Energy, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock|Q|N|N|100|N|N
 SPLK|Splunk Inc. - Common Stock|Q|N|N|100|N|N
@@ -3153,7 +3160,7 @@ SPTN|SpartanNash Company - Common Stock|Q|N|N|100|N|N
 SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPWR|SunPower Corporation - Common Stock|Q|N|N|100|N|N
 SQBG|Sequential Brands Group, Inc. - Common Stock|S|N|N|100|N|N
-SQFT|Presidio Property Trust, Inc. - Common Stock|G|N|N|100|N|N
+SQFT|Presidio Property Trust, Inc. - Class A Common Stock|S|N|N|100|N|N
 SQLV|Legg Mason Small-Cap Quality Value ETF|G|N|N|100|Y|N
 SQQQ|ProShares UltraPro Short QQQ|G|N|N|100|Y|N
 SRAC|Stable Road Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -3722,4 +3729,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1007202015:42|||||||
+File Creation Time: 1008202012:11|||||||

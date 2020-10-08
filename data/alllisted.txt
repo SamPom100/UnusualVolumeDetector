@@ -192,7 +192,9 @@ ANTM,ANTM|Anthem, Inc. Common Stock
 ANVS,ANVS|Annovis Bio, Inc. Common Stock
 AOD,AOD|Aberdeen Total Dynamic Dividend Fund Common Stock
 AON,AON|Aon plc Class A Ordinary Shares (Ireland)
+AONE,AONE|one Class A Ordinary Shares
 AONE.U,AONE.U|one Units, each consisting of one Class A Ordinary Share, and one third of one Warrant to acquire one Class A Ordinary Share
+AONE.W,AONE.W|one Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 AOS,AOS|A.O. Smith Corporation Common Stock
 AP,AP|Ampco-Pittsburgh Corporation Common Stock
 AP.W,AP.W|Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock
@@ -1359,6 +1361,7 @@ FTSI,FTSI|FTS International, Inc. Common Stock
 FTV,FTV|Fortive Corporation Common Stock 
 FTV$A,FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A
 FTV.V,FTV.V|Fortive Corporation Common Stock Ex-Distribution When Issued
+FUBO,FUBO|fuboTV Inc. Common Stock
 FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
 FUL,FUL|H. B. Fuller Company Common Stock
@@ -2283,7 +2286,9 @@ NFH,NFH|New Frontier Health Corporation Ordinary Shares
 NFH.W,NFH.W|New Frontier Health Corporation Warrants
 NFJ,NFJ|AllianzGI Dividend, Interest & Premium Strategy Fund
 NG,NG|Novagold Resources Inc.
+NGA,NGA|Northern Genesis Acquisition Corp. Common Stock
 NGA.U,NGA.U|Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant
+NGA.W,NGA.W|Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of common stock at an exercise price of $11.50 per share
 NGD,NGD|New Gold Inc.
 NGG,NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
 NGL,NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
@@ -3079,7 +3084,9 @@ STN,STN|Stantec Inc Common Stock
 STNG,STNG|Scorpio Tankers Inc. Common Shares
 STON,STON|StoneMor Inc. Common Stock
 STOR,STOR|STORE Capital Corporation Common Stock
+STPK,STPK|Star Peak Energy Transition Corp. Class A Common Stock
 STPK.U,STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant
+STPK.W,STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 STT,STT|State Street Corporation Common Stock
 STT$D,STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
 STT$G,STT$G|State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative
@@ -3437,7 +3444,6 @@ VRT,VRT|Vertiv Holdings, LLC Class A Common Stock
 VRT.W,VRT.W|Vertiv Holdings, LLC Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 VRTV,VRTV|Veritiv Corporation Common Stock
 VSH,VSH|Vishay Intertechnology, Inc. Common Stock
-VSLR,VSLR|Vivint Solar, Inc. Common Stock
 VST,VST|Vistra Corp. Common Stock
 VST.A,VST.A|Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)
 VSTO,VSTO|Vista Outdoor Inc. Common Stock
@@ -3939,6 +3945,7 @@ AYTU,AYTU|Aytu BioScience, Inc. - Common Stock
 AZN,AZN|AstraZeneca PLC - American Depositary Shares
 AZPN,AZPN|Aspen Technology, Inc. - Common Stock
 AZRX,AZRX|AzurRx BioPharma, Inc. - Common Stock
+AZYO,AZYO|Aziyo Biologics, Inc. - Class A Common Stock
 BAND,BAND|Bandwidth Inc. - Class A Common Stock
 BANF,BANF|BancFirst Corporation - Common Stock
 BANFP,BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
@@ -4083,7 +4090,9 @@ BSTC,BSTC|BioSpecifics Technologies Corp - Common Stock
 BSVN,BSVN|Bank7 Corp. - Common stock
 BSY,BSY|Bentley Systems, Incorporated - Class B Common Stock
 BTAI,BTAI|BioXcel Therapeutics, Inc. - Common Stock
+BTAQ,BTAQ|Burgundy Technology Acquisition Corporation - Class A Ordinary Shares
 BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
+BTAQW,BTAQW|Burgundy Technology Acquisition Corporation - Warrant
 BTBT,BTBT|Golden Bull Limited - Ordinary Share
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
@@ -5887,6 +5896,7 @@ PACW,PACW|PacWest Bancorp - Common Stock
 PAE,PAE|PAE Incorporated - Class A Common Stock
 PAEWW,PAEWW|PAE Incorporated - Warrants
 PAHC,PAHC|Phibro Animal Health Corporation - Class A Common Stock
+PAICU,PAICU|Petra Acquisition, Inc. - Units
 PAND,PAND|Pandion Therapeutics Inc. - Common stock
 PANL,PANL|Pangaea Logistics Solutions Ltd. - Common Stock
 PASG,PASG|Passage Bio, Inc. - Common Stock
@@ -6067,6 +6077,8 @@ PWFL,PWFL|PowerFleet, Inc. - Common Stock
 PWOD,PWOD|Penns Woods Bancorp, Inc. - Common Stock
 PXLW,PXLW|Pixelworks, Inc. - Common Stock
 PXS,PXS|Pyxis Tankers Inc. - Common Stock
+PXSAP,PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Redeemable Perpetual Preferred Share
+PXSAW,PXSAW|Pyxis Tankers Inc. - Warrant
 PYPD,PYPD|PolyPid Ltd. - Ordinary Shares
 PYPL,PYPL|PayPal Holdings, Inc. - Common Stock
 PZZA,PZZA|Papa John's International, Inc. - Common Stock
@@ -6402,7 +6414,7 @@ SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
 SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
-SQFT,SQFT|Presidio Property Trust, Inc. - Common Stock
+SQFT,SQFT|Presidio Property Trust, Inc. - Class A Common Stock
 SRAC,SRAC|Stable Road Acquisition Corp. - Class A Common Stock
 SRACU,SRACU|Stable Road Acquisition Corp. - Unit
 SRACW,SRACW|Stable Road Acquisition Corp. - Warrant
