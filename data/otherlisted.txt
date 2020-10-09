@@ -495,7 +495,9 @@ BFOR|Barron's 400|P|BFOR|Y|100|N|BFOR
 BFS|Saul Centers, Inc. Common Stock|N|BFS|N|100|N|BFS
 BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock|N|BFSpD|N|100|N|BFS-D
 BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock|N|BFSpE|N|100|N|BFS-E
+BFT|Foley Trasimene Acquisition Corp. II Class A Common Stock|N|BFT|N|100|N|BFT
 BFT.U|Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-third of one warrant|N|BFT.U|N|100|N|BFT=
+BFT.W|Foley Trasimene Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share|N|BFT.WS|N|100|N|BFT+
 BFTR|BlackRock Future Innovators ETF|P|BFTR|Y|100|N|BFTR
 BFY|BlackRock New York Municipal Income Trust II|N|BFY|N|100|N|BFY
 BFZ|BlackRock California Municipal Income Trust|N|BFZ|N|100|N|BFZ
@@ -770,9 +772,6 @@ CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
 CCX|Churchill Capital Corp II Class A Common Stock|N|CCX|N|100|N|CCX
 CCX.U|Churchill Capital Corp II Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant|N|CCX.U|N|100|N|CCX=
 CCX.W|Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCX.WS|N|100|N|CCX+
-CCXX|Churchill Capital Corp III Class A common stock, par value $0.0001 per share|N|CCXX|N|100|N|CCXX
-CCXX.U|Churchill Capital Corp III Units, each consisting of one share of Class A Common Stock and one-fourth of one redeemable Warrant|N|CCXX.U|N|100|N|CCXX=
-CCXX.W|Churchill Capital Corp III Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCXX.WS|N|100|N|CCXX+
 CCZ|Comcast Holdings ZONES|N|CCZ|N|100|N|CCZ
 CDAY|Ceridian HCM Holding Inc. Common Stock|N|CDAY|N|100|N|CDAY
 CDE|Coeur Mining, Inc. Common Stock|N|CDE|N|100|N|CDE
@@ -872,7 +871,9 @@ CIX|CompX International Inc. Common Stock|A|CIX|N|100|N|CIX
 CKH|SEACOR Holdings Inc. Common Stock|N|CKH|N|100|N|CKH
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
+CLA|Colonnade Acquisition Corp. Class A Ordinary Shares|N|CLA|N|100|N|CLA
 CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|CLA.U|N|100|N|CLA=
+CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CLA.WS|N|100|N|CLA+
 CLB|Core Laboratories N.V. Common Stock|N|CLB|N|100|N|CLB
 CLDR|Cloudera, Inc. Common Stock|N|CLDR|N|100|N|CLDR
 CLDT|Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest|N|CLDT|N|100|N|CLDT
@@ -1251,7 +1252,6 @@ DMYT|dMY Technology Group, Inc. Class A Common Stock|N|DMYT|N|100|N|DMYT
 DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|DMYT.U|N|100|N|DMYT=
 DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|DMYT.WS|N|100|N|DMYT+
 DNB|Dun & Bradstreet Holdings, Inc. Common Stock|N|DNB|N|100|N|DNB
-DNI|Dividend and Income Fund Common Stock|N|DNI|N|100|N|DNI
 DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares|N|DNK|N|100|N|DNK
 DNL|WisdomTree Global ex-US Quality Dividend Growth Fund|P|DNL|Y|100|N|DNL
 DNN|Denison Mines Corp Ordinary Shares (Canada)|A|DNN|N|100|N|DNN
@@ -1896,7 +1896,6 @@ FR|First Industrial Realty Trust, Inc. Common Stock|N|FR|N|100|N|FR
 FRA|Blackrock Floating Rate Income Strategies Fund Inc  Common Stock|N|FRA|N|100|N|FRA
 FRAK|VanEck Vectors Unconventional Oil & Gas ETF|P|FRAK|Y|100|N|FRAK
 FRC|FIRST REPUBLIC BANK Common Stock|N|FRC|N|100|N|FRC
-FRC$F|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.70% Noncumulative Perpetual Series F Preferred Stock|N|FRCpF|N|100|N|FRC-F
 FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series G Preferred Stock|N|FRCpG|N|100|N|FRC-G
 FRC$H|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share|N|FRCpH|N|100|N|FRC-H
 FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share|N|FRCpI|N|100|N|FRC-I
@@ -1940,7 +1939,6 @@ FTSD|Franklin Liberty Short Duration U.S. Government ETF|P|FTSD|Y|100|N|FTSD
 FTSI|FTS International, Inc. Common Stock|A|FTSI|N|100|N|FTSI
 FTV|Fortive Corporation Common Stock |N|FTV|N|100|N|FTV
 FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A|N|FTVpA|N|100|N|FTV-A
-FTV.V|Fortive Corporation Common Stock Ex-Distribution When Issued|N|FTVw|N|100|N|FTV#
 FUBO|fuboTV Inc. Common Stock|N|FUBO|N|100|N|FUBO
 FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN|P|FUD|N|100|N|FUD
 FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return|P|FUE|N|100|N|FUE
@@ -2522,6 +2520,7 @@ IGRO|iShares International Dividend Growth ETF|Z|IGRO|Y|100|N|IGRO
 IGT|International Game Technology Ordinary Shares|N|IGT|N|100|N|IGT
 IGV|iShares Expanded Tech-Software Sector ETF|Z|IGV|Y|100|N|IGV
 IGZ|IGZ (Listing Market NYSE Arca Network B F) Common Stock|P|IGZ|N|100|Y|IGZ
+IH|iHuman Inc. American depositary shares, each representing five Class A ordinary shares|N|IH|N|100|N|IH
 IHAK|iShares Cybersecurity and Tech ETF|P|IHAK|Y|100|N|IHAK
 IHC|Independence Holding Company Common Stock|N|IHC|N|100|N|IHC
 IHD|Voya Emerging Markets High Income Dividend Equity Fund Common Shares|N|IHD|N|100|N|IHD
@@ -2600,6 +2599,9 @@ IPOB.W|Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, each who
 IPOC|Social Capital Hedosophia Holdings Corp. III Class A Ordinary Shares|N|IPOC|N|100|N|IPOC
 IPOC.U|Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant|N|IPOC.U|N|100|N|IPOC=
 IPOC.W|Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IPOC.WS|N|100|N|IPOC+
+IPOD.U|Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOD.U|N|100|N|IPOD=
+IPOE.U|Social Capital Hedosophia Holdings Corp. V Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOE.U|N|100|N|IPOE=
+IPOF.U|Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOF.U|N|100|N|IPOF=
 IPOS|Renaissance Capital Greenwich Fund|P|IPOS|Y|100|N|IPOS
 IPV|InterPrivate Acquisition Corp. Common Stock|N|IPV|N|100|N|IPV
 IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant|N|IPV.U|N|100|N|IPV=
@@ -3229,6 +3231,8 @@ MOTO|SmartETFs Smart Transportation & Technology ETF|P|MOTO|Y|100|N|MOTO
 MOV|Movado Group Inc. Common Stock|N|MOV|N|100|N|MOV
 MPA|Blackrock MuniYield Pennsylvania Quality Fund Common Stock|N|MPA|N|100|N|MPA
 MPC|Marathon Petroleum Corporation Common Stock|N|MPC|N|100|N|MPC
+MPLN|MultiPlan Corporation Class A Common Stock|N|MPLN|N|100|N|MPLN
+MPLN.W|MultiPlan Corporation Warrants|N|MPLN.WS|N|100|N|MPLN+
 MPLX|MPLX LP Common Units Representing Limited Partner Interests|N|MPLX|N|100|N|MPLX
 MPV|Barings Participation Investors Common Stock|N|MPV|N|100|N|MPV
 MPW|Medical Properties Trust, Inc. common stock|N|MPW|N|100|N|MPW
@@ -3918,6 +3922,7 @@ PSA$J|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.700% Cum
 PSA$K|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75% Cumulative Preferred Share of Beneficial Interest, Series K|N|PSApK|N|100|N|PSA-K
 PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share|N|PSApL|N|100|N|PSA-L
 PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M|N|PSApM|N|100|N|PSA-M
+PSA$N|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N|N|PSApN|N|100|N|PSA-N
 PSB|PS Business Parks, Inc. Common Stock|N|PSB|N|100|N|PSB
 PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W|N|PSBpW|N|100|N|PSB-W
 PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X|N|PSBpX|N|100|N|PSB-X
@@ -5162,7 +5167,7 @@ VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares
 VNQ|Vanguard Real Estate ETF|P|VNQ|Y|100|N|VNQ
 VNRX|VolitionRX Limited Common Stock|A|VNRX|N|100|N|VNRX
 VNSE|Natixis Vaughan Nelson Select ETF|P|VNSE|Y|100|N|VNSE
-VNT.V|Vontier Corporation Common Stock When Issued|N|VNTw|N|100|N|VNT#
+VNT|Vontier Corporation Common Stock |N|VNT|N|100|N|VNT
 VNTR|Venator Materials PLC Ordinary Shares|N|VNTR|N|100|N|VNTR
 VO|Vanguard Mid-Cap ETF|P|VO|Y|100|N|VO
 VOC|VOC Energy Trust Units of Beneficial Interest|N|VOC|N|100|N|VOC
@@ -5456,4 +5461,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1008202015:42||||||
+File Creation Time: 1009202012:11||||||

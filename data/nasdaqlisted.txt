@@ -592,7 +592,7 @@ CATH|Global X S&P 500 Catholic Values ETF|G|N|N|100|Y|N
 CATM|Cardtronics plc - Common Stock|Q|N|N|100|N|N
 CATY|Cathay General Bancorp - Common Stock|Q|N|N|100|N|N
 CBAN|Colony Bankcorp, Inc. - Common Stock|G|N|N|100|N|N
-CBAT|CBAK Energy Technology, Inc. - Common Stock|S|N|D|100|N|N
+CBAT|CBAK Energy Technology, Inc. - Common Stock|S|N|N|100|N|N
 CBAY|CymaBay Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100|N|N
 CBIO|Catalyst Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
@@ -1806,6 +1806,7 @@ INSUW|Insurance Acquisition Corp. - Warrant|S|N|N|100|N|N
 INTC|Intel Corporation - Common Stock|Q|N|N|100|N|N
 INTG|The Intergroup Corporation - Common Stock|S|N|N|100|N|N
 INTU|Intuit Inc. - Common Stock|Q|N|N|100|N|N
+INTZ|Intrusion Inc. - Common Stock|S|N|N|100|N|N
 INVA|Innoviva, Inc. - Common Stock|Q|N|N|100|N|N
 INVE|Identiv, Inc. - Common Stock|S|N|N|100|N|N
 INZY|Inozyme Pharma, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1940,6 +1941,7 @@ KRMA|Global X Conscious Companies ETF|G|N|N|100|Y|N
 KRMD|Repro Med Systems, Inc. - Common Stock|S|N|N|100|N|N
 KRNT|Kornit Digital Ltd. - Ordinary Shares|Q|N|N|100|N|N
 KRNY|Kearny Financial - Common Stock|Q|N|N|100|N|N
+KRON|Kronos Bio, Inc. - Common Stock|Q|N|N|100|N|N
 KROS|Keros Therapeutics, Inc. - common stock|G|N|N|100|N|N
 KRTX|Karuna Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 KRUS|Kura Sushi USA, Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -1988,6 +1990,7 @@ LCAHW|Landcadia Holdings II, Inc. - Warrant|S|N|N|100|N|N
 LCAPU|Lionheart Acquisition Corp. II - Unit|S|N|N|100|N|N
 LCNB|LCNB Corporation - Common Stock|S|N|N|100|N|N
 LCUT|Lifetime Brands, Inc. - Common Stock|Q|N|N|100|N|N
+LCYAU|Landcadia Holdings III, Inc. - Unit|S|N|N|100|N|N
 LDEM|iShares ESG MSCI EM Leaders ETF|G|N|N|100|Y|N
 LDSF|First Trust Low Duration Strategic Focus ETF|G|N|N|100|Y|N
 LE|Lands' End, Inc. - Common Stock|S|N|N|100|N|N
@@ -2057,7 +2060,7 @@ LOB|Live Oak Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 LOCO|El Pollo Loco Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 LOGC|LogicBio Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100|N|N
-LONE|Lonestar Resources US Inc. - Class A Common Stock|G|N|D|100|N|N
+LONE|Lonestar Resources US Inc. - Class A Common Stock|G|N|G|100|N|N
 LOOP|Loop Industries, Inc. - Common Stock|G|N|N|100|N|N
 LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100|N|N
 LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2439,7 +2442,7 @@ NYMTN|New York Mortgage Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumu
 NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|N|100|N|N
-OAS|Oasis Petroleum Inc. - Common Stock|S|N|D|100|N|N
+OAS|Oasis Petroleum Inc. - Common Stock|S|N|G|100|N|N
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100|N|N
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100|N|N
 OBLN|Obalon Therapeutics, Inc. - Common Stock|G|N|D|100|N|N
@@ -3032,7 +3035,7 @@ SG|Sirius International Insurance Group, Ltd. - Common Share|Q|N|N|100|N|N
 SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
 SGBX|SG Blocks, Inc. - Common Stock|S|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
-SGEN|Seattle Genetics, Inc. - Common Stock|Q|N|N|100|N|N
+SGEN|Seagen Inc.  - Common Stock|Q|N|N|100|N|N
 SGH|SMART Global Holdings, Inc. - Ordinary Shares|Q|N|N|100|N|N
 SGLB|Sigma Labs, Inc. - Common Stock|S|N|N|100|N|N
 SGLBW|Sigma Labs, Inc. - Warrant|S|N|N|100|N|N
@@ -3152,6 +3155,7 @@ SPNS|Sapiens International Corporation N.V. - Common Shares|Q|N|N|100|N|N
 SPOK|Spok Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 SPQQ|Siren Large Cap Blend Index ETF|G|N|N|100|Y|N
+SPRB|Spruce Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 SPRO|Spero Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 SPRT|Support.com, Inc. - Common Stock|S|N|N|100|N|N
 SPSC|SPS Commerce, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3213,6 +3217,7 @@ STRO|Sutro Biopharma, Inc. - Common Stock|G|N|N|100|N|N
 STRS|Stratus Properties Inc. - Common Stock|Q|N|N|100|N|N
 STRT|STRATTEC SECURITY CORPORATION - Common Stock|G|N|N|100|N|N
 STSA|Satsuma Pharmaceuticals, Inc. - Common stock|G|N|N|100|N|N
+STTK|Shattuck Labs, Inc. - Common Stock|Q|N|N|100|N|N
 STWOU|ACON S2 Acquisition Corp. - Unit|S|N|N|100|N|N
 STX|Seagate Technology PLC - Ordinary Shares (Ireland)|Q|N|N|100|N|N
 STXB|Spirit of Texas Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3341,7 +3346,7 @@ TMDX|TransMedics Group, Inc. - Common Stock|G|N|N|100|N|N
 TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100|N|N
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100|N|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
-TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100|N|N
+TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|D|100|N|N
 TOMZ|TOMI Environmental Solutions, Inc. - Common Stock|S|N|N|100|N|N
 TOPS|TOP Ships Inc. - Common Stock|S|N|N|100|N|N
 TOTA|Tottenham Acquisition I Limited - Ordinary Shares|S|N|D|100|N|N
@@ -3729,4 +3734,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1008202015:42|||||||
+File Creation Time: 1009202012:11|||||||

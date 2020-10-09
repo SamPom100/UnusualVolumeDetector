@@ -403,7 +403,9 @@ BFO,BFO|Blackrock Florida Municipal 2020 Term Trust
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
+BFT,BFT|Foley Trasimene Acquisition Corp. II Class A Common Stock
 BFT.U,BFT.U|Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-third of one warrant
+BFT.W,BFT.W|Foley Trasimene Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share
 BFY,BFY|BlackRock New York Municipal Income Trust II
 BFZ,BFZ|BlackRock California Municipal Income Trust
 BG,BG|Bunge Limited Bunge Limited
@@ -621,9 +623,6 @@ CCU,CCU|Compania Cervecerias Unidas, S.A. Common Stock
 CCX,CCX|Churchill Capital Corp II Class A Common Stock
 CCX.U,CCX.U|Churchill Capital Corp II Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant
 CCX.W,CCX.W|Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share
-CCXX,CCXX|Churchill Capital Corp III Class A common stock, par value $0.0001 per share
-CCXX.U,CCXX.U|Churchill Capital Corp III Units, each consisting of one share of Class A Common Stock and one-fourth of one redeemable Warrant
-CCXX.W,CCXX.W|Churchill Capital Corp III Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 CCZ,CCZ|Comcast Holdings ZONES
 CDAY,CDAY|Ceridian HCM Holding Inc. Common Stock
 CDE,CDE|Coeur Mining, Inc. Common Stock
@@ -700,7 +699,9 @@ CIX,CIX|CompX International Inc. Common Stock
 CKH,CKH|SEACOR Holdings Inc. Common Stock
 CKX,CKX|CKX Lands, Inc. Common Stock
 CL,CL|Colgate-Palmolive Company Common Stock
+CLA,CLA|Colonnade Acquisition Corp. Class A Ordinary Shares
 CLA.U,CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+CLA.W,CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CLB,CLB|Core Laboratories N.V. Common Stock
 CLDR,CLDR|Cloudera, Inc. Common Stock
 CLDT,CLDT|Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
@@ -982,7 +983,6 @@ DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
 DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
 DNB,DNB|Dun & Bradstreet Holdings, Inc. Common Stock
-DNI,DNI|Dividend and Income Fund Common Stock
 DNK,DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares
 DNN,DNN|Denison Mines Corp Ordinary Shares (Canada)
 DNOW,DNOW|NOW Inc. Common Stock
@@ -1326,7 +1326,6 @@ FPL,FPL|First Trust New Opportunities MLP & Energy Fund Common Shares of Benefic
 FR,FR|First Industrial Realty Trust, Inc. Common Stock
 FRA,FRA|Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
 FRC,FRC|FIRST REPUBLIC BANK Common Stock
-FRC$F,FRC$F|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.70% Noncumulative Perpetual Series F Preferred Stock
 FRC$G,FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series G Preferred Stock
 FRC$H,FRC$H|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share
 FRC$I,FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share
@@ -1360,7 +1359,6 @@ FTS,FTS|Fortis Inc. Common Shares
 FTSI,FTSI|FTS International, Inc. Common Stock
 FTV,FTV|Fortive Corporation Common Stock 
 FTV$A,FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A
-FTV.V,FTV.V|Fortive Corporation Common Stock Ex-Distribution When Issued
 FUBO,FUBO|fuboTV Inc. Common Stock
 FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
@@ -1710,6 +1708,7 @@ IGI,IGI|Western Asset Investment Grade Defined Opportunity Trust Inc. Common Sto
 IGR,IGR|CBRE Clarion Global Real Estate Income Fund Common Stock
 IGT,IGT|International Game Technology Ordinary Shares
 IGZ,IGZ|IGZ (Listing Market NYSE Arca Network B F) Common Stock
+IH,IH|iHuman Inc. American depositary shares, each representing five Class A ordinary shares
 IHC,IHC|Independence Holding Company Common Stock
 IHD,IHD|Voya Emerging Markets High Income Dividend Equity Fund Common Shares
 IHG,IHG|Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
@@ -1756,6 +1755,9 @@ IPOB.W,IPOB.W|Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, e
 IPOC,IPOC|Social Capital Hedosophia Holdings Corp. III Class A Ordinary Shares
 IPOC.U,IPOC.U|Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant
 IPOC.W,IPOC.W|Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+IPOD.U,IPOD.U|Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+IPOE.U,IPOE.U|Social Capital Hedosophia Holdings Corp. V Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+IPOF.U,IPOF.U|Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 IPV,IPV|InterPrivate Acquisition Corp. Common Stock
 IPV.U,IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant
 IPV.W,IPV.W|InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
@@ -2154,6 +2156,8 @@ MOS,MOS|Mosaic Company (The) Common Stock
 MOV,MOV|Movado Group Inc. Common Stock
 MPA,MPA|Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPC,MPC|Marathon Petroleum Corporation Common Stock
+MPLN,MPLN|MultiPlan Corporation Class A Common Stock
+MPLN.W,MPLN.W|MultiPlan Corporation Warrants
 MPLX,MPLX|MPLX LP Common Units Representing Limited Partner Interests
 MPV,MPV|Barings Participation Investors Common Stock
 MPW,MPW|Medical Properties Trust, Inc. common stock
@@ -2695,6 +2699,7 @@ PSA$J,PSA$J|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.70
 PSA$K,PSA$K|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75% Cumulative Preferred Share of Beneficial Interest, Series K
 PSA$L,PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share
 PSA$M,PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M
+PSA$N,PSA$N|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N
 PSB,PSB|PS Business Parks, Inc. Common Stock
 PSB$W,PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W
 PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X
@@ -3431,7 +3436,7 @@ VNO$K,VNO$K|Vornado Realty Trust Pfd S K
 VNO$L,VNO$L|Vornado Realty Trust Pfd Ser L %
 VNO$M,VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share
 VNRX,VNRX|VolitionRX Limited Common Stock
-VNT.V,VNT.V|Vontier Corporation Common Stock When Issued
+VNT,VNT|Vontier Corporation Common Stock 
 VNTR,VNTR|Venator Materials PLC Ordinary Shares
 VOC,VOC|VOC Energy Trust Units of Beneficial Interest
 VOLT,VOLT|Volt Information Sciences, Inc. Common Stock
@@ -5177,6 +5182,7 @@ INSUW,INSUW|Insurance Acquisition Corp. - Warrant
 INTC,INTC|Intel Corporation - Common Stock
 INTG,INTG|The Intergroup Corporation - Common Stock
 INTU,INTU|Intuit Inc. - Common Stock
+INTZ,INTZ|Intrusion Inc. - Common Stock
 INVA,INVA|Innoviva, Inc. - Common Stock
 INVE,INVE|Identiv, Inc. - Common Stock
 INZY,INZY|Inozyme Pharma, Inc. - Common Stock
@@ -5291,6 +5297,7 @@ KRKR,KRKR|36Kr Holdings Inc. - American Depositary Shares
 KRMD,KRMD|Repro Med Systems, Inc. - Common Stock
 KRNT,KRNT|Kornit Digital Ltd. - Ordinary Shares
 KRNY,KRNY|Kearny Financial - Common Stock
+KRON,KRON|Kronos Bio, Inc. - Common Stock
 KROS,KROS|Keros Therapeutics, Inc. - common stock
 KRTX,KRTX|Karuna Therapeutics, Inc. - Common Stock
 KRUS,KRUS|Kura Sushi USA, Inc. - Class A Common Stock
@@ -5339,6 +5346,7 @@ LCAHW,LCAHW|Landcadia Holdings II, Inc. - Warrant
 LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCNB,LCNB|LCNB Corporation - Common Stock
 LCUT,LCUT|Lifetime Brands, Inc. - Common Stock
+LCYAU,LCYAU|Landcadia Holdings III, Inc. - Unit
 LE,LE|Lands' End, Inc. - Common Stock
 LECO,LECO|Lincoln Electric Holdings, Inc. - Common Shares
 LEDS,LEDS|SemiLEDS Corporation - Common Stock
@@ -6299,7 +6307,7 @@ SG,SG|Sirius International Insurance Group, Ltd. - Common Share
 SGA,SGA|Saga Communications, Inc. - Class A Common Stock
 SGBX,SGBX|SG Blocks, Inc. - Common Stock
 SGC,SGC|Superior Group of Companies, Inc. - Common Stock
-SGEN,SGEN|Seattle Genetics, Inc. - Common Stock
+SGEN,SGEN|Seagen Inc.  - Common Stock
 SGH,SGH|SMART Global Holdings, Inc. - Ordinary Shares
 SGLB,SGLB|Sigma Labs, Inc. - Common Stock
 SGLBW,SGLBW|Sigma Labs, Inc. - Warrant
@@ -6406,6 +6414,7 @@ SPNE,SPNE|SeaSpine Holdings Corporation - Common Stock
 SPNS,SPNS|Sapiens International Corporation N.V. - Common Shares
 SPOK,SPOK|Spok Holdings, Inc. - Common Stock
 SPPI,SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock
+SPRB,SPRB|Spruce Biosciences, Inc. - Common Stock
 SPRO,SPRO|Spero Therapeutics, Inc. - Common Stock
 SPRT,SPRT|Support.com, Inc. - Common Stock
 SPSC,SPSC|SPS Commerce, Inc. - Common Stock
@@ -6464,6 +6473,7 @@ STRO,STRO|Sutro Biopharma, Inc. - Common Stock
 STRS,STRS|Stratus Properties Inc. - Common Stock
 STRT,STRT|STRATTEC SECURITY CORPORATION - Common Stock
 STSA,STSA|Satsuma Pharmaceuticals, Inc. - Common stock
+STTK,STTK|Shattuck Labs, Inc. - Common Stock
 STWOU,STWOU|ACON S2 Acquisition Corp. - Unit
 STX,STX|Seagate Technology PLC - Ordinary Shares (Ireland)
 STXB,STXB|Spirit of Texas Bancshares, Inc. - Common Stock
