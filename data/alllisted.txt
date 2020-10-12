@@ -286,7 +286,6 @@ ATTO,ATTO|Atento S.A. Ordinary Shares
 ATUS,ATUS|Altice USA, Inc. Class A Common Stock
 ATV,ATV|Acorn International, Inc. ADS
 AU,AU|AngloGold Ashanti Limited Common Stock
-AUG,AUG|Auryn Resources Inc. Common Shares
 AUMN,AUMN|Golden Minerals Company Common Stock
 AUY,AUY|Yamana Gold Inc. Ordinary Shares (Canada)
 AVA,AVA|Avista Corporation Common Stock
@@ -1345,7 +1344,9 @@ FSLY,FSLY|Fastly, Inc. Class A Common Stock
 FSM,FSM|Fortuna Silver Mines Inc Ordinary Shares (Canada)
 FSP,FSP|Franklin Street Properties Corp. Common Stock
 FSS,FSS|Federal Signal Corporation Common Stock
+FST,FST|FAST Acquisition Corp. Class A Common Stock
 FST.U,FST.U|FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
+FST.W,FST.W|FAST Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 FT,FT|Franklin Universal Trust Common Stock
 FTAI,FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares
 FTAI$A,FTAI$A|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
@@ -1364,6 +1365,7 @@ FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS 
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
 FUL,FUL|H. B. Fuller Company Common Stock
 FUN,FUN|Cedar Fair, L.P. Common Stock
+FURY,FURY|Fury Gold Mines Limited Common Shares
 FUSE,FUSE|Fusion Acquisition Corp. Class A Common Stock
 FUSE.U,FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 FUSE.W,FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
@@ -1676,7 +1678,9 @@ HYI,HYI|Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
 HYLN,HYLN|Hyliion Holdings Corp. Class A Common Stock
 HYLN.W,HYLN.W|Hyliion Holdings Corp. Warrants
 HYT,HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock
+HZAC,HZAC|Horizon Acquisition Corporation Class A Ordinary Shares
 HZAC.U,HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Class A Ordinary Shares and one-third of one Redeemable warrant
+HZAC.W,HZAC.W|Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 HZN,HZN|Horizon Global Corporation Common Shares
 HZO,HZO|MarineMax, Inc.  (FL) Common Stock
 IAA,IAA|IAA, Inc. Common Stock 
@@ -5411,7 +5415,6 @@ LOB,LOB|Live Oak Bancshares, Inc. - Common Stock
 LOCO,LOCO|El Pollo Loco Holdings, Inc. - Common Stock
 LOGC,LOGC|LogicBio Therapeutics, Inc. - Common Stock
 LOGI,LOGI|Logitech International S.A. - Registered Shares
-LONE,LONE|Lonestar Resources US Inc. - Class A Common Stock
 LOOP,LOOP|Loop Industries, Inc. - Common Stock
 LOPE,LOPE|Grand Canyon Education, Inc. - Common Stock
 LORL,LORL|Loral Space and Communications, Inc. - Common Stock
@@ -5784,7 +5787,6 @@ NYMTN,NYMTN|New York Mortgage Trust, Inc. - 8.00% Series D Fixed-to-Floating Rat
 NYMTO,NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Preferred Stock
 NYMTP,NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock
 NYMX,NYMX|Nymox Pharmaceutical Corporation - Common Stock
-OAS,OAS|Oasis Petroleum Inc. - Common Stock
 OBAS,OBAS|Optibase Ltd. - Ordinary Shares
 OBCI,OBCI|Ocean Bio-Chem, Inc. - Common Stock
 OBLN,OBLN|Obalon Therapeutics, Inc. - Common Stock
@@ -6343,7 +6345,6 @@ SITM,SITM|SiTime Corporation - Common Stock
 SIVB,SIVB|SVB Financial Group - Common Stock
 SIVBP,SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 SJ,SJ|Scienjoy Holding Corporation - Ordinary Shares
-SKYS,SKYS|Sky Solar Holdings, Ltd. - American Depositary Shares
 SKYW,SKYW|SkyWest, Inc. - Common Stock
 SLAB,SLAB|Silicon Laboratories, Inc. - Common Stock
 SLCT,SLCT|Select Bancorp, Inc. - Common Stock
