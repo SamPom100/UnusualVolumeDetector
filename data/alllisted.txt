@@ -2144,7 +2144,6 @@ MMT,MMT|MFS Multimarket Income Trust Common Stock
 MMU,MMU|Western Asset Managed Municipals Fund, Inc. Common Stock
 MMX,MMX|Maverix Metals Inc. Common Shares
 MN,MN|Manning & Napier, Inc. Class A Common Stock
-MNK,MNK|Mallinckrodt plc Ordinary Shares
 MNP,MNP|Western Asset Municipal Partners Fund, Inc. Common Stock
 MNR,MNR|Monmouth Real Estate Investment Corporation Class A Common Stock
 MNR$C,MNR$C|Monmouth Real Estate Investment Corporation 6.125% Series C Cumulative Redeemable Preferred Stock
@@ -2487,7 +2486,6 @@ OLP,OLP|One Liberty Properties, Inc. Common Stock
 OMC,OMC|Omnicom Group Inc. Common Stock
 OMF,OMF|OneMain Holdings, Inc. Common Stock
 OMI,OMI|Owens & Minor, Inc. Common Stock
-ONDK,ONDK|On Deck Capital, Inc. Common Stock
 ONE,ONE|OneSmart International Education Group Limited ADS
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
@@ -3205,6 +3203,7 @@ THR,THR|Thermon Group Holdings, Inc. Common Stock
 THS,THS|Treehouse Foods, Inc. Common Stock
 THW,THW|Tekla World Healthcare Fund Shares of Beneficial Interest
 TIF,TIF|Tiffany & Co. Common Stock
+TIMB.V,TIMB.V|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) When Issued
 TISI,TISI|Team, Inc. Common Stock
 TJX,TJX|TJX Companies, Inc. (The) Common Stock
 TK,TK|Teekay Corporation Common Stock
@@ -3281,7 +3280,6 @@ TSLX,TSLX|Sixth Street Specialty Lending, Inc. Common Stock
 TSM,TSM|Taiwan Semiconductor Manufacturing Company Ltd.
 TSN,TSN|Tyson Foods, Inc. Common Stock
 TSQ,TSQ|Townsquare Media, Inc. Class A Common Stock
-TSU,TSU|TIM Participacoes S.A. American Depositary Shares (Each representing 5 Common Shares)
 TT,TT|Trane Technologies plc
 TTC,TTC|Toro Company (The) Common Stock
 TTI,TTI|Tetra Technologies, Inc. Common Stock
@@ -3728,7 +3726,6 @@ AIRTP,AIRTP|Air T, Inc. - Trust Preferred Securities
 AIRTW,AIRTW|Air T, Inc. - Air T Funding Warrants to Purchase Trust Preferred
 AKAM,AKAM|Akamai Technologies, Inc. - Common Stock
 AKBA,AKBA|Akebia Therapeutics, Inc. - Common Stock
-AKCA,AKCA|Akcea Therapeutics, Inc. - Common Stock
 AKER,AKER|Akers Biosciences Inc. - Common Stock
 AKRO,AKRO|Akero Therapeutics, Inc. - Common Stock
 AKTS,AKTS|Akoustis Technologies, Inc. - Common Stock
@@ -4002,7 +3999,7 @@ BGFV,BGFV|Big 5 Sporting Goods Corporation - Common Stock
 BGNE,BGNE|BeiGene, Ltd. - American Depositary Shares
 BHAT,BHAT|Blue Hat Interactive Entertainment Technology - Ordinary Shares
 BHF,BHF|Brighthouse Financial, Inc. - Common Stock
-BHFAL,BHFAL|Brighthouse Financial, Inc. - 6.25% Junior Subordinated Debentures due 2058
+BHFAL,BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058
 BHFAO,BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B
 BHFAP,BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A
 BHTG,BHTG|BioHiTech Global, Inc. - Common Stock
@@ -5347,7 +5344,9 @@ LBTYK,LBTYK|Liberty Global plc - Class C Ordinary Shares
 LCA,LCA|Landcadia Holdings II, Inc. - Class A Common Stock
 LCAHU,LCAHU|Landcadia Holdings II, Inc. - Unit
 LCAHW,LCAHW|Landcadia Holdings II, Inc. - Warrant
+LCAP,LCAP|Lionheart Acquisition Corp. II - Class A Common Stock
 LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
+LCAPW,LCAPW|Lionheart Acquisition Corp. II - Warrant
 LCNB,LCNB|LCNB Corporation - Common Stock
 LCUT,LCUT|Lifetime Brands, Inc. - Common Stock
 LCYAU,LCYAU|Landcadia Holdings III, Inc. - Unit
