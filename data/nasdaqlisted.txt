@@ -111,7 +111,6 @@ AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Sh
 AIHS|Senmiao Technology Limited - Common Stock|S|N|D|100|N|N
 AIKI|AIkido Pharma Inc. - Common Stock|S|N|D|100|N|N
 AIMC|Altra Industrial Motion Corp. - Common Stock|Q|N|N|100|N|N
-AIMT|Aimmune Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 AINV|Apollo Investment Corporation - Closed End Fund|Q|N|N|100|N|N
 AIQ|Global X Artificial Intelligence & Technology ETF|G|N|N|100|Y|N
 AIRG|Airgain, Inc. - Common Stock|S|N|N|100|N|N
@@ -212,7 +211,7 @@ ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ANIX|Anixa Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 ANNX|Annexon, Inc. - common stock|Q|N|N|100|N|N
-ANPC|AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares|G|N|N|100|N|N
+ANPC|AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares|G|N|D|100|N|N
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100|N|N
 ANTE|AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares|S|N|D|100|N|N
 ANY|Sphere 3D Corp. - Common Shares|S|N|D|100|N|N
@@ -619,6 +618,7 @@ CCRC|China Customer Relations Centers, Inc. - Ordinary Shares|S|N|N|100|N|N
 CCRN|Cross Country Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 CCXI|ChemoCentryx, Inc. - Common Stock|Q|N|N|100|N|N
 CD|Chindata Group Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
+CDAK|Codiak BioSciences, Inc. - Common Stock|G|N|N|100|N|N
 CDC|VictoryShares US EQ Income Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
 CDEV|Centennial Resource Development, Inc. - Class A Common Stock|S|N|D|100|N|N
 CDK|CDK Global, Inc. - Common Stock|Q|N|N|100|N|N
@@ -644,7 +644,6 @@ CENX|Century Aluminum Company - Common Stock|Q|N|N|100|N|N
 CERC|Cerecor Inc. - Common Stock|S|N|N|100|N|N
 CERN|Cerner Corporation - Common Stock|Q|N|N|100|N|N
 CERS|Cerus Corporation - Common Stock|G|N|N|100|N|N
-CETV|Central European Media Enterprises Ltd. - Class A Common Stock|Q|N|N|100|N|N
 CETX|Cemtrex Inc. - Common Stock|S|N|N|100|N|N
 CETXP|Cemtrex Inc. - Series 1 Preferred Stock|S|N|N|100|N|N
 CETXW|Cemtrex Inc. - Series 1 Warrant|S|N|N|100|N|N
@@ -762,7 +761,7 @@ CNBKA|Century Bancorp, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CNCE|Concert Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 CNCR|Loncar Cancer Immunotherapy ETF|G|N|N|100|Y|N
 CNDT|Conduent Incorporated - Common Stock|Q|N|N|100|N|N
-CNET|ChinaNet Online Holdings, Inc. - Common Stock|S|N|N|100|N|N
+CNET|ZW Data Action Technologies Inc. - Common Stock|S|N|N|100|N|N
 CNFR|Conifer Holdings, Inc. - Common Stock|G|N|N|100|N|N
 CNFRL|Conifer Holdings, Inc. - Senior Unsecured Notes|G|N|N|100|N|N
 CNNB|Cincinnati Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -1026,7 +1025,7 @@ DYN|Dyne Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 DYNT|Dynatronics Corporation - Common Stock|S|N|D|100|N|N
 DZSI|DZS Inc. - Common Stock|S|N|N|100|N|N
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100|N|N
-EARS|Auris Medical Holding Ltd. - Common Shares|S|N|N|100|N|N
+EARS|Auris Medical Holding Ltd. - Common Shares|S|N|D|100|N|N
 EAST|Eastside Distilling, Inc. - Common Stock|S|N|D|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBAYL|eBay Inc. - 6.0% Notes Due 2056|Q|N|N|100|N|N
@@ -1379,6 +1378,7 @@ FUSN|Fusion Pharmaceuticals Inc. - Common Shares|Q|N|N|100|N|N
 FUTU|Futu Holdings Limited - American Depositary Shares|G|N|N|100|N|N
 FUV|Arcimoto, Inc. - Common Stock|S|N|N|100|N|N
 FV|First Trust Dorsey Wright Focus 5 ETF|G|N|N|100|Y|N
+FVAM|5:01 Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 FVC|First Trust Dorsey Wright Dynamic Focus 5 ETF|G|N|N|100|Y|N
 FVCB|FVCBankcorp, Inc. - Common Stock|S|N|N|100|N|N
 FVE|Five Star Senior Living Inc. - Common Shares|S|N|N|100|N|N
@@ -1816,6 +1816,7 @@ IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100|N|N
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100|N|N
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100|N|N
 IPHA|Innate Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
+IPHI|Inphi Corporation - Common Stock|Q|N|N|100|N|N
 IPKW|Invesco International BuyBack Achievers ETF|G|N|N|100|Y|N
 IPLDP|Interstate Power and Light Company - Interstate Power & Light Company Perp Preferred 5.10% Series D|Q|N|N|100|N|N
 IPWR|Ideal Power Inc. - Common Stock|S|N|N|100|N|N
@@ -2491,7 +2492,7 @@ ONCY|Oncolytics Biotech Inc. - Common Shares|S|N|N|100|N|N
 ONEM|1Life Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100|Y|N
 ONEW|OneWater Marine Inc. - Class A Common Stock|G|N|N|100|N|N
-ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 ONTXW|Onconova Therapeutics, Inc. - Warrants|S|N|N|100|N|N
 ONVO|Organovo Holdings, Inc. - Common Stock|S|N|N|100|N|N
 OPBK|OP Bancorp - Common Stock|G|N|N|100|N|N
@@ -3734,4 +3735,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1013202015:41|||||||
+File Creation Time: 1014202015:41|||||||
