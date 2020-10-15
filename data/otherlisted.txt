@@ -190,6 +190,7 @@ AMBO|Ambow Education Holding Ltd. American Depository Shares, each representing 
 AMC|AMC Entertainment Holdings, Inc. Class A Common Stock|N|AMC|N|100|N|AMC
 AMCR|Amcor plc Ordinary Shares|N|AMCR|N|100|N|AMCR
 AME|AMETEK, Inc.|N|AME|N|100|N|AME
+AMER|Emles Made in America ETF|Z|AMER|Y|100|N|AMER
 AMG|Affiliated Managers Group, Inc. Common Stock|N|AMG|N|100|N|AMG
 AMH|American Homes 4 Rent Common Shares of Beneficial Interest|N|AMH|N|100|N|AMH
 AMH$D|American Homes 4 Rent 6.5% Series D Cumulative Perpetual Preferred Shares of Beneficial Interest|N|AMHpD|N|100|N|AMH-D
@@ -290,7 +291,9 @@ ARR$C|ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred 
 ARW|Arrow Electronics, Inc. Common Stock|N|ARW|N|100|N|ARW
 ASA|ASA  Gold and Precious Metals Limited|N|ASA|N|100|N|ASA
 ASAN|Asana, Inc. Class A Common Stock|N|ASAN|N|100|N|ASAN
+ASAQ|Atlantic Street Acquisition Corp Class A Common Stock|N|ASAQ|N|100|N|ASAQ
 ASAQ.U|Atlantic Street Acquisition Corp Units, each consisting of one share of Class A common stock and one-half of one Warrant|N|ASAQ.U|N|100|N|ASAQ=
+ASAQ.W|Atlantic Street Acquisition Corp Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|ASAQ.WS|N|100|N|ASAQ+
 ASB|Associated Banc-Corp Common Stock|N|ASB|N|100|N|ASB
 ASB$C|Associated Banc-Corp Depositary shares, each representing a 1/40th ownership interest in a share of 6.125% Non-Cumulative Perpetual Preferred Stock, Series C|N|ASBpC|N|100|N|ASB-C
 ASB$D|Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|ASBpD|N|100|N|ASB-D
@@ -351,10 +354,12 @@ AVD|American Vanguard Corporation Common Stock ($0.10 Par Value)|N|AVD|N|100|N|A
 AVDE|Avantis International Equity ETF|P|AVDE|Y|100|N|AVDE
 AVDV|Avantis International Small Cap Value ETF|P|AVDV|Y|100|N|AVDV
 AVEM|Avantis Emerging Markets Equity ETF|P|AVEM|Y|100|N|AVEM
+AVIG|Avantis Core Fixed Income ETF|P|AVIG|Y|100|N|AVIG
 AVK|Advent Convertible and Income Fund|N|AVK|N|100|N|AVK
 AVLR|Avalara, Inc. Common Stock|N|AVLR|N|100|N|AVLR
 AVNS|Avanos Medical, Inc. Common Stock|N|AVNS|N|100|N|AVNS
 AVNT|Avient Corporation Common Stock|N|AVNT|N|100|N|AVNT
+AVSF|Avantis Short-Term Fixed Income ETF|P|AVSF|Y|100|N|AVSF
 AVTR|Avantor, Inc. Common Stock|N|AVTR|N|100|N|AVTR
 AVTR$A|Avantor, Inc. Series A Mandatory Convertible Preferred Stock|N|AVTRpA|N|100|N|AVTR-A
 AVUS|Avantis U.S. Equity ETF|P|AVUS|Y|100|N|AVUS
@@ -1224,7 +1229,6 @@ DLNG$A|Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Un
 DLNG$B|Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni|N|DLNGpB|N|100|N|DLNG-B
 DLR|Digital Realty Trust, Inc. Common Stock|N|DLR|N|100|N|DLR
 DLR$C|Digital Realty Trust, Inc. 6.625% Series C Cumulative Redeemable Perpetual Preferred Stock|N|DLRpC|N|100|N|DLR-C
-DLR$G|Digital Realty Trust, Inc. Preferred Series G|N|DLRpG|N|100|N|DLR-G
 DLR$J|Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock|N|DLRpJ|N|100|N|DLR-J
 DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|DLRpK|N|100|N|DLR-K
 DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock|N|DLRpL|N|100|N|DLR-L
@@ -1723,6 +1727,7 @@ FEAC|Flying Eagle Acquisition Corp. Class A Common Stock|N|FEAC|N|100|N|FEAC
 FEAC.U|Flying Eagle Acquisition Corp. Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|FEAC.U|N|100|N|FEAC=
 FEAC.W|Flying Eagle Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FEAC.WS|N|100|N|FEAC+
 FEDU|Four Seasons Education (Cayman) Inc. American Depositary Shares, each two ADSs representing one ordinary share|N|FEDU|N|100|N|FEDU
+FEDX|Emles Federal Contractors ETF|Z|FEDX|Y|100|N|FEDX
 FEI|First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest|N|FEI|N|100|N|FEI
 FEN|First Trust Energy Income and Growth Fund|A|FEN|N|100|N|FEN
 FENG|Phoenix New Media Limited American Depositary Shares, each representing 8 Class A ordinary shares.|N|FENG|N|100|N|FENG
@@ -3001,6 +3006,7 @@ LIN|Linde plc Ordinary Share|N|LIN|N|100|N|LIN
 LINX|Linx S.A. American Depositary Shares, each representing one common share|N|LINX|N|100|N|LINX
 LIT|Global X Lithium & Battery Tech ETF|P|LIT|Y|100|N|LIT
 LITB|LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares|N|LITB|N|100|N|LITB
+LIV|Emles @Home ETF|Z|LIV|Y|100|N|LIV
 LKOR|FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund|Z|LKOR|Y|100|N|LKOR
 LL|Lumber Liquidators Holdings, Inc Common Stock|N|LL|N|100|N|LL
 LLY|Eli Lilly and Company Common Stock|N|LLY|N|100|N|LLY
@@ -3213,6 +3219,7 @@ MNP|Western Asset Municipal Partners Fund, Inc. Common Stock|N|MNP|N|100|N|MNP
 MNR|Monmouth Real Estate Investment Corporation Class A Common Stock|N|MNR|N|100|N|MNR
 MNR$C|Monmouth Real Estate Investment Corporation 6.125% Series C Cumulative Redeemable Preferred Stock|N|MNRpC|N|100|N|MNR-C
 MNRL|Brigham Minerals, Inc. Class A Common Stock|N|MNRL|N|100|N|MNRL
+MNSO|MINISO Group Holding Limited American Depositary Shares, each representing four Class A Ordinary Shares|N|MNSO|N|100|N|MNSO
 MO|Altria Group, Inc.|N|MO|N|100|N|MO
 MOAT|VanEck Vectors Morningstar Wide Moat ETF|Z|MOAT|Y|100|N|MOAT
 MOD|Modine Manufacturing Company Common Stock|N|MOD|N|100|N|MOD
@@ -4071,6 +4078,7 @@ RDS.A|Royal Dutch Shell PLC Royal Dutch Shell American Depositary Shares (Each r
 RDS.B|Royal Dutch Shell PLC Royal Dutch Shell PLC American Depositary Shares (Each representing two Class B Ordinary Shares)|N|RDS.B|N|100|N|RDS.B
 RDY|Dr. Reddy's Laboratories Ltd Common Stock|N|RDY|N|100|N|RDY
 RE|Everest Re Group, Ltd. Common Stock|N|RE|N|100|N|RE
+REC|Emles Real Estate Credit ETF|Z|REC|Y|100|N|REC
 RECS|Columbia Research Enhanced Core ETF|P|RECS|Y|100|N|RECS
 REET|iShares Trust iShares Global REIT ETF|P|REET|Y|100|N|REET
 REGL|ProShares S&P MidCap 400 Dividend Aristocrats ETF|Z|REGL|Y|100|N|REGL
@@ -4194,7 +4202,6 @@ RS|Reliance Steel & Aluminum Co. Common Stock (DE)|N|RS|N|100|N|RS
 RSF|RiverNorth Specialty Finance Corporation|N|RSF|N|100|N|RSF
 RSG|Republic Services, Inc. Common Stock|N|RSG|N|100|N|RSG
 RSP|Invesco S&P 500 Equal Weight ETF|P|RSP|Y|100|N|RSP
-RST|Rosetta Stone Rosetta Stone, Inc.|N|RST|N|100|N|RST
 RSX|VanEck Vectors Russia ETF|Z|RSX|Y|100|N|RSX
 RSXJ|VanEck Vectors Russia Small-Cap ETF|Z|RSXJ|Y|100|N|RSXJ
 RTM|Invesco S&P 500 Equal Weight Materials ETF|P|RTM|Y|100|N|RTM
@@ -5459,4 +5466,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1014202015:41||||||
+File Creation Time: 1015202012:11||||||
