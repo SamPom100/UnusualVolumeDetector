@@ -3201,7 +3201,7 @@ THR,THR|Thermon Group Holdings, Inc. Common Stock
 THS,THS|Treehouse Foods, Inc. Common Stock
 THW,THW|Tekla World Healthcare Fund Shares of Beneficial Interest
 TIF,TIF|Tiffany & Co. Common Stock
-TIMB.V,TIMB.V|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) When Issued
+TIMB,TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
 TISI,TISI|Team, Inc. Common Stock
 TJX,TJX|TJX Companies, Inc. (The) Common Stock
 TK,TK|Teekay Corporation Common Stock
@@ -3739,6 +3739,7 @@ ALCO,ALCO|Alico, Inc. - Common Stock
 ALDX,ALDX|Aldeyra Therapeutics, Inc. - Common Stock
 ALEC,ALEC|Alector, Inc. - Common Stock
 ALGN,ALGN|Align Technology, Inc. - Common Stock
+ALGS,ALGS|Aligos Therapeutics, Inc. - Common stock
 ALGT,ALGT|Allegiant Travel Company - Common Stock
 ALIM,ALIM|Alimera Sciences, Inc. - Common Stock
 ALJJ,ALJJ|ALJ Regional Holdings, Inc. - Common Stock
@@ -4099,6 +4100,7 @@ BTAQ,BTAQ|Burgundy Technology Acquisition Corporation - Class A Ordinary Shares
 BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
 BTAQW,BTAQW|Burgundy Technology Acquisition Corporation - Warrant
 BTBT,BTBT|Bit Digital, Inc. - Ordinary Share
+BTWNU,BTWNU|Bridgetown Holdings Limited - Units
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
 BWAY,BWAY|Brainsway Ltd. - American Depositary Shares
@@ -4529,6 +4531,7 @@ DYN,DYN|Dyne Therapeutics, Inc. - Common Stock
 DYNT,DYNT|Dynatronics Corporation - Common Stock
 DZSI,DZSI|DZS Inc. - Common Stock
 EA,EA|Electronic Arts Inc. - Common Stock
+EAR,EAR|Eargo, Inc. - Common Stock
 EARS,EARS|Auris Medical Holding Ltd. - Common Shares
 EAST,EAST|Eastside Distilling, Inc. - Common Stock
 EBAY,EBAY|eBay Inc. - Common Stock
@@ -4735,9 +4738,6 @@ FMBH,FMBH|First Mid Bancshares, Inc. - Common Stock
 FMBI,FMBI|First Midwest Bancorp, Inc. - Common Stock
 FMBIO,FMBIO|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C
 FMBIP,FMBIP|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
-FMCI,FMCI|Forum Merger II Corporation - Class A Common Stock
-FMCIU,FMCIU|Forum Merger II Corporation - Unit
-FMCIW,FMCIW|Forum Merger II Corporation - Warrant
 FMNB,FMNB|Farmers National Banc Corp. - Common Stock
 FMTX,FMTX|Forma Therapeutics Holdings, Inc. - Common Stock
 FNCB,FNCB|FNCB Bancorp Inc. - Common Stock
@@ -4796,7 +4796,9 @@ FTFT,FTFT|Future FinTech Group Inc. - Common Stock
 FTHM,FTHM|Fathom Holdings Inc. - Common Stock
 FTIVU,FTIVU|FinTech Acquisition Corp. IV - Unit
 FTNT,FTNT|Fortinet, Inc. - Common Stock
+FTOC,FTOC|FTAC Olympus Acquisition Corp. - Class A Ordinary Shares
 FTOCU,FTOCU|FTAC Olympus Acquisition Corp. - Unit
+FTOCW,FTOCW|FTAC Olympus Acquisition Corp. - Warrant
 FULC,FULC|Fulcrum Therapeutics, Inc. - Common Stock
 FULT,FULT|Fulton Financial Corporation - Common Stock
 FUNC,FUNC|First United Corporation - Common Stock
@@ -5296,6 +5298,7 @@ KOPN,KOPN|Kopin Corporation - Common Stock
 KOR,KOR|Corvus Gold Inc. - Common Shares
 KOSS,KOSS|Koss Corporation - Common Stock
 KPTI,KPTI|Karyopharm Therapeutics Inc. - Common Stock
+KRBP,KRBP|Kiromic BioPharma, Inc. - Common Stock
 KRKR,KRKR|36Kr Holdings Inc. - American Depositary Shares
 KRMD,KRMD|Repro Med Systems, Inc. - Common Stock
 KRNT,KRNT|Kornit Digital Ltd. - Ordinary Shares
@@ -5855,6 +5858,7 @@ OPOF,OPOF|Old Point Financial Corporation - Common Stock
 OPRA,OPRA|Opera Limited - American Depositary Shares
 OPRT,OPRT|Oportun Financial Corporation - common stock
 OPRX,OPRX|OptimizeRx Corporation - Common Stock
+OPT,OPT|Opthea Limited - American Depositary Shares
 OPTN,OPTN|OptiNose, Inc. - Common Stock
 OPTT,OPTT|Ocean Power Technologies, Inc. - Common Stock
 ORBC,ORBC|ORBCOMM Inc. - Common Stock
@@ -6029,6 +6033,7 @@ PPIH,PPIH|Perma-Pipe International Holdings, Inc. - Common Stock
 PPSI,PPSI|Pioneer Power Solutions, Inc. - Common Stock
 PRAA,PRAA|PRA Group, Inc. - Common Stock
 PRAH,PRAH|PRA Health Sciences, Inc. - Common Stock
+PRAX,PRAX|Praxis Precision Medicines, Inc. - Common Stock
 PRCP,PRCP|Perceptron, Inc. - Common Stock
 PRDO,PRDO|Perdoceo Education Corporation - Common Stock
 PRFT,PRFT|Perficient, Inc. - Common Stock
@@ -6521,6 +6526,7 @@ TANNL,TANNL|TravelCenters of America Inc.  - 8.00% Senior Notes due 2029
 TANNZ,TANNZ|TravelCenters of America Inc.  - 8.00% Senior Notes due 2030
 TAOP,TAOP|Taoping Inc. - Ordinary Shares
 TARA,TARA|Protara Therapeutics, Inc.  - Common Stock
+TARS,TARS|Tarsus Pharmaceuticals, Inc. - Common Stock
 TAST,TAST|Carrols Restaurant Group, Inc. - Common Stock
 TATT,TATT|TAT Technologies Ltd. - Ordinary Shares
 TAYD,TAYD|Taylor Devices, Inc. - Common Stock
@@ -6596,6 +6602,7 @@ TLRY,TLRY|Tilray, Inc. - Class 2 Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
 TMDI,TMDI|Titan Medical Inc. - Ordinary Shares
 TMDX,TMDX|TransMedics Group, Inc. - Common Stock
+TMPMU,TMPMU|Turmeric Acquisition Corp. - Unit
 TMTSU,TMTSU|Spartacus Acquisition Corporation - Unit
 TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNAV,TNAV|Telenav, Inc. - Common Stock
@@ -6640,6 +6647,8 @@ TSEM,TSEM|Tower Semiconductor Ltd. - Ordinary Shares
 TSHA,TSHA|Taysha Gene Therapies, Inc. - Common Stock
 TSLA,TSLA|Tesla, Inc.  - Common Stock
 TSRI,TSRI|TSR, Inc. - Common Stock
+TTCF,TTCF|Tattooed Chef, Inc. - Class A Common Stock
+TTCFW,TTCFW|Tattooed Chef, Inc. - Warrant
 TTD,TTD|The Trade Desk, Inc. - Class A Common Stock
 TTEC,TTEC|TTEC Holdings, Inc. - Common Stock
 TTEK,TTEK|Tetra Tech, Inc. - Common Stock

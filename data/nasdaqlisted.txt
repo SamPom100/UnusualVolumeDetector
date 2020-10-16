@@ -136,6 +136,7 @@ ALCO|Alico, Inc. - Common Stock|Q|N|N|100|N|N
 ALDX|Aldeyra Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 ALEC|Alector, Inc. - Common Stock|Q|N|N|100|N|N
 ALGN|Align Technology, Inc. - Common Stock|Q|N|N|100|N|N
+ALGS|Aligos Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
 ALGT|Allegiant Travel Company - Common Stock|Q|N|N|100|N|N
 ALIM|Alimera Sciences, Inc. - Common Stock|G|N|N|100|N|N
 ALJJ|ALJ Regional Holdings, Inc. - Common Stock|G|N|D|100|N|N
@@ -547,6 +548,7 @@ BTAQU|Burgundy Technology Acquisition Corporation - Unit|S|N|N|100|N|N
 BTAQW|Burgundy Technology Acquisition Corporation - Warrant|S|N|N|100|N|N
 BTBT|Bit Digital, Inc. - Ordinary Share|S|N|N|100|N|N
 BTEC|Principal Healthcare Innovators Index ETF|G|N|N|100|Y|N
+BTWNU|Bridgetown Holdings Limited - Units|S|N|N|100|N|N
 BUG|Global X Cybersecurity ETF|G|N|N|100|Y|N
 BUSE|First Busey Corporation - Common Stock|Q|N|N|100|N|N
 BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
@@ -997,7 +999,7 @@ DSKE|Daseke, Inc. - Common Stock|S|N|N|100|N|N
 DSKEW|Daseke, Inc. - Warrant|S|N|N|100|N|N
 DSPG|DSP Group, Inc. - Common Stock|Q|N|N|100|N|N
 DSWL|Deswell Industries, Inc. - Common Shares|G|N|N|100|N|N
-DTEA|DAVIDsTEA Inc. - Common Stock|G|N|D|100|N|N
+DTEA|DAVIDsTEA Inc. - Common Stock|G|N|N|100|N|N
 DTIL|Precision BioSciences, Inc. - Common Stock|Q|N|N|100|N|N
 DTSS|Datasea Inc. - Common Stock|S|N|D|100|N|N
 DUO|Fangdd Network Group Ltd. - American Depositary Shares|G|N|N|100|N|N
@@ -1030,6 +1032,7 @@ DYN|Dyne Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 DYNT|Dynatronics Corporation - Common Stock|S|N|D|100|N|N
 DZSI|DZS Inc. - Common Stock|S|N|N|100|N|N
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100|N|N
+EAR|Eargo, Inc. - Common Stock|Q|N|N|100|N|N
 EARS|Auris Medical Holding Ltd. - Common Shares|S|N|D|100|N|N
 EAST|Eastside Distilling, Inc. - Common Stock|S|N|D|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
@@ -1287,9 +1290,6 @@ FMBH|First Mid Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FMBI|First Midwest Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 FMBIO|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C|Q|N|N|100|N|N
 FMBIP|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A|Q|N|N|100|N|N
-FMCI|Forum Merger II Corporation - Class A Common Stock|S|N|N|100|N|N
-FMCIU|Forum Merger II Corporation - Unit|S|N|N|100|N|N
-FMCIW|Forum Merger II Corporation - Warrant|S|N|N|100|N|N
 FMHI|First Trust Municipal High Income ETF|G|N|N|100|Y|N
 FMK|First Trust Mega Cap AlphaDEX Fund|G|N|N|100|Y|N
 FMNB|Farmers National Banc Corp. - Common Stock|S|N|N|100|N|N
@@ -1364,7 +1364,9 @@ FTHM|Fathom Holdings Inc. - Common Stock|S|N|N|100|N|N
 FTIVU|FinTech Acquisition Corp. IV - Unit|S|N|N|100|N|N
 FTLB|First Trust Hedged BuyWrite Income ETF|G|N|N|100|Y|N
 FTNT|Fortinet, Inc. - Common Stock|Q|N|N|100|N|N
+FTOC|FTAC Olympus Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 FTOCU|FTAC Olympus Acquisition Corp. - Unit|S|N|N|100|N|N
+FTOCW|FTAC Olympus Acquisition Corp. - Warrant|S|N|N|100|N|N
 FTRI|First Trust Indxx Global Natural Resources Income ETF|G|N|N|100|Y|N
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100|Y|N
 FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100|Y|N
@@ -1939,6 +1941,7 @@ KOPN|Kopin Corporation - Common Stock|S|N|N|100|N|N
 KOR|Corvus Gold Inc. - Common Shares|S|N|N|100|N|N
 KOSS|Koss Corporation - Common Stock|S|N|N|100|N|N
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
+KRBP|Kiromic BioPharma, Inc. - Common Stock|S|N|N|100|N|N
 KRKR|36Kr Holdings Inc. - American Depositary Shares|G|N|N|100|N|N
 KRMA|Global X Conscious Companies ETF|G|N|N|100|Y|N
 KRMD|Repro Med Systems, Inc. - Common Stock|S|N|N|100|N|N
@@ -2179,7 +2182,7 @@ MFIN|Medallion Financial Corp. - Common Stock|Q|N|N|100|N|N
 MFINL|Medallion Financial Corp. - 9.000% Notes due 2021|Q|N|N|100|N|N
 MFNC|Mackinac Financial Corporation - Common Stock|S|N|N|100|N|N
 MGEE|MGE Energy Inc. - Common Stock|Q|N|N|100|N|N
-MGEN|Miragen Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+MGEN|Miragen Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 MGI|Moneygram International, Inc. - Common Stock|Q|N|N|100|N|N
 MGIC|Magic Software Enterprises Ltd. - Ordinary Shares|Q|N|N|100|N|N
 MGLN|Magellan Health, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2369,7 +2372,7 @@ NKTR|Nektar Therapeutics - Common Stock|Q|N|N|100|N|N
 NKTX|Nkarta, Inc. - Common Stock|Q|N|N|100|N|N
 NLOK|NortonLifeLock Inc. - Common Stock|Q|N|N|100|N|N
 NLTX|Neoleukin Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
-NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests|Q|N|D|100|N|N
+NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests|Q|N|N|100|N|N
 NMFC|New Mountain Finance Corporation - Common Stock|Q|N|N|100|N|N
 NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023|Q|N|N|100|N|N
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100|N|N
@@ -2477,7 +2480,7 @@ OFSSZ|OFS Capital Corporation - 6.50% Notes due 2025|Q|N|N|100|N|N
 OGI|Organigram Holdings Inc. - Common Shares|Q|N|N|100|N|N
 OIIM|O2Micro International Limited - American Depositary Shares|Q|N|N|100|N|N
 OKTA|Okta, Inc. - Class A Common Stock|Q|N|N|100|N|N
-OLB|The OLB Group, Inc. - Common Stock|S|N|N|100|N|N
+OLB|The OLB Group, Inc. - Common Stock|S|N|D|100|N|N
 OLD|The Long-Term Care ETF|G|N|N|100|Y|N
 OLED|Universal Display Corporation - Common Stock|Q|N|N|100|N|N
 OLLI|Ollie's Bargain Outlet Holdings, Inc. - Common Stock|G|N|N|100|N|N
@@ -2515,6 +2518,7 @@ OPOF|Old Point Financial Corporation - Common Stock|S|N|N|100|N|N
 OPRA|Opera Limited - American Depositary Shares|Q|N|N|100|N|N
 OPRT|Oportun Financial Corporation - common stock|Q|N|N|100|N|N
 OPRX|OptimizeRx Corporation - Common Stock|S|N|N|100|N|N
+OPT|Opthea Limited - American Depositary Shares|Q|N|N|100|N|N
 OPTN|OptiNose, Inc. - Common Stock|Q|N|D|100|N|N
 OPTT|Ocean Power Technologies, Inc. - Common Stock|S|N|N|100|N|N
 ORBC|ORBCOMM Inc. - Common Stock|Q|N|N|100|N|N
@@ -2542,7 +2546,7 @@ OSW|OneSpaWorld Holdings Limited - Common Shares|S|N|N|100|N|N
 OTEL|Otelco Inc. - Common Stock|S|N|N|100|N|N
 OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
-OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
 OTRK|Ontrak, Inc. - Common Stock|G|N|N|100|N|N
 OTRKP|Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
@@ -2709,6 +2713,7 @@ PPIH|Perma-Pipe International Holdings, Inc. - Common Stock|G|N|N|100|N|N
 PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100|N|N
 PRAA|PRA Group, Inc. - Common Stock|Q|N|N|100|N|N
 PRAH|PRA Health Sciences, Inc. - Common Stock|Q|N|N|100|N|N
+PRAX|Praxis Precision Medicines, Inc. - Common Stock|Q|N|N|100|N|N
 PRCP|Perceptron, Inc. - Common Stock|G|N|N|100|N|N
 PRDO|Perdoceo Education Corporation - Common Stock|Q|N|N|100|N|N
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3270,6 +3275,7 @@ TANNL|TravelCenters of America Inc.  - 8.00% Senior Notes due 2029|Q|N|N|100|N|N
 TANNZ|TravelCenters of America Inc.  - 8.00% Senior Notes due 2030|Q|N|N|100|N|N
 TAOP|Taoping Inc. - Ordinary Shares|S|N|N|100|N|N
 TARA|Protara Therapeutics, Inc.  - Common Stock|G|N|N|100|N|N
+TARS|Tarsus Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 TAST|Carrols Restaurant Group, Inc. - Common Stock|Q|N|N|100|N|N
 TATT|TAT Technologies Ltd. - Ordinary Shares|G|N|N|100|N|N
 TAYD|Taylor Devices, Inc. - Common Stock|S|N|N|100|N|N
@@ -3347,6 +3353,7 @@ TLSA|Tiziana Life Sciences plc - American Depository Share|G|N|N|100|N|N
 TLT|iShares 20+ Year Treasury Bond ETF|G|N|N|100|Y|N
 TMDI|Titan Medical Inc. - Ordinary Shares|S|N|D|100|N|N
 TMDX|TransMedics Group, Inc. - Common Stock|G|N|N|100|N|N
+TMPMU|Turmeric Acquisition Corp. - Unit|S|N|N|100|N|N
 TMTSU|Spartacus Acquisition Corporation - Unit|S|N|N|100|N|N
 TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100|N|N
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3392,6 +3399,8 @@ TSEM|Tower Semiconductor Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TSHA|Taysha Gene Therapies, Inc. - Common Stock|Q|N|N|100|N|N
 TSLA|Tesla, Inc.  - Common Stock|Q|N|N|100|N|N
 TSRI|TSR, Inc. - Common Stock|S|N|N|100|N|N
+TTCF|Tattooed Chef, Inc. - Class A Common Stock|S|N|N|100|N|N
+TTCFW|Tattooed Chef, Inc. - Warrant|S|N|N|100|N|N
 TTD|The Trade Desk, Inc. - Class A Common Stock|G|N|N|100|N|N
 TTEC|TTEC Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 TTEK|Tetra Tech, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3739,4 +3748,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1015202015:41|||||||
+File Creation Time: 1016202015:41|||||||

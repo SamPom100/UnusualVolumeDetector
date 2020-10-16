@@ -220,6 +220,7 @@ AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L|N|AMX|N|1
 AMZA|InfraCap MLP ETF|P|AMZA|Y|100|N|AMZA
 AN|AutoNation, Inc. Common Stock|N|AN|N|100|N|AN
 ANET|Arista Networks, Inc. Common Stock|N|ANET|N|100|N|ANET
+ANEW|ProShares MSCI Transformational Changes ETF|P|ANEW|Y|100|N|ANEW
 ANF|Abercrombie & Fitch Company Common Stock|N|ANF|N|100|N|ANF
 ANH|Anworth Mortgage Asset Corporation Common Stock|N|ANH|N|100|N|ANH
 ANH$A|Anworth Mortgage Asset Corporation Series A Preferred Stock|N|ANHpA|N|100|N|ANH-A
@@ -4691,7 +4692,6 @@ TAP.A|Molson Coors Beverage Company Molson Coors Brewing Company Class A Common 
 TAPR|iPath Inverse US Treasury Composite ETN|Z|TAPR|N|100|N|TAPR
 TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares|N|TARO|N|100|N|TARO
 TAT|TransAtlantic Petroleum Ltd Ordinary Shares (Bermuda)|A|TAT|N|100|N|TAT
-TAWK|Direxion Daily Communication Services Index Bull 3X Shares|P|TAWK|Y|100|N|TAWK
 TAXF|American Century Diversified Municipal Bond ETF|P|TAXF|Y|100|N|TAXF
 TBB|AT&T Inc. 5.350% Global Notes due 2066|N|TBB|N|100|N|TBB
 TBC|AT&T Inc. 5.625% Global Notes due 2067|N|TBC|N|100|N|TBC
@@ -4789,7 +4789,7 @@ THW|Tekla World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 THY|Agility Shares Dynamic Tactical Income ETF|Z|THY|Y|100|N|THY
 TIF|Tiffany & Co. Common Stock|N|TIF|N|100|N|TIF
 TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|Z|TILT|Y|100|N|TILT
-TIMB.V|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) When Issued|N|TIMBw|N|100|N|TIMB#
+TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) |N|TIMB|N|100|N|TIMB
 TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPX|SPDR Bloomberg Barclays 1-10 Year TIPS|P|TIPX|Y|100|N|TIPX
 TIPZ|PIMCO Broad U.S. TIPS Index Exchange-Traded Fund|P|TIPZ|Y|100|N|TIPZ
@@ -5466,4 +5466,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1015202015:41||||||
+File Creation Time: 1016202015:41||||||
