@@ -494,7 +494,6 @@ BP,BP|BP p.l.c. Common Stock
 BPMP,BPMP|BP Midstream Partners LP Common Units representing Limited Partner Interests
 BPT,BPT|BP Prudhoe Bay Royalty Trust Common Stock
 BQ,BQ|Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares
-BQH,BQH|Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest
 BR,BR|Broadridge Financial Solutions, Inc.Common Stock
 BRBR,BRBR|BellRing Brands, Inc. Class A Common Stock
 BRBS,BRBS|Blue Ridge Bankshares, Inc. Common Stock
@@ -1683,6 +1682,7 @@ HZAC.U,HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Clas
 HZAC.W,HZAC.W|Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 HZN,HZN|Horizon Global Corporation Common Shares
 HZO,HZO|MarineMax, Inc.  (FL) Common Stock
+HZON.U,HZON.U|Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
 IAA,IAA|IAA, Inc. Common Stock 
 IACA.U,IACA.U|ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 IAE,IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
@@ -3023,7 +3023,6 @@ SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting
 SOAC.W,SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 SOGO,SOGO|Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share
 SOI,SOI|Solaris Oilfield Infrastructure, Inc. Class A Common Stock
-SOJA,SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes due October 15, 2075
 SOJB,SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076
 SOJC,SOJC|Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077
 SOJD,SOJD|Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080
@@ -3343,7 +3342,6 @@ UJPY,UJPY|ETNs linked to the VelocityShares Daily 4X Long JPY vs. USD Index
 UL,UL|Unilever PLC Common Stock
 UMC,UMC|United Microelectronics Corporation (NEW) Common Stock
 UMH,UMH|UMH Properties, Inc. Common Stock
-UMH$B,UMH$B|UMH Properties, Inc. 8.0% Series B Cumulative Redeemable Preferred Stock
 UMH$C,UMH$C|UMH Properties, Inc. 6.75% Series C Cumulative Redeemable Preferred Stock,  Liquidation Preference $25 per share
 UMH$D,UMH$D|UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share
 UN,UN|Unilever NV Common Stock
@@ -4457,6 +4455,7 @@ DBX,DBX|Dropbox, Inc. - Class A Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
+DCRBU,DCRBU|Decarbonization Plus Acquisition Corporation - Unit
 DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
@@ -4956,6 +4955,7 @@ GTLS,GTLS|Chart Industries, Inc. - Common Stock
 GTYH,GTYH|GTY Technology Holdings, Inc. - Common Stock
 GURE,GURE|Gulf Resources, Inc. - Common Stock
 GVP,GVP|GSE Systems, Inc. - Common Stock
+GWACU,GWACU|Good Works Acquisition Corp. - Unit
 GWGH,GWGH|GWG Holdings, Inc - Common Stock
 GWPH,GWPH|GW Pharmaceuticals Plc - American Depositary Shares
 GWRS,GWRS|Global Water Resources, Inc. - common stock
@@ -5026,6 +5026,7 @@ HLG,HLG|Hailiang Education Group Inc. - American Depositary Shares
 HLIO,HLIO|Helios Technologies, Inc. - Common Stock
 HLIT,HLIT|Harmonic Inc. - Common Stock
 HLNE,HLNE|Hamilton Lane Incorporated - Class A Common Stock
+HLXA,HLXA|Helix Acquisition Corp. - Class A Ordinary Shares
 HMHC,HMHC|Houghton Mifflin Harcourt Company - Common Stock
 HMNF,HMNF|HMN Financial, Inc. - Common Stock
 HMST,HMST|HomeStreet, Inc. - Common Stock

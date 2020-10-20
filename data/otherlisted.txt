@@ -625,7 +625,6 @@ BP|BP p.l.c. Common Stock|N|BP|N|100|N|BP
 BPMP|BP Midstream Partners LP Common Units representing Limited Partner Interests|N|BPMP|N|100|N|BPMP
 BPT|BP Prudhoe Bay Royalty Trust Common Stock|N|BPT|N|100|N|BPT
 BQ|Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares|N|BQ|N|100|N|BQ
-BQH|Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest|N|BQH|N|100|N|BQH
 BR|Broadridge Financial Solutions, Inc.Common Stock|N|BR|N|100|N|BR
 BRBR|BellRing Brands, Inc. Class A Common Stock|N|BRBR|N|100|N|BRBR
 BRBS|Blue Ridge Bankshares, Inc. Common Stock|A|BRBS|N|100|N|BRBS
@@ -2424,6 +2423,7 @@ HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Class A Ord
 HZAC.W|Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HZAC.WS|N|100|N|HZAC+
 HZN|Horizon Global Corporation Common Shares|N|HZN|N|100|N|HZN
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
+HZON.U|Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|HZON.U|N|100|N|HZON=
 IAA|IAA, Inc. Common Stock |N|IAA|N|100|N|IAA
 IACA.U|ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|IACA.U|N|100|N|IACA=
 IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IAE|N|100|N|IAE
@@ -2469,6 +2469,7 @@ IBN|ICICI Bank Limited Common Stock|N|IBN|N|100|N|IBN
 IBND|SPDR Bloomberg Barclays International Corporate Bond ETF|P|IBND|Y|100|N|IBND
 IBO|IBO (Listing Market - NYSE Amex Network B F) Common Stock|A|IBO|N|100|Y|IBO
 IBP|Installed Building Products, Inc. Common Stock|N|IBP|N|100|N|IBP
+IBUY|Amplify ETF Trust Amplify Online Retail ETF|P|IBUY|Y|100|N|IBUY
 ICD|Independence Contract Drilling, Inc. Common Stock|N|ICD|N|100|N|ICD
 ICE|Intercontinental Exchange Inc. Common Stock|N|ICE|N|100|N|ICE
 ICF|iShares Cohen & Steers REIT ETF|Z|ICF|Y|100|N|ICF
@@ -4482,7 +4483,6 @@ SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one
 SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|SOAC.WS|N|100|N|SOAC+
 SOGO|Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share|N|SOGO|N|100|N|SOGO
 SOI|Solaris Oilfield Infrastructure, Inc. Class A Common Stock|N|SOI|N|100|N|SOI
-SOJA|Southern Company (The) Series 2015A 6.25% Junior Subordinated Notes due October 15, 2075|N|SOJA|N|100|N|SOJA
 SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076|N|SOJB|N|100|N|SOJB
 SOJC|Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077|N|SOJC|N|100|N|SOJC
 SOJD|Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080|N|SOJD|N|100|N|SOJD
@@ -4990,7 +4990,6 @@ UMAY|Innovator S&P 500 Ultra Buffer ETF - May|Z|UMAY|Y|100|N|UMAY
 UMC|United Microelectronics Corporation (NEW) Common Stock|N|UMC|N|100|N|UMC
 UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
-UMH$B|UMH Properties, Inc. 8.0% Series B Cumulative Redeemable Preferred Stock|N|UMHpB|N|100|N|UMH-B
 UMH$C|UMH Properties, Inc. 6.75% Series C Cumulative Redeemable Preferred Stock,  Liquidation Preference $25 per share|N|UMHpC|N|100|N|UMH-C
 UMH$D|UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share|N|UMHpD|N|100|N|UMH-D
 UN|Unilever NV Common Stock|N|UN|N|100|N|UN
@@ -5462,4 +5461,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1019202015:42||||||
+File Creation Time: 1020202012:11||||||
