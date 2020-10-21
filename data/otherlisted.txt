@@ -213,6 +213,7 @@ AMRC|Ameresco, Inc. Class A Common Stock|N|AMRC|N|100|N|AMRC
 AMRX|Amneal Pharmaceuticals, Inc. Class A Common Stock|N|AMRX|N|100|N|AMRX
 AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
 AMT|American Tower Corporation (REIT) Common Stock|N|AMT|N|100|N|AMT
+AMTR|ETRACS Alerian Midstream Energy Total Return Index ETN|P|AMTR|N|100|N|AMTR
 AMU|ETRACS Alerian MLP Index ETN|P|AMU|N|100|N|AMU
 AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042|P|AMUB|N|100|N|AMUB
 AMWL|American Well Corporation Class A Common Stock|N|AMWL|N|100|N|AMWL
@@ -415,6 +416,7 @@ BAH|Booz Allen Hamilton Holding Corporation Common Stock|N|BAH|N|100|N|BAH
 BAK|Braskem SA ADR|N|BAK|N|100|N|BAK
 BAL|iPathA Series B Bloomberg Cotton Subindex Total Return ETN|P|BAL|N|100|N|BAL
 BAM|Brookfield Asset Management Inc. Common Stock|N|BAM|N|100|N|BAM
+BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080|N|BAMH|N|100|N|BAMH
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|BANCpD|N|100|N|BANC-D
 BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E|N|BANCpE|N|100|N|BANC-E
@@ -2306,6 +2308,7 @@ HIBS|Direxion Daily S&P 500 High Beta Bear 3X Shares|P|HIBS|Y|100|N|HIBS
 HIE|Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest|N|HIE|N|100|N|HIE
 HIG|Hartford Financial Services Group, Inc. (The) Common Stock|N|HIG|N|100|N|HIG
 HIG$G|Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value|N|HIGpG|N|100|N|HIG-G
+HIGA.U|H.I.G. Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant|N|HIGA.U|N|100|N|HIGA=
 HII|Huntington Ingalls Industries, Inc. Common Stock|N|HII|N|100|N|HII
 HIL|Hill International, Inc. Common Stock|N|HIL|N|100|N|HIL
 HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock|N|HIO|N|100|N|HIO
@@ -2569,6 +2572,7 @@ IMTB|iShares Core 5-10 Year USD Bond ETF|P|IMTB|Y|100|N|IMTB
 IMTM|iShares MSCI Intl Momentum Factor ETF|P|IMTM|Y|100|N|IMTM
 INCO|Columbia India Consumer ETF|P|INCO|Y|100|N|INCO
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
+INDF|Nifty India Financials ETF|P|INDF|Y|100|N|INDF
 INDL|Direxion Daily MSCI India Bull 3x Shares|P|INDL|Y|100|N|INDL
 INDO|Indonesia Energy Corporation Limited Ordinary Shares|A|INDO|N|100|N|INDO
 INDS|Pacer Benchmark Industrial Real Estate SCTR ETF|P|INDS|Y|100|N|INDS
@@ -3272,6 +3276,7 @@ MSI|Motorola Solutions, Inc. Common Stock|N|MSI|N|100|N|MSI
 MSM|MSC Industrial Direct Company, Inc. Common Stock|N|MSM|N|100|N|MSM
 MSN|Emerson Radio Corporation Common Stock|A|MSN|N|100|N|MSN
 MSOS|AdvisorShares Trust AdvisorShares Pure US Cannabis ETF|P|MSOS|Y|100|N|MSOS
+MSP|Datto Holding Corp. Common Stock|N|MSP|N|100|N|MSP
 MSTB|LHA Market State Tactical Beta ETF|Z|MSTB|Y|100|N|MSTB
 MSVX|LHA Market State Alpha Seeker ETF|Z|MSVX|Y|100|N|MSVX
 MT|Arcelor Mittal NY Registry Shares NEW|N|MT|N|100|N|MT
@@ -4070,6 +4075,7 @@ RCL|D/B/A Royal Caribbean Cruises Ltd. Common Stock|N|RCL|N|100|N|RCL
 RCP|Ready Capital Corporation 6.50% Senior Notes due 2021|N|RCP|N|100|N|RCP
 RCS|PIMCO Strategic Income Fund, Inc.|N|RCS|N|100|N|RCS
 RCUS|Arcus Biosciences, Inc. Common Stock|N|RCUS|N|100|N|RCUS
+RDFI|Rareview Dynamic Fixed Income ETF|Z|RDFI|Y|100|N|RDFI
 RDIV|Invesco Exchange-Traded Fund Trust II Invesco S&P Ultra Dividend Revenue ETF|P|RDIV|Y|100|N|RDIV
 RDN|Radian Group Inc. Common Stock|N|RDN|N|100|N|RDN
 RDOG|ALPS ETF Trust ALPS REIT Dividend Dogs ETF|P|RDOG|Y|100|N|RDOG
@@ -4203,6 +4209,7 @@ RSG|Republic Services, Inc. Common Stock|N|RSG|N|100|N|RSG
 RSP|Invesco S&P 500 Equal Weight ETF|P|RSP|Y|100|N|RSP
 RSX|VanEck Vectors Russia ETF|Z|RSX|Y|100|N|RSX
 RSXJ|VanEck Vectors Russia Small-Cap ETF|Z|RSXJ|Y|100|N|RSXJ
+RTAI|Rareview Tax Advantaged Income ETF|Z|RTAI|Y|100|N|RTAI
 RTM|Invesco S&P 500 Equal Weight Materials ETF|P|RTM|Y|100|N|RTM
 RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|RTP.U|N|100|N|RTP=
 RTX|Raytheon Technologies Corporation Common Stock|N|RTX|N|100|N|RTX
@@ -4534,6 +4541,7 @@ SPMB|SPDR Portfolio Mortgage Backed Bond ETF|P|SPMB|Y|100|N|SPMB
 SPMD|SPDR Portfolio S&P 400 Mid Cap ETF  |P|SPMD|Y|100|N|SPMD
 SPMO|Invesco S&P 500 Momentum ETF|P|SPMO|Y|100|N|SPMO
 SPMV|Invesco S&P 500 Minimum Variance ETF|Z|SPMV|Y|100|N|SPMV
+SPNV.U|Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common stock and one-third of one warrant|N|SPNV.U|N|100|N|SPNV=
 SPOT|Spotify Technology S.A. Ordinary Shares|N|SPOT|N|100|N|SPOT
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
@@ -4675,6 +4683,7 @@ T$A|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a sha
 T$C|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C|N|TpC|N|100|N|T-C
 TAAG|Trend Aggregation Aggressive Growth ETF|P|TAAG|Y|100|N|TAAG
 TAC|TransAlta Corporation Ordinary Shares|N|TAC|N|100|N|TAC
+TACE|Trend Aggregation Conservative ETF|P|TACE|Y|100|N|TACE
 TADS|Trend Aggregation Dividend Stock ETF|P|TADS|Y|100|N|TADS
 TAEQ|Trend Aggregation U.S. ETF|Z|TAEQ|Y|100|N|TAEQ
 TAGS|Teucrium Agricultural Fund ETV|P|TAGS|Y|100|N|TAGS
@@ -5314,7 +5323,6 @@ WPP|WPP plc American Depositary Shares|N|WPP|N|100|N|WPP
 WPS|iShares International Developed Property ETF|P|WPS|Y|100|N|WPS
 WPX|WPX Energy, Inc. Common Stock|N|WPX|N|100|N|WPX
 WRB|W.R. Berkley Corporation Common Stock|N|WRB|N|100|N|WRB
-WRB$B|W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053|N|WRBpB|N|100|N|WRB-B
 WRB$C|W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056|N|WRBpC|N|100|N|WRB-C
 WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056|N|WRBpD|N|100|N|WRB-D
 WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058|N|WRBpE|N|100|N|WRB-E
@@ -5391,6 +5399,7 @@ XPEV|XPeng Inc. American depositary shares, each representing two Class A ordina
 XPH|SPDR S&P Pharmaceuticals ETF|P|XPH|Y|100|N|XPH
 XPL|Solitario Zinc Corp. Common Stock|A|XPL|N|100|N|XPL
 XPO|XPO Logistics, Inc.|N|XPO|N|100|N|XPO
+XPOA.U|DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|XPOA.U|N|100|N|XPOA=
 XPP|ProShares Ultra FTSE China 50|P|XPP|Y|100|N|XPP
 XRLV|Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF|P|XRLV|Y|100|N|XRLV
 XRT|SPDR S&P Retail ETF|P|XRT|Y|100|N|XRT
@@ -5461,4 +5470,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1020202015:41||||||
+File Creation Time: 1021202012:12||||||

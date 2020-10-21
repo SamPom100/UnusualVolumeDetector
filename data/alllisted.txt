@@ -177,6 +177,7 @@ AMRC,AMRC|Ameresco, Inc. Class A Common Stock
 AMRX,AMRX|Amneal Pharmaceuticals, Inc. Class A Common Stock
 AMS,AMS|American Shared Hospital Services Common Stock
 AMT,AMT|American Tower Corporation (REIT) Common Stock
+AMTR,AMTR|ETRACS Alerian Midstream Energy Total Return Index ETN
 AMU,AMU|ETRACS Alerian MLP Index ETN
 AMUB,AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042
 AMWL,AMWL|American Well Corporation Class A Common Stock
@@ -342,6 +343,7 @@ BAH,BAH|Booz Allen Hamilton Holding Corporation Common Stock
 BAK,BAK|Braskem SA ADR
 BAL,BAL|iPathA Series B Bloomberg Cotton Subindex Total Return ETN
 BAM,BAM|Brookfield Asset Management Inc. Common Stock
+BAMH,BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
 BANC,BANC|Banc of California, Inc. Common Stock
 BANC$D,BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D
 BANC$E,BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E
@@ -1596,6 +1598,7 @@ HI,HI|Hillenbrand Inc Common Stock
 HIE,HIE|Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest
 HIG,HIG|Hartford Financial Services Group, Inc. (The) Common Stock
 HIG$G,HIG$G|Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value
+HIGA.U,HIGA.U|H.I.G. Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
 HII,HII|Huntington Ingalls Industries, Inc. Common Stock
 HIL,HIL|Hill International, Inc. Common Stock
 HIO,HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock
@@ -2189,6 +2192,7 @@ MSGS,MSGS|Madison Square Garden Sports Corp. Class A Common Stock (New)
 MSI,MSI|Motorola Solutions, Inc. Common Stock
 MSM,MSM|MSC Industrial Direct Company, Inc. Common Stock
 MSN,MSN|Emerson Radio Corporation Common Stock
+MSP,MSP|Datto Holding Corp. Common Stock
 MT,MT|Arcelor Mittal NY Registry Shares NEW
 MTA,MTA|Metalla Royalty & Streaming Ltd. Common Shares
 MTB,MTB|M&T Bank Corporation Common Stock
@@ -3045,6 +3049,7 @@ SPGI,SPGI|S&P Global Inc. Common Stock
 SPH,SPH|Suburban Propane Partners, L.P. Common Stock
 SPLP,SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT
 SPLP$A,SPLP$A|Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value
+SPNV.U,SPNV.U|Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common stock and one-third of one warrant
 SPOT,SPOT|Spotify Technology S.A. Ordinary Shares
 SPR,SPR|Spirit Aerosystems Holdings, Inc. Common Stock
 SPXC,SPXC|SPX Corporation Common Stock
@@ -3534,7 +3539,6 @@ WPM,WPM|Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP|WPP plc American Depositary Shares
 WPX,WPX|WPX Energy, Inc. Common Stock
 WRB,WRB|W.R. Berkley Corporation Common Stock
-WRB$B,WRB$B|W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053
 WRB$C,WRB$C|W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056
 WRB$D,WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056
 WRB$E,WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058
@@ -3573,6 +3577,7 @@ XOM,XOM|Exxon Mobil Corporation Common Stock
 XPEV,XPEV|XPeng Inc. American depositary shares, each representing two Class A ordinary shares
 XPL,XPL|Solitario Zinc Corp. Common Stock
 XPO,XPO|XPO Logistics, Inc.
+XPOA.U,XPOA.U|DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 XRX,XRX|Xerox Holdings Corporation Common Stock
 XTNT,XTNT|Xtant Medical Holdings, Inc. Common Stock
 XVZ,XVZ|iPath S&P 500 Dynamic VIX ETN
@@ -4054,7 +4059,9 @@ BOMN,BOMN|Boston Omaha Corporation - Class A Common Stock
 BOOM,BOOM|DMC Global Inc. - Common Stock
 BOSC,BOSC|B.O.S. Better Online Solutions - Ordinary Shares
 BOTJ,BOTJ|Bank of the James Financial Group, Inc. - Common Stock
+BOWX,BOWX|BowX Acquisition Corp. - Class A Common Stock
 BOWXU,BOWXU|BowX Acquisition Corp. - Unit
+BOWXW,BOWXW|BowX Acquisition Corp. - Warrant
 BOXL,BOXL|Boxlight Corporation - Class A Common Stock
 BPFH,BPFH|Boston Private Financial Holdings, Inc. - Common Stock
 BPMC,BPMC|Blueprint Medicines Corporation - Common Stock
@@ -5365,6 +5372,7 @@ LEVLP,LEVLP|Level One Bancorp, Inc. - Depositary Shares, Each Representing a 1/1
 LFAC,LFAC|LF Capital Acquistion Corp. - Class A Common Stock
 LFACU,LFACU|LF Capital Acquistion Corp. - Unit
 LFACW,LFACW|LF Capital Acquistion Corp. - Warrant
+LFTRU,LFTRU|Lefteris Acquisition Corp. - Unit
 LFUS,LFUS|Littelfuse, Inc. - Common Stock
 LFVN,LFVN|Lifevantage Corporation - Common Stock
 LGHL,LGHL|Lion Group Holding Ltd. - American Depositary Share
@@ -6446,6 +6454,7 @@ SRNE,SRNE|Sorrento Therapeutics, Inc. - Common Stock
 SRPT,SRPT|Sarepta Therapeutics, Inc. - Common Stock
 SRRA,SRRA|Sierra Oncology, Inc. - Common Stock
 SRRK,SRRK|Scholar Rock Holding Corporation - Common Stock
+SRSAU,SRSAU|Sarissa Capital Acquisition Corp. - Unit
 SRTS,SRTS|Sensus Healthcare, Inc. - Common Stock
 SSB,SSB|South State Corporation - Common Stock
 SSBI,SSBI|Summit State Bank - Common Stock
@@ -6838,7 +6847,6 @@ WILC,WILC|G. Willi-Food International,  Ltd. - Ordinary Shares
 WIMI,WIMI|WiMi Hologram Cloud Inc. - American Depositary Share
 WINA,WINA|Winmark Corporation - Common Stock
 WING,WING|Wingstop Inc. - Common Stock
-WINS,WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)
 WINT,WINT|Windtree Therapeutics, Inc. - Common Stock
 WIRE,WIRE|Encore Wire Corporation - Common Stock
 WISA,WISA|Summit Wireless Technologies, Inc. - Common Stock
@@ -6903,6 +6911,7 @@ XPER,XPER|Xperi Holding Corporation - Common Stock
 XRAY,XRAY|DENTSPLY SIRONA Inc. - Common Stock
 XSPA,XSPA|XpresSpa Group, Inc.  - Common Stock
 XTLB,XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares
+YGMZ,YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares
 YGYI,YGYI|Youngevity International, Inc. - Common Stock
 YGYIP,YGYIP|Youngevity International, Inc. - 9.75% Series D Cumulative Redeemable Perpetual Preferred Stock
 YI,YI|111, Inc. - American Depositary Shares
