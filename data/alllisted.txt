@@ -829,6 +829,7 @@ CSV,CSV|Carriage Services, Inc. Common Stock
 CTA$A,CTA$A|E.I. du Pont de Nemours and Company Preferred Stock
 CTA$B,CTA$B|E.I. du Pont de Nemours and Company Preferred Stock
 CTAA,CTAA|Qwest Corporation 7% Notes due 2056
+CTAC.U,CTAC.U|Cerberus Telecom Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 CTB,CTB|Cooper Tire & Rubber Company Common Stock
 CTBB,CTBB|Qwest Corporation 6.5% Notes due 2056
 CTDD,CTDD|Qwest Corporation 6.75% Notes due 2057
@@ -1023,7 +1024,6 @@ DTF,DTF|DTF Tax-Free Income, Inc. Common Stock
 DTJ,DTJ|DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076
 DTLA$,DTLA$|Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock
 DTP,DTP|DTE Energy Company 6.25% Corporate Units
-DTQ,DTQ|DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062
 DTW,DTW|DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077
 DTY,DTY|DTE Energy Company 2016 Series F 6.00% Junior Subordinated Debentures due 2076
 DUC,DUC|Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock
@@ -1434,6 +1434,7 @@ GGZ$A,GGZ$A|Gabelli Global Small and Mid Cap Value Trust (The) 5.450% Series A C
 GHC,GHC|Graham Holdings Company Common Stock
 GHG,GHG|GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary share
 GHL,GHL|Greenhill & Co., Inc. Common Stock
+GHLD,GHLD|Guild Holdings Company Class A Common Stock
 GHM,GHM|Graham Corporation Common Stock
 GHY,GHY|PGIM Global High Yield Fund, Inc.
 GIB,GIB|CGI Inc. Common Stock
@@ -2667,7 +2668,6 @@ PPT,PPT|Putnam Premier Income Trust Common Stock
 PPX,PPX|PPL Capital Funding, Inc. 2013 Series B Junior Subordinated Notes due 2073
 PQG,PQG|PQ Group Holdings Inc. Common Stock
 PRA,PRA|ProAssurance Corporation Common Stock
-PRE$F,PRE$F|PartnerRe Ltd. Redeemable Preferred Shares Series F (Bermuda)
 PRE$G,PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value
 PRE$H,PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value
 PRE$I,PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value
@@ -2811,10 +2811,11 @@ RHE,RHE|Regional Health Properties, Inc. Common Stock
 RHE$A,RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock
 RHI,RHI|Robert Half International Inc. Common Stock
 RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
+RICE.U,RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A common stock, and one-half of one warrant
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
-RIV.R,RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 3, 2020)
+RIV.R,RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 6, 2020)
 RJA,RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
 RJF,RJF|Raymond James Financial, Inc. Common Stock
 RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product
@@ -3627,6 +3628,7 @@ AAPL,AAPL|Apple Inc. - Common Stock
 AAWW,AAWW|Atlas Air Worldwide Holdings - Common Stock
 AAXN,AAXN|Axon Enterprise, Inc. - Common Stock
 ABCB,ABCB|Ameris Bancorp - Common Stock
+ABCM,ABCM|Abcam plc - American Depositary Shares
 ABEO,ABEO|Abeona Therapeutics Inc. - Common Stock
 ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
@@ -4037,6 +4039,7 @@ BLNK,BLNK|Blink Charging Co. - Common Stock
 BLNKW,BLNKW|Blink Charging Co. - Warrant
 BLPH,BLPH|Bellerophon Therapeutics, Inc. - Common Stock
 BLRX,BLRX|BioLineRx Ltd. - American Depositary Shares
+BLSA,BLSA|BCLS Acquisition Corp. - Class A Ordinary Shares
 BLU,BLU|BELLUS Health Inc. - Common Shares
 BLUE,BLUE|bluebird bio, Inc. - Common Stock
 BMCH,BMCH|BMC Stock Holdings, Inc. - Common Stock
@@ -5404,7 +5407,6 @@ LLNW,LLNW|Limelight Networks, Inc. - Common Stock
 LMAT,LMAT|LeMaitre Vascular, Inc. - Common Stock
 LMB,LMB|Limbach Holdings, Inc. - Common Stock
 LMFA,LMFA|LM Funding America, Inc. - Common Stock
-LMFAW,LMFAW|LM Funding America, Inc. - Warrant
 LMNL,LMNL|Liminal BioSciences Inc. - Common Shares
 LMNR,LMNR|Limoneira Co - Common Stock
 LMNX,LMNX|Luminex Corporation - Common Stock
@@ -5499,6 +5501,7 @@ MCACU,MCACU|Mountain Crest Acquisition Corp. - Unit
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
 MCEP,MCEP|Mid-Con Energy Partners, LP - Common Units
+MCFE,MCFE|McAfee Corp. - Class A Common Stock
 MCFT,MCFT|MasterCraft Boat Holdings, Inc. - Common Stock
 MCHP,MCHP|Microchip Technology Incorporated - Common Stock
 MCHX,MCHX|Marchex, Inc. - Class B Common Stock
@@ -6572,6 +6575,7 @@ TEAM,TEAM|Atlassian Corporation Plc - Class A Ordinary Shares
 TECH,TECH|Bio-Techne Corp - Common Stock
 TECTP,TECTP|Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 TEDU,TEDU|Tarena International, Inc. - American Depositary Shares
+TEKKU,TEKKU|Tekkorp Digital Acquisition Corp. - Unit
 TELA,TELA|TELA Bio, Inc. - Common stock
 TELL,TELL|Tellurian Inc. - Common Stock
 TENB,TENB|Tenable Holdings, Inc. - Common Stock
@@ -6921,6 +6925,7 @@ YMAB,YMAB|Y-mAbs Therapeutics, Inc. - Common Stock
 YNDX,YNDX|Yandex N.V. - Class A Ordinary Shares
 YORW,YORW|The York Water Company - Common Stock
 YRCW,YRCW|YRC Worldwide, Inc. - Common Stock
+YSACU,YSACU|Yellowstone Acquisition Company - Units
 YTEN,YTEN|Yield10 Bioscience, Inc.  - Common Stock
 YTRA,YTRA|Yatra Online, Inc. - Ordinary Shares
 YVR,YVR|Liquid Media Group Ltd. - Common Shares
