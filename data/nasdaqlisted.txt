@@ -18,6 +18,7 @@ ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100|N|N
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100|N|N
 ABTX|Allegiance Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 ABUS|Arbutus Biopharma Corporation - Common Stock|Q|N|N|100|N|N
+ACACU|Acies Acquisition Corp. - Unit|S|N|N|100|N|N
 ACAD|ACADIA Pharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 ACAM|Acamar Partners Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 ACAMU|Acamar Partners Acquisition Corp. - Units|S|N|N|100|N|N
@@ -1147,6 +1148,7 @@ ETNB|89bio, Inc. - Common Stock|G|N|N|100|N|N
 ETON|Eton Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ETSY|Etsy, Inc. - Common Stock|Q|N|N|100|N|N
 ETTX|Entasis Therapeutics Holdings Inc. - Common Stock|G|N|N|100|N|N
+EUCRU|Eucrates Biomedical Acquisition Corp. - Unit|S|N|N|100|N|N
 EUFN|iShares MSCI Europe Financials Sector Index Fund|G|N|N|100|Y|N
 EVBG|Everbridge, Inc. - Common Stock|G|N|N|100|N|N
 EVER|EverQuote, Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -1255,6 +1257,7 @@ FGEN|FibroGen, Inc - Common Stock|Q|N|N|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
 FHK|First Trust Hong Kong AlphaDEX Fund|G|N|N|100|Y|N
+FHTX|Foghorn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
 FIII|Forum Merger III Corporation - Class A Common Stock|S|N|N|100|N|N
@@ -1789,7 +1792,9 @@ IMUX|Immunic, Inc.  - Common Stock|Q|N|N|100|N|N
 IMV|IMV Inc. - Common Shares|S|N|N|100|N|N
 IMVT|Immunovant, Inc.  - Common Stock|Q|N|N|100|N|N
 IMXI|International Money Express, Inc. - Common Stock|S|N|N|100|N|N
+INAQ|INSU Acquisition Corp. II - Class A Common Stock|S|N|N|100|N|N
 INAQU|INSU Acquisition Corp. II - Unit|S|N|N|100|N|N
+INAQW|INSU Acquisition Corp. II - Warrant|S|N|N|100|N|N
 INBK|First Internet Bancorp - Common Stock|Q|N|N|100|N|N
 INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026|Q|N|N|100|N|N
 INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029|Q|N|N|100|N|N
@@ -2049,6 +2054,7 @@ LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100|N|N
 LMB|Limbach Holdings, Inc. - Common Stock|S|N|N|100|N|N
 LMBS|First Trust Low Duration Opportunities ETF|G|N|N|100|Y|N
 LMFA|LM Funding America, Inc. - Common Stock|S|N|D|100|N|N
+LMFAW|LM Funding America, Inc. - Warrant|S|N|N|100|N|N
 LMNL|Liminal BioSciences Inc. - Common Shares|G|N|N|100|N|N
 LMNR|Limoneira Co - Common Stock|Q|N|N|100|N|N
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100|N|N
@@ -3083,7 +3089,7 @@ SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100|N|N
 SILK|Silk Road Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100|N|N
 SINA|Sina Corporation - Ordinary Shares|Q|N|N|100|N|N
-SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100|N|N
+SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|D|100|N|N
 SINT|SiNtx Technologies, Inc. - Common Stock|S|N|N|100|N|N
 SIRI|Sirius XM Holdings Inc. - Common Stock|Q|N|N|100|N|N
 SITM|SiTime Corporation - Common Stock|G|N|N|100|N|N
@@ -3757,4 +3763,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1022202015:42|||||||
+File Creation Time: 1023202012:12|||||||

@@ -262,6 +262,7 @@ ASPN,ASPN|Aspen Aerogels, Inc. Common Stock
 ASR,ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASX,ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 AT,AT|Atlantic Power Corporation Ordinary Shares (Canada)
+ATAC.U,ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ATCO,ATCO|Atlas Corp. Common Shares
 ATCO$D,ATCO$D|Atlas Corp. 7.95% Series D
 ATCO$E,ATCO$E|Atlas Corp. 8.25% Series E
@@ -3298,7 +3299,9 @@ TVE,TVE|Tennessee Valley Authority
 TWI,TWI|Titan International, Inc. (DE) Common Stock
 TWLO,TWLO|Twilio Inc. Class A Common Stock
 TWN,TWN|Taiwan Fund, Inc. (The) Common Stock
+TWND,TWND|Tailwind Acquisition Corp. Class A Common Stock
 TWND.U,TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant
+TWND.W,TWND.W|Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
 TWO$B,TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
@@ -3634,6 +3637,7 @@ ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
 ABTX,ABTX|Allegiance Bancshares, Inc. - Common Stock
 ABUS,ABUS|Arbutus Biopharma Corporation - Common Stock
+ACACU,ACACU|Acies Acquisition Corp. - Unit
 ACAD,ACAD|ACADIA Pharmaceuticals Inc. - Common Stock
 ACAM,ACAM|Acamar Partners Acquisition Corp. - Class A Common Stock
 ACAMU,ACAMU|Acamar Partners Acquisition Corp. - Units
@@ -4634,6 +4638,7 @@ ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
 ETSY,ETSY|Etsy, Inc. - Common Stock
 ETTX,ETTX|Entasis Therapeutics Holdings Inc. - Common Stock
+EUCRU,EUCRU|Eucrates Biomedical Acquisition Corp. - Unit
 EVBG,EVBG|Everbridge, Inc. - Common Stock
 EVER,EVER|EverQuote, Inc. - Class A Common Stock
 EVFM,EVFM|Evofem Biosciences, Inc. - Common Stock
@@ -4716,6 +4721,7 @@ FFWM,FFWM|First Foundation Inc. - Common Stock
 FGBI,FGBI|First Guaranty Bancshares, Inc. - Common Stock
 FGEN,FGEN|FibroGen, Inc - Common Stock
 FHB,FHB|First Hawaiian, Inc. - Common Stock
+FHTX,FHTX|Foghorn Therapeutics Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
 FIII,FIII|Forum Merger III Corporation - Class A Common Stock
 FIIIU,FIIIU|Forum Merger III Corporation - Units
@@ -5173,7 +5179,9 @@ IMUX,IMUX|Immunic, Inc.  - Common Stock
 IMV,IMV|IMV Inc. - Common Shares
 IMVT,IMVT|Immunovant, Inc.  - Common Stock
 IMXI,IMXI|International Money Express, Inc. - Common Stock
+INAQ,INAQ|INSU Acquisition Corp. II - Class A Common Stock
 INAQU,INAQU|INSU Acquisition Corp. II - Unit
+INAQW,INAQW|INSU Acquisition Corp. II - Warrant
 INBK,INBK|First Internet Bancorp - Common Stock
 INBKL,INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026
 INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -5407,6 +5415,7 @@ LLNW,LLNW|Limelight Networks, Inc. - Common Stock
 LMAT,LMAT|LeMaitre Vascular, Inc. - Common Stock
 LMB,LMB|Limbach Holdings, Inc. - Common Stock
 LMFA,LMFA|LM Funding America, Inc. - Common Stock
+LMFAW,LMFAW|LM Funding America, Inc. - Warrant
 LMNL,LMNL|Liminal BioSciences Inc. - Common Shares
 LMNR,LMNR|Limoneira Co - Common Stock
 LMNX,LMNX|Luminex Corporation - Common Stock
