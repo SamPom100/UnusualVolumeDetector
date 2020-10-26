@@ -1,5 +1,8 @@
 A,A|Agilent Technologies, Inc. Common Stock
 AA,AA|Alcoa Corporation Common Stock 
+AAIC,AAIC|Arlington Asset Investment Corp Class A (new)
+AAIC$B,AAIC$B|Arlington Asset Investment Corp 7.00% 
+AAIC$C,AAIC$C|Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   
 AAMC,AAMC|Altisource Asset Management Corp Com
 AAN,AAN|Aarons Holdings Company, Inc. Common Stock
 AAP,AAP|Advance Auto Parts Inc Advance Auto Parts Inc W/I
@@ -98,9 +101,6 @@ AHT$F,AHT$F|Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred S
 AHT$G,AHT$G|Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock
 AHT$H,AHT$H|Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock
 AHT$I,AHT$I|Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock
-AI,AI|Arlington Asset Investment Corp Class A (new)
-AI$B,AI$B|Arlington Asset Investment Corp 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock
-AI$C,AI$C|Arlington Asset Investment Corp 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 AIC,AIC|Arlington Asset Investment Corp 6.750% Notes due 2025
 AIF,AIF|Apollo Tactical Income Fund Inc. Common Stock
 AIG,AIG|American International Group, Inc. New Common Stock
@@ -851,7 +851,6 @@ CTS,CTS|CTS Corporation Common Stock
 CTT,CTT|CatchMark Timber Trust, Inc. Class A Common Stock
 CTVA,CTVA|Corteva, Inc. Common Stock 
 CTY,CTY|Qwest Corporation 6.125% Notes due 2053
-CTZ,CTZ|Qwest Corporation 6.625% Notes due 2055
 CUB,CUB|Cubic Corporation Common Stock
 CUBB,CUBB|Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE,CUBE|CubeSmart Common Shares
@@ -1885,7 +1884,6 @@ KBR,KBR|KBR, Inc. Common Stock
 KCAC,KCAC|Kensington Capital Acquisition Corp. Class A Common Stock
 KCAC.U,KCAC.U|Kensington Capital Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 KCAC.W,KCAC.W|Kensington Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
-KDMN,KDMN|Kadmon Holdings, Inc. Common Stock
 KEN,KEN|Kenon Holdings Ltd. Ordinary Shares
 KEP,KEP|Korea Electric Power Corporation Common Stock
 KEX,KEX|Kirby Corporation Common Stock
@@ -2276,8 +2274,6 @@ NDMO,NDMO|Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficia
 NDP,NDP|Tortoise Energy Independence Fund, Inc. Common Stock
 NEA,NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
 NEE,NEE|NextEra Energy, Inc. Common Stock
-NEE$I,NEE$I|NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072
-NEE$J,NEE$J|NextEra Energy, Inc. Series J Junior Subordinated Debentures due January 15, 2073
 NEE$K,NEE$K|NextEra Energy, Inc. Series K Junior Subordinated Debentures due June 1, 2076
 NEE$N,NEE$N|NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079
 NEE$O,NEE$O|NextEra Energy, Inc. 4.872% Corporate Units
@@ -2613,7 +2609,7 @@ PHK,PHK|Pimco High Income Fund Pimco High Income Fund
 PHM,PHM|PulteGroup, Inc. Common Stock
 PHR,PHR|Phreesia, Inc. Common Stock
 PHT,PHT|Pioneer High Income Trust Common Shares of Beneficial Interest
-PHX,PHX|Panhandle Oil and Gas Inc Common Stock
+PHX,PHX|PHX Minerals Inc. Common Stock
 PIAI.U,PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share
 PIC,PIC|Pivotal Investment Corporation II Class A Common Stock
 PIC.U,PIC.U|Pivotal Investment Corporation II Units
@@ -4138,7 +4134,9 @@ CALT,CALT|Calliditas Therapeutics AB - American Depositary Shares
 CAMP,CAMP|CalAmp Corp. - Common Stock
 CAMT,CAMT|Camtek Ltd. - Ordinary Shares
 CAN,CAN|Canaan Inc. - American Depositary Shares
+CAPA,CAPA|HighCape Capital Acquisition Corp. - Class A Common Stock
 CAPAU,CAPAU|HighCape Capital Acquisition Corp. - Unit
+CAPAW,CAPAW|HighCape Capital Acquisition Corp. - Warrant
 CAPR,CAPR|Capricor Therapeutics, Inc. - Common Stock
 CAR,CAR|Avis Budget Group, Inc. - Common Stock
 CARA,CARA|Cara Therapeutics, Inc. - Common Stock
@@ -4301,7 +4299,9 @@ CMCT,CMCT|CIM Commercial Trust Corporation - Common Stock
 CMCTP,CMCTP|CIM Commercial Trust Corporation - Series L Preferred Stock
 CME,CME|CME Group Inc. - Class A Common Stock
 CMFNL,CMFNL|Investcorp Credit Management BDC, Inc. - 6.125% Notes due 2023
+CMLF,CMLF|CM Life Sciences, Inc. - Class A Common Stock
 CMLFU,CMLFU|CM Life Sciences, Inc. - Unit
+CMLFW,CMLFW|CM Life Sciences, Inc. - Warrant
 CMLS,CMLS|Cumulus Media Inc. - Class A Common Stock
 CMPI,CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock
 CMPR,CMPR|Cimpress plc - Ordinary Shares
@@ -4514,9 +4514,6 @@ DOOO,DOOO|BRP Inc. - Common Subordinate Voting Shares
 DORM,DORM|Dorman Products, Inc. - Common Stock
 DOX,DOX|Amdocs Limited - Ordinary Shares
 DOYU,DOYU|DouYu International Holdings Limited - American Depositary Shares
-DPHC,DPHC|DiamondPeak Holdings Corp. - Class A Common Stock
-DPHCU,DPHCU|DiamondPeak Holdings Corp. - Units
-DPHCW,DPHCW|DiamondPeak Holdings Corp. - Warrant
 DRAD,DRAD|Digirad Corporation - Common Stock
 DRADP,DRADP|Digirad Corporation - Series A Cumulative Perpetual Preferred Stock
 DRIO,DRIO|DarioHealth Corp. - Common Stock
@@ -5166,7 +5163,6 @@ IMGN,IMGN|ImmunoGen, Inc. - Common Stock
 IMKTA,IMKTA|Ingles Markets, Incorporated - Class A Common Stock
 IMMP,IMMP|Immutep Limited - American Depositary Shares
 IMMR,IMMR|Immersion Corporation - Common Stock
-IMMU,IMMU|Immunomedics, Inc. - Common Stock
 IMNM,IMNM|Immunome, Inc. - Common Stock
 IMOS,IMOS|ChipMOS TECHNOLOGIES INC. - American Depositary Shares
 IMRA,IMRA|IMARA Inc. - Common Stock
@@ -5287,6 +5283,7 @@ KBNTW,KBNTW|Kubient, Inc. - Warrant
 KBSF,KBSF|KBS Fashion Group Limited - Common Stock
 KC,KC|Kingsoft Cloud Holdings Limited - American Depositary Shares
 KCAPL,KCAPL|Portman Ridge Finance Corporation - 6.125% Notes due 2022
+KDMN,KDMN|Kadmon Holdings, Inc. - Common Stock
 KDNY,KDNY|Chinook Therapeutics, Inc. - Common Stock
 KDP,KDP|Keurig Dr Pepper Inc. - Common Stock
 KE,KE|Kimball Electronics, Inc. - Common Stock
@@ -6205,6 +6202,8 @@ RGNX,RGNX|REGENXBIO Inc. - Common Stock
 RGP,RGP|Resources Connection, Inc. - Common Stock
 RIBT,RIBT|RiceBran Technologies - Common Stock
 RICK,RICK|RCI Hospitality Holdings, Inc. - Common Stock
+RIDE,RIDE|Lordstown Motors Corp. - Class A Common Stock
+RIDEW,RIDEW|Lordstown Motors Corp. - Warrant
 RIGL,RIGL|Rigel Pharmaceuticals, Inc. - Common Stock
 RILY,RILY|B. Riley Financial, Inc. - Common Stock
 RILYG,RILYG|B. Riley Financial, Inc. - 7.25% Senior Notes due 2027

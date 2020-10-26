@@ -4,6 +4,9 @@ AA|Alcoa Corporation Common Stock |N|AA|N|100|N|AA
 AAA|Listed Funds Trust AAF First Priority CLO Bond ETF|P|AAA|Y|100|N|AAA
 AAAU|Perth Mint Physical Gold ETF|P|AAAU|Y|100|N|AAAU
 AADR|AdvisorShares Dorsey Wright ADR ETF|P|AADR|Y|100|N|AADR
+AAIC|Arlington Asset Investment Corp Class A (new)|N|AAIC|N|100|N|AAIC
+AAIC$B|Arlington Asset Investment Corp 7.00% |N|AAICpB|N|100|N|AAIC-B
+AAIC$C|Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   |N|AAICpC|N|100|N|AAIC-C
 AAMC|Altisource Asset Management Corp Com|A|AAMC|N|100|N|AAMC
 AAN|Aarons Holdings Company, Inc. Common Stock|N|AAN|N|100|N|AAN
 AAP|Advance Auto Parts Inc Advance Auto Parts Inc W/I|N|AAP|N|100|N|AAP
@@ -124,9 +127,6 @@ AHT$F|Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock|N
 AHT$G|Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock|N|AHTpG|N|100|N|AHT-G
 AHT$H|Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock|N|AHTpH|N|100|N|AHT-H
 AHT$I|Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock|N|AHTpI|N|100|N|AHT-I
-AI|Arlington Asset Investment Corp Class A (new)|N|AI|N|100|N|AI
-AI$B|Arlington Asset Investment Corp 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock|N|AIpB|N|100|N|AI-B
-AI$C|Arlington Asset Investment Corp 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|AIpC|N|100|N|AI-C
 AIC|Arlington Asset Investment Corp 6.750% Notes due 2025|N|AIC|N|100|N|AIC
 AIEQ|AI Powered Equity ETF|P|AIEQ|Y|100|N|AIEQ
 AIF|Apollo Tactical Income Fund Inc. Common Stock|N|AIF|N|100|N|AIF
@@ -1049,7 +1049,6 @@ CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
 CTT|CatchMark Timber Trust, Inc. Class A Common Stock|N|CTT|N|100|N|CTT
 CTVA|Corteva, Inc. Common Stock |N|CTVA|N|100|N|CTVA
 CTY|Qwest Corporation 6.125% Notes due 2053|N|CTY|N|100|N|CTY
-CTZ|Qwest Corporation 6.625% Notes due 2055|N|CTZ|N|100|N|CTZ
 CUB|Cubic Corporation Common Stock|N|CUB|N|100|N|CUB
 CUBB|Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034|N|CUBB|N|100|N|CUBB
 CUBE|CubeSmart Common Shares|N|CUBE|N|100|N|CUBE
@@ -2498,7 +2497,6 @@ IDT|IDT Corporation Class B Common Stock|N|IDT|N|100|N|IDT
 IDU|iShares U.S. Utilities ETF|P|IDU|Y|100|N|IDU
 IDV|iShares International Select Dividend ETF|Z|IDV|Y|100|N|IDV
 IDX|VanEck Vectors Indonesia Index ETF|P|IDX|Y|100|N|IDX
-IDY|Pacific Global International Equity Income ETF|P|IDY|Y|100|N|IDY
 IECS|iShares Evolved U.S. Consumer Staples ETF|Z|IECS|Y|100|N|IECS
 IEDI|iShares Evolved U.S. Discretionary Spending ETF|Z|IEDI|Y|100|N|IEDI
 IEFA|iShares Core MSCI EAFE ETF|Z|IEFA|Y|100|N|IEFA
@@ -2867,7 +2865,6 @@ KCCB|KraneShares CCBS China Corporate High Yield Bond USD Index ETF|P|KCCB|Y|100
 KCE|SPDR S&P Capital Markets ETF|P|KCE|Y|100|N|KCE
 KCNY|KraneShares E Fund China Commercial Paper ETF|P|KCNY|Y|100|N|KCNY
 KDFI|KFA Dynamic Fixed Income ETF|P|KDFI|Y|100|N|KDFI
-KDMN|Kadmon Holdings, Inc. Common Stock|N|KDMN|N|100|N|KDMN
 KEMQ|KraneShares Emerging Markets Consumer Technology Index ETF|P|KEMQ|Y|100|N|KEMQ
 KEMX|KraneShares MSCI Emerging Markets ex China Index ETF|P|KEMX|Y|100|N|KEMX
 KEN|Kenon Holdings Ltd. Ordinary Shares|N|KEN|N|100|N|KEN
@@ -3379,8 +3376,6 @@ NDP|Tortoise Energy Independence Fund, Inc. Common Stock|N|NDP|N|100|N|NDP
 NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01|N|NEA|N|100|N|NEA
 NEAR|iShares Short Maturity Bond ETF|Z|NEAR|Y|100|N|NEAR
 NEE|NextEra Energy, Inc. Common Stock|N|NEE|N|100|N|NEE
-NEE$I|NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072|N|NEEpI|N|100|N|NEE-I
-NEE$J|NextEra Energy, Inc. Series J Junior Subordinated Debentures due January 15, 2073|N|NEEpJ|N|100|N|NEE-J
 NEE$K|NextEra Energy, Inc. Series K Junior Subordinated Debentures due June 1, 2076|N|NEEpK|N|100|N|NEE-K
 NEE$N|NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079|N|NEEpN|N|100|N|NEE-N
 NEE$O|NextEra Energy, Inc. 4.872% Corporate Units|N|NEEpO|N|100|N|NEE-O
@@ -3810,7 +3805,7 @@ PHK|Pimco High Income Fund Pimco High Income Fund|N|PHK|N|100|N|PHK
 PHM|PulteGroup, Inc. Common Stock|N|PHM|N|100|N|PHM
 PHR|Phreesia, Inc. Common Stock|N|PHR|N|100|N|PHR
 PHT|Pioneer High Income Trust Common Shares of Beneficial Interest|N|PHT|N|100|N|PHT
-PHX|Panhandle Oil and Gas Inc Common Stock|N|PHX|N|100|N|PHX
+PHX|PHX Minerals Inc. Common Stock|N|PHX|N|100|N|PHX
 PHYL|PGIM Active High Yield Bond ETF|P|PHYL|Y|100|N|PHYL
 PHYS|Sprott Physical Gold Trust ETV|P|PHYS|Y|100|N|PHYS
 PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share|N|PIAI.U|N|100|N|PIAI=
@@ -5042,7 +5037,6 @@ USCI|United States Commodity Index Fund ETV|P|USCI|Y|100|N|USCI
 USD|ProShares Ultra Semiconductors|P|USD|Y|100|N|USD
 USDP|USD Partners LP Common Units representing limited partner interest|N|USDP|N|100|N|USDP
 USDU|WisdomTree Bloomberg U.S. Dollar Bullish Fund|P|USDU|Y|100|N|USDU
-USDY|Pacific Global US Equity Income ETF|P|USDY|Y|100|N|USDY
 USEP|Innovator ETFs Trust Innovator S&P 500 Ultra Buffer ETF - September|Z|USEP|Y|100|N|USEP
 USEQ|Invesco Russell 1000 Enhanced Equal Weight ETF|Z|USEQ|Y|100|N|USEQ
 USFD|US Foods Holding Corp. Common Stock|N|USFD|N|100|N|USFD
@@ -5474,4 +5468,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1023202015:42||||||
+File Creation Time: 1026202012:13||||||

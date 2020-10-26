@@ -580,7 +580,9 @@ CALT|Calliditas Therapeutics AB - American Depositary Shares|Q|N|N|100|N|N
 CAMP|CalAmp Corp. - Common Stock|Q|N|N|100|N|N
 CAMT|Camtek Ltd. - Ordinary Shares|G|N|N|100|N|N
 CAN|Canaan Inc. - American Depositary Shares|G|N|N|100|N|N
+CAPA|HighCape Capital Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 CAPAU|HighCape Capital Acquisition Corp. - Unit|S|N|N|100|N|N
+CAPAW|HighCape Capital Acquisition Corp. - Warrant|S|N|N|100|N|N
 CAPR|Capricor Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CAR|Avis Budget Group, Inc. - Common Stock|Q|N|N|100|N|N
 CARA|Cara Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -725,7 +727,7 @@ CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100|N|N
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100|N|N
 CIZ|VictoryShares Developed Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
 CIZN|Citizens Holding Company - Common Stock|G|N|N|100|N|N
-CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|N|100|N|N
+CJJD|China Jo-Jo Drugstores, Inc. - Common Stock|S|N|D|100|N|N
 CKPT|Checkpoint Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CLAR|Clarus Corporation - Common Stock|Q|N|N|100|N|N
 CLBK|Columbia Financial, Inc. - Common Stock|Q|N|N|100|N|N
@@ -760,7 +762,9 @@ CMCT|CIM Commercial Trust Corporation - Common Stock|G|N|N|100|N|N
 CMCTP|CIM Commercial Trust Corporation - Series L Preferred Stock|G|N|N|100|N|N
 CME|CME Group Inc. - Class A Common Stock|Q|N|N|100|N|N
 CMFNL|Investcorp Credit Management BDC, Inc. - 6.125% Notes due 2023|Q|N|N|100|N|N
+CMLF|CM Life Sciences, Inc. - Class A Common Stock|S|N|N|100|N|N
 CMLFU|CM Life Sciences, Inc. - Unit|S|N|N|100|N|N
+CMLFW|CM Life Sciences, Inc. - Warrant|S|N|N|100|N|N
 CMLS|Cumulus Media Inc. - Class A Common Stock|G|N|N|100|N|N
 CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 CMPR|Cimpress plc - Ordinary Shares|Q|N|N|100|N|N
@@ -855,7 +859,7 @@ CSA|VictoryShares US Small Cap Volatility Wtd ETF|G|N|N|100|Y|N
 CSB|VictoryShares US Small Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
 CSBR|Champions Oncology, Inc. - Common Stock|S|N|N|100|N|N
 CSCO|Cisco Systems, Inc. - Common Stock|Q|N|N|100|N|N
-CSCW|Color Star Technology Co. Ltd. - Ordinary Shares|S|N|N|100|N|N
+CSCW|Color Star Technology Co. Ltd. - Ordinary Shares|S|N|D|100|N|N
 CSF|VictoryShares US Discovery Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
 CSGP|CoStar Group, Inc. - Common Stock|Q|N|N|100|N|N
 CSGS|CSG Systems International, Inc. - Common Stock|Q|N|N|100|N|N
@@ -989,9 +993,6 @@ DOOO|BRP Inc. - Common Subordinate Voting Shares|Q|N|N|100|N|N
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100|N|N
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100|N|N
 DOYU|DouYu International Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
-DPHC|DiamondPeak Holdings Corp. - Class A Common Stock|S|N|N|100|N|N
-DPHCU|DiamondPeak Holdings Corp. - Units|S|N|N|100|N|N
-DPHCW|DiamondPeak Holdings Corp. - Warrant|S|N|N|100|N|N
 DRAD|Digirad Corporation - Common Stock|G|N|N|100|N|N
 DRADP|Digirad Corporation - Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 DRIO|DarioHealth Corp. - Common Stock|S|N|N|100|N|N
@@ -1779,7 +1780,6 @@ IMGN|ImmunoGen, Inc. - Common Stock|Q|N|N|100|N|N
 IMKTA|Ingles Markets, Incorporated - Class A Common Stock|Q|N|N|100|N|N
 IMMP|Immutep Limited - American Depositary Shares|G|N|N|100|N|N
 IMMR|Immersion Corporation - Common Stock|Q|N|N|100|N|N
-IMMU|Immunomedics, Inc. - Common Stock|G|N|N|100|N|N
 IMNM|Immunome, Inc. - Common Stock|S|N|N|100|N|N
 IMOS|ChipMOS TECHNOLOGIES INC. - American Depositary Shares|Q|N|N|100|N|N
 IMRA|IMARA Inc. - Common Stock|Q|N|N|100|N|N
@@ -1921,6 +1921,7 @@ KBWR|Invesco KBW Regional Banking ETF|G|N|N|100|Y|N
 KBWY|Invesco KBW Premium Yield Equity REIT ETF|G|N|N|100|Y|N
 KC|Kingsoft Cloud Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
 KCAPL|Portman Ridge Finance Corporation - 6.125% Notes due 2022|Q|N|N|100|N|N
+KDMN|Kadmon Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 KDNY|Chinook Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 KDP|Keurig Dr Pepper Inc. - Common Stock|Q|N|N|100|N|N
 KE|Kimball Electronics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2914,6 +2915,8 @@ RGNX|REGENXBIO Inc. - Common Stock|Q|N|N|100|N|N
 RGP|Resources Connection, Inc. - Common Stock|Q|N|N|100|N|N
 RIBT|RiceBran Technologies - Common Stock|S|N|D|100|N|N
 RICK|RCI Hospitality Holdings, Inc. - Common Stock|G|N|N|100|N|N
+RIDE|Lordstown Motors Corp. - Class A Common Stock|Q|N|N|100|N|N
+RIDEW|Lordstown Motors Corp. - Warrant|Q|N|N|100|N|N
 RIGL|Rigel Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 RILY|B. Riley Financial, Inc. - Common Stock|G|N|N|100|N|N
 RILYG|B. Riley Financial, Inc. - 7.25% Senior Notes due 2027|G|N|N|100|N|N
@@ -3763,4 +3766,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1023202015:42|||||||
+File Creation Time: 1026202012:13|||||||
