@@ -44,6 +44,7 @@ ACP|Aberdeen Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
 ACSG|Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF|P|ACSG|Y|100|N|ACSG
 ACSI|American Customer Satisfaction ETF|Z|ACSI|Y|100|N|ACSI
+ACTV|LeaderShares Activist Leaders ETF|P|ACTV|Y|100|N|ACTV
 ACU|Acme United Corporation. Common Stock|A|ACU|N|100|N|ACU
 ACV|AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest|N|ACV|N|100|N|ACV
 ACWF|iShares MSCI Global Multifactor ETF|P|ACWF|Y|100|N|ACWF
@@ -2429,7 +2430,9 @@ HZN|Horizon Global Corporation Common Shares|N|HZN|N|100|N|HZN
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 HZON.U|Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|HZON.U|N|100|N|HZON=
 IAA|IAA, Inc. Common Stock |N|IAA|N|100|N|IAA
+IACA|ION Acquisition Corp 1 Ltd. Class A Ordinary Shares|N|IACA|N|100|N|IACA
 IACA.U|ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|IACA.U|N|100|N|IACA=
+IACA.W|ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|IACA.WS|N|100|N|IACA+
 IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IAE|N|100|N|IAE
 IAF|Aberdeen Australia Equity Fund Inc Common Stock|A|IAF|N|100|N|IAF
 IAG|Iamgold Corporation Ordinary Shares|N|IAG|N|100|N|IAG
@@ -2760,7 +2763,6 @@ JHMU|John Hancock Multifactor Utilities ETF|P|JHMU|Y|100|N|JHMU
 JHS|John Hancock Income Securities Trust Common Stock|N|JHS|N|100|N|JHS
 JHSC|John Hancock Multifactor Small Cap ETF|P|JHSC|Y|100|N|JHSC
 JHX|James Hardie Industries plc American Depositary Shares (Ireland)|N|JHX|N|100|N|JHX
-JHY|Nuveen High Income 2020 Target Term Fund Common Shares of Beneficial Interest|N|JHY|N|100|N|JHY
 JIG|JPMorgan International Growth ETF|P|JIG|Y|100|N|JIG
 JIGB|JPMorgan Corporate Bond Research Enhanced ETF|P|JIGB|Y|100|N|JIGB
 JIH|Juniper Industrial Holdings, Inc. Class A Common Stock|N|JIH|N|100|N|JIH
@@ -3043,6 +3045,7 @@ LRGF|iShares MSCI USA Multifactor ETF|P|LRGF|Y|100|N|LRGF
 LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
 LRNZ|TrueShares Technology, AI & Deep Learning ETF|P|LRNZ|Y|100|N|LRNZ
 LSAF|LeaderShares AlphaFactor US Core Equity ETF|P|LSAF|Y|100|N|LSAF
+LSAT|LeaderShares AlphaFactor Tactical Focused ETF|P|LSAT|Y|100|N|LSAT
 LSF|Laird Superfood, Inc. Common Stock|A|LSF|N|100|N|LSF
 LSI|Life Storage, Inc. Common Stock|N|LSI|N|100|N|LSI
 LSLT|Pacer Salt Low truBeta US Market ETF|Z|LSLT|Y|100|N|LSLT
@@ -3638,6 +3641,7 @@ ONTO|Onto Innovation Inc. Common Stock|N|ONTO|N|100|N|ONTO
 OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
 OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock|N|OPP|N|100|N|OPP
+OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock|N|OPPpA|N|100|N|OPP-A
 OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)|N|OPY|N|100|N|OPY
 OR|Osisko Gold Royalties Ltd Common Shares|N|OR|N|100|N|OR
 ORA|Ormat Technologies, Inc. Common Stock|N|ORA|N|100|N|ORA
@@ -5468,4 +5472,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1026202015:41||||||
+File Creation Time: 1027202012:11||||||
