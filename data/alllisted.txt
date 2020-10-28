@@ -28,6 +28,7 @@ ACCO,ACCO|Acco Brands Corporation Common Stock
 ACEL,ACEL|Accel Entertainment, Inc. 
 ACH,ACH|Aluminum Corporation of China Limited American Depositary Shares
 ACI,ACI|Albertsons Companies, Inc. Class A Common Stock
+ACIC.U,ACIC.U|Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of one redeemable warrant
 ACM,ACM|AECOM Common Stock
 ACN,ACN|Accenture plc Class A Ordinary Shares (Ireland)
 ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
@@ -117,6 +118,7 @@ AIV,AIV|Apartment Investment and Management Company Common Stock
 AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZP,AIZP|Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value
+AJAX.U,AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 AJG,AJG|Arthur J. Gallagher & Co. Common Stock
 AJRD,AJRD|Aerojet Rocketdyne Holdings, Inc. Common Stock
 AJX,AJX|Great Ajax Corp. Common Stock
@@ -488,6 +490,7 @@ BNKZ,BNKZ|MicroSectors U.S. Big Banks Index -2X Inverse Leveraged ETNs
 BNL,BNL|Broadstone Net Lease, Inc. Class A Common Stock
 BNS,BNS|Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNY,BNY|BlackRock New York Municipal Income Trust
+BOAC.U,BOAC.U|Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 BOE,BOE|Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
 BOH,BOH|Bank of Hawaii Corporation Common Stock
 BOOT,BOOT|Boot Barn Holdings, Inc. Common Stock
@@ -805,6 +808,7 @@ CPSR.W,CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole war
 CPT,CPT|Camden Property Trust Common Stock
 CQP,CQP|Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units
 CR,CR|Crane Co. Common Stock
+CRC,CRC|California Resources Corporation Common Stock
 CRD.A,CRD.A|Crawford & Company Common Stock
 CRD.B,CRD.B|Crawford & Company Common Stock
 CRF,CRF|Cornerstone Total Return Fund, Inc. (The) Common Stock
@@ -1382,6 +1386,7 @@ GAB$J,GAB$J|Gabelli Equity Trust, Inc. (The) 5.45% Series J Cumulative Preferred
 GAB$K,GAB$K|Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock
 GAM,GAM|General American Investors, Inc. Common Stock
 GAM$B,GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock
+GATO,GATO|Gatos Silver, Inc. Common Stock
 GATX,GATX|GATX Corporation Common Stock
 GAU,GAU|Galiano Gold Inc.
 GAZ,GAZ|Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return ETN
@@ -2039,6 +2044,7 @@ MANU,MANU|Manchester United Ltd. Class A Ordinary Shares
 MAS,MAS|Masco Corporation Common Stock
 MATX,MATX|Matson, Inc. Common Stock
 MAV,MAV|Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest
+MAX,MAX|MediaAlpha, Inc. Class A Common Stock
 MAXR,MAXR|Maxar Technologies Inc.
 MBI,MBI|MBIA Inc. Common Stock
 MBT,MBT|Mobile TeleSystems PJSC
@@ -2719,6 +2725,7 @@ PSTH.W,PSTH.W|Pershing Square Tontine Holdings, Ltd. Warrants, exercisable for o
 PSTL,PSTL|Postal Realty Trust, Inc. Class A Common Stock
 PSX,PSX|Phillips 66 Common Stock
 PSXP,PSXP|Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership
+PTA,PTA|Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest
 PTK,PTK|PTK Acquisition Corp. Common Stock
 PTK.U,PTK.U|PTK Acquisition Corp. Units
 PTK.W,PTK.W|PTK Acquisition Corp. Warrants, each whole warrant exercisable for one half (1/2) of a share of Common Stock at an exercise price of $11.50
@@ -3633,6 +3640,7 @@ ABCM,ABCM|Abcam plc - American Depositary Shares
 ABEO,ABEO|Abeona Therapeutics Inc. - Common Stock
 ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
+ABST,ABST|Absolute Software Corporation - Common Stock
 ABTX,ABTX|Allegiance Bancshares, Inc. - Common Stock
 ABUS,ABUS|Arbutus Biopharma Corporation - Common Stock
 ACACU,ACACU|Acies Acquisition Corp. - Unit
@@ -3879,9 +3887,6 @@ ARTW,ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock
 ARVN,ARVN|Arvinas, Inc. - Common Stock
 ARWR,ARWR|Arrowhead Pharmaceuticals, Inc. - Common Stock
 ARYA,ARYA|ARYA Sciences Acquisition Corp III - Class A Ordinary Shares
-ARYB,ARYB|ARYA Sciences Acquisition Corp II - Class A Ordinary Shares
-ARYBU,ARYBU|ARYA Sciences Acquisition Corp II - Unit
-ARYBW,ARYBW|ARYA Sciences Acquisition Corp II - Warrant
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
 ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
@@ -3990,6 +3995,7 @@ BCTG,BCTG|BCTG Acquisition Corp. - Common Stock
 BCYC,BCYC|Bicycle Therapeutics plc - American Depositary Shares
 BDGE,BDGE|Bridge Bancorp, Inc. - Common Stock
 BDSI,BDSI|BioDelivery Sciences International, Inc. - Common Stock
+BDSX,BDSX|Biodesix, Inc. - Common Stock
 BDTX,BDTX|Black Diamond Therapeutics, Inc. - Common Stock
 BEAM,BEAM|Beam Therapeutics Inc. - Common Stock
 BEAT,BEAT|BioTelemetry, Inc. - Common Stock
@@ -4203,6 +4209,8 @@ CENT,CENT|Central Garden & Pet Company - Common Stock
 CENTA,CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting
 CENX,CENX|Century Aluminum Company - Common Stock
 CERC,CERC|Cerecor Inc. - Common Stock
+CERE,CERE|Cerevel Therapeutics Holdings, Inc. - Common Stock
+CEREW,CEREW|Cerevel Therapeutics Holdings, Inc. - Warrant
 CERN,CERN|Cerner Corporation - Common Stock
 CERS,CERS|Cerus Corporation - Common Stock
 CETX,CETX|Cemtrex Inc. - Common Stock
@@ -6246,6 +6254,7 @@ ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
 ROIC,ROIC|Retail Opportunity Investments Corp. - Common Stock
 ROKU,ROKU|Roku, Inc. - Class A Common Stock
 ROLL,ROLL|RBC Bearings Incorporated - Common Stock
+ROOT,ROOT|Root, Inc. - common stock
 ROST,ROST|Ross Stores, Inc. - Common Stock
 RP,RP|RealPage, Inc. - Common Stock
 RPAY,RPAY|Repay Holdings Corporation - Class A Common Stock
