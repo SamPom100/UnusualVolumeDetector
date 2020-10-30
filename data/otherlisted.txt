@@ -59,7 +59,6 @@ ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
 ADNT|Adient plc Ordinary Shares |N|ADNT|N|100|N|ADNT
 ADS|Alliance Data Systems Corporation Common Stock|N|ADS|N|100|N|ADS
-ADSW|Advanced Disposal Services, Inc. Common Stock|N|ADSW|N|100|N|ADSW
 ADT|ADT Inc. Common Stock|N|ADT|N|100|N|ADT
 ADX|Adams Diversified Equity Fund Inc.|N|ADX|N|100|N|ADX
 AE|Adams Resources & Energy, Inc. Common Stock|A|AE|N|100|N|AE
@@ -1011,7 +1010,9 @@ CRD.A|Crawford & Company Common Stock|N|CRD.A|N|100|N|CRD.A
 CRD.B|Crawford & Company Common Stock|N|CRD.B|N|100|N|CRD.B
 CRF|Cornerstone Total Return Fund, Inc. (The) Common Stock|A|CRF|N|100|N|CRF
 CRH|CRH PLC American Depositary Shares|N|CRH|N|100|N|CRH
+CRHC|Cohn Robbins Holdings Corp. Class A Ordinary Shares|N|CRHC|N|100|N|CRHC
 CRHC.U|Cohn Robbins Holdings Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CRHC.U|N|100|N|CRHC=
+CRHC.W|Cohn Robbins Holdings Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CRHC.WS|N|100|N|CRHC+
 CRHM|CRH Medical Corporation Common Shares of Beneficial Interest|A|CRHM|N|100|N|CRHM
 CRI|Carter's, Inc. Common Stock|N|CRI|N|100|N|CRI
 CRK|Comstock Resources, Inc. Common Stock|N|CRK|N|100|N|CRK
@@ -1931,6 +1932,8 @@ FSM|Fortuna Silver Mines Inc Ordinary Shares (Canada)|N|FSM|N|100|N|FSM
 FSMB|First Trust Short Duration Managed Municipal ETF|P|FSMB|Y|100|N|FSMB
 FSMD|Fidelity Small-Mid Factor ETF|P|FSMD|Y|100|N|FSMD
 FSP|Franklin Street Properties Corp. Common Stock|A|FSP|N|100|N|FSP
+FSR|Fisker Inc. Class A Common Stock|N|FSR|N|100|N|FSR
+FSR.W|Fisker Inc. Warrants, |N|FSR.WS|N|100|N|FSR+
 FSS|Federal Signal Corporation Common Stock|N|FSS|N|100|N|FSS
 FST|FAST Acquisition Corp. Class A Common Stock|N|FST|N|100|N|FST
 FST.U|FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|FST.U|N|100|N|FST=
@@ -2392,7 +2395,6 @@ HTH|Hilltop Holdings Inc.|N|HTH|N|100|N|HTH
 HTRB|Hartford Total Return Bond ETF|P|HTRB|Y|100|N|HTRB
 HTUS|Hull Tactical US ETF|P|HTUS|Y|100|N|HTUS
 HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest|N|HTY|N|100|N|HTY
-HTZ|Hertz Global Holdings, Inc Common Stock |N|HTZ|N|100|N|HTZ
 HUBB|Hubbell Inc Common Stock|N|HUBB|N|100|N|HUBB
 HUBS|HubSpot, Inc. Common Stock|N|HUBS|N|100|N|HUBS
 HUD|Hudson Ltd. Class A Common Shares|N|HUD|N|100|N|HUD
@@ -2582,7 +2584,7 @@ IMTM|iShares MSCI Intl Momentum Factor ETF|P|IMTM|Y|100|N|IMTM
 INCO|Columbia India Consumer ETF|P|INCO|Y|100|N|INCO
 INDA|Ishares MSCI India ETF|Z|INDA|Y|100|N|INDA
 INDF|Nifty India Financials ETF|P|INDF|Y|100|N|INDF
-INDL|Direxion Daily MSCI India Bull 3x Shares|P|INDL|Y|100|N|INDL
+INDL|Direxion Daily MSCI India Bull 2X Shares|P|INDL|Y|100|N|INDL
 INDO|Indonesia Energy Corporation Limited Ordinary Shares|A|INDO|N|100|N|INDO
 INDS|Pacer Benchmark Industrial Real Estate SCTR ETF|P|INDS|Y|100|N|INDS
 INFO|IHS Markit Ltd. Common Shares|N|INFO|N|100|N|INFO
@@ -2841,7 +2843,7 @@ JRI|Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interes
 JRO|Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest|N|JRO|N|100|N|JRO
 JRS|Nuveen Real Estate Income Fund Common Shares of Beneficial Interest|N|JRS|N|100|N|JRS
 JSD|Nuveen Short Duration Credit Opportunities Fund Common Shares of Beneficial Interest|N|JSD|N|100|N|JSD
-JT|Jianpu Technology Inc. American depositary shares, each two representing five Class A ordinary shares|N|JT|N|100|N|JT
+JT|Jianpu Technology Inc. American depositary shares|N|JT|N|100|N|JT
 JTA|Nuveen Tax-Advantaged Total Return Strategy Fund Common Share of Beneficial Interest|N|JTA|N|100|N|JTA
 JTD|Nuveen Tax-Advantaged Dividend Growth Fund Common Shares of Beneficial Interest|N|JTD|N|100|N|JTD
 JULZ|TrueShares Structured Outcome (July) ETF|Z|JULZ|Y|100|N|JULZ
@@ -2969,7 +2971,7 @@ LADR|Ladder Capital Corp Class A Common Stock|N|LADR|N|100|N|LADR
 LAIX|LAIX Inc. American Depositary Shares, each  representing one Class A Ordinary Share|N|LAIX|N|100|N|LAIX
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
-LBJ|Direxion Daily Latin America 3x Bull Shares|P|LBJ|Y|100|N|LBJ
+LBJ|Direxion Daily Latin America Bull 2X Shares|P|LBJ|Y|100|N|LBJ
 LBRT|Liberty Oilfield Services Inc. Class A Common Stock|N|LBRT|N|100|N|LBRT
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
 LCG|Sterling Capital Focus Equity ETF|P|LCG|Y|100|N|LCG
@@ -3061,6 +3063,7 @@ LTC|LTC Properties, Inc. Common Stock|N|LTC|N|100|N|LTC
 LTHM|Livent Corporation Common Stock|N|LTHM|N|100|N|LTHM
 LTL|ProShares Ultra Telecommunications ProShares|P|LTL|Y|100|N|LTL
 LTPZ|Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund|P|LTPZ|Y|100|N|LTPZ
+LU|Lufax Holding Ltd American Depositary Shares, two of which representing one Ordinary Share|N|LU|N|100|N|LU
 LUB|Luby's, Inc. Common Stock|N|LUB|N|100|N|LUB
 LUMN|CenturyLink, Inc. d/b/a Lumen Technologies, Inc. Common Stock|N|LUMN|N|100|N|LUMN
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
@@ -3364,6 +3367,7 @@ NAV|Navistar International Corporation Common Stock|N|NAV|N|100|N|NAV
 NAV$D|Navistar International Corporation Preferred Stock|N|NAVpD|N|100|N|NAV-D
 NAVB|Navidea Biopharmaceuticals, Inc. Common Stock|A|NAVB|N|100|N|NAVB
 NAZ|Nuveen Arizona Quality Municipal Income Fund Common Stock|N|NAZ|N|100|N|NAZ
+NBA.U|New Beginnings Acquisition Corp. Units, each consisting of one share of common stock, and one redeemable warrant|A|NBA.U|N|100|N|NBA=
 NBB|Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest|N|NBB|N|100|N|NBB
 NBH|Neuberger Berman Municipal Fund Inc. Common Stock|A|NBH|N|100|N|NBH
 NBHC|National Bank Holdings Corporation Common Stock|N|NBHC|N|100|N|NBHC
@@ -4514,9 +4518,6 @@ SOXS|Direxion Daily Semiconductor Bear 3x Shares|P|SOXS|Y|100|N|SOXS
 SOYB|Teucrium Soybean Fund ETV|P|SOYB|Y|100|N|SOYB
 SPAB|SPDR Portfolio Aggregate Bond ETF|P|SPAB|Y|100|N|SPAB
 SPAK|Defiance Next Gen SPAC Derived ETF|P|SPAK|Y|100|N|SPAK
-SPAQ|Spartan Energy Acquisition Corp Class A Common Stock|N|SPAQ|N|100|N|SPAQ
-SPAQ.U|Spartan Energy Acquisition Corp Units (each consisting of one Class A Common Stock and one-third of one Warrant)|N|SPAQ.U|N|100|N|SPAQ=
-SPAQ.W|Spartan Energy Acquisition Corp Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share|N|SPAQ.WS|N|100|N|SPAQ+
 SPB|Spectrum Brands Holdings, Inc. Common Stock|N|SPB|N|100|N|SPB
 SPBO|SPDR Portfolio Corporate Bond ETF|P|SPBO|Y|100|N|SPBO
 SPCE|Virgin Galactic Holdings, Inc. Common Stock|N|SPCE|N|100|N|SPCE
@@ -4586,6 +4587,7 @@ SQ|Square, Inc. Class A Common Stock|N|SQ|N|100|N|SQ
 SQEW|LeaderShares Equity Skew ETF|P|SQEW|Y|100|N|SQEW
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
 SQNS|Sequans Communications S.A. American Depositary Shares|N|SQNS|N|100|N|SQNS
+SQZ|SQZ Biotechnologies Company Common Stock|N|SQZ|N|100|N|SQZ
 SR|Spire Inc. Common Stock|N|SR|N|100|N|SR
 SR$A|Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock|N|SRpA|N|100|N|SR-A
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
@@ -4841,7 +4843,6 @@ TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
 TNET|TriNet Group, Inc. Common Stock|N|TNET|N|100|N|TNET
 TNK|Teekay Tankers Ltd.|N|TNK|N|100|N|TNK
 TNP|Tsakos Energy Navigation Ltd Common Shares|N|TNP|N|100|N|TNP
-TNP$C|Tsakos Energy Navigation Ltd 8.875% Series C Preferred Cumulative Redeemable Perpetual Preferred Shares|N|TNPpC|N|100|N|TNP-C
 TNP$D|Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares|N|TNPpD|N|100|N|TNP-D
 TNP$E|Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00|N|TNPpE|N|100|N|TNP-E
 TNP$F|Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00|N|TNPpF|N|100|N|TNP-F
@@ -4959,7 +4960,7 @@ UAVS|AgEagle Aerial Systems, Inc. Common Stock|A|UAVS|N|100|N|UAVS
 UBA|Urstadt Biddle Properties Inc. Common Stock|N|UBA|N|100|N|UBA
 UBER|Uber Technologies, Inc. Common Stock|N|UBER|N|100|N|UBER
 UBG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Gold ETN|P|UBG|N|100|N|UBG
-UBOT|Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares|P|UBOT|Y|100|N|UBOT
+UBOT|Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares|P|UBOT|Y|100|N|UBOT
 UBP|Urstadt Biddle Properties Inc. Common Stock|N|UBP|N|100|N|UBP
 UBP$H|Urstadt Biddle Properties Inc. 6.250% Series H Cumulative Redeemable Preferred Stock|N|UBPpH|N|100|N|UBP-H
 UBP$K|Urstadt Biddle Properties Inc. 5.875% Series K Cumulative Redeemable Preferred Stock|N|UBPpK|N|100|N|UBP-K
@@ -5046,6 +5047,7 @@ USB$H|U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B|N|USBpH|N|100|N|U
 USB$M|U.S. Bancorp Depositary Shares Representing 1/1000th Interest in a Shares Series F|N|USBpM|N|100|N|USB-M
 USB$O|US Bancorp Del Dep Shs Repstg 1/1000th Perp Pfd Ser H|N|USBpO|N|100|N|USB-O
 USB$P|U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock|N|USBpP|N|100|N|USB-P
+USB$Q|U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series L Non-Cumulative Perpetual Preferred Stock|N|USBpQ|N|100|N|USB-Q
 USCI|United States Commodity Index Fund ETV|P|USCI|Y|100|N|USCI
 USD|ProShares Ultra Semiconductors|P|USD|Y|100|N|USD
 USDP|USD Partners LP Common Units representing limited partner interest|N|USDP|N|100|N|USDP
@@ -5279,6 +5281,7 @@ WES|Western Midstream Partners, LP Common Units Representing Limited Partner Int
 WEX|WEX Inc. common stock|N|WEX|N|100|N|WEX
 WF|Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)|N|WF|N|100|N|WF
 WFC|Wells Fargo & Company Common Stock|N|WFC|N|100|N|WFC
+WFC$A|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA|N|WFCpA|N|100|N|WFC-A
 WFC$L|Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L|N|WFCpL|N|100|N|WFC-L
 WFC$N|Wells Fargo & Company Dep Shs Repstg 1/1000th Perp Pfd Cl A Ser N|N|WFCpN|N|100|N|WFC-N
 WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Preferred Class A Series O|N|WFCpO|N|100|N|WFC-O
@@ -5481,4 +5484,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1029202015:41||||||
+File Creation Time: 1030202012:12||||||
