@@ -46,7 +46,6 @@ ACOR|Acorda Therapeutics, Inc. - Common Stock|Q|N|D|100|N|N
 ACRS|Aclaris Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ACST|Acasti Pharma, Inc. - Class A Common Stock|S|N|D|100|N|N
-ACT|AdvisorShares Vice ETF|G|N|N|100|Y|N
 ACTCU|ArcLight Clean Transition Corp. - Unit|S|N|N|100|N|N
 ACTG|Acacia Research Corporation - Common Stock|Q|N|N|100|N|N
 ACWI|iShares MSCI ACWI Index Fund|G|N|N|100|Y|N
@@ -1219,7 +1218,6 @@ FBZ|First Trust Brazil AlphaDEX Fund|G|N|N|100|Y|N
 FCA|First Trust China AlphaDEX Fund|G|N|N|100|Y|N
 FCACU|Falcon Capital Acquisition Corp. - Unit|S|N|N|100|N|N
 FCAL|First Trust California Municipal High income ETF|G|N|N|100|Y|N
-FCAN|First Trust Canada AlphaDEX Fund|G|N|N|100|Y|N
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100|N|N
 FCBC|First Community Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FCBP|First Choice Bancorp - Common Stock|S|N|N|100|N|N
@@ -1263,7 +1261,6 @@ FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
-FHK|First Trust Hong Kong AlphaDEX Fund|G|N|N|100|Y|N
 FHTX|Foghorn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
@@ -1283,7 +1280,6 @@ FIXD|First Trust TCW Opportunistic Fixed Income ETF|G|N|N|100|Y|N
 FIXX|Homology Medicines, Inc. - Common Stock|Q|N|N|100|N|N
 FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100|N|N
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100|Y|N
-FKO|First Trust South Korea AlphaDEX Fund|G|N|N|100|Y|N
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100|Y|N
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100|N|N
 FLEX|Flex Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -1445,6 +1441,7 @@ GFED|Guaranty Federal Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 GFN|General Finance Corporation - Common Stock|G|N|N|100|N|N
 GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C|G|N|N|100|N|N
 GFNSL|General Finance Corporation - Senior Notes due 2021|G|N|N|100|N|N
+GFNSZ|General Finance Corporation - 7.875% Senior Notes due 2025|G|N|N|100|N|N
 GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying|S|N|N|100|N|N
 GH|Guardant Health, Inc. - Common Stock|Q|N|N|100|N|N
 GHIV|Gores Holdings IV, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -1596,9 +1593,6 @@ HCCHR|HL Acquisitions Corp. - Right|S|N|N|100|N|N
 HCCHU|HL Acquisitions Corp. - Unit|S|N|N|100|N|N
 HCCHW|HL Acquisitions Corp. - Warrant|S|N|N|100|N|N
 HCCI|Heritage-Crystal Clean, Inc. - Common Stock|Q|N|N|100|N|N
-HCCO|Healthcare Merger Corp. - Class A Common Stock|S|N|N|100|N|N
-HCCOU|Healthcare Merger Corp. - Units|S|N|N|100|N|N
-HCCOW|Healthcare Merger Corp. - Warrants|S|N|N|100|N|N
 HCDI|Harbor Custom Development, Inc. - Common Stock|S|N|N|100|N|N
 HCKT|The Hackett Group, Inc. - Common Stock|Q|N|N|100|N|N
 HCM|Hutchison China MediTech Limited - American Depositary Shares|Q|N|N|100|N|N
@@ -1671,6 +1665,7 @@ HSIC|Henry Schein, Inc. - Common Stock|Q|N|N|100|N|N
 HSII|Heidrick & Struggles International, Inc. - Common Stock|Q|N|N|100|N|N
 HSKA|Heska Corporation - Common Stock|S|N|N|100|N|N
 HSON|Hudson Global, Inc. - Common Stock|Q|N|N|100|N|N
+HST|Host Hotels  - Common Stock|Q|N|N|100|N|N
 HSTM|HealthStream, Inc. - Common Stock|Q|N|N|100|N|N
 HSTO|Histogen Inc. - Common Stock|S|N|N|100|N|N
 HTBI|HomeTrust Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2123,7 +2118,6 @@ LUMO|Lumos Pharma, Inc. - Common Stock|G|N|N|100|N|N
 LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100|N|N
 LUNG|Pulmonx Corporation - Common Stock|Q|N|N|100|N|N
 LUXAU|Lux Health Tech Acquisition Corp. - Units|S|N|N|100|N|N
-LVGO|Livongo Health, Inc. - common stock|Q|N|N|100|N|N
 LVHD|Legg Mason Low Volatility High Dividend ETF|G|N|N|100|Y|N
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100|N|N
 LX|LexinFintech Holdings Ltd. - American Depositary Shares|G|N|N|100|N|N
@@ -3146,6 +3140,7 @@ SMMT|Summit Therapeutics Inc.  - Common Stock|G|N|N|100|N|N
 SMPL|The Simply Good Foods Company - Common Stock|S|N|N|100|N|N
 SMSI|Smith Micro Software, Inc. - Common Stock|S|N|N|100|N|N
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100|N|N
+SMTI|Sanara MedTech Inc. - Common Stock|S|N|N|100|N|N
 SMTX|SMTC Corporation - Common Stock|G|N|N|100|N|N
 SNBP|Sun BioPharma, Inc. - Common Stock|S|N|N|100|N|N
 SNBR|Sleep Number Corporation - Common Stock|Q|N|N|100|N|N
@@ -3270,7 +3265,9 @@ SUSB|iShares ESG Aware 1-5 Year USD Corporate Bond ETF|G|N|N|100|Y|N
 SUSC|iShares ESG Aware USD Corporate Bond ETF|G|N|N|100|Y|N
 SUSL|iShares ESG MSCI USA Leaders ETF|G|N|N|100|Y|N
 SVA|Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)|Q|N|N|100|N|N
+SVAC|Starboard Value Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 SVACU|Starboard Value Acquisition Corp. - Unit|S|N|N|100|N|N
+SVACW|Starboard Value Acquisition Corp. - Warrant|S|N|N|100|N|N
 SVBI|Severn Bancorp Inc - Common Stock|S|N|N|100|N|N
 SVC|Service Properties Trust - Shares of Beneficial Interest|Q|N|N|100|N|N
 SVMK|SVMK Inc. - Common Stock|Q|N|N|100|N|N
@@ -3378,6 +3375,8 @@ TIPT|Tiptree Inc. - Common Stock|S|N|N|100|N|N
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100|N|N
 TLC|Taiwan Liposome Company, Ltd. - American Depositary Shares|G|N|N|100|N|N
 TLGT|Teligent, Inc. - Common Stock|Q|N|D|100|N|N
+TLMD|SOC Telemed, Inc. - Class A Common Stock|S|N|N|100|N|N
+TLMDW|SOC Telemed, Inc. - Warrants|S|N|N|100|N|N
 TLND|Talend S.A. - American Depositary Shares|G|N|N|100|N|N
 TLRY|Tilray, Inc. - Class 2 Common Stock|Q|N|N|100|N|N
 TLSA|Tiziana Life Sciences plc - American Depository Share|G|N|N|100|N|N
@@ -3385,7 +3384,9 @@ TLT|iShares 20+ Year Treasury Bond ETF|G|N|N|100|Y|N
 TMDI|Titan Medical Inc. - Ordinary Shares|S|N|D|100|N|N
 TMDX|TransMedics Group, Inc. - Common Stock|G|N|N|100|N|N
 TMPMU|Turmeric Acquisition Corp. - Unit|S|N|N|100|N|N
+TMTS|Spartacus Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 TMTSU|Spartacus Acquisition Corporation - Unit|S|N|N|100|N|N
+TMTSW|Spartacus Acquisition Corporation - Warrant|S|N|N|100|N|N
 TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100|N|N
 TNAV|Telenav, Inc. - Common Stock|Q|N|N|100|N|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
@@ -3447,7 +3448,9 @@ TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100|Y|N
 TUSK|Mammoth Energy Services, Inc. - Common Stock|Q|N|N|100|N|N
 TVTY|Tivity Health, Inc. - Common Stock|Q|N|N|100|N|N
 TW|Tradeweb Markets Inc. - Class A Common Stock|Q|N|N|100|N|N
+TWCT|TWC Tech Holdings II Corp. - Class A Common Stock|S|N|N|100|N|N
 TWCTU|TWC Tech Holdings II Corp. - Unit|S|N|N|100|N|N
+TWCTW|TWC Tech Holdings II Corp. - Warrant|S|N|N|100|N|N
 TWIN|Twin Disc, Incorporated - Common Stock|Q|N|N|100|N|N
 TWNK|Hostess Brands, Inc. - Class A Common Stock|S|N|N|100|N|N
 TWNKW|Hostess Brands, Inc. - Warrants|S|N|N|100|N|N
@@ -3780,4 +3783,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1030202015:41|||||||
+File Creation Time: 1102202012:12|||||||

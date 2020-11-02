@@ -525,7 +525,9 @@ BSIG,BSIG|BrightSphere Investment Group Inc. Common Stock
 BSL,BSL|Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest
 BSM,BSM|Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMX,BSMX|Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico
+BSN,BSN|Broadstone Acquisition Corp. Class A Ordinary Shares
 BSN.U,BSN.U|Broadstone Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+BSN.W,BSN.W|Broadstone Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 BST,BST|BlackRock Science and Technology Trust Common Shares of Beneficial Interest
 BSTZ,BSTZ|BlackRock Science and Technology Trust II Common Shares of Beneficial Interest
 BSX,BSX|Boston Scientific Corporation Common Stock
@@ -899,14 +901,12 @@ DAL,DAL|Delta Air Lines, Inc. Common Stock
 DAN,DAN|Dana Incorporated Common Stock 
 DAO,DAO|Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share
 DAR,DAR|Darling Ingredients Inc. Common Stock
-DAUD,DAUD|ETNs linked to the VelocityShares Daily 4X Long USD vs. AUD Index
 DAVA,DAVA|Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
 DB,DB|Deutsche Bank AG Common Stock
 DBD,DBD|Diebold Nixdorf Incorporated Common Stock
 DBI,DBI|Designer Brands Inc. Class A Common Stock
 DBL,DBL|DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
 DCF,DCF|BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc. Common Stock
-DCHF,DCHF|ETNs linked to the VelocityShares Daily 4X Long USD vs. CHF Index
 DCI,DCI|Donaldson Company, Inc. Common Stock
 DCO,DCO|Ducommun Incorporated Common Stock
 DCP,DCP|DCP Midstream,  LP Common Units 
@@ -929,7 +929,6 @@ DELL,DELL|Dell Technologies Inc. Class C Common Stock
 DEN,DEN|Denbury Inc. Common Stock
 DEO,DEO|Diageo plc Common Stock
 DESP,DESP|Despegar.com, Corp. Ordinary Shares
-DEUR,DEUR|ETNs linked to the VelocityShares Daily 4X Long USD vs. EUR Index
 DEX,DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest
 DFIN,DFIN|Donnelley Financial Solutions, Inc. Common Stock 
 DFNS,DFNS|LGL Systems Acquisition Corp. Common Stock
@@ -940,7 +939,6 @@ DFS,DFS|Discover Financial Services Common Stock
 DFVL,DFVL|iPath US Treasury 5 Year Bull ETN
 DFVS,DFVS|iPath US Treasury 5 Year Bear ETN
 DG,DG|Dollar General Corporation Common Stock
-DGBP,DGBP|ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index
 DGNR,DGNR|Dragoneer Growth Opportunities Corp. Class A Ordinary Shares
 DGNR.U,DGNR.U|Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
 DGNR.W,DGNR.W|Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -959,10 +957,8 @@ DIAX,DIAX|Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Int
 DIN,DIN|Dine Brands Global, Inc. Common Stock
 DIS,DIS|Walt Disney Company (The) Common Stock
 DIT,DIT|AMCON Distributing Company Common Stock
-DIVC,DIVC|Citigroup Inc. C-Tracks ETN Miller/Howard Strategic Dividend Reinvestors Due 9/16/2014
 DJCI,DJCI|E-TRACS Linked to the Bloomberg Commodity Index Total Return due October 31, 2039
 DJP,DJP|iPath Bloomberg Commodity Index Total Return ETN
-DJPY,DJPY|ETNs linked to the VelocityShares Daily 4X Long USD vs. JPY Index
 DK,DK|Delek US Holdings, Inc. Common Stock
 DKL,DKL|Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests
 DKS,DKS|Dick's Sporting Goods Inc Common Stock
@@ -1224,7 +1220,6 @@ EXP,EXP|Eagle Materials Inc Common Stock
 EXPR,EXPR|Express, Inc. Common Stock
 EXR,EXR|Extra Space Storage Inc Common Stock
 EXTN,EXTN|Exterran Corporation Common Stock
-EZT,EZT|Entergy Texas Inc First Mortgage Bonds 5.625% Series due June 1, 2064
 F,F|Ford Motor Company Common Stock
 F$B,F$B|Ford Motor Company 6.20% Notes due June 1, 2059
 F$C,F$C|Ford Motor Company 6% Notes due December 1, 2059
@@ -1658,7 +1653,6 @@ HRTG,HRTG|Heritage Insurance Holdings, Inc. Common Stock
 HSBC,HSBC|HSBC Holdings, plc. Common Stock
 HSBC$A,HSBC$A|HSBC Holdings, plc. ADR SER A REP 1/40 PFD SER A
 HSC,HSC|Harsco Corporation Common Stock
-HST,HST|Host Hotels & Resorts, Inc. Common Stock
 HSY,HSY|The Hershey Company Common Stock
 HT,HT|Hersha Hospitality Trust Class A Common Shares of Beneficial Interest
 HT$C,HT$C|Hersha Hospitality Trust 6.875% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
@@ -1812,8 +1806,6 @@ JBGS,JBGS|JBG SMITH Properties Common Shares
 JBK,JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
 JBL,JBL|Jabil Inc. Common Stock
 JBT,JBT|John Bean Technologies Corporation Common Stock
-JCAP,JCAP|Jernigan Capital, Inc. Common Stock
-JCAP$B,JCAP$B|Jernigan Capital, Inc. 7.00% Series B Cumulative Redeemable Perpetual Preferred Stock
 JCE,JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCI,JCI|Johnson Controls International plc Ordinary Share
 JCO,JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest
@@ -1969,7 +1961,9 @@ LDOS,LDOS|Leidos Holdings, Inc. Common Stock
 LDP,LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
 LEA,LEA|Lear Corporation Common Stock
 LEAF,LEAF|Leaf Group Ltd. Common Stock
+LEAP,LEAP|Ribbit LEAP, Ltd. Class A Ordinary Shares
 LEAP.U,LEAP.U|Ribbit LEAP, Ltd. Units, each consisting of one Class A Ordinary Share, and one fifth of one Warrant to acquire one Class A Ordinary Share
+LEAP.W,LEAP.W|Ribbit LEAP, Ltd. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
 LEE,LEE|Lee Enterprises, Incorporated Common Stock
 LEG,LEG|Leggett & Platt, Incorporated Common Stock
 LEJU,LEJU|Leju Holdings Limited American Depositary Shares, each representing one Ordinary share
@@ -2138,8 +2132,6 @@ MLI,MLI|Mueller Industries, Inc. Common Stock
 MLM,MLM|Martin Marietta Materials, Inc. Common Stock
 MLP,MLP|Maui Land & Pineapple Company, Inc. Common Stock
 MLPB,MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040
-MLPC,MLPC|C-Tracks ETNs based on Performance of the Miller/Howard MLP Fundamental Index
-MLPE,MLPE|C-Tracks ETN on Miller/Howard Fundamental MLP Index, Series B, Due July 13, 2026
 MLPG,MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Natural Gas MLP Index due July 9, 2040
 MLPI,MLPI|UBS AG ETN
 MLPO,MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index
@@ -2409,7 +2401,9 @@ NSA$A,NSA$A|National Storage Affiliates Trust 6.000% Series A Cumulative Redeema
 NSC,NSC|Norfolk Southern Corporation Common Stock
 NSCO,NSCO|Nesco Holdings, Inc. Common Stock
 NSCO.W,NSCO.W|Nesco Holdings, Inc Redeemable Warrants, exercisable for Class A Ordinary Shares at an exercise price of $11.50 per share
+NSH,NSH|NavSight Holdings, Inc. Class A Common Stock
 NSH.U,NSH.U|NavSight Holdings, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+NSH.W,NSH.W|NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per whole share
 NSL,NSL|Nuveen Senior Income Fund Common Stock
 NSP,NSP|Insperity, Inc. Common Stock
 NSPR,NSPR|InspireMD Inc. Common Stock
@@ -2622,7 +2616,9 @@ PHM,PHM|PulteGroup, Inc. Common Stock
 PHR,PHR|Phreesia, Inc. Common Stock
 PHT,PHT|Pioneer High Income Trust Common Shares of Beneficial Interest
 PHX,PHX|PHX Minerals Inc. Common Stock
+PIAI,PIAI|Prime Impact Acquisition I Class A Ordinary Shares
 PIAI.U,PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share
+PIAI.W,PIAI.W|Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PIC,PIC|Pivotal Investment Corporation II Class A Common Stock
 PIC.U,PIC.U|Pivotal Investment Corporation II Units
 PIC.W,PIC.W|Pivotal Investment Corporation II Redeemable Warrants
@@ -3026,7 +3022,9 @@ SNMP,SNMP|Sanchez Midstream Partners LP Common Stock
 SNN,SNN|Smith & Nephew SNATS, Inc. Common Stock
 SNOW,SNOW|Snowflake Inc. Class A Common Stock
 SNP,SNP|China Petroleum & Chemical Corporation Common Stock
+SNPR,SNPR|Tortoise Acquisition Corp. II Class A Ordinary Shares
 SNPR.U,SNPR.U|Tortoise Acquisition Corp. II Units
+SNPR.W,SNPR.W|Tortoise Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 SNR,SNR|New Senior Investment Group Inc. Common Stock
 SNV,SNV|Synovus Financial Corp. Common Stock
 SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share
@@ -3327,7 +3325,6 @@ UAA,UAA|Under Armour, Inc. Class A Common Stock
 UAG,UAG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Agriculture ETN
 UAMY,UAMY|United States Antimony Corporation Common Stock
 UAN,UAN|CVR Partners, LP Common Units representing Limited Partner Interests
-UAUD,UAUD|ETNs linked to the VelocityShares Daily 4X Long AUD vs. USD Index
 UAVS,UAVS|AgEagle Aerial Systems, Inc. Common Stock
 UBA,UBA|Urstadt Biddle Properties Inc. Common Stock
 UBER,UBER|Uber Technologies, Inc. Common Stock
@@ -3336,24 +3333,20 @@ UBP,UBP|Urstadt Biddle Properties Inc. Common Stock
 UBP$H,UBP$H|Urstadt Biddle Properties Inc. 6.250% Series H Cumulative Redeemable Preferred Stock
 UBP$K,UBP$K|Urstadt Biddle Properties Inc. 5.875% Series K Cumulative Redeemable Preferred Stock
 UBS,UBS|UBS Group AG Registered Ordinary Shares
-UCHF,UCHF|ETNs linked to the VelocityShares Daily 4X Long CHF vs. USD Index
 UCI,UCI|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI ETN
 UCIB,UCIB|ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038
 UDR,UDR|UDR, Inc. Common Stock
 UE,UE|Urban Edge Properties Common Shares of Beneficial Interest
 UEC,UEC|Uranium Energy Corp. Common Stock
-UEUR,UEUR|ETNs linked to the VelocityShares Daily 4X Long EUR vs. USD Index
 UFAB,UFAB|Unique Fabricating, Inc. Common Stock
 UFI,UFI|Unifi, Inc. New Common Stock
 UFS,UFS|Domtar Corporation (NEW) Common Stock
-UGBP,UGBP|ETNs linked to the VelocityShares Daily 4X Long GBP vs. USD Index
 UGI,UGI|UGI Corporation Common Stock
 UGP,UGP|Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)
 UHS,UHS|Universal Health Services, Inc. Common Stock
 UHT,UHT|Universal Health Realty Income Trust Common Stock
 UI,UI|Ubiquiti Inc. Common Stock
 UIS,UIS|Unisys Corporation New Common Stock
-UJPY,UJPY|ETNs linked to the VelocityShares Daily 4X Long JPY vs. USD Index
 UL,UL|Unilever PLC Common Stock
 UMC,UMC|United Microelectronics Corporation (NEW) Common Stock
 UMH,UMH|UMH Properties, Inc. Common Stock
@@ -4876,6 +4869,7 @@ GFED,GFED|Guaranty Federal Bancshares, Inc. - Common Stock
 GFN,GFN|General Finance Corporation - Common Stock
 GFNCP,GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Preferred Series C
 GFNSL,GFNSL|General Finance Corporation - Senior Notes due 2021
+GFNSZ,GFNSZ|General Finance Corporation - 7.875% Senior Notes due 2025
 GGAL,GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
 GH,GH|Guardant Health, Inc. - Common Stock
 GHIV,GHIV|Gores Holdings IV, Inc. - Class A Common Stock
@@ -5022,9 +5016,6 @@ HCCHR,HCCHR|HL Acquisitions Corp. - Right
 HCCHU,HCCHU|HL Acquisitions Corp. - Unit
 HCCHW,HCCHW|HL Acquisitions Corp. - Warrant
 HCCI,HCCI|Heritage-Crystal Clean, Inc. - Common Stock
-HCCO,HCCO|Healthcare Merger Corp. - Class A Common Stock
-HCCOU,HCCOU|Healthcare Merger Corp. - Units
-HCCOW,HCCOW|Healthcare Merger Corp. - Warrants
 HCDI,HCDI|Harbor Custom Development, Inc. - Common Stock
 HCKT,HCKT|The Hackett Group, Inc. - Common Stock
 HCM,HCM|Hutchison China MediTech Limited - American Depositary Shares
@@ -5092,6 +5083,7 @@ HSIC,HSIC|Henry Schein, Inc. - Common Stock
 HSII,HSII|Heidrick & Struggles International, Inc. - Common Stock
 HSKA,HSKA|Heska Corporation - Common Stock
 HSON,HSON|Hudson Global, Inc. - Common Stock
+HST,HST|Host Hotels  - Common Stock
 HSTM,HSTM|HealthStream, Inc. - Common Stock
 HSTO,HSTO|Histogen Inc. - Common Stock
 HTBI,HTBI|HomeTrust Bancshares, Inc. - Common Stock
@@ -5489,7 +5481,6 @@ LUMO,LUMO|Lumos Pharma, Inc. - Common Stock
 LUNA,LUNA|Luna Innovations Incorporated - Common Stock
 LUNG,LUNG|Pulmonx Corporation - Common Stock
 LUXAU,LUXAU|Lux Health Tech Acquisition Corp. - Units
-LVGO,LVGO|Livongo Health, Inc. - common stock
 LWAY,LWAY|Lifeway Foods, Inc. - Common Stock
 LX,LX|LexinFintech Holdings Ltd. - American Depositary Shares
 LXEH,LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares
@@ -6425,6 +6416,7 @@ SMMT,SMMT|Summit Therapeutics Inc.  - Common Stock
 SMPL,SMPL|The Simply Good Foods Company - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
+SMTI,SMTI|Sanara MedTech Inc. - Common Stock
 SMTX,SMTX|SMTC Corporation - Common Stock
 SNBP,SNBP|Sun BioPharma, Inc. - Common Stock
 SNBR,SNBR|Sleep Number Corporation - Common Stock
@@ -6537,7 +6529,9 @@ SUNW,SUNW|Sunworks, Inc. - Common Stock
 SUPN,SUPN|Supernus Pharmaceuticals, Inc. - Common Stock
 SURF,SURF|Surface Oncology, Inc. - Common Stock
 SVA,SVA|Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
+SVAC,SVAC|Starboard Value Acquisition Corp. - Class A Common Stock
 SVACU,SVACU|Starboard Value Acquisition Corp. - Unit
+SVACW,SVACW|Starboard Value Acquisition Corp. - Warrant
 SVBI,SVBI|Severn Bancorp Inc - Common Stock
 SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVMK,SVMK|SVMK Inc. - Common Stock
@@ -6644,13 +6638,17 @@ TIPT,TIPT|Tiptree Inc. - Common Stock
 TITN,TITN|Titan Machinery Inc. - Common Stock
 TLC,TLC|Taiwan Liposome Company, Ltd. - American Depositary Shares
 TLGT,TLGT|Teligent, Inc. - Common Stock
+TLMD,TLMD|SOC Telemed, Inc. - Class A Common Stock
+TLMDW,TLMDW|SOC Telemed, Inc. - Warrants
 TLND,TLND|Talend S.A. - American Depositary Shares
 TLRY,TLRY|Tilray, Inc. - Class 2 Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
 TMDI,TMDI|Titan Medical Inc. - Ordinary Shares
 TMDX,TMDX|TransMedics Group, Inc. - Common Stock
 TMPMU,TMPMU|Turmeric Acquisition Corp. - Unit
+TMTS,TMTS|Spartacus Acquisition Corporation - Class A Common Stock
 TMTSU,TMTSU|Spartacus Acquisition Corporation - Unit
+TMTSW,TMTSW|Spartacus Acquisition Corporation - Warrant
 TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNAV,TNAV|Telenav, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
@@ -6708,7 +6706,9 @@ TURN,TURN|180 Degree Capital Corp. - Common Stock
 TUSK,TUSK|Mammoth Energy Services, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
+TWCT,TWCT|TWC Tech Holdings II Corp. - Class A Common Stock
 TWCTU,TWCTU|TWC Tech Holdings II Corp. - Unit
+TWCTW,TWCTW|TWC Tech Holdings II Corp. - Warrant
 TWIN,TWIN|Twin Disc, Incorporated - Common Stock
 TWNK,TWNK|Hostess Brands, Inc. - Class A Common Stock
 TWNKW,TWNKW|Hostess Brands, Inc. - Warrants
