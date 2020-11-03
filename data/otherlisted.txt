@@ -415,6 +415,7 @@ BAC$K|Bank of America Corporation Depositary Shares, each representing a 1/1,000
 BAC$L|Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L|N|BACpL|N|10|N|BAC-L
 BAC$M|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK|N|BACpM|N|100|N|BAC-M
 BAC$N|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL|N|BACpN|N|100|N|BAC-N
+BAC$O|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN|N|BACpO|N|100|N|BAC-O
 BAF|BlackRock Municipal Income Investment Quality Trust|N|BAF|N|100|N|BAF
 BAH|Booz Allen Hamilton Holding Corporation Common Stock|N|BAH|N|100|N|BAH
 BAK|Braskem SA ADR|N|BAK|N|100|N|BAK
@@ -749,9 +750,6 @@ CBB|Cincinnati Bell Inc. Common Stock|N|CBB|N|100|N|CBB
 CBB$B|Cincinnati Bell Inc. Preferred Stock|N|CBBpB|N|100|N|CBB-B
 CBD|Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share|N|CBD|N|100|N|CBD
 CBH|AllianzGI Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest|N|CBH|N|100|N|CBH
-CBL|CBL & Associates Properties, Inc. Common Stock|N|CBL|N|100|N|CBL
-CBL$D|CBL & Associates Properties, Inc. Dep Shares Repstg 1/10th Preferred Series D|N|CBLpD|N|100|N|CBL-D
-CBL$E|CBL & Associates Properties, Inc. Depositary Shs Repstg 1/10 6.625% Ser E Cum Redeemable (Pfd Stk)|N|CBLpE|N|100|N|CBL-E
 CBO|CBO (Listing Market - NYSE - Networks A/E) Common Stock|N|CBO|N|100|Y|CBO
 CBOE|Cboe Global Markets, Inc. Common Stock|Z|CBOE|N|100|N|CBOE
 CBON|VanEck Vectors ChinaAMC China Bond ETF|P|CBON|Y|100|N|CBON
@@ -2725,6 +2723,7 @@ JBGS|JBG SMITH Properties Common Shares |N|JBGS|N|100|N|JBGS
 JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I|N|JBK|N|100|N|JBK
 JBL|Jabil Inc. Common Stock|N|JBL|N|100|N|JBL
 JBT|John Bean Technologies Corporation Common Stock|N|JBT|N|100|N|JBT
+JCAP|Jernigan Capital, Inc. Common Stock|N|JCAP|N|100|N|JCAP
 JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest|N|JCE|N|100|N|JCE
 JCI|Johnson Controls International plc Ordinary Share|N|JCI|N|100|N|JCI
 JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest|N|JCO|N|100|N|JCO
@@ -3677,7 +3676,6 @@ OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
 PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
-PACD|Pacific Drilling S.A. Common Shares|N|PACD|N|100|N|PACD
 PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|PACE.U|N|100|N|PACE=
 PACK|Ranpak Holdings Corp Class A Common Stock|N|PACK|N|100|N|PACK
 PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
@@ -5477,4 +5475,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1102202015:41||||||
+File Creation Time: 1103202012:12||||||

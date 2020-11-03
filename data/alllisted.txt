@@ -340,6 +340,7 @@ BAC$K,BAC$K|Bank of America Corporation Depositary Shares, each representing a 1
 BAC$L,BAC$L|Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L
 BAC$M,BAC$M|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK
 BAC$N,BAC$N|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL
+BAC$O,BAC$O|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN
 BAF,BAF|BlackRock Municipal Income Investment Quality Trust
 BAH,BAH|Booz Allen Hamilton Holding Corporation Common Stock
 BAK,BAK|Braskem SA ADR
@@ -599,9 +600,6 @@ CBB,CBB|Cincinnati Bell Inc. Common Stock
 CBB$B,CBB$B|Cincinnati Bell Inc. Preferred Stock
 CBD,CBD|Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share
 CBH,CBH|AllianzGI Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest
-CBL,CBL|CBL & Associates Properties, Inc. Common Stock
-CBL$D,CBL$D|CBL & Associates Properties, Inc. Dep Shares Repstg 1/10th Preferred Series D
-CBL$E,CBL$E|CBL & Associates Properties, Inc. Depositary Shs Repstg 1/10 6.625% Ser E Cum Redeemable (Pfd Stk)
 CBO,CBO|CBO (Listing Market - NYSE - Networks A/E) Common Stock
 CBOE,CBOE|Cboe Global Markets, Inc. Common Stock
 CBRE,CBRE|CBRE Group Inc Common Stock Class A
@@ -1806,6 +1804,7 @@ JBGS,JBGS|JBG SMITH Properties Common Shares
 JBK,JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
 JBL,JBL|Jabil Inc. Common Stock
 JBT,JBT|John Bean Technologies Corporation Common Stock
+JCAP,JCAP|Jernigan Capital, Inc. Common Stock
 JCE,JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCI,JCI|Johnson Controls International plc Ordinary Share
 JCO,JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest
@@ -2519,7 +2518,6 @@ OXY,OXY|Occidental Petroleum Corporation Common Stock
 OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
-PACD,PACD|Pacific Drilling S.A. Common Shares
 PACE.U,PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 PACK,PACK|Ranpak Holdings Corp Class A Common Stock
 PAG,PAG|Penske Automotive Group, Inc. Common Stock
@@ -4821,6 +4819,7 @@ FTOCU,FTOCU|FTAC Olympus Acquisition Corp. - Unit
 FTOCW,FTOCW|FTAC Olympus Acquisition Corp. - Warrant
 FULC,FULC|Fulcrum Therapeutics, Inc. - Common Stock
 FULT,FULT|Fulton Financial Corporation - Common Stock
+FULTP,FULTP|Fulton Financial Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
 FUNC,FUNC|First United Corporation - Common Stock
 FUND,FUND|Sprott Focus Trust, Inc. - Closed End Fund
 FUSB,FUSB|First US Bancshares, Inc. - Common Stock
