@@ -1803,6 +1803,8 @@ JBGS,JBGS|JBG SMITH Properties Common Shares
 JBK,JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
 JBL,JBL|Jabil Inc. Common Stock
 JBT,JBT|John Bean Technologies Corporation Common Stock
+JCAP,JCAP|Jernigan Capital, Inc. Common Stock
+JCAP$B,JCAP$B|Jernigan Capital, Inc. 7.00% Series B Cumulative Redeemable Perpetual Preferred Stock
 JCE,JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCI,JCI|Johnson Controls International plc Ordinary Share
 JCO,JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest
@@ -2906,7 +2908,9 @@ SBBA,SBBA|Scorpio Tankers Inc. 7.00% Senior Notes due 2025
 SBE,SBE|Switchback Energy Acquisition Corporation Class A Common Stock
 SBE.U,SBE.U|Switchback Energy Acquisition Corporation Units
 SBE.W,SBE.W|Switchback Energy Acquisition Corporation Warrant
+SBG,SBG|Sandbridge Acquisition Corporation Class A Common Stock
 SBG.U,SBG.U|Sandbridge Acquisition Corporation Units
+SBG.W,SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 SBH,SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI,SBI|Western Asset Intermediate Muni Fund Inc Common Stock
 SBOW,SBOW|SilverBow Resorces, Inc. Common Stock
@@ -3834,7 +3838,6 @@ APA,APA|Apache Corporation - Common Stock
 APDN,APDN|Applied DNA Sciences, Inc. - Common Stock
 APEI,APEI|American Public Education, Inc. - Common Stock
 APEN,APEN|Apollo Endosurgery, Inc. - Common Stock
-APEX,APEX|Apex Global Brands Inc. - Common Stock
 APHA,APHA|Aphria Inc. - Common Shares
 API,API|Agora, Inc. - ADS
 APLS,APLS|Apellis Pharmaceuticals, Inc. - Common Stock
