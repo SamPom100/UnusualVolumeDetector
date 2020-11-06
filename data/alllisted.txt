@@ -1121,7 +1121,9 @@ ENIC,ENIC|Enel Chile S.A. American Depositary Shares (Each representing 50 share
 ENJ,ENJ|Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052
 ENLC,ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests
 ENO,ENO|Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066
+ENPC,ENPC|Executive Network Partnering Corporation Class A Common Stock
 ENPC.U,ENPC.U|Executive Network Partnering Corporation Units, each consisting of one share of Class A common stock, and one-quarter of one redeemable warrant
+ENPC.W,ENPC.W|Executive Network Partnering Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $28.75
 ENR,ENR|Energizer Holdings, Inc. Common Stock
 ENR$A,ENR$A|Energizer Holdings, Inc. 7.50% Series A Mandatory Convertible Preferred Stock
 ENS,ENS|EnerSys Common Stock
@@ -1148,7 +1150,9 @@ EPR$G,EPR$G|EPR Properties 5.750% Series G Cumulative Redeemable Preferred Share
 EPRT,EPRT|Essential Properties Realty Trust, Inc. Common Stock
 EQC,EQC|Equity Commonwealth Common Shares of Beneficial Interest
 EQC$D,EQC$D|Equity Commonwealth 6.50% Pfd Conv Shs Ser D
+EQD,EQD|Equity Distribution Acquisition Corp. Class A Common Stock
 EQD.U,EQD.U|Equity Distribution Acquisition Corp. Units
+EQD.W,EQD.W|Equity Distribution Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 EQH,EQH|Equitable Holdings, Inc. Common Stock
 EQH$A,EQH$A|Equitable Holdings, Inc. Depositary Shares
 EQNR,EQNR|Equinor ASA
@@ -1803,8 +1807,6 @@ JBGS,JBGS|JBG SMITH Properties Common Shares
 JBK,JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
 JBL,JBL|Jabil Inc. Common Stock
 JBT,JBT|John Bean Technologies Corporation Common Stock
-JCAP,JCAP|Jernigan Capital, Inc. Common Stock
-JCAP$B,JCAP$B|Jernigan Capital, Inc. 7.00% Series B Cumulative Redeemable Perpetual Preferred Stock
 JCE,JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCI,JCI|Johnson Controls International plc Ordinary Share
 JCO,JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest
@@ -2819,7 +2821,6 @@ RICE.U,RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class 
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
-RIV.R,RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 6, 2020)
 RJA,RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
 RJF,RJF|Raymond James Financial, Inc. Common Stock
 RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product
@@ -4472,6 +4473,7 @@ DADA,DADA|Dada Nexus Limited - American Depositary Shares
 DAIO,DAIO|Data I/O Corporation - Common Stock
 DAKT,DAKT|Daktronics, Inc. - Common Stock
 DARE,DARE|Dare Bioscience, Inc. - Common Stock
+DBDRU,DBDRU|Roman DBDR Tech Acquisition Corp. - Unit
 DBVT,DBVT|DBV Technologies S.A. - American Depositary Shares
 DBX,DBX|Dropbox, Inc. - Class A Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
@@ -5838,6 +5840,7 @@ OCGN,OCGN|Ocugen, Inc. - Common Stock
 OCSI,OCSI|Oaktree Strategic Income Corporation - Common Stock
 OCSL,OCSL|Oaktree Specialty Lending Corporation - Common Stock
 OCUL,OCUL|Ocular Therapeutix, Inc. - Common Stock
+OCUP,OCUP|Ocuphire Pharma, Inc. - Common Stock
 ODFL,ODFL|Old Dominion Freight Line, Inc. - Common Stock
 ODP,ODP|The ODP Corporation - Common Stock
 ODT,ODT|Odonate Therapeutics, Inc. - Common Stock
@@ -6206,7 +6209,6 @@ REPL,REPL|Replimune Group, Inc. - Common Stock
 RESN,RESN|Resonant Inc. - Common Stock
 RETA,RETA|Reata Pharmaceuticals, Inc. - Class A Common Stock
 RETO,RETO|ReTo Eco-Solutions, Inc. - Common Shares
-REXN,REXN|Rexahn Pharmaceuticals, Inc. - Common Stock
 REYN,REYN|Reynolds Consumer Products Inc. - Common Stock
 RFIL,RFIL|RF Industries, Ltd. - Common Stock
 RGCO,RGCO|RGC Resources Inc. - Common Stock

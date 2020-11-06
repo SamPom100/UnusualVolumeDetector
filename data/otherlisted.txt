@@ -1446,7 +1446,7 @@ EIS|iShares Inc iShares MSCI Israel ETF|P|EIS|Y|100|N|EIS
 EIX|Edison International Common Stock|N|EIX|N|100|N|EIX
 EJAN|Innovator ETFs Trust Innovator MSCI Emerging Markets Power Buffer ETF - January|P|EJAN|Y|100|N|EJAN
 EJUL|Innovator MSCI Emerging Markets Power Buffer ETF - July|P|EJUL|Y|100|N|EJUL
-EKAR|Ideanomics NextGen Vehicles and Technology ETF|P|EKAR|Y|100|N|EKAR
+EKAR|Capital Link NextGen Vehicles & Technology ETF|P|EKAR|Y|100|N|EKAR
 EL|Estee Lauder Companies, Inc. (The) Common Stock|N|EL|N|100|N|EL
 ELA|Envela Corporation Common Stock|A|ELA|N|100|N|ELA
 ELAN|Elanco Animal Health Incorporated Common Stock|N|ELAN|N|100|N|ELAN
@@ -1498,7 +1498,9 @@ ENJ|Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2
 ENLC|EnLink Midstream, LLC Common Units representing Limited Partner Interests|N|ENLC|N|100|N|ENLC
 ENO|Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066|N|ENO|N|100|N|ENO
 ENOR|iShares Inc iShares MSCI Norway ETF|Z|ENOR|Y|100|N|ENOR
+ENPC|Executive Network Partnering Corporation Class A Common Stock|N|ENPC|N|100|N|ENPC
 ENPC.U|Executive Network Partnering Corporation Units, each consisting of one share of Class A common stock, and one-quarter of one redeemable warrant|N|ENPC.U|N|100|N|ENPC=
+ENPC.W|Executive Network Partnering Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $28.75|N|ENPC.WS|N|100|N|ENPC+
 ENR|Energizer Holdings, Inc. Common Stock|N|ENR|N|100|N|ENR
 ENR$A|Energizer Holdings, Inc. 7.50% Series A Mandatory Convertible Preferred Stock|N|ENRpA|N|100|N|ENR-A
 ENS|EnerSys Common Stock|N|ENS|N|100|N|ENS
@@ -1535,7 +1537,9 @@ EPV|ProShares UltraShort FTSE Europe ETF|P|EPV|Y|100|N|EPV
 EQAL|Invesco Russell 1000 Equal Weight ETF|P|EQAL|Y|100|N|EQAL
 EQC|Equity Commonwealth Common Shares of Beneficial Interest|N|EQC|N|100|N|EQC
 EQC$D|Equity Commonwealth 6.50% Pfd Conv Shs Ser D|N|EQCpD|N|100|N|EQC-D
+EQD|Equity Distribution Acquisition Corp. Class A Common Stock|N|EQD|N|100|N|EQD
 EQD.U|Equity Distribution Acquisition Corp. Units|N|EQD.U|N|100|N|EQD=
+EQD.W|Equity Distribution Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|EQD.WS|N|100|N|EQD+
 EQH|Equitable Holdings, Inc. Common Stock|N|EQH|N|100|N|EQH
 EQH$A|Equitable Holdings, Inc. Depositary Shares|N|EQHpA|N|100|N|EQH-A
 EQL|ALPS Equal Sector Weight ETF|P|EQL|Y|100|N|EQL
@@ -2722,8 +2726,6 @@ JBGS|JBG SMITH Properties Common Shares |N|JBGS|N|100|N|JBGS
 JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I|N|JBK|N|100|N|JBK
 JBL|Jabil Inc. Common Stock|N|JBL|N|100|N|JBL
 JBT|John Bean Technologies Corporation Common Stock|N|JBT|N|100|N|JBT
-JCAP|Jernigan Capital, Inc. Common Stock|N|JCAP|N|100|N|JCAP
-JCAP$B|Jernigan Capital, Inc. 7.00% Series B Cumulative Redeemable Perpetual Preferred Stock|N|JCAPpB|N|100|N|JCAP-B
 JCE|Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest|N|JCE|N|100|N|JCE
 JCI|Johnson Controls International plc Ordinary Share|N|JCI|N|100|N|JCI
 JCO|Nuveen Credit Opportunities 2022 Target Term Fund Common Shares of Beneficial Interest|N|JCO|N|100|N|JCO
@@ -2916,7 +2918,7 @@ KO|Coca-Cola Company (The) Common Stock|N|KO|N|100|N|KO
 KOCT|Innovator Russell 2000 Power Buffer ETF - October|Z|KOCT|Y|100|N|KOCT
 KODK|Eastman Kodak Company Common New|N|KODK|N|100|N|KODK
 KOF|Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)|N|KOF|N|100|N|KOF
-KOIN|Innovation Shares NextGen Protocol ETF|P|KOIN|Y|100|N|KOIN
+KOIN|Capital Link NextGen Protocol ETF|P|KOIN|Y|100|N|KOIN
 KOKU|Xtrackers MSCI Kokusai Equity ETF|P|KOKU|Y|100|N|KOKU
 KOL|VanEck Vectors Coal ETF|P|KOL|Y|100|N|KOL
 KOLD|ProShares UltraShort Bloomberg Natural Gas|P|KOLD|Y|100|N|KOLD
@@ -4149,7 +4151,6 @@ RINF|ProShares Inflation Expectations ETF|P|RINF|Y|100|N|RINF
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RISN|Inspire Tactical Balanced ESG ETF|P|RISN|Y|100|N|RISN
 RIV|RiverNorth Opportunities Fund, Inc. Common Stock|N|RIV|N|100|N|RIV
-RIV.R|RiverNorth Opportunities Fund, Inc. Rights (expiring November 6, 2020)|N|RIVr|N|100|N|RIV^
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
 RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
 RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product|P|RJI|N|100|N|RJI
@@ -5477,4 +5478,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1105202012:11||||||
+File Creation Time: 1106202012:12||||||
