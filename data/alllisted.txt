@@ -345,6 +345,7 @@ BAF,BAF|BlackRock Municipal Income Investment Quality Trust
 BAH,BAH|Booz Allen Hamilton Holding Corporation Common Stock
 BAK,BAK|Braskem SA ADR
 BAL,BAL|iPathA Series B Bloomberg Cotton Subindex Total Return ETN
+BALY,BALY|Bally's Corporation Common Stock
 BAM,BAM|Brookfield Asset Management Inc. Common Stock
 BAMH,BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
 BANC,BANC|Banc of California, Inc. Common Stock
@@ -2462,7 +2463,9 @@ O,O|Realty Income Corporation Common Stock
 OAC,OAC|Oaktree Acquisition Corp. Class A Ordinary Shares
 OAC.U,OAC.U|Oaktree Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
 OAC.W,OAC.W|Oaktree Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
+OACB,OACB|Oaktree Acquisition Corp. II Class A Ordinary Shares
 OACB.U,OACB.U|Oaktree Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
+OACB.W,OACB.W|Oaktree Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 OAK$A,OAK$A|Oaktree Capital Group, LLC 6.625% Series A Preferred units
 OAK$B,OAK$B|Oaktree Capital Group, LLC 6.550% Series B Preferred Units
 OBLG,OBLG|Oblong Inc. Common Stock
@@ -2869,7 +2872,9 @@ RRD,RRD|R.R. Donnelley & Sons Company Common Stock
 RS,RS|Reliance Steel & Aluminum Co. Common Stock (DE)
 RSF,RSF|RiverNorth Specialty Finance Corporation
 RSG,RSG|Republic Services, Inc. Common Stock
+RTP,RTP|Reinvent Technology Partners Class A Ordinary Shares
 RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+RTP.W,RTP.W|Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 RTX,RTX|Raytheon Technologies Corporation Common Stock
 RVI,RVI|Retail Value Inc. Common Stock 
 RVLV,RVLV|Revolve Group, Inc. Class A Common Stock
@@ -3280,7 +3285,6 @@ TRTN$D,TRTN$D|Triton International Limited 6.875% Series D Cumulative Redeemable
 TRTX,TRTX|TPG RE Finance Trust, Inc. Common Stock
 TRU,TRU|TransUnion Common Stock
 TRV,TRV|The Travelers Companies, Inc. Common Stock
-TRWH,TRWH|Twin River Worldwide Holdings, Inc. Common Stock
 TRX,TRX|Tanzanian Gold Corporation Common Stock
 TRXC,TRXC|TransEnterix, Inc. Common Stock
 TS,TS|Tenaris S.A. American Depositary Shares
@@ -3725,7 +3729,9 @@ AGNCP,AGNCP|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,00
 AGRX,AGRX|Agile Therapeutics, Inc. - Common Stock
 AGTC,AGTC|Applied Genetic Technologies Corporation - Common Stock
 AGYS,AGYS|Agilysys, Inc. - Common Stock
+AHAC,AHAC|Alpha Healthcare Acquisition Corp. - Common Stock
 AHACU,AHACU|Alpha Healthcare Acquisition Corp. - Unit
+AHACW,AHACW|Alpha Healthcare Acquisition Corp. - Warrant
 AHCO,AHCO|AdaptHealth Corp.  - Class A Common Stock
 AHPI,AHPI|Allied Healthcare Products, Inc. - Common Stock
 AIH,AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares
@@ -3911,6 +3917,8 @@ ATHX,ATHX|Athersys, Inc. - Common Stock
 ATIF,ATIF|ATIF Holdings Limited - Ordinary Shares
 ATLC,ATLC|Atlanticus Holdings Corporation - Common Stock
 ATLO,ATLO|Ames National Corporation - Common Stock
+ATNF,ATNF|180 Life Sciences Corp. - Common Stock
+ATNFW,ATNFW|180 Life Sciences Corp. - Warrant
 ATNI,ATNI|ATN International, Inc. - Common Stock
 ATNX,ATNX|Athenex, Inc. - Common Stock
 ATOM,ATOM|Atomera Incorporated - Common Stock
@@ -5289,10 +5297,6 @@ KALA,KALA|Kala Pharmaceuticals, Inc. - Common Stock
 KALU,KALU|Kaiser Aluminum Corporation - Common Stock
 KALV,KALV|KalVista Pharmaceuticals, Inc. - Common Stock
 KBAL,KBAL|Kimball International, Inc. - Class B Common Stock
-KBLM,KBLM|KBL Merger Corp. IV - Common Stock
-KBLMR,KBLMR|KBL Merger Corp. IV - Rights
-KBLMU,KBLMU|KBL Merger Corp. IV - Unit
-KBLMW,KBLMW|KBL Merger Corp. IV - Warrant
 KBNT,KBNT|Kubient, Inc. - Common Stock
 KBNTW,KBNTW|Kubient, Inc. - Warrant
 KBSF,KBSF|KBS Fashion Group Limited - Common Stock
@@ -6285,6 +6289,7 @@ RWLK,RWLK|ReWalk Robotics Ltd. - Ordinary Shares
 RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
 RYTM,RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock
+RZLT,RZLT|Rezolute, Inc. - Common Stock
 SABR,SABR|Sabre Corporation - Common Stock
 SABRP,SABRP|Sabre Corporation - 6.50% Series A Mandatory Convertible Preferred Stock
 SAFM,SAFM|Sanderson Farms, Inc. - Common Stock
