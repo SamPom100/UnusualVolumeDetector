@@ -1176,6 +1176,7 @@ EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100|N|N
 EVOP|EVO Payments, Inc. - Class A Common Stock|G|N|N|100|N|N
 EVSTC|Eaton Vance Stock NextShares|G|N|N|100|N|Y
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
+EWEB|Global X Emerging Markets Internet & E-commerce ETF|G|N|N|100|Y|N
 EWJE|iShares MSCI Japan Equal Weighted ETF|G|N|N|100|Y|N
 EWJV|iShares MSCI Japan Value ETF|G|N|N|100|Y|N
 EWZS|iShares MSCI Brazil Small-Cap ETF|G|N|N|100|Y|N
@@ -1743,7 +1744,7 @@ ICON|Iconix Brand Group, Inc. - Common Stock|Q|N|D|100|N|N
 ICPT|Intercept Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ICUI|ICU Medical, Inc. - Common Stock|Q|N|N|100|N|N
 IDCC|InterDigital, Inc. - Common Stock|Q|N|N|100|N|N
-IDEX|Ideanomics, Inc. - Common Stock|S|N|N|100|N|N
+IDEX|Ideanomics, Inc. - Common Stock|S|N|D|100|N|N
 IDLB|Invesco FTSE International Low Beta Equal Weight ETF|G|N|N|100|Y|N
 IDN|Intellicheck, Inc. - Common Stock|G|N|N|100|N|N
 IDRA|Idera Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -2059,7 +2060,7 @@ LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100|N|N
 LKCO|Luokung Technology Corp - Ordinary Shares|S|N|D|100|N|N
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100|N|N
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100|N|N
-LLIT|Lianluo Smart Limited - Class A Common Stock|S|N|D|100|N|N
+LLIT|Lianluo Smart Limited - Class A Common Stock|S|N|N|100|N|N
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100|N|N
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100|N|N
 LMB|Limbach Holdings, Inc. - Common Stock|S|N|N|100|N|N
@@ -2267,7 +2268,7 @@ MORN|Morningstar, Inc. - Common Stock|Q|N|N|100|N|N
 MOSY|MoSys, Inc. - Common Stock|S|N|N|100|N|N
 MOTNU|Motion Acquisition Corp. - Unit|S|N|N|100|N|N
 MOTS|Motus GI Holdings, Inc. - Common Stock|S|N|N|100|N|N
-MOXC|Moxian, Inc. - Common Stock|S|N|N|100|N|N
+MOXC|Moxian, Inc. - Common Stock|S|N|D|100|N|N
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100|N|N
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100|N|N
 MPWR|Monolithic Power Systems, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2366,9 +2367,6 @@ NEWTL|Newtek Business Services Corp. - 5.75% Notes due 2024|G|N|N|100|N|N
 NEXT|NextDecade Corporation - Common Stock|S|N|N|100|N|N
 NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 NFE|New Fortress Energy Inc. - Class A Common Stock|Q|N|N|100|N|N
-NFIN|Netfin Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
-NFINU|Netfin Acquisition Corp. - Unit|S|N|N|100|N|N
-NFINW|Netfin Acquisition Corp. - Warrants|S|N|N|100|N|N
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100|N|N
 NFTY|First Trust India Nifty 50 Equal Weight ETF|G|N|N|100|Y|N
 NGACU|NextGen Acquisition Corporation - Units|S|N|N|100|N|N
@@ -2408,6 +2406,7 @@ NMTR|9 Meters Biopharma, Inc. - Common Stock|S|N|D|100|N|N
 NNBR|NN, Inc. - Common Stock|Q|N|N|100|N|N
 NNDM|Nano Dimension Ltd. - American Depositary Shares|S|N|N|100|N|N
 NNOX|NANO-X IMAGING LTD - Ordinary Shares|G|N|N|100|N|N
+NOACU|Natural Order Acquisition Corp. - Unit|S|N|N|100|N|N
 NODK|NI Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NOVN|Novan, Inc. - Common Stock|S|N|D|100|N|N
 NOVS|Novus Capital Corporation - Common Stock|S|N|N|100|N|N
@@ -3419,6 +3418,8 @@ TRHC|Tabula Rasa HealthCare, Inc. - Common Stock|G|N|N|100|N|N
 TRIB|Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares|Q|N|N|100|N|N
 TRIL|Trillium Therapeutics Inc. - Common Shares|S|N|N|100|N|N
 TRIP|TripAdvisor, Inc. - Common Stock|Q|N|N|100|N|N
+TRIT|Triterras, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
+TRITW|Triterras, Inc. - Warrant|G|N|N|100|N|N
 TRMB|Trimble Inc. - Common Stock|Q|N|N|100|N|N
 TRMD|TORM plc - Class A Common Stock|Q|N|N|100|N|N
 TRMK|Trustmark Corporation - Common Stock|Q|N|N|100|N|N
@@ -3795,4 +3796,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1110202015:41|||||||
+File Creation Time: 1111202012:11|||||||
