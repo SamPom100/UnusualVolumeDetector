@@ -56,6 +56,7 @@ AEL,AEL|American Equity Investment Life Holding Company Common Stock
 AEL$A,AEL$A|American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A
 AEL$B,AEL$B|American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B
 AEM,AEM|Agnico Eagle Mines Limited Common Stock
+AENZ,AENZ|Aenza S.A.A. American Depositary Shares
 AEO,AEO|American Eagle Outfitters, Inc. Common Stock
 AER,AER|AerCap Holdings N.V. Ordinary Shares
 AES,AES|The AES Corporation Common Stock
@@ -1523,7 +1524,6 @@ GPRK,GPRK|Geopark Ltd Common Shares
 GPS,GPS|Gap, Inc. (The) Common Stock
 GPX,GPX|GP Strategies Corporation Common Stock
 GRA,GRA|W.R. Grace & Co. Common Stock
-GRAM,GRAM|Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares
 GRC,GRC|Gorman-Rupp Company (The) Common Stock
 GRF,GRF|Eagle Capital Growth Fund, Inc. Common Stock
 GRN,GRN|iPath Series B Carbon Exchange-Traded Notes
@@ -2658,7 +2658,9 @@ PMO,PMO|Putnam Municipal Opportunities Trust Common Stock
 PMT,PMT|PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
 PMT$A,PMT$A|PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest
 PMT$B,PMT$B|PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest
+PMVC,PMVC|PMV Consumer Acquisition Corp. Class A Common Stock
 PMVC.U,PMVC.U|PMV Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
+PMVC.W,PMVC.W|PMV Consumer Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 PMX,PMX|PIMCO Municipal Income Fund III Common Shares of Beneficial Interest
 PNC,PNC|PNC Financial Services Group, Inc. (The) Common Stock
 PNC$P,PNC$P|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P
@@ -3987,6 +3989,7 @@ BBBY,BBBY|Bed Bath & Beyond Inc. - Common Stock
 BBCP,BBCP|Concrete Pumping Holdings, Inc.  - Common Stock
 BBGI,BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock
 BBI,BBI|Brickell Biotech, Inc. - Common Stock
+BBIG,BBIG|Vinco Ventures, Inc. - Common Stock
 BBIO,BBIO|BridgeBio Pharma, Inc. - Common Stock
 BBQ,BBQ|BBQ Holdings, Inc.  - Common Stock
 BBSI,BBSI|Barrett Business Services, Inc. - Common Stock
@@ -4581,7 +4584,6 @@ ECOR,ECOR|electroCore, Inc. - Common Stock
 ECPG,ECPG|Encore Capital Group Inc - Common Stock
 EDAP,EDAP|EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share
 EDIT,EDIT|Editas Medicine, Inc. - Common Stock
-EDNT,EDNT|Edison Nation, Inc. - Common Stock
 EDRY,EDRY|EuroDry Ltd. - Common Shares
 EDSA,EDSA|Edesa Biotech, Inc. - Common Shares
 EDTK,EDTK|Skillful Craftsman Education Technology Limited - Ordinary Share
@@ -5209,6 +5211,7 @@ INDB,INDB|Independent Bank Corp. - Common Stock
 INFI,INFI|Infinity Pharmaceuticals, Inc. - Common Stock
 INFN,INFN|Infinera Corporation - Common Stock
 INGN,INGN|Inogen, Inc - Common Stock
+INM,INM|InMed Pharmaceuticals Inc. - Common Shares
 INMB,INMB|INmune Bio Inc. - Common stock
 INMD,INMD|InMode Ltd.  - Ordinary Shares
 INO,INO|Inovio Pharmaceuticals, Inc. - Common Stock
@@ -6620,7 +6623,6 @@ TENB,TENB|Tenable Holdings, Inc. - Common Stock
 TENX,TENX|Tenax Therapeutics, Inc. - Common Stock
 TER,TER|Teradyne, Inc. - Common Stock
 TESS,TESS|TESSCO Technologies Incorporated - Common Stock
-TEUM,TEUM|Pareteum Corporation - Common Stock
 TFFP,TFFP|TFF Pharmaceuticals, Inc. - Common Stock
 TFSL,TFSL|TFS Financial Corporation - Common Stock
 TGA,TGA|TransGlobe Energy Corporation - Common Shares
@@ -6865,6 +6867,7 @@ VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
+VTRSV,VTRSV|Viatris Inc. - Common Stock
 VTRU,VTRU|Vitru Limited - Common Shares
 VTSI,VTSI|VirTra, Inc. - Common Stock
 VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
@@ -6908,7 +6911,6 @@ WLDN,WLDN|Willdan Group, Inc. - Common Stock
 WLFC,WLFC|Willis Lease Finance Corporation - Common Stock
 WLTW,WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares
 WMG,WMG|Warner Music Group Corp. - Class A Common Stock
-WMGI,WMGI|Wright Medical Group N.V. - Ordinary Shares
 WNEB,WNEB|Western New England Bancorp, Inc. - Common Stock
 WORX,WORX|SCWorx Corp. - Common Stock
 WPRT,WPRT|Westport Fuel Systems Inc - Common Shares

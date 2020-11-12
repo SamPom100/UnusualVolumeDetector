@@ -71,6 +71,7 @@ AEL|American Equity Investment Life Holding Company Common Stock|N|AEL|N|100|N|A
 AEL$A|American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A|N|AELpA|N|100|N|AEL-A
 AEL$B|American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B|N|AELpB|N|100|N|AEL-B
 AEM|Agnico Eagle Mines Limited Common Stock|N|AEM|N|100|N|AEM
+AENZ|Aenza S.A.A. American Depositary Shares|N|AENZ|N|100|N|AENZ
 AEO|American Eagle Outfitters, Inc. Common Stock|N|AEO|N|100|N|AEO
 AER|AerCap Holdings N.V. Ordinary Shares|N|AER|N|100|N|AER
 AES|The AES Corporation Common Stock|N|AES|N|100|N|AES
@@ -2174,7 +2175,6 @@ GPS|Gap, Inc. (The) Common Stock|N|GPS|N|100|N|GPS
 GPX|GP Strategies Corporation Common Stock|N|GPX|N|100|N|GPX
 GQRE|FlexShares Global Quality Real Estate Index Fund|P|GQRE|Y|100|N|GQRE
 GRA|W.R. Grace & Co. Common Stock|N|GRA|N|100|N|GRA
-GRAM|Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares|N|GRAM|N|100|N|GRAM
 GRC|Gorman-Rupp Company (The) Common Stock|N|GRC|N|100|N|GRC
 GREK|Global X MSCI Greece ETF|P|GREK|Y|100|N|GREK
 GRES|IQ ARB Global Resources ETF|P|GRES|Y|100|N|GRES
@@ -2461,6 +2461,7 @@ IBHB|iShares iBonds 2022 Term High Yield and Income ETF|Z|IBHB|Y|100|N|IBHB
 IBHC|iShares iBonds 2023 Term High Yield and Income ETF|Z|IBHC|Y|100|N|IBHC
 IBHD|iShares iBonds 2024 Term High Yield and Income ETF|Z|IBHD|Y|100|N|IBHD
 IBHE|iShares iBonds 2025 Term High Yield and Income ETF|Z|IBHE|Y|100|N|IBHE
+IBHF|iShares iBonds 2026 Term High Yield and Income ETF|Z|IBHF|Y|100|N|IBHF
 IBIO|iBio, Inc. Common Stock|A|IBIO|N|100|N|IBIO
 IBM|International Business Machines Corporation Common Stock|N|IBM|N|100|N|IBM
 IBMJ|iShares iBonds Dec 2021 Term Muni Bond ETF|P|IBMJ|Y|100|N|IBMJ
@@ -3237,6 +3238,7 @@ MOGU|MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinar
 MOH|Molina Healthcare Inc Common Stock|N|MOH|N|100|N|MOH
 MOM|AGFiQ U.S. Market Neutral Momentum Fund|P|MOM|Y|100|N|MOM
 MOO|VanEck Vectors Agribusiness ETF|P|MOO|Y|100|N|MOO
+MOON|Direxion Moonshot Innovators ETF|P|MOON|Y|100|N|MOON
 MORT|VanEck Vectors Mortgage REIT Income ETF|P|MORT|Y|100|N|MORT
 MOS|Mosaic Company (The) Common Stock|N|MOS|N|100|N|MOS
 MOTI|VanEck Vectors Morningstar International Moat ETF|Z|MOTI|Y|100|N|MOTI
@@ -3869,7 +3871,9 @@ PMO|Putnam Municipal Opportunities Trust Common Stock|N|PMO|N|100|N|PMO
 PMT|PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest|N|PMT|N|100|N|PMT
 PMT$A|PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PMTpA|N|100|N|PMT-A
 PMT$B|PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PMTpB|N|100|N|PMT-B
+PMVC|PMV Consumer Acquisition Corp. Class A Common Stock|N|PMVC|N|100|N|PMVC
 PMVC.U|PMV Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|PMVC.U|N|100|N|PMVC=
+PMVC.W|PMV Consumer Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|PMVC.WS|N|100|N|PMVC+
 PMX|PIMCO Municipal Income Fund III Common Shares of Beneficial Interest|N|PMX|N|100|N|PMX
 PNC|PNC Financial Services Group, Inc. (The) Common Stock|N|PNC|N|100|N|PNC
 PNC$P|PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P|N|PNCpP|N|100|N|PNC-P
@@ -4655,6 +4659,7 @@ STZ.B|Constellation Brands, Inc. Common Stock|N|STZ.B|N|100|N|STZ.B
 SU|Suncor Energy  Inc. Common Stock|N|SU|N|100|N|SU
 SUB|iShares Short-Term National Muni Bond ETF|P|SUB|Y|100|N|SUB
 SUI|Sun Communities, Inc. Common Stock|N|SUI|N|100|N|SUI
+SULR|SmartETFs Sustainable Energy II ETF|Z|SULR|Y|100|N|SULR
 SUM|Summit Materials, Inc. Class A Common Stock|N|SUM|N|100|N|SUM
 SUN|Sunoco LP Common Units representing limited partner interests|N|SUN|N|100|N|SUN
 SUP|Superior Industries International, Inc. Common Stock (DE)|N|SUP|N|100|N|SUP
@@ -5479,4 +5484,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1111202015:42||||||
+File Creation Time: 1112202012:12||||||
