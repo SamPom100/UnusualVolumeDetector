@@ -259,7 +259,9 @@ ASGN,ASGN|ASGN Incorporated Common Stock
 ASH,ASH|Ashland Global Holdings Inc. Common Stock
 ASIX,ASIX|AdvanSix Inc. Common Stock 
 ASM,ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)
+ASPL,ASPL|Aspirational Consumer Lifestyle Corp. Class A Ordinary Shares
 ASPL.U,ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+ASPL.W,ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ASPN,ASPN|Aspen Aerogels, Inc. Common Stock
 ASR,ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASX,ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
@@ -982,6 +984,7 @@ DMS.W,DMS.W|Digital Media Solutions, Inc. Warrants,
 DMYD,DMYD|dMY Technology Group, Inc. II Class A Common Stock
 DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants
+DMYI.U,DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
 DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
 DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
@@ -1943,6 +1946,7 @@ KTF,KTF|DWS Municipal Income Trust
 KTH,KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN,KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KW,KW|Kennedy-Wilson Holdings Inc. Common Stock
+KWAC.U,KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant
 KWR,KWR|Quaker Chemical Corporation Common Stock
 KYN,KYN|Kayne Anderson Energy Infrastructure Fund, Inc.
 L,L|Loews Corporation Common Stock
@@ -2174,7 +2178,6 @@ MPW,MPW|Medical Properties Trust, Inc. common stock
 MPX,MPX|Marine Products Corporation Common Stock
 MQT,MQT|Blackrock MuniYield Quality Fund II, Inc. Common Stock
 MQY,MQY|Blackrock MuniYield Quality Fund, Inc. Common Stock
-MR,MR|Montage Resources Corporation Common Stock
 MRC,MRC|MRC Global Inc. Common Stock
 MRK,MRK|Merck & Company, Inc. Common Stock (new)
 MRO,MRO|Marathon Oil Corporation Common Stock
@@ -2592,6 +2595,7 @@ PEN,PEN|Penumbra, Inc. Common Stock
 PEO,PEO|Adams Natural Resources Fund, Inc. Common Stock
 PFD,PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated
 PFE,PFE|Pfizer, Inc. Common Stock
+PFE.V,PFE.V|Pfizer, Inc. Common Stock Ex-Distribution When Issued
 PFFL,PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048
 PFGC,PFGC|Performance Food Group Company Common Stock
 PFH,PFH|Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060
@@ -3964,7 +3968,6 @@ AWRE,AWRE|Aware, Inc. - Common Stock
 AXAS,AXAS|Abraxas Petroleum Corporation - Common Stock
 AXDX,AXDX|Accelerate Diagnostics, Inc. - Common Stock
 AXGN,AXGN|Axogen, Inc. - Common Stock
-AXGT,AXGT|Axovant Gene Therapies Ltd. - Common Shares
 AXLA,AXLA|Axcella Health Inc. - Common Stock
 AXNX,AXNX|Axonics Modulation Technologies, Inc. - Common Stock
 AXSM,AXSM|Axsome Therapeutics, Inc. - Common Stock
@@ -4134,6 +4137,7 @@ BTBT,BTBT|Bit Digital, Inc. - Ordinary Share
 BTWNU,BTWNU|Bridgetown Holdings Limited - Units
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
+BWACU,BWACU|BETTER WORLD ACQUISITION CORP. - Unit
 BWAY,BWAY|Brainsway Ltd. - American Depositary Shares
 BWB,BWB|Bridgewater Bancshares, Inc. - Common Stock
 BWEN,BWEN|Broadwind, Inc. - Common Stock
@@ -4231,6 +4235,7 @@ CETX,CETX|Cemtrex Inc. - Common Stock
 CETXP,CETXP|Cemtrex Inc. - Series 1 Preferred Stock
 CETXW,CETXW|Cemtrex Inc. - Series 1 Warrant
 CEVA,CEVA|CEVA, Inc. - Common Stock
+CFACU,CFACU|CF Finance Acquisition Corp. III - Unit
 CFB,CFB|CrossFirst Bankshares, Inc. - Common Stock
 CFBI,CFBI|Community First Bancshares, Inc. - Common Stock
 CFBK,CFBK|CF Bankshares Inc. - Common Stock
@@ -4828,7 +4833,9 @@ FTDR,FTDR|frontdoor, inc. - Common Stock
 FTEK,FTEK|Fuel Tech, Inc. - Common Stock
 FTFT,FTFT|Future FinTech Group Inc. - Common Stock
 FTHM,FTHM|Fathom Holdings Inc. - Common Stock
+FTIV,FTIV|FinTech Acquisition Corp. IV - Class A Common Stock
 FTIVU,FTIVU|FinTech Acquisition Corp. IV - Unit
+FTIVW,FTIVW|FinTech Acquisition Corp. IV - Warrant
 FTNT,FTNT|Fortinet, Inc. - Common Stock
 FTOC,FTOC|FTAC Olympus Acquisition Corp. - Class A Ordinary Shares
 FTOCU,FTOCU|FTAC Olympus Acquisition Corp. - Unit
@@ -5003,6 +5010,7 @@ GXGXU,GXGXU|GX Acquisition Corp. - Unit
 GXGXW,GXGXW|GX Acquisition Corp. - Warrant
 GYRO,GYRO|Gyrodyne , LLC - Common Stock
 HA,HA|Hawaiian Holdings, Inc. - Common Stock
+HAACU,HAACU|Health Assurance Acquisition Corp. - SAIL Securities
 HAFC,HAFC|Hanmi Financial Corporation - Common Stock
 HAIN,HAIN|The Hain Celestial Group, Inc. - Common Stock
 HALL,HALL|Hallmark Financial Services, Inc. - Common Stock
@@ -5227,6 +5235,7 @@ INTU,INTU|Intuit Inc. - Common Stock
 INTZ,INTZ|Intrusion Inc. - Common Stock
 INVA,INVA|Innoviva, Inc. - Common Stock
 INVE,INVE|Identiv, Inc. - Common Stock
+INVO,INVO|INVO BioScience, Inc. - Common Stock
 INZY,INZY|Inozyme Pharma, Inc. - Common Stock
 IONS,IONS|Ionis Pharmaceuticals, Inc. - Common Stock
 IOSP,IOSP|Innospec Inc. - Common Stock
@@ -6395,6 +6404,7 @@ SIMO,SIMO|Silicon Motion Technology Corporation - American Depositary Shares, ea
 SINA,SINA|Sina Corporation - Ordinary Shares
 SINO,SINO|Sino-Global Shipping America, Ltd. - Common Stock
 SINT,SINT|SiNtx Technologies, Inc. - Common Stock
+SIOX,SIOX|Sio Gene Therapies Inc. - Common Stock
 SIRI,SIRI|Sirius XM Holdings Inc. - Common Stock
 SITM,SITM|SiTime Corporation - Common Stock
 SIVB,SIVB|SVB Financial Group - Common Stock
@@ -6817,7 +6827,9 @@ VIACA,VIACA|ViacomCBS Inc. - Class A Common Stock
 VIAV,VIAV|Viavi Solutions Inc. - Common Stock
 VICR,VICR|Vicor Corporation - Common Stock
 VIE,VIE|Viela Bio, Inc. - Common Stock
+VIH,VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares
 VIHAU,VIHAU|VPC Impact Acquisition Holdings - Unit
+VIHAW,VIHAW|VPC Impact Acquisition Holdings - Warrant
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock
@@ -6867,7 +6879,7 @@ VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
-VTRSV,VTRSV|Viatris Inc. - Common Stock
+VTRSV,VTRSV|Viatris Inc. - Common Stock When Issued
 VTRU,VTRU|Vitru Limited - Common Shares
 VTSI,VTSI|VirTra, Inc. - Common Stock
 VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
