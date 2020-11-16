@@ -83,7 +83,6 @@ AFGB|American Financial Group, Inc. 5.875% Subordinated Debentures due 2059|N|AF
 AFGC|American Financial Group, Inc. 5.125% Subordinated Debentures due 2059|N|AFGC|N|100|N|AFGC
 AFGD|American Financial Group, Inc. 5.625% Subordinated Debentures due 2060|N|AFGD|N|100|N|AFGD
 AFGE|American Financial Group, Inc. 4.500% Subordinated Debentures due 2060|N|AFGE|N|100|N|AFGE
-AFGH|American Financial Group, Inc. 6% Subordinated Debentures due 2055|N|AFGH|N|100|N|AFGH
 AFI|Armstrong Flooring, Inc. Common Stock|N|AFI|N|100|N|AFI
 AFIF|Anfield Universal Fixed Income ETF|Z|AFIF|Y|100|N|AFIF
 AFK|VanEck Vectors-Africa Index ETF|P|AFK|Y|100|N|AFK
@@ -825,7 +824,6 @@ CFR|Cullen/Frost Bankers, Inc. Common Stock|N|CFR|N|100|N|CFR
 CFX|Colfax Corporation Common Stock|N|CFX|N|100|N|CFX
 CFXA|Colfax Corporation 5.75% Tangible Equity Units|N|CFXA|N|100|N|CFXA
 CGA|China Green Agriculture, Inc. Common Stock|N|CGA|N|100|N|CGA
-CGC|Canopy Growth Corporation Common Stock|N|CGC|N|100|N|CGC
 CGW|Invesco S&P Global Water Index ETF|P|CGW|Y|100|N|CGW
 CHA|China Telecom Corp Ltd ADS|N|CHA|N|100|N|CHA
 CHAD|Direxion Daily CSI 300 China A Shares Bear 1X Shares|P|CHAD|Y|100|N|CHAD
@@ -2952,7 +2950,6 @@ KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred St
 KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)|N|KTN|N|100|N|KTN
 KURE|KraneShares MSCI All China Health Care Index ETF|P|KURE|Y|100|N|KURE
 KW|Kennedy-Wilson Holdings Inc. Common Stock|N|KW|N|100|N|KW
-KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant|N|KWAC.U|N|100|N|KWAC=
 KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
 KWR|Quaker Chemical Corporation Common Stock|N|KWR|N|100|N|KWR
 KWT|iShares Trust iShares MSCI Kuwait ETF|Z|KWT|Y|100|N|KWT
@@ -3007,6 +3004,7 @@ LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares|N|LGF.B|N|1
 LGH|HCM Defender 500 Index ETF|P|LGH|Y|100|N|LGH
 LGI|Lazard Global Total Return and Income Fund Common Stock|N|LGI|N|100|N|LGI
 LGL|LGL Group, Inc. (The) Common Stock|A|LGL|N|100|N|LGL
+LGL.V|LGL Group, Inc. (The) Warrants to purchase Common Stock (expiring November 16, 2025) When Issued|A|LGL.WSw|N|100|N|LGL+#
 LGLV|SPDR SSGA US Large Cap Low Volatility Index ETF|P|LGLV|Y|100|N|LGLV
 LGOV|First Trust Long Duration Opportunities ETF|P|LGOV|Y|100|N|LGOV
 LGVW|Longview Acquisition Corp. Class A Common Stock|N|LGVW|N|100|N|LGVW
@@ -3753,7 +3751,9 @@ PCPL.W|CC Neuberger Principal Holdings I Warrants, each whole warrant exercisabl
 PCQ|PIMCO California Municipal Income Fund Common Stock|N|PCQ|N|100|N|PCQ
 PCY|Invesco Emerging Markets Sovereign Debt ETF|P|PCY|Y|100|N|PCY
 PD|PagerDuty, Inc. Common Stock|N|PD|N|100|N|PD
+PDAC|Peridot Acquisition Corp. Class A Ordinary Shares|N|PDAC|N|100|N|PDAC
 PDAC.U|Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|PDAC.U|N|100|N|PDAC=
+PDAC.W|Peridot Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PDAC.WS|N|100|N|PDAC+
 PDEC|Innovator S&P 500 Power Buffer ETF - December|Z|PDEC|Y|100|N|PDEC
 PDI|PIMCO Dynamic Income Fund Common Stock|N|PDI|N|100|N|PDI
 PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock|N|PDM|N|100|N|PDM
@@ -5489,4 +5489,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1113202015:42||||||
+File Creation Time: 1116202012:11||||||

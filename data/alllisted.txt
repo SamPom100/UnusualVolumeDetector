@@ -67,7 +67,6 @@ AFGB,AFGB|American Financial Group, Inc. 5.875% Subordinated Debentures due 2059
 AFGC,AFGC|American Financial Group, Inc. 5.125% Subordinated Debentures due 2059
 AFGD,AFGD|American Financial Group, Inc. 5.625% Subordinated Debentures due 2060
 AFGE,AFGE|American Financial Group, Inc. 4.500% Subordinated Debentures due 2060
-AFGH,AFGH|American Financial Group, Inc. 6% Subordinated Debentures due 2055
 AFI,AFI|Armstrong Flooring, Inc. Common Stock
 AFL,AFL|AFLAC Incorporated Common Stock
 AFT,AFT|Apollo Senior Floating Rate Fund Inc. Common Stock
@@ -663,7 +662,6 @@ CFR,CFR|Cullen/Frost Bankers, Inc. Common Stock
 CFX,CFX|Colfax Corporation Common Stock
 CFXA,CFXA|Colfax Corporation 5.75% Tangible Equity Units
 CGA,CGA|China Green Agriculture, Inc. Common Stock
-CGC,CGC|Canopy Growth Corporation Common Stock
 CHA,CHA|China Telecom Corp Ltd ADS
 CHAQ,CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock
 CHAQ.U,CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock
@@ -1946,7 +1944,6 @@ KTF,KTF|DWS Municipal Income Trust
 KTH,KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN,KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KW,KW|Kennedy-Wilson Holdings Inc. Common Stock
-KWAC.U,KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant
 KWR,KWR|Quaker Chemical Corporation Common Stock
 KYN,KYN|Kayne Anderson Energy Infrastructure Fund, Inc.
 L,L|Loews Corporation Common Stock
@@ -1986,6 +1983,7 @@ LGF.A,LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares
 LGF.B,LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares
 LGI,LGI|Lazard Global Total Return and Income Fund Common Stock
 LGL,LGL|LGL Group, Inc. (The) Common Stock
+LGL.V,LGL.V|LGL Group, Inc. (The) Warrants to purchase Common Stock (expiring November 16, 2025) When Issued
 LGVW,LGVW|Longview Acquisition Corp. Class A Common Stock
 LGVW.U,LGVW.U|Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant
 LGVW.W,LGVW.W|Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
@@ -2573,7 +2571,9 @@ PCPL.U,PCPL.U|CC Neuberger Principal Holdings I Units, each consisting of one Cl
 PCPL.W,PCPL.W|CC Neuberger Principal Holdings I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PCQ,PCQ|PIMCO California Municipal Income Fund Common Stock
 PD,PD|PagerDuty, Inc. Common Stock
+PDAC,PDAC|Peridot Acquisition Corp. Class A Ordinary Shares
 PDAC.U,PDAC.U|Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
+PDAC.W,PDAC.W|Peridot Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDS,PDS|Precision Drilling Corporation Common Stock
@@ -4251,6 +4251,7 @@ CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
 CG,CG|The Carlyle Group Inc. - Common Stock
 CGBD,CGBD|TCG BDC, Inc. - Common Stock
+CGC,CGC|Canopy Growth Corporation - Common Shares
 CGEN,CGEN|Compugen Ltd. - Ordinary Shares
 CGIX,CGIX|Cancer Genetics, Inc. - Common Stock
 CGNX,CGNX|Cognex Corporation - Common Stock
@@ -4350,6 +4351,7 @@ CNSP,CNSP|CNS Pharmaceuticals, Inc. - Common Stock
 CNST,CNST|Constellation Pharmaceuticals, Inc. - Common Stock
 CNTG,CNTG|Centogene N.V. - Common Shares
 CNTY,CNTY|Century Casinos, Inc. - Common Stock
+CNXCV,CNXCV|Concentrix Corporation - Common Stock When Issued
 CNXN,CNXN|PC Connection, Inc. - Common Stock
 COCP,COCP|Cocrystal Pharma, Inc. - Common Stock
 CODA,CODA|Coda Octopus Group, Inc. - Common stock
@@ -5046,7 +5048,6 @@ HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
 HDS,HDS|HD Supply Holdings, Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
-HEBT,HEBT|Hebron Technology Co., Ltd. - Class A Common Shares
 HEC,HEC|Hudson Executive Investment Corp. - Class A Common Stock
 HECCU,HECCU|Hudson Executive Investment Corp. - Units
 HECCW,HECCW|Hudson Executive Investment Corp. - Warrant
@@ -5757,6 +5758,7 @@ NHLDW,NHLDW|National Holdings Corporation - Warrants
 NHTC,NHTC|Natural Health Trends Corp. - Commn Stock
 NICE,NICE|NICE Ltd - American Depositary Shares each representing one Ordinary Share
 NICK,NICK|Nicholas Financial, Inc. - Common Stock
+NISN,NISN|NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares
 NIU,NIU|Niu Technologies - American Depositary Shares
 NK,NK|NantKwest, Inc. - Common Stock
 NKLA,NKLA|Nikola Corporation - Common Stock
@@ -5965,7 +5967,9 @@ PACW,PACW|PacWest Bancorp - Common Stock
 PAE,PAE|PAE Incorporated - Class A Common Stock
 PAEWW,PAEWW|PAE Incorporated - Warrants
 PAHC,PAHC|Phibro Animal Health Corporation - Class A Common Stock
+PAIC,PAIC|Petra Acquisition, Inc. - Common Stock
 PAICU,PAICU|Petra Acquisition, Inc. - Units
+PAICW,PAICW|Petra Acquisition, Inc. - Warrant
 PAND,PAND|Pandion Therapeutics Inc. - Common stock
 PANL,PANL|Pangaea Logistics Solutions Ltd. - Common Stock
 PASG,PASG|Passage Bio, Inc. - Common Stock
@@ -6107,6 +6111,7 @@ PRPO,PRPO|Precipio, Inc. - Common Stock
 PRQR,PRQR|ProQR Therapeutics N.V. - Ordinary Shares
 PRSC,PRSC|The Providence Service Corporation - Common Stock
 PRTA,PRTA|Prothena Corporation plc - Ordinary Shares
+PRTC,PRTC|PureTech Health plc - American Depositary Shares
 PRTH,PRTH|Priority Technology Holdings, Inc. - Common Stock
 PRTK,PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock
 PRTS,PRTS|CarParts.com, Inc. - Common Stock
@@ -6800,7 +6805,9 @@ UTMD,UTMD|Utah Medical Products, Inc. - Common Stock
 UTSI,UTSI|UTStarcom Holdings Corp - Ordinary Shares
 UVSP,UVSP|Univest Financial Corporation - Common Stock
 UXIN,UXIN|Uxin Limited - American Depositary Shares
+VACQ,VACQ|Vector Acquisition Corporation - Class A Common Stock
 VACQU,VACQU|Vector Acquisition Corporation - Unit
+VACQW,VACQW|Vector Acquisition Corporation - Warrant
 VALU,VALU|Value Line, Inc. - Common Stock
 VBFC,VBFC|Village Bank and Trust Financial Corp. - Common Stock
 VBIV,VBIV|VBI Vaccines, Inc. - Ordinary Shares
