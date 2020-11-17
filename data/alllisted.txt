@@ -258,6 +258,7 @@ ASGN,ASGN|ASGN Incorporated Common Stock
 ASH,ASH|Ashland Global Holdings Inc. Common Stock
 ASIX,ASIX|AdvanSix Inc. Common Stock 
 ASM,ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)
+ASPI,ASPI|Aspire Real Estate Investors, Inc. Common Stock
 ASPL,ASPL|Aspirational Consumer Lifestyle Corp. Class A Ordinary Shares
 ASPL.U,ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ASPL.W,ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -479,9 +480,6 @@ BML$H,BML$H|Bank of America Corporation Bank of America Corporation Depositary S
 BML$J,BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)
 BML$L,BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)
 BMO,BMO|Bank Of Montreal Common Stock
-BMRG,BMRG|B. Riley Principal Merger Corp. II Class A Common Stock
-BMRG.U,BMRG.U|B. Riley Principal Merger Corp. II Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
-BMRG.W,BMRG.W|B. Riley Principal Merger Corp. II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 BMY,BMY|Bristol-Myers Squibb Company Common Stock
 BMY.R,BMY.R|Bristol-Myers Squibb Company Contingent Value Rights
 BNED,BNED|Barnes & Noble Education, Inc Common Stock
@@ -703,6 +701,7 @@ CIR,CIR|CIRCOR International, Inc. Common Stock
 CIT,CIT|CIT Group Inc (DEL) Common Stock
 CIT$B,CIT$B|CIT Group Inc (DEL) 5.625 % Non-Cumulative Perpetual Preferred Stock, Series B
 CIX,CIX|CompX International Inc. Common Stock
+CIXX,CIXX|CI Financial Corp. Common Shares
 CKH,CKH|SEACOR Holdings Inc. Common Stock
 CKX,CKX|CKX Lands, Inc. Common Stock
 CL,CL|Colgate-Palmolive Company Common Stock
@@ -1983,7 +1982,7 @@ LGF.A,LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares
 LGF.B,LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares
 LGI,LGI|Lazard Global Total Return and Income Fund Common Stock
 LGL,LGL|LGL Group, Inc. (The) Common Stock
-LGL.V,LGL.V|LGL Group, Inc. (The) Warrants to purchase Common Stock (expiring November 16, 2025) When Issued
+LGL.W,LGL.W|LGL Group, Inc. (The) Warrants
 LGVW,LGVW|Longview Acquisition Corp. Class A Common Stock
 LGVW.U,LGVW.U|Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant
 LGVW.W,LGVW.W|Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
@@ -2595,7 +2594,6 @@ PEN,PEN|Penumbra, Inc. Common Stock
 PEO,PEO|Adams Natural Resources Fund, Inc. Common Stock
 PFD,PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated
 PFE,PFE|Pfizer, Inc. Common Stock
-PFE.V,PFE.V|Pfizer, Inc. Common Stock Ex-Distribution When Issued
 PFFL,PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048
 PFGC,PFGC|Performance Food Group Company Common Stock
 PFH,PFH|Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060
@@ -2634,6 +2632,7 @@ PIM,PIM|Putnam Master Intermediate Income Trust Common Stock
 PINE,PINE|Alpine Income Property Trust, Inc. Common Stock
 PING,PING|Ping Identity Holding Corp. Common Stock
 PINS,PINS|Pinterest, Inc. Class A Common Stock
+PIPP.U,PIPP.U|Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 PIPR,PIPR|Piper Sandler Companies Common Stock
 PJT,PJT|PJT Partners Inc. Class A Common Stock
 PK,PK|Park Hotels & Resorts Inc. Common Stock 
@@ -3042,6 +3041,7 @@ SNV,SNV|Synovus Financial Corp. Common Stock
 SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share
 SNV$E,SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
 SNX,SNX|Synnex Corporation Common Stock
+SNX.V,SNX.V|Synnex Corporation Common Stock Ex-Distribution When Issued
 SO,SO|Southern Company (The) Common Stock
 SOAC,SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares
 SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
@@ -3793,7 +3793,6 @@ ALVR,ALVR|AlloVir, Inc. - Common Stock
 ALXN,ALXN|Alexion Pharmaceuticals, Inc. - Common Stock
 ALXO,ALXO|ALX Oncology Holdings Inc. - Common Stock
 ALYA,ALYA|Alithya Group inc. - Class A subordinate voting shares
-AMAG,AMAG|AMAG Pharmaceuticals, Inc. - Common Stock
 AMAL,AMAL|Amalgamated Bank - Class A Common Stock
 AMAT,AMAT|Applied Materials, Inc. - Common Stock
 AMBA,AMBA|Ambarella, Inc. - Ordinary Shares
@@ -4515,6 +4514,7 @@ DGICA,DGICA|Donegal Group, Inc. - Class A Common Stock
 DGICB,DGICB|Donegal Group, Inc. - Class B Common Stock
 DGII,DGII|Digi International Inc. - Common Stock
 DGLY,DGLY|Digital Ally, Inc. - Common Stock
+DGNS,DGNS|Dragoneer Growth Opportunities Corp. II - Class A Ordinary Shares
 DHC,DHC|Diversified Healthcare Trust  - Common Shares of Beneficial Interest
 DHCNI,DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042
 DHCNL,DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
@@ -4627,6 +4627,8 @@ ENTG,ENTG|Entegris, Inc. - Common Stock
 ENTX,ENTX|Entera Bio Ltd. - Ordinary Shares
 ENTXW,ENTXW|Entera Bio Ltd. - Warrant
 EOLS,EOLS|Evolus, Inc. - Common Stock
+EOSE,EOSE|Eos Energy Enterprises, Inc. - Common Stock
+EOSEW,EOSEW|Eos Energy Enterprises, Inc. - Warrant
 EPAY,EPAY|Bottomline Technologies, Inc. - Common Stock
 EPIX,EPIX|ESSA Pharma Inc. - Common Stock
 EPSN,EPSN|Epsilon Energy Ltd. - Common Shares
@@ -5688,7 +5690,6 @@ MWK,MWK|Mohawk Group Holdings, Inc. - Common Stock
 MXIM,MXIM|Maxim Integrated Products, Inc. - Common Stock
 MYFW,MYFW|First Western Financial, Inc. - Common Stock
 MYGN,MYGN|Myriad Genetics, Inc. - Common Stock
-MYL,MYL|Mylan N.V. - Common Stock
 MYOK,MYOK|MyoKardia, Inc. - Common Stock
 MYOS,MYOS|MYOS RENS Technology Inc. - Common Stock
 MYRG,MYRG|MYR Group, Inc. - Common Stock
@@ -5943,6 +5944,7 @@ OTEX,OTEX|Open Text Corporation - Common Shares
 OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
 OTLKW,OTLKW|Outlook Therapeutics, Inc. - Series A Warrant
+OTRAU,OTRAU|OTR Acquisition Corp. - Unit
 OTRK,OTRK|Ontrak, Inc. - Common Stock
 OTRKP,OTRKP|Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock
 OTTR,OTTR|Otter Tail Corporation - Common Stock
@@ -6435,6 +6437,7 @@ SMBC,SMBC|Southern Missouri Bancorp, Inc. - Common Stock
 SMBK,SMBK|SmartFinancial, Inc. - Common Stock
 SMCI,SMCI|Super Micro Computer, Inc. - Common Stock
 SMED,SMED|Sharps Compliance Corp. - Common Stock
+SMID,SMID|Smith-Midland Corporation - Common Stock
 SMIT,SMIT|Schmitt Industries, Inc. - Common Stock
 SMMC,SMMC|South Mountain Merger Corp. - Class A Common Stock
 SMMCU,SMMCU|South Mountain Merger Corp. - Unit
@@ -6886,7 +6889,7 @@ VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
-VTRSV,VTRSV|Viatris Inc. - Common Stock When Issued
+VTRS,VTRS|Viatris Inc. - Common Stock
 VTRU,VTRU|Vitru Limited - Common Shares
 VTSI,VTSI|VirTra, Inc. - Common Stock
 VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
@@ -7026,6 +7029,7 @@ ZKIN,ZKIN|ZK International Group Co., Ltd - Ordinary Share
 ZLAB,ZLAB|Zai Lab Limited - American Depositary Shares
 ZM,ZM|Zoom Video Communications, Inc. - Class A Common Stock
 ZNGA,ZNGA|Zynga Inc. - Class A Common Stock
+ZNTEU,ZNTEU|Zanite Acquisition Corp. - Unit
 ZNTL,ZNTL|Zentalis Pharmaceuticals, Inc. - common stock
 ZS,ZS|Zscaler, Inc. - Common Stock
 ZSAN,ZSAN|Zosano Pharma Corporation - Common Stock

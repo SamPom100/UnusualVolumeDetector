@@ -116,7 +116,7 @@ AHCO|AdaptHealth Corp.  - Class A Common Stock|S|N|N|100|N|N
 AHPI|Allied Healthcare Products, Inc. - Common Stock|S|N|N|100|N|N
 AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
 AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares|G|N|N|100|N|N
-AIHS|Senmiao Technology Limited - Common Stock|S|N|D|100|N|N
+AIHS|Senmiao Technology Limited - Common Stock|S|N|N|100|N|N
 AIKI|AIkido Pharma Inc. - Common Stock|S|N|D|100|N|N
 AIMC|Altra Industrial Motion Corp. - Common Stock|Q|N|N|100|N|N
 AINV|Apollo Investment Corporation - Closed End Fund|Q|N|N|100|N|N
@@ -169,7 +169,6 @@ ALVR|AlloVir, Inc. - Common Stock|Q|N|N|100|N|N
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ALXO|ALX Oncology Holdings Inc. - Common Stock|Q|N|N|100|N|N
 ALYA|Alithya Group inc. - Class A subordinate voting shares|S|N|N|100|N|N
-AMAG|AMAG Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AMAL|Amalgamated Bank - Class A Common Stock|G|N|N|100|N|N
 AMAT|Applied Materials, Inc. - Common Stock|Q|N|N|100|N|N
 AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100|N|N
@@ -973,6 +972,7 @@ DGICA|Donegal Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DGICB|Donegal Group, Inc. - Class B Common Stock|Q|N|N|100|N|N
 DGII|Digi International Inc. - Common Stock|Q|N|N|100|N|N
 DGLY|Digital Ally, Inc. - Common Stock|S|N|N|100|N|N
+DGNS|Dragoneer Growth Opportunities Corp. II - Class A Ordinary Shares|S|N|N|100|N|N
 DGRE|WisdomTree Emerging Markets Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRS|WisdomTree U.S. SmallCap Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRW|WisdomTree U.S. Quality Dividend Growth Fund|G|N|N|100|Y|N
@@ -1120,6 +1120,8 @@ ENTX|Entera Bio Ltd. - Ordinary Shares|S|N|N|100|N|N
 ENTXW|Entera Bio Ltd. - Warrant|S|N|N|100|N|N
 ENZL|iShares MSCI New Zealand ETF|G|N|N|100|Y|N
 EOLS|Evolus, Inc. - Common Stock|G|N|N|100|N|N
+EOSE|Eos Energy Enterprises, Inc. - Common Stock|S|N|N|100|N|N
+EOSEW|Eos Energy Enterprises, Inc. - Warrant|S|N|N|100|N|N
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 EPIX|ESSA Pharma Inc. - Common Stock|S|N|N|100|N|N
 EPSN|Epsilon Energy Ltd. - Common Shares|G|N|N|100|N|N
@@ -2321,7 +2323,6 @@ MWK|Mohawk Group Holdings, Inc. - Common Stock|S|N|N|100|N|N
 MXIM|Maxim Integrated Products, Inc. - Common Stock|Q|N|N|100|N|N
 MYFW|First Western Financial, Inc. - Common Stock|Q|N|N|100|N|N
 MYGN|Myriad Genetics, Inc. - Common Stock|Q|N|N|100|N|N
-MYL|Mylan N.V. - Common Stock|Q|N|N|100|N|N
 MYOK|MyoKardia, Inc. - Common Stock|Q|N|N|100|N|N
 MYOS|MYOS RENS Technology Inc. - Common Stock|S|N|N|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2580,6 +2581,7 @@ OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
 OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
+OTRAU|OTR Acquisition Corp. - Unit|S|N|N|100|N|N
 OTRK|Ontrak, Inc. - Common Stock|G|N|N|100|N|N
 OTRKP|Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 OTTR|Otter Tail Corporation - Common Stock|Q|N|N|100|N|N
@@ -2792,7 +2794,7 @@ PSCT|Invesco S&P SmallCap Information Technology ETF|G|N|N|100|Y|N
 PSCU|Invesco S&P SmallCap Utilities & Communication Services ETF|G|N|N|100|Y|N
 PSEC|Prospect Capital Corporation - Common Stock|Q|N|N|100|N|N
 PSET|Principal Quality ETF|G|N|N|100|Y|N
-PSHG|Performance Shipping Inc. - Common Shares|S|N|D|100|N|N
+PSHG|Performance Shipping Inc. - Common Shares|S|N|N|100|N|N
 PSL|Invesco DWA Consumer Staples Momentum ETF|G|N|N|100|Y|N
 PSM|Principal U.S. Small-MidCap Multi-Factor ETF|G|N|N|100|Y|N
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3150,6 +3152,7 @@ SMCI|Super Micro Computer, Inc. - Common Stock|Q|N|N|100|N|N
 SMCP|AlphaMark Actively Managed Small Cap ETF|G|N|N|100|Y|N
 SMED|Sharps Compliance Corp. - Common Stock|S|N|N|100|N|N
 SMH|VanEck Vectors Semiconductor ETF|G|N|N|100|Y|N
+SMID|Smith-Midland Corporation - Common Stock|S|N|N|100|N|N
 SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100|N|N
 SMMC|South Mountain Merger Corp. - Class A Common Stock|S|N|N|100|N|N
 SMMCU|South Mountain Merger Corp. - Unit|S|N|N|100|N|N
@@ -3646,7 +3649,7 @@ VTHR|Vanguard Russell 3000 ETF|G|N|N|100|Y|N
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund|G|N|N|100|Y|N
 VTNR|Vertex Energy, Inc - Common Stock|S|N|D|100|N|N
 VTRN|VictoryShares Top Veteran Employers ETF|G|N|N|100|Y|N
-VTRSV|Viatris Inc. - Common Stock When Issued|Q|N|N|100|N|N
+VTRS|Viatris Inc. - Common Stock|Q|N|N|100|N|N
 VTRU|Vitru Limited - Common Shares|Q|N|N|100|N|N
 VTSI|VirTra, Inc. - Common Stock|S|N|N|100|N|N
 VTVT|vTv Therapeutics Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -3799,6 +3802,7 @@ ZKIN|ZK International Group Co., Ltd - Ordinary Share|S|N|N|100|N|N
 ZLAB|Zai Lab Limited - American Depositary Shares|G|N|N|100|N|N
 ZM|Zoom Video Communications, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ZNGA|Zynga Inc. - Class A Common Stock|Q|N|N|100|N|N
+ZNTEU|Zanite Acquisition Corp. - Unit|S|N|N|100|N|N
 ZNTL|Zentalis Pharmaceuticals, Inc. - common stock|G|N|N|100|N|N
 ZS|Zscaler, Inc. - Common Stock|Q|N|N|100|N|N
 ZSAN|Zosano Pharma Corporation - Common Stock|S|N|N|100|N|N
@@ -3811,4 +3815,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1116202015:42|||||||
+File Creation Time: 1117202012:11|||||||

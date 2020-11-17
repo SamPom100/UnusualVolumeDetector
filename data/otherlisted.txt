@@ -315,6 +315,7 @@ ASHS|Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF|P|ASHS|Y|100|N|ASHS
 ASHX|Xtrackers MSCI China A Inclusion Equity ETF|P|ASHX|Y|100|N|ASHX
 ASIX|AdvanSix Inc. Common Stock |N|ASIX|N|100|N|ASIX
 ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)|A|ASM|N|100|N|ASM
+ASPI|Aspire Real Estate Investors, Inc. Common Stock|N|ASPI|N|100|N|ASPI
 ASPL|Aspirational Consumer Lifestyle Corp. Class A Ordinary Shares|N|ASPL|N|100|N|ASPL
 ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ASPL.U|N|100|N|ASPL=
 ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ASPL.WS|N|100|N|ASPL+
@@ -454,6 +455,7 @@ BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest|
 BBP|Virtus LifeSci Biotech Products ETF|P|BBP|Y|100|N|BBP
 BBRE|JPMorgan BetaBuilders MSCI U.S. REIT ETF |Z|BBRE|Y|100|N|BBRE
 BBSA|JPMorgan BetaBuilders 1-5 Year U.S. Aggregate Bond ETF |Z|BBSA|Y|100|N|BBSA
+BBSC|JPMorgan BetaBuilders U.S. Small Cap Equity ETF|P|BBSC|Y|100|N|BBSC
 BBU|Brookfield Business Partners L.P. Limited Partnership Units |N|BBU|N|100|N|BBU
 BBUS|JPMorgan BetaBuilders U.S. Equity ETF|Z|BBUS|Y|100|N|BBUS
 BBVA|Banco Bilbao Vizcaya Argentaria S.A. Common Stock|N|BBVA|N|100|N|BBVA
@@ -604,9 +606,6 @@ BML$H|Bank of America Corporation Bank of America Corporation Depositary Shares 
 BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)|N|BMLpJ|N|100|N|BML-J
 BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)|N|BMLpL|N|100|N|BML-L
 BMO|Bank Of Montreal Common Stock|N|BMO|N|100|N|BMO
-BMRG|B. Riley Principal Merger Corp. II Class A Common Stock|N|BMRG|N|100|N|BMRG
-BMRG.U|B. Riley Principal Merger Corp. II Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|BMRG.U|N|100|N|BMRG=
-BMRG.W|B. Riley Principal Merger Corp. II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|BMRG.WS|N|100|N|BMRG+
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BMY.R|Bristol-Myers Squibb Company Contingent Value Rights|N|BMYr|N|100|N|BMY^
 BNDC|FlexShares Core Select Bond Fund|P|BNDC|Y|100|N|BNDC
@@ -882,6 +881,7 @@ CIR|CIRCOR International, Inc. Common Stock|N|CIR|N|100|N|CIR
 CIT|CIT Group Inc (DEL) Common Stock|N|CIT|N|100|N|CIT
 CIT$B|CIT Group Inc (DEL) 5.625 % Non-Cumulative Perpetual Preferred Stock, Series B|N|CITpB|N|100|N|CIT-B
 CIX|CompX International Inc. Common Stock|A|CIX|N|100|N|CIX
+CIXX|CI Financial Corp. Common Shares|N|CIXX|N|100|N|CIXX
 CKH|SEACOR Holdings Inc. Common Stock|N|CKH|N|100|N|CKH
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
@@ -2964,6 +2964,7 @@ LADR|Ladder Capital Corp Class A Common Stock|N|LADR|N|100|N|LADR
 LAIX|LAIX Inc. American Depositary Shares, each  representing one Class A Ordinary Share|N|LAIX|N|100|N|LAIX
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
+LBAY|Leatherback Long/Short Alternative Yield ETF|P|LBAY|Y|100|N|LBAY
 LBJ|Direxion Daily Latin America Bull 2X Shares|P|LBJ|Y|100|N|LBJ
 LBRT|Liberty Oilfield Services Inc. Class A Common Stock|N|LBRT|N|100|N|LBRT
 LC|LendingClub Corporation Common Stock|N|LC|N|100|N|LC
@@ -3004,7 +3005,7 @@ LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares|N|LGF.B|N|1
 LGH|HCM Defender 500 Index ETF|P|LGH|Y|100|N|LGH
 LGI|Lazard Global Total Return and Income Fund Common Stock|N|LGI|N|100|N|LGI
 LGL|LGL Group, Inc. (The) Common Stock|A|LGL|N|100|N|LGL
-LGL.V|LGL Group, Inc. (The) Warrants to purchase Common Stock (expiring November 16, 2025) When Issued|A|LGL.WSw|N|100|N|LGL+#
+LGL.W|LGL Group, Inc. (The) Warrants|A|LGL.WS|N|100|N|LGL+
 LGLV|SPDR SSGA US Large Cap Low Volatility Index ETF|P|LGLV|Y|100|N|LGLV
 LGOV|First Trust Long Duration Opportunities ETF|P|LGOV|Y|100|N|LGOV
 LGVW|Longview Acquisition Corp. Class A Common Stock|N|LGVW|N|100|N|LGVW
@@ -3780,7 +3781,6 @@ PEX|ProShares Global Listed Private Equity ETF|Z|PEX|Y|100|N|PEX
 PEXL|Pacer US Export Leaders ETF|P|PEXL|Y|100|N|PEXL
 PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated|N|PFD|N|100|N|PFD
 PFE|Pfizer, Inc. Common Stock|N|PFE|N|100|N|PFE
-PFE.V|Pfizer, Inc. Common Stock Ex-Distribution When Issued|N|PFEw|N|100|N|PFE#
 PFEB|Innovator S&P 500 Power Buffer ETF - February|Z|PFEB|Y|100|N|PFEB
 PFFA|Virtus InfraCap U.S. Preferred Stock ETF|P|PFFA|Y|100|N|PFFA
 PFFD|Global X U.S. Preferred ETF|P|PFFD|Y|100|N|PFFD
@@ -3840,6 +3840,7 @@ PIN|Invesco India ETF|P|PIN|Y|100|N|PIN
 PINE|Alpine Income Property Trust, Inc. Common Stock|N|PINE|N|100|N|PINE
 PING|Ping Identity Holding Corp. Common Stock|N|PING|N|100|N|PING
 PINS|Pinterest, Inc. Class A Common Stock|N|PINS|N|100|N|PINS
+PIPP.U|Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|PIPP.U|N|100|N|PIPP=
 PIPR|Piper Sandler Companies Common Stock|N|PIPR|N|100|N|PIPR
 PJAN|Innovator S&P 500 Power Buffer ETF - January|Z|PJAN|Y|100|N|PJAN
 PJP|Invesco Dynamic Pharmaceuticals ETF|P|PJP|Y|100|N|PJP
@@ -4506,6 +4507,7 @@ SNV|Synovus Financial Corp. Common Stock|N|SNV|N|100|N|SNV
 SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share|N|SNVpD|N|100|N|SNV-D
 SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E|N|SNVpE|N|100|N|SNV-E
 SNX|Synnex Corporation Common Stock|N|SNX|N|100|N|SNX
+SNX.V|Synnex Corporation Common Stock Ex-Distribution When Issued|N|SNXw|N|100|N|SNX#
 SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
 SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares|N|SOAC|N|100|N|SOAC
 SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|SOAC.U|N|100|N|SOAC=
@@ -5489,4 +5491,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1116202015:42||||||
+File Creation Time: 1117202012:11||||||
