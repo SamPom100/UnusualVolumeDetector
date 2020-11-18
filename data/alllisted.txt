@@ -258,7 +258,6 @@ ASGN,ASGN|ASGN Incorporated Common Stock
 ASH,ASH|Ashland Global Holdings Inc. Common Stock
 ASIX,ASIX|AdvanSix Inc. Common Stock 
 ASM,ASM|Avino Silver & Gold Mines Ltd. Common Shares (Canada)
-ASPI,ASPI|Aspire Real Estate Investors, Inc. Common Stock
 ASPL,ASPL|Aspirational Consumer Lifestyle Corp. Class A Ordinary Shares
 ASPL.U,ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ASPL.W,ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -1375,9 +1374,6 @@ FURY,FURY|Fury Gold Mines Limited Common Shares
 FUSE,FUSE|Fusion Acquisition Corp. Class A Common Stock
 FUSE.U,FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 FUSE.W,FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
-FVAC,FVAC|Fortress Value Acquisition Corp. Class A Common Stock
-FVAC.U,FVAC.U|Fortress Value Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one Warrant
-FVAC.W,FVAC.W|Fortress Value Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FVRR,FVRR|Fiverr International Ltd. Ordinary Shares, no par value
 G,G|Genpact Limited Common Stock
 GAB,GAB|Gabelli Equity Trust, Inc. (The) Common Stock
@@ -2165,6 +2161,8 @@ MOGU,MOGU|MOGU Inc. American Depositary Shares (each  representing 25 Class A Or
 MOH,MOH|Molina Healthcare Inc Common Stock
 MOS,MOS|Mosaic Company (The) Common Stock
 MOV,MOV|Movado Group Inc. Common Stock
+MP,MP|MP Materials Corp. Common Stock
+MP.W,MP.W|MP Materials Corp. Warrants
 MPA,MPA|Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPC,MPC|Marathon Petroleum Corporation Common Stock
 MPLN,MPLN|MultiPlan Corporation Class A Common Stock
@@ -2719,6 +2717,7 @@ PSA$K,PSA$K|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75
 PSA$L,PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share
 PSA$M,PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M
 PSA$N,PSA$N|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N
+PSA$O,PSA$O|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of Beneficial Interest, Series O
 PSB,PSB|PS Business Parks, Inc. Common Stock
 PSB$W,PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W
 PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X
@@ -3041,7 +3040,6 @@ SNV,SNV|Synovus Financial Corp. Common Stock
 SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share
 SNV$E,SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
 SNX,SNX|Synnex Corporation Common Stock
-SNX.V,SNX.V|Synnex Corporation Common Stock Ex-Distribution When Issued
 SO,SO|Southern Company (The) Common Stock
 SOAC,SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares
 SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
@@ -4238,9 +4236,6 @@ CFACU,CFACU|CF Finance Acquisition Corp. III - Unit
 CFB,CFB|CrossFirst Bankshares, Inc. - Common Stock
 CFBI,CFBI|Community First Bancshares, Inc. - Common Stock
 CFBK,CFBK|CF Bankshares Inc. - Common Stock
-CFFA,CFFA|CF Finance Acquisition Corp. - Class A Common Stock
-CFFAU,CFFAU|CF Finance Acquisition Corp. - Unit
-CFFAW,CFFAW|CF Finance Acquisition Corp. - Warrant
 CFFI,CFFI|C&F Financial Corporation - Common Stock
 CFFN,CFFN|Capitol Federal Financial, Inc. - Common Stock
 CFII,CFII|CF Finance Acquisition Corp. II - Class A Common Stock
@@ -4876,6 +4871,8 @@ GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
 GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCBC,GCBC|Greene County Bancorp, Inc. - Common Stock
+GCMG,GCMG|GCM Grosvenor Inc. - Class A Common Stock
+GCMGW,GCMGW|GCM Grosvenor Inc. - Warrant
 GDEN,GDEN|Golden Entertainment, Inc. - Common Stock
 GDRX,GDRX|GoodRx Holdings, Inc. - Class A Common Stock
 GDS,GDS|GDS Holdings Limited - American Depositary Shares
@@ -5565,6 +5562,7 @@ MDNA,MDNA|Medicenna Therapeutics Corp. - Common Shares
 MDRR,MDRR|Medalist Diversified REIT, Inc. - Common Stock
 MDRRP,MDRRP|Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock
 MDRX,MDRX|Allscripts Healthcare Solutions, Inc. - common stock
+MDVL,MDVL|MedAvail Holdings, Inc.  - Common Stock
 MDWD,MDWD|MediWound Ltd. - Ordinary Shares
 MDXG,MDXG|MiMedx Group, Inc - Common Stock
 MEDP,MEDP|Medpace Holdings, Inc. - Common Stock
@@ -5690,8 +5688,6 @@ MWK,MWK|Mohawk Group Holdings, Inc. - Common Stock
 MXIM,MXIM|Maxim Integrated Products, Inc. - Common Stock
 MYFW,MYFW|First Western Financial, Inc. - Common Stock
 MYGN,MYGN|Myriad Genetics, Inc. - Common Stock
-MYOK,MYOK|MyoKardia, Inc. - Common Stock
-MYOS,MYOS|MYOS RENS Technology Inc. - Common Stock
 MYRG,MYRG|MYR Group, Inc. - Common Stock
 MYSZ,MYSZ|My Size, Inc. - Common Stock
 MYT,MYT|Urban Tea, Inc. - Ordinary Shares
@@ -5925,10 +5921,6 @@ ORLY,ORLY|O'Reilly Automotive, Inc. - Common Stock
 ORMP,ORMP|Oramed Pharmaceuticals Inc. - Common Stock
 ORPH,ORPH|Orphazyme A/S - American Depositary Shares
 ORRF,ORRF|Orrstown Financial Services Inc - Common Stock
-ORSN,ORSN|Orisun Acquisition Corp. - Common Stock
-ORSNR,ORSNR|Orisun Acquisition Corp. - Right
-ORSNU,ORSNU|Orisun Acquisition Corp. - Unit
-ORSNW,ORSNW|Orisun Acquisition Corp. - Warrant
 ORTX,ORTX|Orchard Therapeutics plc - American Depositary Shares
 OSBC,OSBC|Old Second Bancorp, Inc. - Common Stock
 OSIS,OSIS|OSI Systems, Inc. - Common Stock
@@ -6042,6 +6034,7 @@ PGNY,PGNY|Progyny, Inc. - Common Stock
 PHAS,PHAS|PhaseBio Pharmaceuticals, Inc. - Common Stock
 PHAT,PHAT|Phathom Pharmaceuticals, Inc. - Common Stock
 PHCF,PHCF|Puhui Wealth Investment Management Co., Ltd.  - Ordinary Shares
+PHICU,PHICU|Population Health Investment Co., Inc. - Unit
 PHIO,PHIO|Phio Pharmaceuticals Corp. - Common Stock
 PHIOW,PHIOW|Phio Pharmaceuticals Corp. - Warrants
 PHUN,PHUN|Phunware, Inc. - Common Stock
@@ -6777,6 +6770,8 @@ UFPT,UFPT|UFP Technologies, Inc. - Common Stock
 UG,UG|United-Guardian, Inc. - Common Stock
 UHAL,UHAL|Amerco - Common Stock
 UIHC,UIHC|United Insurance Holdings Corp. - Common Stock
+UK,UK|Ucommune International Ltd  - Ordinary Shares
+UKOMW,UKOMW|Ucommune International Ltd  - Warrant expiring 11/17/2025
 ULBI,ULBI|Ultralife Corporation - Common Stock
 ULH,ULH|Universal Logistics Holdings, Inc. - Common Stock
 ULTA,ULTA|Ulta Beauty, Inc. - Common Stock
