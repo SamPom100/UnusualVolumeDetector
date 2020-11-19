@@ -666,6 +666,7 @@ CHAQ.W,CHAQ.W|Chardan Healthcare Acquisition 2 Corp. Warrants, entitling the hol
 CHCT,CHCT|Community Healthcare Trust Incorporated Common Stock
 CHD,CHD|Church & Dwight Company, Inc. Common Stock
 CHE,CHE|Chemed Corp
+CHFW.U,CHFW.U|Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant to acquire one Class A Ordinary Share
 CHGG,CHGG|Chegg, Inc. Common Stock
 CHH,CHH|Choice Hotels International, Inc. Common Stock
 CHL,CHL|China Mobile Limited Common Stock
@@ -1389,7 +1390,7 @@ GAU,GAU|Galiano Gold Inc.
 GAZ,GAZ|Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return ETN
 GB,GB|Global Blue Group Holding AG Ordinary Shares
 GB.W,GB.W|Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share
-GBAB,GBAB|Guggenheim Taxable Municipal Managed Duration Trust Common Shares of Beneficial Interest
+GBAB,GBAB|Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest
 GBL,GBL|Gamco Investors, Inc. Common Stock
 GBR,GBR|New Concept Energy, Inc Common Stock
 GBX,GBX|Greenbrier Companies, Inc. (The) Common Stock
@@ -1724,6 +1725,7 @@ IHG,IHG|Intercontinental Hotels Group American Depositary Shares (Each represent
 IHIT,IHIT|Invesco High Income 2023 Target Term Fund Common Shares of Beneficial Interest
 IHT,IHT|InnSuites Hospitality Trust Shares of Beneficial Interest
 IHTA,IHTA|Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share
+IIAC.U,IIAC.U|Investindustrial Acquisition Corp. Unit
 IID,IID|Voya International High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IIF,IIF|Morgan Stanley India Investment Fund, Inc. Common Stock
 IIM,IIM|Invesco Value Municipal Income Trust Common Stock
@@ -1995,6 +1997,7 @@ LMT,LMT|Lockheed Martin Corporation Common Stock
 LN,LN|LINE Corporation American Depositary Shares (each representing one share of Common Stock)
 LNC,LNC|Lincoln National Corporation Common Stock
 LND,LND|Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
+LNFA.U,LNFA.U|L&amp;F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 LNG,LNG|Cheniere Energy, Inc. Common Stock
 LNN,LNN|Lindsay Corporation Common Stock
 LOAK,LOAK|Live Oak Acquisition Corp. Common Stock
@@ -2255,7 +2258,9 @@ NAV,NAV|Navistar International Corporation Common Stock
 NAV$D,NAV$D|Navistar International Corporation Preferred Stock
 NAVB,NAVB|Navidea Biopharmaceuticals, Inc. Common Stock
 NAZ,NAZ|Nuveen Arizona Quality Municipal Income Fund Common Stock
+NBA,NBA|New Beginnings Acquisition Corp. Common Stock
 NBA.U,NBA.U|New Beginnings Acquisition Corp. Units, each consisting of one share of common stock, and one redeemable warrant
+NBA.W,NBA.W|New Beginnings Acquisition Corp. Redeemable Warrants, each warrant exercisable for one share of Common Stock at an exercise price of $11.50
 NBB,NBB|Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest
 NBH,NBH|Neuberger Berman Municipal Fund Inc. Common Stock
 NBHC,NBHC|National Bank Holdings Corporation Common Stock
@@ -2879,6 +2884,7 @@ RSG,RSG|Republic Services, Inc. Common Stock
 RTP,RTP|Reinvent Technology Partners Class A Ordinary Shares
 RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 RTP.W,RTP.W|Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+RTPZ.U,RTPZ.U|Reinvent Technology Partners Z Unit
 RTX,RTX|Raytheon Technologies Corporation Common Stock
 RVI,RVI|Retail Value Inc. Common Stock 
 RVLV,RVLV|Revolve Group, Inc. Class A Common Stock
@@ -3597,7 +3603,7 @@ XRX,XRX|Xerox Holdings Corporation Common Stock
 XTNT,XTNT|Xtant Medical Holdings, Inc. Common Stock
 XVZ,XVZ|iPath S&P 500 Dynamic VIX ETN
 XXII,XXII|22nd Century Group, Inc. Common Stock
-XYF,XYF|X Financial American Depositary Shares, each representing two Class A Ordinary Shares
+XYF,XYF|X Financial American Depositary Shares, each representing six Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
 YAC,YAC|Yucaipa Acquisition Corporation Class A Ordinary Shares
@@ -3612,6 +3618,7 @@ YEXT,YEXT|Yext, Inc. Common Stock
 YGRN,YGRN|MicroSectors U.S. Big Oil Index Inverse ETN
 YPF,YPF|YPF Sociedad Anonima Common Stock
 YRD,YRD|Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares
+YSG,YSG|Yatsen Holding Limited American Depositary Shares, each representing four Class A ordinary shares
 YUM,YUM|Yum! Brands, Inc.
 YUMC,YUMC|Yum China Holdings, Inc. Common Stock
 ZBH,ZBH|Zimmer Biomet Holdings, Inc. Common Stock
@@ -4487,7 +4494,9 @@ DADA,DADA|Dada Nexus Limited - American Depositary Shares
 DAIO,DAIO|Data I/O Corporation - Common Stock
 DAKT,DAKT|Daktronics, Inc. - Common Stock
 DARE,DARE|Dare Bioscience, Inc. - Common Stock
+DBDR,DBDR|Roman DBDR Tech Acquisition Corp. - Class A Common Stock
 DBDRU,DBDRU|Roman DBDR Tech Acquisition Corp. - Unit
+DBDRW,DBDRW|Roman DBDR Tech Acquisition Corp. - Warrant
 DBVT,DBVT|DBV Technologies S.A. - American Depositary Shares
 DBX,DBX|Dropbox, Inc. - Class A Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
@@ -4715,7 +4724,9 @@ FBMS,FBMS|The First Bancshares, Inc. - Common Stock
 FBNC,FBNC|First Bancorp - Common Stock
 FBRX,FBRX|Forte Biosciences, Inc.  - Common Stock
 FBSS,FBSS|Fauquier Bankshares, Inc. - Common Stock
+FCAC,FCAC|Falcon Capital Acquisition Corp. - Class A Common Stock
 FCACU,FCACU|Falcon Capital Acquisition Corp. - Unit
+FCACW,FCACW|Falcon Capital Acquisition Corp. - Warrant
 FCAP,FCAP|First Capital, Inc. - Common Stock
 FCBC,FCBC|First Community Bankshares, Inc. - Common Stock
 FCBP,FCBP|First Choice Bancorp - Common Stock
@@ -5307,6 +5318,7 @@ JSM,JSM|Navient Corporation - 6% Senior Notes due December 15, 2043
 JUPW,JUPW|Jupiter Wellness, Inc. - Common Stock
 JUPWW,JUPWW|Jupiter Wellness, Inc. - Warrant
 JVA,JVA|Coffee Holding Co., Inc. - Common Stock
+JYAC,JYAC|Jiya Acquisition Corp. - Class A Common Stock
 JYNT,JYNT|The Joint Corp. - Common Stock
 KALA,KALA|Kala Pharmaceuticals, Inc. - Common Stock
 KALU,KALU|Kaiser Aluminum Corporation - Common Stock
@@ -5479,7 +5491,7 @@ LPRO,LPRO|Open Lending Corporation - Class A Common Stock
 LPSN,LPSN|LivePerson, Inc. - Common Stock
 LPTH,LPTH|LightPath Technologies, Inc. - Class A Common Stock
 LPTX,LPTX|Leap Therapeutics, Inc. - Common Stock
-LQDA,LQDA|Liquidia Technologies, Inc. - Common Stock
+LQDA,LQDA|Liquidia Corporation - Common Stock
 LQDT,LQDT|Liquidity Services, Inc. - Common Stock
 LRCX,LRCX|Lam Research Corporation - Common Stock
 LRMR,LRMR|Larimar Therapeutics, Inc. - Common Stock
@@ -5746,6 +5758,7 @@ NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
 NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A
 NGHCZ,NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055
 NGM,NGM|NGM Biopharmaceuticals, Inc. - Common Stock
+NGMS,NGMS|NeoGames S.A. - Ordinary Shares
 NH,NH|NantHealth, Inc. - Common Stock
 NHIC,NHIC|NewHold Investment Corp. - Class A Common Stock
 NHICU,NHICU|NewHold Investment Corp. - Unit
@@ -5877,6 +5890,7 @@ OKTA,OKTA|Okta, Inc. - Class A Common Stock
 OLB,OLB|The OLB Group, Inc. - Common Stock
 OLED,OLED|Universal Display Corporation - Common Stock
 OLLI,OLLI|Ollie's Bargain Outlet Holdings, Inc. - Common Stock
+OLMA,OLMA|Olema Pharmaceuticals, Inc. - Common Stock
 OM,OM|Outset Medical, Inc. - Common Stock
 OMAB,OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares
 OMCL,OMCL|Omnicell, Inc. - Common Stock
@@ -6289,7 +6303,6 @@ RRGB,RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock
 RRR,RRR|Red Rock Resorts, Inc. - Class A Common Stock
 RSSS,RSSS|Research Solutions, Inc - Common Stock
 RTLR,RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests
-RTRX,RTRX|Retrophin, Inc. - Common Stock
 RUBY,RUBY|Rubius Therapeutics, Inc. - Common Stock
 RUHN,RUHN|Ruhnn Holding Limited - American Depositary Shares
 RUN,RUN|Sunrun Inc. - Common Stock
@@ -6667,6 +6680,7 @@ TLMD,TLMD|SOC Telemed, Inc. - Class A Common Stock
 TLMDW,TLMDW|SOC Telemed, Inc. - Warrants
 TLND,TLND|Talend S.A. - American Depositary Shares
 TLRY,TLRY|Tilray, Inc. - Class 2 Common Stock
+TLS,TLS|Telos Corporation - Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
 TMDI,TMDI|Titan Medical Inc. - Ordinary Shares
 TMDX,TMDX|TransMedics Group, Inc. - Common Stock
@@ -6732,6 +6746,7 @@ TTOO,TTOO|T2 Biosystems, Inc. - Common Stock
 TTWO,TTWO|Take-Two Interactive Software, Inc. - Common Stock
 TURN,TURN|180 Degree Capital Corp. - Common Stock
 TUSK,TUSK|Mammoth Energy Services, Inc. - Common Stock
+TVTX,TVTX|Travere Therapeutics, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
 TWCT,TWCT|TWC Tech Holdings II Corp. - Class A Common Stock
@@ -6790,6 +6805,7 @@ URGN,URGN|UroGen Pharma Ltd. - Ordinary Shares
 UROV,UROV|Urovant Sciences Ltd. - Common Stock
 USAK,USAK|USA Truck, Inc. - Common Stock
 USAP,USAP|Universal Stainless & Alloy Products, Inc. - Common Stock
+USAT,USAT|USA Technologies, Inc. - Common Stock
 USAU,USAU|U.S. Gold Corp. - Common Stock
 USCR,USCR|U S Concrete, Inc. - Common Stock
 USEG,USEG|U.S. Energy Corp. - Common Stock
@@ -6985,7 +7001,6 @@ YGMZ,YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares
 YGYI,YGYI|Youngevity International, Inc. - Common Stock
 YGYIP,YGYIP|Youngevity International, Inc. - 9.75% Series D Cumulative Redeemable Perpetual Preferred Stock
 YI,YI|111, Inc. - American Depositary Shares
-YIN,YIN|Yintech Investment Holdings Limited - American Depositary Shares
 YJ,YJ|Yunji Inc. - American Depository Shares
 YMAB,YMAB|Y-mAbs Therapeutics, Inc. - Common Stock
 YNDX,YNDX|Yandex N.V. - Class A Ordinary Shares
