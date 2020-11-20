@@ -743,6 +743,7 @@ CAPE|iPath Shiller CAPE ETN|P|CAPE|N|100|N|CAPE
 CAPL|CrossAmerica Partners LP Common Units representing limited partner interests|N|CAPL|N|100|N|CAPL
 CARR|Carrier Global Corporation Common Stock |N|CARR|N|100|N|CARR
 CARS|Cars.com Inc. Common Stock |N|CARS|N|100|N|CARS
+CAS.U|Cascade Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Redeemable Warrant|N|CAS.U|N|100|N|CAS=
 CAT|Caterpillar, Inc. Common Stock|N|CAT|N|100|N|CAT
 CATO|Cato Corporation (The) Class A Common Stock|N|CATO|N|100|N|CATO
 CB|Chubb Limited  Common Stock|N|CB|N|100|N|CB
@@ -895,7 +896,9 @@ CLF|Cleveland-Cliffs Inc. Common Stock|N|CLF|N|100|N|CLF
 CLGX|CoreLogic, Inc. Common Stock|N|CLGX|N|100|N|CLGX
 CLH|Clean Harbors, Inc. Common Stock|N|CLH|N|100|N|CLH
 CLI|Mack-Cali Realty Corporation Common Stock|N|CLI|N|100|N|CLI
+CLII|Climate Change Crisis Real Impact I Acquisition Corporation Class A Common Stock|N|CLII|N|100|N|CLII
 CLII.U|Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|CLII.U|N|100|N|CLII=
+CLII.W|Climate Change Crisis Real Impact I Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CLII.WS|N|100|N|CLII+
 CLIX|ProShares Long Online/Short Stores ETF|P|CLIX|Y|100|N|CLIX
 CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock|A|CLM|N|100|N|CLM
 CLNC|Colony Credit Real Estate, Inc. Class A Common Stock|N|CLNC|N|100|N|CLNC
@@ -1764,7 +1767,9 @@ FFTI|FormulaFolios Tactical Income ETF|Z|FFTI|Y|100|N|FFTI
 FFTY|Innovator IBD 50 ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
+FGNA|FG New America Acquisition Corp. Class A Common Stock|N|FGNA|N|100|N|FGNA
 FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
+FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FGNA.WS|N|100|N|FGNA+
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
 FHN|First Horizon National Corporation Common Stock|N|FHN|N|100|N|FHN
@@ -1955,7 +1960,7 @@ FTK|Flotek Industries, Inc. Common Stock|N|FTK|N|100|N|FTK
 FTLS|First Trust Long/Short Equity|P|FTLS|Y|100|N|FTLS
 FTS|Fortis Inc. Common Shares|N|FTS|N|100|N|FTS
 FTSD|Franklin Liberty Short Duration U.S. Government ETF|P|FTSD|Y|100|N|FTSD
-FTSI|FTS International, Inc. Common Stock|A|FTSI|N|100|N|FTSI
+FTSI|FTS International, Inc. Class A Common Stock|A|FTSI|N|100|N|FTSI
 FTV|Fortive Corporation Common Stock |N|FTV|N|100|N|FTV
 FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A|N|FTVpA|N|100|N|FTV-A
 FUBO|fuboTV Inc. Common Stock|N|FUBO|N|100|N|FUBO
@@ -2951,6 +2956,7 @@ KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred St
 KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)|N|KTN|N|100|N|KTN
 KURE|KraneShares MSCI All China Health Care Index ETF|P|KURE|Y|100|N|KURE
 KW|Kennedy-Wilson Holdings Inc. Common Stock|N|KW|N|100|N|KW
+KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant|N|KWAC.U|N|100|N|KWAC=
 KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
 KWR|Quaker Chemical Corporation Common Stock|N|KWR|N|100|N|KWR
 KWT|iShares Trust iShares MSCI Kuwait ETF|Z|KWT|Y|100|N|KWT
@@ -3112,7 +3118,6 @@ MCR|MFS Charter Income Trust Common Stock|N|MCR|N|100|N|MCR
 MCRO|IQ Hedge Macro Tracker ETF|P|MCRO|Y|100|N|MCRO
 MCS|Marcus Corporation (The) Common Stock|N|MCS|N|100|N|MCS
 MCV|Medley Capital Corporation 6.125% Senior Notes due 2023|N|MCV|N|100|N|MCV
-MCX|Medley Capital Corporation 6.50% Notes due 2021|N|MCX|N|100|N|MCX
 MCY|Mercury General Corporation Common Stock|N|MCY|N|100|N|MCY
 MD|Mednax, Inc. Common Stock|N|MD|N|100|N|MD
 MDC|M.D.C. Holdings, Inc. Common Stock|N|MDC|N|100|N|MDC
@@ -3614,6 +3619,7 @@ OAK$B|Oaktree Capital Group, LLC 6.550% Series B Preferred Units|N|OAKpB|N|100|N
 OBLG|Oblong Inc. Common Stock|A|OBLG|N|100|N|OBLG
 OBOR|KraneShares MSCI One Belt One Road Index ETF|P|OBOR|Y|100|N|OBOR
 OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
+OCA.U|Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|OCA.U|N|100|N|OCA=
 OCFT|OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing three ordinary shares|N|OCFT|N|100|N|OCFT
 OCIO|ETF Series Solutions Trust ETF|P|OCIO|Y|100|N|OCIO
 OCN|Ocwen Financial Corporation NEW Common Stock|N|OCN|N|100|N|OCN
@@ -5258,7 +5264,9 @@ VWO|Vanguard FTSE Emerging Markets ETF|P|VWO|Y|100|N|VWO
 VXF|Vanguard Extended Market ETF|P|VXF|Y|100|N|VXF
 VXX|iPath Series B S&P 500 VIX Short-Term Futures ETN|Z|VXX|N|100|N|VXX
 VXZ|iPath Series B S&P 500 VIX Mid-Term Futures ETN|Z|VXZ|N|100|N|VXZ
+VYGG|Vy Global Growth Class A Ordinary Shares|N|VYGG|N|100|N|VYGG
 VYGG.U|Vy Global Growth Units, each consisting of one Class A Ordinary Share, and one fifth of one Warrant to acquire one Class A Ordinary Share|N|VYGG.U|N|100|N|VYGG=
+VYGG.W|Vy Global Growth Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50|N|VYGG.WS|N|100|N|VYGG+
 VYM|Vanguard High Dividend Yield ETF|P|VYM|Y|100|N|VYM
 VZ|Verizon Communications Inc. Common Stock|N|VZ|N|100|N|VZ
 W|Wayfair Inc. Class A Common Stock|N|W|N|100|N|W
@@ -5501,4 +5509,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1119202015:41||||||
+File Creation Time: 1120202015:42||||||
