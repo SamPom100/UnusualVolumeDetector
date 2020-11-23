@@ -209,7 +209,9 @@ APO,APO|Apollo Global Management, Inc. Class A Common Stock
 APO$A,APO$A|Apollo Global Management, Inc. 6.375% Series A Preferred Shares
 APO$B,APO$B|Apollo Global Management, Inc 6.375% Series B Preferred Shares
 APRN,APRN|Blue Apron Holdings, Inc. Class A Common Stock
+APSG,APSG|Apollo Strategic Growth Capital Class A Ordinary Shares
 APSG.U,APSG.U|Apollo Strategic Growth Capital Units, each consisting of one Class A Ordinary Share and one-third Warrant
+APSG.W,APSG.W|Apollo Strategic Growth Capital Warrants, each exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share
 APT,APT|Alpha Pro Tech, Ltd. Common Stock
 APTS,APTS|Preferred Apartment Communities, Inc. Common Stock
 APTV,APTV|Aptiv PLC Ordinary Shares
@@ -297,7 +299,9 @@ AUMN,AUMN|Golden Minerals Company Common Stock
 AUY,AUY|Yamana Gold Inc. Ordinary Shares (Canada)
 AVA,AVA|Avista Corporation Common Stock
 AVAL,AVAL|Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
+AVAN,AVAN|Avanti Acquisition Corp. Class A Ordinary Shares
 AVAN.U,AVAN.U|Avanti Acquisition Corp. Units, each consisting of one Class A ordinary share, and redeemable warrant
+AVAN.W,AVAN.W|Avanti Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 AVB,AVB|AvalonBay Communities, Inc. Common Stock
 AVD,AVD|American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVK,AVK|Advent Convertible and Income Fund
@@ -1426,7 +1430,6 @@ GFF,GFF|Griffon Corporation Common Stock
 GFI,GFI|Gold Fields Limited American Depositary Shares
 GFL,GFL|GFL Environmental Inc. Subordinate voting shares, no par value
 GFLU,GFLU|GFL Environmental Inc. Tangible Equity Units
-GFY,GFY|Western Asset Variable Rate Strategic Fund Inc. Common Stock
 GGB,GGB|Gerdau S.A. Common Stock
 GGG,GGG|Graco Inc. Common Stock
 GGM,GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest
@@ -1708,6 +1711,7 @@ IBP,IBP|Installed Building Products, Inc. Common Stock
 ICD,ICD|Independence Contract Drilling, Inc. Common Stock
 ICE,ICE|Intercontinental Exchange Inc. Common Stock
 ICL,ICL|ICL Group Ltd. Ordinary Shares
+ID,ID|PARTS iD, Inc. Class A Common Stock
 IDA,IDA|IDACORP, Inc. Common Stock
 IDE,IDE|Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest
 IDT,IDT|IDT Corporation Class B Common Stock
@@ -1740,7 +1744,9 @@ IMAX,IMAX|Imax Corporation Common Stock
 IMH,IMH|Impac Mortgage Holdings, Inc. Common Stock 
 IMLP,IMLP|iPath S&P MLP ETN
 IMO,IMO|Imperial Oil Limited Common Stock
+IMPX,IMPX|AEA-Bridges Impact Corp. Class A Ordinary Shares
 IMPX.U,IMPX.U|AEA-Bridges Impact Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
+IMPX.W,IMPX.W|AEA-Bridges Impact Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 INDO,INDO|Indonesia Energy Corporation Limited Ordinary Shares
 INFO,INFO|IHS Markit Ltd. Common Shares
 INFU,INFU|InfuSystems Holdings, Inc. Common Stock
@@ -1979,9 +1985,6 @@ LEO,LEO|BNY Mellon Strategic Municipals, Inc. Common Stock
 LEU,LEU|Centrus Energy Corp. Class A Common Stock
 LEVI,LEVI|Levi Strauss & Co Class A Common Stock
 LFC,LFC|China Life Insurance Company Limited American Depositary Shares
-LGC,LGC|Legacy Acquisition Corp. Class A Common Stock, par value $0.0001 per share
-LGC.U,LGC.U|Legacy Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one Warrant to purchase one-half of one share of Class A Common Stock
-LGC.W,LGC.W|Legacy Acquisition Corp. Warrants, exercisable for one-half of one share of Class A Common Stock for $5.75 per half share, or $11.50 per whole share
 LGF.A,LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares
 LGF.B,LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares
 LGI,LGI|Lazard Global Total Return and Income Fund Common Stock
@@ -2967,9 +2970,10 @@ SCVX.W,SCVX.W|SCVX Corp. Redeemable warrants, each whole warrant exercisable for
 SCX,SCX|L.S. Starrett Company (The) Common Stock
 SD,SD|SandRidge Energy, Inc. Common Stock
 SDPI,SDPI|Superior Drilling Products, Inc. Common Stock
-SDYL,SDYL|ETRACS Monthly Pay 2xLeveraged S&P Dividend ETN
 SE,SE|Sea Limited American Depositary Shares, each representing one Class A Ordinary Share
+SEAH,SEAH|Sports Entertainment Acquisition Corp. Class A Common Stock
 SEAH.U,SEAH.U|Sports Entertainment Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of one redeemable Warrant
+SEAH.W,SEAH.W|Sports Entertainment Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
 SEAS,SEAS|SeaWorld Entertainment, Inc. Common Stock
 SEB,SEB|Seaboard Corporation Common Stock
 SEE,SEE|Sealed Air Corporation Common Stock
@@ -3243,7 +3247,6 @@ TK,TK|Teekay Corporation Common Stock
 TKAT,TKAT|Takung Art Co., Ltd. Common Stock
 TKC,TKC|Turkcell Iletisim Hizmetleri AS Common Stock
 TKR,TKR|Timken Company (The) Common Stock
-TLI,TLI|Western Asset Corporate Loan Fund Inc Common Stock
 TLK,TLK|PT Telekomunikasi Indonesia, Tbk
 TLYS,TLYS|Tilly's, Inc. Common Stock
 TM,TM|Toyota Motor Corporation Common Stock
@@ -3437,7 +3440,9 @@ VERT.U,VERT.U|Vertiv Holdings, LLC Units, each consisting of one share of Class 
 VET,VET|Vermilion Energy Inc. Common (Canada)
 VFC,VFC|V.F. Corporation Common Stock
 VFL,VFL|Delaware Investments National Municipal Income Fund Common Stock
+VGAC,VGAC|VG Acquisition Corp. Class A Ordinary Shares
 VGAC.U,VGAC.U|VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+VGAC.W,VGAC.W|VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 VGI,VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest
 VGM,VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)
 VGR,VGR|Vector Group Ltd. Common Stock
@@ -3448,7 +3453,7 @@ VIAO,VIAO|VIA optronics AG American Depositary Shares, each representing one-fif
 VICI,VICI|VICI Properties Inc. Common Stock
 VIPS,VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares
 VIST,VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
-VIV,VIV|Telefonica Brasil, S.A. ADS
+VIV.V,VIV.V|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share) When Issued
 VKI,VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
 VKQ,VKQ|Invesco Municipal Trust Common Stock
 VLO,VLO|Valero Energy Corporation Common Stock
@@ -3691,7 +3696,9 @@ ACOR,ACOR|Acorda Therapeutics, Inc. - Common Stock
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc. - Class A Common Stock
+ACTC,ACTC|ArcLight Clean Transition Corp. - Class A Ordinary Shares
 ACTCU,ACTCU|ArcLight Clean Transition Corp. - Unit
+ACTCW,ACTCW|ArcLight Clean Transition Corp. - Warrant
 ACTG,ACTG|Acacia Research Corporation - Common Stock
 ADAP,ADAP|Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE,ADBE|Adobe Inc. - Common Stock
@@ -4043,6 +4050,7 @@ BGNE,BGNE|BeiGene, Ltd. - American Depositary Shares
 BHAT,BHAT|Blue Hat Interactive Entertainment Technology - Ordinary Shares
 BHF,BHF|Brighthouse Financial, Inc. - Common Stock
 BHFAL,BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058
+BHFAN,BHFAN|Brighthouse Financial, Inc. - depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C
 BHFAO,BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B
 BHFAP,BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A
 BHSEU,BHSEU|Bull Horn Holdings Corp. - Unit
@@ -4117,6 +4125,7 @@ BPYPO,BPYPO|Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeem
 BPYPP,BPYPP|Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable Perpetual Preferred Units
 BPYU,BPYU|Brookfield Property REIT Inc. - Class A Common Stock
 BPYUP,BPYUP|Brookfield Property REIT Inc. - 6.375% Series A Preferred Stock
+BREZU,BREZU|Breeze Holdings Acquisition Corp. - Unit
 BRID,BRID|Bridgford Foods Corporation - Common Stock
 BRKL,BRKL|Brookline Bancorp, Inc. - Common Stock
 BRKR,BRKR|Bruker Corporation - Common Stock
@@ -4179,7 +4188,7 @@ CAPAW,CAPAW|HighCape Capital Acquisition Corp. - Warrant
 CAPR,CAPR|Capricor Therapeutics, Inc. - Common Stock
 CAR,CAR|Avis Budget Group, Inc. - Common Stock
 CARA,CARA|Cara Therapeutics, Inc. - Common Stock
-CARE,CARE|Carter Bank & Trust - Common Stock
+CARE,CARE|Carter Bankshares, Inc. - Common Stock
 CARG,CARG|CarGurus, Inc. - Class A Common Stock
 CARV,CARV|Carver Bancorp, Inc. - Common Stock
 CASA,CASA|Casa Systems, Inc. - Common Stock
@@ -4847,6 +4856,7 @@ FSRV,FSRV|FinServ Acquisition Corp. - Class A Common Stock
 FSRVU,FSRVU|FinServ Acquisition Corp. - Unit
 FSRVW,FSRVW|FinServ Acquisition Corp. - Warrant
 FSTR,FSTR|L.B. Foster Company - Common Stock
+FSTX,FSTX|F-star Therapeutics, Inc.  - Common Stock
 FSV,FSV|FirstService Corporation - Common Shares
 FTDR,FTDR|frontdoor, inc. - Common Stock
 FTEK,FTEK|Fuel Tech, Inc. - Common Stock
@@ -5193,7 +5203,9 @@ IEP,IEP|Icahn Enterprises L.P. - Depositary units
 IESC,IESC|IES Holdings, Inc. - Common Stock
 IFMK,IFMK|iFresh Inc. - Common Stock
 IFRX,IFRX|InflaRx N.V. - Common Stock
+IGAC,IGAC|IG Acquisition Corp. - Class A Common Stock
 IGACU,IGACU|IG Acquisition Corp. - Unit
+IGACW,IGACW|IG Acquisition Corp. - Warrant
 IGIC,IGIC|International General Insurance Holdings Ltd. - Ordinary Shares
 IGICW,IGICW|International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025
 IGMS,IGMS|IGM Biosciences, Inc. - Common Stock
@@ -5823,7 +5835,7 @@ NSYS,NSYS|Nortech Systems Incorporated - Common Stock
 NTAP,NTAP|NetApp, Inc. - Common Stock
 NTCT,NTCT|NetScout Systems, Inc. - Common Stock
 NTEC,NTEC|Intec Pharma Ltd. - Ordinary Shares
-NTES,NTES|NetEase, Inc. - American Depositary Shares, each representing 25 ordinary shares
+NTES,NTES|NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares
 NTGR,NTGR|NETGEAR, Inc. - Common Stock
 NTIC,NTIC|Northern Technologies International Corporation - Common Stock
 NTLA,NTLA|Intellia Therapeutics, Inc. - Common Stock
@@ -6185,7 +6197,9 @@ QADB,QADB|QAD Inc. - Class B Common Stock
 QCOM,QCOM|QUALCOMM Incorporated - Common Stock
 QCRH,QCRH|QCR Holdings, Inc. - Common Stock
 QDEL,QDEL|Quidel Corporation - Common Stock
+QELL,QELL|Qell Acquisition Corp. - Class A Ordinary Shares
 QELLU,QELLU|Qell Acquisition Corp. - Unit
+QELLW,QELLW|Qell Acquisition Corp. - Warrant
 QFIN,QFIN|360 DigiTech, Inc. - American Depositary Shares
 QH,QH|Quhuo Limited - American Depository Shares
 QIWI,QIWI|QIWI plc - American Depositary Shares
@@ -6359,7 +6373,6 @@ SBGI,SBGI|Sinclair Broadcast Group, Inc. - Class A Common Stock
 SBLK,SBLK|Star Bulk Carriers Corp. - Common Shares
 SBLKZ,SBLKZ|Star Bulk Carriers Corp. - 8.30% Senior Notes due 2022
 SBNY,SBNY|Signature Bank - Common Stock
-SBPH,SBPH|Spring Bank Pharmaceuticals, Inc. - Common Stock
 SBRA,SBRA|Sabra Health Care REIT, Inc. - Common Stock
 SBSI,SBSI|Southside Bancshares, Inc. - Common Stock
 SBT,SBT|Sterling Bancorp, Inc. - Common Stock
