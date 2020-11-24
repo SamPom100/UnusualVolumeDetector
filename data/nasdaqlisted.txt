@@ -1336,7 +1336,6 @@ FOCS|Focus Financial Partners Inc. - Common Stock|Q|N|N|100|N|N
 FOLD|Amicus Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 FONR|Fonar Corporation - Common Stock|S|N|N|100|N|N
 FORD|Forward Industries, Inc. - Common Stock|S|N|N|100|N|N
-FORK|Fuling Global Inc. - Ordinary Shares|S|N|N|100|N|N
 FORM|FormFactor, Inc. - Common Stock|Q|N|N|100|N|N
 FORR|Forrester Research, Inc. - Common Stock|Q|N|N|100|N|N
 FORTY|Formula Systems (1985) Ltd. - American Depositary Shares|Q|N|N|100|N|N
@@ -1636,6 +1635,7 @@ HERD|Pacer Cash Cows Fund of Funds ETF|G|N|N|100|Y|N
 HERO|Global X Video Games & Esports ETF|G|N|N|100|Y|N
 HEWG|iShares Currency Hedged MSCI Germany ETF|G|N|N|100|Y|N
 HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock|S|N|N|100|N|N
+HFEN|HF Enterprises Inc. - Common Stock|S|N|N|100|N|N
 HFFG|HF Foods Group Inc. - Common Stock|S|N|N|100|N|N
 HFWA|Heritage Financial Corporation - Common Stock|Q|N|N|100|N|N
 HGBL|Heritage Global Inc. - Common Stock|S|N|N|100|N|N
@@ -2000,7 +2000,6 @@ KSPN|Kaspien Holdings Inc. - Common Stock|S|N|D|100|N|N
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100|N|N
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 KTOV|Kitov Pharma Ltd. - American Depositary Shares|S|N|N|100|N|N
-KTOVW|Kitov Pharma Ltd. - Warrants|S|N|N|100|N|N
 KTRA|Kintara Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2613,6 +2612,7 @@ OXSQL|Oxford Square Capital Corp. - 6.50% Notes due 2024|Q|N|N|100|N|N
 OXSQZ|Oxford Square Capital Corp. - 6.25% Notes due 2026|Q|N|N|100|N|N
 OYST|Oyster Point Pharma, Inc. - common stock|Q|N|N|100|N|N
 OZK|Bank OZK - Common Stock|Q|N|N|100|N|N
+OZON|Ozon Holdings PLC - ADS, each ADS representing one ordinary share|Q|N|N|100|N|N
 PAAS|Pan American Silver Corp. - Common Stock|Q|N|N|100|N|N
 PACB|Pacific Biosciences of California, Inc. - Common Stock|Q|N|N|100|N|N
 PACW|PacWest Bancorp - Common Stock|Q|N|N|100|N|N
@@ -3313,6 +3313,7 @@ SVBI|Severn Bancorp Inc - Common Stock|S|N|N|100|N|N
 SVC|Service Properties Trust - Shares of Beneficial Interest|Q|N|N|100|N|N
 SVMK|SVMK Inc. - Common Stock|Q|N|N|100|N|N
 SVRA|Savara, Inc. - Common Stock|Q|N|N|100|N|N
+SVSVU|Spring Valley Acquisition Corp. - Unit|S|N|N|100|N|N
 SVVC|Firsthand Technology Value Fund, Inc. - Common Stock|Q|N|N|100|N|N
 SWAV|ShockWave Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SWBI|Smith & Wesson Brands, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3583,6 +3584,7 @@ VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCNX|Vaccinex, Inc. - Common Stock|S|N|N|100|N|N
 VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCTR|Victory Capital Holdings, Inc. - Common Stock|Q|N|N|100|N|N
+VCVCU|10X Capital Venture Acquisition Corp - Unit|S|N|N|100|N|N
 VCYT|Veracyte, Inc. - Common Stock|G|N|N|100|N|N
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
@@ -3628,6 +3630,7 @@ VLYPP|Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-Cumula
 VMAC|Vistas Media Acquisition Company Inc. - Class A Common Stock|S|N|N|100|N|N
 VMACU|Vistas Media Acquisition Company Inc. - Unit|S|N|N|100|N|N
 VMACW|Vistas Media Acquisition Company Inc. - Warrant|S|N|N|100|N|N
+VMAR|Vision Marine Technologies Inc. - Common Shares|S|N|N|100|N|N
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100|Y|N
 VMD|Viemed Healthcare, Inc. - Common Shares|S|N|N|100|N|N
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100|N|N
@@ -3835,4 +3838,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1123202015:41|||||||
+File Creation Time: 1124202012:11|||||||

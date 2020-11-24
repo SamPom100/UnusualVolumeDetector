@@ -217,7 +217,6 @@ AMRX|Amneal Pharmaceuticals, Inc. Class A Common Stock|N|AMRX|N|100|N|AMRX
 AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
 AMT|American Tower Corporation (REIT) Common Stock|N|AMT|N|100|N|AMT
 AMTR|ETRACS Alerian Midstream Energy Total Return Index ETN|P|AMTR|N|100|N|AMTR
-AMU|ETRACS Alerian MLP Index ETN|P|AMU|N|100|N|AMU
 AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042|P|AMUB|N|100|N|AMUB
 AMWL|American Well Corporation Class A Common Stock|N|AMWL|N|100|N|AMWL
 AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L|N|AMX|N|100|N|AMX
@@ -2050,7 +2049,9 @@ GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.
 GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares|N|GDVpH|N|100|N|GDV-H
 GDVD|Principal Active Global Dividend Income ETF|Z|GDVD|Y|100|N|GDVD
 GDX|VanEck Vectors Gold Miners ETF|P|GDX|Y|100|N|GDX
+GDXD|MicroSectors Gold Miners -3X Inverse Leveraged ETNs|P|GDXD|Y|100|N|GDXD
 GDXJ|VanEck Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
+GDXU|MicroSectors Gold Miners 3X Leveraged ETN|P|GDXU|Y|100|N|GDXU
 GE|General Electric Company Common Stock|N|GE|N|100|N|GE
 GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
 GEF.B|Greif, Inc. Corporation Class B Common Stock|N|GEF.B|N|100|N|GEF.B
@@ -2153,6 +2154,7 @@ GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)|N|GN
 GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNL$A|Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share|N|GNLpA|N|100|N|GNL-A
 GNL$B|Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock|N|GNLpB|N|100|N|GNL-B
+GNPK.U|Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|GNPK.U|N|100|N|GNPK=
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -2893,6 +2895,7 @@ KEY$K|KeyCorp Depositary Shares, each representing a 1/40th ownership interest i
 KEYS|Keysight Technologies Inc. Common Stock|N|KEYS|N|100|N|KEYS
 KF|Korea Fund, Inc. (The) New Common Stock|N|KF|N|100|N|KF
 KFS|Kingsway Financial Services, Inc. Common Stock (DE)|N|KFS|N|100|N|KFS
+KFVG|KraneShares Trust KraneShares CICC China 5G and Semiconductor Index ETF|P|KFVG|Y|100|N|KFVG
 KFY|Korn Ferry Common Stock|N|KFY|N|100|N|KFY
 KFYP|KraneShares CICC China Leaders 100 Index ETF|P|KFYP|Y|100|N|KFYP
 KGC|Kinross Gold Corporation Common Stock|N|KGC|N|100|N|KGC
@@ -2961,6 +2964,7 @@ KTF|DWS Municipal Income Trust|N|KTF|N|100|N|KTF
 KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock|N|KTH|N|100|N|KTH
 KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)|N|KTN|N|100|N|KTN
 KURE|KraneShares MSCI All China Health Care Index ETF|P|KURE|Y|100|N|KURE
+KVLE|KraneShares Trust KFA Value Line Dynamic Core Equity Index ETF|P|KVLE|Y|100|N|KVLE
 KW|Kennedy-Wilson Holdings Inc. Common Stock|N|KW|N|100|N|KW
 KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant|N|KWAC.U|N|100|N|KWAC=
 KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
@@ -3216,8 +3220,6 @@ MLN|VanEck Vectors ETF Trust VanEck Vectors Long Muni ETF|Z|MLN|Y|100|N|MLN
 MLP|Maui Land & Pineapple Company, Inc. Common Stock|N|MLP|N|100|N|MLP
 MLPA|Global X MLP ETF|P|MLPA|Y|100|N|MLPA
 MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040|P|MLPB|N|100|N|MLPB
-MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Natural Gas MLP Index due July 9, 2040|P|MLPG|N|100|N|MLPG
-MLPI|UBS AG ETN|P|MLPI|N|100|N|MLPI
 MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index|P|MLPO|N|100|N|MLPO
 MLPR|ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN|P|MLPR|Y|100|N|MLPR
 MLPX|Global X MLP & Energy Infrastructure ETF|P|MLPX|Y|100|N|MLPX
@@ -4839,6 +4841,7 @@ THY|Agility Shares Dynamic Tactical Income ETF|Z|THY|Y|100|N|THY
 TIF|Tiffany & Co. Common Stock|N|TIF|N|100|N|TIF
 TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|Z|TILT|Y|100|N|TILT
 TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) |N|TIMB|N|100|N|TIMB
+TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant|N|TINV.U|N|100|N|TINV=
 TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPX|SPDR Bloomberg Barclays 1-10 Year TIPS|P|TIPX|Y|100|N|TIPX
 TIPZ|PIMCO Broad U.S. TIPS Index Exchange-Traded Fund|P|TIPZ|Y|100|N|TIPZ
@@ -5514,4 +5517,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1123202015:41||||||
+File Creation Time: 1124202012:11||||||

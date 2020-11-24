@@ -179,7 +179,6 @@ AMRX,AMRX|Amneal Pharmaceuticals, Inc. Class A Common Stock
 AMS,AMS|American Shared Hospital Services Common Stock
 AMT,AMT|American Tower Corporation (REIT) Common Stock
 AMTR,AMTR|ETRACS Alerian Midstream Energy Total Return Index ETN
-AMU,AMU|ETRACS Alerian MLP Index ETN
 AMUB,AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042
 AMWL,AMWL|American Well Corporation Class A Common Stock
 AMX,AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L
@@ -1503,6 +1502,7 @@ GNK,GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)
 GNL,GNL|Global Net Lease, Inc. Common Stock
 GNL$A,GNL$A|Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share
 GNL$B,GNL$B|Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock
+GNPK.U,GNPK.U|Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 GNRC,GNRC|Generac Holdlings Inc. Common Stock
 GNT,GNT|GAMCO Natural Resources, Gold & Income Trust
 GNT$A,GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
@@ -2142,8 +2142,6 @@ MLI,MLI|Mueller Industries, Inc. Common Stock
 MLM,MLM|Martin Marietta Materials, Inc. Common Stock
 MLP,MLP|Maui Land & Pineapple Company, Inc. Common Stock
 MLPB,MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040
-MLPG,MLPG|UBS AG Exchange Traded Access Securities (E-TRACS) Linked to the Alerian Natural Gas MLP Index due July 9, 2040
-MLPI,MLPI|UBS AG ETN
 MLPO,MLPO|Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S&P MLP Index
 MLPY,MLPY|Morgan Stanley Cushing MLP High Income Index ETN
 MLR,MLR|Miller Industries, Inc. Common Stock
@@ -3241,6 +3239,7 @@ THS,THS|Treehouse Foods, Inc. Common Stock
 THW,THW|Tekla World Healthcare Fund Shares of Beneficial Interest
 TIF,TIF|Tiffany & Co. Common Stock
 TIMB,TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
+TINV.U,TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant
 TISI,TISI|Team, Inc. Common Stock
 TJX,TJX|TJX Companies, Inc. (The) Common Stock
 TK,TK|Teekay Corporation Common Stock
@@ -4819,7 +4818,6 @@ FOCS,FOCS|Focus Financial Partners Inc. - Common Stock
 FOLD,FOLD|Amicus Therapeutics, Inc. - Common Stock
 FONR,FONR|Fonar Corporation - Common Stock
 FORD,FORD|Forward Industries, Inc. - Common Stock
-FORK,FORK|Fuling Global Inc. - Ordinary Shares
 FORM,FORM|FormFactor, Inc. - Common Stock
 FORR,FORR|Forrester Research, Inc. - Common Stock
 FORTY,FORTY|Formula Systems (1985) Ltd. - American Depositary Shares
@@ -5084,6 +5082,7 @@ HEES,HEES|H&E Equipment Services, Inc. - Common Stock
 HELE,HELE|Helen of Troy Limited - Common Stock
 HEPA,HEPA|Hepion Pharmaceuticals, Inc. - Common Stock
 HFBL,HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock
+HFEN,HFEN|HF Enterprises Inc. - Common Stock
 HFFG,HFFG|HF Foods Group Inc. - Common Stock
 HFWA,HFWA|Heritage Financial Corporation - Common Stock
 HGBL,HGBL|Heritage Global Inc. - Common Stock
@@ -5396,7 +5395,6 @@ KSPN,KSPN|Kaspien Holdings Inc. - Common Stock
 KTCC,KTCC|Key Tronic Corporation - Common Stock
 KTOS,KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock
 KTOV,KTOV|Kitov Pharma Ltd. - American Depositary Shares
-KTOVW,KTOVW|Kitov Pharma Ltd. - Warrants
 KTRA,KTRA|Kintara Therapeutics, Inc. - Common Stock
 KURA,KURA|Kura Oncology, Inc. - Common Stock
 KVHI,KVHI|KVH Industries, Inc. - Common Stock
@@ -5993,6 +5991,7 @@ OXSQL,OXSQL|Oxford Square Capital Corp. - 6.50% Notes due 2024
 OXSQZ,OXSQZ|Oxford Square Capital Corp. - 6.25% Notes due 2026
 OYST,OYST|Oyster Point Pharma, Inc. - common stock
 OZK,OZK|Bank OZK - Common Stock
+OZON,OZON|Ozon Holdings PLC - ADS, each ADS representing one ordinary share
 PAAS,PAAS|Pan American Silver Corp. - Common Stock
 PACB,PACB|Pacific Biosciences of California, Inc. - Common Stock
 PACW,PACW|PacWest Bancorp - Common Stock
@@ -6603,6 +6602,7 @@ SVBI,SVBI|Severn Bancorp Inc - Common Stock
 SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVMK,SVMK|SVMK Inc. - Common Stock
 SVRA,SVRA|Savara, Inc. - Common Stock
+SVSVU,SVSVU|Spring Valley Acquisition Corp. - Unit
 SVVC,SVVC|Firsthand Technology Value Fund, Inc. - Common Stock
 SWAV,SWAV|ShockWave Medical, Inc. - Common Stock
 SWBI,SWBI|Smith & Wesson Brands, Inc. - Common Stock
@@ -6859,6 +6859,7 @@ VC,VC|Visteon Corporation - Common Stock
 VCEL,VCEL|Vericel Corporation - Common Stock
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
+VCVCU,VCVCU|10X Capital Venture Acquisition Corp - Unit
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
 VEON,VEON|VEON Ltd. - American Depositary Shares
@@ -6899,6 +6900,7 @@ VLYPP,VLYPP|Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-
 VMAC,VMAC|Vistas Media Acquisition Company Inc. - Class A Common Stock
 VMACU,VMACU|Vistas Media Acquisition Company Inc. - Unit
 VMACW,VMACW|Vistas Media Acquisition Company Inc. - Warrant
+VMAR,VMAR|Vision Marine Technologies Inc. - Common Shares
 VMD,VMD|Viemed Healthcare, Inc. - Common Shares
 VNDA,VNDA|Vanda Pharmaceuticals Inc. - Common Stock
 VNET,VNET|21Vianet Group, Inc. - American Depositary Shares
