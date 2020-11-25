@@ -9,6 +9,7 @@ AAIC$B|Arlington Asset Investment Corp 7.00% |N|AAICpB|N|100|N|AAIC-B
 AAIC$C|Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   |N|AAICpC|N|100|N|AAIC-C
 AAMC|Altisource Asset Management Corp Com|A|AAMC|N|100|N|AAMC
 AAN|Aarons Holdings Company, Inc. Common Stock|N|AAN|N|100|N|AAN
+AAN.V|Aarons Holdings Company, Inc. Common Stock When Issued|N|AANw|N|100|N|AAN#
 AAP|Advance Auto Parts Inc Advance Auto Parts Inc W/I|N|AAP|N|100|N|AAP
 AAT|American Assets Trust, Inc. Common Stock|N|AAT|N|100|N|AAT
 AAU|Almaden Minerals, Ltd. Common Shares|A|AAU|N|100|N|AAU
@@ -146,6 +147,7 @@ AIT|Applied Industrial Technologies, Inc. Common Stock|N|AIT|N|100|N|AIT
 AIV|Apartment Investment and Management Company Common Stock|N|AIV|N|100|N|AIV
 AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
+AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061|N|AIZN|N|100|N|AIZN
 AIZP|Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value|N|AIZP|N|100|N|AIZP
 AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|AJAX.U|N|100|N|AJAX=
 AJG|Arthur J. Gallagher & Co. Common Stock|N|AJG|N|100|N|AJG
@@ -823,6 +825,7 @@ CFG|Citizens Financial Group, Inc. Common Stock|N|CFG|N|100|N|CFG
 CFG$D|Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of 6.350% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D|N|CFGpD|N|100|N|CFG-D
 CFG$E|Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th Interest in a Share of 5.000% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series E|N|CFGpE|N|100|N|CFG-E
 CFR|Cullen/Frost Bankers, Inc. Common Stock|N|CFR|N|100|N|CFR
+CFR$B|Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B|N|CFRpB|N|100|N|CFR-B
 CFX|Colfax Corporation Common Stock|N|CFX|N|100|N|CFX
 CFXA|Colfax Corporation 5.75% Tangible Equity Units|N|CFXA|N|100|N|CFXA
 CGA|China Green Agriculture, Inc. Common Stock|N|CGA|N|100|N|CGA
@@ -1167,6 +1170,7 @@ DEEF|Xtrackers FTSE Developed ex US Comprehensive Factor ETF|P|DEEF|Y|100|N|DEEF
 DEEP|Roundhill Acquirers Deep Value ETF|P|DEEP|Y|100|N|DEEP
 DEF|Invesco Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEFA|iShares Adaptive Currency Hedged MSCI EAFE ETF|Z|DEFA|Y|100|N|DEFA
+DEFN|Emles Trust Emles Protective Allocation ETF|Z|DEFN|Y|100|N|DEFN
 DEH|D8 Holdings Corp. Class A Ordinary Shares|N|DEH|N|100|N|DEH
 DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|DEH.U|N|100|N|DEH=
 DEH.W|D8 Holdings Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|DEH.WS|N|100|N|DEH+
@@ -1932,6 +1936,7 @@ FRLG|Large Cap Growth Index-Linked Exchange Traded Notes due 2028|P|FRLG|N|100|N
 FRO|Frontline Ltd. Ordinary Shares|N|FRO|N|100|N|FRO
 FRT|Federal Realty Investment Trust Common Stock|N|FRT|N|100|N|FRT
 FRT$C|Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share|N|FRTpC|N|100|N|FRT-C
+FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant|N|FRX.U|N|100|N|FRX=
 FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest|N|FSD|N|100|N|FSD
 FSEP|FT Cboe Vest U.S. Equity Buffer ETF - September|Z|FSEP|Y|100|N|FSEP
 FSI|Flexible Solutions International Inc. Common Stock (CDA)|A|FSI|N|100|N|FSI
@@ -2049,9 +2054,7 @@ GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.
 GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares|N|GDVpH|N|100|N|GDV-H
 GDVD|Principal Active Global Dividend Income ETF|Z|GDVD|Y|100|N|GDVD
 GDX|VanEck Vectors Gold Miners ETF|P|GDX|Y|100|N|GDX
-GDXD|MicroSectors Gold Miners -3X Inverse Leveraged ETNs|P|GDXD|Y|100|N|GDXD
 GDXJ|VanEck Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
-GDXU|MicroSectors Gold Miners 3X Leveraged ETN|P|GDXU|Y|100|N|GDXU
 GE|General Electric Company Common Stock|N|GE|N|100|N|GE
 GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
 GEF.B|Greif, Inc. Corporation Class B Common Stock|N|GEF.B|N|100|N|GEF.B
@@ -3079,6 +3082,7 @@ LU|Lufax Holding Ltd American Depositary Shares, two of which representing one O
 LUB|Luby's, Inc. Common Stock|N|LUB|N|100|N|LUB
 LUMN|CenturyLink, Inc. d/b/a Lumen Technologies, Inc. Common Stock|N|LUMN|N|100|N|LUMN
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
+LUXE|Emles Trust Emles Luxury Goods ETF|Z|LUXE|Y|100|N|LUXE
 LVHI|Legg Mason International Low Volatility High Dividend ETF|Z|LVHI|Y|100|N|LVHI
 LVS|Las Vegas Sands Corp. Common Stock|N|LVS|N|100|N|LVS
 LW|Lamb Weston Holdings, Inc. Common Stock |N|LW|N|100|N|LW
@@ -3931,6 +3935,7 @@ PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.0
 PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpI|N|100|N|PRE-I
 PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
 PRF|Invesco FTSE RAFI US 1000 ETF|P|PRF|Y|100|N|PRF
+PRG.V|PROG Holdings, Inc, Common Stock Ex-Distribution When Issued|N|PRGw|N|100|N|PRG#
 PRGO|Perrigo Company plc Ordinary Shares|N|PRGO|N|100|N|PRGO
 PRI|Primerica, Inc. Common Stock|N|PRI|N|100|N|PRI
 PRIF$A|Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025|N|PRIFpA|N|100|N|PRIF-A
@@ -4382,6 +4387,7 @@ SDCI|USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund|P|SDCI|Y|100|N|SDCI
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
 SDEM|Global X MSCI SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDGA|Impact Shares Sustainable Development Goals Global Equity ETF|P|SDGA|Y|100|N|SDGA
+SDHY|PGIM Short Duration High Yield Opportunities Fund Common Shares|N|SDHY|N|100|N|SDHY
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
 SDOG|ALPS Sector Dividend Dogs ETF|P|SDOG|Y|100|N|SDOG
 SDOW|UltraPro Short Dow30|P|SDOW|Y|100|N|SDOW
@@ -4529,6 +4535,7 @@ SNV|Synovus Financial Corp. Common Stock|N|SNV|N|100|N|SNV
 SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share|N|SNVpD|N|100|N|SNV-D
 SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E|N|SNVpE|N|100|N|SNV-E
 SNX|Synnex Corporation Common Stock|N|SNX|N|100|N|SNX
+SNX.V|Synnex Corporation Common Stock Ex-Distribution When Issued|N|SNXw|N|100|N|SNX#
 SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
 SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares|N|SOAC|N|100|N|SOAC
 SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|SOAC.U|N|100|N|SOAC=
@@ -4587,6 +4594,7 @@ SPNV.U|Supernova Partners Acquisition Company, Inc. Units, each consisting of on
 SPOT|Spotify Technology S.A. Ordinary Shares|N|SPOT|N|100|N|SPOT
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
+SPRQ.U|Spartan Acquisition Corp. II Units|N|SPRQ.U|N|100|N|SPRQ=
 SPSB|SPDR Portfolio Short Term Corporate Bond ETF|P|SPSB|Y|100|N|SPSB
 SPSK|Tidal ETF Trust SP Funds Dow Jones Global Sukuk ETF|P|SPSK|Y|100|N|SPSK
 SPSM|SPDR Portfolio S&P 600 Small Cap ETF|P|SPSM|Y|100|N|SPSM
@@ -5517,4 +5525,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1124202012:11||||||
+File Creation Time: 1125202012:11||||||
