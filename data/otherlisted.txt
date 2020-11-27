@@ -430,6 +430,7 @@ BAL|iPathA Series B Bloomberg Cotton Subindex Total Return ETN|P|BAL|N|100|N|BAL
 BALY|Bally's Corporation Common Stock|N|BALY|N|100|N|BALY
 BAM|Brookfield Asset Management Inc. Common Stock|N|BAM|N|100|N|BAM
 BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080|N|BAMH|N|100|N|BAMH
+BAMI|Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes|N|BAMI|N|100|N|BAMI
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D|N|BANCpD|N|100|N|BANC-D
 BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E|N|BANCpE|N|100|N|BANC-E
@@ -484,7 +485,6 @@ BCV|Bancroft Fund, Ltd.|A|BCV|N|100|N|BCV
 BCV$A|Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares|A|BCVpA|N|100|N|BCV-A
 BCX|BlackRock Resources Common Shares of Beneficial Interest|N|BCX|N|100|N|BCX
 BDC|Belden Inc Common Stock|N|BDC|N|100|N|BDC
-BDCS|UBS AG Exchange Traded Access Securities (E TRACS) Linked to the Wells Fargo Business Development Company Index due April 26, 2041|P|BDCS|N|100|N|BDCS
 BDCX|ETRACS Quarterly Pay 1.5X  Leveraged Wells Fargo BDC Index ETN|P|BDCX|Y|100|N|BDCX
 BDCY|ETRACS 2xMonthly Leveraged Wells Fargo Diversified Business Development Company Index ETN Series B due October 21, 2049|P|BDCY|Y|100|N|BDCY
 BDCZ|ETRACS Wells Fargo Business Development Company Index ETN Series B due April 26, 2041|P|BDCZ|N|100|N|BDCZ
@@ -1498,7 +1498,9 @@ EMN|Eastman Chemical Company Common Stock|N|EMN|N|100|N|EMN
 EMNT|PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund|P|EMNT|Y|100|N|EMNT
 EMO|ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock|N|EMO|N|100|N|EMO
 EMP|Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066|N|EMP|N|100|N|EMP
+EMPW|Empower Ltd. Class A Ordinary Shares|N|EMPW|N|100|N|EMPW
 EMPW.U|Empower Ltd. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant|N|EMPW.U|N|100|N|EMPW=
+EMPW.W|Empower Ltd. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|EMPW.WS|N|100|N|EMPW+
 EMQQ|Emerging Markets Internet and Ecommerce ETF (The)|P|EMQQ|Y|100|N|EMQQ
 EMR|Emerson Electric Company Common Stock|N|EMR|N|100|N|EMR
 EMSG|Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF|P|EMSG|Y|100|N|EMSG
@@ -1873,7 +1875,9 @@ FLY|Fly Leasing Limited|N|FLY|N|100|N|FLY
 FLYT|Direxion Flight to Safety Strategy ETF|P|FLYT|Y|100|N|FLYT
 FLZA|Franklin FTSE South Africa ETF|P|FLZA|Y|100|N|FLZA
 FM|iShares MSCI Frontier 100 Fund|P|FM|Y|100|N|FM
+FMAC|FirstMark Horizon Acquisition Corp. Class A Common Stock|N|FMAC|N|100|N|FMAC
 FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|FMAC.U|N|100|N|FMAC=
+FMAC.W|FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|FMAC.WS|N|100|N|FMAC+
 FMAT|Fidelity MSCI Materials Index ETF|P|FMAT|Y|100|N|FMAT
 FMAY|FT Cboe Vest U.S. Equity Buffer ETF - May|Z|FMAY|Y|100|N|FMAY
 FMC|FMC Corporation Common Stock|N|FMC|N|100|N|FMC
@@ -2218,7 +2222,6 @@ GSEE|Goldman Sachs MarketBeta Emerging Markets Equity ETF|Z|GSEE|Y|100|N|GSEE
 GSEU|Goldman Sachs ActiveBeta Europe Equity ETF|P|GSEU|Y|100|N|GSEU
 GSEW|Goldman Sachs Equal Weight U.S. Large Cap Equity ETF|Z|GSEW|Y|100|N|GSEW
 GSG|iShares GSCI Commodity-Indexed Trust Fund|P|GSG|Y|100|N|GSG
-GSH|Guangshen Railway Company Limited Common Stock|N|GSH|N|100|N|GSH
 GSID|Goldman Sachs MarketBeta International Equity ETF|Z|GSID|Y|100|N|GSID
 GSIE|Goldman Sachs ActiveBeta International Equity ETF|P|GSIE|Y|100|N|GSIE
 GSIG|Golden Sachs ETF Trust Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF|P|GSIG|Y|100|N|GSIG
@@ -2878,9 +2881,6 @@ KBA|KraneShares Bosera MSCI China A ETF|P|KBA|Y|100|N|KBA
 KBE|SPDR S&P Bank ETF|P|KBE|Y|100|N|KBE
 KBH|KB Home Common Stock|N|KBH|N|100|N|KBH
 KBR|KBR, Inc. Common Stock|N|KBR|N|100|N|KBR
-KCAC|Kensington Capital Acquisition Corp. Class A Common Stock|N|KCAC|N|100|N|KCAC
-KCAC.U|Kensington Capital Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|KCAC.U|N|100|N|KCAC=
-KCAC.W|Kensington Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|KCAC.WS|N|100|N|KCAC+
 KCCB|KraneShares CCBS China Corporate High Yield Bond USD Index ETF|P|KCCB|Y|100|N|KCCB
 KCE|SPDR S&P Capital Markets ETF|P|KCE|Y|100|N|KCE
 KCNY|KraneShares E Fund China Commercial Paper ETF|P|KCNY|Y|100|N|KCNY
@@ -3705,7 +3705,9 @@ OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
 PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
+PACE|TPG Pace Tech Opportunities Corp. Class A Ordinary Shares|N|PACE|N|100|N|PACE
 PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|PACE.U|N|100|N|PACE=
+PACE.W|TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|PACE.WS|N|100|N|PACE+
 PACK|Ranpak Holdings Corp Class A Common Stock|N|PACK|N|100|N|PACK
 PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
 PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
@@ -4075,6 +4077,8 @@ QMOM|Alpha Architect U.S. Quantitative Momentum ETF|Z|QMOM|Y|100|N|QMOM
 QQH|HCM Defender 100 Index ETF|P|QQH|Y|100|N|QQH
 QQQE|Direxion NASDAQ-100 Equal Weighted Index Shares|P|QQQE|Y|100|N|QQQE
 QRFT|QRAFT AI-Enhanced U.S. Large Cap ETF|P|QRFT|Y|100|N|QRFT
+QS|QuantumScape Corporation Class A Common Stock|N|QS|N|100|N|QS
+QS.W|QuantumScape Corporation Warrants|N|QS.WS|N|100|N|QS+
 QSR|Restaurant Brands International Inc. Common Shares|N|QSR|N|100|N|QSR
 QSY|WisdomTree U.S. Quality Shareholder Yield Fund|P|QSY|Y|100|N|QSY
 QTS|QTS Realty Trust, Inc. Class A Common Stock|N|QTS|N|100|N|QTS
@@ -4896,7 +4900,9 @@ TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TPAY|Ecofin Digital Payments Infrastructure Fund|Z|TPAY|Y|100|N|TPAY
 TPB|Turning Point Brands, Inc. Common Stock|N|TPB|N|100|N|TPB
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
+TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares|N|TPGY|N|100|N|TPGY
 TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|TPGY.U|N|100|N|TPGY=
+TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|TPGY.WS|N|100|N|TPGY+
 TPH|TRI Pointe Group, Inc. Common Stock|N|TPH|N|100|N|TPH
 TPHD|Timothy Plan High Dividend Stock ETF|P|TPHD|Y|100|N|TPHD
 TPHS|Trinity Place Holdings Inc. Common Stock|A|TPHS|N|100|N|TPHS
@@ -4951,8 +4957,8 @@ TSN|Tyson Foods, Inc. Common Stock|N|TSN|N|100|N|TSN
 TSOC|Innovator Triple Stacker ETF - October|Z|TSOC|Y|100|N|TSOC
 TSQ|Townsquare Media, Inc. Class A Common Stock|N|TSQ|N|100|N|TSQ
 TT|Trane Technologies plc|N|TT|N|100|N|TT
-TTAC|TrimTabs All Cap U.S. Free-Cash-Flow ETF|Z|TTAC|Y|100|N|TTAC
-TTAI|TRIMTABS ETF TRUST ETF|Z|TTAI|Y|100|N|TTAI
+TTAC|TrimTabs US Free Cash Flow Quality ETF|Z|TTAC|Y|100|N|TTAC
+TTAI|TrimTabs International Free Cash Flow Quality ETF|Z|TTAI|Y|100|N|TTAI
 TTC|Toro Company (The) Common Stock|N|TTC|N|100|N|TTC
 TTI|Tetra Technologies, Inc. Common Stock|N|TTI|N|100|N|TTI
 TTM|Tata Motors Ltd Tata Motors Limited|N|TTM|N|100|N|TTM
@@ -5525,4 +5531,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1125202021:32||||||
+File Creation Time: 1127202012:12||||||

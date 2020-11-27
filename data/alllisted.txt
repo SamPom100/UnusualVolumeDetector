@@ -355,6 +355,7 @@ BAL,BAL|iPathA Series B Bloomberg Cotton Subindex Total Return ETN
 BALY,BALY|Bally's Corporation Common Stock
 BAM,BAM|Brookfield Asset Management Inc. Common Stock
 BAMH,BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
+BAMI,BAMI|Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes
 BANC,BANC|Banc of California, Inc. Common Stock
 BANC$D,BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D
 BANC$E,BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E
@@ -392,7 +393,6 @@ BCV,BCV|Bancroft Fund, Ltd.
 BCV$A,BCV$A|Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares
 BCX,BCX|BlackRock Resources Common Shares of Beneficial Interest
 BDC,BDC|Belden Inc Common Stock
-BDCS,BDCS|UBS AG Exchange Traded Access Securities (E TRACS) Linked to the Wells Fargo Business Development Company Index due April 26, 2041
 BDCZ,BDCZ|ETRACS Wells Fargo Business Development Company Index ETN Series B due April 26, 2041
 BDJ,BDJ|Blackrock Enhanced Equity Dividend Trust
 BDL,BDL|Flanigan's Enterprises, Inc. Common Stock
@@ -1121,7 +1121,9 @@ EMF,EMF|Templeton Emerging Markets Fund Common Stock
 EMN,EMN|Eastman Chemical Company Common Stock
 EMO,EMO|ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock
 EMP,EMP|Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066
+EMPW,EMPW|Empower Ltd. Class A Ordinary Shares
 EMPW.U,EMPW.U|Empower Ltd. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant
+EMPW.W,EMPW.W|Empower Ltd. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 EMR,EMR|Emerson Electric Company Common Stock
 EMX,EMX|EMX Royalty Corporation Common Shares (Canada)
 ENB,ENB|Enbridge Inc Common Stock
@@ -1311,7 +1313,9 @@ FLR,FLR|Fluor Corporation Common Stock
 FLS,FLS|Flowserve Corporation Common Stock
 FLT,FLT|FleetCor Technologies, Inc. Common Stock
 FLY,FLY|Fly Leasing Limited
+FMAC,FMAC|FirstMark Horizon Acquisition Corp. Class A Common Stock
 FMAC.U,FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+FMAC.W,FMAC.W|FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 FMC,FMC|FMC Corporation Common Stock
 FMN,FMN|Federated Hermes Premier Municipal Income Fund
 FMO,FMO|Fiduciary/Claymore Energy Infrastructure Fund Common Shares of Beneficial Interest
@@ -1553,7 +1557,6 @@ GSAH.U,GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one shar
 GSAH.W,GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 GSAT,GSAT|Globalstar, Inc. Common Stock
 GSBD,GSBD|Goldman Sachs BDC, Inc. Common Stock
-GSH,GSH|Guangshen Railway Company Limited Common Stock
 GSK,GSK|GlaxoSmithKline PLC Common Stock
 GSL,GSL|Global Ship Lease Inc New Class A Common Shares
 GSL$B,GSL$B|Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)
@@ -1896,9 +1899,6 @@ KAR,KAR|KAR Auction Services, Inc Common Stock
 KB,KB|KB Financial Group Inc
 KBH,KBH|KB Home Common Stock
 KBR,KBR|KBR, Inc. Common Stock
-KCAC,KCAC|Kensington Capital Acquisition Corp. Class A Common Stock
-KCAC.U,KCAC.U|Kensington Capital Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
-KCAC.W,KCAC.W|Kensington Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 KEN,KEN|Kenon Holdings Ltd. Ordinary Shares
 KEP,KEP|Korea Electric Power Corporation Common Stock
 KEX,KEX|Kirby Corporation Common Stock
@@ -2537,7 +2537,9 @@ OXY,OXY|Occidental Petroleum Corporation Common Stock
 OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
 PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
+PACE,PACE|TPG Pace Tech Opportunities Corp. Class A Ordinary Shares
 PACE.U,PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
+PACE.W,PACE.W|TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 PACK,PACK|Ranpak Holdings Corp Class A Common Stock
 PAG,PAG|Penske Automotive Group, Inc. Common Stock
 PAGP,PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests
@@ -2777,6 +2779,8 @@ PZN,PZN|Pzena Investment Management Inc Class A Common Stock
 QD,QD|Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share
 QEP,QEP|QEP Resources, Inc. Common Stock
 QGEN,QGEN|Qiagen N.V. Common Shares 
+QS,QS|QuantumScape Corporation Class A Common Stock
+QS.W,QS.W|QuantumScape Corporation Warrants
 QSR,QSR|Restaurant Brands International Inc. Common Shares
 QTS,QTS|QTS Realty Trust, Inc. Class A Common Stock
 QTS$A,QTS$A|QTS Realty Trust, Inc. 7.125% Series A Cumulative Redeemable Perpetual Preferred Stock
@@ -3276,7 +3280,9 @@ TOL,TOL|Toll Brothers, Inc. Common Stock
 TOT,TOT|Total SE
 TPB,TPB|Turning Point Brands, Inc. Common Stock
 TPC,TPC|Tutor Perini Corporation Common Stock
+TPGY,TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares
 TPGY.U,TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
+TPGY.W,TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 TPH,TPH|TRI Pointe Group, Inc. Common Stock
 TPHS,TPHS|Trinity Place Holdings Inc. Common Stock
 TPL,TPL|Texas Pacific Land Trust Common Stock
@@ -4993,7 +4999,6 @@ GOSS,GOSS|Gossamer Bio, Inc. - Common Stock
 GOVX,GOVX|GeoVax Labs, Inc. - Common Stock
 GOVXW,GOVXW|GeoVax Labs, Inc. - Warrants
 GP,GP|GreenPower Motor Company Inc. - Common Shares
-GPOR,GPOR|Gulfport Energy Corporation - Common Stock
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
@@ -5442,7 +5447,9 @@ LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCAPW,LCAPW|Lionheart Acquisition Corp. II - Warrant
 LCNB,LCNB|LCNB Corporation - Common Stock
 LCUT,LCUT|Lifetime Brands, Inc. - Common Stock
+LCY,LCY|Landcadia Holdings III, Inc. - Class A Common Stock
 LCYAU,LCYAU|Landcadia Holdings III, Inc. - Unit
+LCYAW,LCYAW|Landcadia Holdings III, Inc. - Warrant
 LE,LE|Lands' End, Inc. - Common Stock
 LECO,LECO|Lincoln Electric Holdings, Inc. - Common Shares
 LEDS,LEDS|SemiLEDS Corporation - Common Stock
@@ -5554,7 +5561,9 @@ LYRA,LYRA|Lyra Therapeutics, Inc. - Common Stock
 LYTS,LYTS|LSI Industries Inc. - Common Stock
 MAACU,MAACU|Montes Archimedes Acquisition Corp. - Unit
 MACK,MACK|Merrimack Pharmaceuticals, Inc. - Common Stock
+MACU,MACU|Mallard Acquisition Corp. - Common Stock
 MACUU,MACUU|Mallard Acquisition Corp. - Unit
+MACUW,MACUW|Mallard Acquisition Corp. - Warrant
 MAGS,MAGS|Magal Security Systems Ltd. - Ordinary Shares
 MANH,MANH|Manhattan Associates, Inc. - Common Stock
 MANT,MANT|ManTech International Corporation - Class A Common Stock
