@@ -895,7 +895,7 @@ CTAS|Cintas Corporation - Common Stock|Q|N|N|100|N|N
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 CTEC|Global X CleanTech ETF|G|N|N|100|Y|N
 CTG|Computer Task Group, Incorporated - Common Stock|Q|N|N|100|N|N
-CTHR|Charles & Colvard Ltd. - Common Stock|S|N|D|100|N|N
+CTHR|Charles & Colvard Ltd. - Common Stock|S|N|N|100|N|N
 CTIB|Yunhong CTI Ltd. - Common Stock|S|N|N|100|N|N
 CTIC|CTI BioPharma Corp. - Common Stock|S|N|N|100|N|N
 CTMX|CytomX Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1019,7 +1019,9 @@ DRIV|Global X Autonomous & Electric Vehicles ETF|G|N|N|100|Y|N
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 DRRX|DURECT Corporation - Common Stock|S|N|N|100|N|N
 DRTT|DIRTT Environmental Solutions Ltd. - Common Shares|Q|N|N|100|N|N
+DSAC|Duddell Street Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 DSACU|Duddell Street Acquisition Corp. - Unit|S|N|N|100|N|N
+DSACW|Duddell Street Acquisition Corp. - Warrant|S|N|N|100|N|N
 DSGX|The Descartes Systems Group Inc. - Common Stock|Q|N|N|100|N|N
 DSKE|Daseke, Inc. - Common Stock|S|N|N|100|N|N
 DSKEW|Daseke, Inc. - Warrant|S|N|N|100|N|N
@@ -1029,7 +1031,7 @@ DTEA|DAVIDsTEA Inc. - Common Stock|G|N|N|100|N|N
 DTIL|Precision BioSciences, Inc. - Common Stock|Q|N|N|100|N|N
 DTSS|Datasea Inc. - Common Stock|S|N|N|100|N|N
 DUO|Fangdd Network Group Ltd. - American Depositary Shares|G|N|N|100|N|N
-DUOT|Duos Technologies Group, Inc. - Common Stock|S|N|N|100|N|N
+DUOT|Duos Technologies Group, Inc. - Common Stock|S|N|D|100|N|N
 DUSA|Davis Select U.S. Equity ETF|G|N|N|100|Y|N
 DVAX|Dynavax Technologies Corporation - Common Stock|S|N|N|100|N|N
 DVLU|First Trust Dorsey Wright Momentum & Value ETF|G|N|N|100|Y|N
@@ -1800,7 +1802,7 @@ IKNX|Ikonics Corporation - Common Stock|S|N|N|100|N|N
 ILMN|Illumina, Inc. - Common Stock|Q|N|N|100|N|N
 ILPT|Industrial Logistics Properties Trust - Common Shares of Beneficial Interest|Q|N|N|100|N|N
 IMAB|I-MAB - American Depositary Shares|G|N|N|100|N|N
-IMAC|IMAC Holdings, Inc. - Common Stock|S|N|D|100|N|N
+IMAC|IMAC Holdings, Inc. - Common Stock|S|N|N|100|N|N
 IMACW|IMAC Holdings, Inc. - Warrant|S|N|N|100|N|N
 IMBI|iMedia Brands, Inc. - Class A Common Stock|S|N|N|100|N|N
 IMGN|ImmunoGen, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2710,7 +2712,7 @@ PHICU|Population Health Investment Co., Inc. - Unit|S|N|N|100|N|N
 PHIO|Phio Pharmaceuticals Corp. - Common Stock|S|N|N|100|N|N
 PHIOW|Phio Pharmaceuticals Corp. - Warrants|S|N|N|100|N|N
 PHO|Invesco Water Resources ETF|G|N|N|100|Y|N
-PHUN|Phunware, Inc. - Common Stock|S|N|N|100|N|N
+PHUN|Phunware, Inc. - Common Stock|S|N|D|100|N|N
 PHUNW|Phunware, Inc. - Warrants|S|N|N|100|N|N
 PI|Impinj, Inc. - Common Stock|Q|N|N|100|N|N
 PICO|PICO Holdings Inc. - Common Stock|Q|N|N|100|N|N
@@ -2786,7 +2788,6 @@ PROG|Progenity, Inc. - Common Stock|G|N|N|100|N|N
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 PRPH|ProPhase Labs, Inc. - Common Stock|S|N|N|100|N|N
 PRPL|Purple Innovation, Inc. - Common Stock|S|N|N|100|N|N
-PRPLW|Purple Innovation, Inc. - Warrant|S|N|N|100|N|N
 PRPO|Precipio, Inc. - Common Stock|S|N|N|100|N|N
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100|N|N
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100|N|N
@@ -3106,6 +3107,7 @@ SFT|Shift Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
 SFTTW|Shift Technologies, Inc. - Warrant|S|N|N|100|N|N
 SG|Sirius International Insurance Group, Ltd. - Common Share|Q|N|N|100|N|N
 SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
+SGAMU|Seaport Global Acquisition Corp. - Unit|S|N|N|100|N|N
 SGBX|SG Blocks, Inc. - Common Stock|S|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
 SGEN|Seagen Inc.  - Common Stock|Q|N|N|100|N|N
@@ -3843,4 +3845,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1127202015:42|||||||
+File Creation Time: 1130202012:12|||||||

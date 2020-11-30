@@ -769,6 +769,7 @@ CNK,CNK|Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock
 CNMD,CNMD|CONMED Corporation Common Stock
 CNNE,CNNE|Cannae Holdings, Inc. Common Stock
 CNO,CNO|CNO Financial Group, Inc. Common Stock
+CNO$A,CNO$A|CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060
 CNP,CNP|CenterPoint Energy, Inc (Holding Co) Common Stock
 CNP$B,CNP$B|CenterPoint Energy, Inc. Depositary Shares Each Representing a 1/20th Interest in a Share of 7.00% Series B Mandatory Convertible Preferred Stock
 CNQ,CNQ|Canadian Natural Resources Limited Common Stock
@@ -1284,12 +1285,12 @@ FGNA,FGNA|FG New America Acquisition Corp. Class A Common Stock
 FGNA.U,FGNA.U|FG New America Acquisition Corp. Units
 FGNA.W,FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FHI,FHI|Federated Hermes, Inc. Common Stock
-FHN,FHN|First Horizon National Corporation Common Stock
-FHN$A,FHN$A|First Horizon National Corporation Depositary Shares
-FHN$B,FHN$B|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B
-FHN$C,FHN$C|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C
-FHN$D,FHN$D|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D
-FHN$E,FHN$E|First Horizon National Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E
+FHN,FHN|First Horizon Corporation Common Stock
+FHN$A,FHN$A|First Horizon Corporation Depositary Shares
+FHN$B,FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B
+FHN$C,FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C
+FHN$D,FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D
+FHN$E,FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E
 FI,FI|Frank's International N.V. Common Stock
 FICO,FICO|Fair Isaac Corproation Common Stock
 FIEE,FIEE|UBS AG FI Enhanced Europe 50 ETN due February 12, 2026
@@ -1783,9 +1784,15 @@ IPOB.W,IPOB.W|Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, e
 IPOC,IPOC|Social Capital Hedosophia Holdings Corp. III Class A Ordinary Shares
 IPOC.U,IPOC.U|Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant
 IPOC.W,IPOC.W|Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+IPOD,IPOD|Social Capital Hedosophia Holdings Corp. IV Class A Ordinary Shares
 IPOD.U,IPOD.U|Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+IPOD.W,IPOD.W|Social Capital Hedosophia Holdings Corp. IV Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+IPOE,IPOE|Social Capital Hedosophia Holdings Corp. V Class A Ordinary Shares
 IPOE.U,IPOE.U|Social Capital Hedosophia Holdings Corp. V Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+IPOE.W,IPOE.W|Social Capital Hedosophia Holdings Corp. V Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+IPOF,IPOF|Social Capital Hedosophia Holdings Corp. VI Class A Ordinary Shares
 IPOF.U,IPOF.U|Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+IPOF.W,IPOF.W|Social Capital Hedosophia Holdings Corp. VI Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 IPV,IPV|InterPrivate Acquisition Corp. Common Stock
 IPV.U,IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant
 IPV.W,IPV.W|InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
@@ -3390,7 +3397,6 @@ UMC,UMC|United Microelectronics Corporation (NEW) Common Stock
 UMH,UMH|UMH Properties, Inc. Common Stock
 UMH$C,UMH$C|UMH Properties, Inc. 6.75% Series C Cumulative Redeemable Preferred Stock,  Liquidation Preference $25 per share
 UMH$D,UMH$D|UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share
-UN,UN|Unilever NV Common Stock
 UNF,UNF|Unifirst Corporation Common Stock
 UNFI,UNFI|United Natural Foods, Inc. Common Stock
 UNH,UNH|UnitedHealth Group Incorporated Common Stock (DE)
@@ -3466,7 +3472,7 @@ VIAO,VIAO|VIA optronics AG American Depositary Shares, each representing one-fif
 VICI,VICI|VICI Properties Inc. Common Stock
 VIPS,VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares
 VIST,VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value
-VIV.V,VIV.V|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share) When Issued
+VIV,VIV|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
 VKI,VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)
 VKQ,VKQ|Invesco Municipal Trust Common Stock
 VLO,VLO|Valero Energy Corporation Common Stock
@@ -4586,7 +4592,9 @@ DRIOW,DRIOW|DarioHealth Corp. - Warrant
 DRNA,DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock
 DRRX,DRRX|DURECT Corporation - Common Stock
 DRTT,DRTT|DIRTT Environmental Solutions Ltd. - Common Shares
+DSAC,DSAC|Duddell Street Acquisition Corp. - Class A Ordinary Shares
 DSACU,DSACU|Duddell Street Acquisition Corp. - Unit
+DSACW,DSACW|Duddell Street Acquisition Corp. - Warrant
 DSGX,DSGX|The Descartes Systems Group Inc. - Common Stock
 DSKE,DSKE|Daseke, Inc. - Common Stock
 DSKEW,DSKEW|Daseke, Inc. - Warrant
@@ -6157,7 +6165,6 @@ PROG,PROG|Progenity, Inc. - Common Stock
 PROV,PROV|Provident Financial Holdings, Inc. - Common Stock
 PRPH,PRPH|ProPhase Labs, Inc. - Common Stock
 PRPL,PRPL|Purple Innovation, Inc. - Common Stock
-PRPLW,PRPLW|Purple Innovation, Inc. - Warrant
 PRPO,PRPO|Precipio, Inc. - Common Stock
 PRQR,PRQR|ProQR Therapeutics N.V. - Ordinary Shares
 PRSC,PRSC|The Providence Service Corporation - Common Stock
@@ -6429,6 +6436,7 @@ SFT,SFT|Shift Technologies, Inc. - Class A Common Stock
 SFTTW,SFTTW|Shift Technologies, Inc. - Warrant
 SG,SG|Sirius International Insurance Group, Ltd. - Common Share
 SGA,SGA|Saga Communications, Inc. - Class A Common Stock
+SGAMU,SGAMU|Seaport Global Acquisition Corp. - Unit
 SGBX,SGBX|SG Blocks, Inc. - Common Stock
 SGC,SGC|Superior Group of Companies, Inc. - Common Stock
 SGEN,SGEN|Seagen Inc.  - Common Stock

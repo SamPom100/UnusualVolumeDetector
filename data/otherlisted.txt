@@ -956,6 +956,7 @@ CNK|Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock|N|CNK|N|100|N|CNK
 CNMD|CONMED Corporation Common Stock|N|CNMD|N|100|N|CNMD
 CNNE|Cannae Holdings, Inc. Common Stock|N|CNNE|N|100|N|CNNE
 CNO|CNO Financial Group, Inc. Common Stock|N|CNO|N|100|N|CNO
+CNO$A|CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060|N|CNOpA|N|100|N|CNO-A
 CNP|CenterPoint Energy, Inc (Holding Co) Common Stock|N|CNP|N|100|N|CNP
 CNP$B|CenterPoint Energy, Inc. Depositary Shares Each Representing a 1/20th Interest in a Share of 7.00% Series B Mandatory Convertible Preferred Stock|N|CNPpB|N|100|N|CNP-B
 CNQ|Canadian Natural Resources Limited Common Stock|N|CNQ|N|100|N|CNQ
@@ -1781,12 +1782,12 @@ FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
 FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FGNA.WS|N|100|N|FGNA+
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
-FHN|First Horizon National Corporation Common Stock|N|FHN|N|100|N|FHN
-FHN$A|First Horizon National Corporation Depositary Shares|N|FHNpA|N|100|N|FHN-A
-FHN$B|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B|N|FHNpB|N|100|N|FHN-B
-FHN$C|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C|N|FHNpC|N|100|N|FHN-C
-FHN$D|First Horizon National Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D|N|FHNpD|N|100|N|FHN-D
-FHN$E|First Horizon National Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E|N|FHNpE|N|100|N|FHN-E
+FHN|First Horizon Corporation Common Stock|N|FHN|N|100|N|FHN
+FHN$A|First Horizon Corporation Depositary Shares|N|FHNpA|N|100|N|FHN-A
+FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B|N|FHNpB|N|100|N|FHN-B
+FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C|N|FHNpC|N|100|N|FHN-C
+FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D|N|FHNpD|N|100|N|FHN-D
+FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E|N|FHNpE|N|100|N|FHN-E
 FI|Frank's International N.V. Common Stock|N|FI|N|100|N|FI
 FIBR|iShares U.S. Fixed Income Balanced Risk Factor ETF|Z|FIBR|Y|100|N|FIBR
 FICO|Fair Isaac Corproation Common Stock|N|FICO|N|100|N|FICO
@@ -2638,9 +2639,15 @@ IPOB.W|Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, each who
 IPOC|Social Capital Hedosophia Holdings Corp. III Class A Ordinary Shares|N|IPOC|N|100|N|IPOC
 IPOC.U|Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant|N|IPOC.U|N|100|N|IPOC=
 IPOC.W|Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IPOC.WS|N|100|N|IPOC+
+IPOD|Social Capital Hedosophia Holdings Corp. IV Class A Ordinary Shares|N|IPOD|N|100|N|IPOD
 IPOD.U|Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOD.U|N|100|N|IPOD=
+IPOD.W|Social Capital Hedosophia Holdings Corp. IV Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IPOD.WS|N|100|N|IPOD+
+IPOE|Social Capital Hedosophia Holdings Corp. V Class A Ordinary Shares|N|IPOE|N|100|N|IPOE
 IPOE.U|Social Capital Hedosophia Holdings Corp. V Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOE.U|N|100|N|IPOE=
+IPOE.W|Social Capital Hedosophia Holdings Corp. V Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IPOE.WS|N|100|N|IPOE+
+IPOF|Social Capital Hedosophia Holdings Corp. VI Class A Ordinary Shares|N|IPOF|N|100|N|IPOF
 IPOF.U|Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|IPOF.U|N|100|N|IPOF=
+IPOF.W|Social Capital Hedosophia Holdings Corp. VI Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IPOF.WS|N|100|N|IPOF+
 IPOS|Renaissance Capital Greenwich Fund|P|IPOS|Y|100|N|IPOS
 IPV|InterPrivate Acquisition Corp. Common Stock|N|IPV|N|100|N|IPV
 IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant|N|IPV.U|N|100|N|IPV=
@@ -5055,7 +5062,6 @@ UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
 UMH$C|UMH Properties, Inc. 6.75% Series C Cumulative Redeemable Preferred Stock,  Liquidation Preference $25 per share|N|UMHpC|N|100|N|UMH-C
 UMH$D|UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share|N|UMHpD|N|100|N|UMH-D
-UN|Unilever NV Common Stock|N|UN|N|100|N|UN
 UNF|Unifirst Corporation Common Stock|N|UNF|N|100|N|UNF
 UNFI|United Natural Foods, Inc. Common Stock|N|UNFI|N|100|N|UNFI
 UNG|United States Natural Gas Fund LP|P|UNG|Y|100|N|UNG
@@ -5206,7 +5212,7 @@ VIPS|Vipshop Holdings Limited American Depositary Shares, each representing two 
 VIRS|Pacer BioThreat Strategy ETF|Z|VIRS|Y|100|N|VIRS
 VIS|Vanguard Industrials ETF|P|VIS|Y|100|N|VIS
 VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value|N|VIST|N|100|N|VIST
-VIV.V|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share) When Issued|N|VIVw|N|100|N|VIV#
+VIV|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)|N|VIV|N|100|N|VIV
 VIXM|ProShares Trust VIX Mid-Term Futures ETF|P|VIXM|Y|100|N|VIXM
 VIXY|ProShares Trust VIX Short-Term Futures ETF|P|VIXY|Y|100|N|VIXY
 VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)|A|VKI|N|100|N|VKI
@@ -5531,4 +5537,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1127202015:42||||||
+File Creation Time: 1130202012:12||||||
