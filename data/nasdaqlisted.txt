@@ -96,7 +96,9 @@ AGBA|AGBA Acquisition Limited - Ordinary Share|S|N|N|100|N|N
 AGBAR|AGBA Acquisition Limited - Right|S|N|N|100|N|N
 AGBAU|AGBA Acquisition Limited - Unit|S|N|N|100|N|N
 AGBAW|AGBA Acquisition Limited - Warrant|S|N|N|100|N|N
+AGC|Altimeter Growth Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 AGCUU|Altimeter Growth Corp. - Unit|S|N|N|100|N|N
+AGCWW|Altimeter Growth Corp. - Warrant|S|N|N|100|N|N
 AGEN|Agenus Inc. - Common Stock|S|N|N|100|N|N
 AGFS|AgroFresh Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -798,7 +800,7 @@ CNSP|CNS Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 CNST|Constellation Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 CNTG|Centogene N.V. - Common Shares|G|N|N|100|N|N
 CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100|N|N
-CNXCV|Concentrix Corporation - Common Stock When Issued|Q|N|N|100|N|N
+CNXC|Concentrix Corporation - Common Stock|Q|N|N|100|N|N
 CNXN|PC Connection, Inc. - Common Stock|Q|N|N|100|N|N
 COCP|Cocrystal Pharma, Inc. - Common Stock|S|N|D|100|N|N
 CODA|Coda Octopus Group, Inc. - Common stock|S|N|N|100|N|N
@@ -2598,7 +2600,7 @@ OSW|OneSpaWorld Holdings Limited - Common Shares|S|N|N|100|N|N
 OTEL|Otelco Inc. - Common Stock|S|N|N|100|N|N
 OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
-OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
+OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
 OTRAU|OTR Acquisition Corp. - Unit|S|N|N|100|N|N
 OTRK|Ontrak, Inc. - Common Stock|G|N|N|100|N|N
@@ -2742,7 +2744,7 @@ PLSE|Pulse Biosciences, Inc - Common Stock|S|N|N|100|N|N
 PLUG|Plug Power, Inc. - Common Stock|S|N|N|100|N|N
 PLUS|ePlus inc. - Common Stock|Q|N|N|100|N|N
 PLW|Invesco 1-30 Laddered Treasury ETF|G|N|N|100|Y|N
-PLXP|PLx Pharma Inc. - Common Stock|S|N|D|100|N|N
+PLXP|PLx Pharma Inc. - Common Stock|S|N|N|100|N|N
 PLXS|Plexus Corp. - Common Stock|Q|N|N|100|N|N
 PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares|Q|N|N|100|N|N
 PMBC|Pacific Mercantile Bancorp - Common Stock|Q|N|N|100|N|N
@@ -2764,6 +2766,7 @@ POOL|Pool Corporation - Common Stock|Q|N|N|100|N|N
 POTX|Global X Cannabis ETF|G|N|N|100|Y|N
 POWI|Power Integrations, Inc. - Common Stock|Q|N|N|100|N|N
 POWL|Powell Industries, Inc. - Common Stock|Q|N|N|100|N|N
+POWW|AMMO, Inc. - Common Stock|S|N|N|100|N|N
 PPBI|Pacific Premier Bancorp Inc - Common Stock|Q|N|N|100|N|N
 PPC|Pilgrim's Pride Corporation - Common Stock|Q|N|N|100|N|N
 PPD|PPD, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3739,8 +3742,8 @@ WNEB|Western New England Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100|Y|N
 WORX|SCWorx Corp. - Common Stock|S|N|D|100|N|N
 WPRT|Westport Fuel Systems Inc - Common Shares|Q|N|N|100|N|N
+WRAP|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
 WRLD|World Acceptance Corporation - Common Stock|Q|N|N|100|N|N
-WRTC|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
 WSBC|WesBanco, Inc. - Common Stock|Q|N|N|100|N|N
 WSBCP|WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A|Q|N|N|100|N|N
 WSBF|Waterstone Financial, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3845,4 +3848,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1130202015:42|||||||
+File Creation Time: 1201202012:11|||||||

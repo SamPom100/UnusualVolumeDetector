@@ -4,8 +4,7 @@ AAIC,AAIC|Arlington Asset Investment Corp Class A (new)
 AAIC$B,AAIC$B|Arlington Asset Investment Corp 7.00% 
 AAIC$C,AAIC$C|Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   
 AAMC,AAMC|Altisource Asset Management Corp Com
-AAN,AAN|Aarons Holdings Company, Inc. Common Stock
-AAN.V,AAN.V|Aarons Holdings Company, Inc. Common Stock When Issued
+AAN,AAN|Aarons Holdings Company, Inc. Common Stock 
 AAP,AAP|Advance Auto Parts Inc Advance Auto Parts Inc W/I
 AAT,AAT|American Assets Trust, Inc. Common Stock
 AAU,AAU|Almaden Minerals, Ltd. Common Shares
@@ -783,7 +782,6 @@ CODI$B,CODI$B|Compass Diversified Holdings 7.875% Series B Fixed-to-Floating Rat
 CODI$C,CODI$C|Compass Diversified Holdings 7.875% Series C Cumulative Preferred Shares
 COE,COE|China Online Education Group American depositary shares, each representing 15 Class A ordinary shares
 COF,COF|Capital One Financial Corporation Common Stock
-COF$F,COF$F|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F
 COF$G,COF$G|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G
 COF$H,COF$H|Capital One Financial Corporation Depositary Shares, Each Representing 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H
 COF$I,COF$I|Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer
@@ -1681,7 +1679,6 @@ HTH,HTH|Hilltop Holdings Inc.
 HTY,HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest
 HUBB,HUBB|Hubbell Inc Common Stock
 HUBS,HUBS|HubSpot, Inc. Common Stock
-HUD,HUD|Hudson Ltd. Class A Common Shares
 HUM,HUM|Humana Inc. Common Stock
 HUN,HUN|Huntsman Corporation Common Stock
 HUSA,HUSA|Houston American Energy Corporation Common Stock
@@ -2707,7 +2704,7 @@ PRA,PRA|ProAssurance Corporation Common Stock
 PRE$G,PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value
 PRE$H,PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value
 PRE$I,PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value
-PRG.V,PRG.V|PROG Holdings, Inc, Common Stock Ex-Distribution When Issued
+PRG,PRG|PROG Holdings, Inc. Common Stock
 PRGO,PRGO|Perrigo Company plc Ordinary Shares
 PRI,PRI|Primerica, Inc. Common Stock
 PRIF$A,PRIF$A|Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025
@@ -3071,7 +3068,6 @@ SNV,SNV|Synovus Financial Corp. Common Stock
 SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share
 SNV$E,SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
 SNX,SNX|Synnex Corporation Common Stock
-SNX.V,SNX.V|Synnex Corporation Common Stock Ex-Distribution When Issued
 SO,SO|Southern Company (The) Common Stock
 SOAC,SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares
 SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
@@ -3762,7 +3758,9 @@ AGBA,AGBA|AGBA Acquisition Limited - Ordinary Share
 AGBAR,AGBAR|AGBA Acquisition Limited - Right
 AGBAU,AGBAU|AGBA Acquisition Limited - Unit
 AGBAW,AGBAW|AGBA Acquisition Limited - Warrant
+AGC,AGC|Altimeter Growth Corp. - Class A Ordinary Shares
 AGCUU,AGCUU|Altimeter Growth Corp. - Unit
+AGCWW,AGCWW|Altimeter Growth Corp. - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
@@ -4389,7 +4387,7 @@ CNSP,CNSP|CNS Pharmaceuticals, Inc. - Common Stock
 CNST,CNST|Constellation Pharmaceuticals, Inc. - Common Stock
 CNTG,CNTG|Centogene N.V. - Common Shares
 CNTY,CNTY|Century Casinos, Inc. - Common Stock
-CNXCV,CNXCV|Concentrix Corporation - Common Stock When Issued
+CNXC,CNXC|Concentrix Corporation - Common Stock
 CNXN,CNXN|PC Connection, Inc. - Common Stock
 COCP,COCP|Cocrystal Pharma, Inc. - Common Stock
 CODA,CODA|Coda Octopus Group, Inc. - Common stock
@@ -6144,6 +6142,7 @@ POLA,POLA|Polar Power, Inc. - Common Stock
 POOL,POOL|Pool Corporation - Common Stock
 POWI,POWI|Power Integrations, Inc. - Common Stock
 POWL,POWL|Powell Industries, Inc. - Common Stock
+POWW,POWW|AMMO, Inc. - Common Stock
 PPBI,PPBI|Pacific Premier Bancorp Inc - Common Stock
 PPC,PPC|Pilgrim's Pride Corporation - Common Stock
 PPD,PPD|PPD, Inc. - Common Stock
@@ -7006,8 +7005,8 @@ WMG,WMG|Warner Music Group Corp. - Class A Common Stock
 WNEB,WNEB|Western New England Bancorp, Inc. - Common Stock
 WORX,WORX|SCWorx Corp. - Common Stock
 WPRT,WPRT|Westport Fuel Systems Inc - Common Shares
+WRAP,WRAP|Wrap Technologies, Inc. - Common Stock
 WRLD,WRLD|World Acceptance Corporation - Common Stock
-WRTC,WRTC|Wrap Technologies, Inc. - Common Stock
 WSBC,WSBC|WesBanco, Inc. - Common Stock
 WSBCP,WSBCP|WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A
 WSBF,WSBF|Waterstone Financial, Inc. - Common Stock
