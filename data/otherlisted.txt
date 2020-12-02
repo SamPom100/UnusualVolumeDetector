@@ -743,6 +743,7 @@ CALX|Calix, Inc Common Stock|N|CALX|N|100|N|CALX
 CANE|Teucrium Sugar Fund ETV|P|CANE|Y|100|N|CANE
 CANF|Can-Fite Biopharma Ltd Sponsored ADR (Israel)|A|CANF|N|100|N|CANF
 CANG|Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares|N|CANG|N|100|N|CANG
+CAP.U|Capitol Investment Corp. V Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|CAP.U|N|100|N|CAP=
 CAPE|iPath Shiller CAPE ETN|P|CAPE|N|100|N|CAPE
 CAPL|CrossAmerica Partners LP Common Units representing limited partner interests|N|CAPL|N|100|N|CAPL
 CARR|Carrier Global Corporation Common Stock |N|CARR|N|100|N|CARR
@@ -1184,6 +1185,7 @@ DESP|Despegar.com, Corp. Ordinary Shares|N|DESP|N|100|N|DESP
 DEUS|Xtrackers Russell 1000 Comprehensive Factor ETF|P|DEUS|Y|100|N|DEUS
 DEW|WisdomTree Global High Dividend Fund|P|DEW|Y|100|N|DEW
 DEX|Delaware Enhanced Global Dividend Common Shares of Beneficial Interest|N|DEX|N|100|N|DEX
+DFAE|Dimensional Emerging Core Equity Market ETF|P|DFAE|Y|100|N|DFAE
 DFAI|Dimensional International Core Equity Market ETF|P|DFAI|Y|100|N|DFAI
 DFAU|Dimensional US Core Equity Market ETF|P|DFAU|Y|100|N|DFAU
 DFE|WisdomTree Europe SmallCap Dividend Fund|P|DFE|Y|100|N|DFE
@@ -2501,7 +2503,7 @@ ICF|iShares Cohen & Steers REIT ETF|Z|ICF|Y|100|N|ICF
 ICL|ICL Group Ltd. Ordinary Shares|N|ICL|N|100|N|ICL
 ICOL|iShares Inc iShares MSCI Colombia ETF|P|ICOL|Y|100|N|ICOL
 ICOW|Pacer Developed Markets International Cash Cows 100 ETF|Z|ICOW|Y|100|N|ICOW
-ICSH|iShares Ultra Short-Term Bond ETF|Z|ICSH|Y|100|N|ICSH
+ICSH|BlackRock Ultra Short-Term Bond ETF|Z|ICSH|Y|100|N|ICSH
 ICVT|iShares Convertible Bond ETF|Z|ICVT|Y|100|N|ICVT
 ID|PARTS iD, Inc. Class A Common Stock|A|ID|N|100|N|ID
 IDA|IDACORP, Inc. Common Stock|N|IDA|N|100|N|IDA
@@ -2930,6 +2932,7 @@ KMB|Kimberly-Clark Corporation Common Stock|N|KMB|N|100|N|KMB
 KMED|KraneShares Trust KraneShares Emerging Markets Healthcare Index ETF|P|KMED|Y|100|N|KMED
 KMF|Kayne Anderson NextGen Energy & Infrastructure, Inc.|N|KMF|N|100|N|KMF
 KMI|Kinder Morgan, Inc. Common Stock|N|KMI|N|100|N|KMI
+KMLM|KFA Mount Lucas Index Strategy ETF|P|KMLM|Y|100|N|KMLM
 KMPR|Kemper Corporation|N|KMPR|N|100|N|KMPR
 KMT|Kennametal Inc. Common Stock|N|KMT|N|100|N|KMT
 KMX|CarMax Inc|N|KMX|N|100|N|KMX
@@ -3118,6 +3121,7 @@ MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
 MAV|Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest|N|MAV|N|100|N|MAV
 MAX|MediaAlpha, Inc. Class A Common Stock|N|MAX|N|100|N|MAX
 MAXR|Maxar Technologies Inc.|N|MAXR|N|100|N|MAXR
+MBBB|VanEck Vectors Moody's Analytics BBB Corporate Bond ETF|Z|MBBB|Y|100|N|MBBB
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
 MBSD|FlexShares Trust FlexShares Disciplined Duration MBS Index Fund|P|MBSD|Y|100|N|MBSD
 MBT|Mobile TeleSystems PJSC|N|MBT|N|100|N|MBT
@@ -3148,7 +3152,7 @@ MDU|MDU Resources Group, Inc. Common Stock (Holding Company)|N|MDU|N|100|N|MDU
 MDY|SPDR MidCap Trust Series I|P|MDY|Y|100|N|MDY
 MDYG|SPDR S&P 400 Mid Cap Growth ETF (based on S&P MidCap 400 Growth Index--symbol: MUV)|P|MDYG|Y|100|N|MDYG
 MDYV|SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol: MGD|P|MDYV|Y|100|N|MDYV
-MEAR|iShares Short Maturity Municipal Bond ETF|Z|MEAR|Y|100|N|MEAR
+MEAR|BlackRock Short Maturity Municipal Bond ETF|Z|MEAR|Y|100|N|MEAR
 MEC|Mayville Engineering Company, Inc. Common Stock|N|MEC|N|100|N|MEC
 MED|MEDIFAST INC Common Stock|N|MED|N|100|N|MED
 MEG|Montrose Environmental Group, Inc. Common Stock|N|MEG|N|100|N|MEG
@@ -3209,6 +3213,7 @@ MID|American Century Mid Cap Growth Impact ETF|P|MID|Y|100|N|MID
 MIDF|iShares MSCI USA Mid-Cap Multifactor ETF|P|MIDF|Y|100|N|MIDF
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
+MIG|VanEck Vectors Moody's Analytics IG Corporate Bond ETF|Z|MIG|Y|100|N|MIG
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
 MINT|PIMCO Enhanced Short Maturity Active Exchange-Traded Fund|P|MINT|Y|100|N|MINT
@@ -3410,7 +3415,7 @@ NCZ$A|AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred
 NDMO|Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest|N|NDMO|N|100|N|NDMO
 NDP|Tortoise Energy Independence Fund, Inc. Common Stock|N|NDP|N|100|N|NDP
 NEA|Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01|N|NEA|N|100|N|NEA
-NEAR|iShares Short Maturity Bond ETF|Z|NEAR|Y|100|N|NEAR
+NEAR|BlackRock Short Maturity Bond ETF|Z|NEAR|Y|100|N|NEAR
 NEE|NextEra Energy, Inc. Common Stock|N|NEE|N|100|N|NEE
 NEE$K|NextEra Energy, Inc. Series K Junior Subordinated Debentures due June 1, 2076|N|NEEpK|N|100|N|NEE-K
 NEE$N|NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079|N|NEEpN|N|100|N|NEE-N
@@ -4746,6 +4751,7 @@ T$A|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a sha
 T$C|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C|N|TpC|N|100|N|T-C
 TAAG|Trend Aggregation Aggressive Growth ETF|P|TAAG|Y|100|N|TAAG
 TAC|TransAlta Corporation Ordinary Shares|N|TAC|N|100|N|TAC
+TACA.U|Trepont Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|TACA.U|N|100|N|TACA=
 TACE|Trend Aggregation Conservative ETF|P|TACE|Y|100|N|TACE
 TADS|Trend Aggregation Dividend Stock ETF|P|TADS|Y|100|N|TADS
 TAEQ|Trend Aggregation U.S. ETF|Z|TAEQ|Y|100|N|TAEQ
@@ -5535,4 +5541,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1201202015:41||||||
+File Creation Time: 1202202012:11||||||
