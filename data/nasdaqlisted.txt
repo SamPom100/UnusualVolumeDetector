@@ -299,7 +299,6 @@ ASUR|Asure Software Inc - Common Stock|S|N|N|100|N|N
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100|N|N
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100|N|N
 ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock|G|N|N|100|N|N
-ATCXW|Atlas Technical Consultants, Inc. - Warrant|G|N|N|100|N|N
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
 ATHA|Athira Pharma, Inc. - Common Stock|Q|N|N|100|N|N
@@ -557,7 +556,6 @@ BSMT|Invesco BulletShares 2029 Municipal Bond ETF|G|N|N|100|Y|N
 BSMU|Invesco BulletShares 2030 Municipal Bond ETF|G|N|N|100|Y|N
 BSQR|BSQUARE Corporation - Common Stock|S|N|N|100|N|N
 BSRR|Sierra Bancorp - Common Stock|Q|N|N|100|N|N
-BSTC|BioSpecifics Technologies Corp - Common Stock|G|N|N|100|N|N
 BSVN|Bank7 Corp. - Common stock|Q|N|N|100|N|N
 BSY|Bentley Systems, Incorporated - Class B Common Stock|Q|N|N|100|N|N
 BTAI|BioXcel Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -860,8 +858,8 @@ CRSAU|Crescent Acquisition Corp - Unit|S|N|N|100|N|N
 CRSAW|Crescent Acquisition Corp - Warrant|S|N|N|100|N|N
 CRSP|CRISPR Therapeutics AG - Common Shares|G|N|N|100|N|N
 CRSR|Corsair Gaming, Inc. - Common Stock|Q|N|N|100|N|N
-CRTD|Creatd Inc. - Common Stock|S|N|N|100|N|N
-CRTDW|Creatd Inc. - Warrant|S|N|N|100|N|N
+CRTD|Creatd Inc. - Common Stock|S|N|D|100|N|N
+CRTDW|Creatd Inc. - Warrant|S|N|D|100|N|N
 CRTO|Criteo S.A. - American Depositary Shares|Q|N|N|100|N|N
 CRTX|Cortexyme, Inc. - Common Stock|Q|N|N|100|N|N
 CRUS|Cirrus Logic, Inc. - Common Stock|Q|N|N|100|N|N
@@ -956,6 +954,7 @@ DBDRU|Roman DBDR Tech Acquisition Corp. - Unit|S|N|N|100|N|N
 DBDRW|Roman DBDR Tech Acquisition Corp. - Warrant|S|N|N|100|N|N
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100|N|N
 DBX|Dropbox, Inc. - Class A Common Stock|Q|N|N|100|N|N
+DCBO|Docebo Inc. - Common Shares|Q|N|N|100|N|N
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A|S|N|N|100|N|N
 DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1505,9 +1504,6 @@ GMAB|Genmab A/S - American Depositary Shares|Q|N|N|100|N|N
 GMBL|Esports Entertainment Group Inc. - Common Stock|S|N|N|100|N|N
 GMBLW|Esports Entertainment Group Inc. - Warrant|S|N|N|100|N|N
 GMDA|Gamida Cell Ltd. - Ordinary Shares|G|N|N|100|N|N
-GMHI|Gores Metropoulos, Inc. - Class A Common Stock|S|N|N|100|N|N
-GMHIU|Gores Metropoulos, Inc. - Unit|S|N|N|100|N|N
-GMHIW|Gores Metropoulos, Inc. - Warrant|S|N|N|100|N|N
 GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|N|100|N|N
 GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units|Q|N|N|100|N|N
 GNCA|Genocea Biosciences, Inc. - Common Stock|S|N|N|100|N|N
@@ -1981,6 +1977,7 @@ KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100|N|N
 KNDI|Kandi Technologies Group, Inc. - Common Stock|Q|N|N|100|N|N
 KNSA|Kiniksa Pharmaceuticals, Ltd. - Class A Common Stock|Q|N|N|100|N|N
 KNSL|Kinsale Capital Group, Inc. - Common Stock|Q|N|N|100|N|N
+KNTE|Kinnate Biopharma Inc. - Common Stock|Q|N|N|100|N|N
 KOD|Kodiak Sciences Inc - Common Stock|G|N|N|100|N|N
 KOPN|Kopin Corporation - Common Stock|S|N|N|100|N|N
 KOR|Corvus Gold Inc. - Common Shares|S|N|N|100|N|N
@@ -2027,6 +2024,8 @@ LATNU|Union Acquisition Corp. II - Units|S|N|N|100|N|N
 LATNW|Union Acquisition Corp. II - Warrant|S|N|N|100|N|N
 LAUR|Laureate Education, Inc. - Class A Common Stock|Q|N|N|100|N|N
 LAWS|Lawson Products, Inc. - Common Stock|Q|N|N|100|N|N
+LAZR|Luminar Technologies, Inc.  - Class A Common Stock|Q|N|N|100|N|N
+LAZRW|Luminar Technologies, Inc.  - Warrant|Q|N|N|100|N|N
 LAZY|Lazydays Holdings, Inc. - Common Stock|S|N|N|100|N|N
 LBAI|Lakeland Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 LBC|Luther Burbank Corporation - Common Stock|Q|N|N|100|N|N
@@ -2162,7 +2161,9 @@ LYFT|Lyft, Inc. - Class A Common Stock|Q|N|N|100|N|N
 LYL|Dragon Victory International Limited - Ordinary Shares|S|N|N|100|N|N
 LYRA|Lyra Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100|N|N
+MAAC|Montes Archimedes Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 MAACU|Montes Archimedes Acquisition Corp. - Unit|S|N|N|100|N|N
+MAACW|Montes Archimedes Acquisition Corp. - Warrant|S|N|N|100|N|N
 MACK|Merrimack Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 MACU|Mallard Acquisition Corp. - Common Stock|S|N|N|100|N|N
 MACUU|Mallard Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -2466,7 +2467,6 @@ NTIC|Northern Technologies International Corporation - Common Stock|G|N|N|100|N|
 NTLA|Intellia Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 NTNX|Nutanix, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NTRA|Natera, Inc. - Common Stock|Q|N|N|100|N|N
-NTRP|Neurotrope, Inc. - Common Stock|S|N|N|100|N|N
 NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100|N|N
 NTRSO|Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
 NTUS|Natus Medical Incorporated - Common Stock|Q|N|N|100|N|N
@@ -3399,7 +3399,7 @@ TENB|Tenable Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 TENX|Tenax Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TER|Teradyne, Inc. - Common Stock|Q|N|N|100|N|N
 TESS|TESSCO Technologies Incorporated - Common Stock|Q|N|N|100|N|N
-TFFP|TFF Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
+TFFP|TFF Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 TFSL|TFS Financial Corporation - Common Stock|Q|N|N|100|N|N
 TGA|TransGlobe Energy Corporation - Common Shares|Q|N|D|100|N|N
 TGLS|Tecnoglass Inc. - Ordinary Shares|S|N|N|100|N|N
@@ -3427,7 +3427,7 @@ TILE|Interface, Inc. - Common Stock|Q|N|N|100|N|N
 TIPT|Tiptree Inc. - Common Stock|S|N|N|100|N|N
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100|N|N
 TLC|Taiwan Liposome Company, Ltd. - American Depositary Shares|G|N|N|100|N|N
-TLGT|Teligent, Inc. - Common Stock|Q|N|D|100|N|N
+TLGT|Teligent, Inc. - Common Stock|Q|N|H|100|N|N
 TLMD|SOC Telemed, Inc. - Class A Common Stock|S|N|N|100|N|N
 TLMDW|SOC Telemed, Inc. - Warrants|S|N|N|100|N|N
 TLND|Talend S.A. - American Depositary Shares|G|N|N|100|N|N
@@ -3850,4 +3850,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1202202015:43|||||||
+File Creation Time: 1203202012:11|||||||

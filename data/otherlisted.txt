@@ -141,9 +141,11 @@ AIN|Albany International Corporation Common Stock|N|AIN|N|100|N|AIN
 AINC|Ashford Inc. (Holding Company) Common Stock|A|AINC|N|100|N|AINC
 AIO|AllianzGI Artificial Intelligence & Technology Opportunities Fund Common Shares|N|AIO|N|100|N|AIO
 AIR|AAR Corp. Common Stock|N|AIR|N|100|N|AIR
+AIRC.V|Apartment Income REIT Corp. Common Stock When Issued|N|AIRCw|N|100|N|AIRC#
 AIRI|Air Industries Group Common Stock|A|AIRI|N|100|N|AIRI
 AIT|Applied Industrial Technologies, Inc. Common Stock|N|AIT|N|100|N|AIT
 AIV|Apartment Investment and Management Company Common Stock|N|AIV|N|100|N|AIV
+AIV.V|Apartment Investment and Management Company Class A Common Stock Ex-Distribution When Issued|N|AIVw|N|100|N|AIV#
 AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061|N|AIZN|N|100|N|AIZN
@@ -1916,6 +1918,7 @@ FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock|N|FOF|N|100|N|
 FOR|Forestar Group Inc Common Stock |N|FOR|N|100|N|FOR
 FOUR|Shift4 Payments, Inc. Class A Common Stock|N|FOUR|N|100|N|FOUR
 FOVL|iShares Focused Value Factor ETF|P|FOVL|Y|100|N|FOVL
+FPAC.U|Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|FPAC.U|N|100|N|FPAC=
 FPE|First Trust Preferred Securities and Income ETF ETF|P|FPE|Y|100|N|FPE
 FPEI|First Trust Institutional Preferred Securities and Income ETF|P|FPEI|Y|100|N|FPEI
 FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest|N|FPF|N|100|N|FPF
@@ -2060,7 +2063,9 @@ GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.
 GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares|N|GDVpH|N|100|N|GDV-H
 GDVD|Principal Active Global Dividend Income ETF|Z|GDVD|Y|100|N|GDVD
 GDX|VanEck Vectors Gold Miners ETF|P|GDX|Y|100|N|GDX
+GDXD|MicroSectors Gold Miners -3X Inverse Leveraged ETNs|P|GDXD|Y|100|N|GDXD
 GDXJ|VanEck Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
+GDXU|MicroSectors Gold Miners 3X Leveraged ETN|P|GDXU|Y|100|N|GDXU
 GE|General Electric Company Common Stock|N|GE|N|100|N|GE
 GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
 GEF.B|Greif, Inc. Corporation Class B Common Stock|N|GEF.B|N|100|N|GEF.B
@@ -2404,6 +2409,7 @@ HTEC|Robo Global Healthcare Technology and Innovation ETF|P|HTEC|Y|100|N|HTEC
 HTFA|Horizon Technology Finance Corporation 6.25% Notes due 2022|N|HTFA|N|100|N|HTFA
 HTGC|Hercules Capital, Inc. Common Stock|N|HTGC|N|100|N|HTGC
 HTH|Hilltop Holdings Inc.|N|HTH|N|100|N|HTH
+HTPA.U|Highland Transcend Partners I Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|HTPA.U|N|100|N|HTPA=
 HTRB|Hartford Total Return Bond ETF|P|HTRB|Y|100|N|HTRB
 HTUS|Hull Tactical US ETF|P|HTUS|Y|100|N|HTUS
 HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest|N|HTY|N|100|N|HTY
@@ -3061,6 +3067,7 @@ LOAK|Live Oak Acquisition Corp. Common Stock|N|LOAK|N|100|N|LOAK
 LOAK.U|Live Oak Acquisition Corp. Units, each consisting of one share of Common Stock and three-fourths of one Redeemable Warrant to purchase one share of Common Stock|N|LOAK.U|N|100|N|LOAK=
 LOAK.W|Live Oak Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|LOAK.WS|N|100|N|LOAK+
 LODE|Comstock Mining, Inc. Common Stock|A|LODE|N|100|N|LODE
+LOKB.U|Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|LOKB.U|N|100|N|LOKB=
 LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS|N|LOMA|N|100|N|LOMA
 LOUP|Innovator Loup Frontier Tech E|P|LOUP|Y|100|N|LOUP
 LOV|Spark Networks, Inc. American Depositary Shares (each representing one-tenth of an Ordinary Share)|A|LOV|N|100|N|LOV
@@ -3189,6 +3196,7 @@ MGC|Vanguard Mega Cap ETF|P|MGC|Y|100|N|MGC
 MGF|MFS Government Markets Income Trust Common Stock|N|MGF|N|100|N|MGF
 MGK|Vanguard Mega Cap Growth ETF|P|MGK|Y|100|N|MGK
 MGM|MGM Resorts International Common Stock|N|MGM|N|100|N|MGM
+MGMT|Ballast Small/Mid Cap ETF|P|MGMT|Y|100|N|MGMT
 MGP|MGM Growth Properties LLC Class A common shares representing limited liability company interests|N|MGP|N|100|N|MGP
 MGR|Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059|N|MGR|N|100|N|MGR
 MGRB|Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060|N|MGRB|N|100|N|MGRB
@@ -3601,6 +3609,7 @@ NVG|Nuveen AMT-Free Municipal Credit Income Fund |N|NVG|N|100|N|NVG
 NVGS|Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)|N|NVGS|N|100|N|NVGS
 NVMZ|TrueShares Structured Outcome (November) ETF|Z|NVMZ|Y|100|N|NVMZ
 NVO|Novo Nordisk A/S Common Stock|N|NVO|N|100|N|NVO
+NVQ|QRAFT AI-Enhanced US Next Value ETF|P|NVQ|Y|100|N|NVQ
 NVR|NVR, Inc. Common Stock|N|NVR|N|10|N|NVR
 NVRO|Nevro Corp. Common Stock|N|NVRO|N|100|N|NVRO
 NVS|Novartis AG Common Stock|N|NVS|N|100|N|NVS
@@ -4583,6 +4592,7 @@ SPE$B|Special Opportunities Fund Inc. 3.50% Convertible Preferred Stock, Series 
 SPEM|SPDR Index Shares Fund SPDR Portfolio Emerging Markets ETF|P|SPEM|Y|100|N|SPEM
 SPEU|SPDR Portfolio Europe ETF|P|SPEU|Y|100|N|SPEU
 SPFF|Global X SuperIncome Preferred ETF|P|SPFF|Y|100|N|SPFF
+SPFR.U|Jaws Spitfire Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|SPFR.U|N|100|N|SPFR=
 SPG|Simon Property Group, Inc. Common Stock|N|SPG|N|100|N|SPG
 SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock|N|SPGpJ|N|100|N|SPG-J
 SPGI|S&P Global Inc. Common Stock|N|SPGI|N|100|N|SPGI
@@ -5241,6 +5251,7 @@ VNO|Vornado Realty Trust Common Stock|N|VNO|N|100|N|VNO
 VNO$K|Vornado Realty Trust Pfd S K|N|VNOpK|N|100|N|VNO-K
 VNO$L|Vornado Realty Trust Pfd Ser L %|N|VNOpL|N|100|N|VNO-L
 VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share|N|VNOpM|N|100|N|VNO-M
+VNO$N|Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share|N|VNOpN|N|100|N|VNO-N
 VNQ|Vanguard Real Estate ETF|P|VNQ|Y|100|N|VNQ
 VNRX|VolitionRX Limited Common Stock|A|VNRX|N|100|N|VNRX
 VNSE|Natixis Vaughan Nelson Select ETF|P|VNSE|Y|100|N|VNSE
@@ -5541,4 +5552,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1202202015:43||||||
+File Creation Time: 1203202012:11||||||

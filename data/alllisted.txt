@@ -111,9 +111,11 @@ AIN,AIN|Albany International Corporation Common Stock
 AINC,AINC|Ashford Inc. (Holding Company) Common Stock
 AIO,AIO|AllianzGI Artificial Intelligence & Technology Opportunities Fund Common Shares
 AIR,AIR|AAR Corp. Common Stock
+AIRC.V,AIRC.V|Apartment Income REIT Corp. Common Stock When Issued
 AIRI,AIRI|Air Industries Group Common Stock
 AIT,AIT|Applied Industrial Technologies, Inc. Common Stock
 AIV,AIV|Apartment Investment and Management Company Common Stock
+AIV.V,AIV.V|Apartment Investment and Management Company Class A Common Stock Ex-Distribution When Issued
 AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
@@ -1336,6 +1338,7 @@ FOE,FOE|Ferro Corporation Common Stock
 FOF,FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOR,FOR|Forestar Group Inc Common Stock 
 FOUR,FOUR|Shift4 Payments, Inc. Class A Common Stock
+FPAC.U,FPAC.U|Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
 FPF,FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
 FPH,FPH|Five Point Holdings, LLC Class A Common Shares
 FPI,FPI|Farmland Partners Inc. Common Stock
@@ -1677,6 +1680,7 @@ HTD,HTD|John Hancock Tax Advantaged Dividend Income Fund Common Shares of Benefi
 HTFA,HTFA|Horizon Technology Finance Corporation 6.25% Notes due 2022
 HTGC,HTGC|Hercules Capital, Inc. Common Stock
 HTH,HTH|Hilltop Holdings Inc.
+HTPA.U,HTPA.U|Highland Transcend Partners I Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 HTY,HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest
 HUBB,HUBB|Hubbell Inc Common Stock
 HUBS,HUBS|HubSpot, Inc. Common Stock
@@ -2022,6 +2026,7 @@ LOAK,LOAK|Live Oak Acquisition Corp. Common Stock
 LOAK.U,LOAK.U|Live Oak Acquisition Corp. Units, each consisting of one share of Common Stock and three-fourths of one Redeemable Warrant to purchase one share of Common Stock
 LOAK.W,LOAK.W|Live Oak Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 LODE,LODE|Comstock Mining, Inc. Common Stock
+LOKB.U,LOKB.U|Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 LOMA,LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LOV,LOV|Spark Networks, Inc. American Depositary Shares (each representing one-tenth of an Ordinary Share)
 LOW,LOW|Lowe's Companies, Inc. Common Stock
@@ -3088,6 +3093,7 @@ SPB,SPB|Spectrum Brands Holdings, Inc. Common Stock
 SPCE,SPCE|Virgin Galactic Holdings, Inc. Common Stock
 SPE,SPE|Special Opportunities Fund, Inc Common Stock
 SPE$B,SPE$B|Special Opportunities Fund Inc. 3.50% Convertible Preferred Stock, Series B
+SPFR.U,SPFR.U|Jaws Spitfire Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
 SPG,SPG|Simon Property Group, Inc. Common Stock
 SPG$J,SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock
 SPGI,SPGI|S&P Global Inc. Common Stock
@@ -3487,6 +3493,7 @@ VNO,VNO|Vornado Realty Trust Common Stock
 VNO$K,VNO$K|Vornado Realty Trust Pfd S K
 VNO$L,VNO$L|Vornado Realty Trust Pfd Ser L %
 VNO$M,VNO$M|Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share
+VNO$N,VNO$N|Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share
 VNRX,VNRX|VolitionRX Limited Common Stock
 VNT,VNT|Vontier Corporation Common Stock 
 VNTR,VNTR|Venator Materials PLC Ordinary Shares
@@ -3955,7 +3962,6 @@ ASUR,ASUR|Asure Software Inc - Common Stock
 ASYS,ASYS|Amtech Systems, Inc. - Common Stock
 ATAX,ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
 ATCX,ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock
-ATCXW,ATCXW|Atlas Technical Consultants, Inc. - Warrant
 ATEC,ATEC|Alphatec Holdings, Inc. - Common Stock
 ATEX,ATEX|Anterix Inc. - Common Stock
 ATHA,ATHA|Athira Pharma, Inc. - Common Stock
@@ -4167,7 +4173,6 @@ BSET,BSET|Bassett Furniture Industries, Incorporated - Common Stock
 BSGM,BSGM|BioSig Technologies, Inc. - Common Stock
 BSQR,BSQR|BSQUARE Corporation - Common Stock
 BSRR,BSRR|Sierra Bancorp - Common Stock
-BSTC,BSTC|BioSpecifics Technologies Corp - Common Stock
 BSVN,BSVN|Bank7 Corp. - Common stock
 BSY,BSY|Bentley Systems, Incorporated - Class B Common Stock
 BTAI,BTAI|BioXcel Therapeutics, Inc. - Common Stock
@@ -4536,6 +4541,7 @@ DBDRU,DBDRU|Roman DBDR Tech Acquisition Corp. - Unit
 DBDRW,DBDRW|Roman DBDR Tech Acquisition Corp. - Warrant
 DBVT,DBVT|DBV Technologies S.A. - American Depositary Shares
 DBX,DBX|Dropbox, Inc. - Class A Common Stock
+DCBO,DCBO|Docebo Inc. - Common Shares
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
@@ -4977,9 +4983,6 @@ GMAB,GMAB|Genmab A/S - American Depositary Shares
 GMBL,GMBL|Esports Entertainment Group Inc. - Common Stock
 GMBLW,GMBLW|Esports Entertainment Group Inc. - Warrant
 GMDA,GMDA|Gamida Cell Ltd. - Ordinary Shares
-GMHI,GMHI|Gores Metropoulos, Inc. - Class A Common Stock
-GMHIU,GMHIU|Gores Metropoulos, Inc. - Unit
-GMHIW,GMHIW|Gores Metropoulos, Inc. - Warrant
 GMLP,GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership
 GMLPP,GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units
 GNCA,GNCA|Genocea Biosciences, Inc. - Common Stock
@@ -5394,6 +5397,7 @@ KMDA,KMDA|Kamada Ltd. - Ordinary Shares
 KNDI,KNDI|Kandi Technologies Group, Inc. - Common Stock
 KNSA,KNSA|Kiniksa Pharmaceuticals, Ltd. - Class A Common Stock
 KNSL,KNSL|Kinsale Capital Group, Inc. - Common Stock
+KNTE,KNTE|Kinnate Biopharma Inc. - Common Stock
 KOD,KOD|Kodiak Sciences Inc - Common Stock
 KOPN,KOPN|Kopin Corporation - Common Stock
 KOR,KOR|Corvus Gold Inc. - Common Shares
@@ -5439,6 +5443,8 @@ LATNU,LATNU|Union Acquisition Corp. II - Units
 LATNW,LATNW|Union Acquisition Corp. II - Warrant
 LAUR,LAUR|Laureate Education, Inc. - Class A Common Stock
 LAWS,LAWS|Lawson Products, Inc. - Common Stock
+LAZR,LAZR|Luminar Technologies, Inc.  - Class A Common Stock
+LAZRW,LAZRW|Luminar Technologies, Inc.  - Warrant
 LAZY,LAZY|Lazydays Holdings, Inc. - Common Stock
 LBAI,LBAI|Lakeland Bancorp, Inc. - Common Stock
 LBC,LBC|Luther Burbank Corporation - Common Stock
@@ -5567,7 +5573,9 @@ LYFT,LYFT|Lyft, Inc. - Class A Common Stock
 LYL,LYL|Dragon Victory International Limited - Ordinary Shares
 LYRA,LYRA|Lyra Therapeutics, Inc. - Common Stock
 LYTS,LYTS|LSI Industries Inc. - Common Stock
+MAAC,MAAC|Montes Archimedes Acquisition Corp. - Class A Common Stock
 MAACU,MAACU|Montes Archimedes Acquisition Corp. - Unit
+MAACW,MAACW|Montes Archimedes Acquisition Corp. - Warrant
 MACK,MACK|Merrimack Pharmaceuticals, Inc. - Common Stock
 MACU,MACU|Mallard Acquisition Corp. - Common Stock
 MACUU,MACUU|Mallard Acquisition Corp. - Unit
@@ -5865,7 +5873,6 @@ NTIC,NTIC|Northern Technologies International Corporation - Common Stock
 NTLA,NTLA|Intellia Therapeutics, Inc. - Common Stock
 NTNX,NTNX|Nutanix, Inc. - Class A Common Stock
 NTRA,NTRA|Natera, Inc. - Common Stock
-NTRP,NTRP|Neurotrope, Inc. - Common Stock
 NTRS,NTRS|Northern Trust Corporation - Common Stock
 NTRSO,NTRSO|Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock
 NTUS,NTUS|Natus Medical Incorporated - Common Stock
