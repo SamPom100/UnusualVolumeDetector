@@ -1385,6 +1385,7 @@ FTA|First Trust Large Cap Value AlphaDEX Fund|G|N|N|100|Y|N
 FTAG|First Trust Indxx Global Agriculture ETF|G|N|N|100|Y|N
 FTC|First Trust Large Cap Growth AlphaDEX Fund|G|N|N|100|Y|N
 FTCS|First Trust Capital Strength ETF|G|N|N|100|Y|N
+FTCVU|FinTech Acquisition Corp. V - Unit|S|N|N|100|N|N
 FTDR|frontdoor, inc. - Common Stock|Q|N|N|100|N|N
 FTEK|Fuel Tech, Inc. - Common Stock|S|N|D|100|N|N
 FTFT|Future FinTech Group Inc. - Common Stock|S|N|N|100|N|N
@@ -1759,7 +1760,7 @@ ICON|Iconix Brand Group, Inc. - Common Stock|Q|N|D|100|N|N
 ICPT|Intercept Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ICUI|ICU Medical, Inc. - Common Stock|Q|N|N|100|N|N
 IDCC|InterDigital, Inc. - Common Stock|Q|N|N|100|N|N
-IDEX|Ideanomics, Inc. - Common Stock|S|N|D|100|N|N
+IDEX|Ideanomics, Inc. - Common Stock|S|N|N|100|N|N
 IDLB|Invesco FTSE International Low Beta Equal Weight ETF|G|N|N|100|Y|N
 IDN|Intellicheck, Inc. - Common Stock|G|N|N|100|N|N
 IDRA|Idera Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -2554,6 +2555,7 @@ ONCR|Oncorus, Inc. - Common Stock|G|N|N|100|N|N
 ONCS|OncoSec Medical Incorporated - Common Stock|S|N|N|100|N|N
 ONCT|Oncternal Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 ONCY|Oncolytics Biotech Inc. - Common Shares|S|N|N|100|N|N
+ONDS|Ondas Holdings Inc. - Common Stock|S|N|N|100|N|N
 ONEM|1Life Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 ONEQ|Fidelity Nasdaq Composite Index Tracking Stock|G|N|N|100|Y|N
 ONEW|OneWater Marine Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -2838,6 +2840,7 @@ PTF|Invesco DWA Technology Momentum ETF|G|N|N|100|Y|N
 PTGX|Protagonist Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 PTH|Invesco DWA Healthcare Momentum ETF|G|N|N|100|Y|N
 PTI|Proteostasis Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
+PTICU|PropTech Investment Corporation II - Unit|S|N|N|100|N|N
 PTMN|Portman Ridge Finance Corporation - common stock|Q|N|N|100|N|N
 PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share|Q|N|N|100|N|N
 PTON|Peloton Interactive, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3075,6 +3078,7 @@ SBNY|Signature Bank - Common Stock|Q|N|N|100|N|N
 SBRA|Sabra Health Care REIT, Inc. - Common Stock|Q|N|N|100|N|N
 SBSI|Southside Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 SBT|Sterling Bancorp, Inc. - Common Stock|S|N|N|100|N|N
+SBTX|Silverback Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 SBUX|Starbucks Corporation - Common Stock|Q|N|N|100|N|N
 SCHL|Scholastic Corporation - Common Stock|Q|N|N|100|N|N
 SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -3096,6 +3100,7 @@ SECO|Secoo Holding Limited - American Depositary Shares|G|N|N|100|N|N
 SEDG|SolarEdge Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 SEED|Origin Agritech Limited - Common Stock|S|N|N|100|N|N
 SEEL|Seelos Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
+SEER|Seer, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SEIC|SEI Investments Company - Common Stock|Q|N|N|100|N|N
 SELB|Selecta Biosciences, Inc. - Common Stock|G|N|N|100|N|N
 SELF|Global Self Storage, Inc. - Common Stock|S|N|N|100|N|N
@@ -3126,6 +3131,7 @@ SGMS|Scientific Games Corp - Common Stock|Q|N|N|100|N|N
 SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)|S|N|N|100|N|N
 SGRP|SPAR Group, Inc. - Common Stock|S|N|D|100|N|N
 SGRY|Surgery Partners, Inc. - Common Stock|Q|N|N|100|N|N
+SGTX|Sigilon Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 SHBI|Shore Bancshares Inc - Common Stock|Q|N|N|100|N|N
 SHC|Sotera Health Company - Common Stock|Q|N|N|100|N|N
 SHEN|Shenandoah Telecommunications Co - Common Stock|Q|N|N|100|N|N
@@ -3803,6 +3809,7 @@ YLDE|ClearBridge Dividend Strategy ESG ETF|G|N|N|100|Y|N
 YMAB|Y-mAbs Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 YNDX|Yandex N.V. - Class A Ordinary Shares|Q|N|N|100|N|N
 YORW|The York Water Company - Common Stock|Q|N|N|100|N|N
+YQ|17 Education & Technology Group Inc. - American Depositary Shares|Q|N|N|100|N|N
 YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 YSACU|Yellowstone Acquisition Company - Units|S|N|N|100|N|N
 YTEN|Yield10 Bioscience, Inc.  - Common Stock|S|N|N|100|N|N
@@ -3850,4 +3857,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1203202015:42|||||||
+File Creation Time: 1204202012:11|||||||
