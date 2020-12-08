@@ -763,6 +763,7 @@ CMT,CMT|Core Molding Technologies Inc Common Stock
 CMU,CMU|MFS Municipal Income Trust Common Stock
 CNA,CNA|CNA Financial Corporation Common Stock
 CNC,CNC|Centene Corporation Common Stock
+CND.U,CND.U|Concord Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
 CNF,CNF|CNFinance Holdings Limited American Depositary Shares, each representing  twenty (20) Ordinary Shares
 CNHI,CNHI|CNH Industrial N.V. Common Shares
 CNI,CNI|Canadian National Railway Company Common Stock
@@ -2937,7 +2938,6 @@ SAK,SAK|Saratoga Investment Corp 7.25% Notes due 2025
 SALT,SALT|Scorpio Bulkers Inc. Common Stock
 SAM,SAM|Boston Beer Company, Inc. (The) Common Stock
 SAN,SAN|Banco Santander, S.A. Sponsored ADR (Spain)
-SAN$B,SAN$B|Banco Santander, S.A. Floating Rate Non-cumulative Series 6 Guaranteed Preferred Securities
 SAND,SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)
 SAP,SAP|SAP  SE ADS
 SAR,SAR|Saratoga Investment Corp New
@@ -4179,7 +4179,9 @@ BTAQ,BTAQ|Burgundy Technology Acquisition Corporation - Class A Ordinary Shares
 BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
 BTAQW,BTAQW|Burgundy Technology Acquisition Corporation - Warrant
 BTBT,BTBT|Bit Digital, Inc. - Ordinary Share
+BTWN,BTWN|Bridgetown Holdings Limited - Class A Ordinary Shares
 BTWNU,BTWNU|Bridgetown Holdings Limited - Units
+BTWNW,BTWNW|Bridgetown Holdings Limited - Warrants
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
 BWACU,BWACU|BETTER WORLD ACQUISITION CORP. - Unit
@@ -4547,6 +4549,7 @@ DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
 DCRBU,DCRBU|Decarbonization Plus Acquisition Corporation - Unit
 DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
+DDMXU,DDMXU|DD3 Acquisition Corp. II - Unit
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
 DENN,DENN|Denny's Corporation - Common Stock
 DFFN,DFFN|Diffusion Pharmaceuticals Inc. - Common Stock
@@ -5054,7 +5057,8 @@ GTLS,GTLS|Chart Industries, Inc. - Common Stock
 GTYH,GTYH|GTY Technology Holdings, Inc. - Common Stock
 GURE,GURE|Gulf Resources, Inc. - Common Stock
 GVP,GVP|GSE Systems, Inc. - Common Stock
-GWACU,GWACU|Good Works Acquisition Corp. - Unit
+GWAC,GWAC|Good Works Acquisition Corp. - Common Stock
+GWACW,GWACW|Good Works Acquisition Corp. - Warrant
 GWGH,GWGH|GWG Holdings, Inc - Common Stock
 GWPH,GWPH|GW Pharmaceuticals Plc - American Depositary Shares
 GWRS,GWRS|Global Water Resources, Inc. - common stock
@@ -5132,8 +5136,8 @@ HMTV,HMTV|Hemisphere Media Group, Inc. - Class A Common Stock
 HNNA,HNNA|Hennessy Advisors, Inc. - Common Stock
 HNRG,HNRG|Hallador Energy Company - Common Stock
 HOFT,HOFT|Hooker Furniture Corporation - Common Stock
-HOFV,HOFV|Hall of Fame Resort &amp; Entertainment Company - Common Stock
-HOFVW,HOFVW|Hall of Fame Resort &amp; Entertainment Company - Warrant
+HOFV,HOFV|Hall of Fame Resort & Entertainment Company - Common Stock
+HOFVW,HOFVW|Hall of Fame Resort & Entertainment Company - Warrant
 HOL,HOL|Holicity Inc. - Class A Common Stock
 HOLI,HOLI|Hollysys Automation Technologies, Ltd. - Common Stock
 HOLUU,HOLUU|Holicity Inc. - Unit
@@ -5749,6 +5753,7 @@ MTSC,MTSC|MTS Systems Corporation - Common Stock
 MTSI,MTSI|MACOM Technology Solutions Holdings, Inc. - Common Stock
 MTSL,MTSL|MER Telemanagement Solutions Ltd. - Ordinary Shares
 MU,MU|Micron Technology, Inc. - Common Stock
+MUDSU,MUDSU|Mudrick Capital Acquisition Corporation II - Unit
 MVBF,MVBF|MVB Financial Corp. - Common Stock
 MVIS,MVIS|MicroVision, Inc. - Common Stock
 MWK,MWK|Mohawk Group Holdings, Inc. - Common Stock
@@ -5806,7 +5811,9 @@ NEXT,NEXT|NextDecade Corporation - Common Stock
 NFBK,NFBK|Northfield Bancorp, Inc. - Common Stock
 NFE,NFE|New Fortress Energy Inc. - Class A Common Stock
 NFLX,NFLX|Netflix, Inc. - Common Stock
+NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
 NGACU,NGACU|NextGen Acquisition Corporation - Units
+NGACW,NGACW|NextGen Acquisition Corporation - Warrants
 NGHC,NGHC|National General Holdings Corp - Common Stock
 NGHCN,NGHCN|National General Holdings Corp - Depositary Shares, each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock, Series C
 NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
@@ -6223,7 +6230,7 @@ PWFL,PWFL|PowerFleet, Inc. - Common Stock
 PWOD,PWOD|Penns Woods Bancorp, Inc. - Common Stock
 PXLW,PXLW|Pixelworks, Inc. - Common Stock
 PXS,PXS|Pyxis Tankers Inc. - Common Stock
-PXSAP,PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Redeemable Perpetual Preferred Share
+PXSAP,PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Convertible Preferred Shares
 PXSAW,PXSAW|Pyxis Tankers Inc. - Warrant
 PYPD,PYPD|PolyPid Ltd. - Ordinary Shares
 PYPL,PYPL|PayPal Holdings, Inc. - Common Stock
@@ -6256,6 +6263,7 @@ QTT,QTT|Qutoutiao Inc. - American Depositary Shares
 QUIK,QUIK|QuickLogic Corporation - Common Stock
 QUMU,QUMU|Qumu Corporation - Common Stock
 QURE,QURE|uniQure N.V. - Ordinary Shares
+RAACU,RAACU|Revolution Acceleration Acquisition Corp - Unit
 RACA,RACA|Therapeutics Acquisition Corp. - Class A Common Stock
 RADA,RADA|RADA Electronic Industries Ltd. - Ordinary Shares
 RADI,RADI|Radius Global Infrastructure, Inc. - Common Stock
@@ -6635,6 +6643,7 @@ SUNS,SUNS|Solar Senior Capital Ltd. - Common Stock
 SUNW,SUNW|Sunworks, Inc. - Common Stock
 SUPN,SUPN|Supernus Pharmaceuticals, Inc. - Common Stock
 SURF,SURF|Surface Oncology, Inc. - Common Stock
+SV,SV|Spring Valley Acquisition Corp. - Class A Ordinary Share
 SVA,SVA|Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
 SVAC,SVAC|Starboard Value Acquisition Corp. - Class A Common Stock
 SVACU,SVACU|Starboard Value Acquisition Corp. - Unit
@@ -6644,6 +6653,7 @@ SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVMK,SVMK|SVMK Inc. - Common Stock
 SVRA,SVRA|Savara, Inc. - Common Stock
 SVSVU,SVSVU|Spring Valley Acquisition Corp. - Unit
+SVSVW,SVSVW|Spring Valley Acquisition Corp. - Warrant
 SVVC,SVVC|Firsthand Technology Value Fund, Inc. - Common Stock
 SWAV,SWAV|ShockWave Medical, Inc. - Common Stock
 SWBI,SWBI|Smith & Wesson Brands, Inc. - Common Stock
@@ -7078,7 +7088,9 @@ YNDX,YNDX|Yandex N.V. - Class A Ordinary Shares
 YORW,YORW|The York Water Company - Common Stock
 YQ,YQ|17 Education & Technology Group Inc. - American Depositary Shares
 YRCW,YRCW|YRC Worldwide, Inc. - Common Stock
+YSAC,YSAC|Yellowstone Acquisition Company - Class A Common Stock
 YSACU,YSACU|Yellowstone Acquisition Company - Units
+YSACW,YSACW|Yellowstone Acquisition Company - Warrants to purchase Class A common stock
 YTEN,YTEN|Yield10 Bioscience, Inc.  - Common Stock
 YTRA,YTRA|Yatra Online, Inc. - Ordinary Shares
 YVR,YVR|Liquid Media Group Ltd. - Common Shares

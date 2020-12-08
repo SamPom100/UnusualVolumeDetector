@@ -950,6 +950,7 @@ CN|Xtrackers MSCI All China Equity ETF|P|CN|Y|100|N|CN
 CNA|CNA Financial Corporation Common Stock|N|CNA|N|100|N|CNA
 CNBS|Amplify Seymour Cannabis ETF|P|CNBS|Y|100|N|CNBS
 CNC|Centene Corporation Common Stock|N|CNC|N|100|N|CNC
+CND.U|Concord Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|CND.U|N|100|N|CND=
 CNF|CNFinance Holdings Limited American Depositary Shares, each representing  twenty (20) Ordinary Shares|N|CNF|N|100|N|CNF
 CNHI|CNH Industrial N.V. Common Shares|N|CNHI|N|100|N|CNHI
 CNI|Canadian National Railway Company Common Stock|N|CNI|N|100|N|CNI
@@ -1192,12 +1193,14 @@ DFAU|Dimensional US Core Equity Market ETF|P|DFAU|Y|100|N|DFAU
 DFE|WisdomTree Europe SmallCap Dividend Fund|P|DFE|Y|100|N|DFE
 DFEB|FT Cboe Vest U.S. Equity Deep Buffer ETF - February|Z|DFEB|Y|100|N|DFEB
 DFEN|Direxion Daily Aerospace & Defense Bull 3X Shares|P|DFEN|Y|100|N|DFEN
+DFHY|TrimTabs Donoghue Forlines Tactical High Yield ETF|Z|DFHY|Y|100|N|DFHY
 DFIN|Donnelley Financial Solutions, Inc. Common Stock |N|DFIN|N|100|N|DFIN
 DFJ|WisdomTree Japan SmallCap Fund|P|DFJ|Y|100|N|DFJ
 DFND|Siren DIVCON Dividend Defender ETF|Z|DFND|Y|100|N|DFND
 DFNS|LGL Systems Acquisition Corp. Common Stock|N|DFNS|N|100|N|DFNS
 DFNS.U|LGL Systems Acquisition Corp. Units|N|DFNS.U|N|100|N|DFNS=
 DFNS.W|LGL Systems Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of Class A Common Stock at an exercise price of $11.50 per share|N|DFNS.WS|N|100|N|DFNS+
+DFNV|TrimTabs Donoghue Forlines Risk Managed Innovation ETF|Z|DFNV|Y|100|N|DFNV
 DFP|Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock|N|DFP|N|100|N|DFP
 DFS|Discover Financial Services Common Stock|N|DFS|N|100|N|DFS
 DFVL|iPath US Treasury 5 Year Bull ETN|Z|DFVL|N|100|N|DFVL
@@ -1763,6 +1766,7 @@ FENY|Fidelity MSCI Energy Index ETF|P|FENY|Y|100|N|FENY
 FEO|First Trust/Aberdeen Emerging Opportunity Fund Common Shares of Beneficial Interest|N|FEO|N|100|N|FEO
 FET|Forum Energy Technologies, Inc. Common Stock|N|FET|N|100|N|FET
 FEUL|Credit Suisse FI Enhanced Europe 50 ETNs|P|FEUL|N|100|N|FEUL
+FEVR|Northern Lights Fund Trust IV Inspire Faithward Large Cap Momentum ESG ETF|P|FEVR|Y|100|N|FEVR
 FEZ|SPDR DJ Euro STOXX 50 Etf|P|FEZ|Y|100|N|FEZ
 FF|FutureFuel Corp.  Common shares|N|FF|N|100|N|FF
 FFA|First Trust Enhanced Equity Income Fund|N|FFA|N|100|N|FFA
@@ -2144,6 +2148,7 @@ GLOP$C|GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed 
 GLP|Global Partners LP Global Partners LP Common Units representing Limited Partner Interests|N|GLP|N|100|N|GLP
 GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests|N|GLPpA|N|100|N|GLP-A
 GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest|A|GLQ|N|100|N|GLQ
+GLRY|Northern Lights Fund Trust IV Inspire Faithward Mid Cap Momentum ESG ETF|P|GLRY|Y|100|N|GLRY
 GLT|Glatfelter Corporation Common Stock|N|GLT|N|100|N|GLT
 GLTR|Aberdeen Standard Physical Precious Metals Basket Shares ETF|P|GLTR|Y|100|N|GLTR
 GLU|Gabelli Global Utility Common Shares of Beneficial Ownership|A|GLU|N|100|N|GLU
@@ -4332,7 +4337,6 @@ SAK|Saratoga Investment Corp 7.25% Notes due 2025|N|SAK|N|100|N|SAK
 SALT|Scorpio Bulkers Inc. Common Stock|N|SALT|N|100|N|SALT
 SAM|Boston Beer Company, Inc. (The) Common Stock|N|SAM|N|100|N|SAM
 SAN|Banco Santander, S.A. Sponsored ADR (Spain)|N|SAN|N|100|N|SAN
-SAN$B|Banco Santander, S.A. Floating Rate Non-cumulative Series 6 Guaranteed Preferred Securities|N|SANpB|N|100|N|SAN-B
 SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)|N|SAND|N|100|N|SAND
 SAP|SAP  SE ADS|N|SAP|N|100|N|SAP
 SAR|Saratoga Investment Corp New|N|SAR|N|100|N|SAR
@@ -5551,4 +5555,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1204202015:42||||||
+File Creation Time: 1208202012:11||||||
