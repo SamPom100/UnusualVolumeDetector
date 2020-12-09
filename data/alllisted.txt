@@ -101,6 +101,7 @@ AHT$F,AHT$F|Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred S
 AHT$G,AHT$G|Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock
 AHT$H,AHT$H|Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock
 AHT$I,AHT$I|Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock
+AI,AI|C3.ai, Inc. Class A Common Stock
 AIC,AIC|Arlington Asset Investment Corp 6.750% Notes due 2025
 AIF,AIF|Apollo Tactical Income Fund Inc. Common Stock
 AIG,AIG|American International Group, Inc. New Common Stock
@@ -910,6 +911,7 @@ DAL,DAL|Delta Air Lines, Inc. Common Stock
 DAN,DAN|Dana Incorporated Common Stock 
 DAO,DAO|Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share
 DAR,DAR|Darling Ingredients Inc. Common Stock
+DASH,DASH|DoorDash, Inc. Class A Common Stock
 DAVA,DAVA|Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
 DB,DB|Deutsche Bank AG Common Stock
 DBD,DBD|Diebold Nixdorf Incorporated Common Stock
@@ -3195,7 +3197,6 @@ TALO,TALO|Talos Energy, Inc. Common Stock
 TALO.W,TALO.W|Talos Energy, Inc. Warrants
 TAP,TAP|Molson Coors Beverage Company Class B Common Stock
 TAP.A,TAP.A|Molson Coors Beverage Company Molson Coors Brewing Company Class A Common Stock
-TAPR,TAPR|iPath Inverse US Treasury Composite ETN
 TARO,TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares
 TAT,TAT|TransAtlantic Petroleum Ltd Ordinary Shares (Bermuda)
 TBB,TBB|AT&T Inc. 5.350% Global Notes due 2066
@@ -3834,6 +3835,7 @@ ALT,ALT|Altimmune, Inc. - Common Stock
 ALTA,ALTA|Altabancorp - Common Stock
 ALTM,ALTM|Altus Midstream Company - Class A Common Stock
 ALTR,ALTR|Altair Engineering Inc. - Class A Common Stock
+ALTUU,ALTUU|Altitude Acquisition Corp. - Unit
 ALVR,ALVR|AlloVir, Inc. - Common Stock
 ALXN,ALXN|Alexion Pharmaceuticals, Inc. - Common Stock
 ALXO,ALXO|ALX Oncology Holdings Inc. - Common Stock
@@ -4529,6 +4531,8 @@ CYCCP,CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock
 CYCN,CYCN|Cyclerion Therapeutics, Inc. - Common Stock 
 CYRN,CYRN|CYREN Ltd. - Ordinary Shares
 CYRX,CYRX|CryoPort, Inc. - Common Stock
+CYTH,CYTH|Cyclo Therapeutics, Inc. - Common Stock
+CYTHW,CYTHW|Cyclo Therapeutics, Inc. - Warrant
 CYTK,CYTK|Cytokinetics, Incorporated - Common Stock
 CZNC,CZNC|Citizens & Northern Corp - Common Stock
 CZR,CZR|Caesars Entertainment, Inc. - Common Stock
@@ -4819,6 +4823,7 @@ FIVE,FIVE|Five Below, Inc. - Common Stock
 FIVN,FIVN|Five9, Inc. - Common Stock
 FIXX,FIXX|Homology Medicines, Inc. - Common Stock
 FIZZ,FIZZ|National Beverage Corp. - Common Stock
+FLACU,FLACU|Frazier Lifesciences Acquisition Corporation - Unit
 FLDM,FLDM|Fluidigm Corporation - Common Stock
 FLEX,FLEX|Flex Ltd. - Ordinary Shares
 FLGT,FLGT|Fulgent Genetics, Inc. - Common Stock
@@ -5128,6 +5133,7 @@ HLIO,HLIO|Helios Technologies, Inc. - Common Stock
 HLIT,HLIT|Harmonic Inc. - Common Stock
 HLNE,HLNE|Hamilton Lane Incorporated - Class A Common Stock
 HLXA,HLXA|Helix Acquisition Corp. - Class A Ordinary Shares
+HMCOU,HMCOU|HumanCo Acquisition Corp. - Unit
 HMHC,HMHC|Houghton Mifflin Harcourt Company - Common Stock
 HMNF,HMNF|HMN Financial, Inc. - Common Stock
 HMST,HMST|HomeStreet, Inc. - Common Stock
@@ -5793,6 +5799,7 @@ NDLS,NDLS|Noodles & Company - Common Stock
 NDRA,NDRA|ENDRA Life Sciences Inc. - Common Stock
 NDRAW,NDRAW|ENDRA Life Sciences Inc. - Warrants
 NDSN,NDSN|Nordson Corporation - Common Stock
+NEBCU,NEBCU|Nebula Caravel Acquisition Corp. - Unit
 NEO,NEO|NeoGenomics, Inc. - Common Stock
 NEOG,NEOG|Neogen Corporation - Common Stock
 NEON,NEON|Neonode Inc. - Common Stock
@@ -6222,6 +6229,7 @@ PTSI,PTSI|P.A.M. Transportation Services, Inc. - Common Stock
 PTVCA,PTVCA|Protective Insurance Corporation - Class A (voting) Common Stock
 PTVCB,PTVCB|Protective Insurance Corporation - Class B (nonvoting) Common Stock
 PTVE,PTVE|Pactiv Evergreen Inc. - Common stock
+PUBM,PUBM|PubMatic, Inc. - Class A Common Stock
 PULM,PULM|Pulmatrix, Inc. - Common Stock
 PUYI,PUYI|Puyi Inc. - American Depository Shares
 PVAC,PVAC|Penn Virginia Corporation - Common Stock
@@ -6458,7 +6466,9 @@ SFT,SFT|Shift Technologies, Inc. - Class A Common Stock
 SFTTW,SFTTW|Shift Technologies, Inc. - Warrant
 SG,SG|Sirius International Insurance Group, Ltd. - Common Share
 SGA,SGA|Saga Communications, Inc. - Class A Common Stock
+SGAM,SGAM|Seaport Global Acquisition Corp. - Class A Common Stock
 SGAMU,SGAMU|Seaport Global Acquisition Corp. - Unit
+SGAMW,SGAMW|Seaport Global Acquisition Corp. - Warrant
 SGBX,SGBX|SG Blocks, Inc. - Common Stock
 SGC,SGC|Superior Group of Companies, Inc. - Common Stock
 SGEN,SGEN|Seagen Inc.  - Common Stock
@@ -6488,6 +6498,7 @@ SIEN,SIEN|Sientra, Inc. - Common Stock
 SIFY,SIFY|Sify Technologies Limited - American Depository Shares, each represented by one Equity Share
 SIGA,SIGA|SIGA Technologies Inc. - Common Stock
 SIGI,SIGI|Selective Insurance Group, Inc. - Common Stock
+SIGIP,SIGIP|Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B
 SILC,SILC|Silicom Ltd - Ordinary Shares
 SILK,SILK|Silk Road Medical, Inc. - Common Stock
 SIMO,SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares

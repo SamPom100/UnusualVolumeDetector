@@ -168,6 +168,7 @@ ALT|Altimmune, Inc. - Common Stock|G|N|N|100|N|N
 ALTA|Altabancorp - Common Stock|S|N|N|100|N|N
 ALTM|Altus Midstream Company - Class A Common Stock|G|N|N|100|N|N
 ALTR|Altair Engineering Inc. - Class A Common Stock|Q|N|N|100|N|N
+ALTUU|Altitude Acquisition Corp. - Unit|S|N|N|100|N|N
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
 ALVR|AlloVir, Inc. - Common Stock|Q|N|N|100|N|N
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -941,6 +942,8 @@ CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100|
 CYCN|Cyclerion Therapeutics, Inc. - Common Stock |Q|N|N|100|N|N
 CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100|N|N
 CYRX|CryoPort, Inc. - Common Stock|S|N|N|100|N|N
+CYTH|Cyclo Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+CYTHW|Cyclo Therapeutics, Inc. - Warrant|S|N|N|100|N|N
 CYTK|Cytokinetics, Incorporated - Common Stock|Q|N|N|100|N|N
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100|N|N
 CZR|Caesars Entertainment, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1042,9 +1045,9 @@ DVLU|First Trust Dorsey Wright Momentum & Value ETF|G|N|N|100|Y|N
 DVOL|First Trust Dorsey Wright Momentum & Low Volatility ETF|G|N|N|100|Y|N
 DVY|iShares Select Dividend ETF|G|N|N|100|Y|N
 DWAS|Invesco DWA SmallCap Momentum ETF|G|N|N|100|Y|N
-DWAT|Arrow DWA Tactical ETF|G|N|N|100|Y|N
+DWAT|Arrow DWA Tactical: Macro ETF|G|N|N|100|Y|N
 DWAW|AdvisorShares Dorsey Wright FSM All Cap World ETF|G|N|N|100|Y|N
-DWCR|Arrow DWA Country Rotation ETF|G|N|N|100|Y|N
+DWCR|Arrow DWA Tactical: International ETF|G|N|N|100|Y|N
 DWEQ|AdvisorShares Dorsey Wright Alpha Equal Weight ETF|G|N|N|100|Y|N
 DWFI|SPDR Dorsey Wright Fixed Income Allocation ETF|G|N|N|100|Y|N
 DWLD|Davis Select Worldwide ETF|G|N|N|100|Y|N
@@ -1306,6 +1309,7 @@ FIXX|Homology Medicines, Inc. - Common Stock|Q|N|N|100|N|N
 FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100|N|N
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100|Y|N
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100|Y|N
+FLACU|Frazier Lifesciences Acquisition Corporation - Unit|S|N|N|100|N|N
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100|N|N
 FLEX|Flex Ltd. - Ordinary Shares|Q|N|N|100|N|N
 FLGT|Fulgent Genetics, Inc. - Common Stock|G|N|N|100|N|N
@@ -1658,6 +1662,7 @@ HLIO|Helios Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100|N|N
 HLNE|Hamilton Lane Incorporated - Class A Common Stock|Q|N|N|100|N|N
 HLXA|Helix Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
+HMCOU|HumanCo Acquisition Corp. - Unit|S|N|N|100|N|N
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100|N|N
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100|N|N
 HMST|HomeStreet, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1700,7 +1705,7 @@ HSTO|Histogen Inc. - Common Stock|S|N|N|100|N|N
 HTBI|HomeTrust Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 HTBK|Heritage Commerce Corp - Common Stock|Q|N|N|100|N|N
 HTBX|Heat Biologics, Inc. - Common Stock|S|N|N|100|N|N
-HTGM|HTG Molecular Diagnostics, Inc. - Common Stock|S|N|D|100|N|N
+HTGM|HTG Molecular Diagnostics, Inc. - Common Stock|S|N|N|100|N|N
 HTHT|Huazhu Group Limited - American Depositary Shares, each representing one Ordinary Share|Q|N|N|100|N|N
 HTIA|Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
 HTLD|Heartland Express, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2387,6 +2392,7 @@ NDLS|Noodles & Company - Common Stock|Q|N|N|100|N|N
 NDRA|ENDRA Life Sciences Inc. - Common Stock|S|N|D|100|N|N
 NDRAW|ENDRA Life Sciences Inc. - Warrants|S|N|N|100|N|N
 NDSN|Nordson Corporation - Common Stock|Q|N|N|100|N|N
+NEBCU|Nebula Caravel Acquisition Corp. - Unit|S|N|N|100|N|N
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100|N|N
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100|N|N
 NEON|Neonode Inc. - Common Stock|S|N|N|100|N|N
@@ -2532,7 +2538,7 @@ OCUP|Ocuphire Pharma, Inc. - Common Stock|S|N|N|100|N|N
 ODFL|Old Dominion Freight Line, Inc. - Common Stock|Q|N|N|100|N|N
 ODP|The ODP Corporation - Common Stock|Q|N|N|100|N|N
 ODT|Odonate Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-OEG|Orbital Energy Group, Inc. - Common Stock|S|N|D|100|N|N
+OEG|Orbital Energy Group, Inc. - Common Stock|S|N|N|100|N|N
 OESX|Orion Energy Systems, Inc. - Common Stock|S|N|N|100|N|N
 OFED|Oconee Federal Financial Corp. - Common Stock|S|N|N|100|N|N
 OFIX|Orthofix Medical Inc.  - Common Stock|Q|N|N|100|N|N
@@ -2857,6 +2863,7 @@ PTSI|P.A.M. Transportation Services, Inc. - Common Stock|G|N|N|100|N|N
 PTVCA|Protective Insurance Corporation - Class A (voting) Common Stock|G|N|N|100|N|N
 PTVCB|Protective Insurance Corporation - Class B (nonvoting) Common Stock|G|N|N|100|N|N
 PTVE|Pactiv Evergreen Inc. - Common stock|Q|N|N|100|N|N
+PUBM|PubMatic, Inc. - Class A Common Stock|G|N|N|100|N|N
 PUI|Invesco DWA Utilities Momentum ETF|G|N|N|100|Y|N
 PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100|N|N
 PUYI|Puyi Inc. - American Depository Shares|G|N|N|100|N|N
@@ -3126,7 +3133,9 @@ SFT|Shift Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
 SFTTW|Shift Technologies, Inc. - Warrant|S|N|N|100|N|N
 SG|Sirius International Insurance Group, Ltd. - Common Share|Q|N|N|100|N|N
 SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
+SGAM|Seaport Global Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 SGAMU|Seaport Global Acquisition Corp. - Unit|S|N|N|100|N|N
+SGAMW|Seaport Global Acquisition Corp. - Warrant|S|N|N|100|N|N
 SGBX|SG Blocks, Inc. - Common Stock|S|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
 SGEN|Seagen Inc.  - Common Stock|Q|N|N|100|N|N
@@ -3159,6 +3168,7 @@ SIEN|Sientra, Inc. - Common Stock|Q|N|N|100|N|N
 SIFY|Sify Technologies Limited - American Depository Shares, each represented by one Equity Share|S|N|N|100|N|N
 SIGA|SIGA Technologies Inc. - Common Stock|G|N|N|100|N|N
 SIGI|Selective Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
+SIGIP|Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B|Q|N|N|100|N|N
 SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100|N|N
 SILK|Silk Road Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100|N|N
@@ -3869,4 +3879,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1208202015:41|||||||
+File Creation Time: 1209202012:11|||||||
