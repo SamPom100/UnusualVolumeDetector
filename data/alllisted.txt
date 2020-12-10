@@ -968,7 +968,6 @@ DIAX,DIAX|Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Int
 DIN,DIN|Dine Brands Global, Inc. Common Stock
 DIS,DIS|Walt Disney Company (The) Common Stock
 DIT,DIT|AMCON Distributing Company Common Stock
-DJCI,DJCI|E-TRACS Linked to the Bloomberg Commodity Index Total Return due October 31, 2039
 DJP,DJP|iPath Bloomberg Commodity Index Total Return ETN
 DK,DK|Delek US Holdings, Inc. Common Stock
 DKL,DKL|Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests
@@ -986,6 +985,8 @@ DLR$K,DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Pre
 DLR$L,DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock
 DLX,DLX|Deluxe Corporation Common Stock
 DLY,DLY|DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest
+DM,DM|Desktop Metal, Inc. Class A Common Stock
+DM.W,DM.W|Desktop Metal, Inc. Warrants
 DMB,DMB|BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock
 DMF,DMF|BNY Mellon Municipal Income Inc. Common Stock
 DMO,DMO|Western Asset Mortgage Opportunity Fund Inc. Common Stock
@@ -1388,7 +1389,6 @@ FTSI,FTSI|FTS International, Inc. Class A Common Stock
 FTV,FTV|Fortive Corporation Common Stock 
 FTV$A,FTV$A|Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A
 FUBO,FUBO|fuboTV Inc. Common Stock
-FUD,FUD|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Food ETN
 FUE,FUE|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return
 FUL,FUL|H. B. Fuller Company Common Stock
 FUN,FUN|Cedar Fair, L.P. Common Stock
@@ -1706,7 +1706,9 @@ HZAC.U,HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Clas
 HZAC.W,HZAC.W|Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 HZN,HZN|Horizon Global Corporation Common Shares
 HZO,HZO|MarineMax, Inc.  (FL) Common Stock
+HZON,HZON|Horizon Acquisition Corporation II Class A Ordinary Shares
 HZON.U,HZON.U|Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
+HZON.W,HZON.W|Horizon Acquisition Corporation II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 IAA,IAA|IAA, Inc. Common Stock 
 IACA,IACA|ION Acquisition Corp 1 Ltd. Class A Ordinary Shares
 IACA.U,IACA.U|ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
@@ -2593,6 +2595,7 @@ PCI,PCI|PIMCO Dynamic Credit and Mortgage Income Fund Common Shares of Beneficia
 PCK,PCK|Pimco California Municipal Income Fund II Common Shares of Beneficial Interest
 PCM,PCM|PCM Fund, Inc. Common Stock
 PCN,PCN|Pimco Corporate & Income Strategy Fund Common Stock
+PCPC.U,PCPC.U|Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant
 PCPL,PCPL|CC Neuberger Principal Holdings I Class A Ordinary Shares
 PCPL.U,PCPL.U|CC Neuberger Principal Holdings I Units, each consisting of one Class A ordinary share and one-fourth of one Redeemable Warrant
 PCPL.W,PCPL.W|CC Neuberger Principal Holdings I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -3313,9 +3316,6 @@ TREX,TREX|Trex Company, Inc. Common Stock
 TRGP,TRGP|Targa Resources, Inc. Common Stock
 TRI,TRI|Thomson Reuters Corp Ordinary Shares
 TRN,TRN|Trinity Industries, Inc. Common Stock
-TRNE,TRNE|Trine Acquisition Corp. Class A Common Stock
-TRNE.U,TRNE.U|Trine Acquisition Corp. Units
-TRNE.W,TRNE.W|Trine Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 TRNO,TRNO|Terreno Realty Corporation Common Stock
 TROX,TROX|Tronox Holdings plc Ordinary Shares (UK)
 TRP,TRP|TC Energy Corporation Common Stock
@@ -3371,18 +3371,15 @@ TYL,TYL|Tyler Technologies, Inc. Common Stock
 U,U|Unity Software Inc. Common Stock
 UA,UA|Under Armour, Inc. Class C Common Stock
 UAA,UAA|Under Armour, Inc. Class A Common Stock
-UAG,UAG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Agriculture ETN
 UAMY,UAMY|United States Antimony Corporation Common Stock
 UAN,UAN|CVR Partners, LP Common Units representing Limited Partner Interests
 UAVS,UAVS|AgEagle Aerial Systems, Inc. Common Stock
 UBA,UBA|Urstadt Biddle Properties Inc. Common Stock
 UBER,UBER|Uber Technologies, Inc. Common Stock
-UBG,UBG|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Gold ETN
 UBP,UBP|Urstadt Biddle Properties Inc. Common Stock
 UBP$H,UBP$H|Urstadt Biddle Properties Inc. 6.250% Series H Cumulative Redeemable Preferred Stock
 UBP$K,UBP$K|Urstadt Biddle Properties Inc. 5.875% Series K Cumulative Redeemable Preferred Stock
 UBS,UBS|UBS Group AG Registered Ordinary Shares
-UCI,UCI|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI ETN
 UCIB,UCIB|ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038
 UDR,UDR|UDR, Inc. Common Stock
 UE,UE|Urban Edge Properties Common Shares of Beneficial Interest
@@ -3426,7 +3423,6 @@ USFD,USFD|US Foods Holding Corp. Common Stock
 USM,USM|United States Cellular Corporation Common Stock
 USNA,USNA|USANA Health Sciences, Inc. Common Stock
 USPH,USPH|U.S. Physical Therapy, Inc. Common Stock
-USV,USV|E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes E-TRACS UBS Bloomberg CMCI Silver ETN
 USX,USX|U.S. Xpress Enterprises, Inc. Class A Common Stock
 UTF,UTF|Cohen & Steers Infrastructure Fund, Inc Common Stock
 UTG,UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest
@@ -3690,6 +3686,7 @@ ABCM,ABCM|Abcam plc - American Depositary Shares
 ABEO,ABEO|Abeona Therapeutics Inc. - Common Stock
 ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
+ABNB,ABNB|Airbnb, Inc. - Class A Common Stock
 ABST,ABST|Absolute Software Corporation - Common Stock
 ABTX,ABTX|Allegiance Bancshares, Inc. - Common Stock
 ABUS,ABUS|Arbutus Biopharma Corporation - Common Stock
@@ -3733,7 +3730,9 @@ ADILW,ADILW|Adial Pharmaceuticals, Inc - Warrant
 ADMA,ADMA|ADMA Biologics Inc - Common Stock
 ADMP,ADMP|Adamis Pharmaceuticals Corporation - Common Stock
 ADMS,ADMS|Adamas Pharmaceuticals, Inc. - Common Stock
-ADOCU,ADOCU|Edoc Acquisition Corp. - Unit
+ADOC,ADOC|Edoc Acquisition Corp. - Class A Ordinary Share
+ADOCR,ADOCR|Edoc Acquisition Corp. - Right
+ADOCW,ADOCW|Edoc Acquisition Corp. - Warrant
 ADP,ADP|Automatic Data Processing, Inc. - Common Stock
 ADPT,ADPT|Adaptive Biotechnologies Corporation - Common Stock
 ADSK,ADSK|Autodesk, Inc. - Common Stock
@@ -4485,6 +4484,7 @@ CSWC,CSWC|Capital Southwest Corporation - Common Stock
 CSWCL,CSWCL|Capital Southwest Corporation - 5.95% Notes due 2022
 CSWI,CSWI|CSW Industrials, Inc. - Common Stock
 CSX,CSX|CSX Corporation - Common Stock
+CTAQU,CTAQU|Carney Technology Acquisition Corp. II - Units
 CTAS,CTAS|Cintas Corporation - Common Stock
 CTBI,CTBI|Community Trust Bancorp, Inc. - Common Stock
 CTG,CTG|Computer Task Group, Incorporated - Common Stock
@@ -4512,6 +4512,7 @@ CVCY,CVCY|Central Valley Community Bancorp - Common Stock
 CVET,CVET|Covetrus, Inc. - Common Stock
 CVGI,CVGI|Commercial Vehicle Group, Inc. - Common Stock
 CVGW,CVGW|Calavo Growers, Inc. - Common Stock
+CVLB,CVLB|Conversion Labs, Inc. - Common Stock
 CVLG,CVLG|Covenant Logistics Group, Inc. - Class A Common Stock
 CVLT,CVLT|Commvault Systems, Inc. - Common Stock
 CVLY,CVLY|Codorus Valley Bancorp, Inc - Common Stock
@@ -5181,6 +5182,8 @@ HTIA,HTIA|Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetu
 HTLD,HTLD|Heartland Express, Inc. - Common Stock
 HTLF,HTLF|Heartland Financial USA, Inc. - Common Stock
 HTLFP,HTLFP|Heartland Financial USA, Inc. - Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
+HTOO,HTOO|Fusion Fuel Green PLC - Ordinary Shares
+HTOOW,HTOOW|Fusion Fuel Green PLC - Warrant
 HUBG,HUBG|Hub Group, Inc. - Class A Common Stock
 HUGE,HUGE|FSD Pharma Inc. - Class B Subordinate Voting Shares
 HUIZ,HUIZ|Huize Holding Limited - American Depositary Shares
@@ -5198,6 +5201,7 @@ HX,HX|Hexindai Inc. - American Depositary Shares
 HYAC,HYAC|Haymaker Acquisition Corp. II - Class A Common Stock
 HYACU,HYACU|Haymaker Acquisition Corp. II - Unit
 HYACW,HYACW|Haymaker Acquisition Corp. II - Warrant
+HYFM,HYFM|Hydrofarm Holdings Group, Inc. - Common Stock
 HYMC,HYMC|Hycroft Mining Holding Corporation - Class A Common Stock
 HYMCW,HYMCW|Hycroft Mining Holding Corporation - Warrant
 HYMCZ,HYMCZ|Hycroft Mining Holding Corporation - Warrant
@@ -6353,6 +6357,7 @@ RMBI,RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock
 RMBL,RMBL|RumbleOn, Inc. - Class B Common Stock
 RMBS,RMBS|Rambus, Inc. - Common Stock
 RMCF,RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock
+RMGBU,RMGBU|RMG Acquisition Corp. II - Unit
 RMNI,RMNI|Rimini Street, Inc. - Common Stock
 RMR,RMR|The RMR Group Inc. - Class A Common Stock
 RMRM,RMRM|RMR Mortgage Trust - Common Stock

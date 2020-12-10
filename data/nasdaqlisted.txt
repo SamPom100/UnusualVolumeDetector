@@ -16,6 +16,7 @@ ABCM|Abcam plc - American Depositary Shares|Q|N|N|100|N|N
 ABEO|Abeona Therapeutics Inc. - Common Stock|S|N|D|100|N|N
 ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100|N|N
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100|N|N
+ABNB|Airbnb, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ABST|Absolute Software Corporation - Common Stock|Q|N|N|100|N|N
 ABTX|Allegiance Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 ABUS|Arbutus Biopharma Corporation - Common Stock|Q|N|N|100|N|N
@@ -61,7 +62,9 @@ ADILW|Adial Pharmaceuticals, Inc - Warrant|S|N|N|100|N|N
 ADMA|ADMA Biologics Inc - Common Stock|G|N|N|100|N|N
 ADMP|Adamis Pharmaceuticals Corporation - Common Stock|S|N|D|100|N|N
 ADMS|Adamas Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
-ADOCU|Edoc Acquisition Corp. - Unit|S|N|N|100|N|N
+ADOC|Edoc Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
+ADOCR|Edoc Acquisition Corp. - Right|S|N|N|100|N|N
+ADOCW|Edoc Acquisition Corp. - Warrant|S|N|N|100|N|N
 ADP|Automatic Data Processing, Inc. - Common Stock|Q|N|N|100|N|N
 ADPT|Adaptive Biotechnologies Corporation - Common Stock|Q|N|N|100|N|N
 ADRE|Invesco BLDRS Emerging Markets 50 ADR Index Fund|G|N|N|100|Y|N
@@ -894,6 +897,7 @@ CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100|N|N
 CSWCL|Capital Southwest Corporation - 5.95% Notes due 2022|Q|N|N|100|N|N
 CSWI|CSW Industrials, Inc. - Common Stock|Q|N|N|100|N|N
 CSX|CSX Corporation - Common Stock|Q|N|N|100|N|N
+CTAQU|Carney Technology Acquisition Corp. II - Units|S|N|N|100|N|N
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100|N|N
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 CTEC|Global X CleanTech ETF|G|N|N|100|Y|N
@@ -922,6 +926,7 @@ CVCY|Central Valley Community Bancorp - Common Stock|S|N|N|100|N|N
 CVET|Covetrus, Inc. - Common Stock|Q|N|N|100|N|N
 CVGI|Commercial Vehicle Group, Inc. - Common Stock|Q|N|N|100|N|N
 CVGW|Calavo Growers, Inc. - Common Stock|Q|N|N|100|N|N
+CVLB|Conversion Labs, Inc. - Common Stock|S|N|N|100|N|N
 CVLG|Covenant Logistics Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CVLT|Commvault Systems, Inc. - Common Stock|Q|N|N|100|N|N
 CVLY|Codorus Valley Bancorp, Inc - Common Stock|G|N|N|100|N|N
@@ -1068,7 +1073,7 @@ DYNT|Dynatronics Corporation - Common Stock|S|N|D|100|N|N
 DZSI|DZS Inc. - Common Stock|S|N|N|100|N|N
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100|N|N
 EAR|Eargo, Inc. - Common Stock|Q|N|N|100|N|N
-EARS|Auris Medical Holding Ltd. - Common Shares|S|N|D|100|N|N
+EARS|Auris Medical Holding Ltd. - Common Shares|S|N|N|100|N|N
 EAST|Eastside Distilling, Inc. - Common Stock|S|N|D|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBAYL|eBay Inc. - 6.0% Notes Due 2056|Q|N|N|100|N|N
@@ -1573,7 +1578,7 @@ GSBC|Great Southern Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 GSHD|Goosehead Insurance, Inc. - Class A Common Stock|Q|N|N|100|N|N
 GSIT|GSI Technology, Inc. - Common Stock|Q|N|N|100|N|N
 GSKY|GreenSky, Inc. - Common Stock|Q|N|N|100|N|N
-GSM|Ferroglobe PLC - Ordinary Shares|S|N|D|100|N|N
+GSM|Ferroglobe PLC - Ordinary Shares|S|N|N|100|N|N
 GSMG|Glory Star New Media Group Holdings Limited - Ordinary Share|S|N|N|100|N|N
 GSMGW|Glory Star New Media Group Holdings Limited - Warrant|S|N|N|100|N|N
 GSUM|Gridsum Holding Inc. - American Depositary Shares|Q|N|N|100|N|N
@@ -1711,6 +1716,8 @@ HTIA|Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Pr
 HTLD|Heartland Express, Inc. - Common Stock|Q|N|N|100|N|N
 HTLF|Heartland Financial USA, Inc. - Common Stock|Q|N|N|100|N|N
 HTLFP|Heartland Financial USA, Inc. - Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E|Q|N|N|100|N|N
+HTOO|Fusion Fuel Green PLC - Ordinary Shares|G|N|N|100|N|N
+HTOOW|Fusion Fuel Green PLC - Warrant|G|N|N|100|N|N
 HUBG|Hub Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 HUGE|FSD Pharma Inc. - Class B Subordinate Voting Shares|S|N|N|100|N|N
 HUIZ|Huize Holding Limited - American Depositary Shares|G|N|N|100|N|N
@@ -1728,6 +1735,7 @@ HX|Hexindai Inc. - American Depositary Shares|G|N|N|100|N|N
 HYAC|Haymaker Acquisition Corp. II - Class A Common Stock|S|N|N|100|N|N
 HYACU|Haymaker Acquisition Corp. II - Unit|S|N|N|100|N|N
 HYACW|Haymaker Acquisition Corp. II - Warrant|S|N|N|100|N|N
+HYFM|Hydrofarm Holdings Group, Inc. - Common Stock|Q|N|N|100|N|N
 HYLS|First Trust High Yield Long/Short ETF|G|N|N|100|Y|N
 HYMC|Hycroft Mining Holding Corporation - Class A Common Stock|S|N|N|100|N|N
 HYMCW|Hycroft Mining Holding Corporation - Warrant|S|N|N|100|N|N
@@ -2385,7 +2393,7 @@ NCBS|Nicolet Bankshares Inc. - Common Stock|S|N|N|100|N|N
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|N|100|N|N
 NCNA|NuCana plc - American Depositary Shares|Q|N|N|100|N|N
 NCNO|nCino, Inc. - Common Stock|Q|N|N|100|N|N
-NCSM|NCS Multistage Holdings, Inc. - Common Stock|Q|N|D|100|N|N
+NCSM|NCS Multistage Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 NCTY|The9 Limited - American Depository Shares|S|N|D|100|N|N
 NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100|N|N
 NDLS|Noodles & Company - Common Stock|Q|N|N|100|N|N
@@ -2959,7 +2967,7 @@ RDVY|First Trust Rising Dividend Achievers ETF|G|N|N|100|Y|N
 RDWR|Radware Ltd. - Ordinary Shares|Q|N|N|100|N|N
 REAL|The RealReal, Inc. - Common Stock|Q|N|D|100|N|N
 REDU|RISE Education Cayman Ltd - American Depositary Shares|G|N|N|100|N|N
-REED|Reeds, Inc. - Common Stock|S|N|N|100|N|N
+REED|Reeds, Inc. - Common Stock|S|N|D|100|N|N
 REFR|Research Frontiers Incorporated - Common Stock|S|N|N|100|N|N
 REG|Regency Centers Corporation - Common Stock|Q|N|N|100|N|N
 REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3009,6 +3017,7 @@ RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock|S|N|N|100|N|N
 RMBL|RumbleOn, Inc. - Class B Common Stock|S|N|N|100|N|N
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100|N|N
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|G|N|N|100|N|N
+RMGBU|RMG Acquisition Corp. II - Unit|S|N|N|100|N|N
 RMNI|Rimini Street, Inc. - Common Stock|G|N|N|100|N|N
 RMR|The RMR Group Inc. - Class A Common Stock|S|N|N|100|N|N
 RMRM|RMR Mortgage Trust - Common Stock|S|N|N|100|N|N
@@ -3879,4 +3888,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1209202012:11|||||||
+File Creation Time: 1210202012:12|||||||
