@@ -754,6 +754,7 @@ CAS.U|Cascade Acquisition Corp. Units, each consisting of one share of Class A C
 CAT|Caterpillar, Inc. Common Stock|N|CAT|N|100|N|CAT
 CATO|Cato Corporation (The) Class A Common Stock|N|CATO|N|100|N|CATO
 CB|Chubb Limited  Common Stock|N|CB|N|100|N|CB
+CBAH.U|CBRE Acquisition Holdings, Inc. SAIL securities, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant|N|CBAH.U|N|100|N|CBAH=
 CBB|Cincinnati Bell Inc. Common Stock|N|CBB|N|100|N|CBB
 CBB$B|Cincinnati Bell Inc. Preferred Stock|N|CBBpB|N|100|N|CBB-B
 CBD|Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share|N|CBD|N|100|N|CBD
@@ -1050,7 +1051,9 @@ CSV|Carriage Services, Inc. Common Stock|N|CSV|N|100|N|CSV
 CTA$A|E.I. du Pont de Nemours and Company Preferred Stock|N|CTApA|N|100|N|CTA-A
 CTA$B|E.I. du Pont de Nemours and Company Preferred Stock|N|CTApB|N|100|N|CTA-B
 CTAA|Qwest Corporation 7% Notes due 2056|N|CTAA|N|100|N|CTAA
+CTAC|Cerberus Telecom Acquisition Corp. Class A Ordinary Shares|N|CTAC|N|100|N|CTAC
 CTAC.U|Cerberus Telecom Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CTAC.U|N|100|N|CTAC=
+CTAC.W|Cerberus Telecom Acquisition Corp. Warrants included as part of the Units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CTAC.WS|N|100|N|CTAC+
 CTB|Cooper Tire & Rubber Company Common Stock|N|CTB|N|100|N|CTB
 CTBB|Qwest Corporation 6.5% Notes due 2056|N|CTBB|N|100|N|CTBB
 CTDD|Qwest Corporation 6.75% Notes due 2057|N|CTDD|N|100|N|CTDD
@@ -1360,6 +1363,7 @@ DVD|Dover Motorsports, Inc. Common Stock|N|DVD|N|100|N|DVD
 DVN|Devon Energy Corporation Common Stock|N|DVN|N|100|N|DVN
 DVYA|iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund|P|DVYA|Y|100|N|DVYA
 DVYE|iShares Emerging Markets Dividend Index Fund Exchange Traded Fund|P|DVYE|Y|100|N|DVYE
+DWIN.U|Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|DWIN.U|N|100|N|DWIN=
 DWM|WisdomTree International Equity Fund|P|DWM|Y|100|N|DWM
 DWMF|WisdomTree International Multifactor Fund|P|DWMF|Y|100|N|DWMF
 DWX|SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
@@ -1775,7 +1779,6 @@ FF|FutureFuel Corp.  Common shares|N|FF|N|100|N|FF
 FFA|First Trust Enhanced Equity Income Fund|N|FFA|N|100|N|FFA
 FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated|N|FFC|N|100|N|FFC
 FFEB|FT Cboe Vest U.S. Equity Buffer ETF - February|Z|FFEB|Y|100|N|FFEB
-FFEU|Barclays ETN  FI Enhanced Europe 50 Exchange Traded Notes Series C|P|FFEU|N|100|N|FFEU
 FFG|FBL Financial Group, Inc. Common Stock|N|FFG|N|100|N|FFG
 FFHG|Formula Folios Hedged Growth ETF |Z|FFHG|Y|100|N|FFHG
 FFIU|UVA Unconstrained Medium-Term Fixed Income ETF|P|FFIU|Y|100|N|FFIU
@@ -1818,7 +1821,6 @@ FIVA|Fidelity International Value Factor ETF|P|FIVA|Y|100|N|FIVA
 FIVG|Defiance Next Gen Connectivity ETF|P|FIVG|Y|100|N|FIVG
 FIW|First Trust Water ETF|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
-FIYY|Barclays ETN  FI Enhanced Global High Yield Exchange Traded Notes Series B|P|FIYY|N|100|N|FIYY
 FJNK|Pacific Global Focused High Yield ETF|P|FJNK|Y|100|N|FJNK
 FJUL|FT Cboe Vest U.S. Equity Buffer ETF - July|Z|FJUL|Y|100|N|FJUL
 FJUN|FT Cboe Vest U.S. Equity Buffer ETF - June|Z|FJUN|Y|100|N|FJUN
@@ -1835,7 +1837,6 @@ FLCO|Franklin Liberty Investment Grade Corporate ETF|P|FLCO|Y|100|N|FLCO
 FLDR|Fidelity Low Duration Bond Factor ETF|Z|FLDR|Y|100|N|FLDR
 FLEE|Franklin FTSE Europe ETF|P|FLEE|Y|100|N|FLEE
 FLEH|Franklin FTSE Europe Hedged ETF|P|FLEH|Y|100|N|FLEH
-FLEU|Barclays ETN  FI Enhanced Europe 50 ETN Series B|P|FLEU|Y|100|N|FLEU
 FLFR|Franklin FTSE France ETF|P|FLFR|Y|100|N|FLFR
 FLGB|Franklin FTSE United Kingdom ETF|P|FLGB|Y|100|N|FLGB
 FLGE|Credit Suisse FI Large Cap Growth Enhanced ETN|P|FLGE|N|100|N|FLGE
@@ -2343,7 +2344,9 @@ HIBS|Direxion Daily S&P 500 High Beta Bear 3X Shares|P|HIBS|Y|100|N|HIBS
 HIE|Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest|N|HIE|N|100|N|HIE
 HIG|Hartford Financial Services Group, Inc. (The) Common Stock|N|HIG|N|100|N|HIG
 HIG$G|Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value|N|HIGpG|N|100|N|HIG-G
+HIGA|H.I.G. Acquisition Corp. Class A Ordinary Shares|N|HIGA|N|100|N|HIGA
 HIGA.U|H.I.G. Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant|N|HIGA.U|N|100|N|HIGA=
+HIGA.W|H.I.G. Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HIGA.WS|N|100|N|HIGA+
 HII|Huntington Ingalls Industries, Inc. Common Stock|N|HII|N|100|N|HII
 HIL|Hill International, Inc. Common Stock|N|HIL|N|100|N|HIL
 HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock|N|HIO|N|100|N|HIO
@@ -3184,9 +3187,9 @@ MEXX|Direxion Daily MSCI Mexico Bull 3X Shares|P|MEXX|Y|100|N|MEXX
 MFA|MFA Financial, Inc.|N|MFA|N|100|N|MFA
 MFA$B|MFA Financial, Inc. Preferred Series B|N|MFApB|N|100|N|MFA-B
 MFA$C|MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|MFApC|N|100|N|MFA-C
-MFAC|Megalith Financial Acquisition Corp. Class A Common Stock|N|MFAC|N|100|N|MFAC
-MFAC.U|Megalith Financial Acquisition Corp. Units, each consisting of one share of Class A common stock, $0.0001 par value, and one redeemable warrant|N|MFAC.U|N|100|N|MFAC=
-MFAC.W|Megalith Financial Acquisition Corp. Warrants, each warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|MFAC.WS|N|100|N|MFAC+
+MFAC|Megalith Financial Acquisition Corp. Class A Common Stock|A|MFAC|N|100|N|MFAC
+MFAC.U|Megalith Financial Acquisition Corp. Units, each consisting of one share of Class A common stock, $0.0001 par value, and one redeemable warrant|A|MFAC.U|N|100|N|MFAC=
+MFAC.W|Megalith Financial Acquisition Corp. Warrants, each warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|A|MFAC.WS|N|100|N|MFAC+
 MFC|Manulife Financial Corporation Common Stock|N|MFC|N|100|N|MFC
 MFD|Macquarie First Trust Global Common Stock|N|MFD|N|100|N|MFD
 MFDX|PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor International Equity ETF|P|MFDX|Y|100|N|MFDX
@@ -3294,6 +3297,7 @@ MORT|VanEck Vectors Mortgage REIT Income ETF|P|MORT|Y|100|N|MORT
 MOS|Mosaic Company (The) Common Stock|N|MOS|N|100|N|MOS
 MOTI|VanEck Vectors Morningstar International Moat ETF|Z|MOTI|Y|100|N|MOTI
 MOTO|SmartETFs Smart Transportation & Technology ETF|P|MOTO|Y|100|N|MOTO
+MOTV.U|Motive Capital Corp Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|MOTV.U|N|100|N|MOTV=
 MOV|Movado Group Inc. Common Stock|N|MOV|N|100|N|MOV
 MP|MP Materials Corp. Common Stock|N|MP|N|100|N|MP
 MP.W|MP Materials Corp. Warrants|N|MP.WS|N|100|N|MP+
@@ -4623,7 +4627,9 @@ SPMB|SPDR Portfolio Mortgage Backed Bond ETF|P|SPMB|Y|100|N|SPMB
 SPMD|SPDR Portfolio S&P 400 Mid Cap ETF  |P|SPMD|Y|100|N|SPMD
 SPMO|Invesco S&P 500 Momentum ETF|P|SPMO|Y|100|N|SPMO
 SPMV|Invesco S&P 500 Minimum Variance ETF|Z|SPMV|Y|100|N|SPMV
+SPNV|Supernova Partners Acquisition Company, Inc. Class A Common Stock|N|SPNV|N|100|N|SPNV
 SPNV.U|Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common stock and one-third of one warrant|N|SPNV.U|N|100|N|SPNV=
+SPNV.W|Supernova Partners Acquisition Company, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|SPNV.WS|N|100|N|SPNV+
 SPOT|Spotify Technology S.A. Ordinary Shares|N|SPOT|N|100|N|SPOT
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
@@ -5481,7 +5487,9 @@ XPEV|XPeng Inc. American depositary shares, each representing two Class A ordina
 XPH|SPDR S&P Pharmaceuticals ETF|P|XPH|Y|100|N|XPH
 XPL|Solitario Zinc Corp. Common Stock|A|XPL|N|100|N|XPL
 XPO|XPO Logistics, Inc.|N|XPO|N|100|N|XPO
+XPOA|DPCM Capital, Inc. Class A Common Stock|N|XPOA|N|100|N|XPOA
 XPOA.U|DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|XPOA.U|N|100|N|XPOA=
+XPOA.W|DPCM Capital, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|XPOA.WS|N|100|N|XPOA+
 XPP|ProShares Ultra FTSE China 50|P|XPP|Y|100|N|XPP
 XRLV|Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF|P|XRLV|Y|100|N|XRLV
 XRT|SPDR S&P Retail ETF|P|XRT|Y|100|N|XRT
@@ -5553,4 +5561,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1210202015:41||||||
+File Creation Time: 1211202012:12||||||
