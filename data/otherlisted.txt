@@ -2,7 +2,7 @@ ACT Symbol|Security Name|Exchange|CQS Symbol|ETF|Round Lot Size|Test Issue|NASDA
 A|Agilent Technologies, Inc. Common Stock|N|A|N|100|N|A
 AA|Alcoa Corporation Common Stock |N|AA|N|100|N|AA
 AAA|Listed Funds Trust AAF First Priority CLO Bond ETF|P|AAA|Y|100|N|AAA
-AAAU|Perth Mint Physical Gold ETF|P|AAAU|Y|100|N|AAAU
+AAAU|Goldman Sachs Physical Gold ETF Shares|P|AAAU|Y|100|N|AAAU
 AADR|AdvisorShares Dorsey Wright ADR ETF|P|AADR|Y|100|N|AADR
 AAIC|Arlington Asset Investment Corp Class A (new)|N|AAIC|N|100|N|AAIC
 AAIC$B|Arlington Asset Investment Corp 7.00% |N|AAICpB|N|100|N|AAIC-B
@@ -327,7 +327,9 @@ ASPN|Aspen Aerogels, Inc. Common Stock|N|ASPN|N|100|N|ASPN
 ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock|N|ASR|N|100|N|ASR
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
 AT|Atlantic Power Corporation Ordinary Shares (Canada)|N|AT|N|100|N|AT
+ATAC|Altimar Acquisition Corporation Class A Ordinary Shares|N|ATAC|N|100|N|ATAC
 ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ATAC.U|N|100|N|ATAC=
+ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ATAC.WS|N|100|N|ATAC+
 ATCO|Atlas Corp. Common Shares|N|ATCO|N|100|N|ATCO
 ATCO$D|Atlas Corp. 7.95% Series D|N|ATCOpD|N|100|N|ATCO-D
 ATCO$E|Atlas Corp. 8.25% Series E|N|ATCOpE|N|100|N|ATCO-E
@@ -842,7 +844,6 @@ CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
 CHCT|Community Healthcare Trust Incorporated Common Stock|N|CHCT|N|100|N|CHCT
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
 CHE|Chemed Corp|N|CHE|N|100|N|CHE
-CHEP|AGFiQ U.S. Market Neutral Value Fund|P|CHEP|Y|100|N|CHEP
 CHFW.U|Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant to acquire one Class A Ordinary Share|A|CHFW.U|N|100|N|CHFW=
 CHGG|Chegg, Inc. Common Stock|N|CHGG|N|100|N|CHGG
 CHGX|Change Finance U.S. Large Cap Fossil Fuel Free ETF|P|CHGX|Y|100|N|CHGX
@@ -1073,7 +1074,6 @@ CTRA|Contura Energy, Inc. Common Stock|N|CTRA|N|100|N|CTRA
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
 CTT|CatchMark Timber Trust, Inc. Class A Common Stock|N|CTT|N|100|N|CTT
 CTVA|Corteva, Inc. Common Stock |N|CTVA|N|100|N|CTVA
-CTY|Qwest Corporation 6.125% Notes due 2053|N|CTY|N|100|N|CTY
 CUB|Cubic Corporation Common Stock|N|CUB|N|100|N|CUB
 CUBB|Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034|N|CUBB|N|100|N|CUBB
 CUBE|CubeSmart Common Shares|N|CUBE|N|100|N|CUBE
@@ -2001,7 +2001,6 @@ FUT|ProShares Managed Futures Strategy ETF|Z|FUT|Y|100|N|FUT
 FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAL|Fidelity Value Factor ETF|P|FVAL|Y|100|N|FVAL
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
-FVL|First Trust Value Line 100 Fund|P|FVL|Y|100|N|FVL
 FVRR|Fiverr International Ltd. Ordinary Shares, no par value|N|FVRR|N|100|N|FVRR
 FWDB|AdvisorShares FolioBeyond Smart Core Bond ETF|P|FWDB|Y|100|N|FWDB
 FXA|Invesco CurrencyShares Australian Dollar Trust|P|FXA|Y|100|N|FXA
@@ -3736,14 +3735,12 @@ OVV|Ovintiv Inc. (DE)|N|OVV|N|100|N|OVV
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
-PAA|Plains All American Pipeline, L.P. Common Stock|N|PAA|N|100|N|PAA
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
 PACE|TPG Pace Tech Opportunities Corp. Class A Ordinary Shares|N|PACE|N|100|N|PACE
 PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|PACE.U|N|100|N|PACE=
 PACE.W|TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|PACE.WS|N|100|N|PACE+
 PACK|Ranpak Holdings Corp Class A Common Stock|N|PACK|N|100|N|PACK
 PAG|Penske Automotive Group, Inc. Common Stock|N|PAG|N|100|N|PAG
-PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests|N|PAGP|N|100|N|PAGP
 PAGS|PagSeguro Digital Ltd. Class A Common Shares|N|PAGS|N|100|N|PAGS
 PAI|Western Asset Investment Grade Income Fund Inc.|N|PAI|N|100|N|PAI
 PAK|Global X MSCI Pakistan ETF|P|PAK|Y|100|N|PAK
@@ -4216,7 +4213,9 @@ RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Pr
 RHI|Robert Half International Inc. Common Stock|N|RHI|N|100|N|RHI
 RHP|Ryman Hospitality Properties, Inc. (REIT)|N|RHP|N|100|N|RHP
 RHS|Invesco S&P 500 Equal Weight Consumer Staples ETF  |P|RHS|Y|100|N|RHS
+RICE|Rice Acquisition Corp. Class A Common Stock|N|RICE|N|100|N|RICE
 RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A common stock, and one-half of one warrant|N|RICE.U|N|100|N|RICE=
+RICE.W|Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|RICE.WS|N|100|N|RICE+
 RIG|Transocean Ltd (Switzerland) Common Stock|N|RIG|N|100|N|RIG
 RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
 RINF|ProShares Inflation Expectations ETF|P|RINF|Y|100|N|RINF
@@ -5561,4 +5560,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1211202015:43||||||
+File Creation Time: 1214202012:12||||||

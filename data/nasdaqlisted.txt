@@ -972,7 +972,9 @@ DCBO|Docebo Inc. - Common Shares|Q|N|N|100|N|N
 DCOM|Dime Community Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A|S|N|N|100|N|N
 DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
+DCRB|Decarbonization Plus Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 DCRBU|Decarbonization Plus Acquisition Corporation - Unit|S|N|N|100|N|N
+DCRBW|Decarbonization Plus Acquisition Corporation - Warrant|S|N|N|100|N|N
 DCT|Duck Creek Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 DCTH|Delcath Systems, Inc. - Common Stock|S|N|N|100|N|N
 DDIV|First Trust Dorsey Wright Momentum & Dividend ETF|G|N|N|100|Y|N
@@ -1009,7 +1011,7 @@ DISH|DISH Network Corporation - Class A Common Stock|Q|N|N|100|N|N
 DJCO|Daily Journal Corp. (S.C.) - Common Stock|S|N|N|100|N|N
 DKNG|DraftKings Inc. - Class A Common Stock|Q|N|N|100|N|N
 DLHC|DLH Holdings Corp. - Common Stock|S|N|N|100|N|N
-DLPN|Dolphin Entertainment, Inc. - Common Stock|S|N|D|100|N|N
+DLPN|Dolphin Entertainment, Inc. - Common Stock|S|N|N|100|N|N
 DLPNW|Dolphin Entertainment, Inc. - Warrant|S|N|N|100|N|N
 DLTH|Duluth Holdings Inc. - Class B Common Stock|Q|N|N|100|N|N
 DLTR|Dollar Tree, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1370,7 +1372,7 @@ FPRX|Five Prime Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 FPXE|First Trust IPOX Europe Equity Opportunities ETF|G|N|N|100|Y|N
 FPXI|First Trust International Equity Opportunities ETF|G|N|N|100|Y|N
 FRAF|Franklin Financial Services Corporation - Common Stock|S|N|N|100|N|N
-FRAN|Francesca's Holdings Corporation - Common Stock|Q|N|N|100|N|N
+FRAN|Francesca's Holdings Corporation - Common Stock|Q|N|Q|100|N|N
 FRBA|First Bank - Common Stock|G|N|N|100|N|N
 FRBK|Republic First Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 FREE|Whole Earth Brands, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -2511,7 +2513,7 @@ NVDA|NVIDIA Corporation - Common Stock|Q|N|N|100|N|N
 NVEC|NVE Corporation - Common Stock|S|N|N|100|N|N
 NVEE|NV5 Global, Inc. - Common Stock|S|N|D|100|N|N
 NVFY|Nova Lifestyle, Inc - Common Stock|S|N|N|100|N|N
-NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|N|100|N|N
+NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|D|100|N|N
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100|N|N
 NVUS|Novus Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2652,11 +2654,13 @@ OXSQZ|Oxford Square Capital Corp. - 6.25% Notes due 2026|Q|N|N|100|N|N
 OYST|Oyster Point Pharma, Inc. - common stock|Q|N|N|100|N|N
 OZK|Bank OZK - Common Stock|Q|N|N|100|N|N
 OZON|Ozon Holdings PLC - ADS, each ADS representing one ordinary share|Q|N|N|100|N|N
+PAA|Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests|Q|N|N|100|N|N
 PAAS|Pan American Silver Corp. - Common Stock|Q|N|N|100|N|N
 PACB|Pacific Biosciences of California, Inc. - Common Stock|Q|N|N|100|N|N
 PACW|PacWest Bancorp - Common Stock|Q|N|N|100|N|N
 PAE|PAE Incorporated - Class A Common Stock|S|N|N|100|N|N
 PAEWW|PAE Incorporated - Warrants|S|N|N|100|N|N
+PAGP|Plains GP Holdings, L.P. - Class A Shares representing limited partner interests|Q|N|N|100|N|N
 PAHC|Phibro Animal Health Corporation - Class A Common Stock|G|N|N|100|N|N
 PAIC|Petra Acquisition, Inc. - Common Stock|S|N|N|100|N|N
 PAICU|Petra Acquisition, Inc. - Units|S|N|N|100|N|N
@@ -2764,7 +2768,6 @@ PKW|Invesco BuyBack Achievers ETF|G|N|N|100|Y|N
 PLAB|Photronics, Inc. - Common Stock|Q|N|N|100|N|N
 PLAY|Dave & Buster's Entertainment, Inc. - Common Stock|Q|N|N|100|N|N
 PLBC|Plumas Bancorp - Common Stock|S|N|N|100|N|N
-PLC|Principal U.S. Large-Cap Multi-Factor ETF|G|N|N|100|Y|N
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100|N|N
 PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares|S|N|D|100|N|N
 PLL|Piedmont Lithium Limited - American Depositary Shares|S|N|N|100|N|N
@@ -2850,7 +2853,6 @@ PSEC|Prospect Capital Corporation - Common Stock|Q|N|N|100|N|N
 PSET|Principal Quality ETF|G|N|N|100|Y|N
 PSHG|Performance Shipping Inc. - Common Shares|S|N|N|100|N|N
 PSL|Invesco DWA Consumer Staples Momentum ETF|G|N|N|100|Y|N
-PSM|Principal U.S. Small-MidCap Multi-Factor ETF|G|N|N|100|Y|N
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100|N|N
 PSNL|Personalis, Inc. - Common Stock|G|N|N|100|N|N
 PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -3820,7 +3822,7 @@ WWD|Woodward, Inc. - Common Stock|Q|N|N|100|N|N
 WWR|Westwater Resources, Inc. - Common Stock|S|N|N|100|N|N
 WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100|N|N
 XAIR|Beyond Air, Inc. - Common Stock|S|N|N|100|N|N
-XBIO|Xenetic Biosciences, Inc. - Common Stock|S|N|D|100|N|N
+XBIO|Xenetic Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 XBIOW|Xenetic Biosciences, Inc. - Warrants|S|N|N|100|N|N
 XBIT|XBiotech Inc. - Common Stock|Q|N|N|100|N|N
 XCUR|Exicure, Inc. - Common Stock|S|N|N|100|N|N
@@ -3903,4 +3905,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1211202015:43|||||||
+File Creation Time: 1214202012:12|||||||

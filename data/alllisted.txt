@@ -270,7 +270,9 @@ ASPN,ASPN|Aspen Aerogels, Inc. Common Stock
 ASR,ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASX,ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 AT,AT|Atlantic Power Corporation Ordinary Shares (Canada)
+ATAC,ATAC|Altimar Acquisition Corporation Class A Ordinary Shares
 ATAC.U,ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+ATAC.W,ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ATCO,ATCO|Atlas Corp. Common Shares
 ATCO$D,ATCO$D|Atlas Corp. 7.95% Series D
 ATCO$E,ATCO$E|Atlas Corp. 8.25% Series E
@@ -870,7 +872,6 @@ CTRA,CTRA|Contura Energy, Inc. Common Stock
 CTS,CTS|CTS Corporation Common Stock
 CTT,CTT|CatchMark Timber Trust, Inc. Class A Common Stock
 CTVA,CTVA|Corteva, Inc. Common Stock 
-CTY,CTY|Qwest Corporation 6.125% Notes due 2053
 CUB,CUB|Cubic Corporation Common Stock
 CUBB,CUBB|Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034
 CUBE,CUBE|CubeSmart Common Shares
@@ -2554,14 +2555,12 @@ OVV,OVV|Ovintiv Inc. (DE)
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
 OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
-PAA,PAA|Plains All American Pipeline, L.P. Common Stock
 PAC,PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)
 PACE,PACE|TPG Pace Tech Opportunities Corp. Class A Ordinary Shares
 PACE.U,PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 PACE.W,PACE.W|TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 PACK,PACK|Ranpak Holdings Corp Class A Common Stock
 PAG,PAG|Penske Automotive Group, Inc. Common Stock
-PAGP,PAGP|Plains Group Holdings, L.P. Class A Shares representing limited partner interests
 PAGS,PAGS|PagSeguro Digital Ltd. Class A Common Shares
 PAI,PAI|Western Asset Investment Grade Income Fund Inc.
 PAM,PAM|Pampa Energia S.A. Pampa Energia S.A.
@@ -2865,7 +2864,9 @@ RHE,RHE|Regional Health Properties, Inc. Common Stock
 RHE$A,RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock
 RHI,RHI|Robert Half International Inc. Common Stock
 RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
+RICE,RICE|Rice Acquisition Corp. Class A Common Stock
 RICE.U,RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A common stock, and one-half of one warrant
+RICE.W,RICE.W|Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
@@ -4564,7 +4565,9 @@ DCBO,DCBO|Docebo Inc. - Common Shares
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
+DCRB,DCRB|Decarbonization Plus Acquisition Corporation - Class A Common Stock
 DCRBU,DCRBU|Decarbonization Plus Acquisition Corporation - Unit
+DCRBW,DCRBW|Decarbonization Plus Acquisition Corporation - Warrant
 DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDMXU,DDMXU|DD3 Acquisition Corp. II - Unit
@@ -6060,11 +6063,13 @@ OXSQZ,OXSQZ|Oxford Square Capital Corp. - 6.25% Notes due 2026
 OYST,OYST|Oyster Point Pharma, Inc. - common stock
 OZK,OZK|Bank OZK - Common Stock
 OZON,OZON|Ozon Holdings PLC - ADS, each ADS representing one ordinary share
+PAA,PAA|Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests
 PAAS,PAAS|Pan American Silver Corp. - Common Stock
 PACB,PACB|Pacific Biosciences of California, Inc. - Common Stock
 PACW,PACW|PacWest Bancorp - Common Stock
 PAE,PAE|PAE Incorporated - Class A Common Stock
 PAEWW,PAEWW|PAE Incorporated - Warrants
+PAGP,PAGP|Plains GP Holdings, L.P. - Class A Shares representing limited partner interests
 PAHC,PAHC|Phibro Animal Health Corporation - Class A Common Stock
 PAIC,PAIC|Petra Acquisition, Inc. - Common Stock
 PAICU,PAICU|Petra Acquisition, Inc. - Units
