@@ -112,11 +112,10 @@ AIN,AIN|Albany International Corporation Common Stock
 AINC,AINC|Ashford Inc. (Holding Company) Common Stock
 AIO,AIO|AllianzGI Artificial Intelligence & Technology Opportunities Fund Common Shares
 AIR,AIR|AAR Corp. Common Stock
-AIRC.V,AIRC.V|Apartment Income REIT Corp. Common Stock When Issued
+AIRC,AIRC|Apartment Income REIT Corp. Common Stock
 AIRI,AIRI|Air Industries Group Common Stock
 AIT,AIT|Applied Industrial Technologies, Inc. Common Stock
 AIV,AIV|Apartment Investment and Management Company Common Stock
-AIV.V,AIV.V|Apartment Investment and Management Company Class A Common Stock Ex-Distribution When Issued
 AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
@@ -270,6 +269,7 @@ ASPN,ASPN|Aspen Aerogels, Inc. Common Stock
 ASR,ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock
 ASX,ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) 
 AT,AT|Atlantic Power Corporation Ordinary Shares (Canada)
+ATA.U,ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant
 ATAC,ATAC|Altimar Acquisition Corporation Class A Ordinary Shares
 ATAC.U,ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ATAC.W,ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -3447,6 +3447,7 @@ UZA,UZA|United States Cellular Corporation 6.95% Senior Notes due 2060
 UZB,UZB|United States Cellular Corporation 7.25% Senior Notes due 2063
 UZC,UZC|United States Cellular Corporation 7.25% Senior Notes due 2064
 UZD,UZD|United States Cellular Corporation 6.250% Senior Notes due 2069
+UZE,UZE|United States Cellular Corporation 5.500% Senior Notes due 2070
 V,V|Visa Inc.
 VAC,VAC|Marriott Vacations Worldwide Corporation Common Stock
 VALE,VALE|VALE S.A.  American Depositary Shares Each Representing one common share
@@ -3560,8 +3561,6 @@ WFC$O,WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpet
 WFC$P,WFC$P|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (Ser P)
 WFC$Q,WFC$Q|Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating
 WFC$R,WFC$R|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)
-WFC$T,WFC$T|Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T
-WFC$V,WFC$V|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V
 WFC$W,WFC$W|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series W
 WFC$X,WFC$X|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series X
 WFC$Y,WFC$Y|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
@@ -4126,6 +4125,7 @@ BLRX,BLRX|BioLineRx Ltd. - American Depositary Shares
 BLSA,BLSA|BCLS Acquisition Corp. - Class A Ordinary Shares
 BLU,BLU|BELLUS Health Inc. - Common Shares
 BLUE,BLUE|bluebird bio, Inc. - Common Stock
+BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
 BMCH,BMCH|BMC Stock Holdings, Inc. - Common Stock
 BMLP,BMLP|Dorsey Wright MLP Index ETNs due December 10, 2036
 BMRA,BMRA|Biomerica, Inc. - Common Stock
@@ -4882,7 +4882,6 @@ FOXF,FOXF|Fox Factory Holding Corp. - Common Stock
 FPAY,FPAY|FlexShopper, Inc. - Common Stock
 FPRX,FPRX|Five Prime Therapeutics, Inc. - Common Stock
 FRAF,FRAF|Franklin Financial Services Corporation - Common Stock
-FRAN,FRAN|Francesca's Holdings Corporation - Common Stock
 FRBA,FRBA|First Bank - Common Stock
 FRBK,FRBK|Republic First Bancorp, Inc. - Common Stock
 FREE,FREE|Whole Earth Brands, Inc. - Class A Common Stock
@@ -5418,6 +5417,7 @@ KHC,KHC|The Kraft Heinz Company - Common Stock
 KIDS,KIDS|OrthoPediatrics Corp. - Common Stock
 KIN,KIN|Kindred Biosciences, Inc. - Common Stock
 KINS,KINS|Kingstone Companies, Inc - Common Stock
+KINZU,KINZU|KINS Technology Group Inc. - Unit
 KIRK,KIRK|Kirkland's, Inc. - Common Stock
 KLAC,KLAC|KLA Corporation  - Common Stock
 KLDO,KLDO|Kaleido Biosciences, Inc. - Common Stock
@@ -5505,7 +5505,9 @@ LEVLP,LEVLP|Level One Bancorp, Inc. - Depositary Shares, Each Representing a 1/1
 LFAC,LFAC|LF Capital Acquistion Corp. - Class A Common Stock
 LFACU,LFACU|LF Capital Acquistion Corp. - Unit
 LFACW,LFACW|LF Capital Acquistion Corp. - Warrant
+LFTR,LFTR|Lefteris Acquisition Corp. - Class A Common Stock
 LFTRU,LFTRU|Lefteris Acquisition Corp. - Unit
+LFTRW,LFTRW|Lefteris Acquisition Corp. - Warrant
 LFUS,LFUS|Littelfuse, Inc. - Common Stock
 LFVN,LFVN|Lifevantage Corporation - Common Stock
 LGHL,LGHL|Lion Group Holding Ltd. - American Depositary Share
@@ -5744,6 +5746,7 @@ MOXC,MOXC|Moxian, Inc. - Common Stock
 MPAA,MPAA|Motorcar Parts of America, Inc. - Common Stock
 MPB,MPB|Mid Penn Bancorp - Common Stock
 MPWR,MPWR|Monolithic Power Systems, Inc. - Common Stock
+MRACU,MRACU|Marquee Raine Acquisition Corp. - Unit
 MRAM,MRAM|Everspin Technologies, Inc. - Common Stock
 MRBK,MRBK|Meridian Corporation - Common Stock
 MRCC,MRCC|Monroe Capital Corporation - Common Stock
@@ -5958,6 +5961,7 @@ OCCI,OCCI|OFS Credit Company, Inc. - Common Stock
 OCCIP,OCCIP|OFS Credit Company, Inc. - 6.875% Series A Term Preferred Stock
 OCFC,OCFC|OceanFirst Financial Corp. - Common Stock
 OCFCP,OCFCP|OceanFirst Financial Corp. - Depositary Shares
+OCG,OCG|Oriental Culture Holding LTD - Ordinary Shares
 OCGN,OCGN|Ocugen, Inc. - Common Stock
 OCSI,OCSI|Oaktree Strategic Income Corporation - Common Stock
 OCSL,OCSL|Oaktree Specialty Lending Corporation - Common Stock
@@ -6043,7 +6047,9 @@ OTEX,OTEX|Open Text Corporation - Common Shares
 OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
 OTLKW,OTLKW|Outlook Therapeutics, Inc. - Series A Warrant
+OTRA,OTRA|OTR Acquisition Corp. - Class A Common Stock
 OTRAU,OTRAU|OTR Acquisition Corp. - Unit
+OTRAW,OTRAW|OTR Acquisition Corp. - Warrant
 OTRK,OTRK|Ontrak, Inc. - Common Stock
 OTRKP,OTRKP|Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock
 OTTR,OTTR|Otter Tail Corporation - Common Stock
@@ -6419,6 +6425,8 @@ RUSHB,RUSHB|Rush Enterprises, Inc. - Class B Common Stock
 RUTH,RUTH|Ruth's Hospitality Group, Inc. - Common Stock
 RVMD,RVMD|Revolution Medicines, Inc. - Common Stock
 RVNC,RVNC|Revance Therapeutics, Inc. - Common Stock
+RVPH,RVPH|Reviva Pharmaceuticals Holdings, Inc. - Common Stock
+RVPHW,RVPHW|Reviva Pharmaceuticals Holdings, Inc. - Warrants
 RVSB,RVSB|Riverview Bancorp Inc - Common Stock
 RWLK,RWLK|ReWalk Robotics Ltd. - Ordinary Shares
 RXT,RXT|Rackspace Technology, Inc. - Common Stock
@@ -6884,9 +6892,6 @@ TXN,TXN|Texas Instruments Incorporated - Common Stock
 TXRH,TXRH|Texas Roadhouse, Inc. - Common Stock
 TYHT,TYHT|Shineco, Inc. - Common Stock
 TYME,TYME|Tyme Technologies, Inc. - Common Stock
-TZAC,TZAC|Tenzing Acquisition Corp. - Ordinary Shares
-TZACU,TZACU|Tenzing Acquisition Corp. - Units
-TZACW,TZACW|Tenzing Acquisition Corp. - Warrants
 TZOO,TZOO|Travelzoo - Common Stock
 UAL,UAL|United Airlines Holdings, Inc. - Common Stock
 UBCP,UBCP|United Bancorp, Inc. - Common Stock
@@ -7071,6 +7076,7 @@ WLFC,WLFC|Willis Lease Finance Corporation - Common Stock
 WLTW,WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares
 WMG,WMG|Warner Music Group Corp. - Class A Common Stock
 WNEB,WNEB|Western New England Bancorp, Inc. - Common Stock
+WNW,WNW|Wunong Net Technology Company Limited - Ordinary Shares
 WORX,WORX|SCWorx Corp. - Common Stock
 WPRT,WPRT|Westport Fuel Systems Inc - Common Shares
 WRAP,WRAP|Wrap Technologies, Inc. - Common Stock

@@ -142,11 +142,10 @@ AIN|Albany International Corporation Common Stock|N|AIN|N|100|N|AIN
 AINC|Ashford Inc. (Holding Company) Common Stock|A|AINC|N|100|N|AINC
 AIO|AllianzGI Artificial Intelligence & Technology Opportunities Fund Common Shares|N|AIO|N|100|N|AIO
 AIR|AAR Corp. Common Stock|N|AIR|N|100|N|AIR
-AIRC.V|Apartment Income REIT Corp. Common Stock When Issued|N|AIRCw|N|100|N|AIRC#
+AIRC|Apartment Income REIT Corp. Common Stock|N|AIRC|N|100|N|AIRC
 AIRI|Air Industries Group Common Stock|A|AIRI|N|100|N|AIRI
 AIT|Applied Industrial Technologies, Inc. Common Stock|N|AIT|N|100|N|AIT
 AIV|Apartment Investment and Management Company Common Stock|N|AIV|N|100|N|AIV
-AIV.V|Apartment Investment and Management Company Class A Common Stock Ex-Distribution When Issued|N|AIVw|N|100|N|AIV#
 AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061|N|AIZN|N|100|N|AIZN
@@ -327,6 +326,7 @@ ASPN|Aspen Aerogels, Inc. Common Stock|N|ASPN|N|100|N|ASPN
 ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock|N|ASR|N|100|N|ASR
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
 AT|Atlantic Power Corporation Ordinary Shares (Canada)|N|AT|N|100|N|AT
+ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant|N|ATA.U|N|100|N|ATA=
 ATAC|Altimar Acquisition Corporation Class A Ordinary Shares|N|ATAC|N|100|N|ATAC
 ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ATAC.U|N|100|N|ATAC=
 ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ATAC.WS|N|100|N|ATAC+
@@ -1332,6 +1332,7 @@ DSOC|Innovator Double Stacker ETF - October|Z|DSOC|Y|100|N|DSOC
 DSS|Document Security Systems, Inc. Common Stock|A|DSS|N|100|N|DSS
 DSSI|Diamond S Shipping Inc. Common Stock |N|DSSI|N|100|N|DSSI
 DSTL|Distillate U.S. Fundamental Stability & Value ETF|P|DSTL|Y|100|N|DSTL
+DSTX|Distillate International Fundamental Stability & Value ETF|P|DSTX|Y|100|N|DSTX
 DSU|Blackrock Debt Strategies Fund, Inc. Common Stock|N|DSU|N|100|N|DSU
 DSX|Diana Shipping inc. common stock|N|DSX|N|100|N|DSX
 DSX$B|Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)|N|DSXpB|N|100|N|DSX-B
@@ -2967,7 +2968,6 @@ KODK|Eastman Kodak Company Common New|N|KODK|N|100|N|KODK
 KOF|Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)|N|KOF|N|100|N|KOF
 KOIN|Capital Link NextGen Protocol ETF|P|KOIN|Y|100|N|KOIN
 KOKU|Xtrackers MSCI Kokusai Equity ETF|P|KOKU|Y|100|N|KOKU
-KOL|VanEck Vectors Coal ETF|P|KOL|Y|100|N|KOL
 KOLD|ProShares UltraShort Bloomberg Natural Gas|P|KOLD|Y|100|N|KOLD
 KOMP|SPDR S&P Kensho New Economies Composite ETF|P|KOMP|Y|100|N|KOMP
 KOP|Koppers Holdings Inc. Koppers Holdings Inc. Common Stock|N|KOP|N|100|N|KOP
@@ -5164,6 +5164,7 @@ UZA|United States Cellular Corporation 6.95% Senior Notes due 2060|N|UZA|N|100|N
 UZB|United States Cellular Corporation 7.25% Senior Notes due 2063|N|UZB|N|100|N|UZB
 UZC|United States Cellular Corporation 7.25% Senior Notes due 2064|N|UZC|N|100|N|UZC
 UZD|United States Cellular Corporation 6.250% Senior Notes due 2069|N|UZD|N|100|N|UZD
+UZE|United States Cellular Corporation 5.500% Senior Notes due 2070|N|UZE|N|100|N|UZE
 V|Visa Inc.|N|V|N|100|N|V
 VAC|Marriott Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
 VALE|VALE S.A.  American Depositary Shares Each Representing one common share|N|VALE|N|100|N|VALE
@@ -5361,8 +5362,6 @@ WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Pr
 WFC$P|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (Ser P)|N|WFCpP|N|100|N|WFC-P
 WFC$Q|Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating|N|WFCpQ|N|100|N|WFC-Q
 WFC$R|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)|N|WFCpR|N|100|N|WFC-R
-WFC$T|Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T|N|WFCpT|N|100|N|WFC-T
-WFC$V|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series V|N|WFCpV|N|100|N|WFC-V
 WFC$W|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series W|N|WFCpW|N|100|N|WFC-W
 WFC$X|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series X|N|WFCpX|N|100|N|WFC-X
 WFC$Y|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y|N|WFCpY|N|100|N|WFC-Y
@@ -5560,4 +5559,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1214202015:43||||||
+File Creation Time: 1215202012:11||||||
