@@ -417,7 +417,6 @@ BF.A,BF.A|Brown Forman Inc Class A Common Stock
 BF.B,BF.B|Brown Forman Inc Class B Common Stock
 BFAM,BFAM|Bright Horizons Family Solutions Inc. Common Stock
 BFK,BFK|BlackRock Municipal Income Trust
-BFO,BFO|Blackrock Florida Municipal 2020 Term Trust
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
@@ -467,7 +466,6 @@ BKD,BKD|Brookdale Senior Living Inc. Common Stock
 BKE,BKE|Buckle, Inc. (The) Common Stock
 BKH,BKH|Black Hills Corporation Common Stock
 BKI,BKI|Black Knight, Inc. Common Stock 
-BKK,BKK|Blackrock Municipal 2020 Term Trust
 BKN,BKN|BlackRock Investment Quality Municipal Trust Inc. (The)
 BKR,BKR|Baker Hughes Company Class A Common Stock
 BKT,BKT|BlackRock Income Trust Inc. (The)
@@ -636,6 +634,7 @@ CCO,CCO|Clear Channel Outdoor Holdings, Inc. Common Stock
 CCR,CCR|CONSOL Coal Resources LP Common Units representing limited partner interests
 CCS,CCS|Century Communities, Inc. Common Stock
 CCU,CCU|Compania Cervecerias Unidas, S.A. Common Stock
+CCV.U,CCV.U|Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant
 CCX,CCX|Churchill Capital Corp II Class A Common Stock
 CCX.U,CCX.U|Churchill Capital Corp II Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant
 CCX.W,CCX.W|Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share
@@ -1116,12 +1115,10 @@ ELAN,ELAN|Elanco Animal Health Incorporated Common Stock
 ELAT,ELAT|Elanco Animal Health Incorporated 5.00% Tangible Equity Units
 ELC,ELC|Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066
 ELF,ELF|e.l.f. Beauty, Inc. Common Stock
-ELJ,ELJ|Entergy Louisiana, Inc. First Mortgage Bonds, 5.25% Series due July 1, 2052
 ELLO,ELLO|Ellomay Capital Ltd Ordinary Shares (Israel)
 ELMD,ELMD|Electromed, Inc. Common Stock
 ELP,ELP|Companhia Paranaense de Energia (COPEL) Common Stock
 ELS,ELS|Equity Lifestyle Properties, Inc. Common Stock
-ELU,ELU|Entergy Louisiana, Inc. First Mortgage Bonds, 4.70% Series due June 1, 2063
 ELVT,ELVT|Elevate Credit, Inc. Common Stock
 ELY,ELY|Callaway Golf Company Common Stock
 EMAN,EMAN|eMagin Corporation Common Stock
@@ -2043,7 +2040,7 @@ LPG,LPG|Dorian LPG Ltd. Common Stock
 LPI,LPI|Laredo Petroleum, Inc. Common Stock
 LPL,LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES
 LPX,LPX|Louisiana-Pacific Corporation Common Stock
-LRN,LRN|K12 Inc Common Stock
+LRN,LRN|Stride, Inc. Common Stock
 LSF,LSF|Laird Superfood, Inc. Common Stock
 LSI,LSI|Life Storage, Inc. Common Stock
 LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
@@ -4053,6 +4050,7 @@ BBIG,BBIG|Vinco Ventures, Inc. - Common Stock
 BBIO,BBIO|BridgeBio Pharma, Inc. - Common Stock
 BBQ,BBQ|BBQ Holdings, Inc.  - Common Stock
 BBSI,BBSI|Barrett Business Services, Inc. - Common Stock
+BCAB,BCAB|BioAtla, Inc. - Common Stock
 BCBP,BCBP|BCB Bancorp, Inc. (NJ) - Common Stock
 BCDA,BCDA|BioCardia, Inc. - Common Stock
 BCDAW,BCDAW|BioCardia, Inc. - Warrant
@@ -4605,7 +4603,6 @@ DMAC,DMAC|DiaMedica Therapeutics Inc. - Common Stock
 DMLP,DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMRC,DMRC|Digimarc Corporation - Common Stock
 DMTK,DMTK|DermTech, Inc. - Common Stock
-DNKN,DNKN|Dunkin' Brands Group, Inc. - Common Stock
 DNLI,DNLI|Denali Therapeutics Inc. - Common Stock
 DOCU,DOCU|DocuSign, Inc. - Common Stock
 DOGZ,DOGZ|Dogness (International) Corporation - Class A Common Stock
@@ -5596,7 +5593,9 @@ LULU,LULU|lululemon athletica inc. - Common Stock
 LUMO,LUMO|Lumos Pharma, Inc. - Common Stock
 LUNA,LUNA|Luna Innovations Incorporated - Common Stock
 LUNG,LUNG|Pulmonx Corporation - Common Stock
+LUXA,LUXA|Lux Health Tech Acquisition Corp. - Class A Common Stock
 LUXAU,LUXAU|Lux Health Tech Acquisition Corp. - Units
+LUXAW,LUXAW|Lux Health Tech Acquisition Corp. - Warrants
 LWAY,LWAY|Lifeway Foods, Inc. - Common Stock
 LX,LX|LexinFintech Holdings Ltd. - American Depositary Shares
 LXEH,LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares
@@ -6472,6 +6471,7 @@ SCKT,SCKT|Socket Mobile, Inc. - Common Stock
 SCOR,SCOR|comScore, Inc. - Common Stock
 SCPH,SCPH|scPharmaceuticals Inc. - Common Stock
 SCPL,SCPL|SciPlay Corporation - Class A Common Stock
+SCPS,SCPS|Scopus BioPharma Inc. - Common Stock
 SCSC,SCSC|ScanSource, Inc. - Common Stock
 SCVL,SCVL|Shoe Carnival, Inc. - Common Stock
 SCWX,SCWX|SecureWorks Corp. - Class A Common Stock
@@ -6812,7 +6812,9 @@ TLS,TLS|Telos Corporation - Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
 TMDI,TMDI|Titan Medical Inc. - Ordinary Shares
 TMDX,TMDX|TransMedics Group, Inc. - Common Stock
+TMPM,TMPM|Turmeric Acquisition Corp. - Class A Ordinary Shares
 TMPMU,TMPMU|Turmeric Acquisition Corp. - Unit
+TMPMW,TMPMW|Turmeric Acquisition Corp. - Warrant
 TMTS,TMTS|Spartacus Acquisition Corporation - Class A Common Stock
 TMTSU,TMTSU|Spartacus Acquisition Corporation - Unit
 TMTSW,TMTSW|Spartacus Acquisition Corporation - Warrant
@@ -6925,6 +6927,7 @@ UNTY,UNTY|Unity Bancorp, Inc. - Common Stock
 UONE,UONE|Urban One, Inc.  - Class A Common Stock
 UONEK,UONEK|Urban One, Inc.  - Class D Common Stock
 UPLD,UPLD|Upland Software, Inc. - Common Stock
+UPST,UPST|Upstart Holdings, Inc. - Common stock
 UPWK,UPWK|Upwork Inc. - Common Stock
 URBN,URBN|Urban Outfitters, Inc. - Common Stock
 URGN,URGN|UroGen Pharma Ltd. - Ordinary Shares
@@ -7068,6 +7071,7 @@ WING,WING|Wingstop Inc. - Common Stock
 WINT,WINT|Windtree Therapeutics, Inc. - Common Stock
 WIRE,WIRE|Encore Wire Corporation - Common Stock
 WISA,WISA|Summit Wireless Technologies, Inc. - Common Stock
+WISH,WISH|ContextLogic Inc. - Class A Common Stock
 WIX,WIX|Wix.com Ltd. - Ordinary Shares
 WKEY,WKEY|WISeKey International Holding AG - American Depositary Shares
 WKHS,WKHS|Workhorse Group, Inc. - Common Stock
@@ -7122,6 +7126,7 @@ XLRN,XLRN|Acceleron Pharma Inc. - Common Stock
 XNCR,XNCR|Xencor, Inc. - Common Stock
 XNET,XNET|Xunlei Limited - American Depositary Shares
 XOMA,XOMA|XOMA Corporation - Common Stock
+XOMAP,XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XONE,XONE|The ExOne Company - Common Stock
 XP,XP|XP Inc. - Class A Common Stock
 XPEL,XPEL|XPEL, Inc. - Common Stock

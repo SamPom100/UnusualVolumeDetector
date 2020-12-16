@@ -515,7 +515,6 @@ BF.B|Brown Forman Inc Class B Common Stock|N|BF.B|N|100|N|BF.B
 BFAM|Bright Horizons Family Solutions Inc. Common Stock|N|BFAM|N|100|N|BFAM
 BFEB|Innovator S&P 500 Buffer ETF - February|Z|BFEB|Y|100|N|BFEB
 BFK|BlackRock Municipal Income Trust|N|BFK|N|100|N|BFK
-BFO|Blackrock Florida Municipal 2020 Term Trust|N|BFO|N|100|N|BFO
 BFOR|Barron's 400|P|BFOR|Y|100|N|BFOR
 BFS|Saul Centers, Inc. Common Stock|N|BFS|N|100|N|BFS
 BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock|N|BFSpD|N|100|N|BFS-D
@@ -580,7 +579,6 @@ BKH|Black Hills Corporation Common Stock|N|BKH|N|100|N|BKH
 BKHY|BNY Mellon High Yield Beta ETF|P|BKHY|Y|100|N|BKHY
 BKI|Black Knight, Inc. Common Stock |N|BKI|N|100|N|BKI
 BKIE|BNY Mellon International Equity ETF|P|BKIE|Y|100|N|BKIE
-BKK|Blackrock Municipal 2020 Term Trust|N|BKK|N|100|N|BKK
 BKLC|BNY Mellon US Large Cap Core Equity ETF|P|BKLC|Y|100|N|BKLC
 BKLN|Invesco Senior Loan ETF|P|BKLN|Y|100|N|BKLN
 BKMC|BNY Mellon US Mid Cap Core Equity ETF|P|BKMC|Y|100|N|BKMC
@@ -793,6 +791,7 @@ CCR|CONSOL Coal Resources LP Common Units representing limited partner interests
 CCRV|iShares U.S. ETF Trust iShares Commodity Curve Carry Strategy ETF|P|CCRV|Y|100|N|CCRV
 CCS|Century Communities, Inc. Common Stock|N|CCS|N|100|N|CCS
 CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
+CCV.U|Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant|N|CCV.U|N|100|N|CCV=
 CCX|Churchill Capital Corp II Class A Common Stock|N|CCX|N|100|N|CCX
 CCX.U|Churchill Capital Corp II Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant|N|CCX.U|N|100|N|CCX=
 CCX.W|Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCX.WS|N|100|N|CCX+
@@ -1486,12 +1485,10 @@ ELAT|Elanco Animal Health Incorporated 5.00% Tangible Equity Units|N|ELAT|N|100|
 ELC|Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066|N|ELC|N|100|N|ELC
 ELD|WisdomTree Emerging Markets Local Debt Fund|P|ELD|Y|100|N|ELD
 ELF|e.l.f. Beauty, Inc. Common Stock|N|ELF|N|100|N|ELF
-ELJ|Entergy Louisiana, Inc. First Mortgage Bonds, 5.25% Series due July 1, 2052|N|ELJ|N|100|N|ELJ
 ELLO|Ellomay Capital Ltd Ordinary Shares (Israel)|A|ELLO|N|100|N|ELLO
 ELMD|Electromed, Inc. Common Stock|A|ELMD|N|100|N|ELMD
 ELP|Companhia Paranaense de Energia (COPEL) Common Stock|N|ELP|N|100|N|ELP
 ELS|Equity Lifestyle Properties, Inc. Common Stock|N|ELS|N|100|N|ELS
-ELU|Entergy Louisiana, Inc. First Mortgage Bonds, 4.70% Series due June 1, 2063|N|ELU|N|100|N|ELU
 ELVT|Elevate Credit, Inc. Common Stock|N|ELVT|N|100|N|ELVT
 ELY|Callaway Golf Company Common Stock|N|ELY|N|100|N|ELY
 EMAG|VanEck Vectors Emerging Markets Aggregate Bond ETF|P|EMAG|Y|100|N|EMAG
@@ -2482,7 +2479,6 @@ IBA|Industrias Bachoco, S.A.B. de C.V. Common Stock|N|IBA|N|100|N|IBA
 IBCE|iShares iBonds Mar 2023 Term Corporate ex-Financials ETF|P|IBCE|Y|100|N|IBCE
 IBD|Inspire Corporate Bond Impact ETF|P|IBD|Y|100|N|IBD
 IBDD|iShares iBonds Mar 2023 Term Corporate ETF|P|IBDD|Y|100|N|IBDD
-IBDL|iShares iBonds Dec 2020 Term Corporate ETF|P|IBDL|Y|100|N|IBDL
 IBDM|iShares iBonds Dec 2021 Term Corporate ETF|P|IBDM|Y|100|N|IBDM
 IBDN|iShares iBonds Dec 2022 Term Corporate ETF|P|IBDN|Y|100|N|IBDN
 IBDO|iShares iBonds Dec 2023 Term Corporate ETF|P|IBDO|Y|100|N|IBDO
@@ -3093,7 +3089,7 @@ LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LQDI|iShares Inflation Hedged Corporate Bond ETF|Z|LQDI|Y|100|N|LQDI
 LRGF|iShares MSCI USA Multifactor ETF|P|LRGF|Y|100|N|LRGF
-LRN|K12 Inc Common Stock|N|LRN|N|100|N|LRN
+LRN|Stride, Inc. Common Stock|N|LRN|N|100|N|LRN
 LRNZ|TrueShares Technology, AI & Deep Learning ETF|P|LRNZ|Y|100|N|LRNZ
 LSAF|LeaderShares AlphaFactor US Core Equity ETF|P|LSAF|Y|100|N|LSAF
 LSAT|LeaderShares AlphaFactor Tactical Focused ETF|P|LSAT|Y|100|N|LSAT
@@ -4595,6 +4591,7 @@ SPAK|Defiance Next Gen SPAC Derived ETF|P|SPAK|Y|100|N|SPAK
 SPB|Spectrum Brands Holdings, Inc. Common Stock|N|SPB|N|100|N|SPB
 SPBO|SPDR Portfolio Corporate Bond ETF|P|SPBO|Y|100|N|SPBO
 SPCE|Virgin Galactic Holdings, Inc. Common Stock|N|SPCE|N|100|N|SPCE
+SPCX|The SPAC and New Issue ETF|P|SPCX|Y|100|N|SPCX
 SPD|Simplify Exchange Traded Funds Simplify US Equity PLUS Downside Convexity ETF|P|SPD|Y|100|N|SPD
 SPDN|Direxion Daily S&P 500 Bear 1X Shares|P|SPDN|Y|100|N|SPDN
 SPDV|AAM S&P 500 High Dividend Value ETF|P|SPDV|Y|100|N|SPDV
@@ -4744,7 +4741,7 @@ SUZ|Suzano S.A. American Depositary Shares (each representing One Ordinary Share
 SVAL|iShares US Small Cap Value Factor ETF|Z|SVAL|Y|100|N|SVAL
 SVM|Silvercorp Metals Inc. Common Shares|A|SVM|N|100|N|SVM
 SVT|Servotronics, Inc. Common Stock|A|SVT|N|100|N|SVT
-SVXY|ProShares Short VIX Short Term Futures ETF|P|SVXY|Y|100|N|SVXY
+SVXY|ProShares Short VIX Short Term Futures ETF|Z|SVXY|Y|100|N|SVXY
 SWAN|Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF|P|SWAN|Y|100|N|SWAN
 SWCH|Switch, Inc. Class A Common Stock|N|SWCH|N|100|N|SWCH
 SWI|SolarWinds Corporation Common Stock|N|SWI|N|100|N|SWI
@@ -5155,7 +5152,7 @@ UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
 UUUU.W|Energy Fuels Inc Warrants, exercisable for one common share until September 20, 2021 at an exercise price of $2.45|A|UUUU.WS|N|100|N|UUUU+
 UVE|UNIVERSAL INSURANCE HOLDINGS INC Common Stock|N|UVE|N|100|N|UVE
 UVV|Universal Corporation Common Stock|N|UVV|N|100|N|UVV
-UVXY|ProShares Trust Ultra VIX Short Term Futures ETF|P|UVXY|Y|100|N|UVXY
+UVXY|ProShares Trust Ultra VIX Short Term Futures ETF|Z|UVXY|Y|100|N|UVXY
 UWM|ProShares Ultra Russell2000|P|UWM|Y|100|N|UWM
 UXI|ProShares Ultra Industrials|P|UXI|Y|100|N|UXI
 UYG|ProShares Ultra Financials|P|UYG|Y|100|N|UYG
@@ -5234,8 +5231,8 @@ VIRS|Pacer BioThreat Strategy ETF|Z|VIRS|Y|100|N|VIRS
 VIS|Vanguard Industrials ETF|P|VIS|Y|100|N|VIS
 VIST|Vista Oil & Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value|N|VIST|N|100|N|VIST
 VIV|Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)|N|VIV|N|100|N|VIV
-VIXM|ProShares Trust VIX Mid-Term Futures ETF|P|VIXM|Y|100|N|VIXM
-VIXY|ProShares Trust VIX Short-Term Futures ETF|P|VIXY|Y|100|N|VIXY
+VIXM|ProShares Trust VIX Mid-Term Futures ETF|Z|VIXM|Y|100|N|VIXM
+VIXY|ProShares Trust VIX Short-Term Futures ETF|Z|VIXY|Y|100|N|VIXY
 VKI|Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)|A|VKI|N|100|N|VKI
 VKQ|Invesco Municipal Trust Common Stock|N|VKQ|N|100|N|VKQ
 VLO|Valero Energy Corporation Common Stock|N|VLO|N|100|N|VLO
@@ -5559,4 +5556,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1215202015:42||||||
+File Creation Time: 1216202012:12||||||

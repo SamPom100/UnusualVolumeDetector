@@ -386,6 +386,7 @@ BBIG|Vinco Ventures, Inc. - Common Stock|S|N|N|100|N|N
 BBIO|BridgeBio Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 BBQ|BBQ Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
 BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100|N|N
+BCAB|BioAtla, Inc. - Common Stock|G|N|N|100|N|N
 BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100|N|N
 BCDA|BioCardia, Inc. - Common Stock|S|N|N|100|N|N
 BCDAW|BioCardia, Inc. - Warrant|S|N|N|100|N|N
@@ -529,7 +530,6 @@ BSAE|Invesco BulletShares 2021 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
 BSBE|Invesco BulletShares 2022 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
 BSBK|Bogota Financial Corp. - Common Stock|S|N|N|100|N|N
 BSCE|Invesco BulletShares 2023 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
-BSCK|Invesco BulletShares 2020 Corporate Bond ETF|G|N|N|100|Y|N
 BSCL|Invesco BulletShares 2021 Corporate Bond ETF|G|N|N|100|Y|N
 BSCM|Invesco BulletShares 2022 Corporate Bond ETF|G|N|N|100|Y|N
 BSCN|Invesco BulletShares 2023 Corporate Bond ETF|G|N|N|100|Y|N
@@ -543,7 +543,6 @@ BSCU|Invesco BulletShares 2030 Corporate Bond ETF|G|N|N|100|Y|N
 BSDE|Invesco BulletShares 2024 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100|N|N
 BSGM|BioSig Technologies, Inc. - Common Stock|S|N|N|100|N|N
-BSJK|Invesco BulletShares 2020 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 BSJL|Invesco BulletShares 2021 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 BSJM|Invesco BulletShares 2022 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 BSJN|Invesco BulletShares 2023 High Yield Corporate Bond ETF|G|N|N|100|Y|N
@@ -1021,7 +1020,6 @@ DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership I
 DMRC|Digimarc Corporation - Common Stock|Q|N|N|100|N|N
 DMTK|DermTech, Inc. - Common Stock|S|N|N|100|N|N
 DMXF|iShares ESG Advanced MSCI EAFE ETF|G|N|N|100|Y|N
-DNKN|Dunkin' Brands Group, Inc. - Common Stock|Q|N|N|100|N|N
 DNLI|Denali Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 DOCU|DocuSign, Inc. - Common Stock|Q|N|N|100|N|N
 DOGZ|Dogness (International) Corporation - Class A Common Stock|G|N|N|100|N|N
@@ -1305,6 +1303,7 @@ FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
 FHTX|Foghorn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 FIBK|First Interstate BancSystem, Inc. - Class A Common Stock|Q|N|N|100|N|N
+FICS|First Trust International Developed Capital Strength ETF|G|N|N|100|Y|N
 FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
 FIII|Forum Merger III Corporation - Class A Common Stock|S|N|N|100|N|N
 FIIIU|Forum Merger III Corporation - Units|S|N|N|100|N|N
@@ -1664,8 +1663,8 @@ HIBB|Hibbett Sports, Inc. - Common Stock|Q|N|N|100|N|N
 HIFS|Hingham Institution for Savings - Common Stock|G|N|N|100|N|N
 HIHO|Highway Holdings Limited - Common Stock|S|N|N|100|N|N
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100|N|N
-HJLI|Hancock Jaffe Laboratories, Inc. - Common Stock|S|N|D|100|N|N
-HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants|S|N|D|100|N|N
+HJLI|Hancock Jaffe Laboratories, Inc. - Common Stock|S|N|N|100|N|N
+HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants|S|N|N|100|N|N
 HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
 HLG|Hailiang Education Group Inc. - American Depositary Shares|G|N|N|100|N|N
 HLIO|Helios Technologies, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2177,7 +2176,9 @@ LULU|lululemon athletica inc. - Common Stock|Q|N|N|100|N|N
 LUMO|Lumos Pharma, Inc. - Common Stock|G|N|N|100|N|N
 LUNA|Luna Innovations Incorporated - Common Stock|S|N|N|100|N|N
 LUNG|Pulmonx Corporation - Common Stock|Q|N|N|100|N|N
+LUXA|Lux Health Tech Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 LUXAU|Lux Health Tech Acquisition Corp. - Units|S|N|N|100|N|N
+LUXAW|Lux Health Tech Acquisition Corp. - Warrants|S|N|N|100|N|N
 LVHD|Legg Mason Low Volatility High Dividend ETF|G|N|N|100|Y|N
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100|N|N
 LX|LexinFintech Holdings Ltd. - American Depositary Shares|G|N|N|100|N|N
@@ -3130,6 +3131,7 @@ SCKT|Socket Mobile, Inc. - Common Stock|S|N|N|100|N|N
 SCOR|comScore, Inc. - Common Stock|Q|N|N|100|N|N
 SCPH|scPharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 SCPL|SciPlay Corporation - Class A Common Stock|Q|N|N|100|N|N
+SCPS|Scopus BioPharma Inc. - Common Stock|G|N|N|100|N|N
 SCSC|ScanSource, Inc. - Common Stock|Q|N|N|100|N|N
 SCVL|Shoe Carnival, Inc. - Common Stock|Q|N|N|100|N|N
 SCWX|SecureWorks Corp. - Class A Common Stock|Q|N|N|100|N|N
@@ -3495,7 +3497,9 @@ TLSA|Tiziana Life Sciences plc - American Depository Share|G|N|N|100|N|N
 TLT|iShares 20+ Year Treasury Bond ETF|G|N|N|100|Y|N
 TMDI|Titan Medical Inc. - Ordinary Shares|S|N|D|100|N|N
 TMDX|TransMedics Group, Inc. - Common Stock|G|N|N|100|N|N
+TMPM|Turmeric Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 TMPMU|Turmeric Acquisition Corp. - Unit|S|N|N|100|N|N
+TMPMW|Turmeric Acquisition Corp. - Warrant|S|N|N|100|N|N
 TMTS|Spartacus Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 TMTSU|Spartacus Acquisition Corporation - Unit|S|N|N|100|N|N
 TMTSW|Spartacus Acquisition Corporation - Warrant|S|N|N|100|N|N
@@ -3553,7 +3557,7 @@ TTEC|TTEC Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 TTEK|Tetra Tech, Inc. - Common Stock|Q|N|N|100|N|N
 TTGT|TechTarget, Inc. - Common Stock|G|N|N|100|N|N
 TTMI|TTM Technologies, Inc. - Common Stock|Q|N|N|100|N|N
-TTNP|Titan Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
+TTNP|Titan Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 TTOO|T2 Biosystems, Inc. - Common Stock|G|N|N|100|N|N
 TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100|N|N
 TUR|iShares MSCI Turkey ETF|G|N|N|100|Y|N
@@ -3613,6 +3617,7 @@ UNTY|Unity Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 UONE|Urban One, Inc.  - Class A Common Stock|S|N|N|100|N|N
 UONEK|Urban One, Inc.  - Class D Common Stock|S|N|N|100|N|N
 UPLD|Upland Software, Inc. - Common Stock|G|N|N|100|N|N
+UPST|Upstart Holdings, Inc. - Common stock|Q|N|N|100|N|N
 UPWK|Upwork Inc. - Common Stock|Q|N|N|100|N|N
 URBN|Urban Outfitters, Inc. - Common Stock|Q|N|N|100|N|N
 URGN|UroGen Pharma Ltd. - Ordinary Shares|G|N|N|100|N|N
@@ -3790,6 +3795,7 @@ WING|Wingstop Inc. - Common Stock|Q|N|N|100|N|N
 WINT|Windtree Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100|N|N
 WISA|Summit Wireless Technologies, Inc. - Common Stock|S|N|N|100|N|N
+WISH|ContextLogic Inc. - Class A Common Stock|Q|N|N|100|N|N
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 WKEY|WISeKey International Holding AG - American Depositary Shares|G|N|N|100|N|N
 WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100|N|N
@@ -3845,6 +3851,7 @@ XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100|N|N
 XNCR|Xencor, Inc. - Common Stock|G|N|N|100|N|N
 XNET|Xunlei Limited - American Depositary Shares|Q|N|N|100|N|N
 XOMA|XOMA Corporation - Common Stock|G|N|N|100|N|N
+XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 XONE|The ExOne Company - Common Stock|Q|N|N|100|N|N
 XP|XP Inc. - Class A Common Stock|Q|N|N|100|N|N
 XPEL|XPEL, Inc. - Common Stock|S|N|N|100|N|N
@@ -3911,4 +3918,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1215202015:42|||||||
+File Creation Time: 1216202012:12|||||||
