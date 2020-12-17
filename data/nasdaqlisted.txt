@@ -412,6 +412,8 @@ BEEMW|Beam Global - Warrant|S|N|N|100|N|N
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100|N|N
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
 BFC|Bank First Corporation - Common Stock|S|N|N|100|N|N
+BFI|BurgerFi International Inc - Common Stock|G|N|N|100|N|N
+BFIIW|BurgerFi International Inc - Warrant|G|N|N|100|N|N
 BFIN|BankFinancial Corporation - Common Stock|Q|N|N|100|N|N
 BFIT|Global X Health & Wellness Thematic ETF|G|N|N|100|Y|N
 BFRA|Biofrontera AG - American Depositary Shares|S|N|N|100|N|N
@@ -426,7 +428,9 @@ BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058|Q|N|
 BHFAN|Brighthouse Financial, Inc. - depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C|Q|N|N|100|N|N
 BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B|Q|N|N|100|N|N
 BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A|Q|N|N|100|N|N
+BHSE|Bull Horn Holdings Corp. - Ordinary Shares|S|N|N|100|N|N
 BHSEU|Bull Horn Holdings Corp. - Unit|S|N|N|100|N|N
+BHSEW|Bull Horn Holdings Corp. - Warrants|S|N|N|100|N|N
 BHTG|BioHiTech Global, Inc. - Common Stock|S|N|N|100|N|N
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100|Y|N
 BICK|First Trust BICK Index Fund|G|N|N|100|Y|N
@@ -826,6 +830,7 @@ COMT|iShares Commodities Select Strategy ETF|G|N|N|100|Y|N
 CONE|CyrusOne Inc - Common Stock|Q|N|N|100|N|N
 CONN|Conn's, Inc. - Common Stock|Q|N|N|100|N|N
 CONXU|CONX Corp. - Unit|S|N|N|100|N|N
+COOLU|Corner Growth Acquisition Corp. - Unit|S|N|N|100|N|N
 COOP|Mr. Cooper Group Inc. - Common Stock|S|N|N|100|N|N
 CORE|Core-Mark Holding Company, Inc. - Common Stock|Q|N|N|100|N|N
 CORT|Corcept Therapeutics Incorporated - Common Stock|S|N|N|100|N|N
@@ -1299,6 +1304,8 @@ FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100|N|N
 FFWM|First Foundation Inc. - Common Stock|G|N|N|100|N|N
 FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FGEN|FibroGen, Inc - Common Stock|Q|N|N|100|N|N
+FGF|FG Financial Group, Inc.  - Common Stock|G|N|N|100|N|N
+FGFPP|FG Financial Group, Inc.  - 8.00% Cumulative Series A Preferred Stock|G|N|N|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
 FHTX|Foghorn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
@@ -2250,6 +2257,7 @@ MDRRP|Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred
 MDRX|Allscripts Healthcare Solutions, Inc. - common stock|Q|N|N|100|N|N
 MDVL|MedAvail Holdings, Inc.  - Common Stock|S|N|N|100|N|N
 MDWD|MediWound Ltd. - Ordinary Shares|G|N|N|100|N|N
+MDWT|Midwest Holding Inc. - Common Stock|S|N|N|100|N|N
 MDXG|MiMedx Group, Inc - Common Stock|S|N|N|100|N|N
 MEDP|Medpace Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 MEDS|Trxade Group, Inc. - Common Stock|S|N|N|100|N|N
@@ -2543,7 +2551,7 @@ NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|N|100|N|N
 OAS|Oasis Petroleum Inc. - Common Stock|Q|N|N|100|N|N
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100|N|N
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100|N|N
-OBLN|Obalon Therapeutics, Inc. - Common Stock|G|N|D|100|N|N
+OBLN|Obalon Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 OBNK|Origin Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 OBSV|ObsEva SA - Common Shares|Q|N|N|100|N|N
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100|N|N
@@ -2599,9 +2607,6 @@ ONTXW|Onconova Therapeutics, Inc. - Warrants|S|N|N|100|N|N
 ONVO|Organovo Holdings, Inc. - Common Stock|S|N|N|100|N|N
 OPBK|OP Bancorp - Common Stock|G|N|N|100|N|N
 OPCH|Option Care Health, Inc. - Common Stock|Q|N|N|100|N|N
-OPES|Opes Acquisition Corp. - Common Stock|S|N|N|100|N|N
-OPESU|Opes Acquisition Corp. - Unit|S|N|N|100|N|N
-OPESW|Opes Acquisition Corp. - Warrant|S|N|N|100|N|N
 OPGN|OpGen, Inc. - Common Stock|S|N|N|100|N|N
 OPHC|OptimumBank Holdings, Inc. - Common Stock|S|N|N|100|N|N
 OPI|Office Properties Income Trust - Common Shares of Beneficial Interest|Q|N|N|100|N|N
@@ -2762,8 +2767,6 @@ PI|Impinj, Inc. - Common Stock|Q|N|N|100|N|N
 PICO|PICO Holdings Inc. - Common Stock|Q|N|N|100|N|N
 PID|Invesco International Dividend Achievers ETF|G|N|N|100|Y|N
 PIE|Invesco DWA Emerging Markets Momentum ETF|G|N|N|100|Y|N
-PIH|1347 Property Insurance Holdings, Inc. - Common Stock|G|N|N|100|N|N
-PIHPP|1347 Property Insurance Holdings, Inc. - 8.00% Cumulative Series A Preferred Stock|G|N|N|100|N|N
 PINC|Premier, Inc. - Class A Common Stock|Q|N|N|100|N|N
 PIO|Invesco Global Water ETF|G|N|N|100|Y|N
 PIRS|Pieris Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -3120,6 +3123,7 @@ SBGI|Sinclair Broadcast Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SBLK|Star Bulk Carriers Corp. - Common Shares|Q|N|N|100|N|N
 SBLKZ|Star Bulk Carriers Corp. - 8.30% Senior Notes due 2022|Q|N|N|100|N|N
 SBNY|Signature Bank - Common Stock|Q|N|N|100|N|N
+SBNYP|Signature Bank - Depositary shares, each representing a 1/40th ownership interest in a share of 5.000% Noncumulative Perpetual Series A Preferred Stock|Q|N|N|100|N|N
 SBRA|Sabra Health Care REIT, Inc. - Common Stock|Q|N|N|100|N|N
 SBSI|Southside Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 SBT|Sterling Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -3128,6 +3132,7 @@ SBUX|Starbucks Corporation - Common Stock|Q|N|N|100|N|N
 SCHL|Scholastic Corporation - Common Stock|Q|N|N|100|N|N
 SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SCKT|Socket Mobile, Inc. - Common Stock|S|N|N|100|N|N
+SCOAU|ScION Tech Growth I - Unit|S|N|N|100|N|N
 SCOR|comScore, Inc. - Common Stock|Q|N|N|100|N|N
 SCPH|scPharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 SCPL|SciPlay Corporation - Class A Common Stock|Q|N|N|100|N|N
@@ -3204,7 +3209,7 @@ SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100|N|N
 SILK|Silk Road Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100|N|N
 SINA|Sina Corporation - Ordinary Shares|Q|N|N|100|N|N
-SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|D|100|N|N
+SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100|N|N
 SINT|SiNtx Technologies, Inc. - Common Stock|S|N|N|100|N|N
 SIOX|Sio Gene Therapies Inc. - Common Stock|Q|N|N|100|N|N
 SIRI|Sirius XM Holdings Inc. - Common Stock|Q|N|N|100|N|N
@@ -3686,10 +3691,11 @@ VIHAW|VPC Impact Acquisition Holdings - Warrant|S|N|N|100|N|N
 VIOT|Viomi Technology Co., Ltd - American Depositary Shares|Q|N|N|100|N|N
 VIR|Vir Biotechnology, Inc. - Common Stock|Q|N|N|100|N|N
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100|N|N
+VIRI|Virios Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VIRT|Virtu Financial, Inc. - Class A Common Stock|Q|N|N|100|N|N
 VISL|Vislink Technologies, Inc. - Common Stock|S|N|N|100|N|N
 VITL|Vital Farms, Inc. - Common Stock|G|N|N|100|N|N
-VIVE|Viveve Medical, Inc. - Common Stock|S|N|D|100|N|N
+VIVE|Viveve Medical, Inc. - Common Stock|S|N|N|100|N|N
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100|N|N
 VJET|voxeljet AG - American Depositary Shares|S|N|N|100|N|N
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -3918,4 +3924,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1216202015:43|||||||
+File Creation Time: 1217202012:12|||||||

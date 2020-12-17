@@ -1271,9 +1271,6 @@ FDP,FDP|Fresh Del Monte Produce, Inc. Common Stock
 FDS,FDS|FactSet Research Systems Inc. Common Stock
 FDX,FDX|FedEx Corporation Common Stock
 FE,FE|FirstEnergy Corp. Common Stock
-FEAC,FEAC|Flying Eagle Acquisition Corp. Class A Common Stock
-FEAC.U,FEAC.U|Flying Eagle Acquisition Corp. Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
-FEAC.W,FEAC.W|Flying Eagle Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FEDU,FEDU|Four Seasons Education (Cayman) Inc. American Depositary Shares, each two ADSs representing one ordinary share
 FEI,FEI|First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest
 FEN,FEN|First Trust Energy Income and Growth Fund
@@ -3045,6 +3042,8 @@ SJM,SJM|J.M. Smucker Company (The) New Common Stock
 SJR,SJR|Shaw Communications Inc. Common Stock
 SJT,SJT|San Juan Basin Royalty Trust Common Stock
 SJW,SJW|SJW Group Common Stock (DE)
+SKLZ,SKLZ|Skillz Inc. Class A Common Stock
+SKLZ.W,SKLZ.W|Skillz Inc. Warrants
 SKM,SKM|SK Telecom Co., Ltd. Common Stock
 SKT,SKT|Tanger Factory Outlet Centers, Inc. Common Stock
 SKX,SKX|Skechers U.S.A., Inc. Common Stock
@@ -4076,6 +4075,8 @@ BEEMW,BEEMW|Beam Global - Warrant
 BELFA,BELFA|Bel Fuse Inc. - Class A Common Stock
 BELFB,BELFB|Bel Fuse Inc. - Class B Common Stock
 BFC,BFC|Bank First Corporation - Common Stock
+BFI,BFI|BurgerFi International Inc - Common Stock
+BFIIW,BFIIW|BurgerFi International Inc - Warrant
 BFIN,BFIN|BankFinancial Corporation - Common Stock
 BFRA,BFRA|Biofrontera AG - American Depositary Shares
 BFST,BFST|Business First Bancshares, Inc. - Common Stock
@@ -4088,7 +4089,9 @@ BHFAL,BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 205
 BHFAN,BHFAN|Brighthouse Financial, Inc. - depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C
 BHFAO,BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B
 BHFAP,BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A
+BHSE,BHSE|Bull Horn Holdings Corp. - Ordinary Shares
 BHSEU,BHSEU|Bull Horn Holdings Corp. - Unit
+BHSEW,BHSEW|Bull Horn Holdings Corp. - Warrants
 BHTG,BHTG|BioHiTech Global, Inc. - Common Stock
 BIDU,BIDU|Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share
 BIGC,BIGC|BigCommerce Holdings, Inc. - Series 1 Common Stock
@@ -4425,6 +4428,7 @@ COMM,COMM|CommScope Holding Company, Inc. - Common Stock
 CONE,CONE|CyrusOne Inc - Common Stock
 CONN,CONN|Conn's, Inc. - Common Stock
 CONXU,CONXU|CONX Corp. - Unit
+COOLU,COOLU|Corner Growth Acquisition Corp. - Unit
 COOP,COOP|Mr. Cooper Group Inc. - Common Stock
 CORE,CORE|Core-Mark Holding Company, Inc. - Common Stock
 CORT,CORT|Corcept Therapeutics Incorporated - Common Stock
@@ -4823,6 +4827,8 @@ FFNW,FFNW|First Financial Northwest, Inc. - Common Stock
 FFWM,FFWM|First Foundation Inc. - Common Stock
 FGBI,FGBI|First Guaranty Bancshares, Inc. - Common Stock
 FGEN,FGEN|FibroGen, Inc - Common Stock
+FGF,FGF|FG Financial Group, Inc.  - Common Stock
+FGFPP,FGFPP|FG Financial Group, Inc.  - 8.00% Cumulative Series A Preferred Stock
 FHB,FHB|First Hawaiian, Inc. - Common Stock
 FHTX,FHTX|Foghorn Therapeutics Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
@@ -5662,6 +5668,7 @@ MDRRP,MDRRP|Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Pre
 MDRX,MDRX|Allscripts Healthcare Solutions, Inc. - common stock
 MDVL,MDVL|MedAvail Holdings, Inc.  - Common Stock
 MDWD,MDWD|MediWound Ltd. - Ordinary Shares
+MDWT,MDWT|Midwest Holding Inc. - Common Stock
 MDXG,MDXG|MiMedx Group, Inc - Common Stock
 MEDP,MEDP|Medpace Holdings, Inc. - Common Stock
 MEDS,MEDS|Trxade Group, Inc. - Common Stock
@@ -6006,9 +6013,6 @@ ONTXW,ONTXW|Onconova Therapeutics, Inc. - Warrants
 ONVO,ONVO|Organovo Holdings, Inc. - Common Stock
 OPBK,OPBK|OP Bancorp - Common Stock
 OPCH,OPCH|Option Care Health, Inc. - Common Stock
-OPES,OPES|Opes Acquisition Corp. - Common Stock
-OPESU,OPESU|Opes Acquisition Corp. - Unit
-OPESW,OPESW|Opes Acquisition Corp. - Warrant
 OPGN,OPGN|OpGen, Inc. - Common Stock
 OPHC,OPHC|OptimumBank Holdings, Inc. - Common Stock
 OPI,OPI|Office Properties Income Trust - Common Shares of Beneficial Interest
@@ -6157,8 +6161,6 @@ PHUN,PHUN|Phunware, Inc. - Common Stock
 PHUNW,PHUNW|Phunware, Inc. - Warrants
 PI,PI|Impinj, Inc. - Common Stock
 PICO,PICO|PICO Holdings Inc. - Common Stock
-PIH,PIH|1347 Property Insurance Holdings, Inc. - Common Stock
-PIHPP,PIHPP|1347 Property Insurance Holdings, Inc. - 8.00% Cumulative Series A Preferred Stock
 PINC,PINC|Premier, Inc. - Class A Common Stock
 PIRS,PIRS|Pieris Pharmaceuticals, Inc. - Common Stock
 PIXY,PIXY|ShiftPixy, Inc. - Common Stock
@@ -6460,6 +6462,7 @@ SBGI,SBGI|Sinclair Broadcast Group, Inc. - Class A Common Stock
 SBLK,SBLK|Star Bulk Carriers Corp. - Common Shares
 SBLKZ,SBLKZ|Star Bulk Carriers Corp. - 8.30% Senior Notes due 2022
 SBNY,SBNY|Signature Bank - Common Stock
+SBNYP,SBNYP|Signature Bank - Depositary shares, each representing a 1/40th ownership interest in a share of 5.000% Noncumulative Perpetual Series A Preferred Stock
 SBRA,SBRA|Sabra Health Care REIT, Inc. - Common Stock
 SBSI,SBSI|Southside Bancshares, Inc. - Common Stock
 SBT,SBT|Sterling Bancorp, Inc. - Common Stock
@@ -6468,6 +6471,7 @@ SBUX,SBUX|Starbucks Corporation - Common Stock
 SCHL,SCHL|Scholastic Corporation - Common Stock
 SCHN,SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock
 SCKT,SCKT|Socket Mobile, Inc. - Common Stock
+SCOAU,SCOAU|ScION Tech Growth I - Unit
 SCOR,SCOR|comScore, Inc. - Common Stock
 SCPH,SCPH|scPharmaceuticals Inc. - Common Stock
 SCPL,SCPL|SciPlay Corporation - Class A Common Stock
@@ -6984,6 +6988,7 @@ VIHAW,VIHAW|VPC Impact Acquisition Holdings - Warrant
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock
+VIRI,VIRI|Virios Therapeutics, Inc. - Common Stock
 VIRT,VIRT|Virtu Financial, Inc. - Class A Common Stock
 VISL,VISL|Vislink Technologies, Inc. - Common Stock
 VITL,VITL|Vital Farms, Inc. - Common Stock
