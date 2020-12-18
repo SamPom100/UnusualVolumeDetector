@@ -34,7 +34,9 @@ ACEL|Accel Entertainment, Inc. |N|ACEL|N|100|N|ACEL
 ACES|ALPS Clean Energy ETF|Z|ACES|Y|100|N|ACES
 ACH|Aluminum Corporation of China Limited American Depositary Shares|N|ACH|N|100|N|ACH
 ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
+ACIC|Atlas Crest Investment Corp. Class A Common Stock|N|ACIC|N|100|N|ACIC
 ACIC.U|Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of one redeemable warrant|N|ACIC.U|N|100|N|ACIC=
+ACIC.W|Atlas Crest Investment Corp. Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50|N|ACIC.WS|N|100|N|ACIC+
 ACIO|ETF Series Solutions Aptus Collared Income Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
@@ -150,7 +152,9 @@ AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061|N|AIZN|N|100|N|AIZN
 AIZP|Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value|N|AIZP|N|100|N|AIZP
+AJAX|Ajax I Class A Ordinary Shares|N|AJAX|N|100|N|AJAX
 AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|AJAX.U|N|100|N|AJAX=
+AJAX.W|Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|AJAX.WS|N|100|N|AJAX+
 AJG|Arthur J. Gallagher & Co. Common Stock|N|AJG|N|100|N|AJG
 AJRD|Aerojet Rocketdyne Holdings, Inc. Common Stock|N|AJRD|N|100|N|AJRD
 AJX|Great Ajax Corp. Common Stock|N|AJX|N|100|N|AJX
@@ -618,15 +622,15 @@ BNDC|FlexShares Core Select Bond Fund|P|BNDC|Y|100|N|BNDC
 BNE|ETF Series Solutions Blue Horizon BNE ETF|P|BNE|Y|100|N|BNE
 BNED|Barnes & Noble Education, Inc Common Stock|N|BNED|N|100|N|BNED
 BNKD|MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs|P|BNKD|N|100|N|BNKD
-BNKO|MicroSectors U.S. Big Banks Index 2X Leveraged ETNs|P|BNKO|N|100|N|BNKO
 BNKU|MicroSectors U.S. Big Banks Index 3X Leveraged ETNs|P|BNKU|N|100|N|BNKU
-BNKZ|MicroSectors U.S. Big Banks Index -2X Inverse Leveraged ETNs|P|BNKZ|N|100|N|BNKZ
 BNL|Broadstone Net Lease, Inc. Class A Common Stock|N|BNL|N|100|N|BNL
 BNO|United States Brent Oil Fund, LP ETV|P|BNO|Y|100|N|BNO
 BNOV|Innovator S&P 500 Buffer ETF - November|Z|BNOV|Y|100|N|BNOV
 BNS|Bank Nova Scotia Halifax Pfd 3 Ordinary Shares|N|BNS|N|100|N|BNS
 BNY|BlackRock New York Municipal Income Trust|N|BNY|N|100|N|BNY
+BOAC|Bluescape Opportunities Acquisition Corp. Class A Ordinary Shares|N|BOAC|N|100|N|BOAC
 BOAC.U|Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|BOAC.U|N|100|N|BOAC=
+BOAC.W|Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|BOAC.WS|N|100|N|BOAC+
 BOCT|Innovator S&P 500 Buffer ETF - October|Z|BOCT|Y|100|N|BOCT
 BOE|Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest|N|BOE|N|100|N|BOE
 BOH|Bank of Hawaii Corporation Common Stock|N|BOH|N|100|N|BOH
@@ -2036,7 +2040,7 @@ GB.W|Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of
 GBAB|Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest|N|GBAB|N|100|N|GBAB
 GBDV|Global Beta ETF Trust Global Beta Smart Income ETF|P|GBDV|Y|100|N|GBDV
 GBF|iShares Government/Credit Bond ETF|P|GBF|Y|100|N|GBF
-GBGR|Global Beta Momentum-Growth ETF|P|GBGR|Y|100|N|GBGR
+GBGR|Global Beta Rising Stars ETF|P|GBGR|Y|100|N|GBGR
 GBIL|Goldman Sachs Access Treasury 0-1 Year ETF|P|GBIL|Y|100|N|GBIL
 GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
 GBLO|Global Beta Low Beta ETF|P|GBLO|Y|100|N|GBLO
@@ -2081,6 +2085,7 @@ GFF|Griffon Corporation Common Stock|N|GFF|N|100|N|GFF
 GFI|Gold Fields Limited American Depositary Shares|N|GFI|N|100|N|GFI
 GFL|GFL Environmental Inc. Subordinate voting shares, no par value|N|GFL|N|100|N|GFL
 GFLU|GFL Environmental Inc. Tangible Equity Units|N|GFLU|N|100|N|GFLU
+GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|GFX.U|N|100|N|GFX=
 GGB|Gerdau S.A. Common Stock|N|GGB|N|100|N|GGB
 GGG|Graco Inc. Common Stock|N|GGG|N|100|N|GGG
 GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest|N|GGM|N|100|N|GGM
@@ -2950,7 +2955,6 @@ KMPR|Kemper Corporation|N|KMPR|N|100|N|KMPR
 KMT|Kennametal Inc. Common Stock|N|KMT|N|100|N|KMT
 KMX|CarMax Inc|N|KMX|N|100|N|KMX
 KN|Knowles Corporation Common Stock|N|KN|N|100|N|KN
-KNAB|MicroSectors U.S. Big Banks Index Inverse ETNs|P|KNAB|N|100|N|KNAB
 KNG|ETF Series Solutions ETF Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF|Z|KNG|Y|100|N|KNG
 KNL|Knoll, Inc. Common Stock|N|KNL|N|100|N|KNL
 KNOP|KNOT Offshore Partners LP Common Units representing Limited Partner Interests|N|KNOP|N|100|N|KNOP
@@ -3544,10 +3548,8 @@ NREF|NexPoint Real Estate Finance, Inc. Common Stock|N|NREF|N|100|N|NREF
 NREF$A|NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock|N|NREFpA|N|100|N|NREF-A
 NRG|NRG Energy, Inc. Common Stock|N|NRG|N|100|N|NRG
 NRGD|MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN|P|NRGD|N|100|N|NRGD
-NRGO|MicroSectors U.S. Big Oil Index 2X Leveraged ETN|P|NRGO|N|100|N|NRGO
 NRGU|MicroSectors U.S. Big Oil Index 3X Leveraged ETN|P|NRGU|N|100|N|NRGU
 NRGX|PIMCO Energy and Tactical Credit Opportunities Fund Common Shares of Beneficial Interest|N|NRGX|N|100|N|NRGX
-NRGZ|MicroSectors U.S. Big Oil Index -2X Inverse Leveraged ETN|P|NRGZ|N|100|N|NRGZ
 NRK|Nuveen New York AMT-Free Quality Municipal Income Fund |N|NRK|N|100|N|NRK
 NRO|Neuberger Berman Real Estate Securities Income Fund, Inc. Neuberger Berman Real Estate Securities Income Fund, Inc.|A|NRO|N|100|N|NRO
 NRP|Natural Resource Partners LP Limited Partnership|N|NRP|N|100|N|NRP
@@ -4700,7 +4702,9 @@ STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock|N|STARpI|N|100|
 STC|Stewart Information Services Corporation Common Stock|N|STC|N|100|N|STC
 STE|STERIS plc (Ireland) Ordinary Shares|N|STE|N|100|N|STE
 STG|Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares|N|STG|N|100|N|STG
+STIC|Northern Star Acquisition Corp. Class A Common Stock|N|STIC|N|100|N|STIC
 STIC.U|Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third ofA one Warrant|N|STIC.U|N|100|N|STIC=
+STIC.W|Northern Star Acquisition Corp. Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share|N|STIC.WS|N|100|N|STIC+
 STIP|iShares 0-5 Year TIPS Bond ETF|P|STIP|Y|100|N|STIP
 STK|Columbia Seligman Premium Technology Growth Fund Inc|N|STK|N|100|N|STK
 STL|Sterling Bancorp|N|STL|N|100|N|STL
@@ -4785,7 +4789,6 @@ TAN|Invesco Solar ETF|P|TAN|Y|100|N|TAN
 TAP|Molson Coors Beverage Company Class B Common Stock|N|TAP|N|100|N|TAP
 TAP.A|Molson Coors Beverage Company Molson Coors Brewing Company Class A Common Stock|N|TAP.A|N|100|N|TAP.A
 TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares|N|TARO|N|100|N|TARO
-TAT|TransAtlantic Petroleum Ltd Ordinary Shares (Bermuda)|A|TAT|N|100|N|TAT
 TAXF|American Century Diversified Municipal Bond ETF|P|TAXF|Y|100|N|TAXF
 TBB|AT&T Inc. 5.350% Global Notes due 2066|N|TBB|N|100|N|TBB
 TBC|AT&T Inc. 5.625% Global Notes due 2067|N|TBC|N|100|N|TBC
@@ -5521,7 +5524,6 @@ YCS|ProShares UltraShort Yen New|P|YCS|Y|100|N|YCS
 YELP|Yelp Inc. Common Stock|N|YELP|N|100|N|YELP
 YETI|YETI Holdings, Inc. Common Stock|N|YETI|N|100|N|YETI
 YEXT|Yext, Inc. Common Stock|N|YEXT|N|100|N|YEXT
-YGRN|MicroSectors U.S. Big Oil Index Inverse ETN|P|YGRN|N|100|N|YGRN
 YINN|Direxion Daily FTSE China Bull 3x Shares|P|YINN|Y|100|N|YINN
 YLD|Principal Active Income ETF|P|YLD|Y|100|N|YLD
 YOLO|AdvisorShares Pure Cannabis ETF|P|YOLO|Y|100|N|YOLO
@@ -5556,4 +5558,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1217202015:41||||||
+File Creation Time: 1218202012:12||||||

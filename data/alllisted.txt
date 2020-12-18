@@ -28,7 +28,9 @@ ACCO,ACCO|Acco Brands Corporation Common Stock
 ACEL,ACEL|Accel Entertainment, Inc. 
 ACH,ACH|Aluminum Corporation of China Limited American Depositary Shares
 ACI,ACI|Albertsons Companies, Inc. Class A Common Stock
+ACIC,ACIC|Atlas Crest Investment Corp. Class A Common Stock
 ACIC.U,ACIC.U|Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of one redeemable warrant
+ACIC.W,ACIC.W|Atlas Crest Investment Corp. Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50
 ACM,ACM|AECOM Common Stock
 ACN,ACN|Accenture plc Class A Ordinary Shares (Ireland)
 ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
@@ -120,7 +122,9 @@ AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
 AIZP,AIZP|Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value
+AJAX,AJAX|Ajax I Class A Ordinary Shares
 AJAX.U,AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+AJAX.W,AJAX.W|Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 AJG,AJG|Arthur J. Gallagher & Co. Common Stock
 AJRD,AJRD|Aerojet Rocketdyne Holdings, Inc. Common Stock
 AJX,AJX|Great Ajax Corp. Common Stock
@@ -490,13 +494,13 @@ BMY,BMY|Bristol-Myers Squibb Company Common Stock
 BMY.R,BMY.R|Bristol-Myers Squibb Company Contingent Value Rights
 BNED,BNED|Barnes & Noble Education, Inc Common Stock
 BNKD,BNKD|MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs
-BNKO,BNKO|MicroSectors U.S. Big Banks Index 2X Leveraged ETNs
 BNKU,BNKU|MicroSectors U.S. Big Banks Index 3X Leveraged ETNs
-BNKZ,BNKZ|MicroSectors U.S. Big Banks Index -2X Inverse Leveraged ETNs
 BNL,BNL|Broadstone Net Lease, Inc. Class A Common Stock
 BNS,BNS|Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNY,BNY|BlackRock New York Municipal Income Trust
+BOAC,BOAC|Bluescape Opportunities Acquisition Corp. Class A Ordinary Shares
 BOAC.U,BOAC.U|Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
+BOAC.W,BOAC.W|Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 BOE,BOE|Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
 BOH,BOH|Bank of Hawaii Corporation Common Stock
 BOOT,BOOT|Boot Barn Holdings, Inc. Common Stock
@@ -1439,6 +1443,7 @@ GFF,GFF|Griffon Corporation Common Stock
 GFI,GFI|Gold Fields Limited American Depositary Shares
 GFL,GFL|GFL Environmental Inc. Subordinate voting shares, no par value
 GFLU,GFLU|GFL Environmental Inc. Tangible Equity Units
+GFX.U,GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
 GGB,GGB|Gerdau S.A. Common Stock
 GGG,GGG|Graco Inc. Common Stock
 GGM,GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest
@@ -1942,7 +1947,6 @@ KMPR,KMPR|Kemper Corporation
 KMT,KMT|Kennametal Inc. Common Stock
 KMX,KMX|CarMax Inc
 KN,KN|Knowles Corporation Common Stock
-KNAB,KNAB|MicroSectors U.S. Big Banks Index Inverse ETNs
 KNL,KNL|Knoll, Inc. Common Stock
 KNOP,KNOP|KNOT Offshore Partners LP Common Units representing Limited Partner Interests
 KNX,KNX|Knight-Swift Transportation Holdings Inc.
@@ -2408,10 +2412,8 @@ NREF,NREF|NexPoint Real Estate Finance, Inc. Common Stock
 NREF$A,NREF$A|NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock
 NRG,NRG|NRG Energy, Inc. Common Stock
 NRGD,NRGD|MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN
-NRGO,NRGO|MicroSectors U.S. Big Oil Index 2X Leveraged ETN
 NRGU,NRGU|MicroSectors U.S. Big Oil Index 3X Leveraged ETN
 NRGX,NRGX|PIMCO Energy and Tactical Credit Opportunities Fund Common Shares of Beneficial Interest
-NRGZ,NRGZ|MicroSectors U.S. Big Oil Index -2X Inverse Leveraged ETN
 NRK,NRK|Nuveen New York AMT-Free Quality Municipal Income Fund 
 NRO,NRO|Neuberger Berman Real Estate Securities Income Fund, Inc. Neuberger Berman Real Estate Securities Income Fund, Inc.
 NRP,NRP|Natural Resource Partners LP Limited Partnership
@@ -3147,7 +3149,9 @@ STAR$I,STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock
 STC,STC|Stewart Information Services Corporation Common Stock
 STE,STE|STERIS plc (Ireland) Ordinary Shares
 STG,STG|Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares
+STIC,STIC|Northern Star Acquisition Corp. Class A Common Stock
 STIC.U,STIC.U|Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third ofA one Warrant
+STIC.W,STIC.W|Northern Star Acquisition Corp. Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share
 STK,STK|Columbia Seligman Premium Technology Growth Fund Inc
 STL,STL|Sterling Bancorp
 STL$A,STL$A|Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.50% Non-Cumulative, Perpetual Preferred Stock, Series A
@@ -3205,7 +3209,6 @@ TALO.W,TALO.W|Talos Energy, Inc. Warrants
 TAP,TAP|Molson Coors Beverage Company Class B Common Stock
 TAP.A,TAP.A|Molson Coors Beverage Company Molson Coors Brewing Company Class A Common Stock
 TARO,TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares
-TAT,TAT|TransAtlantic Petroleum Ltd Ordinary Shares (Bermuda)
 TBB,TBB|AT&T Inc. 5.350% Global Notes due 2066
 TBC,TBC|AT&T Inc. 5.625% Global Notes due 2067
 TBI,TBI|TrueBlue, Inc. Common Stock
@@ -3653,7 +3656,6 @@ YCBD$A,YCBD$A|cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock
 YELP,YELP|Yelp Inc. Common Stock
 YETI,YETI|YETI Holdings, Inc. Common Stock
 YEXT,YEXT|Yext, Inc. Common Stock
-YGRN,YGRN|MicroSectors U.S. Big Oil Index Inverse ETN
 YPF,YPF|YPF Sociedad Anonima Common Stock
 YRD,YRD|Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares
 YSG,YSG|Yatsen Holding Limited American Depositary Shares, each representing four Class A ordinary shares
@@ -4379,6 +4381,8 @@ CLRO,CLRO|ClearOne, Inc. - Common Stock
 CLSD,CLSD|Clearside Biomedical, Inc. - Common Stock
 CLSK,CLSK|CleanSpark, Inc. - Common Stock
 CLSN,CLSN|Celsion Corporation - Common Stock
+CLVR,CLVR|Clever Leaves Holdings Inc. - Common Shares
+CLVRW,CLVRW|Clever Leaves Holdings Inc. - Warrant
 CLVS,CLVS|Clovis Oncology, Inc. - Common Stock
 CLWT,CLWT|Euro Tech Holdings Company Limited - Ordinary Shares
 CLXT,CLXT|Calyxt, Inc. - Common Stock
@@ -4633,6 +4637,7 @@ DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
 DTIL,DTIL|Precision BioSciences, Inc. - Common Stock
 DTSS,DTSS|Datasea Inc. - Common Stock
+DUNEU,DUNEU|Dune Acquisition Corporation - Unit
 DUO,DUO|Fangdd Network Group Ltd. - American Depositary Shares
 DUOT,DUOT|Duos Technologies Group, Inc. - Common Stock
 DVAX,DVAX|Dynavax Technologies Corporation - Common Stock
@@ -5266,6 +5271,7 @@ IGICW,IGICW|International General Insurance Holdings Ltd. - Warrant expiring 3/1
 IGMS,IGMS|IGM Biosciences, Inc. - Common Stock
 IHRT,IHRT|iHeartMedia, Inc. - Class A Common Stock
 III,III|Information Services Group, Inc. - Common Stock
+IIIIU,IIIIU|INSU Acquisition Corp. III - Unit
 IIIN,IIIN|Insteel Industries, Inc. - Common Stock
 IIIV,IIIV|i3 Verticals, Inc. - Common Stock
 IIN,IIN|IntriCon Corporation - Common Stock
@@ -5625,6 +5631,7 @@ MARA,MARA|Marathon Patent Group, Inc. - Common Stock
 MARK,MARK|Remark Holdings, Inc. - Common Stock
 MARPS,MARPS|Marine Petroleum Trust - Units of Beneficial Interest
 MASI,MASI|Masimo Corporation - Common Stock
+MASS,MASS|908 Devices Inc. - Common Stock
 MAT,MAT|Mattel, Inc. - Common Stock
 MATW,MATW|Matthews International Corporation - Class A Common Stock
 MAXN,MAXN|Maxeon Solar Technologies, Ltd. - Ordinary Shares
@@ -5776,6 +5783,7 @@ MSFT,MSFT|Microsoft Corporation - Common Stock
 MSON,MSON|MISONIX, Inc. - Common Stock
 MSTR,MSTR|MicroStrategy Incorporated - Class A Common Stock
 MSVB,MSVB|Mid-Southern Bancorp, Inc. - Common Stock
+MTACU,MTACU|MedTech Acquisition Corporation - Unit
 MTBC,MTBC|MTBC, Inc. - Common Stock
 MTBCP,MTBCP|MTBC, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock
 MTC,MTC|MMTec, Inc. - Common Shares
@@ -6704,6 +6712,7 @@ SVACW,SVACW|Starboard Value Acquisition Corp. - Warrant
 SVBI,SVBI|Severn Bancorp Inc - Common Stock
 SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVMK,SVMK|SVMK Inc. - Common Stock
+SVOKU,SVOKU|Seven Oaks Acquisition Corp. - Unit
 SVRA,SVRA|Savara, Inc. - Common Stock
 SVSVU,SVSVU|Spring Valley Acquisition Corp. - Unit
 SVSVW,SVSVW|Spring Valley Acquisition Corp. - Warrant
@@ -6772,7 +6781,9 @@ TEAM,TEAM|Atlassian Corporation Plc - Class A Ordinary Shares
 TECH,TECH|Bio-Techne Corp - Common Stock
 TECTP,TECTP|Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 TEDU,TEDU|Tarena International, Inc. - American Depositary Shares
+TEKK,TEKK|Tekkorp Digital Acquisition Corp. - Class A Ordinary Shares
 TEKKU,TEKKU|Tekkorp Digital Acquisition Corp. - Unit
+TEKKW,TEKKW|Tekkorp Digital Acquisition Corp. - Warrant
 TELA,TELA|TELA Bio, Inc. - Common stock
 TELL,TELL|Tellurian Inc. - Common Stock
 TENB,TENB|Tenable Holdings, Inc. - Common Stock
