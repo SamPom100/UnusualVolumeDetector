@@ -430,7 +430,7 @@ BFT.W,BFT.W|Foley Trasimene Acquisition Corp. II Warrants, each whole warrant ex
 BFY,BFY|BlackRock New York Municipal Income Trust II
 BFZ,BFZ|BlackRock California Municipal Income Trust
 BG,BG|Bunge Limited Bunge Limited
-BGB,BGB|Blackstone / GSO Strategic Credit Fund Common Shares
+BGB,BGB|Blackstone Strategic Credit Fund Common Shares
 BGH,BGH|Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests
 BGI,BGI|Birks Group Inc. Common Stock
 BGIO,BGIO|BlackRock 2022 Global Income Opportunity Trust Common Shares of Beneficial Interest
@@ -438,7 +438,7 @@ BGR,BGR|BlackRock Energy and Resources Trust
 BGS,BGS|B&G Foods, Inc. B&G Foods, Inc. Common Stock
 BGSF,BGSF|BG Staffing Inc Common Stock
 BGT,BGT|BlackRock Floating Rate Income Trust
-BGX,BGX|Blackstone GSO Long Short Credit Income Fund Common Shares
+BGX,BGX|Blackstone Long Short Credit Income Fund Common Shares
 BGY,BGY|Blackrock Enhanced International Dividend Trust
 BH,BH|Biglari Holdings Inc. Class B Common Stock
 BH.A,BH.A|Biglari Holdings Inc. Class A Common Stock
@@ -465,7 +465,6 @@ BIPC,BIPC|Brookfield Infrastructure Partners LP Class A Subordinate Voting Share
 BIT,BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest
 BJ,BJ|BJ's Wholesale Club Holdings, Inc. Common Stock
 BK,BK|The Bank of New York Mellon Corporation Common Stock
-BK$C,BK$C|Bank Of New York Mellon Corporation (The) Dep Shs Repstg 1/4000th Perp Pfd Ser C
 BKD,BKD|Brookdale Senior Living Inc. Common Stock
 BKE,BKE|Buckle, Inc. (The) Common Stock
 BKH,BKH|Black Hills Corporation Common Stock
@@ -533,7 +532,7 @@ BSBR,BSBR|Banco Santander Brasil SA American Depositary Shares, each representin
 BSD,BSD|BlackRock Strategic Municipal Trust Inc. (The) Common Stock
 BSE,BSE|Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest
 BSIG,BSIG|BrightSphere Investment Group Inc. Common Stock
-BSL,BSL|Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest
+BSL,BSL|Blackstone Senior Floating Rate Term Fund Common Shares of Beneficial Interest
 BSM,BSM|Black Stone Minerals, L.P. Common units representing limited partner interests
 BSMX,BSMX|Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico
 BSN,BSN|Broadstone Acquisition Corp. Class A Ordinary Shares
@@ -847,6 +846,8 @@ CS,CS|Credit Suisse Group American Depositary Shares
 CSL,CSL|Carlisle Companies Incorporated Common Stock
 CSLT,CSLT|Castlight Health, Inc. Class B Common Stock
 CSPR,CSPR|Casper Sleep Inc. Common Stock
+CSR,CSR|D/B/A Centerspace Common Stock
+CSR$C,CSR$C|D/B/A Centerspace 6.625% Series C 
 CSTM,CSTM|Constellium SE Ordinary Shares (France)
 CSU,CSU|Capital Senior Living Corporation Common Stock
 CSV,CSV|Carriage Services, Inc. Common Stock
@@ -1788,9 +1789,6 @@ IOR,IOR|Income Opportunity Realty Investors, Inc. Common Stock
 IP,IP|International Paper Company Common Stock
 IPG,IPG|Interpublic Group of Companies, Inc. (The) Common Stock
 IPI,IPI|Intrepid Potash, Inc Common Stock
-IPOB,IPOB|Social Capital Hedosophia Holdings Corp. II Class A Ordinary Shares
-IPOB.U,IPOB.U|Social Capital Hedosophia Holdings Corp. II Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant
-IPOB.W,IPOB.W|Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 IPOC,IPOC|Social Capital Hedosophia Holdings Corp. III Class A Ordinary Shares
 IPOC.U,IPOC.U|Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant
 IPOC.W,IPOC.W|Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -1809,8 +1807,6 @@ IPV.W,IPV.W|InterPrivate Acquisition Corp. Redeemable Warrants, each whole warra
 IQI,IQI|Invesco Quality Municipal Income Trust Common Stock
 IQV,IQV|IQVIA Holdings, Inc. Common Stock
 IR,IR|Ingersoll Rand Inc. Common Stock
-IRET,IRET|Investors Real Estate Trust Shares of Beneficial Interest
-IRET$C,IRET$C|Investors Real Estate Trust 6.625% Series C Cumulative Redeemable Preferred Shares (Liquidation Preference $25.00 Per Share)
 IRL,IRL|New Ireland Fund, Inc (The) Common Stock
 IRM,IRM|Iron Mountain Incorporated (Delaware)Common Stock REIT
 IRR,IRR|Voya Natural Resources Equity Income Fund Common Shares of Beneficial Interest
@@ -2339,7 +2335,6 @@ NGG,NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary S
 NGL,NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
 NGL$B,NGL$B|NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests
 NGL$C,NGL$C|NGL ENERGY PARTNERS LP 9.625% Class C Fixed-to-Floating Rate Cumulative  Redeemable Perpetual Preferred Units representing  limited partner interests
-NGLS$A,NGLS$A|Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing preferred equity interests
 NGS,NGS|Natural Gas Services Group, Inc. Common Stock
 NGVC,NGVC|Natural Grocers by Vitamin Cottage, Inc. Common Stock
 NGVT,NGVT|Ingevity Corporation Common Stock 
@@ -3720,6 +3715,7 @@ ACHV,ACHV|Achieve Life Sciences, Inc.  - Common Shares
 ACIA,ACIA|Acacia Communications, Inc. - Common Stock
 ACIU,ACIU|AC Immune SA - Common Stock
 ACIW,ACIW|ACI Worldwide, Inc. - Common Stock
+ACKIU,ACKIU|Ackrell SPAC Partners I Co.  - Units
 ACLS,ACLS|Axcelis Technologies, Inc. - Common Stock
 ACMR,ACMR|ACM Research, Inc. - Class A Common Stock
 ACNB,ACNB|ACNB Corporation - Common Stock
@@ -3769,6 +3765,7 @@ AEYE,AEYE|AudioEye, Inc. - Common Stock
 AEZS,AEZS|Aeterna Zentaris Inc. - Common Stock
 AFIB,AFIB|Acutus Medical, Inc. - Common Stock
 AFIN,AFIN|American Finance Trust, Inc. - Class A Common Stock
+AFINO,AFINO|American Finance Trust, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock
 AFINP,AFINP|American Finance Trust, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock
 AFMD,AFMD|Affimed N.V. - Common Stock
 AFYA,AFYA|Afya Limited - Class A Common Shares
@@ -4431,7 +4428,9 @@ COLM,COLM|Columbia Sportswear Company - Common Stock
 COMM,COMM|CommScope Holding Company, Inc. - Common Stock
 CONE,CONE|CyrusOne Inc - Common Stock
 CONN,CONN|Conn's, Inc. - Common Stock
+CONX,CONX|CONX Corp. - Class A Common Stock
 CONXU,CONXU|CONX Corp. - Unit
+CONXW,CONXW|CONX Corp. - Warrant
 COOLU,COOLU|Corner Growth Acquisition Corp. - Unit
 COOP,COOP|Mr. Cooper Group Inc. - Common Stock
 CORE,CORE|Core-Mark Holding Company, Inc. - Common Stock
@@ -5004,8 +5003,6 @@ GLBZ,GLBZ|Glen Burnie Bancorp - Common Stock
 GLDD,GLDD|Great Lakes Dredge & Dock Corporation - Common Stock
 GLDI,GLDI|Credit Suisse Gold Shares Covered Call Exchange Traded Notes
 GLG,GLG|TD Holdings, Inc. - Common Stock
-GLIBA,GLIBA|GCI Liberty, Inc. - Class A Common Stock
-GLIBP,GLIBP|GCI Liberty, Inc. - Series A Cumulative Redeemable Preferred Stock
 GLMD,GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares
 GLNG,GLNG|Golar LNG Limited - Common Shares
 GLPG,GLPG|Galapagos NV - American Depositary Shares
@@ -6021,6 +6018,8 @@ ONTXW,ONTXW|Onconova Therapeutics, Inc. - Warrants
 ONVO,ONVO|Organovo Holdings, Inc. - Common Stock
 OPBK,OPBK|OP Bancorp - Common Stock
 OPCH,OPCH|Option Care Health, Inc. - Common Stock
+OPEN,OPEN|Opendoor Technologies Inc  - Common Stock
+OPENW,OPENW|Opendoor Technologies Inc  - Warrant
 OPGN,OPGN|OpGen, Inc. - Common Stock
 OPHC,OPHC|OptimumBank Holdings, Inc. - Common Stock
 OPI,OPI|Office Properties Income Trust - Common Shares of Beneficial Interest
@@ -6453,9 +6452,6 @@ SAIIU,SAIIU|Software Acquisition Group Inc. II - Unit
 SAIIW,SAIIW|Software Acquisition Group Inc. II - Warrant
 SAL,SAL|Salisbury Bancorp, Inc. - Common Stock
 SALM,SALM|Salem Media Group, Inc. - Class A Common Stock
-SAMA,SAMA|Schultze Special Purpose Acquisition Corp. - Common Stock
-SAMAU,SAMAU|Schultze Special Purpose Acquisition Corp. - Unit
-SAMAW,SAMAW|Schultze Special Purpose Acquisition Corp. - Warrant
 SAMG,SAMG|Silvercrest Asset Management Group Inc. - Common Stock
 SANM,SANM|Sanmina Corporation - Common Stock
 SANW,SANW|S&W Seed Company - Common Stock
