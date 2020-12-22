@@ -2707,9 +2707,11 @@ ITUB|Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 
 ITW|Illinois Tool Works Inc. Common Stock|N|ITW|N|100|N|ITW
 IVAL|Alpha Architect International Quantitative Value ETF|Z|IVAL|Y|100|N|IVAL
 IVC|Invacare Corporation Common Stock|N|IVC|N|100|N|IVC
+IVDG|Invesco Focused Discovery Growth ETF|Z|IVDG|Y|100|N|IVDG
 IVE|iShares S&P 500 Value ETF|P|IVE|Y|100|N|IVE
 IVES|Wedbush ETFMG Global Cloud Technology ETF|P|IVES|Y|100|N|IVES
 IVH|Ivy High Income Opportunities Fund Common Shares of Beneficial Interest|N|IVH|N|100|N|IVH
+IVLC|Invesco US Large Cap Core ESG ETF|Z|IVLC|Y|100|N|IVLC
 IVLU|iShares MSCI Intl Value Factor ETF|P|IVLU|Y|100|N|IVLU
 IVOG|Vanguard S&P Mid-Cap 400 Growth ETF|P|IVOG|Y|100|N|IVOG
 IVOL|Quadratic Interest Rate Volatility and Inflation Hedge ETF|P|IVOL|Y|100|N|IVOL
@@ -2719,6 +2721,8 @@ IVR|INVESCO MORTGAGE CAPITAL INC Common Stock|N|IVR|N|100|N|IVR
 IVR$A|Invesco Mortgage Capital Inc. Pfd Ser A|N|IVRpA|N|100|N|IVR-A
 IVR$B|Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg|N|IVRpB|N|100|N|IVR-B
 IVR$C|INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share|N|IVRpC|N|100|N|IVR-C
+IVRA|Invesco Real Assets ESG ETF|Z|IVRA|Y|100|N|IVRA
+IVSG|Invesco Select Growth ETF|Z|IVSG|Y|100|N|IVSG
 IVV|iShares Core S&P 500 ETF|P|IVV|Y|100|N|IVV
 IVW|iShares S&P 500 Growth ETF|P|IVW|Y|100|N|IVW
 IVZ|Invesco Ltd Common Stock|N|IVZ|N|100|N|IVZ
@@ -3707,6 +3711,7 @@ ORC|Orchid Island Capital, Inc. Common Stock|N|ORC|N|100|N|ORC
 ORCC|Owl Rock Capital Corporation Common Stock|N|ORCC|N|100|N|ORCC
 ORCL|Oracle Corporation Common Stock|N|ORCL|N|100|N|ORCL
 ORI|Old Republic International Corporation Common Stock|N|ORI|N|100|N|ORI
+ORLA|Orla Mining Ltd. Common Shares|A|ORLA|N|100|N|ORLA
 ORN|Orion Group Holdings, Inc. Common|N|ORN|N|100|N|ORN
 OSB|Norbord Inc. Common Stock|N|OSB|N|100|N|OSB
 OSCV|Opus Small Cap Value ETF|Z|OSCV|Y|100|N|OSCV
@@ -3874,9 +3879,6 @@ PHYS|Sprott Physical Gold Trust ETV|P|PHYS|Y|100|N|PHYS
 PIAI|Prime Impact Acquisition I Class A Ordinary Shares|N|PIAI|N|100|N|PIAI
 PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share|N|PIAI.U|N|100|N|PIAI=
 PIAI.W|Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PIAI.WS|N|100|N|PIAI+
-PIC|Pivotal Investment Corporation II Class A Common Stock|N|PIC|N|100|N|PIC
-PIC.U|Pivotal Investment Corporation II Units|N|PIC.U|N|100|N|PIC=
-PIC.W|Pivotal Investment Corporation II Redeemable Warrants|N|PIC.WS|N|100|N|PIC+
 PICB|Invesco International Corporate Bond ETF|P|PICB|Y|100|N|PICB
 PICK|iShares MSCI Global Select Metals & Mining Producers Fund|Z|PICK|Y|100|N|PICK
 PIFI|ClearShares Piton Intermediate Fixed income ETF|P|PIFI|Y|100|N|PIFI
@@ -4232,7 +4234,7 @@ RLY|SPDR SSgA Multi Asset Real Return ETF|P|RLY|Y|100|N|RLY
 RM|Regional Management Corp. Common Stock|N|RM|N|100|N|RM
 RMAX|RE/MAX Holdings, Inc. Class A Common Stock|N|RMAX|N|100|N|RMAX
 RMD|ResMed Inc. Common Stock|N|RMD|N|100|N|RMD
-RMED|Ra Medical Systems, Inc. Common Stock|N|RMED|N|100|N|RMED
+RMED|Ra Medical Systems, Inc. Common Stock|A|RMED|N|100|N|RMED
 RMG|RMG Acquisition Corp. Class A Common Stock|N|RMG|N|100|N|RMG
 RMG.U|RMG Acquisition Corp. Unit|N|RMG.U|N|100|N|RMG=
 RMG.W|RMG Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|RMG.WS|N|100|N|RMG+
@@ -5456,6 +5458,8 @@ XIN|Xinyuan Real Estate Co Ltd American Depositary Shares|N|XIN|N|100|N|XIN
 XITK|SPDR FactSet Innovative Technology ETF|P|XITK|Y|100|N|XITK
 XJH|iShares ESG Screened S&P Mid-Cap ETF|Z|XJH|Y|100|N|XJH
 XJR|iShares ESG Screened S&P Small-Cap ETF|Z|XJR|Y|100|N|XJR
+XL|XL Fleet Corp. Class A Common Stock|N|XL|N|100|N|XL
+XL.W|XL Fleet Corp. Redeemable Warrants|N|XL.WS|N|100|N|XL+
 XLB|Materials Select Sector SPDR|P|XLB|Y|100|N|XLB
 XLC|The Communication Services Select Sector SPDR Fund|P|XLC|Y|100|N|XLC
 XLE|SPDR Select Sector Fund - Energy Select Sector|P|XLE|Y|100|N|XLE
@@ -5557,4 +5561,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1221202015:43||||||
+File Creation Time: 1222202012:12||||||

@@ -2535,6 +2535,7 @@ ORC,ORC|Orchid Island Capital, Inc. Common Stock
 ORCC,ORCC|Owl Rock Capital Corporation Common Stock
 ORCL,ORCL|Oracle Corporation Common Stock
 ORI,ORI|Old Republic International Corporation Common Stock
+ORLA,ORLA|Orla Mining Ltd. Common Shares
 ORN,ORN|Orion Group Holdings, Inc. Common
 OSB,OSB|Norbord Inc. Common Stock
 OSG,OSG|Overseas Shipholding Group, Inc. Class A Common Stock
@@ -2650,9 +2651,6 @@ PHX,PHX|PHX Minerals Inc. Common Stock
 PIAI,PIAI|Prime Impact Acquisition I Class A Ordinary Shares
 PIAI.U,PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share
 PIAI.W,PIAI.W|Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
-PIC,PIC|Pivotal Investment Corporation II Class A Common Stock
-PIC.U,PIC.U|Pivotal Investment Corporation II Units
-PIC.W,PIC.W|Pivotal Investment Corporation II Redeemable Warrants
 PII,PII|Polaris Inc. Common Stock
 PIM,PIM|Putnam Master Intermediate Income Trust Common Stock
 PINE,PINE|Alpine Income Property Trust, Inc. Common Stock
@@ -3628,6 +3626,8 @@ XEC,XEC|Cimarex Energy Co Common Stock
 XFLT,XFLT|XAI Octagon Floating Rate & Alternative Income Term Trust Common Shares of Beneficial Interest
 XHR,XHR|Xenia Hotels & Resorts, Inc. Common Stock
 XIN,XIN|Xinyuan Real Estate Co Ltd American Depositary Shares
+XL,XL|XL Fleet Corp. Class A Common Stock
+XL.W,XL.W|XL Fleet Corp. Redeemable Warrants
 XOM,XOM|Exxon Mobil Corporation Common Stock
 XPEV,XPEV|XPeng Inc. American depositary shares, each representing two Class A ordinary shares
 XPL,XPL|Solitario Zinc Corp. Common Stock
@@ -4642,7 +4642,6 @@ DUOT,DUOT|Duos Technologies Group, Inc. - Common Stock
 DVAX,DVAX|Dynavax Technologies Corporation - Common Stock
 DWSN,DWSN|Dawson Geophysical Company - Common Stock
 DXCM,DXCM|DexCom, Inc. - Common Stock
-DXLG,DXLG|Destination XL Group, Inc. - Common Stock
 DXPE,DXPE|DXP Enterprises, Inc. - Common Stock
 DXYN,DXYN|The Dixie Group, Inc. - Common Stock
 DYAI,DYAI|Dyadic International, Inc. - Common Stock
@@ -5032,6 +5031,8 @@ GNTY,GNTY|Guaranty Bancshares, Inc. - Common Stock
 GNUS,GNUS|Genius Brands International, Inc. - Common Stock
 GO,GO|Grocery Outlet Holding Corp. - Common Stock
 GOCO,GOCO|GoHealth, Inc. - Class A Common Stock
+GOEV,GOEV|Canoo Inc.  - Class A Common Stock
+GOEVW,GOEVW|Canoo Inc.  - Warrant
 GOGL,GOGL|Golden Ocean Group Limited - Common Stock
 GOGO,GOGO|Gogo Inc. - Common Stock
 GOOD,GOOD|Gladstone Commercial Corporation - Real Estate Investment Trust
@@ -5115,9 +5116,6 @@ HBMD,HBMD|Howard Bancorp, Inc. - Common Stock
 HBNC,HBNC|Horizon Bancorp, Inc. - Common Stock
 HBP,HBP|Huttig Building Products, Inc. - Common Stock
 HBT,HBT|HBT Financial, Inc. - Common Stock
-HCAC,HCAC|Hennessy Capital Acquisition Corp. IV - Class A Common Stock
-HCACU,HCACU|Hennessy Capital Acquisition Corp. IV - Unit
-HCACW,HCACW|Hennessy Capital Acquisition Corp. IV - Warrant
 HCAP,HCAP|Harvest Capital Credit Corporation - Common Stock
 HCAPZ,HCAPZ|Harvest Capital Credit Corporation - 6.125% Notes due 2022
 HCAT,HCAT|Health Catalyst, Inc - Common stock
@@ -5455,7 +5453,6 @@ KSMTW,KSMTW|Kismet Acquisition One Corp - Warrant
 KSPN,KSPN|Kaspien Holdings Inc. - Common Stock
 KTCC,KTCC|Key Tronic Corporation - Common Stock
 KTOS,KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock
-KTOV,KTOV|Kitov Pharma Ltd. - American Depositary Shares
 KTRA,KTRA|Kintara Therapeutics, Inc. - Common Stock
 KURA,KURA|Kura Oncology, Inc. - Common Stock
 KVHI,KVHI|KVH Industries, Inc. - Common Stock
@@ -6208,6 +6205,7 @@ POWI,POWI|Power Integrations, Inc. - Common Stock
 POWL,POWL|Powell Industries, Inc. - Common Stock
 POWW,POWW|AMMO, Inc. - Common Stock
 PPBI,PPBI|Pacific Premier Bancorp Inc - Common Stock
+PPBT,PPBT|Purple Biotech Ltd. - American Depositary Shares
 PPC,PPC|Pilgrim's Pride Corporation - Common Stock
 PPD,PPD|PPD, Inc. - Common Stock
 PPIH,PPIH|Perma-Pipe International Holdings, Inc. - Common Stock
@@ -6215,7 +6213,6 @@ PPSI,PPSI|Pioneer Power Solutions, Inc. - Common Stock
 PRAA,PRAA|PRA Group, Inc. - Common Stock
 PRAH,PRAH|PRA Health Sciences, Inc. - Common Stock
 PRAX,PRAX|Praxis Precision Medicines, Inc. - Common Stock
-PRCP,PRCP|Perceptron, Inc. - Common Stock
 PRDO,PRDO|Perdoceo Education Corporation - Common Stock
 PRFT,PRFT|Perficient, Inc. - Common Stock
 PRFX,PRFX|PainReform Ltd. - Ordinary Shares
@@ -6355,7 +6352,6 @@ REGI,REGI|Renewable Energy Group, Inc. - Common Stock
 REGN,REGN|Regeneron Pharmaceuticals, Inc. - Common Stock
 REKR,REKR|Rekor Systems, Inc. - Common Stock
 RELL,RELL|Richardson Electronics, Ltd. - Common Stock
-RELV,RELV|Reliv' International, Inc. - Common Stock
 REPH,REPH|Recro Pharma, Inc. - Common Stock
 REPL,REPL|Replimune Group, Inc. - Common Stock
 RESN,RESN|Resonant Inc. - Common Stock

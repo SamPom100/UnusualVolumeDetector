@@ -1081,7 +1081,6 @@ DWUS|AdvisorShares Dorsey Wright FSM US Core ETF|G|N|N|100|Y|N
 DXCM|DexCom, Inc. - Common Stock|Q|N|N|100|N|N
 DXGE|WisdomTree Germany Hedged Equity Fund|G|N|N|100|Y|N
 DXJS|WisdomTree Japan Hedged SmallCap Equity Fund|G|N|N|100|Y|N
-DXLG|Destination XL Group, Inc. - Common Stock|S|N|D|100|N|N
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100|N|N
 DYAI|Dyadic International, Inc. - Common Stock|S|N|N|100|N|N
@@ -1555,6 +1554,8 @@ GNTY|Guaranty Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 GNUS|Genius Brands International, Inc. - Common Stock|S|N|N|100|N|N
 GO|Grocery Outlet Holding Corp. - Common Stock|Q|N|N|100|N|N
 GOCO|GoHealth, Inc. - Class A Common Stock|Q|N|N|100|N|N
+GOEV|Canoo Inc.  - Class A Common Stock|Q|N|N|100|N|N
+GOEVW|Canoo Inc.  - Warrant|Q|N|N|100|N|N
 GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100|N|N
 GOGO|Gogo Inc. - Common Stock|Q|N|N|100|N|N
 GOOD|Gladstone Commercial Corporation - Real Estate Investment Trust|Q|N|N|100|N|N
@@ -1640,9 +1641,6 @@ HBMD|Howard Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 HBNC|Horizon Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100|N|N
 HBT|HBT Financial, Inc. - Common Stock|Q|N|N|100|N|N
-HCAC|Hennessy Capital Acquisition Corp. IV - Class A Common Stock|S|N|N|100|N|N
-HCACU|Hennessy Capital Acquisition Corp. IV - Unit|S|N|N|100|N|N
-HCACW|Hennessy Capital Acquisition Corp. IV - Warrant|S|N|N|100|N|N
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100|N|N
 HCAPZ|Harvest Capital Credit Corporation - 6.125% Notes due 2022|G|N|N|100|N|N
 HCAT|Health Catalyst, Inc - Common stock|Q|N|N|100|N|N
@@ -2036,7 +2034,6 @@ KSMTW|Kismet Acquisition One Corp - Warrant|S|N|N|100|N|N
 KSPN|Kaspien Holdings Inc. - Common Stock|S|N|D|100|N|N
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100|N|N
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100|N|N
-KTOV|Kitov Pharma Ltd. - American Depositary Shares|S|N|N|100|N|N
 KTRA|Kintara Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2823,6 +2820,7 @@ POWI|Power Integrations, Inc. - Common Stock|Q|N|N|100|N|N
 POWL|Powell Industries, Inc. - Common Stock|Q|N|N|100|N|N
 POWW|AMMO, Inc. - Common Stock|S|N|N|100|N|N
 PPBI|Pacific Premier Bancorp Inc - Common Stock|Q|N|N|100|N|N
+PPBT|Purple Biotech Ltd. - American Depositary Shares|S|N|N|100|N|N
 PPC|Pilgrim's Pride Corporation - Common Stock|Q|N|N|100|N|N
 PPD|PPD, Inc. - Common Stock|Q|N|N|100|N|N
 PPH|VanEck Vectors Pharmaceutical ETF|G|N|N|100|Y|N
@@ -2831,7 +2829,6 @@ PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100|N|N
 PRAA|PRA Group, Inc. - Common Stock|Q|N|N|100|N|N
 PRAH|PRA Health Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 PRAX|Praxis Precision Medicines, Inc. - Common Stock|Q|N|N|100|N|N
-PRCP|Perceptron, Inc. - Common Stock|G|N|N|100|N|N
 PRDO|Perdoceo Education Corporation - Common Stock|Q|N|N|100|N|N
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100|N|N
 PRFX|PainReform Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -3006,7 +3003,6 @@ REGI|Renewable Energy Group, Inc. - Common Stock|Q|N|N|100|N|N
 REGN|Regeneron Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 REKR|Rekor Systems, Inc. - Common Stock|S|N|N|100|N|N
 RELL|Richardson Electronics, Ltd. - Common Stock|Q|N|N|100|N|N
-RELV|Reliv' International, Inc. - Common Stock|S|N|N|100|N|N
 REPH|Recro Pharma, Inc. - Common Stock|S|N|N|100|N|N
 REPL|Replimune Group, Inc. - Common Stock|Q|N|N|100|N|N
 RESN|Resonant Inc. - Common Stock|S|N|N|100|N|N
@@ -3935,4 +3931,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1221202015:43|||||||
+File Creation Time: 1222202012:12|||||||
