@@ -2319,6 +2319,7 @@ HE|Hawaiian Electric Industries, Inc. Common Stock|N|HE|N|100|N|HE
 HEDJ|WisdomTree Europe Hedged Equity Fund|P|HEDJ|Y|100|N|HEDJ
 HEEM|iShares Currency Hedged MSCI Emerging Markets ETF|Z|HEEM|Y|100|N|HEEM
 HEFA|iShares Currency Hedged MSCI EAFE ETF|Z|HEFA|Y|100|N|HEFA
+HEGD|Swan Hedged Equity US Large Cap ETF|Z|HEGD|Y|100|N|HEGD
 HEI|Heico Corporation Common Stock|N|HEI|N|100|N|HEI
 HEI.A|Heico Corporation Common Stock|N|HEI.A|N|100|N|HEI.A
 HELX|Franklin Genomic Advancements ETF|Z|HELX|Y|100|N|HELX
@@ -3500,7 +3501,6 @@ NLR|VanEck Vectors Uranium & Nuclear Energy ETF|P|NLR|Y|100|N|NLR
 NLS|Nautilus, Inc. Common Stock|N|NLS|N|100|N|NLS
 NLSN|Nielsen N.V. Ordinary Shares|N|NLSN|N|100|N|NLSN
 NLY|Annaly Capital Management Inc Common Stock|N|NLY|N|100|N|NLY
-NLY$D|Annaly Capital Management Inc Preferred Series D|N|NLYpD|N|100|N|NLY-D
 NLY$F|Annaly Capital Management Inc 6.95% Series F|N|NLYpF|N|100|N|NLY-F
 NLY$G|Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|NLYpG|N|100|N|NLY-G
 NLY$I|Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|NLYpI|N|100|N|NLY-I
@@ -4005,14 +4005,17 @@ PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Sh
 PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X|N|PSBpX|N|100|N|PSB-X
 PSB$Y|PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y|N|PSBpY|N|100|N|PSB-Y
 PSB$Z|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative Preferred Stock, Series Z , par value $0.01 per share|N|PSBpZ|N|100|N|PSB-Z
+PSCX|Pacer Swan SOS Conservative (December) ETF|Z|PSCX|Y|100|N|PSCX
 PSEP|Innovator ETFs Trust Innovator S&P 500 Power Buffer ETF - September|Z|PSEP|Y|100|N|PSEP
 PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock|N|PSF|N|100|N|PSF
+PSFD|Pacer Funds ETF|Z|PSFD|Y|100|N|PSFD
 PSI|Invesco Dynamic Semiconductors ETF|P|PSI|Y|100|N|PSI
 PSJ|Invesco Dynamic Software ETF|P|PSJ|Y|100|N|PSJ
 PSK|SPDR Wells Fargo Preferred Stock ETF|P|PSK|Y|100|N|PSK
 PSLV|Sprott Physical Silver Trust ETV|P|PSLV|Y|100|N|PSLV
 PSMB|Invesco Balanced Multi-Asset Allocation ETF|Z|PSMB|Y|100|N|PSMB
 PSMC|Invesco Conservative Multi-Asset Allocation ETF|Z|PSMC|Y|100|N|PSMC
+PSMD|Pacer Swan SOS Moderate (December) ETF|Z|PSMD|Y|100|N|PSMD
 PSMG|Invesco Growth Multi-Asset Allocation ETF|Z|PSMG|Y|100|N|PSMG
 PSMM|Invesco Moderately Conservative Multi-Asset Allocation ETF|Z|PSMM|Y|100|N|PSMM
 PSN|Parsons Corporation Common Stock|N|PSN|N|100|N|PSN
@@ -4773,7 +4776,7 @@ SZNE|Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF|P|SZNE|Y|100|N|SZNE
 T|AT&T Inc.|N|T|N|100|N|T
 T$A|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A|N|TpA|N|100|N|T-A
 T$C|AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C|N|TpC|N|100|N|T-C
-TAAG|Trend Aggregation Aggressive Growth ETF|P|TAAG|Y|100|N|TAAG
+TAAG|Trend Aggregation Growth ETF|P|TAAG|Y|100|N|TAAG
 TAC|TransAlta Corporation Ordinary Shares|N|TAC|N|100|N|TAC
 TACA.U|Trepont Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|TACA.U|N|100|N|TACA=
 TACE|Trend Aggregation Conservative ETF|P|TACE|Y|100|N|TACE
@@ -5217,6 +5220,7 @@ VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|
 VGR|Vector Group Ltd. Common Stock|N|VGR|N|100|N|VGR
 VGT|Vanguard Information Tech ETF|P|VGT|Y|100|N|VGT
 VGZ|Vista Gold Corp Common Stock|A|VGZ|N|100|N|VGZ
+VHAQ.U|Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock|A|VHAQ.U|N|100|N|VHAQ=
 VHC|VirnetX Holding Corp Common Stock|N|VHC|N|100|N|VHC
 VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF|P|VHT|Y|100|N|VHT
@@ -5561,4 +5565,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1222202015:42||||||
+File Creation Time: 1223202012:11||||||
