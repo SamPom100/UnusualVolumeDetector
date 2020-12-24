@@ -293,6 +293,7 @@ ATH,ATH|Athene Holding Ltd. Class A Common Shares
 ATH$A,ATH$A|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Share, Series A
 ATH$B,ATH$B|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non- Cumulative Preference Share, Series B, par value $1.00 per share
 ATH$C,ATH$C|Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed-Rate Reset Perpetual Non-Cumulative Preference Shares, Series C
+ATH$D,ATH$D|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D
 ATHM,ATHM|Autohome Inc. American Depositary Shares, each representing one class A ordinary share.
 ATI,ATI|Allegheny Technologies Incorporated Common Stock
 ATKR,ATKR|Atkore International Group Inc. Common Stock
@@ -1552,7 +1553,6 @@ GRP.U,GRP.U|Granite Real Estate Inc. Stapled Units, each consisting of one unit 
 GRU,GRU|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Grains Total Return
 GRUB,GRUB|GrubHub Inc. Common Stock
 GRX,GRX|The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest
-GRX$B,GRX$B|Gabelli Healthcare Preferred Series B
 GS,GS|Goldman Sachs Group, Inc. (The) Common Stock
 GS$A,GS$A|Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A
 GS$C,GS$C|Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C
@@ -2252,8 +2252,6 @@ MUR,MUR|Murphy Oil Corporation Common Stock
 MUS,MUS|Blackrock MuniHoldings Quality Fund, Inc Common Stock
 MUSA,MUSA|Murphy USA Inc. Common Stock
 MUX,MUX|McEwen Mining Inc. Common Stock
-MVC,MVC|MVC Capital, Inc. Common Stock
-MVCD,MVCD|MVC Capital, Inc. 6.25% Senior Notes due 2022
 MVF,MVF|Blackrock MuniVest Fund, Inc. Common Stock
 MVO,MVO|MV Oil Trust Units of Beneficial Interests
 MVT,MVT|Blackrock MuniVest Fund II, Inc.  Common Stock
@@ -5588,9 +5586,6 @@ LQDA,LQDA|Liquidia Corporation - Common Stock
 LQDT,LQDT|Liquidity Services, Inc. - Common Stock
 LRCX,LRCX|Lam Research Corporation - Common Stock
 LRMR,LRMR|Larimar Therapeutics, Inc. - Common Stock
-LSAC,LSAC|LifeSci Acquisition Corp. - Common Stock
-LSACU,LSACU|LifeSci Acquisition Corp. - Unit 1 COM & 1 WT
-LSACW,LSACW|LifeSci Acquisition Corp. - Warrant
 LSAQ,LSAQ|LifeSci Acquisition II Corp. - Common Stock
 LSBK,LSBK|Lake Shore Bancorp, Inc. - Common Stock
 LSCC,LSCC|Lattice Semiconductor Corporation - Common Stock
@@ -6218,6 +6213,8 @@ PPSI,PPSI|Pioneer Power Solutions, Inc. - Common Stock
 PRAA,PRAA|PRA Group, Inc. - Common Stock
 PRAH,PRAH|PRA Health Sciences, Inc. - Common Stock
 PRAX,PRAX|Praxis Precision Medicines, Inc. - Common Stock
+PRCH,PRCH|Porch Group, Inc. - Common Stock
+PRCHW,PRCHW|Porch Group, Inc. - Warrant
 PRDO,PRDO|Perdoceo Education Corporation - Common Stock
 PRFT,PRFT|Perficient, Inc. - Common Stock
 PRFX,PRFX|PainReform Ltd. - Ordinary Shares
@@ -6252,9 +6249,6 @@ PSTI,PSTI|Pluristem Therapeutics, Inc. - Common Stock
 PSTV,PSTV|PLUS THERAPEUTICS, Inc. - Common Stock
 PSTX,PSTX|Poseida Therapeutics, Inc. - Common Stock
 PT,PT|Pintec Technology Holdings Limited - American Depositary Shares
-PTAC,PTAC|PropTech Acquisition Corporation - Class A Common Stock
-PTACU,PTACU|PropTech Acquisition Corporation - Unit
-PTACW,PTACW|PropTech Acquisition Corporation - Warrant
 PTC,PTC|PTC Inc. - Common Stock
 PTCT,PTCT|PTC Therapeutics, Inc. - Common Stock
 PTE,PTE|PolarityTE, Inc. - Common Stock
@@ -6994,6 +6988,9 @@ VIH,VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares
 VIHAU,VIHAU|VPC Impact Acquisition Holdings - Unit
 VIHAW,VIHAW|VPC Impact Acquisition Holdings - Warrant
 VIIAU,VIIAU|7GC & Co. Holdings Inc. - Unit
+VINC,VINC|Vincera Pharma, Inc.  - Common Stock
+VINCU,VINCU|Vincera Pharma, Inc.  - Unit
+VINCW,VINCW|Vincera Pharma, Inc.  - Warrant
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock
@@ -7045,6 +7042,7 @@ VSPRU,VSPRU|Vesper Healthcare Acquisition Corp. - Unit
 VSPRW,VSPRW|Vesper Healthcare Acquisition Corp. - Warrant
 VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
+VTAQU,VTAQU|Ventoux CCM Acquisition Corp. - Unit
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
 VTRS,VTRS|Viatris Inc. - Common Stock

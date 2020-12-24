@@ -80,7 +80,7 @@ ADV|Advantage Solutions Inc.  - Class A Common Stock|Q|N|N|100|N|N
 ADVM|Adverum Biotechnologies, Inc. - Common Stock|G|N|N|100|N|N
 ADVWW|Advantage Solutions Inc.  - Warrant|Q|N|N|100|N|N
 ADXN|Addex Therapeutics Ltd - American Depositary Shares|S|N|N|100|N|N
-ADXS|Advaxis, Inc. - Common Stock|Q|N|D|100|N|N
+ADXS|Advaxis, Inc. - Common Stock|S|N|D|100|N|N
 AEGN|Aegion Corp - Class A Common Stock|Q|N|N|100|N|N
 AEHL|Antelope Enterprise Holdings Limited - Common Stock|S|N|N|100|N|N
 AEHR|Aehr Test Systems - Common Stock|S|N|N|100|N|N
@@ -317,7 +317,7 @@ ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
 ATHA|Athira Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
-ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|D|100|N|N
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100|N|N
 ATLO|Ames National Corporation - Common Stock|S|N|N|100|N|N
 ATNF|180 Life Sciences Corp. - Common Stock|S|N|N|100|N|N
@@ -1245,7 +1245,7 @@ EYEG|Eyegate Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 EYEN|Eyenovia, Inc. - Common Stock|S|N|N|100|N|N
 EYES|Second Sight Medical Products, Inc. - Common Stock|S|N|D|100|N|N
 EYESW|Second Sight Medical Products, Inc. - Warrants expiring 3/14/2024|S|N|D|100|N|N
-EYPT|EyePoint Pharmaceuticals, Inc. - Common Stock|G|N|D|100|N|N
+EYPT|EyePoint Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EZPW|EZCORP, Inc. - Class A Non-Voting Common Stock|Q|N|N|100|N|N
 FAAR|First Trust Alternative Absolute Return Strategy ETF|G|N|N|100|Y|N
 FAB|First Trust Multi Cap Value AlphaDEX Fund|G|N|N|100|Y|N
@@ -2175,9 +2175,6 @@ LQDT|Liquidity Services, Inc. - Common Stock|Q|N|N|100|N|N
 LRCX|Lam Research Corporation - Common Stock|Q|N|N|100|N|N
 LRGE|ClearBridge Large Cap Growth ESG ETF|G|N|N|100|Y|N
 LRMR|Larimar Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
-LSAC|LifeSci Acquisition Corp. - Common Stock|S|N|N|100|N|N
-LSACU|LifeSci Acquisition Corp. - Unit 1 COM & 1 WT|S|N|N|100|N|N
-LSACW|LifeSci Acquisition Corp. - Warrant|S|N|N|100|N|N
 LSAQ|LifeSci Acquisition II Corp. - Common Stock|S|N|N|100|N|N
 LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100|N|N
@@ -2424,7 +2421,7 @@ NCBS|Nicolet Bankshares Inc. - Common Stock|S|N|N|100|N|N
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|N|100|N|N
 NCNA|NuCana plc - American Depositary Shares|Q|N|N|100|N|N
 NCNO|nCino, Inc. - Common Stock|Q|N|N|100|N|N
-NCSM|NCS Multistage Holdings, Inc. - Common Stock|Q|N|N|100|N|N
+NCSM|NCS Multistage Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NCTY|The9 Limited - American Depository Shares|S|N|D|100|N|N
 NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100|N|N
 NDLS|Noodles & Company - Common Stock|Q|N|N|100|N|N
@@ -2834,6 +2831,8 @@ PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100|N|N
 PRAA|PRA Group, Inc. - Common Stock|Q|N|N|100|N|N
 PRAH|PRA Health Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 PRAX|Praxis Precision Medicines, Inc. - Common Stock|Q|N|N|100|N|N
+PRCH|Porch Group, Inc. - Common Stock|S|N|N|100|N|N
+PRCHW|Porch Group, Inc. - Warrant|S|N|N|100|N|N
 PRDO|Perdoceo Education Corporation - Common Stock|Q|N|N|100|N|N
 PRFT|Perficient, Inc. - Common Stock|Q|N|N|100|N|N
 PRFX|PainReform Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -2882,9 +2881,6 @@ PSTI|Pluristem Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 PSTV|PLUS THERAPEUTICS, Inc. - Common Stock|S|N|N|100|N|N
 PSTX|Poseida Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 PT|Pintec Technology Holdings Limited - American Depositary Shares|G|N|N|100|N|N
-PTAC|PropTech Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
-PTACU|PropTech Acquisition Corporation - Unit|S|N|N|100|N|N
-PTACW|PropTech Acquisition Corporation - Warrant|S|N|N|100|N|N
 PTC|PTC Inc. - Common Stock|Q|N|N|100|N|N
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 PTE|PolarityTE, Inc. - Common Stock|S|N|D|100|N|N
@@ -3700,6 +3696,9 @@ VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares|S|N|N|100|N|N
 VIHAU|VPC Impact Acquisition Holdings - Unit|S|N|N|100|N|N
 VIHAW|VPC Impact Acquisition Holdings - Warrant|S|N|N|100|N|N
 VIIAU|7GC & Co. Holdings Inc. - Unit|S|N|N|100|N|N
+VINC|Vincera Pharma, Inc.  - Common Stock|S|N|N|100|N|N
+VINCU|Vincera Pharma, Inc.  - Unit|S|N|N|100|N|N
+VINCW|Vincera Pharma, Inc.  - Warrant|S|N|N|100|N|N
 VIOT|Viomi Technology Co., Ltd - American Depositary Shares|Q|N|N|100|N|N
 VIR|Vir Biotechnology, Inc. - Common Stock|Q|N|N|100|N|N
 VIRC|Virco Manufacturing Corporation - Common Stock|G|N|N|100|N|N
@@ -3760,6 +3759,7 @@ VSPRU|Vesper Healthcare Acquisition Corp. - Unit|S|N|N|100|N|N
 VSPRW|Vesper Healthcare Acquisition Corp. - Warrant|S|N|N|100|N|N
 VSTA|Vasta Platform Limited - Class A Ordinary Shares|Q|N|N|100|N|N
 VSTM|Verastem, Inc. - Common Stock|G|N|N|100|N|N
+VTAQU|Ventoux CCM Acquisition Corp. - Unit|S|N|N|100|N|N
 VTC|Vanguard Total Corporate Bond ETF|G|N|N|100|Y|N
 VTGN|VistaGen Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 VTHR|Vanguard Russell 3000 ETF|G|N|N|100|Y|N
@@ -3937,4 +3937,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1223202015:43|||||||
+File Creation Time: 1224202012:12|||||||
