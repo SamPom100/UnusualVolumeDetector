@@ -1598,7 +1598,6 @@ HBI,HBI|Hanesbrands Inc. Common Stock
 HBM,HBM|Hudbay Minerals Inc. Ordinary Shares (Canada)
 HCA,HCA|HCA Healthcare, Inc. Common Stock
 HCC,HCC|Warrior Met Coal, Inc. Common Stock
-HCFT,HCFT|Hunt Companies Finance Trust, Inc. Common Stock
 HCHC,HCHC|HC2 Holdings, Inc. Common Stock
 HCI,HCI|HCI Group, Inc. Common Stock
 HCXY,HCXY|Hercules Capital, Inc. 6.25% Notes due 2033
@@ -1716,7 +1715,7 @@ HZON.U,HZON.U|Horizon Acquisition Corporation II Units, each consisting of one C
 HZON.W,HZON.W|Horizon Acquisition Corporation II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 IAA,IAA|IAA, Inc. Common Stock 
 IACA,IACA|ION Acquisition Corp 1 Ltd. Class A Ordinary Shares
-IACA.U,IACA.U|ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+IACA.U,IACA.U|ION Acquisition Corp 1 Ltd. Units
 IACA.W,IACA.W|ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 IAE,IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF,IAF|Aberdeen Australia Equity Fund Inc Common Stock
@@ -2001,6 +2000,7 @@ LEO,LEO|BNY Mellon Strategic Municipals, Inc. Common Stock
 LEU,LEU|Centrus Energy Corp. Class A Common Stock
 LEVI,LEVI|Levi Strauss & Co Class A Common Stock
 LFC,LFC|China Life Insurance Company Limited American Depositary Shares
+LFT,LFT|Lument Finance Trust, Inc. Common Stock
 LGF.A,LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares
 LGF.B,LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares
 LGI,LGI|Lazard Global Total Return and Income Fund Common Stock
@@ -2019,7 +2019,6 @@ LL,LL|Lumber Liquidators Holdings, Inc Common Stock
 LLY,LLY|Eli Lilly and Company Common Stock
 LMND,LMND|Lemonade, Inc. Common Stock
 LMT,LMT|Lockheed Martin Corporation Common Stock
-LN,LN|LINE Corporation American Depositary Shares (each representing one share of Common Stock)
 LNC,LNC|Lincoln National Corporation Common Stock
 LND,LND|Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
 LNFA.U,LNFA.U|L&amp;F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
@@ -4202,7 +4201,9 @@ BTWNU,BTWNU|Bridgetown Holdings Limited - Units
 BTWNW,BTWNW|Bridgetown Holdings Limited - Warrants
 BUSE,BUSE|First Busey Corporation - Common Stock
 BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
-BWACU,BWACU|BETTER WORLD ACQUISITION CORP. - Unit
+BWAC,BWAC|Better World Acquisition Corp. - Common Stock
+BWACU,BWACU|Better World Acquisition Corp. - Unit
+BWACW,BWACW|Better World Acquisition Corp. - Warrants
 BWAY,BWAY|Brainsway Ltd. - American Depositary Shares
 BWB,BWB|Bridgewater Bancshares, Inc. - Common Stock
 BWEN,BWEN|Broadwind, Inc. - Common Stock
@@ -4608,7 +4609,6 @@ DJCO,DJCO|Daily Journal Corp. (S.C.) - Common Stock
 DKNG,DKNG|DraftKings Inc. - Class A Common Stock
 DLHC,DLHC|DLH Holdings Corp. - Common Stock
 DLPN,DLPN|Dolphin Entertainment, Inc. - Common Stock
-DLPNW,DLPNW|Dolphin Entertainment, Inc. - Warrant
 DLTH,DLTH|Duluth Holdings Inc. - Class B Common Stock
 DLTR,DLTR|Dollar Tree, Inc. - Common Stock
 DMAC,DMAC|DiaMedica Therapeutics Inc. - Common Stock
@@ -4750,7 +4750,9 @@ ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
 ETSY,ETSY|Etsy, Inc. - Common Stock
 ETTX,ETTX|Entasis Therapeutics Holdings Inc. - Common Stock
+EUCR,EUCR|Eucrates Biomedical Acquisition Corp. - Ordinary Shares
 EUCRU,EUCRU|Eucrates Biomedical Acquisition Corp. - Unit
+EUCRW,EUCRW|Eucrates Biomedical Acquisition Corp. - Warrant
 EVBG,EVBG|Everbridge, Inc. - Common Stock
 EVER,EVER|EverQuote, Inc. - Class A Common Stock
 EVFM,EVFM|Evofem Biosciences, Inc. - Common Stock
@@ -5131,7 +5133,6 @@ HCDI,HCDI|Harbor Custom Development, Inc. - Common Stock
 HCKT,HCKT|The Hackett Group, Inc. - Common Stock
 HCM,HCM|Hutchison China MediTech Limited - American Depositary Shares
 HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
-HDS,HDS|HD Supply Holdings, Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
 HEC,HEC|Hudson Executive Investment Corp. - Class A Common Stock
