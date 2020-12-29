@@ -2248,6 +2248,7 @@ GSL$B|Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual P
 GSLC|Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF|P|GSLC|Y|100|N|GSLC
 GSLD|Global Ship Lease, Inc. 8.00% Senior Notes due 2024|N|GSLD|N|100|N|GSLD
 GSP|Barclays Bank PLC iPath Exchange Traded Notes due June 12, 2036 Linked to GSCI Total Return Index|P|GSP|N|100|N|GSP
+GSPY|Gotham Enhanced 500 ETF|P|GSPY|Y|100|N|GSPY
 GSS|Golden Star Resources, Ltd Common Stock|A|GSS|N|100|N|GSS
 GSSC|GS ActiveBeta U.S. Small Cap Equity ETF|P|GSSC|Y|100|N|GSSC
 GSST|Goldman Sachs Access Ultra Short Bond ETF|Z|GSST|Y|100|N|GSST
@@ -2264,7 +2265,6 @@ GTO|Invesco Total Return Bond ETF|P|GTO|Y|100|N|GTO
 GTS|Triple-S Management Corporation Class B Common Stock|N|GTS|N|100|N|GTS
 GTT|GTT Communications, Inc. Common Stock|N|GTT|N|100|N|GTT
 GTY|Getty Realty Corporation Common Stock|N|GTY|N|100|N|GTY
-GUDB|Sage ESG Intermediate Credit ETF|P|GUDB|Y|100|N|GUDB
 GUNR|FlexShares Global Upstream Natural Resources Index Fund ETF|P|GUNR|Y|100|N|GUNR
 GURU|Global X Guru Index ETF|P|GURU|Y|100|N|GURU
 GUSH|Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares|P|GUSH|Y|100|N|GUSH
@@ -4100,6 +4100,8 @@ QLVE|FlexShares Emerging Markets  Quality Low Volatility Index Fund|P|QLVE|Y|100
 QMJ|Direxion S&P 500 High minus Low Quality ETF|P|QMJ|Y|100|N|QMJ
 QMN|IQ Hedge Market Neutral Tracker ETF|P|QMN|Y|100|N|QMN
 QMOM|Alpha Architect U.S. Quantitative Momentum ETF|Z|QMOM|Y|100|N|QMOM
+QPT|AdvisorShares Q Portfolio Blended Allocation ETF|P|QPT|Y|100|N|QPT
+QPX|AdvisorShares Q Dynamic Growth ETF|P|QPX|Y|100|N|QPX
 QQH|HCM Defender 100 Index ETF|P|QQH|Y|100|N|QQH
 QQQE|Direxion NASDAQ-100 Equal Weighted Index Shares|P|QQQE|Y|100|N|QQQE
 QRFT|QRAFT AI-Enhanced U.S. Large Cap ETF|P|QRFT|Y|100|N|QRFT
@@ -4799,9 +4801,6 @@ TBT|ProShares UltraShort Lehman 20  Year Treasury|P|TBT|Y|100|N|TBT
 TBX|ProShares Short 7 10 Year Treasury|P|TBX|Y|100|N|TBX
 TCHP|T. Rowe Price Blue Chip Growth ETF|P|TCHP|Y|100|N|TCHP
 TCI|Transcontinental Realty Investors, Inc. Common Stock|N|TCI|N|100|N|TCI
-TCO|Taubman Centers, Inc. Common Stock|N|TCO|N|100|N|TCO
-TCO$J|Taubman Centers, Inc. Preferred Shares Series J|N|TCOpJ|N|100|N|TCO-J
-TCO$K|Taubman Centers, Inc. Preferred Series K|N|TCOpK|N|100|N|TCO-K
 TCP|TC PipeLines, LP Common Units representing Limited Partner Interests|N|TCP|N|100|N|TCP
 TCS|Container Store (The) Common Stock|N|TCS|N|100|N|TCS
 TCTL|Premise Capital Diversified Tactical ETF|Z|TCTL|Y|100|N|TCTL
@@ -5178,9 +5177,11 @@ VBF|Invesco Bond Fund Common Stock|N|VBF|N|100|N|VBF
 VBK|Vanguard Small-Cap Growth ETF|P|VBK|Y|100|N|VBK
 VBND|ETF Series Solutions Trust Vident Core U.S. Bond Strategy Fund|P|VBND|Y|100|N|VBND
 VBR|Vanguard Small-Cap Value ETF|P|VBR|Y|100|N|VBR
+VCAR|Simplify Volt RoboCar Disruption and Tech ETF|P|VCAR|Y|100|N|VCAR
 VCEB|Vanguard World Funds ETF|Z|VCEB|Y|100|N|VCEB
 VCF|Delaware Investments Colorado Municipal Income Fund, Inc  Common Stock|A|VCF|N|100|N|VCF
 VCIF|Vertical Capital Income Fund Common Shares of Beneficial Interest|N|VCIF|N|100|N|VCIF
+VCLO|Simplify Volt Cloud and Cybersecurity Disruption ETF|P|VCLO|Y|100|N|VCLO
 VCR|Vanguard Consumer Discretion ETF|P|VCR|Y|100|N|VCR
 VCRA|Vocera Communications, Inc. Common Stock|N|VCRA|N|100|N|VCRA
 VCV|Invesco California Value Municipal Income Trust Common Stock|N|VCV|N|100|N|VCV
@@ -5201,6 +5202,7 @@ VET|Vermilion Energy Inc. Common (Canada)|N|VET|N|100|N|VET
 VEU|Vanguard FTSE All World Ex US ETF|P|VEU|Y|100|N|VEU
 VFC|V.F. Corporation Common Stock|N|VFC|N|100|N|VFC
 VFH|Vanguard Financials ETF|P|VFH|Y|100|N|VFH
+VFIN|Simplify Volt Fintech Disruption ETF|P|VFIN|Y|100|N|VFIN
 VFL|Delaware Investments National Municipal Income Fund Common Stock|A|VFL|N|100|N|VFL
 VFLQ|Vanguard U.S. Liquidity Factor ETF|Z|VFLQ|Y|100|N|VFLQ
 VFMF|Vanguard U.S. Multifactor ETF|Z|VFMF|Y|100|N|VFMF
@@ -5278,6 +5280,7 @@ VOYA$B|Voya Financial, Inc. Depositary Shares, each representing a 1/40th intere
 VPC|Virtus Private Credit Strategy ETF|P|VPC|Y|100|N|VPC
 VPG|Vishay Precision Group, Inc. Common Stock|N|VPG|N|100|N|VPG
 VPL|Vanguard FTSE Pacific ETF|P|VPL|Y|100|N|VPL
+VPOP|Simplify Volt Pop Culture Disruption ETF|P|VPOP|Y|100|N|VPOP
 VPU|Vanguard Utilities ETF|P|VPU|Y|100|N|VPU
 VPV|Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)|N|VPV|N|100|N|VPV
 VRAI|Virtus Real Asset Income ETF|P|VRAI|Y|100|N|VRAI
@@ -5562,4 +5565,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1228202015:43||||||
+File Creation Time: 1229202015:42||||||
