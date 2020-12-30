@@ -635,7 +635,6 @@ CCK,CCK|Crown Holdings, Inc.
 CCL,CCL|Carnival Corporation Common Stock
 CCM,CCM|Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares)
 CCO,CCO|Clear Channel Outdoor Holdings, Inc. Common Stock
-CCR,CCR|CONSOL Coal Resources LP Common Units representing limited partner interests
 CCS,CCS|Century Communities, Inc. Common Stock
 CCU,CCU|Compania Cervecerias Unidas, S.A. Common Stock
 CCV.U,CCV.U|Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant
@@ -1005,11 +1004,10 @@ DMYD,DMYD|dMY Technology Group, Inc. II Class A Common Stock
 DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants
 DMYI.U,DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
-DMYT,DMYT|dMY Technology Group, Inc. Class A Common Stock
-DMYT.U,DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
-DMYT.W,DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
 DNB,DNB|Dun & Bradstreet Holdings, Inc. Common Stock
 DNK,DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares
+DNMR,DNMR|Danimer Scientific, Inc. Common Stock
+DNMR.W,DNMR.W|Danimer Scientific, Inc. Redeemable Warrants
 DNN,DNN|Denison Mines Corp Ordinary Shares (Canada)
 DNOW,DNOW|NOW Inc. Common Stock
 DNP,DNP|DNP Select Income Fund, Inc. Common Stock
@@ -1703,7 +1701,6 @@ HY,HY|Hyster-Yale Materials Handling, Inc. Class A Common Stock
 HYB,HYB|New America High Income Fund, Inc. (The) Common Stock
 HYI,HYI|Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
 HYLN,HYLN|Hyliion Holdings Corp. Class A Common Stock
-HYLN.W,HYLN.W|Hyliion Holdings Corp. Warrants
 HYT,HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock
 HZAC,HZAC|Horizon Acquisition Corporation Class A Ordinary Shares
 HZAC.U,HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Class A Ordinary Shares and one-third of one Redeemable warrant
@@ -2024,9 +2021,6 @@ LND,LND|Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
 LNFA.U,LNFA.U|L&amp;F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
 LNG,LNG|Cheniere Energy, Inc. Common Stock
 LNN,LNN|Lindsay Corporation Common Stock
-LOAK,LOAK|Live Oak Acquisition Corp. Common Stock
-LOAK.U,LOAK.U|Live Oak Acquisition Corp. Units, each consisting of one share of Common Stock and three-fourths of one Redeemable Warrant to purchase one share of Common Stock
-LOAK.W,LOAK.W|Live Oak Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 LODE,LODE|Comstock Mining, Inc. Common Stock
 LOKB.U,LOKB.U|Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 LOMA,LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
@@ -2872,11 +2866,10 @@ RM,RM|Regional Management Corp. Common Stock
 RMAX,RMAX|RE/MAX Holdings, Inc. Class A Common Stock
 RMD,RMD|ResMed Inc. Common Stock
 RMED,RMED|Ra Medical Systems, Inc. Common Stock
-RMG,RMG|RMG Acquisition Corp. Class A Common Stock
-RMG.U,RMG.U|RMG Acquisition Corp. Unit
-RMG.W,RMG.W|RMG Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 RMI,RMI|RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock
 RMM,RMM|RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock
+RMO,RMO|Romeo Power, Inc. Class A Common Stock
+RMO.W,RMO.W|Romeo Power, Inc. Warrants, 
 RMPL$,RMPL$|RiverNorth Specialty Finance Corporation 5.875% 
 RMT,RMT|Royce Micro-Cap Trust, Inc. Common Stock
 RNG,RNG|RingCentral, Inc. Class A Common Stock
@@ -2903,6 +2896,8 @@ RRD,RRD|R.R. Donnelley & Sons Company Common Stock
 RS,RS|Reliance Steel & Aluminum Co. Common Stock (DE)
 RSF,RSF|RiverNorth Specialty Finance Corporation
 RSG,RSG|Republic Services, Inc. Common Stock
+RSI,RSI|Rush Street Interactive, Inc. Class A Common Stock
+RSI.W,RSI.W|Rush Street Interactive, Inc. Warrants
 RTP,RTP|Reinvent Technology Partners Class A Ordinary Shares
 RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 RTP.W,RTP.W|Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -5026,6 +5021,8 @@ GNCA,GNCA|Genocea Biosciences, Inc. - Common Stock
 GNFT,GNFT|GENFIT S.A. - American Depositary Shares
 GNLN,GNLN|Greenlane Holdings, Inc. - Class A Common Stock
 GNMK,GNMK|GenMark Diagnostics, Inc. - Common Stock
+GNOG,GNOG|Golden Nugget Online Gaming, Inc. - Class A Common Stock
+GNOGW,GNOGW|Golden Nugget Online Gaming, Inc. - Warrant
 GNPX,GNPX|Genprex, Inc. - Common Stock
 GNRS,GNRS|Greenrose Acquisition Corp. - Common Stock
 GNRSU,GNRSU|Greenrose Acquisition Corp. - Unit
@@ -5331,6 +5328,7 @@ INZY,INZY|Inozyme Pharma, Inc. - Common Stock
 IONS,IONS|Ionis Pharmaceuticals, Inc. - Common Stock
 IOSP,IOSP|Innospec Inc. - Common Stock
 IOVA,IOVA|Iovance Biotherapeutics, Inc. - Common Stock
+IPA,IPA|ImmunoPrecise Antibodies Ltd. - Common Stock
 IPAR,IPAR|Inter Parfums, Inc. - Common Stock
 IPDN,IPDN|Professional Diversity Network, Inc. - Common Stock
 IPGP,IPGP|IPG Photonics Corporation - Common Stock
@@ -5490,9 +5488,6 @@ LBRDP,LBRDP|Liberty Broadband Corporation - Series A Cumulative Redeemable Prefe
 LBTYA,LBTYA|Liberty Global plc - Class A Ordinary Shares
 LBTYB,LBTYB|Liberty Global plc - Class B Ordinary Shares
 LBTYK,LBTYK|Liberty Global plc - Class C Ordinary Shares
-LCA,LCA|Landcadia Holdings II, Inc. - Class A Common Stock
-LCAHU,LCAHU|Landcadia Holdings II, Inc. - Unit
-LCAHW,LCAHW|Landcadia Holdings II, Inc. - Warrant
 LCAP,LCAP|Lionheart Acquisition Corp. II - Class A Common Stock
 LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCAPW,LCAPW|Lionheart Acquisition Corp. II - Warrant
