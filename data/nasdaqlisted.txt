@@ -202,8 +202,6 @@ AMNB|American National Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 AMOT|Allied Motion Technologies, Inc. - Common Stock|G|N|N|100|N|N
 AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AMRB|American River Bankshares - Common Stock|Q|N|N|100|N|N
-AMRH|Ameri Holdings, Inc. - Common Stock|S|N|N|100|N|N
-AMRHW|Ameri Holdings, Inc. - Warrant|S|N|N|100|N|N
 AMRK|A-Mark Precious Metals, Inc. - Common Stock|Q|N|N|100|N|N
 AMRN|Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share|G|N|N|100|N|N
 AMRS|Amyris, Inc. - Common Stock|Q|N|N|100|N|N
@@ -780,6 +778,8 @@ CLIR|ClearSign Technologies Corporation - Common Stock|S|N|D|100|N|N
 CLLS|Cellectis S.A. - American Depositary Shares|G|N|N|100|N|N
 CLMT|Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests|Q|N|N|100|N|N
 CLNE|Clean Energy Fuels Corp. - Common Stock|Q|N|N|100|N|N
+CLNN|Clene Inc. - Common Stock|S|N|N|100|N|N
+CLNNW|Clene Inc. - Warrant|S|N|N|100|N|N
 CLOU|Global X Cloud Computing ETF|G|N|N|100|Y|N
 CLPS|CLPS Incorporation - Common Stock|G|N|N|100|N|N
 CLPT|ClearPoint Neuro Inc. - Common Stock|S|N|N|100|N|N
@@ -962,7 +962,7 @@ CWST|Casella Waste Systems, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CXDC|China XD Plastics Company Limited - Common Stock|G|N|N|100|N|N
 CXDO|Crexendo, Inc. - Common Stock|S|N|N|100|N|N
 CXSE|WisdomTree China ex-State-Owned Enterprises Fund|G|N|N|100|Y|N
-CYAD|Celyad SA - American Depositary Shares|G|N|N|100|N|N
+CYAD|Celyad Oncology SA - American Depositary Shares|G|N|N|100|N|N
 CYAN|Cyanotech Corporation - Common Stock|S|N|N|100|N|N
 CYBE|CyberOptics Corporation - Common Stock|G|N|N|100|N|N
 CYBR|CyberArk Software Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -1161,6 +1161,7 @@ ENTA|Enanta Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ENTG|Entegris, Inc. - Common Stock|Q|N|N|100|N|N
 ENTX|Entera Bio Ltd. - Ordinary Shares|S|N|N|100|N|N
 ENTXW|Entera Bio Ltd. - Warrant|S|N|N|100|N|N
+ENVB|Enveric Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
 ENZL|iShares MSCI New Zealand ETF|G|N|N|100|Y|N
 EOLS|Evolus, Inc. - Common Stock|G|N|N|100|N|N
 EOSE|Eos Energy Enterprises, Inc. - Common Stock|S|N|N|100|N|N
@@ -1758,7 +1759,7 @@ HWCC|Houston Wire & Cable Company - Common Stock|Q|N|N|100|N|N
 HWCPL|Hancock Whitney Corporation - 5.95% Subordinated Notes due 2045|Q|N|N|100|N|N
 HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060|Q|N|N|100|N|N
 HWKN|Hawkins, Inc. - Common Stock|Q|N|N|100|N|N
-HX|Hexindai Inc. - American Depositary Shares|G|N|N|100|N|N
+HX|Xiaobai Maimai Inc. - American Depositary Shares|G|N|N|100|N|N
 HYFM|Hydrofarm Holdings Group, Inc. - Common Stock|Q|N|N|100|N|N
 HYLS|First Trust High Yield Long/Short ETF|G|N|N|100|Y|N
 HYMC|Hycroft Mining Holding Corporation - Class A Common Stock|S|N|N|100|N|N
@@ -2730,7 +2731,6 @@ PDEV|Principal International Multi-Factor ETF|G|N|N|100|Y|N
 PDEX|Pro-Dex, Inc. - Common Stock|S|N|N|100|N|N
 PDFS|PDF Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 PDLB|PDL Community Bancorp - Common Stock|G|N|N|100|N|N
-PDLI|PDL BioPharma, Inc. - Common Stock|Q|N|N|100|N|N
 PDP|Invesco DWA Momentum ETF|G|N|N|100|Y|N
 PDSB|PDS Biotechnology Corporation - Common Stock|S|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
@@ -3476,7 +3476,7 @@ TER|Teradyne, Inc. - Common Stock|Q|N|N|100|N|N
 TESS|TESSCO Technologies Incorporated - Common Stock|Q|N|N|100|N|N
 TFFP|TFF Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 TFSL|TFS Financial Corporation - Common Stock|Q|N|N|100|N|N
-TGA|TransGlobe Energy Corporation - Common Shares|Q|N|D|100|N|N
+TGA|TransGlobe Energy Corporation - Common Shares|S|N|D|100|N|N
 TGLS|Tecnoglass Inc. - Ordinary Shares|S|N|N|100|N|N
 TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TH|Target Hospitality Corp. - Common Stock|S|N|N|100|N|N
@@ -3524,10 +3524,6 @@ TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|D|100|N|N
 TOMZ|TOMI Environmental Solutions, Inc. - Common Stock|S|N|N|100|N|N
 TOPS|TOP Ships Inc. - Common Stock|S|N|N|100|N|N
-TOTA|Tottenham Acquisition I Limited - Ordinary Shares|S|N|D|100|N|N
-TOTAR|Tottenham Acquisition I Limited - Right|S|N|N|100|N|N
-TOTAU|Tottenham Acquisition I Limited - Unit|S|N|N|100|N|N
-TOTAW|Tottenham Acquisition I Limited - Warrant|S|N|N|100|N|N
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100|N|N
 TOWN|Towne Bank - Common Stock|Q|N|N|100|N|N
 TPCO|Tribune Publishing Company - Common Stock|G|N|N|100|N|N
@@ -3562,7 +3558,9 @@ TSCBP|TriState Capital Holdings, Inc. - Depositary Share, representing a 1/40th 
 TSCO|Tractor Supply Company - Common Stock|Q|N|N|100|N|N
 TSEM|Tower Semiconductor Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TSHA|Taysha Gene Therapies, Inc. - Common Stock|Q|N|N|100|N|N
+TSIA|TS Innovation Acquisitions Corp. - Class A Common Stock|S|N|N|100|N|N
 TSIAU|TS Innovation Acquisitions Corp. - Unit|S|N|N|100|N|N
+TSIAW|TS Innovation Acquisitions Corp. - Warrant|S|N|N|100|N|N
 TSLA|Tesla, Inc.  - Common Stock|Q|N|N|100|N|N
 TSRI|TSR, Inc. - Common Stock|S|N|N|100|N|N
 TTCF|Tattooed Chef, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -3861,7 +3859,7 @@ XBIT|XBiotech Inc. - Common Stock|Q|N|N|100|N|N
 XCUR|Exicure, Inc. - Common Stock|S|N|N|100|N|N
 XEL|Xcel Energy Inc. - Common Stock|Q|N|N|100|N|N
 XELA|Exela Technologies, Inc. - Common Stock|S|N|D|100|N|N
-XELB|Xcel Brands, Inc - Common Stock|G|N|D|100|N|N
+XELB|Xcel Brands, Inc - Common Stock|G|N|N|100|N|N
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100|N|N
 XENT|Intersect ENT, Inc. - Common Stock|G|N|N|100|N|N
 XERS|Xeris Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3940,4 +3938,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1230202015:43|||||||
+File Creation Time: 1231202012:13|||||||

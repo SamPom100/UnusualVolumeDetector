@@ -1581,7 +1581,6 @@ GTY,GTY|Getty Realty Corporation Common Stock
 GUT,GUT|Gabelli Utility Trust (The) Common Stock
 GUT$A,GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares
 GUT$C,GUT$C|Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares
-GV,GV|Goldfield Corporation (The) Common Stock
 GVA,GVA|Granite Construction Incorporated Common Stock
 GWB,GWB|Great Western Bancorp, Inc. Common Stock
 GWRE,GWRE|Guidewire Software, Inc. Common Stock
@@ -3854,8 +3853,6 @@ AMNB,AMNB|American National Bankshares, Inc. - Common Stock
 AMOT,AMOT|Allied Motion Technologies, Inc. - Common Stock
 AMPH,AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock
 AMRB,AMRB|American River Bankshares - Common Stock
-AMRH,AMRH|Ameri Holdings, Inc. - Common Stock
-AMRHW,AMRHW|Ameri Holdings, Inc. - Warrant
 AMRK,AMRK|A-Mark Precious Metals, Inc. - Common Stock
 AMRN,AMRN|Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share
 AMRS,AMRS|Amyris, Inc. - Common Stock
@@ -4368,6 +4365,8 @@ CLIR,CLIR|ClearSign Technologies Corporation - Common Stock
 CLLS,CLLS|Cellectis S.A. - American Depositary Shares
 CLMT,CLMT|Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests
 CLNE,CLNE|Clean Energy Fuels Corp. - Common Stock
+CLNN,CLNN|Clene Inc. - Common Stock
+CLNNW,CLNNW|Clene Inc. - Warrant
 CLPS,CLPS|CLPS Incorporation - Common Stock
 CLPT,CLPT|ClearPoint Neuro Inc. - Common Stock
 CLRB,CLRB|Cellectar Biosciences, Inc. - Common Stock
@@ -4540,7 +4539,7 @@ CWCO,CWCO|Consolidated Water Co. Ltd. - Ordinary Shares
 CWST,CWST|Casella Waste Systems, Inc. - Class A Common Stock
 CXDC,CXDC|China XD Plastics Company Limited - Common Stock
 CXDO,CXDO|Crexendo, Inc. - Common Stock
-CYAD,CYAD|Celyad SA - American Depositary Shares
+CYAD,CYAD|Celyad Oncology SA - American Depositary Shares
 CYAN,CYAN|Cyanotech Corporation - Common Stock
 CYBE,CYBE|CyberOptics Corporation - Common Stock
 CYBR,CYBR|CyberArk Software Ltd. - Ordinary Shares
@@ -4700,6 +4699,7 @@ ENTA,ENTA|Enanta Pharmaceuticals, Inc. - Common Stock
 ENTG,ENTG|Entegris, Inc. - Common Stock
 ENTX,ENTX|Entera Bio Ltd. - Ordinary Shares
 ENTXW,ENTXW|Entera Bio Ltd. - Warrant
+ENVB,ENVB|Enveric Biosciences, Inc.  - Common Stock
 EOLS,EOLS|Evolus, Inc. - Common Stock
 EOSE,EOSE|Eos Energy Enterprises, Inc. - Common Stock
 EOSEW,EOSEW|Eos Energy Enterprises, Inc. - Warrant
@@ -5217,7 +5217,7 @@ HWCC,HWCC|Houston Wire & Cable Company - Common Stock
 HWCPL,HWCPL|Hancock Whitney Corporation - 5.95% Subordinated Notes due 2045
 HWCPZ,HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060
 HWKN,HWKN|Hawkins, Inc. - Common Stock
-HX,HX|Hexindai Inc. - American Depositary Shares
+HX,HX|Xiaobai Maimai Inc. - American Depositary Shares
 HYFM,HYFM|Hydrofarm Holdings Group, Inc. - Common Stock
 HYMC,HYMC|Hycroft Mining Holding Corporation - Class A Common Stock
 HYMCW,HYMCW|Hycroft Mining Holding Corporation - Warrant
@@ -6120,7 +6120,6 @@ PDD,PDD|Pinduoduo Inc. - American Depositary Shares
 PDEX,PDEX|Pro-Dex, Inc. - Common Stock
 PDFS,PDFS|PDF Solutions, Inc. - Common Stock
 PDLB,PDLB|PDL Community Bancorp - Common Stock
-PDLI,PDLI|PDL BioPharma, Inc. - Common Stock
 PDSB,PDSB|PDS Biotechnology Corporation - Common Stock
 PEBK,PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO,PEBO|Peoples Bancorp Inc. - Common Stock
@@ -6824,10 +6823,6 @@ TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
 TOMZ,TOMZ|TOMI Environmental Solutions, Inc. - Common Stock
 TOPS,TOPS|TOP Ships Inc. - Common Stock
-TOTA,TOTA|Tottenham Acquisition I Limited - Ordinary Shares
-TOTAR,TOTAR|Tottenham Acquisition I Limited - Right
-TOTAU,TOTAU|Tottenham Acquisition I Limited - Unit
-TOTAW,TOTAW|Tottenham Acquisition I Limited - Warrant
 TOUR,TOUR|Tuniu Corporation - American Depositary Shares
 TOWN,TOWN|Towne Bank - Common Stock
 TPCO,TPCO|Tribune Publishing Company - Common Stock
@@ -6861,7 +6856,9 @@ TSCBP,TSCBP|TriState Capital Holdings, Inc. - Depositary Share, representing a 1
 TSCO,TSCO|Tractor Supply Company - Common Stock
 TSEM,TSEM|Tower Semiconductor Ltd. - Ordinary Shares
 TSHA,TSHA|Taysha Gene Therapies, Inc. - Common Stock
+TSIA,TSIA|TS Innovation Acquisitions Corp. - Class A Common Stock
 TSIAU,TSIAU|TS Innovation Acquisitions Corp. - Unit
+TSIAW,TSIAW|TS Innovation Acquisitions Corp. - Warrant
 TSLA,TSLA|Tesla, Inc.  - Common Stock
 TSRI,TSRI|TSR, Inc. - Common Stock
 TTCF,TTCF|Tattooed Chef, Inc. - Class A Common Stock
