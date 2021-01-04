@@ -697,7 +697,9 @@ CEVA|CEVA, Inc. - Common Stock|Q|N|N|100|N|N
 CEY|VictoryShares Emerging Market High Div Volatility Wtd ETF|G|N|N|100|Y|N
 CEZ|VictoryShares Emerging Market Volatility Wtd ETF|G|N|N|100|Y|N
 CFA|VictoryShares US 500 Volatility Wtd ETF|G|N|N|100|Y|N
+CFAC|CF Finance Acquisition Corp. III - Common Stock|S|N|N|100|N|N
 CFACU|CF Finance Acquisition Corp. III - Unit|S|N|N|100|N|N
+CFACW|CF Finance Acquisition Corp. III - Warrant|S|N|N|100|N|N
 CFB|CrossFirst Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 CFBI|Community First Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 CFBK|CF Bankshares Inc. - Common Stock|S|N|N|100|N|N
@@ -749,6 +751,7 @@ CHSCP|CHS Inc - 8%  Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 CHTR|Charter Communications, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CHUY|Chuy's Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 CHW|Calamos Global Dynamic Income Fund - Common Stock|Q|N|N|100|N|N
+CHX|ChampionX Corporation - Common Stock|Q|N|N|100|N|N
 CHY|Calamos Convertible and High Income Fund - Common Stock|Q|N|N|100|N|N
 CIBR|First Trust NASDAQ Cybersecurity ETF|G|N|N|100|Y|N
 CID|VictoryShares International High Div Volatility Wtd ETF|G|N|N|100|Y|N
@@ -1047,8 +1050,6 @@ DOOO|BRP Inc. - Common Subordinate Voting Shares|Q|N|N|100|N|N
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100|N|N
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100|N|N
 DOYU|DouYu International Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
-DRAD|Digirad Corporation - Common Stock|G|N|N|100|N|N
-DRADP|Digirad Corporation - Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 DRIO|DarioHealth Corp. - Common Stock|S|N|N|100|N|N
 DRIOW|DarioHealth Corp. - Warrant|S|N|N|100|N|N
 DRIV|Global X Autonomous & Electric Vehicles ETF|G|N|N|100|Y|N
@@ -1591,7 +1592,6 @@ GRCYU|Greencity Acquisition Corporation - Unit|S|N|N|100|N|N
 GRCYW|Greencity Acquisition Corporation - Warrants|S|N|N|100|N|N
 GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100|N|N
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100|Y|N
-GRIF|Griffin Industrial Realty, Inc. - Common Stock|G|N|N|100|N|N
 GRIL|Muscle Maker, Inc - Common Stock|S|N|N|100|N|N
 GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares|Q|N|N|100|N|N
 GRMN|Garmin Ltd. - Common Stock|Q|N|N|100|N|N
@@ -1874,6 +1874,7 @@ INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 202
 INBX|Inhibrx, Inc. - Common Stock|G|N|N|100|N|N
 INCY|Incyte Corporation - Common Stock|Q|N|N|100|N|N
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100|N|N
+INDT|INDUS Realty Trust, Inc. - Common Stock|G|N|N|100|N|N
 INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100|Y|N
 INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|D|100|N|N
 INFN|Infinera Corporation - Common Stock|Q|N|N|100|N|N
@@ -2762,6 +2763,8 @@ PFM|Invesco Dividend Achievers ETF|G|N|N|100|Y|N
 PFMT|Performant Financial Corporation - Common Stock|Q|N|D|100|N|N
 PFPT|Proofpoint, Inc. - Common Stock|G|N|N|100|N|N
 PFSW|PFSweb, Inc. - Common Stock|S|N|N|100|N|N
+PFX|PhenixFIN Corporation  - Common Stock|G|N|N|100|N|N
+PFXNL|PhenixFIN Corporation  - Notes Due 2023|G|N|N|100|N|N
 PGC|Peapack-Gladstone Financial Corporation - Common Stock|Q|N|N|100|N|N
 PGEN|Precigen, Inc. - Common Stock|Q|N|N|100|N|N
 PGJ|Invesco Golden Dragon China ETF|G|N|N|100|Y|N
@@ -3086,7 +3089,9 @@ RRBI|Red River Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock|Q|N|N|100|N|N
 RRR|Red Rock Resorts, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RSSS|Research Solutions, Inc - Common Stock|S|N|N|100|N|N
+RSVA|Rodgers Silicon Valley Acquisition Corp. - Common Stock|S|N|N|100|N|N
 RSVAU|Rodgers Silicon Valley Acquisition Corp. - Unit|S|N|N|100|N|N
+RSVAW|Rodgers Silicon Valley Acquisition Corp. - Warrant|S|N|N|100|N|N
 RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
 RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 RUBY|Rubius Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3369,6 +3374,8 @@ STRA|Strategic Education, Inc. - Common Stock|Q|N|N|100|N|N
 STRL|Sterling Construction Company Inc - Common Stock|Q|N|N|100|N|N
 STRM|Streamline Health Solutions, Inc. - Common Stock|S|N|N|100|N|N
 STRO|Sutro Biopharma, Inc. - Common Stock|G|N|N|100|N|N
+STRR|Star Equity Holdings, Inc. - Common Stock|G|N|N|100|N|N
+STRRP|Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 STRS|Stratus Properties Inc. - Common Stock|Q|N|N|100|N|N
 STRT|STRATTEC SECURITY CORPORATION - Common Stock|G|N|N|100|N|N
 STSA|Satsuma Pharmaceuticals, Inc. - Common stock|G|N|N|100|N|N
@@ -3938,4 +3945,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 1231202021:32|||||||
+File Creation Time: 0104202112:12|||||||

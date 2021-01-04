@@ -411,9 +411,11 @@ AXU|Alexco Resource Corp Common Shares (Canada)|A|AXU|N|100|N|AXU
 AYI|Acuity Brands, Inc. |N|AYI|N|100|N|AYI
 AYX|Alteryx, Inc. Class A Common Stock|N|AYX|N|100|N|AYX
 AZAA|AllianzIM U.S. Large Cap Buffer10 Apr ETF|P|AZAA|Y|100|N|AZAA
+AZAJ|AllianzIM U.S. Large Cap Buffer10 Jan ETF|P|AZAJ|Y|100|N|AZAJ
 AZAL|AllianzIM U.S. Large Cap Buffer10 Jul ETF|P|AZAL|Y|100|N|AZAL
 AZAO|AllianzIM U.S. Large Cap Buffer10 Oct ETF|P|AZAO|Y|100|N|AZAO
 AZBA|AllianzIM U.S. Large Cap Buffer20 Apr ETF|P|AZBA|Y|100|N|AZBA
+AZBJ|AllianzIM U.S. Large Cap Buffer20 Jan ETF|P|AZBJ|Y|100|N|AZBJ
 AZBL|AllianzIM U.S. Large Cap Buffer20 Jul ETF|P|AZBL|Y|100|N|AZBL
 AZBO|AllianzIM U.S. Large Cap Buffer20 Oct ETF|P|AZBO|Y|100|N|AZBO
 AZEK|The AZEK Company Inc. Class A Common Stock|N|AZEK|N|100|N|AZEK
@@ -875,7 +877,6 @@ CHS|Chico's FAS, Inc. Common Stock|N|CHS|N|100|N|CHS
 CHT|Chunghwa Telecom Co., Ltd.|N|CHT|N|100|N|CHT
 CHU|China Unicom (Hong Kong) Ltd Common Stock|N|CHU|N|100|N|CHU
 CHWY|Chewy, Inc. Class A Common Stock|N|CHWY|N|100|N|CHWY
-CHX|ChampionX Corporation Common Stock |N|CHX|N|100|N|CHX
 CI|Cigna Corporation Common Stock|N|CI|N|100|N|CI
 CIA|Citizens, Inc. Class A Common Stock ($1.00 Par)|N|CIA|N|100|N|CIA
 CIB|BanColombia S.A. Common Stock|N|CIB|N|100|N|CIB
@@ -1151,6 +1152,7 @@ DBEU|Xtrackers MSCI Europe Hedged Equity ETF|P|DBEU|Y|100|N|DBEU
 DBEZ|Xtrackers MSCI Eurozone Hedged Equity ETF|P|DBEZ|Y|100|N|DBEZ
 DBGR|Xtrackers MSCI Germany Hedged Equity ETF|P|DBGR|Y|100|N|DBGR
 DBI|Designer Brands Inc. Class A Common Stock|N|DBI|N|100|N|DBI
+DBJA|Innovator Double Stacker 9 Buffer ETF - January|Z|DBJA|Y|100|N|DBJA
 DBJP|Xtrackers MSCI Japan Hedged Equity ETF|P|DBJP|Y|100|N|DBJP
 DBL|DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest|N|DBL|N|100|N|DBL
 DBLV|AdvisorShares DoubleLine Value Equity ETF|P|DBLV|Y|100|N|DBLV
@@ -1290,7 +1292,9 @@ DMS.W|Digital Media Solutions, Inc. Warrants, |N|DMS.WS|N|100|N|DMS+
 DMYD|dMY Technology Group, Inc. II Class A Common Stock|N|DMYD|N|100|N|DMYD
 DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|DMYD.U|N|100|N|DMYD=
 DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants|N|DMYD.WS|N|100|N|DMYD+
+DMYI|dMY Technology Group, Inc. III Class A Common Stock|N|DMYI|N|100|N|DMYI
 DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|DMYI.U|N|100|N|DMYI=
+DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|DMYI.WS|N|100|N|DMYI+
 DNB|Dun & Bradstreet Holdings, Inc. Common Stock|N|DNB|N|100|N|DNB
 DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares|N|DNK|N|100|N|DNK
 DNL|WisdomTree Global ex-US Quality Dividend Growth Fund|P|DNL|Y|100|N|DNL
@@ -1333,6 +1337,7 @@ DS$D|Drive Shack Inc. Pfd Ser D|N|DSpD|N|100|N|DS-D
 DSE|Duff & Phelps Select MLP and Midstream Energy Fund Inc.|N|DSE|N|100|N|DSE
 DSEP|FT Cboe Vest U.S. Equity Deep Buffer ETF - September|Z|DSEP|Y|100|N|DSEP
 DSI|iShares MSCI KLD 400 Social ETF|P|DSI|Y|100|N|DSI
+DSJA|Innovator Double Stacker ETF - January|Z|DSJA|Y|100|N|DSJA
 DSL|DoubleLine Income Solutions Fund Common Shares of Beneficial Interests|N|DSL|N|100|N|DSL
 DSM|BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock|N|DSM|N|100|N|DSM
 DSOC|Innovator Double Stacker ETF - October|Z|DSOC|Y|100|N|DSOC
@@ -1402,7 +1407,7 @@ EASG|Xtrackers MSCI EAFE ESG Leaders Equity ETF|P|EASG|Y|100|N|EASG
 EAT|Brinker International, Inc. Common Stock|N|EAT|N|100|N|EAT
 EB|Eventbrite, Inc. Class A Common Stock|N|EB|N|100|N|EB
 EBF|Ennis, Inc. Common Stock|N|EBF|N|100|N|EBF
-EBLU|Ecofin Global Water ESG Fund|Z|EBLU|Y|100|N|EBLU
+EBLU|Ecofin Global Water ESG Fund|P|EBLU|Y|100|N|EBLU
 EBND|SPDR Bloomberg Barclays Emerging Markets Local Bond ETF|P|EBND|Y|100|N|EBND
 EBR|Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)|N|EBR|N|100|N|EBR
 EBR.B|Centrais Electricas Brasileiras S.A.- Eletrobr?!s American Depositary Shares (Each representing one Preferred Share)|N|EBR.B|N|100|N|EBR.B
@@ -1474,7 +1479,7 @@ EGPT|VanEck Vectors Egypt Index ETF|P|EGPT|Y|100|N|EGPT
 EGY|VAALCO Energy, Inc.  Common Stock|N|EGY|N|100|N|EGY
 EHC|Encompass Health Corporation Common Stock|N|EHC|N|100|N|EHC
 EHI|Western Asset Global High Income Fund Inc Common Stock|N|EHI|N|100|N|EHI
-EHT|Eaton Vance High Income 2021 Target Term Trust Common Shares of Beneficial Interest|N|EHT|N|100|N|EHT
+EHT|Eaton Vance 2021 Target Term Trust Common Shares of Beneficial Interest|N|EHT|N|100|N|EHT
 EIC|Eagle Point Income Company Inc. Common Stock|N|EIC|N|100|N|EIC
 EIDO|iShares MSCI Indonesia ETF|P|EIDO|Y|100|N|EIDO
 EIG|Employers Holdings Inc Common Stock|N|EIG|N|100|N|EIG
@@ -2765,6 +2770,7 @@ IZRL|ARK Israel Innovative Technology ETF|Z|IZRL|Y|100|N|IZRL
 J|Jacobs Engineering Group Inc. Common Stock|N|J|N|100|N|J
 JAAA|Janus Henderson AAA CLO ETF|P|JAAA|Y|100|N|JAAA
 JAGG|JPMorgan U.S. Aggregate Bond ETF|P|JAGG|Y|100|N|JAGG
+JANZ|TrueShares Structured Outcome (January) ETF|Z|JANZ|Y|100|N|JANZ
 JAX|J. Alexander's Holdings, Inc. Common Stock|N|JAX|N|100|N|JAX
 JBGS|JBG SMITH Properties Common Shares |N|JBGS|N|100|N|JBGS
 JBK|Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I|N|JBK|N|100|N|JBK
@@ -3143,7 +3149,6 @@ MBT|Mobile TeleSystems PJSC|N|MBT|N|100|N|MBT
 MC|Moelis & Company Class A Common Stock|N|MC|N|100|N|MC
 MCA|Blackrock MuniYield California Quality Fund, Inc. Common Stock|N|MCA|N|100|N|MCA
 MCB|Metropolitan Bank Holding Corp. Common Stock|N|MCB|N|100|N|MCB
-MCC|Medley Capital Corporation Common Stock|N|MCC|N|100|N|MCC
 MCD|McDonald's Corporation Common Stock|N|MCD|N|100|N|MCD
 MCF|Contango Oil & Gas Company Common Stock (TX)|A|MCF|N|100|N|MCF
 MCI|Barings Corporate Investors Common Stock|N|MCI|N|100|N|MCI
@@ -3153,7 +3158,6 @@ MCO|Moody's Corporation Common Stock|N|MCO|N|100|N|MCO
 MCR|MFS Charter Income Trust Common Stock|N|MCR|N|100|N|MCR
 MCRO|IQ Hedge Macro Tracker ETF|P|MCRO|Y|100|N|MCRO
 MCS|Marcus Corporation (The) Common Stock|N|MCS|N|100|N|MCS
-MCV|Medley Capital Corporation 6.125% Senior Notes due 2023|N|MCV|N|100|N|MCV
 MCY|Mercury General Corporation Common Stock|N|MCY|N|100|N|MCY
 MD|Mednax, Inc. Common Stock|N|MD|N|100|N|MD
 MDC|M.D.C. Holdings, Inc. Common Stock|N|MDC|N|100|N|MDC
@@ -3529,7 +3533,7 @@ NOK|Nokia Corporation Sponsored American Depositary Shares|N|NOK|N|100|N|NOK
 NOM|Nuveen Missouri Quality Municipal Income Fund |N|NOM|N|100|N|NOM
 NOMD|Nomad Foods Limited Ordinary Shares|N|NOMD|N|100|N|NOMD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
-NOV|National Oilwell Varco, Inc. Common Stock|N|NOV|N|100|N|NOV
+NOV|NOV Inc. Common Stock|N|NOV|N|100|N|NOV
 NOVA|Sunnova Energy International Inc. Common Stock|N|NOVA|N|100|N|NOVA
 NOW|ServiceNow, Inc. Common Stock|N|NOW|N|100|N|NOW
 NP|Neenah, Inc. Common Stock|N|NP|N|100|N|NP
@@ -4933,7 +4937,7 @@ TOL|Toll Brothers, Inc. Common Stock|N|TOL|N|100|N|TOL
 TOLZ|ProShares DJ Brookfield Global Infrastructure ETF|P|TOLZ|Y|100|N|TOLZ
 TOT|Total SE|N|TOT|N|100|N|TOT
 TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
-TPAY|Ecofin Digital Payments Infrastructure Fund|Z|TPAY|Y|100|N|TPAY
+TPAY|Ecofin Digital Payments Infrastructure Fund|P|TPAY|Y|100|N|TPAY
 TPB|Turning Point Brands, Inc. Common Stock|N|TPB|N|100|N|TPB
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
 TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares|N|TPGY|N|100|N|TPGY
@@ -4984,6 +4988,7 @@ TRXC|TransEnterix, Inc. Common Stock|A|TRXC|N|100|N|TRXC
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
 TSE|Trinseo S.A. Ordinary Shares|N|TSE|N|100|N|TSE
 TSI|TCW Strategic Income Fund, Inc. Common Stock|N|TSI|N|100|N|TSI
+TSJA|Innovator Triple Stacker ETF - January|Z|TSJA|Y|100|N|TSJA
 TSLX|Sixth Street Specialty Lending, Inc. Common Stock|N|TSLX|N|100|N|TSLX
 TSM|Taiwan Semiconductor Manufacturing Company Ltd.|N|TSM|N|100|N|TSM
 TSN|Tyson Foods, Inc. Common Stock|N|TSN|N|100|N|TSN
@@ -5569,4 +5574,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1231202021:32||||||
+File Creation Time: 0104202112:12||||||

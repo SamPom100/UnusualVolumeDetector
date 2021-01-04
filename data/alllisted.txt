@@ -693,7 +693,6 @@ CHS,CHS|Chico's FAS, Inc. Common Stock
 CHT,CHT|Chunghwa Telecom Co., Ltd.
 CHU,CHU|China Unicom (Hong Kong) Ltd Common Stock
 CHWY,CHWY|Chewy, Inc. Class A Common Stock
-CHX,CHX|ChampionX Corporation Common Stock 
 CI,CI|Cigna Corporation Common Stock
 CIA,CIA|Citizens, Inc. Class A Common Stock ($1.00 Par)
 CIB,CIB|BanColombia S.A. Common Stock
@@ -1003,7 +1002,9 @@ DMS.W,DMS.W|Digital Media Solutions, Inc. Warrants,
 DMYD,DMYD|dMY Technology Group, Inc. II Class A Common Stock
 DMYD.U,DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 DMYD.W,DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants
+DMYI,DMYI|dMY Technology Group, Inc. III Class A Common Stock
 DMYI.U,DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
+DMYI.W,DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
 DNB,DNB|Dun & Bradstreet Holdings, Inc. Common Stock
 DNK,DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares
 DNMR,DNMR|Danimer Scientific, Inc. Common Stock
@@ -1108,7 +1109,7 @@ EGP,EGP|EastGroup Properties, Inc. Common Stock
 EGY,EGY|VAALCO Energy, Inc.  Common Stock
 EHC,EHC|Encompass Health Corporation Common Stock
 EHI,EHI|Western Asset Global High Income Fund Inc Common Stock
-EHT,EHT|Eaton Vance High Income 2021 Target Term Trust Common Shares of Beneficial Interest
+EHT,EHT|Eaton Vance 2021 Target Term Trust Common Shares of Beneficial Interest
 EIC,EIC|Eagle Point Income Company Inc. Common Stock
 EIG,EIG|Employers Holdings Inc Common Stock
 EIM,EIM|Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
@@ -2068,7 +2069,6 @@ MBT,MBT|Mobile TeleSystems PJSC
 MC,MC|Moelis & Company Class A Common Stock
 MCA,MCA|Blackrock MuniYield California Quality Fund, Inc. Common Stock
 MCB,MCB|Metropolitan Bank Holding Corp. Common Stock
-MCC,MCC|Medley Capital Corporation Common Stock
 MCD,MCD|McDonald's Corporation Common Stock
 MCF,MCF|Contango Oil & Gas Company Common Stock (TX)
 MCI,MCI|Barings Corporate Investors Common Stock
@@ -2077,7 +2077,6 @@ MCN,MCN|Madison Covered Call & Equity Strategy Fund Common Stock
 MCO,MCO|Moody's Corporation Common Stock
 MCR,MCR|MFS Charter Income Trust Common Stock
 MCS,MCS|Marcus Corporation (The) Common Stock
-MCV,MCV|Medley Capital Corporation 6.125% Senior Notes due 2023
 MCY,MCY|Mercury General Corporation Common Stock
 MD,MD|Mednax, Inc. Common Stock
 MDC,MDC|M.D.C. Holdings, Inc. Common Stock
@@ -2381,7 +2380,7 @@ NOG,NOG|Northern Oil and Gas, Inc. Common Stock
 NOK,NOK|Nokia Corporation Sponsored American Depositary Shares
 NOM,NOM|Nuveen Missouri Quality Municipal Income Fund 
 NOMD,NOMD|Nomad Foods Limited Ordinary Shares
-NOV,NOV|National Oilwell Varco, Inc. Common Stock
+NOV,NOV|NOV Inc. Common Stock
 NOVA,NOVA|Sunnova Energy International Inc. Common Stock
 NOW,NOW|ServiceNow, Inc. Common Stock
 NP,NP|Neenah, Inc. Common Stock
@@ -4291,7 +4290,9 @@ CETX,CETX|Cemtrex Inc. - Common Stock
 CETXP,CETXP|Cemtrex Inc. - Series 1 Preferred Stock
 CETXW,CETXW|Cemtrex Inc. - Series 1 Warrant
 CEVA,CEVA|CEVA, Inc. - Common Stock
+CFAC,CFAC|CF Finance Acquisition Corp. III - Common Stock
 CFACU,CFACU|CF Finance Acquisition Corp. III - Unit
+CFACW,CFACW|CF Finance Acquisition Corp. III - Warrant
 CFB,CFB|CrossFirst Bankshares, Inc. - Common Stock
 CFBI,CFBI|Community First Bancshares, Inc. - Common Stock
 CFBK,CFBK|CF Bankshares Inc. - Common Stock
@@ -4340,6 +4341,7 @@ CHSCP,CHSCP|CHS Inc - 8%  Cumulative Redeemable Preferred Stock
 CHTR,CHTR|Charter Communications, Inc. - Class A Common Stock
 CHUY,CHUY|Chuy's Holdings, Inc. - Common Stock
 CHW,CHW|Calamos Global Dynamic Income Fund - Common Stock
+CHX,CHX|ChampionX Corporation - Common Stock
 CHY,CHY|Calamos Convertible and High Income Fund - Common Stock
 CIDM,CIDM|Cinedigm Corp - Class A Common Stock
 CIGI,CIGI|Colliers International Group Inc.  - Subordinate Voting Shares
@@ -4614,8 +4616,6 @@ DOOO,DOOO|BRP Inc. - Common Subordinate Voting Shares
 DORM,DORM|Dorman Products, Inc. - Common Stock
 DOX,DOX|Amdocs Limited - Ordinary Shares
 DOYU,DOYU|DouYu International Holdings Limited - American Depositary Shares
-DRAD,DRAD|Digirad Corporation - Common Stock
-DRADP,DRADP|Digirad Corporation - Series A Cumulative Perpetual Preferred Stock
 DRIO,DRIO|DarioHealth Corp. - Common Stock
 DRIOW,DRIOW|DarioHealth Corp. - Warrant
 DRNA,DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock
@@ -5055,7 +5055,6 @@ GRCY,GRCY|Greencity Acquisition Corporation - Ordinary Shares
 GRCYU,GRCYU|Greencity Acquisition Corporation - Unit
 GRCYW,GRCYW|Greencity Acquisition Corporation - Warrants
 GRFS,GRFS|Grifols, S.A. - American Depositary Shares
-GRIF,GRIF|Griffin Industrial Realty, Inc. - Common Stock
 GRIL,GRIL|Muscle Maker, Inc - Common Stock
 GRIN,GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares
 GRMN,GRMN|Garmin Ltd. - Common Stock
@@ -5304,6 +5303,7 @@ INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes D
 INBX,INBX|Inhibrx, Inc. - Common Stock
 INCY,INCY|Incyte Corporation - Common Stock
 INDB,INDB|Independent Bank Corp. - Common Stock
+INDT,INDT|INDUS Realty Trust, Inc. - Common Stock
 INFI,INFI|Infinity Pharmaceuticals, Inc. - Common Stock
 INFN,INFN|Infinera Corporation - Common Stock
 INGN,INGN|Inogen, Inc - Common Stock
@@ -6145,6 +6145,8 @@ PFLT,PFLT|PennantPark Floating Rate Capital Ltd. - Common Stock
 PFMT,PFMT|Performant Financial Corporation - Common Stock
 PFPT,PFPT|Proofpoint, Inc. - Common Stock
 PFSW,PFSW|PFSweb, Inc. - Common Stock
+PFX,PFX|PhenixFIN Corporation  - Common Stock
+PFXNL,PFXNL|PhenixFIN Corporation  - Notes Due 2023
 PGC,PGC|Peapack-Gladstone Financial Corporation - Common Stock
 PGEN,PGEN|Precigen, Inc. - Common Stock
 PGNY,PGNY|Progyny, Inc. - Common Stock
@@ -6411,7 +6413,9 @@ RRBI,RRBI|Red River Bancshares, Inc. - Common Stock
 RRGB,RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock
 RRR,RRR|Red Rock Resorts, Inc. - Class A Common Stock
 RSSS,RSSS|Research Solutions, Inc - Common Stock
+RSVA,RSVA|Rodgers Silicon Valley Acquisition Corp. - Common Stock
 RSVAU,RSVAU|Rodgers Silicon Valley Acquisition Corp. - Unit
+RSVAW,RSVAW|Rodgers Silicon Valley Acquisition Corp. - Warrant
 RTLR,RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests
 RUBY,RUBY|Rubius Therapeutics, Inc. - Common Stock
 RUHN,RUHN|Ruhnn Holding Limited - American Depositary Shares
@@ -6673,6 +6677,8 @@ STRA,STRA|Strategic Education, Inc. - Common Stock
 STRL,STRL|Sterling Construction Company Inc - Common Stock
 STRM,STRM|Streamline Health Solutions, Inc. - Common Stock
 STRO,STRO|Sutro Biopharma, Inc. - Common Stock
+STRR,STRR|Star Equity Holdings, Inc. - Common Stock
+STRRP,STRRP|Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock
 STRS,STRS|Stratus Properties Inc. - Common Stock
 STRT,STRT|STRATTEC SECURITY CORPORATION - Common Stock
 STSA,STSA|Satsuma Pharmaceuticals, Inc. - Common stock
