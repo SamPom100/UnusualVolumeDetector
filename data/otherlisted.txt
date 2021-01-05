@@ -185,6 +185,7 @@ ALLY$A|GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities,
 ALP$Q|Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par Value $1 Per Share (Stated Capital $25 Per Share)|N|ALPpQ|N|100|N|ALP-Q
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
 ALTG|Alta Equipment Group Inc. Class A Common Stock|N|ALTG|N|100|N|ALTG
+ALTG$A|Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock)|N|ALTGpA|N|100|N|ALTG-A
 ALTG.W|Alta Equipment Group Inc. Warrants|N|ALTG.WS|N|100|N|ALTG+
 ALTL|Pacer Lunt Large Cap Alternator ETF|P|ALTL|Y|100|N|ALTL
 ALTS|ProShares Morningstar Alternatives Solution ETF|Z|ALTS|Y|100|N|ALTS
@@ -621,7 +622,6 @@ BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares 
 BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)|N|BMLpL|N|100|N|BML-L
 BMO|Bank Of Montreal Common Stock|N|BMO|N|100|N|BMO
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
-BMY.R|Bristol-Myers Squibb Company Contingent Value Rights|N|BMYr|N|100|N|BMY^
 BNDC|FlexShares Core Select Bond Fund|P|BNDC|Y|100|N|BNDC
 BNE|ETF Series Solutions Blue Horizon BNE ETF|P|BNE|Y|100|N|BNE
 BNED|Barnes & Noble Education, Inc Common Stock|N|BNED|N|100|N|BNED
@@ -1045,6 +1045,7 @@ CRMD|CorMedix Inc. Common Stock|A|CRMD|N|100|N|CRMD
 CROC|ProShares UltraShort Australian Dollar|P|CROC|N|100|N|CROC
 CRS|Carpenter Technology Corporation Common Stock|N|CRS|N|100|N|CRS
 CRT|Cross Timbers Royalty Trust Common Stock|N|CRT|N|100|N|CRT
+CRU.U|Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|CRU.U|N|100|N|CRU=
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
 CSD|Invesco S&P Spin-Off ETF|P|CSD|Y|100|N|CSD
@@ -1644,6 +1645,7 @@ ETV|Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund
 ETW|Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest|N|ETW|N|100|N|ETW
 ETX|Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest|N|ETX|N|100|N|ETX
 ETY|Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,|N|ETY|N|100|N|ETY
+EUCG|Euclid Capital Growth ETF|Z|EUCG|Y|100|N|EUCG
 EUDG|WisdomTree Europe Quality Dividend Growth Fund|P|EUDG|Y|100|N|EUDG
 EUDV|ProShares MSCI Europe Dividend Growers ETF|Z|EUDV|Y|100|N|EUDV
 EUFX|ProShares Short Euro|P|EUFX|N|100|N|EUFX
@@ -2011,6 +2013,7 @@ FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAL|Fidelity Value Factor ETF|P|FVAL|Y|100|N|FVAL
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
 FVRR|Fiverr International Ltd. Ordinary Shares, no par value|N|FVRR|N|100|N|FVRR
+FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant|N|FVT.U|N|100|N|FVT=
 FWDB|AdvisorShares FolioBeyond Smart Core Bond ETF|P|FWDB|Y|100|N|FWDB
 FXA|Invesco CurrencyShares Australian Dollar Trust|P|FXA|Y|100|N|FXA
 FXB|Invesco CurrencyShares British Pound Sterling Trust|P|FXB|Y|100|N|FXB
@@ -5574,4 +5577,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0104202115:42||||||
+File Creation Time: 0105202112:12||||||

@@ -154,6 +154,7 @@ ALLY$A,ALLY$A|GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Secu
 ALP$Q,ALP$Q|Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par Value $1 Per Share (Stated Capital $25 Per Share)
 ALSN,ALSN|Allison Transmission Holdings, Inc. Common Stock
 ALTG,ALTG|Alta Equipment Group Inc. Class A Common Stock
+ALTG$A,ALTG$A|Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock)
 ALTG.W,ALTG.W|Alta Equipment Group Inc. Warrants
 ALUS,ALUS|Alussa Energy Acquisition Corp. Class A Ordinary Shares
 ALUS.U,ALUS.U|Alussa Energy Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-half of one redeemable warrant
@@ -491,7 +492,6 @@ BML$J,BML$J|Bank of America Corporation Bank of America Corporation Depositary S
 BML$L,BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)
 BMO,BMO|Bank Of Montreal Common Stock
 BMY,BMY|Bristol-Myers Squibb Company Common Stock
-BMY.R,BMY.R|Bristol-Myers Squibb Company Contingent Value Rights
 BNED,BNED|Barnes & Noble Education, Inc Common Stock
 BNKD,BNKD|MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs
 BNKU,BNKU|MicroSectors U.S. Big Banks Index 3X Leveraged ETNs
@@ -840,6 +840,7 @@ CRMD,CRMD|CorMedix Inc. Common Stock
 CROC,CROC|ProShares UltraShort Australian Dollar
 CRS,CRS|Carpenter Technology Corporation Common Stock
 CRT,CRT|Cross Timbers Royalty Trust Common Stock
+CRU.U,CRU.U|Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 CRY,CRY|CryoLife, Inc. Common Stock
 CS,CS|Credit Suisse Group American Depositary Shares
 CSL,CSL|Carlisle Companies Incorporated Common Stock
@@ -1399,6 +1400,7 @@ FUSE,FUSE|Fusion Acquisition Corp. Class A Common Stock
 FUSE.U,FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 FUSE.W,FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FVRR,FVRR|Fiverr International Ltd. Ordinary Shares, no par value
+FVT.U,FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant
 G,G|Genpact Limited Common Stock
 GAB,GAB|Gabelli Equity Trust, Inc. (The) Common Stock
 GAB$G,GAB$G|Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock
@@ -4062,6 +4064,7 @@ BEEM,BEEM|Beam Global - Common Stock
 BEEMW,BEEMW|Beam Global - Warrant
 BELFA,BELFA|Bel Fuse Inc. - Class A Common Stock
 BELFB,BELFB|Bel Fuse Inc. - Class B Common Stock
+BENEU,BENEU|Benessere Capital Acquisition Corp. - Unit
 BFC,BFC|Bank First Corporation - Common Stock
 BFI,BFI|BurgerFi International Inc - Common Stock
 BFIIW,BFIIW|BurgerFi International Inc - Warrant
@@ -4115,7 +4118,6 @@ BLSA,BLSA|BCLS Acquisition Corp. - Class A Ordinary Shares
 BLU,BLU|BELLUS Health Inc. - Common Shares
 BLUE,BLUE|bluebird bio, Inc. - Common Stock
 BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
-BMCH,BMCH|BMC Stock Holdings, Inc. - Common Stock
 BMLP,BMLP|Dorsey Wright MLP Index ETNs due December 10, 2036
 BMRA,BMRA|Biomerica, Inc. - Common Stock
 BMRC,BMRC|Bank of Marin Bancorp - Common Stock
@@ -4682,6 +4684,7 @@ EIDX,EIDX|Eidos Therapeutics, Inc. - Common Stock
 EIGI,EIGI|Endurance International Group Holdings, Inc. - Common Stock
 EIGR,EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock
 EKSO,EKSO|Ekso Bionics Holdings, Inc. - Common Stock
+ELDN,ELDN|Eledon Pharmaceuticals, Inc. - Common Stock
 ELOX,ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock
 ELSE,ELSE|Electro-Sensors, Inc. - Common Stock
 ELTK,ELTK|Eltek Ltd. - Ordinary Shares
@@ -5119,7 +5122,9 @@ HBP,HBP|Huttig Building Products, Inc. - Common Stock
 HBT,HBT|HBT Financial, Inc. - Common Stock
 HCAP,HCAP|Harvest Capital Credit Corporation - Common Stock
 HCAPZ,HCAPZ|Harvest Capital Credit Corporation - 6.125% Notes due 2022
+HCAR,HCAR|Healthcare Services Acquisition Corporation - Class A Common Stock
 HCARU,HCARU|Healthcare Services Acquisition Corporation - Unit
+HCARW,HCARW|Healthcare Services Acquisition Corporation - Warrant
 HCAT,HCAT|Health Catalyst, Inc - Common stock
 HCCI,HCCI|Heritage-Crystal Clean, Inc. - Common Stock
 HCDI,HCDI|Harbor Custom Development, Inc. - Common Stock
@@ -5849,7 +5854,6 @@ NFLX,NFLX|Netflix, Inc. - Common Stock
 NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
 NGACU,NGACU|NextGen Acquisition Corporation - Units
 NGACW,NGACW|NextGen Acquisition Corporation - Warrants
-NGHC,NGHC|National General Holdings Corp - Common Stock
 NGHCN,NGHCN|National General Holdings Corp - Depositary Shares, each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock, Series C
 NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
 NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A
@@ -5932,7 +5936,6 @@ NVEE,NVEE|NV5 Global, Inc. - Common Stock
 NVFY,NVFY|Nova Lifestyle, Inc - Common Stock
 NVIV,NVIV|InVivo Therapeutics Holdings Corp. - Common Stock
 NVMI,NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares
-NVUS,NVUS|Novus Therapeutics, Inc. - Common Stock
 NWBI,NWBI|Northwest Bancshares, Inc. - Common Stock
 NWE,NWE|NorthWestern Corporation - Common Stock
 NWFL,NWFL|Norwood Financial Corp. - Common Stock
@@ -6394,7 +6397,9 @@ RNLX,RNLX|Renalytix AI plc - American Depositary Shares
 RNST,RNST|Renasant Corporation - Common Stock
 RNWK,RNWK|RealNetworks, Inc. - Common Stock
 ROAD,ROAD|Construction Partners, Inc. - Common Stock
+ROCC,ROCC|Roth CH Acquisition II Co. - Common Stock
 ROCCU,ROCCU|Roth CH Acquisition II Co. - Unit
+ROCCW,ROCCW|Roth CH Acquisition II Co. - Warrant
 ROCH,ROCH|Roth CH Acquisition I Co. - Common Stock
 ROCHU,ROCHU|Roth CH Acquisition I Co. - Unit
 ROCHW,ROCHW|Roth CH Acquisition I Co. - Warrant

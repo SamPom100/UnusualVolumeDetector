@@ -415,6 +415,7 @@ BEEM|Beam Global - Common Stock|S|N|N|100|N|N
 BEEMW|Beam Global - Warrant|S|N|N|100|N|N
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100|N|N
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
+BENEU|Benessere Capital Acquisition Corp. - Unit|S|N|N|100|N|N
 BFC|Bank First Corporation - Common Stock|S|N|N|100|N|N
 BFI|BurgerFi International Inc - Common Stock|G|N|N|100|N|N
 BFIIW|BurgerFi International Inc - Warrant|G|N|N|100|N|N
@@ -475,7 +476,6 @@ BLSA|BCLS Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 BLU|BELLUS Health Inc. - Common Shares|Q|N|N|100|N|N
 BLUE|bluebird bio, Inc. - Common Stock|Q|N|N|100|N|N
 BLUWU|Blue Water Acquisition Corp. - Unit|S|N|N|100|N|N
-BMCH|BMC Stock Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 BMLP|Dorsey Wright MLP Index ETNs due December 10, 2036|G|N|N|100|N|N
 BMRA|Biomerica, Inc. - Common Stock|S|N|N|100|N|N
 BMRC|Bank of Marin Bancorp - Common Stock|S|N|N|100|N|N
@@ -1140,6 +1140,7 @@ EIDX|Eidos Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EKSO|Ekso Bionics Holdings, Inc. - Common Stock|S|N|N|100|N|N
+ELDN|Eledon Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100|N|N
 ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -1657,7 +1658,9 @@ HBP|Huttig Building Products, Inc. - Common Stock|S|N|N|100|N|N
 HBT|HBT Financial, Inc. - Common Stock|Q|N|N|100|N|N
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100|N|N
 HCAPZ|Harvest Capital Credit Corporation - 6.125% Notes due 2022|G|N|N|100|N|N
+HCAR|Healthcare Services Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 HCARU|Healthcare Services Acquisition Corporation - Unit|S|N|N|100|N|N
+HCARW|Healthcare Services Acquisition Corporation - Warrant|S|N|N|100|N|N
 HCAT|Health Catalyst, Inc - Common stock|Q|N|N|100|N|N
 HCCI|Heritage-Crystal Clean, Inc. - Common Stock|Q|N|N|100|N|N
 HCDI|Harbor Custom Development, Inc. - Common Stock|S|N|N|100|N|N
@@ -2456,7 +2459,6 @@ NFTY|First Trust India Nifty 50 Equal Weight ETF|G|N|N|100|Y|N
 NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
 NGACU|NextGen Acquisition Corporation - Units|S|N|N|100|N|N
 NGACW|NextGen Acquisition Corporation - Warrants|S|N|N|100|N|N
-NGHC|National General Holdings Corp - Common Stock|G|N|N|100|N|N
 NGHCN|National General Holdings Corp - Depositary Shares, each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock, Series C|G|N|N|100|N|N
 NGHCO|National General Holdings Corp - Depositary Shares|G|N|N|100|N|N
 NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A|G|N|N|100|N|N
@@ -2539,7 +2541,6 @@ NVEE|NV5 Global, Inc. - Common Stock|S|N|D|100|N|N
 NVFY|Nova Lifestyle, Inc - Common Stock|S|N|N|100|N|N
 NVIV|InVivo Therapeutics Holdings Corp. - Common Stock|S|N|D|100|N|N
 NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100|N|N
-NVUS|Novus Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 NWE|NorthWestern Corporation - Common Stock|Q|N|N|100|N|N
 NWFL|Norwood Financial Corp. - Common Stock|G|N|N|100|N|N
@@ -2552,7 +2553,7 @@ NXGN|NextGen Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 NXPI|NXP Semiconductors N.V. - Common Stock|Q|N|N|100|N|N
 NXST|Nexstar Media Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NXTC|NextCure, Inc. - Common Stock|Q|N|N|100|N|N
-NXTD|NXT-ID Inc. - Common Stock|S|N|D|100|N|N
+NXTD|NXT-ID Inc. - Common Stock|S|N|N|100|N|N
 NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
 NYMT|New York Mortgage Trust, Inc. - Common Stock|Q|N|N|100|N|N
 NYMTM|New York Mortgage Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -3070,7 +3071,9 @@ RNST|Renasant Corporation - Common Stock|Q|N|N|100|N|N
 RNWK|RealNetworks, Inc. - Common Stock|Q|N|N|100|N|N
 ROAD|Construction Partners, Inc. - Common Stock|Q|N|N|100|N|N
 ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
+ROCC|Roth CH Acquisition II Co. - Common Stock|S|N|N|100|N|N
 ROCCU|Roth CH Acquisition II Co. - Unit|S|N|N|100|N|N
+ROCCW|Roth CH Acquisition II Co. - Warrant|S|N|N|100|N|N
 ROCH|Roth CH Acquisition I Co. - Common Stock|S|N|N|100|N|N
 ROCHU|Roth CH Acquisition I Co. - Unit|S|N|N|100|N|N
 ROCHW|Roth CH Acquisition I Co. - Warrant|S|N|N|100|N|N
@@ -3509,7 +3512,7 @@ TILE|Interface, Inc. - Common Stock|Q|N|N|100|N|N
 TIPT|Tiptree Inc. - Common Stock|S|N|N|100|N|N
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100|N|N
 TLC|Taiwan Liposome Company, Ltd. - American Depositary Shares|G|N|N|100|N|N
-TLGT|Teligent, Inc. - Common Stock|Q|N|H|100|N|N
+TLGT|Teligent, Inc. - Common Stock|Q|N|D|100|N|N
 TLMD|SOC Telemed, Inc. - Class A Common Stock|S|N|N|100|N|N
 TLMDW|SOC Telemed, Inc. - Warrants|S|N|N|100|N|N
 TLND|Talend S.A. - American Depositary Shares|G|N|N|100|N|N
@@ -3945,4 +3948,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0104202115:42|||||||
+File Creation Time: 0105202112:12|||||||
