@@ -621,6 +621,8 @@ BML$H|Bank of America Corporation Bank of America Corporation Depositary Shares 
 BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)|N|BMLpJ|N|100|N|BML-J
 BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)|N|BMLpL|N|100|N|BML-L
 BMO|Bank Of Montreal Common Stock|N|BMO|N|100|N|BMO
+BMTX|BM Technologies, Inc. Common Stock|A|BMTX|N|100|N|BMTX
+BMTX.W|BM Technologies, Inc. Warrants|A|BMTX.WS|N|100|N|BMTX+
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BNDC|FlexShares Core Select Bond Fund|P|BNDC|Y|100|N|BNDC
 BNE|ETF Series Solutions Blue Horizon BNE ETF|P|BNE|Y|100|N|BNE
@@ -1099,6 +1101,7 @@ CUT|Invesco MSCI Global Timber ETF|P|CUT|Y|100|N|CUT
 CUZ|Cousins Properties Incorporated Common Stock|N|CUZ|N|100|N|CUZ
 CVA|Covanta Holding Corporation Common Stock|N|CVA|N|100|N|CVA
 CVE|Cenovus Energy Inc Common Stock|N|CVE|N|100|N|CVE
+CVE.W|Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)|N|CVE.WS|N|100|N|CVE+
 CVEO|Civeo Corporation (Canada) Common Shares|N|CVEO|N|100|N|CVEO
 CVI|CVR Energy Inc. Common Stock|N|CVI|N|100|N|CVI
 CVM|Cel-Sci Corporation Common Stock|A|CVM|N|100|N|CVM
@@ -3189,9 +3192,6 @@ MEXX|Direxion Daily MSCI Mexico Bull 3X Shares|P|MEXX|Y|100|N|MEXX
 MFA|MFA Financial, Inc.|N|MFA|N|100|N|MFA
 MFA$B|MFA Financial, Inc. Preferred Series B|N|MFApB|N|100|N|MFA-B
 MFA$C|MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|MFApC|N|100|N|MFA-C
-MFAC|Megalith Financial Acquisition Corp. Class A Common Stock|A|MFAC|N|100|N|MFAC
-MFAC.U|Megalith Financial Acquisition Corp. Units, each consisting of one share of Class A common stock, $0.0001 par value, and one redeemable warrant|A|MFAC.U|N|100|N|MFAC=
-MFAC.W|Megalith Financial Acquisition Corp. Warrants, each warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|A|MFAC.WS|N|100|N|MFAC+
 MFC|Manulife Financial Corporation Common Stock|N|MFC|N|100|N|MFC
 MFD|Macquarie First Trust Global Common Stock|N|MFD|N|100|N|MFD
 MFDX|PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor International Equity ETF|P|MFDX|Y|100|N|MFDX
@@ -3201,7 +3201,6 @@ MFGP|Micro Focus Intl PLC ADS each representing One Ord Sh|N|MFGP|N|100|N|MFGP
 MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest|N|MFL|N|100|N|MFL
 MFM|MFS Municipal Income Trust Common Stock|N|MFM|N|100|N|MFM
 MFMS|Motley Fool Small-Cap Growth ETF|Z|MFMS|Y|100|N|MFMS
-MFO|MFA Financial, Inc. 8.00% Senior Notes due 2042|N|MFO|N|100|N|MFO
 MFT|Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest|N|MFT|N|100|N|MFT
 MFUS|PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF|P|MFUS|Y|100|N|MFUS
 MFV|MFS Special Value Trust Common Stock|N|MFV|N|100|N|MFV
@@ -4732,6 +4731,7 @@ STNG|Scorpio Tankers Inc. Common Shares|N|STNG|N|100|N|STNG
 STON|StoneMor Inc. Common Stock|N|STON|N|100|N|STON
 STOR|STORE Capital Corporation Common Stock|N|STOR|N|100|N|STOR
 STOT|SPDR DoubleLine Short Duration Total Return Tactical ETF|Z|STOT|Y|100|N|STOT
+STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|STPC.U|N|100|N|STPC=
 STPK|Star Peak Energy Transition Corp. Class A Common Stock|N|STPK|N|100|N|STPK
 STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|STPK.U|N|100|N|STPK=
 STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|STPK.WS|N|100|N|STPK+
@@ -5577,4 +5577,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0105202115:41||||||
+File Creation Time: 0106202112:12||||||

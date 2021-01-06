@@ -491,6 +491,8 @@ BML$H,BML$H|Bank of America Corporation Bank of America Corporation Depositary S
 BML$J,BML$J|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)
 BML$L,BML$L|Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)
 BMO,BMO|Bank Of Montreal Common Stock
+BMTX,BMTX|BM Technologies, Inc. Common Stock
+BMTX.W,BMTX.W|BM Technologies, Inc. Warrants
 BMY,BMY|Bristol-Myers Squibb Company Common Stock
 BNED,BNED|Barnes & Noble Education, Inc Common Stock
 BNKD,BNKD|MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs
@@ -890,6 +892,7 @@ CURO,CURO|CURO Group Holdings Corp. Common Stock
 CUZ,CUZ|Cousins Properties Incorporated Common Stock
 CVA,CVA|Covanta Holding Corporation Common Stock
 CVE,CVE|Cenovus Energy Inc Common Stock
+CVE.W,CVE.W|Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)
 CVEO,CVEO|Civeo Corporation (Canada) Common Shares
 CVI,CVI|CVR Energy Inc. Common Stock
 CVM,CVM|Cel-Sci Corporation Common Stock
@@ -2102,16 +2105,12 @@ MET$F,MET$F|MetLife, Inc. Depositary Shares, each representing a 1/1,000th inter
 MFA,MFA|MFA Financial, Inc.
 MFA$B,MFA$B|MFA Financial, Inc. Preferred Series B
 MFA$C,MFA$C|MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
-MFAC,MFAC|Megalith Financial Acquisition Corp. Class A Common Stock
-MFAC.U,MFAC.U|Megalith Financial Acquisition Corp. Units, each consisting of one share of Class A common stock, $0.0001 par value, and one redeemable warrant
-MFAC.W,MFAC.W|Megalith Financial Acquisition Corp. Warrants, each warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 MFC,MFC|Manulife Financial Corporation Common Stock
 MFD,MFD|Macquarie First Trust Global Common Stock
 MFG,MFG|Mizuho Financial Group, Inc. Sponosred ADR (Japan)
 MFGP,MFGP|Micro Focus Intl PLC ADS each representing One Ord Sh
 MFL,MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest
 MFM,MFM|MFS Municipal Income Trust Common Stock
-MFO,MFO|MFA Financial, Inc. 8.00% Senior Notes due 2042
 MFT,MFT|Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest
 MFV,MFV|MFS Special Value Trust Common Stock
 MG,MG|Mistras Group Inc Common Stock
@@ -3144,6 +3143,7 @@ STN,STN|Stantec Inc Common Stock
 STNG,STNG|Scorpio Tankers Inc. Common Shares
 STON,STON|StoneMor Inc. Common Stock
 STOR,STOR|STORE Capital Corporation Common Stock
+STPC.U,STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
 STPK,STPK|Star Peak Energy Transition Corp. Class A Common Stock
 STPK.U,STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant
 STPK.W,STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
@@ -3795,6 +3795,7 @@ AIRTW,AIRTW|Air T, Inc. - Air T Funding Warrants to Purchase Trust Preferred
 AKAM,AKAM|Akamai Technologies, Inc. - Common Stock
 AKBA,AKBA|Akebia Therapeutics, Inc. - Common Stock
 AKER,AKER|Akers Biosciences Inc. - Common Stock
+AKICU,AKICU|Sports Ventures Acquisition Corp. - Unit
 AKRO,AKRO|Akero Therapeutics, Inc. - Common Stock
 AKTS,AKTS|Akoustis Technologies, Inc. - Common Stock
 AKTX,AKTX|Akari Therapeutics Plc - American Depositary Shares
@@ -5403,6 +5404,7 @@ JUPWW,JUPWW|Jupiter Wellness, Inc. - Warrant
 JVA,JVA|Coffee Holding Co., Inc. - Common Stock
 JYAC,JYAC|Jiya Acquisition Corp. - Class A Common Stock
 JYNT,JYNT|The Joint Corp. - Common Stock
+KAIRU,KAIRU|Kairos Acquisition Corp. - Unit
 KALA,KALA|Kala Pharmaceuticals, Inc. - Common Stock
 KALU,KALU|Kaiser Aluminum Corporation - Common Stock
 KALV,KALV|KalVista Pharmaceuticals, Inc. - Common Stock
@@ -6206,6 +6208,7 @@ PPBI,PPBI|Pacific Premier Bancorp Inc - Common Stock
 PPBT,PPBT|Purple Biotech Ltd. - American Depositary Shares
 PPC,PPC|Pilgrim's Pride Corporation - Common Stock
 PPD,PPD|PPD, Inc. - Common Stock
+PPGHU,PPGHU|Poema Global Holdings Corp. - Unit
 PPIH,PPIH|Perma-Pipe International Holdings, Inc. - Common Stock
 PPSI,PPSI|Pioneer Power Solutions, Inc. - Common Stock
 PRAA,PRAA|PRA Group, Inc. - Common Stock
