@@ -73,6 +73,7 @@ AFI,AFI|Armstrong Flooring, Inc. Common Stock
 AFL,AFL|AFLAC Incorporated Common Stock
 AFT,AFT|Apollo Senior Floating Rate Fund Inc. Common Stock
 AG,AG|First Majestic Silver Corp. Ordinary Shares (Canada)
+AGCB,AGCB|Altimeter Growth Corp. 2 Class A Ordinary Shares
 AGCO,AGCO|AGCO Corporation Common Stock
 AGD,AGD|Aberdeen Global Dynamic Dividend Fund
 AGE,AGE|AgeX Therapeutics, Inc. Common Stock
@@ -1824,6 +1825,7 @@ ITRG,ITRG|Integra Resources Corp. Common Shares
 ITT,ITT|ITT Inc. Common Stock 
 ITUB,ITUB|Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
 ITW,ITW|Illinois Tool Works Inc. Common Stock
+IVAN.U,IVAN.U|Ivanhoe Capital Acquisition Corp. Unit, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 IVC,IVC|Invacare Corporation Common Stock
 IVH,IVH|Ivy High Income Opportunities Fund Common Shares of Beneficial Interest
 IVR,IVR|INVESCO MORTGAGE CAPITAL INC Common Stock
@@ -2023,7 +2025,9 @@ LMND,LMND|Lemonade, Inc. Common Stock
 LMT,LMT|Lockheed Martin Corporation Common Stock
 LNC,LNC|Lincoln National Corporation Common Stock
 LND,LND|Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
+LNFA,LNFA|L&amp;F Acquisition Corp. Class A Ordinary Shares
 LNFA.U,LNFA.U|L&amp;F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
+LNFA.W,LNFA.W|L&amp;F Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 LNG,LNG|Cheniere Energy, Inc. Common Stock
 LNN,LNN|Lindsay Corporation Common Stock
 LODE,LODE|Comstock Mining, Inc. Common Stock
@@ -2645,7 +2649,9 @@ PIM,PIM|Putnam Master Intermediate Income Trust Common Stock
 PINE,PINE|Alpine Income Property Trust, Inc. Common Stock
 PING,PING|Ping Identity Holding Corp. Common Stock
 PINS,PINS|Pinterest, Inc. Class A Common Stock
+PIPP,PIPP|Pine Island Acquisition Corp. Class A Common Stock
 PIPP.U,PIPP.U|Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+PIPP.W,PIPP.W|Pine Island Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 PIPR,PIPR|Piper Sandler Companies Common Stock
 PJT,PJT|PJT Partners Inc. Class A Common Stock
 PK,PK|Park Hotels & Resorts Inc. Common Stock 
@@ -3251,7 +3257,6 @@ THQ,THQ|Tekla Healthcare Opportunies Fund Shares of Beneficial Interest
 THR,THR|Thermon Group Holdings, Inc. Common Stock
 THS,THS|Treehouse Foods, Inc. Common Stock
 THW,THW|Tekla World Healthcare Fund Shares of Beneficial Interest
-TIF,TIF|Tiffany & Co. Common Stock
 TIMB,TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
 TINV.U,TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant
 TISI,TISI|Team, Inc. Common Stock
@@ -3503,7 +3508,6 @@ VTOL,VTOL|Bristow Group, Inc. Common Stock
 VTR,VTR|Ventas, Inc. Common Stock
 VVI,VVI|Viad Corp Common Stock
 VVNT,VVNT|Vivint Smart Home, Inc. 
-VVNT.W,VVNT.W|Vivint Smart Home, Inc. Warrants
 VVR,VVR|Invesco Senior Income Trust Common Stock (DE)
 VVV,VVV|Valvoline Inc. Common Stock
 VXX,VXX|iPath Series B S&P 500 VIX Short-Term Futures ETN
@@ -3579,7 +3583,6 @@ WPG$H,WPG$H|Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Pref
 WPG$I,WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred SBI
 WPM,WPM|Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP|WPP plc American Depositary Shares
-WPX,WPX|WPX Energy, Inc. Common Stock
 WRB,WRB|W.R. Berkley Corporation Common Stock
 WRB$C,WRB$C|W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056
 WRB$D,WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056
@@ -4116,6 +4119,7 @@ BLNKW,BLNKW|Blink Charging Co. - Warrant
 BLPH,BLPH|Bellerophon Therapeutics, Inc. - Common Stock
 BLRX,BLRX|BioLineRx Ltd. - American Depositary Shares
 BLSA,BLSA|BCLS Acquisition Corp. - Class A Ordinary Shares
+BLTSU,BLTSU|Bright Lights Acquisition Corp. - Unit
 BLU,BLU|BELLUS Health Inc. - Common Shares
 BLUE,BLUE|bluebird bio, Inc. - Common Stock
 BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
@@ -4998,7 +5002,6 @@ GIII,GIII|G-III Apparel Group, LTD. - Common Stock
 GILD,GILD|Gilead Sciences, Inc. - Common Stock
 GILT,GILT|Gilat Satellite Networks Ltd. - Ordinary Shares
 GLAD,GLAD|Gladstone Capital Corporation - Common Stock
-GLADD,GLADD|Gladstone Capital Corporation - 6.125% Notes due 2023
 GLADL,GLADL|Gladstone Capital Corporation - 5.375% Notes due 2024
 GLAQU,GLAQU|Globis Acquisition Corp. - Unit
 GLBS,GLBS|Globus Maritime Limited - Common Stock
@@ -5313,6 +5316,7 @@ INDT,INDT|INDUS Realty Trust, Inc. - Common Stock
 INFI,INFI|Infinity Pharmaceuticals, Inc. - Common Stock
 INFN,INFN|Infinera Corporation - Common Stock
 INGN,INGN|Inogen, Inc - Common Stock
+INKAU,INKAU|KludeIn I Acquisition Corp. - Unit
 INM,INM|InMed Pharmaceuticals Inc. - Common Shares
 INMB,INMB|INmune Bio Inc. - Common stock
 INMD,INMD|InMode Ltd.  - Ordinary Shares
@@ -5737,6 +5741,7 @@ MNSB,MNSB|MainStreet Bancshares, Inc. - Common Stock
 MNSBP,MNSBP|MainStreet Bancshares, Inc. - Depositary Shares
 MNST,MNST|Monster Beverage Corporation - Common Stock
 MNTX,MNTX|Manitex International, Inc. - common stock
+MODV,MODV|ModivCare Inc. - Common Stock
 MOFG,MOFG|MidWestOne Financial Group, Inc. - Common Stock
 MOGO,MOGO|Mogo Inc. - Common Shares
 MOHO,MOHO|ECMOHO Limited - American Depositary Shares
@@ -5997,6 +6002,7 @@ OLMA,OLMA|Olema Pharmaceuticals, Inc. - Common Stock
 OM,OM|Outset Medical, Inc. - Common Stock
 OMAB,OMAB|Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares
 OMCL,OMCL|Omnicell, Inc. - Common Stock
+OMEG,OMEG|Omega Alpha SPAC - Class A Ordinary Shares
 OMER,OMER|Omeros Corporation - Common Stock
 OMEX,OMEX|Odyssey Marine Exploration, Inc. - Common Stock
 OMP,OMP|Oasis Midstream Partners LP - Common Units, Representing Limited Partner Interests
@@ -6230,7 +6236,6 @@ PRPH,PRPH|ProPhase Labs, Inc. - Common Stock
 PRPL,PRPL|Purple Innovation, Inc. - Common Stock
 PRPO,PRPO|Precipio, Inc. - Common Stock
 PRQR,PRQR|ProQR Therapeutics N.V. - Ordinary Shares
-PRSC,PRSC|The Providence Service Corporation - Common Stock
 PRTA,PRTA|Prothena Corporation plc - Ordinary Shares
 PRTC,PRTC|PureTech Health plc - American Depositary Shares
 PRTH,PRTH|Priority Technology Holdings, Inc. - Common Stock
@@ -6969,6 +6974,7 @@ VBLT,VBLT|Vascular Biogenics Ltd. - Ordinary Shares
 VBTX,VBTX|Veritex Holdings, Inc. - Common Stock
 VC,VC|Visteon Corporation - Common Stock
 VCEL,VCEL|Vericel Corporation - Common Stock
+VCKAU,VCKAU|Vickers Vantage Corp. I - Unit
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
 VCVCU,VCVCU|10X Capital Venture Acquisition Corp - Unit
@@ -7049,6 +7055,7 @@ VSTA,VSTA|Vasta Platform Limited - Class A Ordinary Shares
 VSTM,VSTM|Verastem, Inc. - Common Stock
 VTAQU,VTAQU|Ventoux CCM Acquisition Corp. - Unit
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
+VTIQU,VTIQU|VectoIQ Acquisition Corp. II - Unit
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
 VTRS,VTRS|Viatris Inc. - Common Stock
 VTRU,VTRU|Vitru Limited - Common Shares
@@ -7195,7 +7202,9 @@ ZKIN,ZKIN|ZK International Group Co., Ltd - Ordinary Share
 ZLAB,ZLAB|Zai Lab Limited - American Depositary Shares
 ZM,ZM|Zoom Video Communications, Inc. - Class A Common Stock
 ZNGA,ZNGA|Zynga Inc. - Class A Common Stock
+ZNTE,ZNTE|Zanite Acquisition Corp. - Class A Common Stock
 ZNTEU,ZNTEU|Zanite Acquisition Corp. - Unit
+ZNTEW,ZNTEW|Zanite Acquisition Corp. - Warrant
 ZNTL,ZNTL|Zentalis Pharmaceuticals, Inc. - common stock
 ZS,ZS|Zscaler, Inc. - Common Stock
 ZSAN,ZSAN|Zosano Pharma Corporation - Common Stock
