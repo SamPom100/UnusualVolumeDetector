@@ -676,17 +676,17 @@ CFR$B,CFR$B|Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/
 CFX,CFX|Colfax Corporation Common Stock
 CFXA,CFXA|Colfax Corporation 5.75% Tangible Equity Units
 CGA,CGA|China Green Agriculture, Inc. Common Stock
-CHA,CHA|China Telecom Corp Ltd ADS
 CHAQ,CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock
 CHAQ.U,CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock
 CHAQ.W,CHAQ.W|Chardan Healthcare Acquisition 2 Corp. Warrants, entitling the holder thereof to purchase one-half (1/2) of a share of common stock at a price of $11.50 per whole share
 CHCT,CHCT|Community Healthcare Trust Incorporated Common Stock
 CHD,CHD|Church & Dwight Company, Inc. Common Stock
 CHE,CHE|Chemed Corp
+CHFW,CHFW|Consonance-HFW Acquisition Corp. Class A Ordinary Shares
 CHFW.U,CHFW.U|Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant to acquire one Class A Ordinary Share
+CHFW.W,CHFW.W|Consonance-HFW Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
 CHGG,CHGG|Chegg, Inc. Common Stock
 CHH,CHH|Choice Hotels International, Inc. Common Stock
-CHL,CHL|China Mobile Limited Common Stock
 CHMI,CHMI|Cherry Hill Mortgage Investment Corporation Common Stock
 CHMI$A,CHMI$A|Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock
 CHMI$B,CHMI$B|Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
@@ -694,7 +694,6 @@ CHN,CHN|China Fund, Inc. (The) Common Stock
 CHRA,CHRA|Charah Solutions, Inc. Common Stock
 CHS,CHS|Chico's FAS, Inc. Common Stock
 CHT,CHT|Chunghwa Telecom Co., Ltd.
-CHU,CHU|China Unicom (Hong Kong) Ltd Common Stock
 CHWY,CHWY|Chewy, Inc. Class A Common Stock
 CI,CI|Cigna Corporation Common Stock
 CIA,CIA|Citizens, Inc. Class A Common Stock ($1.00 Par)
@@ -1756,7 +1755,9 @@ IHG,IHG|Intercontinental Hotels Group American Depositary Shares (Each represent
 IHIT,IHIT|Invesco High Income 2023 Target Term Fund Common Shares of Beneficial Interest
 IHT,IHT|InnSuites Hospitality Trust Shares of Beneficial Interest
 IHTA,IHTA|Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share
+IIAC,IIAC|Investindustrial Acquisition Corp. Class A Ordinary Shares
 IIAC.U,IIAC.U|Investindustrial Acquisition Corp. Unit
+IIAC.W,IIAC.W|Investindustrial Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 IID,IID|Voya International High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IIF,IIF|Morgan Stanley India Investment Fund, Inc. Common Stock
 IIM,IIM|Invesco Value Municipal Income Trust Common Stock
@@ -2906,7 +2907,9 @@ RSI.W,RSI.W|Rush Street Interactive, Inc. Warrants
 RTP,RTP|Reinvent Technology Partners Class A Ordinary Shares
 RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 RTP.W,RTP.W|Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+RTPZ,RTPZ|Reinvent Technology Partners Z Class A Ordinary Shares
 RTPZ.U,RTPZ.U|Reinvent Technology Partners Z Unit
+RTPZ.W,RTPZ.W|Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 RTX,RTX|Raytheon Technologies Corporation Common Stock
 RVI,RVI|Retail Value Inc. Common Stock 
 RVLV,RVLV|Revolve Group, Inc. Class A Common Stock
@@ -3293,7 +3296,7 @@ TPGY.U,TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Cl
 TPGY.W,TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 TPH,TPH|TRI Pointe Group, Inc. Common Stock
 TPHS,TPHS|Trinity Place Holdings Inc. Common Stock
-TPL,TPL|Texas Pacific Land Trust Common Stock
+TPL,TPL|Texas Pacific Land Corporation Common Stock
 TPR,TPR|Tapestry, Inc. Common Stock
 TPRE,TPRE|Third Point Reinsurance Ltd. Common Shares
 TPVG,TPVG|TriplePoint Venture Growth BDC Corp. Common Stock
@@ -3922,7 +3925,9 @@ AQMS,AQMS|Aqua Metals, Inc. - Common Stock
 AQST,AQST|Aquestive Therapeutics, Inc. - Common Stock
 ARAV,ARAV|Aravive, Inc. - Common Stock
 ARAY,ARAY|Accuray Incorporated - Common Stock
+ARBG,ARBG|Aequi Acquisition Corp. - common stock
 ARBGU,ARBGU|Aequi Acquisition Corp. - Unit
+ARBGW,ARBGW|Aequi Acquisition Corp. - warrants
 ARCB,ARCB|ArcBest Corporation - Common Stock
 ARCC,ARCC|Ares Capital Corporation - Closed End Fund
 ARCE,ARCE|Arco Platform Limited - Class A Common Shares
@@ -5661,7 +5666,7 @@ MBWM,MBWM|Mercantile Bank Corporation - Common Stock
 MCAC,MCAC|Mountain Crest Acquisition Corp. - Common Stock
 MCACR,MCACR|Mountain Crest Acquisition Corp. - Right
 MCACU,MCACU|Mountain Crest Acquisition Corp. - Unit
-MCADU,MCADU|Mountain Crest Acquisition Corp. II - Units each consisting of one share of Common Stock, $0.0001 par value andone Right to acquire 1/10 of one share of Common Stock. 
+MCADU,MCADU|Mountain Crest Acquisition Corp. II - Units each consisting of one share of Common Stock, $0.0001 par value andone Right to acquire 1/10 of one share of Common Stock.
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
 MCEP,MCEP|Mid-Con Energy Partners, LP - Common Units
@@ -7018,9 +7023,9 @@ VIH,VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares
 VIHAU,VIHAU|VPC Impact Acquisition Holdings - Unit
 VIHAW,VIHAW|VPC Impact Acquisition Holdings - Warrant
 VIIAU,VIIAU|7GC & Co. Holdings Inc. - Unit
-VINC,VINC|Vincera Pharma, Inc.  - Common Stock
-VINCU,VINCU|Vincera Pharma, Inc.  - Unit
-VINCW,VINCW|Vincera Pharma, Inc.  - Warrant
+VINC,VINC|Vincerx Pharma, Inc. - Common Stock
+VINCU,VINCU|Vincerx Pharma, Inc. - Unit
+VINCW,VINCW|Vincerx Pharma, Inc. - Warrant
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
 VIRC,VIRC|Virco Manufacturing Corporation - Common Stock
