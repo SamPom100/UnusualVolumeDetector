@@ -43,6 +43,7 @@ ACV,ACV|AllianzGI Diversified Income & Convertible Fund Common Shares of Benefic
 ACY,ACY|AeroCentury Corp. Common Stock
 ADC,ADC|Agree Realty Corporation Common Stock
 ADCT,ADCT|ADC Therapeutics SA Common Shares
+ADEX.U,ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant
 ADM,ADM|Archer-Daniels-Midland Company Common Stock
 ADNT,ADNT|Adient plc Ordinary Shares 
 ADS,ADS|Alliance Data Systems Corporation Common Stock
@@ -1969,6 +1970,7 @@ KTB,KTB|Kontoor Brands, Inc. Common Stock
 KTF,KTF|DWS Municipal Income Trust
 KTH,KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN,KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
+KUKE,KUKE|Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share
 KW,KW|Kennedy-Wilson Holdings Inc. Common Stock
 KWAC.U,KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant
 KWR,KWR|Quaker Chemical Corporation Common Stock
@@ -2488,7 +2490,9 @@ OAK$A,OAK$A|Oaktree Capital Group, LLC 6.625% Series A Preferred units
 OAK$B,OAK$B|Oaktree Capital Group, LLC 6.550% Series B Preferred Units
 OBLG,OBLG|Oblong Inc. Common Stock
 OC,OC|Owens Corning Inc Common Stock New
+OCA,OCA|Omnichannel Acquisition Corp. Class A Common Stock
 OCA.U,OCA.U|Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
+OCA.W,OCA.W|Omnichannel Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 OCFT,OCFT|OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing three ordinary shares
 OCN,OCN|Ocwen Financial Corporation NEW Common Stock
 OCX,OCX|OncoCyte Corporation Common Stock
@@ -2823,7 +2827,6 @@ RELX,RELX|RELX PLC PLC American Depositary Shares (Each representing One Ordinar
 REML,REML|Credit Suisse AG Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT Exchange Traded Notes (ETNs) due July 11, 2036
 RENN,RENN|Renren Inc. American Depositary Shares, each representing fifteen Class A ordinary shares
 RES,RES|RPC, Inc. Common Stock
-RESI,RESI|Front Yard Residential Corporation Common Stock
 REV,REV|Revlon, Inc. New Common Stock
 REVG,REVG|REV Group, Inc. Common Stock
 REX,REX|REX American Resources Corporation
@@ -4063,6 +4066,7 @@ BCPC,BCPC|Balchem Corporation - Common Stock
 BCRX,BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock
 BCTG,BCTG|BCTG Acquisition Corp. - Common Stock
 BCYC,BCYC|Bicycle Therapeutics plc - American Depositary Shares
+BCYPU,BCYPU|Big Cypress Acquisition Corp. - Unit
 BDGE,BDGE|Bridge Bancorp, Inc. - Common Stock
 BDSI,BDSI|BioDelivery Sciences International, Inc. - Common Stock
 BDSX,BDSX|Biodesix, Inc. - Common Stock
@@ -4707,6 +4711,7 @@ EMCF,EMCF|Emclaire Financial Corp - Common Stock
 EMKR,EMKR|EMCORE Corporation - Common Stock
 EML,EML|Eastern Company (The) - Common Stock
 ENDP,ENDP|Endo International plc - Ordinary Shares
+ENFAU,ENFAU|890 5th Avenue Partners, Inc. - Unit
 ENG,ENG|ENGlobal Corporation - Common Stock
 ENLV,ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares
 ENOB,ENOB|Enochian Biosciences, Inc. - Common Stock
@@ -5063,6 +5068,7 @@ GOSS,GOSS|Gossamer Bio, Inc. - Common Stock
 GOVX,GOVX|GeoVax Labs, Inc. - Common Stock
 GOVXW,GOVXW|GeoVax Labs, Inc. - Warrants
 GP,GP|GreenPower Motor Company Inc. - Common Shares
+GPACU,GPACU|Global Partner Acquisition Corp II - Unit
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
@@ -5529,6 +5535,8 @@ LEGN,LEGN|Legend Biotech Corporation - American Depositary Shares
 LESL,LESL|Leslie's, Inc. - Common Stock
 LEVL,LEVL|Level One Bancorp, Inc. - Common Stock
 LEVLP,LEVLP|Level One Bancorp, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B
+LEXX,LEXX|Lexaria Bioscience Corp. - Common Stock
+LEXXW,LEXXW|Lexaria Bioscience Corp. - Warrant
 LFTR,LFTR|Lefteris Acquisition Corp. - Class A Common Stock
 LFTRU,LFTRU|Lefteris Acquisition Corp. - Unit
 LFTRW,LFTRW|Lefteris Acquisition Corp. - Warrant
@@ -6319,6 +6327,7 @@ QH,QH|Quhuo Limited - American Depository Shares
 QIWI,QIWI|QIWI plc - American Depositary Shares
 QK,QK|Q&K International Group Limited - American Depositary Shares
 QLGN,QLGN|Qualigen Therapeutics, Inc. - Common Stock
+QLI,QLI|Qilian International Holding Group Ltd. - Ordinary Shares
 QLYS,QLYS|Qualys, Inc. - Common Stock
 QMCO,QMCO|Quantum Corporation - Common Stock
 QNST,QNST|QuinStreet, Inc. - Common Stock
@@ -6745,6 +6754,7 @@ SVSVW,SVSVW|Spring Valley Acquisition Corp. - Warrant
 SVVC,SVVC|Firsthand Technology Value Fund, Inc. - Common Stock
 SWAV,SWAV|ShockWave Medical, Inc. - Common Stock
 SWBI,SWBI|Smith & Wesson Brands, Inc. - Common Stock
+SWETU,SWETU|Athlon Acquisition Corp. - Unit
 SWIR,SWIR|Sierra Wireless, Inc. - Common Stock
 SWKH,SWKH|SWK Holdings Corporation - Common Stock
 SWKS,SWKS|Skyworks Solutions, Inc. - Common Stock
@@ -7001,7 +7011,9 @@ VCEL,VCEL|Vericel Corporation - Common Stock
 VCKAU,VCKAU|Vickers Vantage Corp. I - Unit
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
+VCVC,VCVC|10X Capital Venture Acquisition Corp - Common Stock
 VCVCU,VCVCU|10X Capital Venture Acquisition Corp - Unit
+VCVCW,VCVCW|10X Capital Venture Acquisition Corp - Warrant
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
 VEON,VEON|VEON Ltd. - American Depositary Shares
