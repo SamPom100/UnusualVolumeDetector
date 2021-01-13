@@ -1186,6 +1186,7 @@ EQD.U,EQD.U|Equity Distribution Acquisition Corp. Units
 EQD.W,EQD.W|Equity Distribution Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 EQH,EQH|Equitable Holdings, Inc. Common Stock
 EQH$A,EQH$A|Equitable Holdings, Inc. Depositary Shares
+EQH$C,EQH$C|Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C
 EQNR,EQNR|Equinor ASA
 EQR,EQR|Equity Residential Common Shares of Beneficial Interest
 EQS,EQS|Equus Total Return, Inc. Common Stock
@@ -1269,6 +1270,7 @@ FBM,FBM|Foundation Building Materials, Inc. Common Stock
 FBP,FBP|First BanCorp. New Common Stock
 FC,FC|Franklin Covey Company Common Stock
 FCAU,FCAU|Fiat Chrysler Automobiles N.V. Common Shares
+FCAX.U,FCAX.U|Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 FCF,FCF|First Commonwealth Financial Corporation Common Stock
 FCN,FCN|FTI Consulting, Inc. Common Stock
 FCO,FCO|Aberdeen Global Income Fund, Inc. Common Stock
@@ -1679,7 +1681,6 @@ HRI,HRI|Herc Holdings Inc. Common Stock
 HRL,HRL|Hormel Foods Corporation Common Stock
 HRTG,HRTG|Heritage Insurance Holdings, Inc. Common Stock
 HSBC,HSBC|HSBC Holdings, plc. Common Stock
-HSBC$A,HSBC$A|HSBC Holdings, plc. ADR SER A REP 1/40 PFD SER A
 HSC,HSC|Harsco Corporation Common Stock
 HSY,HSY|The Hershey Company Common Stock
 HT,HT|Hersha Hospitality Trust Class A Common Shares of Beneficial Interest
@@ -2326,6 +2327,7 @@ NG,NG|Novagold Resources Inc.
 NGA,NGA|Northern Genesis Acquisition Corp. Common Stock
 NGA.U,NGA.U|Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant
 NGA.W,NGA.W|Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of common stock at an exercise price of $11.50 per share
+NGAB.U,NGAB.U|Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-third of one redeemable warrant
 NGD,NGD|New Gold Inc.
 NGG,NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
 NGL,NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
@@ -2602,7 +2604,6 @@ PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDS,PDS|Precision Drilling Corporation Common Stock
 PDT,PDT|John Hancock Premium Dividend Fund
-PE,PE|Parsley Energy, Inc. Class A Common Stock
 PEAK,PEAK|Healthpeak Properties, Inc. Common Stock
 PEB,PEB|Pebblebrook Hotel Trust Common Shares of Beneficial Interest
 PEB$C,PEB$C|Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
@@ -2695,6 +2696,7 @@ PNF,PNF|PIMCO New York Municipal Income Fund Common Stock
 PNI,PNI|Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNM,PNM|PNM Resources, Inc. (Holding Co.) Common Stock
 PNR,PNR|Pentair plc. Ordinary Share
+PNTM.U,PNTM.U|Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
 PNW,PNW|Pinnacle West Capital Corporation Common Stock
 POR,POR|Portland General Electric Co Common Stock
 POST,POST|Post Holdings, Inc. Common Stock
@@ -3767,6 +3769,7 @@ AFIN,AFIN|American Finance Trust, Inc. - Class A Common Stock
 AFINO,AFINO|American Finance Trust, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock
 AFINP,AFINP|American Finance Trust, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock
 AFMD,AFMD|Affimed N.V. - Common Stock
+AFRM,AFRM|Affirm Holdings, Inc. - Class A Common Stock
 AFYA,AFYA|Afya Limited - Class A Common Shares
 AGBA,AGBA|AGBA Acquisition Limited - Ordinary Share
 AGBAR,AGBAR|AGBA Acquisition Limited - Right
@@ -4201,6 +4204,8 @@ BTAQ,BTAQ|Burgundy Technology Acquisition Corporation - Class A Ordinary Shares
 BTAQU,BTAQU|Burgundy Technology Acquisition Corporation - Unit
 BTAQW,BTAQW|Burgundy Technology Acquisition Corporation - Warrant
 BTBT,BTBT|Bit Digital, Inc. - Ordinary Share
+BTRS,BTRS|BTRS Holdings Inc. - Class 1 Common Stock
+BTRSW,BTRSW|BTRS Holdings Inc. - Warrants
 BTWN,BTWN|Bridgetown Holdings Limited - Class A Ordinary Shares
 BTWNU,BTWNU|Bridgetown Holdings Limited - Units
 BTWNW,BTWNW|Bridgetown Holdings Limited - Warrants
@@ -4620,6 +4625,7 @@ DISCK,DISCK|Discovery, Inc. - Series C Common Stock
 DISH,DISH|DISH Network Corporation - Class A Common Stock
 DJCO,DJCO|Daily Journal Corp. (S.C.) - Common Stock
 DKNG,DKNG|DraftKings Inc. - Class A Common Stock
+DLCAU,DLCAU|Deep Lake Capital Acquisition Corp. - Unit
 DLHC,DLHC|DLH Holdings Corp. - Common Stock
 DLPN,DLPN|Dolphin Entertainment, Inc. - Common Stock
 DLTH,DLTH|Duluth Holdings Inc. - Class B Common Stock
@@ -4860,6 +4866,7 @@ FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
 FIII,FIII|Forum Merger III Corporation - Class A Common Stock
 FIIIU,FIIIU|Forum Merger III Corporation - Units
 FIIIW,FIIIW|Forum Merger III Corporation - Warrant
+FINMU,FINMU|Marlin Technology Corporation - Unit
 FISI,FISI|Financial Institutions, Inc. - Common Stock
 FISV,FISV|Fiserv, Inc. - Common Stock
 FITB,FITB|Fifth Third Bancorp - Common Stock
@@ -4979,6 +4986,7 @@ GBDC,GBDC|Golub Capital BDC, Inc. - Common Stock
 GBIO,GBIO|Generation Bio Co. - Common stock
 GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
 GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
+GBNY,GBNY|Generations Bancorp NY, Inc. - Common Stock
 GBS,GBS|GBS Inc. - Common Stock
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCBC,GCBC|Greene County Bancorp, Inc. - Common Stock
@@ -5175,6 +5183,7 @@ HIHO,HIHO|Highway Holdings Limited - Common Stock
 HIMX,HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.
 HJLI,HJLI|Hancock Jaffe Laboratories, Inc. - Common Stock
 HJLIW,HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants
+HLAHU,HLAHU|Hamilton Lane Alliance Holdings I, Inc. - Unit
 HLG,HLG|Hailiang Education Group Inc. - American Depositary Shares
 HLIO,HLIO|Helios Technologies, Inc. - Common Stock
 HLIT,HLIT|Harmonic Inc. - Common Stock
@@ -5804,6 +5813,7 @@ MRVL,MRVL|Marvell Technology Group Ltd. - Common Stock
 MSBI,MSBI|Midland States Bancorp, Inc. - Common Stock
 MSEX,MSEX|Middlesex Water Company - Common Stock
 MSFT,MSFT|Microsoft Corporation - Common Stock
+MSGM,MSGM|Motorsport Games Inc. - Class A Common Stock
 MSON,MSON|MISONIX, Inc. - Common Stock
 MSTR,MSTR|MicroStrategy Incorporated - Class A Common Stock
 MSVB,MSVB|Mid-Southern Bancorp, Inc. - Common Stock
@@ -6612,9 +6622,6 @@ SMCI,SMCI|Super Micro Computer, Inc. - Common Stock
 SMED,SMED|Sharps Compliance Corp. - Common Stock
 SMID,SMID|Smith-Midland Corporation - Common Stock
 SMIT,SMIT|Schmitt Industries, Inc. - Common Stock
-SMMC,SMMC|South Mountain Merger Corp. - Class A Common Stock
-SMMCU,SMMCU|South Mountain Merger Corp. - Unit
-SMMCW,SMMCW|South Mountain Merger Corp. - Warrants
 SMMF,SMMF|Summit Financial Group, Inc. - Common Stock
 SMMT,SMMT|Summit Therapeutics Inc.  - Common Stock
 SMPL,SMPL|The Simply Good Foods Company - Common Stock

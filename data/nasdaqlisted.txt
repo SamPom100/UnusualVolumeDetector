@@ -99,6 +99,7 @@ AFIN|American Finance Trust, Inc. - Class A Common Stock|Q|N|N|100|N|N
 AFINO|American Finance Trust, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 AFINP|American Finance Trust, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock|Q|N|N|100|N|N
 AFMD|Affimed N.V. - Common Stock|G|N|N|100|N|N
+AFRM|Affirm Holdings, Inc. - Class A Common Stock|Q|N|N|100|N|N
 AFYA|Afya Limited - Class A Common Shares|Q|N|N|100|N|N
 AGBA|AGBA Acquisition Limited - Ordinary Share|S|N|N|100|N|N
 AGBAR|AGBA Acquisition Limited - Right|S|N|N|100|N|N
@@ -148,9 +149,9 @@ AKTX|Akari Therapeutics Plc - American Depositary Shares|S|N|N|100|N|N
 AKU|Akumin Inc. - Common Shares|S|N|N|100|N|N
 AKUS|Akouos, Inc. - Common Stock|Q|N|N|100|N|N
 ALAC|Alberton Acquisition Corporation - Ordinary Shares|S|N|D|100|N|N
-ALACR|Alberton Acquisition Corporation - Rights|S|N|N|100|N|N
-ALACU|Alberton Acquisition Corporation - Unit|S|N|N|100|N|N
-ALACW|Alberton Acquisition Corporation - Warrant|S|N|N|100|N|N
+ALACR|Alberton Acquisition Corporation - Rights|S|N|D|100|N|N
+ALACU|Alberton Acquisition Corporation - Unit|S|N|D|100|N|N
+ALACW|Alberton Acquisition Corporation - Warrant|S|N|D|100|N|N
 ALBO|Albireo Pharma, Inc. - Common Stock|S|N|N|100|N|N
 ALCO|Alico, Inc. - Common Stock|Q|N|N|100|N|N
 ALDX|Aldeyra Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -187,9 +188,9 @@ AMAL|Amalgamated Bank - Class A Common Stock|G|N|N|100|N|N
 AMAT|Applied Materials, Inc. - Common Stock|Q|N|N|100|N|N
 AMBA|Ambarella, Inc. - Ordinary Shares|Q|N|N|100|N|N
 AMCA|iShares Russell 1000 Pure U.S. Revenue ETF|G|N|N|100|Y|N
-AMCI|AMCI Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
-AMCIU|AMCI Acquisition Corp. - Unit|S|N|N|100|N|N
-AMCIW|AMCI Acquisition Corp. - Warrant|S|N|N|100|N|N
+AMCI|AMCI Acquisition Corp. - Class A Common Stock|S|N|D|100|N|N
+AMCIU|AMCI Acquisition Corp. - Unit|S|N|D|100|N|N
+AMCIW|AMCI Acquisition Corp. - Warrant|S|N|D|100|N|N
 AMCX|AMC Networks Inc. - Class A Common Stock|Q|N|N|100|N|N
 AMD|Advanced Micro Devices, Inc. - Common Stock|Q|N|N|100|N|N
 AMED|Amedisys Inc - Common Stock|Q|N|N|100|N|N
@@ -220,10 +221,10 @@ AMZN|Amazon.com, Inc. - Common Stock|Q|N|N|100|N|N
 ANAB|AnaptysBio, Inc. - Common Stock|Q|N|N|100|N|N
 ANAT|American National Group, Inc. - Common Stock|Q|N|N|100|N|N
 ANCN|Anchiano Therapeutics Ltd. - American Depositary Shares|S|N|N|100|N|N
-ANDA|Andina Acquisition Corp. III - Ordinary Shares|S|N|N|100|N|N
-ANDAR|Andina Acquisition Corp. III - Right|S|N|N|100|N|N
-ANDAU|Andina Acquisition Corp. III - Unit|S|N|N|100|N|N
-ANDAW|Andina Acquisition Corp. III - Warrant|S|N|N|100|N|N
+ANDA|Andina Acquisition Corp. III - Ordinary Shares|S|N|D|100|N|N
+ANDAR|Andina Acquisition Corp. III - Right|S|N|D|100|N|N
+ANDAU|Andina Acquisition Corp. III - Unit|S|N|D|100|N|N
+ANDAW|Andina Acquisition Corp. III - Warrant|S|N|D|100|N|N
 ANDE|The Andersons, Inc. - Common Stock|Q|N|N|100|N|N
 ANGI|ANGI Homeservices Inc. - Class A Common Stock|Q|N|N|100|N|N
 ANGL|VanEck Vectors Fallen Angel High Yield Bond ETF|G|N|N|100|Y|N
@@ -321,8 +322,8 @@ ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
 ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|D|100|N|N
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100|N|N
 ATLO|Ames National Corporation - Common Stock|S|N|N|100|N|N
-ATNF|180 Life Sciences Corp. - Common Stock|S|N|N|100|N|N
-ATNFW|180 Life Sciences Corp. - Warrant|S|N|N|100|N|N
+ATNF|180 Life Sciences Corp. - Common Stock|S|N|D|100|N|N
+ATNFW|180 Life Sciences Corp. - Warrant|S|N|D|100|N|N
 ATNI|ATN International, Inc. - Common Stock|Q|N|N|100|N|N
 ATNX|Athenex, Inc. - Common Stock|Q|N|N|100|N|N
 ATOM|Atomera Incorporated - Common Stock|S|N|N|100|N|N
@@ -586,6 +587,8 @@ BTAQU|Burgundy Technology Acquisition Corporation - Unit|S|N|N|100|N|N
 BTAQW|Burgundy Technology Acquisition Corporation - Warrant|S|N|N|100|N|N
 BTBT|Bit Digital, Inc. - Ordinary Share|S|N|N|100|N|N
 BTEC|Principal Healthcare Innovators Index ETF|G|N|N|100|Y|N
+BTRS|BTRS Holdings Inc. - Class 1 Common Stock|Q|N|N|100|N|N
+BTRSW|BTRS Holdings Inc. - Warrants|S|N|N|100|N|N
 BTWN|Bridgetown Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 BTWNU|Bridgetown Holdings Limited - Units|S|N|N|100|N|N
 BTWNW|Bridgetown Holdings Limited - Warrants|S|N|N|100|N|N
@@ -1041,6 +1044,7 @@ DISCK|Discovery, Inc. - Series C Common Stock|Q|N|N|100|N|N
 DISH|DISH Network Corporation - Class A Common Stock|Q|N|N|100|N|N
 DJCO|Daily Journal Corp. (S.C.) - Common Stock|S|N|N|100|N|N
 DKNG|DraftKings Inc. - Class A Common Stock|Q|N|N|100|N|N
+DLCAU|Deep Lake Capital Acquisition Corp. - Unit|S|N|N|100|N|N
 DLHC|DLH Holdings Corp. - Common Stock|S|N|N|100|N|N
 DLPN|Dolphin Entertainment, Inc. - Common Stock|S|N|N|100|N|N
 DLTH|Duluth Holdings Inc. - Class B Common Stock|Q|N|N|100|N|N
@@ -1344,6 +1348,7 @@ FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
 FIII|Forum Merger III Corporation - Class A Common Stock|S|N|N|100|N|N
 FIIIU|Forum Merger III Corporation - Units|S|N|N|100|N|N
 FIIIW|Forum Merger III Corporation - Warrant|S|N|N|100|N|N
+FINMU|Marlin Technology Corporation - Unit|S|N|N|100|N|N
 FINX|Global X FinTech ETF|G|N|N|100|Y|N
 FISI|Financial Institutions, Inc. - Common Stock|Q|N|N|100|N|N
 FISV|Fiserv, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1499,6 +1504,7 @@ GBDC|Golub Capital BDC, Inc. - Common Stock|Q|N|N|100|N|N
 GBIO|Generation Bio Co. - Common stock|Q|N|N|100|N|N
 GBLI|Global Indemnity Group, LLC - Class A Common Stock|Q|N|N|100|N|N
 GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047|Q|N|N|100|N|N
+GBNY|Generations Bancorp NY, Inc. - Common Stock|S|N|N|100|N|N
 GBS|GBS Inc. - Common Stock|G|N|N|100|N|N
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 GCBC|Greene County Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -1608,10 +1614,10 @@ GRIL|Muscle Maker, Inc - Common Stock|S|N|N|100|N|N
 GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares|Q|N|N|100|N|N
 GRMN|Garmin Ltd. - Common Stock|Q|N|N|100|N|N
 GRNQ|Greenpro Capital Corp. - Common Stock|S|N|N|100|N|N
-GRNV|GreenVision Acquisition Corp - Common Stock|S|N|N|100|N|N
-GRNVR|GreenVision Acquisition Corp - Rights|S|N|N|100|N|N
-GRNVU|GreenVision Acquisition Corp - Unit|S|N|N|100|N|N
-GRNVW|GreenVision Acquisition Corp - Warrant|S|N|N|100|N|N
+GRNV|GreenVision Acquisition Corp - Common Stock|S|N|D|100|N|N
+GRNVR|GreenVision Acquisition Corp - Rights|S|N|D|100|N|N
+GRNVU|GreenVision Acquisition Corp - Unit|S|N|D|100|N|N
+GRNVW|GreenVision Acquisition Corp - Warrant|S|N|D|100|N|N
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100|N|N
 GRPN|Groupon, Inc. - Common Stock|Q|N|N|100|N|N
 GRSV|Gores Holdings V, Inc. - Common stock|S|N|N|100|N|N
@@ -1641,7 +1647,7 @@ GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100|N|N
 GVP|GSE Systems, Inc. - Common Stock|S|N|N|100|N|N
 GWAC|Good Works Acquisition Corp. - Common Stock|S|N|N|100|N|N
 GWACW|Good Works Acquisition Corp. - Warrant|S|N|N|100|N|N
-GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100|N|N
+GWGH|GWG Holdings, Inc - Common Stock|S|N|D|100|N|N
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100|N|N
 GWRS|Global Water Resources, Inc. - common stock|G|N|N|100|N|N
 GXGX|GX Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -1704,6 +1710,7 @@ HIHO|Highway Holdings Limited - Common Stock|S|N|N|100|N|N
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100|N|N
 HJLI|Hancock Jaffe Laboratories, Inc. - Common Stock|S|N|N|100|N|N
 HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants|S|N|N|100|N|N
+HLAHU|Hamilton Lane Alliance Holdings I, Inc. - Unit|S|N|N|100|N|N
 HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
 HLG|Hailiang Education Group Inc. - American Depositary Shares|G|N|N|100|N|N
 HLIO|Helios Technologies, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1941,7 +1948,7 @@ ISEE|IVERIC bio, Inc. - Common Stock|Q|N|N|100|N|N
 ISEM|Invesco RAFI Strategic Emerging Markets ETF|G|N|N|100|Y|N
 ISHG|iShares 1-3 Year International Treasury Bond ETF|G|N|N|100|Y|N
 ISIG|Insignia Systems, Inc. - Common Stock|S|N|D|100|N|N
-ISNS|Image Sensing Systems, Inc. - Common Stock|S|N|N|100|N|N
+ISNS|Image Sensing Systems, Inc. - Common Stock|S|N|D|100|N|N
 ISRG|Intuitive Surgical, Inc. - Common Stock|Q|N|N|100|N|N
 ISSC|Innovative Solutions and Support, Inc. - Common Stock|Q|N|N|100|N|N
 ISTB|iShares Core 1-5 Year USD Bond ETF|G|N|N|100|Y|N
@@ -2185,7 +2192,7 @@ LOGC|LogicBio Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LOGI|Logitech International S.A. - Registered Shares|Q|N|N|100|N|N
 LOOP|Loop Industries, Inc. - Common Stock|G|N|N|100|N|N
 LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100|N|N
-LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|N|100|N|N
+LORL|Loral Space and Communications, Inc. - Common Stock|Q|N|D|100|N|N
 LOVE|The Lovesac Company - Common Stock|G|N|N|100|N|N
 LPCN|Lipocine Inc. - Common Stock|S|N|N|100|N|N
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|100|N|N
@@ -2201,8 +2208,8 @@ LRMR|Larimar Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LSAQ|LifeSci Acquisition II Corp. - Common Stock|S|N|N|100|N|N
 LSBK|Lake Shore Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 LSCC|Lattice Semiconductor Corporation - Common Stock|Q|N|N|100|N|N
-LSEA|Landsea Homes Corporation - Common Stock|S|N|N|100|N|N
-LSEAW|Landsea Homes Corporation - Warrant|S|N|N|100|N|N
+LSEA|Landsea Homes Corporation - Common Stock|S|N|D|100|N|N
+LSEAW|Landsea Homes Corporation - Warrant|S|N|D|100|N|N
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100|N|N
 LSXMA|Liberty Media Corporation - Series A Liberty SiriusXM Common Stock|Q|N|N|100|N|N
 LSXMB|Liberty Media Corporation - Series B Liberty SiriusXM Common Stock|Q|N|N|100|N|N
@@ -2398,6 +2405,7 @@ MRVL|Marvell Technology Group Ltd. - Common Stock|Q|N|N|100|N|N
 MSBI|Midland States Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 MSEX|Middlesex Water Company - Common Stock|Q|N|N|100|N|N
 MSFT|Microsoft Corporation - Common Stock|Q|N|N|100|N|N
+MSGM|Motorsport Games Inc. - Class A Common Stock|S|N|N|100|N|N
 MSON|MISONIX, Inc. - Common Stock|G|N|N|100|N|N
 MSTR|MicroStrategy Incorporated - Class A Common Stock|Q|N|N|100|N|N
 MSVB|Mid-Southern Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -3141,7 +3149,7 @@ RWLK|ReWalk Robotics Ltd. - Ordinary Shares|S|N|N|100|N|N
 RXT|Rackspace Technology, Inc. - Common Stock|Q|N|N|100|N|N
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100|N|N
 RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
-RZLT|Rezolute, Inc. - Common Stock|S|N|N|100|N|N
+RZLT|Rezolute, Inc. - Common Stock|S|N|D|100|N|N
 SABR|Sabre Corporation - Common Stock|Q|N|N|100|N|N
 SABRP|Sabre Corporation - 6.50% Series A Mandatory Convertible Preferred Stock|Q|N|N|100|N|N
 SAFM|Sanderson Farms, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3288,9 +3296,6 @@ SMED|Sharps Compliance Corp. - Common Stock|S|N|N|100|N|N
 SMH|VanEck Vectors Semiconductor ETF|G|N|N|100|Y|N
 SMID|Smith-Midland Corporation - Common Stock|S|N|N|100|N|N
 SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100|N|N
-SMMC|South Mountain Merger Corp. - Class A Common Stock|S|N|N|100|N|N
-SMMCU|South Mountain Merger Corp. - Unit|S|N|N|100|N|N
-SMMCW|South Mountain Merger Corp. - Warrants|S|N|N|100|N|N
 SMMF|Summit Financial Group, Inc. - Common Stock|Q|N|N|100|N|N
 SMMT|Summit Therapeutics Inc.  - Common Stock|G|N|N|100|N|N
 SMPL|The Simply Good Foods Company - Common Stock|S|N|N|100|N|N
@@ -3524,9 +3529,9 @@ TH|Target Hospitality Corp. - Common Stock|S|N|N|100|N|N
 THBR|Thunder Bridge Acquisition II, Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 THBRU|Thunder Bridge Acquisition II, Ltd. - Units|S|N|N|100|N|N
 THBRW|Thunder Bridge Acquisition II, Ltd. - Warrants|S|N|N|100|N|N
-THCA|Tuscan Holdings Corp. II - Common Stock|S|N|N|100|N|N
-THCAU|Tuscan Holdings Corp. II - Unit|S|N|N|100|N|N
-THCAW|Tuscan Holdings Corp. II - Warrant|S|N|N|100|N|N
+THCA|Tuscan Holdings Corp. II - Common Stock|S|N|D|100|N|N
+THCAU|Tuscan Holdings Corp. II - Unit|S|N|D|100|N|N
+THCAW|Tuscan Holdings Corp. II - Warrant|S|N|D|100|N|N
 THCB|Tuscan Holdings Corp. - Common Stock|S|N|N|100|N|N
 THCBU|Tuscan Holdings Corp. - Unit|S|N|N|100|N|N
 THCBW|Tuscan Holdings Corp. - Warrant|S|N|N|100|N|N
@@ -3986,4 +3991,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0112202112:14|||||||
+File Creation Time: 0113202112:12|||||||
