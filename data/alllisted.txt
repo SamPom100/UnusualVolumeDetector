@@ -110,7 +110,6 @@ AIC,AIC|Arlington Asset Investment Corp 6.750% Notes due 2025
 AIF,AIF|Apollo Tactical Income Fund Inc. Common Stock
 AIG,AIG|American International Group, Inc. New Common Stock
 AIG$A,AIG$A|American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series A 5.85% Non-Cumulative Perpetual Preferred Stock
-AIG.W,AIG.W|American International Group, Inc. Warrant expiring January 19, 2021
 AIM,AIM|AIM ImmunoTech Inc. Common Stock
 AIN,AIN|Albany International Corporation Common Stock
 AINC,AINC|Ashford Inc. (Holding Company) Common Stock
@@ -1527,7 +1526,9 @@ GNK,GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)
 GNL,GNL|Global Net Lease, Inc. Common Stock
 GNL$A,GNL$A|Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share
 GNL$B,GNL$B|Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock
+GNPK,GNPK|Genesis Park Acquisition Corp. Class A Ordinary Shares
 GNPK.U,GNPK.U|Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
+GNPK.W,GNPK.W|Genesis Park Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 GNRC,GNRC|Generac Holdlings Inc. Common Stock
 GNT,GNT|GAMCO Natural Resources, Gold & Income Trust
 GNT$A,GNT$A|GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
@@ -3267,7 +3268,9 @@ THR,THR|Thermon Group Holdings, Inc. Common Stock
 THS,THS|Treehouse Foods, Inc. Common Stock
 THW,THW|Tekla World Healthcare Fund Shares of Beneficial Interest
 TIMB,TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
+TINV,TINV|Tiga Acquisition Corp. Class A Ordinary Shares
 TINV.U,TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant
+TINV.W,TINV.W|Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 TISI,TISI|Team, Inc. Common Stock
 TJX,TJX|TJX Companies, Inc. (The) Common Stock
 TK,TK|Teekay Corporation Common Stock
@@ -3431,7 +3434,6 @@ UTG,UTG|Reaves Utility Income Fund Common Shares of Beneficial Interest
 UTI,UTI|Universal Technical Institute Inc Common Stock
 UTL,UTL|UNITIL Corporation Common Stock
 UTZ,UTZ|Utz Brands Inc Class A Common Stock 
-UTZ.W,UTZ.W|Utz Brands, Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 UUU,UUU|Universal Security Instruments, Inc. Common Stock
 UUUU,UUUU|Energy Fuels Inc Ordinary Shares (Canada)
 UUUU.W,UUUU.W|Energy Fuels Inc Warrants, exercisable for one common share until September 20, 2021 at an exercise price of $2.45
@@ -4728,6 +4730,7 @@ ENTG,ENTG|Entegris, Inc. - Common Stock
 ENTX,ENTX|Entera Bio Ltd. - Ordinary Shares
 ENTXW,ENTXW|Entera Bio Ltd. - Warrant
 ENVB,ENVB|Enveric Biosciences, Inc.  - Common Stock
+ENVIU,ENVIU|Environmental Impact Acquisition Corp. - Unit
 EOLS,EOLS|Evolus, Inc. - Common Stock
 EOSE,EOSE|Eos Energy Enterprises, Inc. - Common Stock
 EOSEW,EOSEW|Eos Energy Enterprises, Inc. - Warrant
@@ -5132,7 +5135,9 @@ GXGXU,GXGXU|GX Acquisition Corp. - Unit
 GXGXW,GXGXW|GX Acquisition Corp. - Warrant
 GYRO,GYRO|Gyrodyne , LLC - Common Stock
 HA,HA|Hawaiian Holdings, Inc. - Common Stock
+HAAC,HAAC|Health Assurance Acquisition Corp. - Class A Common Stock
 HAACU,HAACU|Health Assurance Acquisition Corp. - SAIL Securities
+HAACW,HAACW|Health Assurance Acquisition Corp. - Warrants
 HAFC,HAFC|Hanmi Financial Corporation - Common Stock
 HAIN,HAIN|The Hain Celestial Group, Inc. - Common Stock
 HALL,HALL|Hallmark Financial Services, Inc. - Common Stock
@@ -5779,6 +5784,7 @@ MOFG,MOFG|MidWestOne Financial Group, Inc. - Common Stock
 MOGO,MOGO|Mogo Inc. - Common Shares
 MOHO,MOHO|ECMOHO Limited - American Depositary Shares
 MOMO,MOMO|Momo Inc. - American Depositary Shares
+MONCU,MONCU|Monument Circle Acquisition Corp. Units - Unit
 MOR,MOR|MorphoSys AG - American Depositary Shares
 MORF,MORF|Morphic Holding, Inc. - Common Stock
 MORN,MORN|Morningstar, Inc. - Common Stock
@@ -5895,7 +5901,6 @@ NFLX,NFLX|Netflix, Inc. - Common Stock
 NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
 NGACU,NGACU|NextGen Acquisition Corporation - Units
 NGACW,NGACW|NextGen Acquisition Corporation - Warrants
-NGHCN,NGHCN|National General Holdings Corp - Depositary Shares, each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock, Series C
 NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
 NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A
 NGHCZ,NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055
@@ -6172,7 +6177,7 @@ PEBK,PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO,PEBO|Peoples Bancorp Inc. - Common Stock
 PECK,PECK|The Peck Company Holdings, Inc. - Common Stock
 PEGA,PEGA|Pegasystems Inc. - Common Stock
-PEIX,PEIX|Pacific Ethanol, Inc. - Common Stock
+PEIX,PEIX|Alto Ingredients, Inc. - Common Stock
 PENN,PENN|Penn National Gaming, Inc. - Common Stock
 PEP,PEP|PepsiCo, Inc. - Common Stock
 PERI,PERI|Perion Network Ltd - Ordinary Shares
@@ -6245,6 +6250,7 @@ POAI,POAI|Predictive Oncology Inc. - Common Stock
 PODD,PODD|Insulet Corporation - Common Stock
 POLA,POLA|Polar Power, Inc. - Common Stock
 POOL,POOL|Pool Corporation - Common Stock
+POSH,POSH|Poshmark, Inc. - Class A Common Stock
 POWI,POWI|Power Integrations, Inc. - Common Stock
 POWL,POWL|Powell Industries, Inc. - Common Stock
 POWRU,POWRU|Powered Brands - Units
@@ -6602,6 +6608,7 @@ SIVBP,SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th inte
 SJ,SJ|Scienjoy Holding Corporation - Ordinary Shares
 SKYW,SKYW|SkyWest, Inc. - Common Stock
 SLAB,SLAB|Silicon Laboratories, Inc. - Common Stock
+SLCRU,SLCRU|Silver Crest Acquisition Corporation - Unit
 SLCT,SLCT|Select Bancorp, Inc. - Common Stock
 SLDB,SLDB|Solid Biosciences Inc. - Common Stock
 SLGG,SLGG|Super League Gaming, Inc. - Common Stock
@@ -7148,6 +7155,7 @@ WLTW,WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares
 WMG,WMG|Warner Music Group Corp. - Class A Common Stock
 WNEB,WNEB|Western New England Bancorp, Inc. - Common Stock
 WNW,WNW|Wunong Net Technology Company Limited - Ordinary Shares
+WOOF,WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock
 WORX,WORX|SCWorx Corp. - Common Stock
 WPRT,WPRT|Westport Fuel Systems Inc - Common Shares
 WRAP,WRAP|Wrap Technologies, Inc. - Common Stock

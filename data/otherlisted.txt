@@ -139,7 +139,6 @@ AIEQ|AI Powered Equity ETF|P|AIEQ|Y|100|N|AIEQ
 AIF|Apollo Tactical Income Fund Inc. Common Stock|N|AIF|N|100|N|AIF
 AIG|American International Group, Inc. New Common Stock|N|AIG|N|100|N|AIG
 AIG$A|American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series A 5.85% Non-Cumulative Perpetual Preferred Stock|N|AIGpA|N|100|N|AIG-A
-AIG.W|American International Group, Inc. Warrant expiring January 19, 2021|N|AIG.WS|N|100|N|AIG+
 AIIQ|AI Powered International Equity ETF|P|AIIQ|Y|100|N|AIIQ
 AIM|AIM ImmunoTech Inc. Common Stock|A|AIM|N|100|N|AIM
 AIN|Albany International Corporation Common Stock|N|AIN|N|100|N|AIN
@@ -2197,7 +2196,9 @@ GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)|N|GN
 GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNL$A|Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share|N|GNLpA|N|100|N|GNL-A
 GNL$B|Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock|N|GNLpB|N|100|N|GNL-B
+GNPK|Genesis Park Acquisition Corp. Class A Ordinary Shares|N|GNPK|N|100|N|GNPK
 GNPK.U|Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|GNPK.U|N|100|N|GNPK=
+GNPK.W|Genesis Park Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|GNPK.WS|N|100|N|GNPK+
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -2309,6 +2310,7 @@ HAE|Haemonetics Corporation Common Stock|N|HAE|N|100|N|HAE
 HAIL|SPDR S&P Kensho Smart Mobility ETF|P|HAIL|Y|100|N|HAIL
 HAL|Halliburton Company Common Stock|N|HAL|N|100|N|HAL
 HAP|VanEck Vectors Natural Resources ETF|P|HAP|Y|100|N|HAP
+HART|IQ Healthy Hearts ETF|P|HART|Y|100|N|HART
 HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock|N|HASI|N|100|N|HASI
 HAUZ|Xtrackers International Real Estate ETF|P|HAUZ|Y|100|N|HAUZ
 HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
@@ -3131,6 +3133,7 @@ LUMN|CenturyLink, Inc. d/b/a Lumen Technologies, Inc. Common Stock|N|LUMN|N|100|
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
 LUXE|Emles Trust Emles Luxury Goods ETF|Z|LUXE|Y|100|N|LUXE
 LVHI|Legg Mason International Low Volatility High Dividend ETF|Z|LVHI|Y|100|N|LVHI
+LVOL|American Century Low Volatility ETF|P|LVOL|Y|100|N|LVOL
 LVS|Las Vegas Sands Corp. Common Stock|N|LVS|N|100|N|LVS
 LW|Lamb Weston Holdings, Inc. Common Stock |N|LW|N|100|N|LW
 LXFR|Luxfer Holdings PLC Ordinary Shares|N|LXFR|N|100|N|LXFR
@@ -4915,7 +4918,9 @@ THW|Tekla World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 THY|Agility Shares Dynamic Tactical Income ETF|Z|THY|Y|100|N|THY
 TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|Z|TILT|Y|100|N|TILT
 TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) |N|TIMB|N|100|N|TIMB
+TINV|Tiga Acquisition Corp. Class A Ordinary Shares|N|TINV|N|100|N|TINV
 TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant|N|TINV.U|N|100|N|TINV=
+TINV.W|Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|TINV.WS|N|100|N|TINV+
 TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPX|SPDR Bloomberg Barclays 1-10 Year TIPS|P|TIPX|Y|100|N|TIPX
 TIPZ|PIMCO Broad U.S. TIPS Index Exchange-Traded Fund|P|TIPZ|Y|100|N|TIPZ
@@ -5177,7 +5182,6 @@ UTL|UNITIL Corporation Common Stock|N|UTL|N|100|N|UTL
 UTRN|Vesper US Large Cap Short-Term Reversal Strategy ETF|P|UTRN|Y|100|N|UTRN
 UTSL|Direxion Daily Utilities Bull 3X Shares|P|UTSL|Y|100|N|UTSL
 UTZ|Utz Brands Inc Class A Common Stock |N|UTZ|N|100|N|UTZ
-UTZ.W|Utz Brands, Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|UTZ.WS|N|100|N|UTZ+
 UUP|Invesco DB USD Index Bullish Fund ETF|P|UUP|Y|100|N|UUP
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
 UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
@@ -5479,6 +5483,7 @@ XAR|SPDR S&P Aerospace & Defense ETF|P|XAR|Y|100|N|XAR
 XBI|SPDR Series Trust  SPDR S&P Biotech ETF|P|XBI|Y|100|N|XBI
 XBUY|Amplify International Online Retail ETF|P|XBUY|Y|100|N|XBUY
 XCEM|Columbia EM Core ex-China ETF|P|XCEM|Y|100|N|XCEM
+XDAT|Franklin Exponential Data ETF|Z|XDAT|Y|100|N|XDAT
 XDIV|U.S. Equity Ex-Dividend Fund Series 2027 Shares|P|XDIV|Y|100|N|XDIV
 XEC|Cimarex Energy Co Common Stock|N|XEC|N|100|N|XEC
 XES|SPDR Series Trust SPDR S&P Oil & Gas Equipment & Services ETF|P|XES|Y|100|N|XES
@@ -5594,4 +5599,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0113202112:12||||||
+File Creation Time: 0114202112:12||||||
