@@ -762,7 +762,9 @@ CAPE|iPath Shiller CAPE ETN|P|CAPE|N|100|N|CAPE
 CAPL|CrossAmerica Partners LP Common Units representing limited partner interests|N|CAPL|N|100|N|CAPL
 CARR|Carrier Global Corporation Common Stock |N|CARR|N|100|N|CARR
 CARS|Cars.com Inc. Common Stock |N|CARS|N|100|N|CARS
+CAS|Cascade Acquisition Corp. Class A Common Stock|N|CAS|N|100|N|CAS
 CAS.U|Cascade Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Redeemable Warrant|N|CAS.U|N|100|N|CAS=
+CAS.W|Cascade Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CAS.WS|N|100|N|CAS+
 CAT|Caterpillar, Inc. Common Stock|N|CAT|N|100|N|CAT
 CATO|Cato Corporation (The) Class A Common Stock|N|CATO|N|100|N|CATO
 CB|Chubb Limited  Common Stock|N|CB|N|100|N|CB
@@ -908,6 +910,7 @@ CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
 CLA|Colonnade Acquisition Corp. Class A Ordinary Shares|N|CLA|N|100|N|CLA
 CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|CLA.U|N|100|N|CLA=
 CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CLA.WS|N|100|N|CLA+
+CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|CLAS.U|N|100|N|CLAS=
 CLB|Core Laboratories N.V. Common Stock|N|CLB|N|100|N|CLB
 CLDL|Direxion Daily Cloud Computing Bull 2X Shares|P|CLDL|Y|100|N|CLDL
 CLDR|Cloudera, Inc. Common Stock|N|CLDR|N|100|N|CLDR
@@ -1834,7 +1837,6 @@ FINV|FinVolution Group American Depositary Shares|N|FINV|N|100|N|FINV
 FIS|Fidelity National Information Services, Inc. Common Stock|N|FIS|N|100|N|FIS
 FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests|P|FISK|N|100|N|FISK
 FISR|SPDR SSGA Fixed Income Sector Rotation ETF|P|FISR|Y|100|N|FISR
-FIT|Fitbit, Inc. Class A Common Stock|N|FIT|N|100|N|FIT
 FITE|SPDR S&P Kensho Future Security ETF |P|FITE|Y|100|N|FITE
 FIV|First Trust Senior Floating Rate 2022 Target Term Fund Common Shares of Beneficial Interest|N|FIV|N|100|N|FIV
 FIVA|Fidelity International Value Factor ETF|P|FIVA|Y|100|N|FIVA
@@ -1972,7 +1974,9 @@ FRLG|Large Cap Growth Index-Linked Exchange Traded Notes due 2028|P|FRLG|N|100|N
 FRO|Frontline Ltd. Ordinary Shares|N|FRO|N|100|N|FRO
 FRT|Federal Realty Investment Trust Common Stock|N|FRT|N|100|N|FRT
 FRT$C|Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share|N|FRTpC|N|100|N|FRT-C
+FRX|Forest Road Acquisition Corp. Class A Common Stock|N|FRX|N|100|N|FRX
 FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant|N|FRX.U|N|100|N|FRX=
+FRX.W|Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|FRX.WS|N|100|N|FRX+
 FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest|N|FSD|N|100|N|FSD
 FSEP|FT Cboe Vest U.S. Equity Buffer ETF - September|Z|FSEP|Y|100|N|FSEP
 FSI|Flexible Solutions International Inc. Common Stock (CDA)|A|FSI|N|100|N|FSI
@@ -3746,8 +3750,10 @@ OUT|OUTFRONT Media Inc. Common Stock|N|OUT|N|100|N|OUT
 OVB|Overlay Shares Core Bond ETF|P|OVB|Y|100|N|OVB
 OVF|Overlay Shares Foreign Equity ETF|P|OVF|Y|100|N|OVF
 OVL|Overlay Shares Large Cap Equity ETF|P|OVL|Y|100|N|OVL
+OVLH|Overlay Shares Hedged Large Cap Equity ETF|P|OVLH|Y|100|N|OVLH
 OVM|Overlay Shares Municipal Bond ETF|P|OVM|Y|100|N|OVM
 OVS|Overlay Shares Small Cap Equity ETF|P|OVS|Y|100|N|OVS
+OVT|Overlay Shares Short Term Bond ETF|P|OVT|Y|100|N|OVT
 OVV|Ovintiv Inc. (DE)|N|OVV|N|100|N|OVV
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
@@ -4290,6 +4296,7 @@ ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
 ROP|Roper Technologies, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|ATAC US Rotation ETF|P|RORO|Y|100|N|RORO
 ROSC|Hartford Multifactor Small Cap ETF|P|ROSC|Y|100|N|ROSC
+ROT.U|Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant|N|ROT.U|N|100|N|ROT=
 ROUS|Hartford Multifactor U.S. Equity ETF|P|ROUS|Y|100|N|ROUS
 RPAI|Retail Properties of America, Inc. Class A Common Stock|N|RPAI|N|100|N|RPAI
 RPAR|RPAR Risk Parity ETF|P|RPAR|Y|100|N|RPAR
@@ -4664,7 +4671,9 @@ SPOT|Spotify Technology S.A. Ordinary Shares|N|SPOT|N|100|N|SPOT
 SPPP|Sprott Physical Platinum and Palladium Trust|P|SPPP|Y|100|N|SPPP
 SPR|Spirit Aerosystems Holdings, Inc. Common Stock|N|SPR|N|100|N|SPR
 SPRE|SP Funds S&P Global REIT Sharia ETF|P|SPRE|Y|100|N|SPRE
+SPRQ|Spartan Acquisition Corp. II Class A Common Stock|N|SPRQ|N|100|N|SPRQ
 SPRQ.U|Spartan Acquisition Corp. II Units|N|SPRQ.U|N|100|N|SPRQ=
+SPRQ.W|Spartan Acquisition Corp. II Warrants, exercisable for one share of Class A Common Stock|N|SPRQ.WS|N|100|N|SPRQ+
 SPSB|SPDR Portfolio Short Term Corporate Bond ETF|P|SPSB|Y|100|N|SPSB
 SPSK|Tidal ETF Trust SP Funds Dow Jones Global Sukuk ETF|P|SPSK|Y|100|N|SPSK
 SPSM|SPDR Portfolio S&P 600 Small Cap ETF|P|SPSM|Y|100|N|SPSM
@@ -4703,7 +4712,6 @@ SR$A|Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a s
 SRC|Spirit Realty Capital, Inc. Common Stock|N|SRC|N|100|N|SRC
 SRC$A|Spirit Realty Capital, Inc. 6.000% Series A Cumulative Redeemable Preferred Stock|N|SRCpA|N|100|N|SRC-A
 SRE|Sempra Energy Common Stock|N|SRE|N|100|N|SRE
-SRE$A|Sempra Energy 6% Mandatory Convertible Preferred Stock, Series A|N|SREpA|N|100|N|SRE-A
 SRE$B|Sempra Energy 6.75% Mandatory Convertible Preferred Stock, Series B|N|SREpB|N|100|N|SRE-B
 SREA|Sempra Energy 5.750% Junior Subordinated Notes due 2079|N|SREA|N|100|N|SREA
 SRG|Seritage Growth Properties Class A Common Stock|N|SRG|N|100|N|SRG
@@ -4826,6 +4834,7 @@ TAP|Molson Coors Beverage Company Class B Common Stock|N|TAP|N|100|N|TAP
 TAP.A|Molson Coors Beverage Company Molson Coors Brewing Company Class A Common Stock|N|TAP.A|N|100|N|TAP.A
 TARO|Taro Pharmaceutical Industries Ltd. Ordinary Shares|N|TARO|N|100|N|TARO
 TAXF|American Century Diversified Municipal Bond ETF|P|TAXF|Y|100|N|TAXF
+TBA|Thoma Bravo Advantage Class A Ordinary Shares|N|TBA|N|100|N|TBA
 TBB|AT&T Inc. 5.350% Global Notes due 2066|N|TBB|N|100|N|TBB
 TBC|AT&T Inc. 5.625% Global Notes due 2067|N|TBC|N|100|N|TBC
 TBF|ProShares Short 20+ Year Treasury|P|TBF|Y|100|N|TBF
@@ -5147,7 +5156,6 @@ USB|U.S. Bancorp Common Stock|N|USB|N|100|N|USB
 USB$A|U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock|N|USBpA|N|100|N|USB-A
 USB$H|U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B|N|USBpH|N|100|N|USB-H
 USB$M|U.S. Bancorp Depositary Shares Representing 1/1000th Interest in a Shares Series F|N|USBpM|N|100|N|USB-M
-USB$O|US Bancorp Del Dep Shs Repstg 1/1000th Perp Pfd Ser H|N|USBpO|N|100|N|USB-O
 USB$P|U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock|N|USBpP|N|100|N|USB-P
 USB$Q|U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series L Non-Cumulative Perpetual Preferred Stock|N|USBpQ|N|100|N|USB-Q
 USCI|United States Commodity Index Fund ETV|P|USCI|Y|100|N|USCI
@@ -5599,4 +5607,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0114202115:43||||||
+File Creation Time: 0115202115:41||||||
