@@ -1130,7 +1130,6 @@ CWT|California Water Service Group Common Stock|N|CWT|N|100|N|CWT
 CX|Cemex, S.A.B. de C.V. Sponsored ADR|N|CX|N|100|N|CX
 CXE|MFS High Income Municipal Trust Common Stock|N|CXE|N|100|N|CXE
 CXH|MFS Investment Grade Municipal Trust Common Stock|N|CXH|N|100|N|CXH
-CXO|Concho Resources Inc. Common Stock|N|CXO|N|100|N|CXO
 CXP|Columbia Property Trust, Inc. Common Stock|N|CXP|N|100|N|CXP
 CXW|CoreCivic, Inc. Common Stock|N|CXW|N|100|N|CXW
 CYB|WisdomTree Chinese Yuan Strategy Fund|P|CYB|Y|100|N|CYB
@@ -1262,6 +1261,7 @@ DIV|Global X Super Dividend ETF|P|DIV|Y|100|N|DIV
 DIVA|AGFiQ Hedged Dividend Income Fund|P|DIVA|Y|100|N|DIVA
 DIVB|iShares U.S. Dividend and Buyback ETF|Z|DIVB|Y|100|N|DIVB
 DIVO|Amplify CWP Enhanced Dividend Income ETF|P|DIVO|Y|100|N|DIVO
+DJAN|FT Cboe Vest U.S. Equity Deep Buffer ETF - January|Z|DJAN|Y|100|N|DJAN
 DJCB|ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039|P|DJCB|Y|100|N|DJCB
 DJD|Invesco Dow Jones Industrial Average Dividend ETF|P|DJD|Y|100|N|DJD
 DJP|iPath Bloomberg Commodity Index Total Return ETN|P|DJP|N|100|N|DJP
@@ -1325,7 +1325,7 @@ DOV|Dover Corporation Common Stock|N|DOV|N|100|N|DOV
 DOW|Dow Inc. Common Stock |N|DOW|N|100|N|DOW
 DPG|Duff & Phelps Utility and Infrastructure Fund Inc.|N|DPG|N|100|N|DPG
 DPST|Direxion Daily Regional Banks Bull 3X Shares|P|DPST|Y|100|N|DPST
-DPW|DPW Holdings, Inc. Common Stock|A|DPW|N|100|N|DPW
+DPW|Ault Global Holdings, Inc. Common Stock|A|DPW|N|100|N|DPW
 DPZ|Domino's Pizza Inc Common Stock|N|DPZ|N|100|N|DPZ
 DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares|N|DQ|N|100|N|DQ
 DRD|DRDGOLD Limited American Depositary Shares|N|DRD|N|100|N|DRD
@@ -1753,7 +1753,6 @@ FBND|Fidelity Total Bond ETF|P|FBND|Y|100|N|FBND
 FBP|First BanCorp. New Common Stock|N|FBP|N|100|N|FBP
 FBT|First Trust Amex Biotech Index Fund|P|FBT|Y|100|N|FBT
 FC|Franklin Covey Company Common Stock|N|FC|N|100|N|FC
-FCAU|Fiat Chrysler Automobiles N.V. Common Shares|N|FCAU|N|100|N|FCAU
 FCAX.U|Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|FCAX.U|N|100|N|FCAX=
 FCF|First Commonwealth Financial Corporation Common Stock|N|FCF|N|100|N|FCF
 FCG|First Trust Natural Gas ETF|P|FCG|Y|100|N|FCG
@@ -1843,6 +1842,7 @@ FIVA|Fidelity International Value Factor ETF|P|FIVA|Y|100|N|FIVA
 FIVG|Defiance Next Gen Connectivity ETF|P|FIVG|Y|100|N|FIVG
 FIW|First Trust Water ETF|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
+FJAN|FT Cboe Vest U.S. Equity Buffer ETF - January|Z|FJAN|Y|100|N|FJAN
 FJNK|Pacific Global Focused High Yield ETF|P|FJNK|Y|100|N|FJNK
 FJUL|FT Cboe Vest U.S. Equity Buffer ETF - July|Z|FJUL|Y|100|N|FJUL
 FJUN|FT Cboe Vest U.S. Equity Buffer ETF - June|Z|FJUN|Y|100|N|FJUN
@@ -1947,7 +1947,9 @@ FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock|N|FOF|N|100|N|
 FOR|Forestar Group Inc Common Stock |N|FOR|N|100|N|FOR
 FOUR|Shift4 Payments, Inc. Class A Common Stock|N|FOUR|N|100|N|FOUR
 FOVL|iShares Focused Value Factor ETF|P|FOVL|Y|100|N|FOVL
+FPAC|Far Peak Acquisition Corporation Class A Ordinary Shares|N|FPAC|N|100|N|FPAC
 FPAC.U|Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|FPAC.U|N|100|N|FPAC=
+FPAC.W|Far Peak Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|FPAC.WS|N|100|N|FPAC+
 FPE|First Trust Preferred Securities and Income ETF ETF|P|FPE|Y|100|N|FPE
 FPEI|First Trust Institutional Preferred Securities and Income ETF|P|FPEI|Y|100|N|FPEI
 FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest|N|FPF|N|100|N|FPF
@@ -4751,6 +4753,7 @@ STIP|iShares 0-5 Year TIPS Bond ETF|P|STIP|Y|100|N|STIP
 STK|Columbia Seligman Premium Technology Growth Fund Inc|N|STK|N|100|N|STK
 STL|Sterling Bancorp|N|STL|N|100|N|STL
 STL$A|Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.50% Non-Cumulative, Perpetual Preferred Stock, Series A|N|STLpA|N|100|N|STL-A
+STLA|Stellantis N.V. Common Shares|N|STLA|N|100|N|STLA
 STLC|iShares Factors US Blend Style ETF|Z|STLC|Y|100|N|STLC
 STLG|iShares Factors US Growth Style ETF|Z|STLG|Y|100|N|STLG
 STLV|iShares Factors US Value Style ETF|Z|STLV|Y|100|N|STLV
@@ -4939,8 +4942,6 @@ TK|Teekay Corporation Common Stock|N|TK|N|100|N|TK
 TKAT|Takung Art Co., Ltd. Common Stock|A|TKAT|N|100|N|TKAT
 TKC|Turkcell Iletisim Hizmetleri AS Common Stock|N|TKC|N|100|N|TKC
 TKR|Timken Company (The) Common Stock|N|TKR|N|100|N|TKR
-TLDH|FlexShares Currency Hedged Morningstar DM ex-US Factor Tilt Index Fund|P|TLDH|Y|100|N|TLDH
-TLEH|FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund|P|TLEH|Y|100|N|TLEH
 TLH|iShares 10-20 Year Treasury Bond ETF|P|TLH|Y|100|N|TLH
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
 TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLTD|Y|100|N|TLTD
@@ -4979,7 +4980,7 @@ TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
 TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares|N|TPGY|N|100|N|TPGY
 TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|TPGY.U|N|100|N|TPGY=
 TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|TPGY.WS|N|100|N|TPGY+
-TPH|TRI Pointe Group, Inc. Common Stock|N|TPH|N|100|N|TPH
+TPH|Tri Pointe Homes, Inc. Common Stock|N|TPH|N|100|N|TPH
 TPHD|Timothy Plan High Dividend Stock ETF|P|TPHD|Y|100|N|TPHD
 TPHS|Trinity Place Holdings Inc. Common Stock|A|TPHS|N|100|N|TPHS
 TPIF|Timothy Plan International ETF|P|TPIF|Y|100|N|TPIF
@@ -5240,7 +5241,6 @@ VEGN|US Vegan Climate Index|P|VEGN|Y|100|N|VEGN
 VEL|Velocity Financial, Inc. Common Stock|N|VEL|N|100|N|VEL
 VER|VEREIT, Inc. Common Stock|N|VER|N|100|N|VER
 VER$F|VEREIT, Inc. 6.70% Series F Cumulative Redeemable Preferred Stock|N|VERpF|N|100|N|VER-F
-VERT.U|Vertiv Holdings, LLC Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|VERT.U|N|100|N|VERT=
 VET|Vermilion Energy Inc. Common (Canada)|N|VET|N|100|N|VET
 VEU|Vanguard FTSE All World Ex US ETF|P|VEU|Y|100|N|VEU
 VFC|V.F. Corporation Common Stock|N|VFC|N|100|N|VFC
@@ -5330,7 +5330,6 @@ VRAI|Virtus Real Asset Income ETF|P|VRAI|Y|100|N|VRAI
 VRP|Invesco Variable Rate Preferred ETF|P|VRP|Y|100|N|VRP
 VRS|Verso Corporation Common Stock|N|VRS|N|100|N|VRS
 VRT|Vertiv Holdings, LLC Class A Common Stock|N|VRT|N|100|N|VRT
-VRT.W|Vertiv Holdings, LLC Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|VRT.WS|N|100|N|VRT+
 VRTV|Veritiv Corporation Common Stock|N|VRTV|N|100|N|VRTV
 VSGX|Vanguard ESG International Stock ETF|Z|VSGX|Y|100|N|VSGX
 VSH|Vishay Intertechnology, Inc. Common Stock|N|VSH|N|100|N|VSH
@@ -5607,4 +5606,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0115202121:32||||||
+File Creation Time: 0119202112:12||||||

@@ -913,7 +913,6 @@ CWT,CWT|California Water Service Group Common Stock
 CX,CX|Cemex, S.A.B. de C.V. Sponsored ADR
 CXE,CXE|MFS High Income Municipal Trust Common Stock
 CXH,CXH|MFS Investment Grade Municipal Trust Common Stock
-CXO,CXO|Concho Resources Inc. Common Stock
 CXP,CXP|Columbia Property Trust, Inc. Common Stock
 CXW,CXW|CoreCivic, Inc. Common Stock
 CYD,CYD|China Yuchai International Limited Common Stock
@@ -1024,7 +1023,7 @@ DOOR,DOOR|Masonite International Corporation Ordinary Shares (Canada)
 DOV,DOV|Dover Corporation Common Stock
 DOW,DOW|Dow Inc. Common Stock 
 DPG,DPG|Duff & Phelps Utility and Infrastructure Fund Inc.
-DPW,DPW|DPW Holdings, Inc. Common Stock
+DPW,DPW|Ault Global Holdings, Inc. Common Stock
 DPZ,DPZ|Domino's Pizza Inc Common Stock
 DQ,DQ|DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares
 DRD,DRD|DRDGOLD Limited American Depositary Shares
@@ -1271,7 +1270,6 @@ FBK,FBK|FB Financial Corporation Common Stock
 FBM,FBM|Foundation Building Materials, Inc. Common Stock
 FBP,FBP|First BanCorp. New Common Stock
 FC,FC|Franklin Covey Company Common Stock
-FCAU,FCAU|Fiat Chrysler Automobiles N.V. Common Shares
 FCAX.U,FCAX.U|Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 FCF,FCF|First Commonwealth Financial Corporation Common Stock
 FCN,FCN|FTI Consulting, Inc. Common Stock
@@ -1352,7 +1350,9 @@ FOE,FOE|Ferro Corporation Common Stock
 FOF,FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOR,FOR|Forestar Group Inc Common Stock 
 FOUR,FOUR|Shift4 Payments, Inc. Class A Common Stock
+FPAC,FPAC|Far Peak Acquisition Corporation Class A Ordinary Shares
 FPAC.U,FPAC.U|Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
+FPAC.W,FPAC.W|Far Peak Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 FPF,FPF|First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
 FPH,FPH|Five Point Holdings, LLC Class A Common Shares
 FPI,FPI|Farmland Partners Inc. Common Stock
@@ -3159,6 +3159,7 @@ STIC.W,STIC.W|Northern Star Acquisition Corp. Redeemable warrants, each whole wa
 STK,STK|Columbia Seligman Premium Technology Growth Fund Inc
 STL,STL|Sterling Bancorp
 STL$A,STL$A|Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.50% Non-Cumulative, Perpetual Preferred Stock, Series A
+STLA,STLA|Stellantis N.V. Common Shares
 STM,STM|STMicroelectronics N.V. Common Stock
 STN,STN|Stantec Inc Common Stock
 STNG,STNG|Scorpio Tankers Inc. Common Shares
@@ -3309,7 +3310,7 @@ TPC,TPC|Tutor Perini Corporation Common Stock
 TPGY,TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares
 TPGY.U,TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 TPGY.W,TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
-TPH,TPH|TRI Pointe Group, Inc. Common Stock
+TPH,TPH|Tri Pointe Homes, Inc. Common Stock
 TPHS,TPHS|Trinity Place Holdings Inc. Common Stock
 TPL,TPL|Texas Pacific Land Corporation Common Stock
 TPR,TPR|Tapestry, Inc. Common Stock
@@ -3466,7 +3467,6 @@ VEEV,VEEV|Veeva Systems Inc. Class A Common Stock
 VEL,VEL|Velocity Financial, Inc. Common Stock
 VER,VER|VEREIT, Inc. Common Stock
 VER$F,VER$F|VEREIT, Inc. 6.70% Series F Cumulative Redeemable Preferred Stock
-VERT.U,VERT.U|Vertiv Holdings, LLC Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 VET,VET|Vermilion Energy Inc. Common (Canada)
 VFC,VFC|V.F. Corporation Common Stock
 VFL,VFL|Delaware Investments National Municipal Income Fund Common Stock
@@ -3513,7 +3513,6 @@ VPG,VPG|Vishay Precision Group, Inc. Common Stock
 VPV,VPV|Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
 VRS,VRS|Verso Corporation Common Stock
 VRT,VRT|Vertiv Holdings, LLC Class A Common Stock
-VRT.W,VRT.W|Vertiv Holdings, LLC Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 VRTV,VRTV|Veritiv Corporation Common Stock
 VSH,VSH|Vishay Intertechnology, Inc. Common Stock
 VST,VST|Vistra Corp. Common Stock
@@ -6433,7 +6432,6 @@ RGP,RGP|Resources Connection, Inc. - Common Stock
 RIBT,RIBT|RiceBran Technologies - Common Stock
 RICK,RICK|RCI Hospitality Holdings, Inc. - Common Stock
 RIDE,RIDE|Lordstown Motors Corp. - Class A Common Stock
-RIDEW,RIDEW|Lordstown Motors Corp. - Warrant
 RIGL,RIGL|Rigel Pharmaceuticals, Inc. - Common Stock
 RILY,RILY|B. Riley Financial, Inc. - Common Stock
 RILYG,RILYG|B. Riley Financial, Inc. - 7.25% Senior Notes due 2027
