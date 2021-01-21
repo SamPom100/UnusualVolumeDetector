@@ -541,6 +541,7 @@ BGB|Blackstone Strategic Credit Fund Common Shares|N|BGB|N|100|N|BGB
 BGH|Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests|N|BGH|N|100|N|BGH
 BGI|Birks Group Inc. Common Stock|A|BGI|N|100|N|BGI
 BGIO|BlackRock 2022 Global Income Opportunity Trust Common Shares of Beneficial Interest|N|BGIO|N|100|N|BGIO
+BGLD|FT Cboe Vest Gold Strategy Quarterly Buffer ETF|Z|BGLD|Y|100|N|BGLD
 BGR|BlackRock Energy and Resources Trust|N|BGR|N|100|N|BGR
 BGS|B&G Foods, Inc. B&G Foods, Inc. Common Stock|N|BGS|N|100|N|BGS
 BGSF|BG Staffing Inc Common Stock|N|BGSF|N|100|N|BGSF
@@ -701,6 +702,7 @@ BTT|BlackRock Municipal 2030 Target Term Trust|N|BTT|N|100|N|BTT
 BTU|Peabody Energy Corporation Common Stock |N|BTU|N|100|N|BTU
 BTZ|BlackRock Credit Allocation Income Trust|N|BTZ|N|100|N|BTZ
 BUD|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)|N|BUD|N|100|N|BUD
+BUFD|FT Cboe Vest Fund of Deep Buffer ETF|Z|BUFD|Y|100|N|BUFD
 BUFF|Innovator Laddered Fund of S&P 500 Power Buffer ETFs|Z|BUFF|Y|100|N|BUFF
 BUFR|FT Cboe Vest Fund of Buffer ETFs|Z|BUFR|Y|100|N|BUFR
 BUI|BlackRock Utility, Infrastructure & Power Opportunities Trust|N|BUI|N|100|N|BUI
@@ -2093,7 +2095,6 @@ GDP|Goodrich Petroleum Corporation Common Stock|A|GDP|N|100|N|GDP
 GDV|Gabelli Dividend & Income Trust Common Shares of Beneficial Interest|N|GDV|N|100|N|GDV
 GDV$G|Gabelli Dividend 5.25% Series G Cumulative Preferred Shares, par value $0.001 per share|N|GDVpG|N|100|N|GDV-G
 GDV$H|The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares|N|GDVpH|N|100|N|GDV-H
-GDVD|Principal Active Global Dividend Income ETF|Z|GDVD|Y|100|N|GDVD
 GDX|VanEck Vectors Gold Miners ETF|P|GDX|Y|100|N|GDX
 GDXD|MicroSectors Gold Miners -3X Inverse Leveraged ETNs|P|GDXD|Y|100|N|GDXD
 GDXJ|VanEck Vectors Junior Gold Miners ETF|P|GDXJ|Y|100|N|GDXJ
@@ -2377,6 +2378,8 @@ HIGA.U|H.I.G. Acquisition Corp. Units, each consisting of one Class A ordinary s
 HIGA.W|H.I.G. Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HIGA.WS|N|100|N|HIGA+
 HII|Huntington Ingalls Industries, Inc. Common Stock|N|HII|N|100|N|HII
 HIL|Hill International, Inc. Common Stock|N|HIL|N|100|N|HIL
+HIMS|Hims & Hers Health, Inc. Class A Common Stock|N|HIMS|N|100|N|HIMS
+HIMS.W|Hims & Hers Health, Inc.. Warrants|N|HIMS.WS|N|100|N|HIMS+
 HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock|N|HIO|N|100|N|HIO
 HIPR|Direxion High Growth ETF|P|HIPR|Y|100|N|HIPR
 HIPS|GraniteShares HIPS US High Income ETF|P|HIPS|Y|100|N|HIPS
@@ -3417,6 +3420,7 @@ MYJ|Blackrock MuniYield New Jersey Fund, Inc Common Stock|N|MYJ|N|100|N|MYJ
 MYN|Blackrock MuniYield New York Quality Fund, Inc.Common Stock|N|MYN|N|100|N|MYN
 MYO|Myomo Inc. Common Stock|A|MYO|N|100|N|MYO
 MYOV|Myovant Sciences Ltd. Common Shares|N|MYOV|N|100|N|MYOV
+MYTE|MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share|N|MYTE|N|100|N|MYTE
 MYY|ProShares Short MidCap400|P|MYY|Y|100|N|MYY
 MZA|Blackrock MuniYield Arizona Fund, Inc. Common Stock|N|MZA|N|100|N|MZA
 MZZ|ProShares UltraShort MidCap400|P|MZZ|Y|100|N|MZZ
@@ -3668,9 +3672,6 @@ NYT|New York Times Company (The) Common Stock|N|NYT|N|100|N|NYT
 NYV|Nuveen New York Municipal Value Fund 2 Common Shares of Beneficial Interest|N|NYV|N|100|N|NYV
 NZF|Nuveen Municipal Credit Income Fund |N|NZF|N|100|N|NZF
 O|Realty Income Corporation Common Stock|N|O|N|100|N|O
-OAC|Oaktree Acquisition Corp. Class A Ordinary Shares|N|OAC|N|100|N|OAC
-OAC.U|Oaktree Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value, and one-third of one redeemable warrant|N|OAC.U|N|100|N|OAC=
-OAC.W|Oaktree Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50|N|OAC.WS|N|100|N|OAC+
 OACB|Oaktree Acquisition Corp. II Class A Ordinary Shares|N|OACB|N|100|N|OACB
 OACB.U|Oaktree Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|OACB.U|N|100|N|OACB=
 OACB.W|Oaktree Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|OACB.WS|N|100|N|OACB+
@@ -4016,7 +4017,6 @@ PRT|PermRock Royalty Trust Trust Units|N|PRT|N|100|N|PRT
 PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
-PSA$B|Public Storage Depositary Shares, each representing 1/1,000 of a 5.40% Cumulative Preferred Share of Beneficial Interest|N|PSApB|N|100|N|PSA-B
 PSA$C|Public Storage Depositary Shares Each Representing 1/1000 of a 5.125% Cumulative Preferred Share of Beneficial Interest, Series C|N|PSApC|N|100|N|PSA-C
 PSA$D|Public Storage Depositary Shares Each Representing 1/1000 of a 4.95% Cumulative Preferred Share of Beneficial Interest, Series D|N|PSApD|N|100|N|PSA-D
 PSA$E|Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of Beneficial Interest, Series E|N|PSApE|N|100|N|PSA-E
@@ -5606,4 +5606,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0119202115:43||||||
+File Creation Time: 0121202112:12||||||
