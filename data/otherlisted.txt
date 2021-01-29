@@ -433,13 +433,13 @@ BABA|Alibaba Group Holding Limited American Depositary Shares each representing 
 BAC|Bank of America Corporation Common Stock|N|BAC|N|100|N|BAC
 BAC$A|Bank of America Corporation Depositary Shares, each representing a 1/1,000 th interest in a share of Bank of America Corporation 6.000% Non-Cumulative|N|BACpA|N|100|N|BAC-A
 BAC$B|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG|N|BACpB|N|100|N|BAC-B
-BAC$C|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 6.200% Non-Cumulative Preferred Stock, Series C|N|BACpC|N|100|N|BAC-C
 BAC$E|Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E|N|BACpE|N|100|N|BAC-E
 BAC$K|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH|N|BACpK|N|100|N|BAC-K
 BAC$L|Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L|N|BACpL|N|10|N|BAC-L
 BAC$M|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK|N|BACpM|N|100|N|BAC-M
 BAC$N|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL|N|BACpN|N|100|N|BAC-N
 BAC$O|Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN|N|BACpO|N|100|N|BAC-O
+BAC$P|Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP|N|BACpP|N|100|N|BAC-P
 BAF|BlackRock Municipal Income Investment Quality Trust|N|BAF|N|100|N|BAF
 BAH|Booz Allen Hamilton Holding Corporation Common Stock|N|BAH|N|100|N|BAH
 BAK|Braskem SA ADR|N|BAK|N|100|N|BAK
@@ -610,6 +610,7 @@ BLHY|Virtus Newfleet Dynamic Credit|P|BLHY|Y|100|N|BLHY
 BLK|BlackRock, Inc. Common Stock|N|BLK|N|100|N|BLK
 BLL|Ball Corporation Common Stock|N|BLL|N|100|N|BLL
 BLOK|Amplify Transformational Data Sharing ETF|P|BLOK|Y|100|N|BLOK
+BLUA.U|BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares|N|BLUA.U|N|100|N|BLUA=
 BLV|Vanguard Long-Term Bond ETF|P|BLV|Y|100|N|BLV
 BLW|Blackrock Limited Duration Income Trust|N|BLW|N|100|N|BLW
 BLX|Banco Latinoamericano de Comercio Exterior, S.A.|N|BLX|N|100|N|BLX
@@ -1398,7 +1399,9 @@ DVD|Dover Motorsports, Inc. Common Stock|N|DVD|N|100|N|DVD
 DVN|Devon Energy Corporation Common Stock|N|DVN|N|100|N|DVN
 DVYA|iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund|P|DVYA|Y|100|N|DVYA
 DVYE|iShares Emerging Markets Dividend Index Fund Exchange Traded Fund|P|DVYE|Y|100|N|DVYE
+DWIN|Delwinds Insurance Acquisition Corp. Class A Common Stock|N|DWIN|N|100|N|DWIN
 DWIN.U|Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|DWIN.U|N|100|N|DWIN=
+DWIN.W|Delwinds Insurance Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|DWIN.WS|N|100|N|DWIN+
 DWM|WisdomTree International Equity Fund|P|DWM|Y|100|N|DWM
 DWMF|WisdomTree International Multifactor Fund|P|DWMF|Y|100|N|DWMF
 DWX|SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
@@ -1610,6 +1613,7 @@ EQD.W|Equity Distribution Acquisition Corp. Warrants, each whole warrant exercis
 EQH|Equitable Holdings, Inc. Common Stock|N|EQH|N|100|N|EQH
 EQH$A|Equitable Holdings, Inc. Depositary Shares|N|EQHpA|N|100|N|EQH-A
 EQH$C|Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C|N|EQHpC|N|100|N|EQH-C
+EQHA.U|EQ Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|EQHA.U|N|100|N|EQHA=
 EQL|ALPS Equal Sector Weight ETF|P|EQL|Y|100|N|EQL
 EQNR|Equinor ASA|N|EQNR|N|100|N|EQNR
 EQOP|Natixis U.S. Equity Opportunities ETF|P|EQOP|Y|100|N|EQOP
@@ -1760,7 +1764,6 @@ FBCV|Fidelity Blue Chip Value ETF|Z|FBCV|Y|100|N|FBCV
 FBGX|UBS AG FI Enhanced Large Cap Growth ETN|P|FBGX|N|100|N|FBGX
 FBHS|Fortune Brands Home & Security, Inc. Common Stock|N|FBHS|N|100|N|FBHS
 FBK|FB Financial Corporation Common Stock|N|FBK|N|100|N|FBK
-FBM|Foundation Building Materials, Inc. Common Stock|N|FBM|N|100|N|FBM
 FBND|Fidelity Total Bond ETF|P|FBND|Y|100|N|FBND
 FBP|First BanCorp. New Common Stock|N|FBP|N|100|N|FBP
 FBT|First Trust Amex Biotech Index Fund|P|FBT|Y|100|N|FBT
@@ -3279,6 +3282,7 @@ MIG|VanEck Vectors Moody's Analytics IG Corporate Bond ETF|Z|MIG|Y|100|N|MIG
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
 MINT|PIMCO Enhanced Short Maturity Active Exchange-Traded Fund|P|MINT|Y|100|N|MINT
+MIT.U|Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant to purchase one share of Class A common stock|N|MIT.U|N|100|N|MIT=
 MITT|AG Mortgage Investment Trust, Inc. Common Stock|N|MITT|N|100|N|MITT
 MITT$A|AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A|N|MITTpA|N|100|N|MITT-A
 MITT$B|AG Mortgage Investment Trust, Inc. Preferred Series B|N|MITTpB|N|100|N|MITT-B
@@ -4498,6 +4502,7 @@ SEB|Seaboard Corporation Common Stock|A|SEB|N|1|N|SEB
 SECT|Northern Lights Fund Trust IV Main Sector Rotation ETF|Z|SECT|Y|100|N|SECT
 SEE|Sealed Air Corporation Common Stock|N|SEE|N|100|N|SEE
 SEF|ProShares Short Financials|P|SEF|Y|100|N|SEF
+SEGR|Southeastern Grocers, Inc. Common Stock|N|SEGR|N|100|N|SEGR
 SEIX|Virtus Seix Senior Loan ETF|P|SEIX|Y|100|N|SEIX
 SEM|Select Medical Holdings Corporation Common Stock|N|SEM|N|100|N|SEM
 SENS|Senseonics Holdings, Inc. Common Stock|A|SENS|N|100|N|SENS
@@ -4975,6 +4980,7 @@ TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLT
 TLTE|FlexShares Morningstar Emerging Markets Factor Tilt Index Fund|P|TLTE|Y|100|N|TLTE
 TLYS|Tilly's, Inc. Common Stock|N|TLYS|N|100|N|TLYS
 TM|Toyota Motor Corporation Common Stock|N|TM|N|100|N|TM
+TMAT|Main Thematic Innovation ETF|Z|TMAT|Y|100|N|TMAT
 TMBR|Timber Pharmaceuticals, Inc. Common Stock|A|TMBR|N|100|N|TMBR
 TMDV|ProShares Russell US Dividend Growers ETF|Z|TMDV|Y|100|N|TMDV
 TME|Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares|N|TME|N|100|N|TME
@@ -5636,4 +5642,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0128202115:41||||||
+File Creation Time: 0129202112:12||||||
