@@ -885,7 +885,7 @@ CTEST.S,CTEST.S|NYSE Test Six Common Stock
 CTEST.V,CTEST.V|NYSE Test One Common Stock
 CTK,CTK|CooTek (Cayman) Inc. American Depositary Shares, each representing 50 Class A Ordinary Shares
 CTLT,CTLT|Catalent, Inc. Common Stock
-CTO,CTO|CTO Realty Growth, Inc. Common Stock 
+CTO,CTO|CTO Realty Growth, Inc. Common Stock
 CTR,CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock
 CTRA,CTRA|Contura Energy, Inc. Common Stock
 CTS,CTS|CTS Corporation Common Stock
@@ -2554,6 +2554,7 @@ OMC,OMC|Omnicom Group Inc. Common Stock
 OMF,OMF|OneMain Holdings, Inc. Common Stock
 OMI,OMI|Owens & Minor, Inc. Common Stock
 ONE,ONE|OneSmart International Education Group Limited ADS
+ONTF,ONTF|ON24, Inc. Common Stock
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
@@ -2760,6 +2761,7 @@ PROS,PROS|ProSight Global, Inc. Common Stock
 PRPB,PRPB|CC Neuberger Principal Holdings II Class A Ordinary Shares
 PRPB.U,PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 PRPB.W,PRPB.W|CC Neuberger Principal Holdings II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+PRPC.U,PRPC.U|CC Neuberger Principal Holdings III Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant
 PRS,PRS|Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058
 PRSP,PRSP|Perspecta Inc. Common Stock 
 PRT,PRT|PermRock Royalty Trust Trust Units
@@ -3313,6 +3315,7 @@ TINV,TINV|Tiga Acquisition Corp. Class A Ordinary Shares
 TINV.U,TINV.U|Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant
 TINV.W,TINV.W|Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 TISI,TISI|Team, Inc. Common Stock
+TIXT,TIXT|TELUS International (Cda) Inc. Subordinate Voting Shares
 TJX,TJX|TJX Companies, Inc. (The) Common Stock
 TK,TK|Teekay Corporation Common Stock
 TKAT,TKAT|Takung Art Co., Ltd. Common Stock
@@ -3322,6 +3325,7 @@ TLGA.U,TLGA.U|TLG Acquisition One Corp. Units, each consisting of one share of C
 TLK,TLK|PT Telekomunikasi Indonesia, Tbk
 TLYS,TLYS|Tilly's, Inc. Common Stock
 TM,TM|Toyota Motor Corporation Common Stock
+TMAC.U,TMAC.U|The Music Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 TMBR,TMBR|Timber Pharmaceuticals, Inc. Common Stock
 TME,TME|Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares
 TMHC,TMHC|Taylor Morrison Home Corporation Common Stock
@@ -3592,6 +3596,7 @@ WEX,WEX|WEX Inc. common stock
 WF,WF|Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)
 WFC,WFC|Wells Fargo & Company Common Stock
 WFC$A,WFC$A|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+WFC$C,WFC$C|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
 WFC$L,WFC$L|Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
 WFC$N,WFC$N|Wells Fargo & Company Dep Shs Repstg 1/1000th Perp Pfd Cl A Ser N
 WFC$O,WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Preferred Class A Series O
@@ -5091,6 +5096,7 @@ GFNCP,GFNCP|General Finance Corporation - Cumulative Redeemable Perpetual Prefer
 GFNSZ,GFNSZ|General Finance Corporation - 7.875% Senior Notes due 2025
 GGAL,GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
 GH,GH|Guardant Health, Inc. - Common Stock
+GHACU,GHACU|Gaming & Hospitality Acquisition Corp. - Unit
 GHSI,GHSI|Guardion Health Sciences, Inc. - Common Stock
 GHVI,GHVI|Gores Holdings VI, Inc. - Class A Common Stock
 GHVIU,GHVIU|Gores Holdings VI, Inc. - Unit
@@ -5574,6 +5580,7 @@ KPTI,KPTI|Karyopharm Therapeutics Inc. - Common Stock
 KRBP,KRBP|Kiromic BioPharma, Inc. - Common Stock
 KRKR,KRKR|36Kr Holdings Inc. - American Depositary Shares
 KRMD,KRMD|Repro Med Systems, Inc. - Common Stock
+KRNLU,KRNLU|Kernel Group Holdings, Inc. - Units
 KRNT,KRNT|Kornit Digital Ltd. - Ordinary Shares
 KRNY,KRNY|Kearny Financial - Common Stock
 KRON,KRON|Kronos Bio, Inc. - Common Stock
@@ -6000,9 +6007,6 @@ NFLX,NFLX|Netflix, Inc. - Common Stock
 NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
 NGACU,NGACU|NextGen Acquisition Corporation - Units
 NGACW,NGACW|NextGen Acquisition Corporation - Warrants
-NGHCO,NGHCO|National General Holdings Corp - Depositary Shares
-NGHCP,NGHCP|National General Holdings Corp - 7.50% Non-Cumulative Preferred Stock, Series A
-NGHCZ,NGHCZ|National General Holdings Corp - 7.625% Subordinated Notes due 2055
 NGM,NGM|NGM Biopharmaceuticals, Inc. - Common Stock
 NGMS,NGMS|NeoGames S.A. - Ordinary Shares
 NH,NH|NantHealth, Inc. - Common Stock

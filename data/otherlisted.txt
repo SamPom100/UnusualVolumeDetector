@@ -1097,7 +1097,7 @@ CTEST.S|NYSE Test Six Common Stock|N|CTEST.S|N|100|Y|CTEST.S
 CTEST.V|NYSE Test One Common Stock|N|CTEST.V|N|100|Y|CTEST.V
 CTK|CooTek (Cayman) Inc. American Depositary Shares, each representing 50 Class A Ordinary Shares|N|CTK|N|100|N|CTK
 CTLT|Catalent, Inc. Common Stock|N|CTLT|N|100|N|CTLT
-CTO|CTO Realty Growth, Inc. Common Stock |A|CTO|N|100|N|CTO
+CTO|CTO Realty Growth, Inc. Common Stock|N|CTO|N|100|N|CTO
 CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock|N|CTR|N|100|N|CTR
 CTRA|Contura Energy, Inc. Common Stock|N|CTRA|N|100|N|CTRA
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
@@ -3756,6 +3756,7 @@ ONEV|SPDR Russell 1000 Low Volatility Focus ETF|P|ONEV|Y|100|N|ONEV
 ONEY|SPDR Russell 1000 Yield Focus ETF|P|ONEY|Y|100|N|ONEY
 ONLN|ProShares Online Retail ETF|P|ONLN|Y|100|N|ONLN
 ONOF|Global X Adaptive U.S. Risk Management ETF|P|ONOF|Y|100|N|ONOF
+ONTF|ON24, Inc. Common Stock|N|ONTF|N|100|N|ONTF
 ONTO|Onto Innovation Inc. Common Stock|N|ONTO|N|100|N|ONTO
 OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
@@ -4044,6 +4045,7 @@ PROS|ProSight Global, Inc. Common Stock|N|PROS|N|100|N|PROS
 PRPB|CC Neuberger Principal Holdings II Class A Ordinary Shares|N|PRPB|N|100|N|PRPB
 PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|PRPB.U|N|100|N|PRPB=
 PRPB.W|CC Neuberger Principal Holdings II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PRPB.WS|N|100|N|PRPB+
+PRPC.U|CC Neuberger Principal Holdings III Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|PRPC.U|N|100|N|PRPC=
 PRS|Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058|N|PRS|N|100|N|PRS
 PRSP|Perspecta Inc. Common Stock |N|PRSP|N|100|N|PRSP
 PRT|PermRock Royalty Trust Trust Units|N|PRT|N|100|N|PRT
@@ -4515,6 +4517,7 @@ SEF|ProShares Short Financials|P|SEF|Y|100|N|SEF
 SEIX|Virtus Seix Senior Loan ETF|P|SEIX|Y|100|N|SEIX
 SEM|Select Medical Holdings Corporation Common Stock|N|SEM|N|100|N|SEM
 SENS|Senseonics Holdings, Inc. Common Stock|A|SENS|N|100|N|SENS
+SENT|AdvisorShares Alpha DNA Equity Sentiment ETF|P|SENT|Y|100|N|SENT
 SEPZ|Listed Funds Trust TrueShares Structured Outcome (September) ETF|Z|SEPZ|Y|100|N|SEPZ
 SF|Stifel Financial Corporation Common Stock|N|SF|N|100|N|SF
 SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A|N|SFpA|N|100|N|SF-A
@@ -4977,6 +4980,7 @@ TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPX|SPDR Bloomberg Barclays 1-10 Year TIPS|P|TIPX|Y|100|N|TIPX
 TIPZ|PIMCO Broad U.S. TIPS Index Exchange-Traded Fund|P|TIPZ|Y|100|N|TIPZ
 TISI|Team, Inc. Common Stock|N|TISI|N|100|N|TISI
+TIXT|TELUS International (Cda) Inc. Subordinate Voting Shares|N|TIXT|N|100|N|TIXT
 TJX|TJX Companies, Inc. (The) Common Stock|N|TJX|N|100|N|TJX
 TK|Teekay Corporation Common Stock|N|TK|N|100|N|TK
 TKAT|Takung Art Co., Ltd. Common Stock|A|TKAT|N|100|N|TKAT
@@ -4989,6 +4993,7 @@ TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLT
 TLTE|FlexShares Morningstar Emerging Markets Factor Tilt Index Fund|P|TLTE|Y|100|N|TLTE
 TLYS|Tilly's, Inc. Common Stock|N|TLYS|N|100|N|TLYS
 TM|Toyota Motor Corporation Common Stock|N|TM|N|100|N|TM
+TMAC.U|The Music Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|TMAC.U|N|100|N|TMAC=
 TMAT|Main Thematic Innovation ETF|Z|TMAT|Y|100|N|TMAT
 TMBR|Timber Pharmaceuticals, Inc. Common Stock|A|TMBR|N|100|N|TMBR
 TMDV|ProShares Russell US Dividend Growers ETF|Z|TMDV|Y|100|N|TMDV
@@ -5444,6 +5449,7 @@ WEX|WEX Inc. common stock|N|WEX|N|100|N|WEX
 WF|Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)|N|WF|N|100|N|WF
 WFC|Wells Fargo & Company Common Stock|N|WFC|N|100|N|WFC
 WFC$A|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA|N|WFCpA|N|100|N|WFC-A
+WFC$C|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC|N|WFCpC|N|100|N|WFC-C
 WFC$L|Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L|N|WFCpL|N|100|N|WFC-L
 WFC$N|Wells Fargo & Company Dep Shs Repstg 1/1000th Perp Pfd Cl A Ser N|N|WFCpN|N|100|N|WFC-N
 WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Preferred Class A Series O|N|WFCpO|N|100|N|WFC-O
@@ -5652,4 +5658,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0202202112:12||||||
+File Creation Time: 0203202112:12||||||
