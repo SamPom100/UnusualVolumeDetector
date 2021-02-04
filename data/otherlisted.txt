@@ -38,6 +38,7 @@ ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACIC|Atlas Crest Investment Corp. Class A Common Stock|N|ACIC|N|100|N|ACIC
 ACIC.U|Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of one redeemable warrant|N|ACIC.U|N|100|N|ACIC=
 ACIC.W|Atlas Crest Investment Corp. Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50|N|ACIC.WS|N|100|N|ACIC+
+ACII.U|Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value, and one-fourth of one redeemable warrant|N|ACII.U|N|100|N|ACII=
 ACIO|ETF Series Solutions Aptus Collared Income Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
@@ -222,6 +223,7 @@ AMOV|America Movil, S.A.B. de C.V. Class A American Depositary Shares|N|AMOV|N|1
 AMP|Ameriprise Financial, Inc. Common Stock|N|AMP|N|100|N|AMP
 AMPE|Ampio Pharmaceuticals, Inc.|A|AMPE|N|100|N|AMPE
 AMPY|Amplify Energy Corp. Common Stock|N|AMPY|N|100|N|AMPY
+AMR|Alpha Metallurgical Resources, Inc. Common Stock|N|AMR|N|100|N|AMR
 AMRC|Ameresco, Inc. Class A Common Stock|N|AMRC|N|100|N|AMRC
 AMRX|Amneal Pharmaceuticals, Inc. Class A Common Stock|N|AMRX|N|100|N|AMRX
 AMS|American Shared Hospital Services Common Stock|A|AMS|N|100|N|AMS
@@ -338,6 +340,7 @@ ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whole warr
 ATAC|Altimar Acquisition Corporation Class A Ordinary Shares|N|ATAC|N|100|N|ATAC
 ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ATAC.U|N|100|N|ATAC=
 ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ATAC.WS|N|100|N|ATAC+
+ATC|Atotech Limited Common Shares|N|ATC|N|100|N|ATC
 ATCO|Atlas Corp. Common Shares|N|ATCO|N|100|N|ATCO
 ATCO$D|Atlas Corp. 7.95% Series D|N|ATCOpD|N|100|N|ATCO-D
 ATCO$E|Atlas Corp. 8.25% Series E|N|ATCOpE|N|100|N|ATCO-E
@@ -1099,7 +1102,6 @@ CTK|CooTek (Cayman) Inc. American Depositary Shares, each representing 50 Class 
 CTLT|Catalent, Inc. Common Stock|N|CTLT|N|100|N|CTLT
 CTO|CTO Realty Growth, Inc. Common Stock|N|CTO|N|100|N|CTO
 CTR|ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock|N|CTR|N|100|N|CTR
-CTRA|Contura Energy, Inc. Common Stock|N|CTRA|N|100|N|CTRA
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
 CTT|CatchMark Timber Trust, Inc. Class A Common Stock|N|CTT|N|100|N|CTT
 CTVA|Corteva, Inc. Common Stock |N|CTVA|N|100|N|CTVA
@@ -1191,7 +1193,6 @@ DCP$B|DCP Midstream LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeema
 DCP$C|DCP Midstream LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units|N|DCPpC|N|100|N|DCP-C
 DCUE|Dominion Energy, Inc. 2019 Series A Corporate Units|N|DCUE|N|100|N|DCUE
 DD|DuPont de Nemours, Inc. Common Stock|N|DD|N|100|N|DD
-DD.Z|DuPont de Nemours, Inc. Common Stock When Distributed|N|DD.WD|N|100|N|DD$
 DDD|3D Systems Corporation Common Stock|N|DDD|N|100|N|DDD
 DDEC|FT Cboe Vest U.S. Equity Deep Buffer ETF - December|Z|DDEC|Y|100|N|DDEC
 DDF|Delaware Investments Dividend & Income Fund, Inc. Common Stock|N|DDF|N|100|N|DDF
@@ -1832,6 +1833,7 @@ FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
 FGNA|FG New America Acquisition Corp. Class A Common Stock|N|FGNA|N|100|N|FGNA
 FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
 FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FGNA.WS|N|100|N|FGNA+
+FGRO|Fidelity Growth Opportunities ETF|Z|FGRO|Y|100|N|FGRO
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
 FHN|First Horizon Corporation Common Stock|N|FHN|N|100|N|FHN
@@ -1929,6 +1931,7 @@ FM|iShares MSCI Frontier 100 Fund|P|FM|Y|100|N|FM
 FMAC|FirstMark Horizon Acquisition Corp. Class A Common Stock|N|FMAC|N|100|N|FMAC
 FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|FMAC.U|N|100|N|FMAC=
 FMAC.W|FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|FMAC.WS|N|100|N|FMAC+
+FMAG|Fidelity Magellan ETF|Z|FMAG|Y|100|N|FMAG
 FMAT|Fidelity MSCI Materials Index ETF|P|FMAT|Y|100|N|FMAT
 FMAY|FT Cboe Vest U.S. Equity Buffer ETF - May|Z|FMAY|Y|100|N|FMAY
 FMC|FMC Corporation Common Stock|N|FMC|N|100|N|FMC
@@ -1975,6 +1978,7 @@ FPH|Five Point Holdings, LLC Class A Common Shares|N|FPH|N|100|N|FPH
 FPI|Farmland Partners Inc. Common Stock|N|FPI|N|100|N|FPI
 FPI$B|Farmland Partners Inc. Series B Participating Preferred Stock|N|FPIpB|N|100|N|FPI-B
 FPL|First Trust New Opportunities MLP & Energy Fund Common Shares of Beneficial Interest|N|FPL|N|100|N|FPL
+FPRO|Fidelity Real Estate Investment ETF|Z|FPRO|Y|100|N|FPRO
 FPX|First Trust US Equity Opportunities ETF|P|FPX|Y|100|N|FPX
 FQAL|Fidelity Quality Factor ETF|P|FQAL|Y|100|N|FQAL
 FR|First Industrial Realty Trust, Inc. Common Stock|N|FR|N|100|N|FR
@@ -2007,6 +2011,7 @@ FSLY|Fastly, Inc. Class A Common Stock|N|FSLY|N|100|N|FSLY
 FSM|Fortuna Silver Mines Inc Ordinary Shares (Canada)|N|FSM|N|100|N|FSM
 FSMB|First Trust Short Duration Managed Municipal ETF|P|FSMB|Y|100|N|FSMB
 FSMD|Fidelity Small-Mid Multifactor ETF|P|FSMD|Y|100|N|FSMD
+FSMO|Fidelity Small-Mid Cap Opportunities ETF|Z|FSMO|Y|100|N|FSMO
 FSP|Franklin Street Properties Corp. Common Stock|A|FSP|N|100|N|FSP
 FSR|Fisker Inc. Class A Common Stock|N|FSR|N|100|N|FSR
 FSR.W|Fisker Inc. Warrants, |N|FSR.WS|N|100|N|FSR+
@@ -2600,7 +2605,6 @@ IEV|iShares Europe ETF|P|IEV|Y|100|N|IEV
 IEX|IDEX Corporation Common Stock|N|IEX|N|100|N|IEX
 IEZ|iShares U.S. Oil Equipment & Services ETF|P|IEZ|Y|100|N|IEZ
 IFF|Internationa Flavors & Fragrances, Inc. Common Stock|N|IFF|N|100|N|IFF
-IFF.V|International Flavors & Fragrances, Inc. Common Stock Additional Shares When Issued|N|IFFw|N|100|N|IFF#
 IFFT|International Flavors & Fragrances, Inc. 6.00% Tangible Equity Units|N|IFFT|N|100|N|IFFT
 IFN|India Fund, Inc. (The) Common Stock|N|IFN|N|100|N|IFN
 IFRA|iShares U.S. Infrastructure ETF|Z|IFRA|Y|100|N|IFRA
@@ -3075,6 +3079,7 @@ LCII|LCI Industries|N|LCII|N|100|N|LCII
 LCR|Leuthold Core ETF|P|LCR|Y|100|N|LCR
 LCTX|Lineage Cell Therapeutics, Inc. Common Stock|A|LCTX|N|100|N|LCTX
 LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN|P|LD|N|100|N|LD
+LDI|loanDepot, Inc. Class A Common Stock|N|LDI|N|100|N|LDI
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
 LDOS|Leidos Holdings, Inc. Common Stock|N|LDOS|N|100|N|LDOS
 LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|N|LDP
@@ -3199,6 +3204,7 @@ MAX|MediaAlpha, Inc. Class A Common Stock|N|MAX|N|100|N|MAX
 MAXR|Maxar Technologies Inc.|N|MAXR|N|100|N|MAXR
 MBBB|VanEck Vectors Moody's Analytics BBB Corporate Bond ETF|Z|MBBB|Y|100|N|MBBB
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
+MBND|SPDR Nuveen Municipal Bond ETF|Z|MBND|Y|100|N|MBND
 MBSD|FlexShares Trust FlexShares Disciplined Duration MBS Index Fund|P|MBSD|Y|100|N|MBSD
 MBT|Mobile TeleSystems PJSC|N|MBT|N|100|N|MBT
 MC|Moelis & Company Class A Common Stock|N|MC|N|100|N|MC
@@ -3694,6 +3700,7 @@ NXP|Nuveen Select Tax Free Income Portfolio Common Stock|N|NXP|N|100|N|NXP
 NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock|N|NXQ|N|100|N|NXQ
 NXR|Nuveen Select Tax Free Income Portfolio III Common Stock|N|NXR|N|100|N|NXR
 NXRT|NexPoint Residential Trust, Inc. Common Stock|N|NXRT|N|100|N|NXRT
+NXU.U|Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one third of one redeemable warrant|N|NXU.U|N|100|N|NXU=
 NYC|New York City REIT, Inc. Class A Common Stock|N|NYC|N|100|N|NYC
 NYCB|New York Community Bancorp, Inc. Common Stock|N|NYCB|N|100|N|NYCB
 NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock|N|NYCBpA|N|100|N|NYCB-A
@@ -5311,7 +5318,10 @@ VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|
 VGR|Vector Group Ltd. Common Stock|N|VGR|N|100|N|VGR
 VGT|Vanguard Information Tech ETF|P|VGT|Y|100|N|VGT
 VGZ|Vista Gold Corp Common Stock|A|VGZ|N|100|N|VGZ
+VHAQ|Viveon Health Acquisition Corp. Common Stock|A|VHAQ|N|100|N|VHAQ
+VHAQ.R|Viveon Health Acquisition Corp. Rights, each exchangeable into one-twentieth of a share of Common Stock|A|VHAQr|N|100|N|VHAQ^
 VHAQ.U|Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock|A|VHAQ.U|N|100|N|VHAQ=
+VHAQ.W|Viveon Health Acquisition Corp. Warrants to purchase one-half of a share of common stock at a price of $11.50 per whole share|A|VHAQ.WS|N|100|N|VHAQ+
 VHC|VirnetX Holding Corp Common Stock|N|VHC|N|100|N|VHC
 VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF|P|VHT|Y|100|N|VHT
@@ -5658,4 +5668,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0203202115:43||||||
+File Creation Time: 0204202112:12||||||
