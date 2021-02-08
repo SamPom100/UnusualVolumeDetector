@@ -2140,7 +2140,9 @@ GFF|Griffon Corporation Common Stock|N|GFF|N|100|N|GFF
 GFI|Gold Fields Limited American Depositary Shares|N|GFI|N|100|N|GFI
 GFL|GFL Environmental Inc. Subordinate voting shares, no par value|N|GFL|N|100|N|GFL
 GFLU|GFL Environmental Inc. Tangible Equity Units|N|GFLU|N|100|N|GFLU
+GFX|Golden Falcon Acquisition Corp. Class A Common Stock|N|GFX|N|100|N|GFX
 GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|GFX.U|N|100|N|GFX=
+GFX.W|Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|GFX.WS|N|100|N|GFX+
 GGB|Gerdau S.A. Common Stock|N|GGB|N|100|N|GGB
 GGG|Graco Inc. Common Stock|N|GGG|N|100|N|GGG
 GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest|N|GGM|N|100|N|GGM
@@ -3089,7 +3091,6 @@ LCII|LCI Industries|N|LCII|N|100|N|LCII
 LCR|Leuthold Core ETF|P|LCR|Y|100|N|LCR
 LCTX|Lineage Cell Therapeutics, Inc. Common Stock|A|LCTX|N|100|N|LCTX
 LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN|P|LD|N|100|N|LD
-LDI|loanDepot, Inc. Class A Common Stock|N|LDI|N|100|N|LDI
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
 LDOS|Leidos Holdings, Inc. Common Stock|N|LDOS|N|100|N|LDOS
 LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|N|LDP
@@ -3520,6 +3521,7 @@ NEP|NextEra Energy Partners, LP Common Units representing limited partner intere
 NERD|Roundhill BITKRAFT Esports & Digital Entertainment ETF|P|NERD|Y|100|N|NERD
 NES|Nuverra Environmental Solutions, Inc. Common Stock|A|NES|N|100|N|NES
 NET|Cloudflare, Inc. Class A Common Stock|N|NET|N|100|N|NET
+NETI|Eneti Inc. Common Stock|N|NETI|N|100|N|NETI
 NETL|NETLease Corporate Real Estate ETF|P|NETL|Y|100|N|NETL
 NEU|NewMarket Corp Common Stock|N|NEU|N|100|N|NEU
 NEV|Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest|N|NEV|N|100|N|NEV
@@ -3677,7 +3679,6 @@ NUHY|Nuveen ESG High Yield Corporate Bond ETF|P|NUHY|Y|100|N|NUHY
 NULC|Nuveen ESG Large-Cap ETF|Z|NULC|Y|100|N|NULC
 NULG|Nuveen ESG Large-Cap Growth ETF|Z|NULG|Y|100|N|NULG
 NULV|Nuveen ESG Large-Cap Value ETF|Z|NULV|Y|100|N|NULV
-NUM|Nuveen Michigan Quality Municipal Income Fund Common Stock|N|NUM|N|100|N|NUM
 NUMG|Nuveen ESG Mid-Cap Growth ETF|Z|NUMG|Y|100|N|NUMG
 NUMV|Nuveen ESG Mid-Cap Value ETF|Z|NUMV|Y|100|N|NUMV
 NUO|Nuveen Ohio Quality Municipal Income Fund Common Stock|N|NUO|N|100|N|NUO
@@ -4432,7 +4433,6 @@ SAH|Sonic Automotive, Inc. Common Stock|N|SAH|N|100|N|SAH
 SAIC|SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock|N|SAIC|N|100|N|SAIC
 SAIL|SailPoint Technologies Holdings, Inc. Common Stock|N|SAIL|N|100|N|SAIL
 SAK|Saratoga Investment Corp 7.25% Notes due 2025|N|SAK|N|100|N|SAK
-SALT|Scorpio Bulkers Inc. Common Stock|N|SALT|N|100|N|SALT
 SAM|Boston Beer Company, Inc. (The) Common Stock|N|SAM|N|100|N|SAM
 SAN|Banco Santander, S.A. Sponsored ADR (Spain)|N|SAN|N|100|N|SAN
 SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)|N|SAND|N|100|N|SAND
@@ -5681,4 +5681,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0205202115:44||||||
+File Creation Time: 0208202112:12||||||

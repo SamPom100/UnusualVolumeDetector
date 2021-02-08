@@ -1477,7 +1477,9 @@ GFF,GFF|Griffon Corporation Common Stock
 GFI,GFI|Gold Fields Limited American Depositary Shares
 GFL,GFL|GFL Environmental Inc. Subordinate voting shares, no par value
 GFLU,GFLU|GFL Environmental Inc. Tangible Equity Units
+GFX,GFX|Golden Falcon Acquisition Corp. Class A Common Stock
 GFX.U,GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
+GFX.W,GFX.W|Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 GGB,GGB|Gerdau S.A. Common Stock
 GGG,GGG|Graco Inc. Common Stock
 GGM,GGM|Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest
@@ -2023,7 +2025,6 @@ LCI,LCI|Lannett Co Inc Common Stock
 LCII,LCII|LCI Industries
 LCTX,LCTX|Lineage Cell Therapeutics, Inc. Common Stock
 LD,LD|iPath Bloomberg Lead Subindex Total Return SM Index ETN
-LDI,LDI|loanDepot, Inc. Class A Common Stock
 LDL,LDL|Lydall, Inc. Common Stock
 LDOS,LDOS|Leidos Holdings, Inc. Common Stock
 LDP,LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
@@ -2355,6 +2356,7 @@ NEN,NEN|New England Realty Associates Limited Partnership Class A Depositary Rec
 NEP,NEP|NextEra Energy Partners, LP Common Units representing limited partner interests
 NES,NES|Nuverra Environmental Solutions, Inc. Common Stock
 NET,NET|Cloudflare, Inc. Class A Common Stock
+NETI,NETI|Eneti Inc. Common Stock
 NEU,NEU|NewMarket Corp Common Stock
 NEV,NEV|Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest
 NEW,NEW|Puxin Limited American Depositary Shares, each representing two Ordinary Shares
@@ -2491,7 +2493,6 @@ NTR,NTR|Nutrien Ltd. Common Shares
 NTST,NTST|NetSTREIT Corp. Common Stock
 NTZ,NTZ|Natuzzi, S.p.A.
 NUE,NUE|Nucor Corporation Common Stock
-NUM,NUM|Nuveen Michigan Quality Municipal Income Fund Common Stock
 NUO,NUO|Nuveen Ohio Quality Municipal Income Fund Common Stock
 NUS,NUS|Nu Skin Enterprises, Inc. Common Stock
 NUV,NUV|Nuveen Municipal Value Fund, Inc. Common Stock
@@ -2984,7 +2985,6 @@ SAH,SAH|Sonic Automotive, Inc. Common Stock
 SAIC,SAIC|SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock
 SAIL,SAIL|SailPoint Technologies Holdings, Inc. Common Stock
 SAK,SAK|Saratoga Investment Corp 7.25% Notes due 2025
-SALT,SALT|Scorpio Bulkers Inc. Common Stock
 SAM,SAM|Boston Beer Company, Inc. (The) Common Stock
 SAN,SAN|Banco Santander, S.A. Sponsored ADR (Spain)
 SAND,SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)
@@ -4117,6 +4117,7 @@ BANF,BANF|BancFirst Corporation - Common Stock
 BANFP,BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
 BANR,BANR|Banner Corporation - Common Stock
 BANX,BANX|StoneCastle Financial Corp - Common Stock
+BAOS,BAOS|Baosheng Media Group Holdings Limited - Ordinary shares
 BASI,BASI|Bioanalytical Systems, Inc. - Common Stock
 BATRA,BATRA|Liberty Media Corporation - Series A Liberty Braves Common Stock
 BATRK,BATRK|Liberty Media Corporation - Series C Liberty Braves Common Stock
@@ -4273,6 +4274,7 @@ BRY,BRY|Berry Corporation (bry) - Common Stock
 BSBK,BSBK|Bogota Financial Corp. - Common Stock
 BSET,BSET|Bassett Furniture Industries, Incorporated - Common Stock
 BSGM,BSGM|BioSig Technologies, Inc. - Common Stock
+BSPE,BSPE|Bespoke Capital Acquisition Corp. - Class A Restricted Voting Shares
 BSQR,BSQR|BSQUARE Corporation - Common Stock
 BSRR,BSRR|Sierra Bancorp - Common Stock
 BSVN,BSVN|Bank7 Corp. - Common stock
@@ -4978,7 +4980,9 @@ FIVE,FIVE|Five Below, Inc. - Common Stock
 FIVN,FIVN|Five9, Inc. - Common Stock
 FIXX,FIXX|Homology Medicines, Inc. - Common Stock
 FIZZ,FIZZ|National Beverage Corp. - Common Stock
+FLAC,FLAC|Frazier Lifesciences Acquisition Corporation - Class A Ordinary Shares
 FLACU,FLACU|Frazier Lifesciences Acquisition Corporation - Unit
+FLACW,FLACW|Frazier Lifesciences Acquisition Corporation - Warrant
 FLDM,FLDM|Fluidigm Corporation - Common Stock
 FLEX,FLEX|Flex Ltd. - Ordinary Shares
 FLGT,FLGT|Fulgent Genetics, Inc. - Common Stock
@@ -5036,7 +5040,6 @@ FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRTA,FRTA|Forterra, Inc. - Common Stock
 FSBW,FSBW|FS Bancorp, Inc. - Common Stock
-FSDC,FSDC|FS Development Corp. - Class A Common Stock
 FSEA,FSEA|First Seacoast Bancorp - Common Stock
 FSFG,FSFG|First Savings Financial Group, Inc. - Common Stock
 FSLR,FSLR|First Solar, Inc. - Common Stock
@@ -5157,6 +5160,7 @@ GMDA,GMDA|Gamida Cell Ltd. - Ordinary Shares
 GMIIU,GMIIU|Gores Metropoulos II, Inc. - Unit
 GMLP,GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership
 GMLPP,GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units
+GMTX,GMTX|Gemini Therapeutics, Inc. - Common Stock
 GNACU,GNACU|Group Nine Acquisition Corp. - Unit
 GNCA,GNCA|Genocea Biosciences, Inc. - Common Stock
 GNFT,GNFT|GENFIT S.A. - American Depositary Shares
@@ -5309,7 +5313,7 @@ HMCOU,HMCOU|HumanCo Acquisition Corp. - Unit
 HMCOW,HMCOW|HumanCo Acquisition Corp. - Warrant
 HMHC,HMHC|Houghton Mifflin Harcourt Company - Common Stock
 HMNF,HMNF|HMN Financial, Inc. - Common Stock
-HMPT,HMPT|Home Point Capital, Inc - Common Stock
+HMPT,HMPT|Home Point Capital Inc. - Common Stock
 HMST,HMST|HomeStreet, Inc. - Common Stock
 HMSY,HMSY|HMS Holdings Corp - Common Stock
 HMTV,HMTV|Hemisphere Media Group, Inc. - Class A Common Stock
@@ -5421,7 +5425,9 @@ IGMS,IGMS|IGM Biosciences, Inc. - Common Stock
 IGNYU,IGNYU|Ignyte Acquisition Corp. - Unit
 IHRT,IHRT|iHeartMedia, Inc. - Class A Common Stock
 III,III|Information Services Group, Inc. - Common Stock
+IIII,IIII|INSU Acquisition Corp. III - Class A Common Stock
 IIIIU,IIIIU|INSU Acquisition Corp. III - Unit
+IIIIW,IIIIW|INSU Acquisition Corp. III - Warrant
 IIIN,IIIN|Insteel Industries, Inc. - Common Stock
 IIIV,IIIV|i3 Verticals, Inc. - Common Stock
 IIN,IIN|IntriCon Corporation - Common Stock
@@ -5957,7 +5963,9 @@ MSGM,MSGM|Motorsport Games Inc. - Class A Common Stock
 MSON,MSON|MISONIX, Inc. - Common Stock
 MSTR,MSTR|MicroStrategy Incorporated - Class A Common Stock
 MSVB,MSVB|Mid-Southern Bancorp, Inc. - Common Stock
+MTAC,MTAC|MedTech Acquisition Corporation - Class A Common Stock
 MTACU,MTACU|MedTech Acquisition Corporation - Unit
+MTACW,MTACW|MedTech Acquisition Corporation - Warrant
 MTBC,MTBC|MTBC, Inc. - Common Stock
 MTBCP,MTBCP|MTBC, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock
 MTC,MTC|MMTec, Inc. - Common Shares
@@ -7383,6 +7391,7 @@ XPER,XPER|Xperi Holding Corporation - Common Stock
 XRAY,XRAY|DENTSPLY SIRONA Inc. - Common Stock
 XSPA,XSPA|XpresSpa Group, Inc.  - Common Stock
 XTLB,XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares
+YELL,YELL|Yellow Corporation - Common Stock
 YGMZ,YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares
 YI,YI|111, Inc. - American Depositary Shares
 YJ,YJ|Yunji Inc. - American Depository Shares
@@ -7391,7 +7400,6 @@ YMTX,YMTX|Yumanity Therapeutics, Inc.  - Common Stock
 YNDX,YNDX|Yandex N.V. - Class A Ordinary Shares
 YORW,YORW|The York Water Company - Common Stock
 YQ,YQ|17 Education & Technology Group Inc. - American Depositary Shares
-YRCW,YRCW|YRC Worldwide, Inc. - Common Stock
 YSAC,YSAC|Yellowstone Acquisition Company - Class A Common Stock
 YSACU,YSACU|Yellowstone Acquisition Company - Units
 YSACW,YSACW|Yellowstone Acquisition Company - Warrants to purchase Class A common stock

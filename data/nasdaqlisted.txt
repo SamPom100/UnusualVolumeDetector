@@ -65,8 +65,8 @@ ADILW|Adial Pharmaceuticals, Inc - Warrant|S|N|N|100|N|N
 ADMA|ADMA Biologics Inc - Common Stock|G|N|N|100|N|N
 ADMP|Adamis Pharmaceuticals Corporation - Common Stock|S|N|D|100|N|N
 ADMS|Adamas Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
-ADN|Advent Technologies Holdings, Inc. - Class A Common Stock|S|N|D|100|N|N
-ADNWW|Advent Technologies Holdings, Inc. - Warrant|S|N|D|100|N|N
+ADN|Advent Technologies Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
+ADNWW|Advent Technologies Holdings, Inc. - Warrant|S|N|N|100|N|N
 ADOC|Edoc Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 ADOCR|Edoc Acquisition Corp. - Right|S|N|N|100|N|N
 ADOCW|Edoc Acquisition Corp. - Warrant|S|N|N|100|N|N
@@ -393,6 +393,7 @@ BANF|BancFirst Corporation - Common Stock|Q|N|N|100|N|N
 BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities|Q|N|N|100|N|N
 BANR|Banner Corporation - Common Stock|Q|N|N|100|N|N
 BANX|StoneCastle Financial Corp - Common Stock|Q|N|N|100|N|N
+BAOS|Baosheng Media Group Holdings Limited - Ordinary shares|S|N|N|100|N|N
 BASI|Bioanalytical Systems, Inc. - Common Stock|S|N|N|100|N|N
 BATRA|Liberty Media Corporation - Series A Liberty Braves Common Stock|Q|N|N|100|N|N
 BATRK|Liberty Media Corporation - Series C Liberty Braves Common Stock|Q|N|N|100|N|N
@@ -593,6 +594,7 @@ BSMR|Invesco BulletShares 2027 Municipal Bond ETF|G|N|N|100|Y|N
 BSMS|Invesco BulletShares 2028 Municipal Bond ETF|G|N|N|100|Y|N
 BSMT|Invesco BulletShares 2029 Municipal Bond ETF|G|N|N|100|Y|N
 BSMU|Invesco BulletShares 2030 Municipal Bond ETF|G|N|N|100|Y|N
+BSPE|Bespoke Capital Acquisition Corp. - Class A Restricted Voting Shares|G|N|N|100|N|N
 BSQR|BSQUARE Corporation - Common Stock|S|N|N|100|N|N
 BSRR|Sierra Bancorp - Common Stock|Q|N|N|100|N|N
 BSVN|Bank7 Corp. - Common stock|Q|N|N|100|N|N
@@ -1402,7 +1404,9 @@ FIXX|Homology Medicines, Inc. - Common Stock|Q|N|N|100|N|N
 FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100|N|N
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100|Y|N
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100|Y|N
+FLAC|Frazier Lifesciences Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
 FLACU|Frazier Lifesciences Acquisition Corporation - Unit|S|N|N|100|N|N
+FLACW|Frazier Lifesciences Acquisition Corporation - Warrant|S|N|N|100|N|N
 FLDM|Fluidigm Corporation - Common Stock|Q|N|N|100|N|N
 FLEX|Flex Ltd. - Ordinary Shares|Q|N|N|100|N|N
 FLGT|Fulgent Genetics, Inc. - Common Stock|G|N|N|100|N|N
@@ -1469,7 +1473,6 @@ FRPT|Freshpet, Inc. - Common Stock|G|N|N|100|N|N
 FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|N|100|N|N
 FRTA|Forterra, Inc. - Common Stock|Q|N|N|100|N|N
 FSBW|FS Bancorp, Inc. - Common Stock|S|N|N|100|N|N
-FSDC|FS Development Corp. - Class A Common Stock|S|N|N|100|N|N
 FSEA|First Seacoast Bancorp - Common Stock|S|N|N|100|N|N
 FSFG|First Savings Financial Group, Inc. - Common Stock|S|N|N|100|N|N
 FSLR|First Solar, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1615,6 +1618,7 @@ GMDA|Gamida Cell Ltd. - Ordinary Shares|G|N|N|100|N|N
 GMIIU|Gores Metropoulos II, Inc. - Unit|S|N|N|100|N|N
 GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|N|100|N|N
 GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units|Q|N|N|100|N|N
+GMTX|Gemini Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GNACU|Group Nine Acquisition Corp. - Unit|S|N|N|100|N|N
 GNCA|Genocea Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 GNFT|GENFIT S.A. - American Depositary Shares|Q|N|N|100|N|N
@@ -1775,7 +1779,7 @@ HMCOU|HumanCo Acquisition Corp. - Unit|S|N|N|100|N|N
 HMCOW|HumanCo Acquisition Corp. - Warrant|S|N|N|100|N|N
 HMHC|Houghton Mifflin Harcourt Company - Common Stock|Q|N|N|100|N|N
 HMNF|HMN Financial, Inc. - Common Stock|G|N|N|100|N|N
-HMPT|Home Point Capital, Inc - Common Stock|Q|N|N|100|N|N
+HMPT|Home Point Capital Inc. - Common Stock|Q|N|N|100|N|N
 HMST|HomeStreet, Inc. - Common Stock|Q|N|N|100|N|N
 HMSY|HMS Holdings Corp - Common Stock|Q|N|N|100|N|N
 HMTV|Hemisphere Media Group, Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -1915,7 +1919,9 @@ IGSB|iShares 1-5 Year Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
 IHRT|iHeartMedia, Inc. - Class A Common Stock|Q|N|N|100|N|N
 IHYF|Invesco High Yield Bond Factor ETF|G|N|N|100|Y|N
 III|Information Services Group, Inc. - Common Stock|G|N|N|100|N|N
+IIII|INSU Acquisition Corp. III - Class A Common Stock|S|N|N|100|N|N
 IIIIU|INSU Acquisition Corp. III - Unit|S|N|N|100|N|N
+IIIIW|INSU Acquisition Corp. III - Warrant|S|N|N|100|N|N
 IIIN|Insteel Industries, Inc. - Common Stock|Q|N|N|100|N|N
 IIIV|i3 Verticals, Inc. - Common Stock|Q|N|N|100|N|N
 IIN|IntriCon Corporation - Common Stock|G|N|N|100|N|N
@@ -2240,7 +2246,7 @@ LMAOU|LMF Acquisition Opportunities Inc. - Unit|S|N|N|100|N|N
 LMAT|LeMaitre Vascular, Inc. - Common Stock|G|N|N|100|N|N
 LMB|Limbach Holdings, Inc. - Common Stock|S|N|N|100|N|N
 LMBS|First Trust Low Duration Opportunities ETF|G|N|N|100|Y|N
-LMFA|LM Funding America, Inc. - Common Stock|S|N|D|100|N|N
+LMFA|LM Funding America, Inc. - Common Stock|S|N|N|100|N|N
 LMNL|Liminal BioSciences Inc. - Common Shares|G|N|N|100|N|N
 LMNR|Limoneira Co - Common Stock|Q|N|N|100|N|N
 LMNX|Luminex Corporation - Common Stock|Q|N|N|100|N|N
@@ -2487,7 +2493,9 @@ MSGM|Motorsport Games Inc. - Class A Common Stock|S|N|N|100|N|N
 MSON|MISONIX, Inc. - Common Stock|G|N|N|100|N|N
 MSTR|MicroStrategy Incorporated - Class A Common Stock|Q|N|N|100|N|N
 MSVB|Mid-Southern Bancorp, Inc. - Common Stock|S|N|N|100|N|N
+MTAC|MedTech Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 MTACU|MedTech Acquisition Corporation - Unit|S|N|N|100|N|N
+MTACW|MedTech Acquisition Corporation - Warrant|S|N|N|100|N|N
 MTBC|MTBC, Inc. - Common Stock|G|N|N|100|N|N
 MTBCP|MTBC, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
 MTC|MMTec, Inc. - Common Shares|S|N|N|100|N|N
@@ -4054,6 +4062,7 @@ XRAY|DENTSPLY SIRONA Inc. - Common Stock|Q|N|N|100|N|N
 XSPA|XpresSpa Group, Inc.  - Common Stock|S|N|N|100|N|N
 XT|iShares Exponential Technologies ETF|G|N|N|100|Y|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
+YELL|Yellow Corporation - Common Stock|Q|N|N|100|N|N
 YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 YI|111, Inc. - American Depositary Shares|G|N|N|100|N|N
 YJ|Yunji Inc. - American Depository Shares|G|N|N|100|N|N
@@ -4063,7 +4072,6 @@ YMTX|Yumanity Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 YNDX|Yandex N.V. - Class A Ordinary Shares|Q|N|N|100|N|N
 YORW|The York Water Company - Common Stock|Q|N|N|100|N|N
 YQ|17 Education & Technology Group Inc. - American Depositary Shares|Q|N|N|100|N|N
-YRCW|YRC Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 YSAC|Yellowstone Acquisition Company - Class A Common Stock|S|N|N|100|N|N
 YSACU|Yellowstone Acquisition Company - Units|S|N|N|100|N|N
 YSACW|Yellowstone Acquisition Company - Warrants to purchase Class A common stock|S|N|N|100|N|N
@@ -4115,4 +4123,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0205202115:44|||||||
+File Creation Time: 0208202112:12|||||||
