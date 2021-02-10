@@ -215,6 +215,7 @@ AP.W,AP.W|Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of c
 APAM,APAM|Artisan Partners Asset Management Inc. Class A Common Stock
 APD,APD|Air Products and Chemicals, Inc. Common Stock
 APG,APG|APi Group Corporation Common Stock
+APGB.U,APGB.U|Apollo Strategic Growth Capital II Units, each consisting of one Class A Ordinary Share and one-fifth Warrant
 APH,APH|Amphenol Corporation Common Stock
 APLE,APLE|Apple Hospitality REIT, Inc. Common Shares
 APO,APO|Apollo Global Management, Inc. Class A Common Stock
@@ -4157,7 +4158,6 @@ BDSI,BDSI|BioDelivery Sciences International, Inc. - Common Stock
 BDSX,BDSX|Biodesix, Inc. - Common Stock
 BDTX,BDTX|Black Diamond Therapeutics, Inc. - Common Stock
 BEAM,BEAM|Beam Therapeutics Inc. - Common Stock
-BEAT,BEAT|BioTelemetry, Inc. - Common Stock
 BECN,BECN|Beacon Roofing Supply, Inc. - Common Stock
 BEEM,BEEM|Beam Global - Common Stock
 BEEMW,BEEMW|Beam Global - Warrant
@@ -4255,6 +4255,7 @@ BPOPM,BPOPM|Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly
 BPOPN,BPOPN|Popular, Inc. - Popular Capital Trust I -6.70% Cumulative Monthly Income Trust Preferred Securities
 BPRN,BPRN|The Bank of Princeton - Common Stock
 BPTH,BPTH|Bio-Path Holdings, Inc. - Common Stock
+BPTS,BPTS|Biophytis SA - American Depositary Share
 BPY,BPY|Brookfield Property Partners L.P. - Limited Partnership Units
 BPYPN,BPYPN|Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3
 BPYPO,BPYPO|Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2
@@ -4439,6 +4440,10 @@ CHEK,CHEK|Check-Cap Ltd. - Ordinary Share
 CHEKZ,CHEKZ|Check-Cap Ltd. - Series C Warrant
 CHFS,CHFS|CHF Solutions, Inc. - Common Stock
 CHI,CHI|Calamos Convertible Opportunities and Income Fund - Common Stock
+CHK,CHK|Chesapeake Energy Corporation - Common Stock
+CHKEL,CHKEL|Chesapeake Energy Corporation - Class C Warrants
+CHKEW,CHKEW|Chesapeake Energy Corporation - Class A Warrants
+CHKEZ,CHKEZ|Chesapeake Energy Corporation - Class B Warrants
 CHKP,CHKP|Check Point Software Technologies Ltd. - Ordinary Shares
 CHMA,CHMA|Chiasma, Inc. - Common Stock
 CHMG,CHMG|Chemung Financial Corp - Common Stock
@@ -4762,6 +4767,7 @@ DSACW,DSACW|Duddell Street Acquisition Corp. - Warrant
 DSGX,DSGX|The Descartes Systems Group Inc. - Common Stock
 DSKE,DSKE|Daseke, Inc. - Common Stock
 DSKEW,DSKEW|Daseke, Inc. - Warrant
+DSP,DSP|Viant Technology Inc. - common stock
 DSPG,DSPG|DSP Group, Inc. - Common Stock
 DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
@@ -5023,6 +5029,7 @@ FOCS,FOCS|Focus Financial Partners Inc. - Common Stock
 FOLD,FOLD|Amicus Therapeutics, Inc. - Common Stock
 FONR,FONR|Fonar Corporation - Common Stock
 FORD,FORD|Forward Industries, Inc. - Common Stock
+FOREU,FOREU|Foresight Acquisition Corp. - Unit, consisting of one share of Class A Common Stock and one-third of one redeemable warrant
 FORM,FORM|FormFactor, Inc. - Common Stock
 FORR,FORR|Forrester Research, Inc. - Common Stock
 FORTY,FORTY|Formula Systems (1985) Ltd. - American Depositary Shares
@@ -5470,9 +5477,6 @@ IMUX,IMUX|Immunic, Inc.  - Common Stock
 IMV,IMV|IMV Inc. - Common Shares
 IMVT,IMVT|Immunovant, Inc.  - Common Stock
 IMXI,IMXI|International Money Express, Inc. - Common Stock
-INAQ,INAQ|INSU Acquisition Corp. II - Class A Common Stock
-INAQU,INAQU|INSU Acquisition Corp. II - Unit
-INAQW,INAQW|INSU Acquisition Corp. II - Warrant
 INBK,INBK|First Internet Bancorp - Common Stock
 INBKL,INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026
 INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -5702,6 +5706,7 @@ LFTRU,LFTRU|Lefteris Acquisition Corp. - Unit
 LFTRW,LFTRW|Lefteris Acquisition Corp. - Warrant
 LFUS,LFUS|Littelfuse, Inc. - Common Stock
 LFVN,LFVN|Lifevantage Corporation - Common Stock
+LGACU,LGACU|Lazard Growth Acquisition Corp. I - Units
 LGHL,LGHL|Lion Group Holding Ltd. - American Depositary Share
 LGHLW,LGHLW|Lion Group Holding Ltd. - Warrant
 LGIH,LGIH|LGI Homes, Inc. - Common Stock
@@ -5896,6 +5901,8 @@ MHLD,MHLD|Maiden Holdings, Ltd. - Common Stock
 MICT,MICT|MICT, Inc. - Common Stock
 MIDD,MIDD|The Middleby Corporation - Common Stock
 MIK,MIK|The Michaels Companies, Inc. - Common Stock
+MILE,MILE|Metromile, Inc. - Common Stock
+MILEW,MILEW|Metromile, Inc. - Warrant
 MIME,MIME|Mimecast Limited - Ordinary Shares
 MIND,MIND|MIND Technology, Inc. - Common Stock
 MINDP,MINDP|MIND Technology, Inc. - Series A 9.00% Series A Cumulative Preferred Stock
@@ -6703,6 +6710,7 @@ SCKT,SCKT|Socket Mobile, Inc. - Common Stock
 SCOA,SCOA|ScION Tech Growth I - Class A Ordinary Shares
 SCOAU,SCOAU|ScION Tech Growth I - Unit
 SCOAW,SCOAW|ScION Tech Growth I - Warrant
+SCOBU,SCOBU|ScION Tech Growth II - Units
 SCOR,SCOR|comScore, Inc. - Common Stock
 SCPH,SCPH|scPharmaceuticals Inc. - Common Stock
 SCPL,SCPL|SciPlay Corporation - Class A Common Stock
@@ -6945,7 +6953,9 @@ SVFA,SVFA|SVF Investment Corp. - Class A Ordinary Shares
 SVFAU,SVFAU|SVF Investment Corp. - Unit
 SVFAW,SVFAW|SVF Investment Corp. - Warrant
 SVMK,SVMK|SVMK Inc. - Common Stock
+SVOK,SVOK|Seven Oaks Acquisition Corp. - Class A Common Stock
 SVOKU,SVOKU|Seven Oaks Acquisition Corp. - Unit
+SVOKW,SVOKW|Seven Oaks Acquisition Corp. - Warrant
 SVRA,SVRA|Savara, Inc. - Common Stock
 SVSVU,SVSVU|Spring Valley Acquisition Corp. - Unit
 SVSVW,SVSVW|Spring Valley Acquisition Corp. - Warrant
@@ -7260,6 +7270,7 @@ VKTXW,VKTXW|Viking Therapeutics, Inc. - Warrants
 VLDR,VLDR|Velodyne Lidar, Inc. - Common Stock
 VLDRW,VLDRW|Velodyne Lidar, Inc. - Warrant
 VLGEA,VLGEA|Village Super Market, Inc. - Class A Common Stock
+VLON,VLON|Vallon Pharmaceuticals Inc. - Common Stock
 VLY,VLY|Valley National Bancorp - Common Stock
 VLYPO,VLYPO|Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock
 VLYPP,VLYPP|Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock
@@ -7406,6 +7417,7 @@ XOMA,XOMA|XOMA Corporation - Common Stock
 XOMAP,XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XONE,XONE|The ExOne Company - Common Stock
 XP,XP|XP Inc. - Class A Common Stock
+XPDIU,XPDIU|Power & Digital Infrastructure Acquisition Corp. - Unit
 XPEL,XPEL|XPEL, Inc. - Common Stock
 XPER,XPER|Xperi Holding Corporation - Common Stock
 XRAY,XRAY|DENTSPLY SIRONA Inc. - Common Stock
