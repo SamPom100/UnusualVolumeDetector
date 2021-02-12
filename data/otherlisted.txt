@@ -581,6 +581,7 @@ BIP$A|Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Par
 BIP$B|Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14|N|BIPpB|N|100|N|BIP-B
 BIPC|Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares |N|BIPC|N|100|N|BIPC
 BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest|N|BIT|N|100|N|BIT
+BITE.U|Bite Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|BITE.U|N|100|N|BITE=
 BIV|Vanguard Intermediate-Term Bond ETF|P|BIV|Y|100|N|BIV
 BIZD|VanEck Vectors BDC Income ETF|P|BIZD|Y|100|N|BIZD
 BJ|BJ's Wholesale Club Holdings, Inc. Common Stock|N|BJ|N|100|N|BJ
@@ -748,7 +749,6 @@ C|Citigroup, Inc. Common Stock|N|C|N|100|N|C
 C$J|Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg|N|CpJ|N|100|N|C-J
 C$K|Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K|N|CpK|N|100|N|C-K
 C$N|Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS)|N|CpN|N|100|N|C-N
-C$S|Citigroup Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.300% Noncumulative Preferred Stock, Series S|N|CpS|N|100|N|C-S
 CAAP|Corporacion America Airports SA Common Shares|N|CAAP|N|100|N|CAAP
 CABO|Cable One, Inc. Common Stock|N|CABO|N|100|N|CABO
 CACI|CACI International, Inc. Class A Common Stock|N|CACI|N|100|N|CACI
@@ -821,6 +821,7 @@ CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
 CCV|Churchill Capital Corp V Class A Common Stock|N|CCV|N|100|N|CCV
 CCV.U|Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant|N|CCV.U|N|100|N|CCV=
 CCV.W|Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCV.WS|N|100|N|CCV+
+CCVI.U|Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant|N|CCVI.U|N|100|N|CCVI=
 CCX|Churchill Capital Corp II Class A Common Stock|N|CCX|N|100|N|CCX
 CCX.U|Churchill Capital Corp II Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-third of one redeemable warrant|N|CCX.U|N|100|N|CCX=
 CCX.W|Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCX.WS|N|100|N|CCX+
@@ -862,6 +863,7 @@ CFX|Colfax Corporation Common Stock|N|CFX|N|100|N|CFX
 CFXA|Colfax Corporation 5.75% Tangible Equity Units|N|CFXA|N|100|N|CFXA
 CGA|China Green Agriculture, Inc. Common Stock|N|CGA|N|100|N|CGA
 CGW|Invesco S&P Global Water Index ETF|P|CGW|Y|100|N|CGW
+CHAA.U|Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|CHAA.U|N|100|N|CHAA=
 CHAD|Direxion Daily CSI 300 China A Shares Bear 1X Shares|P|CHAD|Y|100|N|CHAD
 CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock|A|CHAQ|N|100|N|CHAQ
 CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock|A|CHAQ.U|N|100|N|CHAQ=
@@ -1129,6 +1131,7 @@ CVE|Cenovus Energy Inc Common Stock|N|CVE|N|100|N|CVE
 CVE.W|Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)|N|CVE.WS|N|100|N|CVE+
 CVEO|Civeo Corporation (Canada) Common Shares|N|CVEO|N|100|N|CVEO
 CVI|CVR Energy Inc. Common Stock|N|CVI|N|100|N|CVI
+CVII.U|Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant|N|CVII.U|N|100|N|CVII=
 CVM|Cel-Sci Corporation Common Stock|A|CVM|N|100|N|CVM
 CVNA|Carvana Co. Class A Common Stock|N|CVNA|N|100|N|CVNA
 CVR|Chicago Rivet & Machine Co. Common Stock|A|CVR|N|100|N|CVR
@@ -3736,7 +3739,6 @@ OACB.U|Oaktree Acquisition Corp. II Units, each consisting of one Class A ordina
 OACB.W|Oaktree Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|OACB.WS|N|100|N|OACB+
 OAK$A|Oaktree Capital Group, LLC 6.625% Series A Preferred units|N|OAKpA|N|100|N|OAK-A
 OAK$B|Oaktree Capital Group, LLC 6.550% Series B Preferred Units|N|OAKpB|N|100|N|OAK-B
-OBLG|Oblong Inc. Common Stock|A|OBLG|N|100|N|OBLG
 OBOR|KraneShares MSCI One Belt One Road Index ETF|P|OBOR|Y|100|N|OBOR
 OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
 OCA|Omnichannel Acquisition Corp. Class A Common Stock|N|OCA|N|100|N|OCA
@@ -4468,7 +4470,6 @@ SBS|Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depo
 SBSW|D/B/A Sibanye-Stillwater Limited ADS|N|SBSW|N|100|N|SBSW
 SBUG|iPath Silver ETN|P|SBUG|Y|100|N|SBUG
 SC|Santander Consumer USA Holdings Inc. Common Stock|N|SC|N|100|N|SC
-SCA|Stellus Capital Investment Corporation 5.75% Notes due 2022|N|SCA|N|100|N|SCA
 SCC|ProShares UltraShort Consumer Services|P|SCC|Y|100|N|SCC
 SCCB|Sachem Capital Corp. 7.125% Notes due 2024|A|SCCB|N|100|N|SCCB
 SCCC|Sachem Capital Corp. 7.75% Notes due 2025|A|SCCC|N|100|N|SCCC
@@ -4622,6 +4623,7 @@ SKM|SK Telecom Co., Ltd. Common Stock|N|SKM|N|100|N|SKM
 SKT|Tanger Factory Outlet Centers, Inc. Common Stock|N|SKT|N|100|N|SKT
 SKX|Skechers U.S.A., Inc. Common Stock|N|SKX|N|100|N|SKX
 SKY|Skyline Champion Corporation Common Stock|N|SKY|N|100|N|SKY
+SLAC.U|Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|SLAC.U|N|100|N|SLAC=
 SLB|Schlumberger N.V. Common Stock|N|SLB|N|100|N|SLB
 SLCA|U.S. Silica Holdings, Inc. Common Stock|N|SLCA|N|100|N|SLCA
 SLF|Sun Life Financial Inc. Common Stock|N|SLF|N|100|N|SLF
@@ -5694,4 +5696,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0211202115:43||||||
+File Creation Time: 0212202112:12||||||
