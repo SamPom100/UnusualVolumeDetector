@@ -305,7 +305,7 @@ ATH$C,ATH$C|Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th
 ATH$D,ATH$D|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D
 ATHM,ATHM|Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.
 ATI,ATI|Allegheny Technologies Incorporated Common Stock
-ATKR,ATKR|Atkore International Group Inc. Common Stock
+ATKR,ATKR|Atkore Inc. Common Stock
 ATMP,ATMP|iPath Select MLP ETN
 ATMR.U,ATMR.U|Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 ATNM,ATNM|Actinium Pharmaceuticals, Inc. (Delaware) Common Stock
@@ -431,6 +431,8 @@ BF.A,BF.A|Brown Forman Inc Class A Common Stock
 BF.B,BF.B|Brown Forman Inc Class B Common Stock
 BFAM,BFAM|Bright Horizons Family Solutions Inc. Common Stock
 BFK,BFK|BlackRock Municipal Income Trust
+BFLY,BFLY|Butterfly Network, Inc. Class A Common Stock
+BFLY.W,BFLY.W|Butterfly Network, Inc. Warrants
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
@@ -879,7 +881,6 @@ CSU,CSU|Capital Senior Living Corporation Common Stock
 CSV,CSV|Carriage Services, Inc. Common Stock
 CTA$A,CTA$A|E.I. du Pont de Nemours and Company Preferred Stock
 CTA$B,CTA$B|E.I. du Pont de Nemours and Company Preferred Stock
-CTAA,CTAA|Qwest Corporation 7% Notes due 2056
 CTAC,CTAC|Cerberus Telecom Acquisition Corp. Class A Ordinary Shares
 CTAC.U,CTAC.U|Cerberus Telecom Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 CTAC.W,CTAC.W|Cerberus Telecom Acquisition Corp. Warrants included as part of the Units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -1088,7 +1089,6 @@ DWIN,DWIN|Delwinds Insurance Acquisition Corp. Class A Common Stock
 DWIN.U,DWIN.U|Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
 DWIN.W,DWIN.W|Delwinds Insurance Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 DX,DX|Dynex Capital, Inc. Common Stock
-DX$B,DX$B|Dynex Capital, Inc. Preferred Series B
 DX$C,DX$C|Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 DXC,DXC|DXC Technology Company Common Stock 
 DXF,DXF|Dunxin Financial Holdings Limited American Depositary Shares
@@ -2056,9 +2056,6 @@ LGF.B,LGF.B|Lions Gate Entertainment Corporation Class B Non-Voting Shares
 LGI,LGI|Lazard Global Total Return and Income Fund Common Stock
 LGL,LGL|LGL Group, Inc. (The) Common Stock
 LGL.W,LGL.W|LGL Group, Inc. (The) Warrants
-LGVW,LGVW|Longview Acquisition Corp. Class A Common Stock
-LGVW.U,LGVW.U|Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant
-LGVW.W,LGVW.W|Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
 LH,LH|Laboratory Corporation of America Holdings Common Stock
 LHC.U,LHC.U|Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 LHX,LHX|L3Harris Technologies, Inc. Common Stock
@@ -2615,7 +2612,6 @@ PARR,PARR|Par Pacific Holdings, Inc.  Common Stock
 PAYC,PAYC|Paycom Software, Inc. Common Stock
 PB,PB|Prosperity Bancshares, Inc. Common Stock
 PBA,PBA|Pembina Pipeline Corp. Ordinary Shares (Canada)
-PBB,PBB|Prospect Capital Corporation 6.25% Notes due 2024
 PBC,PBC|Prospect Capital Corporation 6.875% Notes due 2029
 PBF,PBF|PBF Energy Inc. Class A Common Stock
 PBFX,PBFX|PBF Logistics LP Common Units representing limited partner interests
@@ -2867,6 +2863,7 @@ RBC,RBC|Regal Beloit Corporation Common Stock
 RC,RC|Ready Capital Corproation Common Stock
 RCA,RCA|Ready Capital Corporation 7.00% Convertible Senior Notes due 2023
 RCB,RCB|Ready Capital Corporation 6.20% Senior Notes due 2026
+RCC,RCC|Ready Capital Corporation 5.75% Senior Notes due 2026
 RCG,RCG|RENN Fund, Inc Common Stock
 RCI,RCI|Rogers Communication, Inc. Common Stock
 RCL,RCL|D/B/A Royal Caribbean Cruises Ltd. Common Stock
@@ -4427,7 +4424,9 @@ CFFVU,CFFVU|CF Acquisition Corp. V - Unit
 CFII,CFII|CF Finance Acquisition Corp. II - Class A Common Stock
 CFIIU,CFIIU|CF Finance Acquisition Corp. II - Unit
 CFIIW,CFIIW|CF Finance Acquisition Corp. II - Warrant
+CFIV,CFIV|CF Acquisition Corp. IV - Class A common stock
 CFIVU,CFIVU|CF Acquisition Corp. IV - Unit
+CFIVW,CFIVW|CF Acquisition Corp. IV - Warrant
 CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
 CG,CG|The Carlyle Group Inc. - Common Stock
@@ -5985,6 +5984,7 @@ MRTX,MRTX|Mirati Therapeutics, Inc. - Common Stock
 MRUS,MRUS|Merus N.V. - Common Shares
 MRVI,MRVI|Maravai LifeSciences Holdings, Inc. - Class A common stock
 MRVL,MRVL|Marvell Technology Group Ltd. - Common Stock
+MSACU,MSACU|Medicus Sciences Acquisition Corp. - Unit
 MSBI,MSBI|Midland States Bancorp, Inc. - Common Stock
 MSEX,MSEX|Middlesex Water Company - Common Stock
 MSFT,MSFT|Microsoft Corporation - Common Stock
@@ -6572,7 +6572,7 @@ RCHGW,RCHGW|Recharge Acquisition Corp. - Warrant
 RCII,RCII|Rent-A-Center Inc. - Common Stock
 RCKT,RCKT|Rocket Pharmaceuticals, Inc. - Common Stock
 RCKY,RCKY|Rocky Brands, Inc. - Common Stock
-RCLFU,RCLFU|Rosecliff Acquisition Corp I - Units, consisting of one share Class A common stock and one-third redeemable warrants  
+RCLFU,RCLFU|Rosecliff Acquisition Corp I - Units, consisting of one share Class A common stock and one-third redeemable warrants
 RCM,RCM|R1 RCM Inc. - Common Stock
 RCMT,RCMT|RCM Technologies, Inc. - Common Stock
 RCON,RCON|Recon Technology, Ltd. - Ordinary Shares

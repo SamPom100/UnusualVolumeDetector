@@ -361,7 +361,7 @@ ATH$C|Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Inter
 ATH$D|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D|N|ATHpD|N|100|N|ATH-D
 ATHM|Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.|N|ATHM|N|100|N|ATHM
 ATI|Allegheny Technologies Incorporated Common Stock|N|ATI|N|100|N|ATI
-ATKR|Atkore International Group Inc. Common Stock|N|ATKR|N|100|N|ATKR
+ATKR|Atkore Inc. Common Stock|N|ATKR|N|100|N|ATKR
 ATMP|iPath Select MLP ETN|Z|ATMP|N|100|N|ATMP
 ATMR.U|Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|ATMR.U|N|100|N|ATMR=
 ATNM|Actinium Pharmaceuticals, Inc. (Delaware) Common Stock|A|ATNM|N|100|N|ATNM
@@ -532,6 +532,8 @@ BF.B|Brown Forman Inc Class B Common Stock|N|BF.B|N|100|N|BF.B
 BFAM|Bright Horizons Family Solutions Inc. Common Stock|N|BFAM|N|100|N|BFAM
 BFEB|Innovator S&P 500 Buffer ETF - February|Z|BFEB|Y|100|N|BFEB
 BFK|BlackRock Municipal Income Trust|N|BFK|N|100|N|BFK
+BFLY|Butterfly Network, Inc. Class A Common Stock|N|BFLY|N|100|N|BFLY
+BFLY.W|Butterfly Network, Inc. Warrants|N|BFLY.WS|N|100|N|BFLY+
 BFOR|Barron's 400|P|BFOR|Y|100|N|BFOR
 BFS|Saul Centers, Inc. Common Stock|N|BFS|N|100|N|BFS
 BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock|N|BFSpD|N|100|N|BFS-D
@@ -1090,7 +1092,6 @@ CSU|Capital Senior Living Corporation Common Stock|N|CSU|N|100|N|CSU
 CSV|Carriage Services, Inc. Common Stock|N|CSV|N|100|N|CSV
 CTA$A|E.I. du Pont de Nemours and Company Preferred Stock|N|CTApA|N|100|N|CTA-A
 CTA$B|E.I. du Pont de Nemours and Company Preferred Stock|N|CTApB|N|100|N|CTA-B
-CTAA|Qwest Corporation 7% Notes due 2056|N|CTAA|N|100|N|CTAA
 CTAC|Cerberus Telecom Acquisition Corp. Class A Ordinary Shares|N|CTAC|N|100|N|CTAC
 CTAC.U|Cerberus Telecom Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CTAC.U|N|100|N|CTAC=
 CTAC.W|Cerberus Telecom Acquisition Corp. Warrants included as part of the Units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CTAC.WS|N|100|N|CTAC+
@@ -1417,7 +1418,6 @@ DWM|WisdomTree International Equity Fund|P|DWM|Y|100|N|DWM
 DWMF|WisdomTree International Multifactor Fund|P|DWMF|Y|100|N|DWMF
 DWX|SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
 DX|Dynex Capital, Inc. Common Stock|N|DX|N|100|N|DX
-DX$B|Dynex Capital, Inc. Preferred Series B|N|DXpB|N|100|N|DX-B
 DX$C|Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|DXpC|N|100|N|DX-C
 DXC|DXC Technology Company Common Stock |N|DXC|N|100|N|DXC
 DXD|ProShares UltraShort Dow30|P|DXD|Y|100|N|DXD
@@ -2156,6 +2156,7 @@ GGN|GAMCO Global Gold, Natural Resources & Income Trust|A|GGN|N|100|N|GGN
 GGN$B|GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference|A|GGNpB|N|100|N|GGN-B
 GGO|The Gabelli Go Anywhere Trust Common Shares of Beneficial Interest|A|GGO|N|100|N|GGO
 GGO$A|The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Callable Preferred Shares|A|GGOpA|N|100|N|GGO-A
+GGRW|Gabelli Growth Innovators ETF|P|GGRW|Y|100|N|GGRW
 GGT|Gabelli Multi-Media Trust, Inc. (The) Common Stock|N|GGT|N|100|N|GGT
 GGT$E|Gabelli Multi-Media Trust Inc. (The) 5.125% Series E Cumulative Preferred Stock|N|GGTpE|N|100|N|GGT-E
 GGT$G|Gabelli Multi-Media Trust Inc. (The) 5.125% Series G Cumulative Preferred Shares|N|GGTpG|N|100|N|GGT-G
@@ -3131,9 +3132,6 @@ LGL|LGL Group, Inc. (The) Common Stock|A|LGL|N|100|N|LGL
 LGL.W|LGL Group, Inc. (The) Warrants|A|LGL.WS|N|100|N|LGL+
 LGLV|SPDR SSGA US Large Cap Low Volatility Index ETF|P|LGLV|Y|100|N|LGLV
 LGOV|First Trust Long Duration Opportunities ETF|P|LGOV|Y|100|N|LGOV
-LGVW|Longview Acquisition Corp. Class A Common Stock|N|LGVW|N|100|N|LGVW
-LGVW.U|Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant|N|LGVW.U|N|100|N|LGVW=
-LGVW.W|Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|LGVW.WS|N|100|N|LGVW+
 LH|Laboratory Corporation of America Holdings Common Stock|N|LH|N|100|N|LH
 LHC.U|Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|LHC.U|N|100|N|LHC=
 LHX|L3Harris Technologies, Inc. Common Stock|N|LHX|N|100|N|LHX
@@ -3845,7 +3843,6 @@ PAWZ|ProShares Pet Care ETF|Z|PAWZ|Y|100|N|PAWZ
 PAYC|Paycom Software, Inc. Common Stock|N|PAYC|N|100|N|PAYC
 PB|Prosperity Bancshares, Inc. Common Stock|N|PB|N|100|N|PB
 PBA|Pembina Pipeline Corp. Ordinary Shares (Canada)|N|PBA|N|100|N|PBA
-PBB|Prospect Capital Corporation 6.25% Notes due 2024|N|PBB|N|100|N|PBB
 PBC|Prospect Capital Corporation 6.875% Notes due 2029|N|PBC|N|100|N|PBC
 PBD|Invesco Global Clean Energy ETF|P|PBD|Y|100|N|PBD
 PBDM|Invesco PureBeta FTSE Developed ex-North America ETF|Z|PBDM|Y|100|N|PBDM
@@ -4241,6 +4238,7 @@ RBUS|Nationwide Risk-Based U.S. Equity ETF|P|RBUS|Y|100|N|RBUS
 RC|Ready Capital Corproation Common Stock|N|RC|N|100|N|RC
 RCA|Ready Capital Corporation 7.00% Convertible Senior Notes due 2023|N|RCA|N|100|N|RCA
 RCB|Ready Capital Corporation 6.20% Senior Notes due 2026|N|RCB|N|100|N|RCB
+RCC|Ready Capital Corporation 5.75% Senior Notes due 2026|N|RCC|N|100|N|RCC
 RCD|Invesco S&P 500 Equal Weight Consumer Discretionary ETF|P|RCD|Y|100|N|RCD
 RCG|RENN Fund, Inc Common Stock|A|RCG|N|100|N|RCG
 RCI|Rogers Communication, Inc. Common Stock|N|RCI|N|100|N|RCI
@@ -5696,4 +5694,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0212202121:32||||||
+File Creation Time: 0216202115:42||||||
