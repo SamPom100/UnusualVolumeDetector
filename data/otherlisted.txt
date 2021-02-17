@@ -46,6 +46,8 @@ ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares|N|ACND|N|100|N|
 ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|ACND.U|N|100|N|ACND=
 ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|ACND.WS|N|100|N|ACND+
 ACP|Aberdeen Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
+ACR|ACRES Commercial Realty Corp. Common Stock|N|ACR|N|100|N|ACR
+ACR$C|ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock |N|ACRpC|N|100|N|ACR-C
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
 ACSG|Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF|P|ACSG|Y|100|N|ACSG
 ACSI|American Customer Satisfaction ETF|Z|ACSI|Y|100|N|ACSI
@@ -728,6 +730,7 @@ BW|Babcock & Wilcox Enterprises, Inc. Common Stock|N|BW|N|100|N|BW
 BWA|BorgWarner Inc. Common Stock|N|BWA|N|100|N|BWA
 BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.|N|BWG|N|100|N|BWG
 BWL.A|Bowl America, Inc. Class A Common Stock|A|BWL.A|N|100|N|BWL.A
+BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026|N|BWSN|N|100|N|BWSN
 BWX|SPDR Bloomberg Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Bloomberg Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
@@ -2346,7 +2349,6 @@ GWX|SPDR S&P International SmallCap ETF|P|GWX|Y|100|N|GWX
 GXC|SPDR S&P China ETF|P|GXC|Y|100|N|GXC
 GXF|Global X FTSE Nordic Region ETF|P|GXF|Y|100|N|GXF
 GXG|Global X MSCI Colombia ETF|P|GXG|Y|100|N|GXG
-GYC|Corporate Asset Backed Corp CABCO Corporate Asset Backed Corporation CABCO Series 2004-102 Trust (SBC Communications, Inc.) Collared Floating Rate Cllable Certificates|N|GYC|N|100|N|GYC
 GYLD|Arrow Dow Jones Global Yield ETF ETF|P|GYLD|Y|100|N|GYLD
 H|Hyatt Hotels Corporation Class A Common Stock|N|H|N|100|N|H
 HACK|ETFMG Prime Cyber Security ETF|P|HACK|Y|100|N|HACK
@@ -3074,7 +3076,9 @@ KUKE|Kuke Music Holding Limited American Depositary Shares, each representing on
 KURE|KraneShares MSCI All China Health Care Index ETF|P|KURE|Y|100|N|KURE
 KVLE|KraneShares Trust KFA Value Line Dynamic Core Equity Index ETF|P|KVLE|Y|100|N|KVLE
 KW|Kennedy-Wilson Holdings Inc. Common Stock|N|KW|N|100|N|KW
+KWAC|Kingswood Acquisition Corp. Class A Common Stock|N|KWAC|N|100|N|KWAC
 KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant|N|KWAC.U|N|100|N|KWAC=
+KWAC.W|Kingswood Acquisition Corp. Warrants|N|KWAC.WS|N|100|N|KWAC+
 KWEB|KraneShares Trust KraneShares CSI China Internet ETF|P|KWEB|Y|100|N|KWEB
 KWR|Quaker Chemical Corporation Common Stock|N|KWR|N|100|N|KWR
 KWT|iShares Trust iShares MSCI Kuwait ETF|Z|KWT|Y|100|N|KWT
@@ -5041,6 +5045,7 @@ TNA|Direxion Small Cap Bull 3X Shares|P|TNA|Y|100|N|TNA
 TNC|Tennant Company Common Stock|N|TNC|N|100|N|TNC
 TNET|TriNet Group, Inc. Common Stock|N|TNET|N|100|N|TNET
 TNK|Teekay Tankers Ltd.|N|TNK|N|100|N|TNK
+TNL|Travel   Leisure Co. Common  Stock|N|TNL|N|100|N|TNL
 TNP|Tsakos Energy Navigation Ltd Common Shares|N|TNP|N|100|N|TNP
 TNP$D|Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares|N|TNPpD|N|100|N|TNP-D
 TNP$E|Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00|N|TNPpE|N|100|N|TNP-E
@@ -5568,11 +5573,8 @@ WWJD|Inspire International ESG ETF|P|WWJD|Y|100|N|WWJD
 WWOW|Direxion World Without Waste ETF|P|WWOW|Y|100|N|WWOW
 WWW|Wolverine World Wide, Inc. Common Stock|N|WWW|N|100|N|WWW
 WY|Weyerhaeuser Company Common Stock|N|WY|N|100|N|WY
-WYND|Wyndham Destinations, Inc. Common  Stock|N|WYND|N|100|N|WYND
 WYY|WidePoint Corporation Common Stock|A|WYY|N|100|N|WYY
 X|United States Steel Corporation Common Stock|N|X|N|100|N|X
-XAN|Exantas Capital Corp.|N|XAN|N|100|N|XAN
-XAN$C|Exantas Capital Corp. |N|XANpC|N|100|N|XAN-C
 XAR|SPDR S&P Aerospace & Defense ETF|P|XAR|Y|100|N|XAR
 XBI|SPDR Series Trust  SPDR S&P Biotech ETF|P|XBI|Y|100|N|XBI
 XBUY|Amplify International Online Retail ETF|P|XBUY|Y|100|N|XBUY
@@ -5694,4 +5696,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0216202115:42||||||
+File Creation Time: 0217202115:42||||||

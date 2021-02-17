@@ -39,6 +39,8 @@ ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
 ACND.U,ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 ACND.W,ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 ACP,ACP|Aberdeen Income Credit Strategies Fund Common Shares
+ACR,ACR|ACRES Commercial Realty Corp. Common Stock
+ACR$C,ACR$C|ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock 
 ACRE,ACRE|Ares Commercial Real Estate Corporation Common Stock
 ACU,ACU|Acme United Corporation. Common Stock
 ACV,ACV|Virtus AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest
@@ -577,6 +579,7 @@ BW,BW|Babcock & Wilcox Enterprises, Inc. Common Stock
 BWA,BWA|BorgWarner Inc. Common Stock
 BWG,BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWL.A,BWL.A|Bowl America, Inc. Class A Common Stock
+BWSN,BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026
 BWXT,BWXT|BWX Technologies, Inc. Common Stock
 BX,BX|The Blackstone Group Inc. Class A Common Stock
 BXC,BXC|Bluelinx Holdings Inc. Common Stock
@@ -1631,7 +1634,6 @@ GVA,GVA|Granite Construction Incorporated Common Stock
 GWB,GWB|Great Western Bancorp, Inc. Common Stock
 GWRE,GWRE|Guidewire Software, Inc. Common Stock
 GWW,GWW|W.W. Grainger, Inc. Common Stock
-GYC,GYC|Corporate Asset Backed Corp CABCO Corporate Asset Backed Corporation CABCO Series 2004-102 Trust (SBC Communications, Inc.) Collared Floating Rate Cllable Certificates
 H,H|Hyatt Hotels Corporation Class A Common Stock
 HAE,HAE|Haemonetics Corporation Common Stock
 HAL,HAL|Halliburton Company Common Stock
@@ -2016,7 +2018,9 @@ KTH,KTH|Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferre
 KTN,KTN|Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KUKE,KUKE|Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share
 KW,KW|Kennedy-Wilson Holdings Inc. Common Stock
+KWAC,KWAC|Kingswood Acquisition Corp. Class A Common Stock
 KWAC.U,KWAC.U|Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fourths of one redeemable warrant
+KWAC.W,KWAC.W|Kingswood Acquisition Corp. Warrants
 KWR,KWR|Quaker Chemical Corporation Common Stock
 KYN,KYN|Kayne Anderson Energy Infrastructure Fund, Inc.
 L,L|Loews Corporation Common Stock
@@ -3355,6 +3359,7 @@ TMX,TMX|Terminix Global Holdings, Inc. Common Stock
 TNC,TNC|Tennant Company Common Stock
 TNET,TNET|TriNet Group, Inc. Common Stock
 TNK,TNK|Teekay Tankers Ltd.
+TNL,TNL|Travel   Leisure Co. Common  Stock
 TNP,TNP|Tsakos Energy Navigation Ltd Common Shares
 TNP$D,TNP$D|Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares
 TNP$E,TNP$E|Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00
@@ -3689,11 +3694,8 @@ WU,WU|Western Union Company (The) Common Stock
 WWE,WWE|World Wrestling Entertainment, Inc. Class A Common Stock
 WWW,WWW|Wolverine World Wide, Inc. Common Stock
 WY,WY|Weyerhaeuser Company Common Stock
-WYND,WYND|Wyndham Destinations, Inc. Common  Stock
 WYY,WYY|WidePoint Corporation Common Stock
 X,X|United States Steel Corporation Common Stock
-XAN,XAN|Exantas Capital Corp.
-XAN$C,XAN$C|Exantas Capital Corp. 
 XEC,XEC|Cimarex Energy Co Common Stock
 XFLT,XFLT|XAI Octagon Floating Rate & Alternative Income Term Trust Common Shares of Beneficial Interest
 XHR,XHR|Xenia Hotels & Resorts, Inc. Common Stock
@@ -3759,6 +3761,7 @@ ABCB,ABCB|Ameris Bancorp - Common Stock
 ABCL,ABCL|AbCellera Biologics Inc. - Common Shares
 ABCM,ABCM|Abcam plc - American Depositary Shares
 ABEO,ABEO|Abeona Therapeutics Inc. - Common Stock
+ABGI,ABGI|ABG Acquisition Corp. I - Class A Ordinary Shares
 ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
 ABNB,ABNB|Airbnb, Inc. - Class A Common Stock
@@ -3944,6 +3947,8 @@ AMHCW,AMHCW|Amplitude Healthcare Acquisition Corporation - Warrant
 AMKR,AMKR|Amkor Technology, Inc. - Common Stock
 AMNB,AMNB|American National Bankshares, Inc. - Common Stock
 AMOT,AMOT|Allied Motion Technologies, Inc. - Common Stock
+AMPG,AMPG|Amplitech Group, Inc. - Common Stock
+AMPGW,AMPGW|Amplitech Group, Inc. - Warrants
 AMPH,AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock
 AMRB,AMRB|American River Bankshares - Common Stock
 AMRK,AMRK|A-Mark Precious Metals, Inc. - Common Stock
@@ -4089,6 +4094,8 @@ AUDC,AUDC|AudioCodes Ltd. - Ordinary Shares
 AUPH,AUPH|Aurinia Pharmaceuticals Inc - Common Shares
 AUTL,AUTL|Autolus Therapeutics plc - American Depositary Shares
 AUTO,AUTO|AutoWeb, Inc. - Common Stock
+AUUD,AUUD|Auddia Inc. - Common Stock
+AUUDW,AUUDW|Auddia Inc. - Warrants
 AUVI,AUVI|Applied UV, Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
 AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
@@ -5071,6 +5078,7 @@ FRTA,FRTA|Forterra, Inc. - Common Stock
 FSBW,FSBW|FS Bancorp, Inc. - Common Stock
 FSEA,FSEA|First Seacoast Bancorp - Common Stock
 FSFG,FSFG|First Savings Financial Group, Inc. - Common Stock
+FSII,FSII|FS Development Corp. II - Class A Common Stock
 FSLR,FSLR|First Solar, Inc. - Common Stock
 FSRV,FSRV|FinServ Acquisition Corp. - Class A Common Stock
 FSRVU,FSRVU|FinServ Acquisition Corp. - Unit
@@ -5125,6 +5133,7 @@ GBIO,GBIO|Generation Bio Co. - Common stock
 GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
 GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
 GBNY,GBNY|Generations Bancorp NY, Inc. - Common Stock
+GBOX,GBOX|Greenbox POS - Common Stock
 GBS,GBS|GBS Inc. - Common Stock
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCACU,GCACU|Growth Capital Acquisition Corp. - Unit
@@ -5825,6 +5834,7 @@ LYTS,LYTS|LSI Industries Inc. - Common Stock
 MAAC,MAAC|Montes Archimedes Acquisition Corp. - Class A Common Stock
 MAACU,MAACU|Montes Archimedes Acquisition Corp. - Unit
 MAACW,MAACW|Montes Archimedes Acquisition Corp. - Warrant
+MACAU,MACAU|Moringa Acquisition Corp - Units
 MACK,MACK|Merrimack Pharmaceuticals, Inc. - Common Stock
 MACU,MACU|Mallard Acquisition Corp. - Common Stock
 MACUU,MACUU|Mallard Acquisition Corp. - Unit
@@ -6159,6 +6169,7 @@ NVEE,NVEE|NV5 Global, Inc. - Common Stock
 NVFY,NVFY|Nova Lifestyle, Inc - Common Stock
 NVIV,NVIV|InVivo Therapeutics Holdings Corp. - Common Stock
 NVMI,NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares
+NVSAU,NVSAU|New Vista Acquisition Corp - Unit
 NWBI,NWBI|Northwest Bancshares, Inc. - Common Stock
 NWE,NWE|NorthWestern Corporation - Common Stock
 NWFL,NWFL|Norwood Financial Corp. - Common Stock
@@ -6369,6 +6380,7 @@ PETZ,PETZ|TDH Holdings, Inc. - Common Shares
 PFBC,PFBC|Preferred Bank - Common Stock
 PFBI,PFBI|Premier Financial Bancorp, Inc. - Common Stock
 PFC,PFC|Premier Financial Corp.  - Common Stock
+PFDRU,PFDRU|Pathfinder Acquisition Corporation - Unit
 PFG,PFG|Principal Financial Group Inc - Common Stock
 PFHD,PFHD|Professional Holding Corp. - Class A Common Stock
 PFIE,PFIE|Profire Energy, Inc. - Common Stock
@@ -6888,6 +6900,7 @@ SPRO,SPRO|Spero Therapeutics, Inc. - Common Stock
 SPRT,SPRT|Support.com, Inc. - Common Stock
 SPSC,SPSC|SPS Commerce, Inc. - Common Stock
 SPT,SPT|Sprout Social, Inc - Class A Common Stock
+SPTKU,SPTKU|SportsTek Acquisition Corp. - Unit
 SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
@@ -7148,7 +7161,6 @@ TSIBU,TSIBU|Tishman Speyer Innovation Corp. II - Unit
 TSLA,TSLA|Tesla, Inc.  - Common Stock
 TSRI,TSRI|TSR, Inc. - Common Stock
 TTCF,TTCF|Tattooed Chef, Inc. - Class A Common Stock
-TTCFW,TTCFW|Tattooed Chef, Inc. - Warrant
 TTD,TTD|The Trade Desk, Inc. - Class A Common Stock
 TTEC,TTEC|TTEC Holdings, Inc. - Common Stock
 TTEK,TTEK|Tetra Tech, Inc. - Common Stock
@@ -7278,6 +7290,7 @@ VIIAW,VIIAW|7GC & Co. Holdings Inc. - Warrant
 VINC,VINC|Vincerx Pharma, Inc. - Common Stock
 VINCU,VINCU|Vincerx Pharma, Inc. - Unit
 VINCW,VINCW|Vincerx Pharma, Inc. - Warrant
+VINO,VINO|Gaucho Group Holdings, Inc. - Common Stock
 VINP,VINP|Vinci Partners Investments Ltd. - Class A Common Shares
 VIOT,VIOT|Viomi Technology Co., Ltd - American Depositary Shares
 VIR,VIR|Vir Biotechnology, Inc. - Common Stock
@@ -7321,6 +7334,7 @@ VRMEW,VRMEW|VerifyMe, Inc. - Warrant
 VRNA,VRNA|Verona Pharma plc - American Depositary Shares
 VRNS,VRNS|Varonis Systems, Inc. - Common Stock
 VRNT,VRNT|Verint Systems Inc. - Common Stock
+VRPX,VRPX|Virpax Pharmaceuticals, Inc. - Common Stock
 VRRM,VRRM|Verra Mobility Corporation - Class A Common Stock
 VRSK,VRSK|Verisk Analytics, Inc. - Common Stock
 VRSN,VRSN|VeriSign, Inc. - Common Stock
