@@ -1287,6 +1287,7 @@ EXTN,EXTN|Exterran Corporation Common Stock
 F,F|Ford Motor Company Common Stock
 F$B,F$B|Ford Motor Company 6.20% Notes due June 1, 2059
 F$C,F$C|Ford Motor Company 6% Notes due December 1, 2059
+FACA.U,FACA.U|Figure Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
 FAF,FAF|First American Corporation (New) Common Stock
 FAII,FAII|Fortress Value Acquisition Corp. II Class A Common Stock
 FAII.U,FAII.U|Fortress Value Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one Warrant
@@ -3162,6 +3163,7 @@ SPFR.W,SPFR.W|Jaws Spitfire Acquisition Corporation Redeemable warrants, each wh
 SPG,SPG|Simon Property Group, Inc. Common Stock
 SPG$J,SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock
 SPGI,SPGI|S&P Global Inc. Common Stock
+SPGS.U,SPGS.U|Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 SPH,SPH|Suburban Propane Partners, L.P. Common Stock
 SPLP,SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT
 SPLP$A,SPLP$A|Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value
@@ -3429,6 +3431,7 @@ TWN,TWN|Taiwan Fund, Inc. (The) Common Stock
 TWND,TWND|Tailwind Acquisition Corp. Class A Common Stock
 TWND.U,TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant
 TWND.W,TWND.W|Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+TWNI.U,TWNI.U|Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
 TWO$B,TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
@@ -3675,6 +3678,7 @@ WRB$D,WRB$D|W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056
 WRB$E,WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058
 WRB$F,WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059
 WRB$G,WRB$G|W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060
+WRB$H,WRB$H|W.R. Berkley Corporation 4.125% Subordinated Debentures due 2061
 WRE,WRE|Washington Real Estate Investment Trust Common Stock
 WRI,WRI|Weingarten Realty Investors Common Stock
 WRK,WRK|Westrock Company Common Stock
@@ -4055,6 +4059,7 @@ ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
 ASND,ASND|Ascendis Pharma A/S - American Depositary Shares
 ASO,ASO|Academy Sports and Outdoors, Inc. - Common Stock
+ASPCU,ASPCU|Alpha Capital Acquisition Company - Unit
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
 ASPU,ASPU|Aspen Group Inc. - Common Stock
 ASRT,ASRT|Assertio Holdings, Inc. - Common Stock
@@ -4294,6 +4299,7 @@ BRPA,BRPA|Big Rock Partners Acquisition Corp. - Common Stock
 BRPAR,BRPAR|Big Rock Partners Acquisition Corp. - Right
 BRPAU,BRPAU|Big Rock Partners Acquisition Corp. - Unit
 BRPAW,BRPAW|Big Rock Partners Acquisition Corp. - Warrant
+BRPMU,BRPMU|B. Riley Principal 150 Merger Corp. - Unit
 BRQS,BRQS|Borqs Technologies, Inc.  - Ordinary Shares
 BRY,BRY|Berry Corporation (bry) - Common Stock
 BSBK,BSBK|Bogota Financial Corp. - Common Stock
@@ -4437,6 +4443,7 @@ CFIVU,CFIVU|CF Acquisition Corp. IV - Unit
 CFIVW,CFIVW|CF Acquisition Corp. IV - Warrant
 CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
+CFVIU,CFVIU|CF Acquisition Corp. VI - Unit
 CG,CG|The Carlyle Group Inc. - Common Stock
 CGBD,CGBD|TCG BDC, Inc. - Common Stock
 CGC,CGC|Canopy Growth Corporation - Common Shares
@@ -4574,7 +4581,9 @@ CONN,CONN|Conn's, Inc. - Common Stock
 CONX,CONX|CONX Corp. - Class A Common Stock
 CONXU,CONXU|CONX Corp. - Unit
 CONXW,CONXW|CONX Corp. - Warrant
+COOL,COOL|Corner Growth Acquisition Corp. - Class A Ordinary Shares
 COOLU,COOLU|Corner Growth Acquisition Corp. - Unit
+COOLW,COOLW|Corner Growth Acquisition Corp. - Warrant
 COOP,COOP|Mr. Cooper Group Inc. - Common Stock
 CORE,CORE|Core-Mark Holding Company, Inc. - Common Stock
 CORT,CORT|Corcept Therapeutics Incorporated - Common Stock
@@ -4791,7 +4800,9 @@ DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
 DTIL,DTIL|Precision BioSciences, Inc. - Common Stock
 DTSS,DTSS|Datasea Inc. - Common Stock
+DUNE,DUNE|Dune Acquisition Corporation - Class A Common Stock
 DUNEU,DUNEU|Dune Acquisition Corporation - Unit
+DUNEW,DUNEW|Dune Acquisition Corporation - Warrant
 DUO,DUO|Fangdd Network Group Ltd. - American Depositary Shares
 DUOT,DUOT|Duos Technologies Group, Inc. - Common Stock
 DVAX,DVAX|Dynavax Technologies Corporation - Common Stock
