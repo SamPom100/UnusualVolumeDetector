@@ -37,7 +37,6 @@ ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th In
 ACGLP|Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs|Q|N|N|100|N|N
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100|N|N
 ACHV|Achieve Life Sciences, Inc.  - Common Shares|S|N|N|100|N|N
-ACIA|Acacia Communications, Inc. - Common Stock|Q|N|D|100|N|N
 ACIU|AC Immune SA - Common Stock|G|N|N|100|N|N
 ACIW|ACI Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 ACKIT|Ackrell SPAC Partners I Co.  - Subunits|S|N|N|100|N|N
@@ -249,9 +248,10 @@ ANPC|AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares|G|N|D|100|
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100|N|N
 ANTE|AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares|S|N|N|100|N|N
 ANY|Sphere 3D Corp. - Common Shares|S|N|N|100|N|N
+ANZUU|Anzu Special Acquisition Corp I - Units|S|N|N|100|N|N
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100|N|N
 AOUT|American Outdoor Brands, Inc. - Common Stock|Q|N|N|100|N|N
-APA|Apache Corporation - Common Stock|Q|N|N|100|N|N
+APA|APA Corporation - Common Stock|Q|N|N|100|N|N
 APDN|Applied DNA Sciences, Inc. - Common Stock|S|N|N|100|N|N
 APEI|American Public Education, Inc. - Common Stock|Q|N|N|100|N|N
 APEN|Apollo Endosurgery, Inc. - Common Stock|G|N|N|100|N|N
@@ -303,6 +303,7 @@ ARNA|Arena Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AROW|Arrow Financial Corporation - Common Stock|Q|N|N|100|N|N
 ARPO|Aerpio Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 ARQT|Arcutis Biotherapeutics, Inc. - Common stock|Q|N|N|100|N|N
+ARRWU|Arrowroot Acquisition Corp. - Unit|S|N|N|100|N|N
 ARRY|Array Technologies, Inc. - Common Stock|G|N|N|100|N|N
 ARTL|Artelo Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 ARTLW|Artelo Biosciences, Inc. - Warrant|S|N|N|100|N|N
@@ -1100,7 +1101,9 @@ DGNS|Dragoneer Growth Opportunities Corp. II - Class A Ordinary Shares|S|N|N|100
 DGRE|WisdomTree Emerging Markets Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRS|WisdomTree U.S. SmallCap Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRW|WisdomTree U.S. Quality Dividend Growth Fund|G|N|N|100|Y|N
+DHBCU|DHB Capital Corp. - Unit|S|N|N|100|N|N
 DHC|Diversified Healthcare Trust  - Common Shares of Beneficial Interest|Q|N|N|100|N|N
+DHCAU|DHC Acquisition Corp. - Unit|S|N|N|100|N|N
 DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042|Q|N|N|100|N|N
 DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046|Q|N|N|100|N|N
 DHHCU|DiamondHead Holdings Corp. - Unit|S|N|N|100|N|N
@@ -1601,6 +1604,7 @@ GBLI|Global Indemnity Group, LLC - Class A Common Stock|Q|N|N|100|N|N
 GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047|Q|N|N|100|N|N
 GBNY|Generations Bancorp NY, Inc. - Common Stock|S|N|N|100|N|N
 GBOX|Greenbox POS - Common Stock|S|N|N|100|N|N
+GBRGU|Goldenbridge Acquisition Limited - Unit|S|N|N|100|N|N
 GBS|GBS Inc. - Common Stock|G|N|N|100|N|N
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 GCACU|Growth Capital Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -1901,6 +1905,7 @@ HWCPL|Hancock Whitney Corporation - 5.95% Subordinated Notes due 2045|Q|N|N|100|
 HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060|Q|N|N|100|N|N
 HWKN|Hawkins, Inc. - Common Stock|Q|N|N|100|N|N
 HX|Xiaobai Maimai Inc. - American Depositary Shares|G|N|N|100|N|N
+HYACU|Haymaker Acquisition Corp. III - Unit|S|N|N|100|N|N
 HYFM|Hydrofarm Holdings Group, Inc. - Common Stock|Q|N|N|100|N|N
 HYLS|First Trust Tactical High Yield ETF|G|N|N|100|Y|N
 HYMC|Hycroft Mining Holding Corporation - Class A Common Stock|S|N|N|100|N|N
@@ -2302,7 +2307,9 @@ LIVX|LiveXLive Media, Inc. - Common Stock|S|N|N|100|N|N
 LIXT|Lixte Biotechnology Holdings, Inc. - Common Stock|S|N|N|100|N|N
 LIXTW|Lixte Biotechnology Holdings, Inc. - Warrants|S|N|N|100|N|N
 LIZI|LIZHI INC. - American Depositary Shares|G|N|N|100|N|N
+LJAQ|LightJump Acquisition Corporation - Common Stock|S|N|N|100|N|N
 LJAQU|LightJump Acquisition Corporation - Unit|S|N|N|100|N|N
+LJAQW|LightJump Acquisition Corporation - Warrant|S|N|N|100|N|N
 LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100|N|N
 LKCO|Luokung Technology Corp - Ordinary Shares|S|N|D|100|N|N
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100|N|N
@@ -2620,6 +2627,7 @@ NCNA|NuCana plc - American Depositary Shares|Q|N|N|100|N|N
 NCNO|nCino, Inc. - Common Stock|Q|N|N|100|N|N
 NCSM|NCS Multistage Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NCTY|The9 Limited - American Depository Shares|S|N|N|100|N|N
+NDACU|NightDragon Acquisition Corp. - SCALE Units|S|N|N|100|N|N
 NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100|N|N
 NDLS|Noodles & Company - Common Stock|Q|N|N|100|N|N
 NDRA|ENDRA Life Sciences Inc. - Common Stock|S|N|N|100|N|N
@@ -2786,6 +2794,7 @@ OFSSI|OFS Capital Corporation - 5.95% Notes due 2026|Q|N|N|100|N|N
 OFSSL|OFS Capital Corporation - 6.375% Notes due 2025|Q|N|N|100|N|N
 OFSSZ|OFS Capital Corporation - 6.50% Notes due 2025|Q|N|N|100|N|N
 OGI|Organigram Holdings Inc. - Common Shares|Q|N|N|100|N|N
+OHPAU|Orion Acquisition Corp. - Unit|S|N|N|100|N|N
 OIIM|O2Micro International Limited - American Depositary Shares|Q|N|N|100|N|N
 OKTA|Okta, Inc. - Class A Common Stock|Q|N|N|100|N|N
 OLB|The OLB Group, Inc. - Common Stock|S|N|N|100|N|N
@@ -4239,4 +4248,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0301202115:43|||||||
+File Creation Time: 0302202112:12|||||||

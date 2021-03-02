@@ -188,6 +188,7 @@ AMN,AMN|AMN Healthcare Services Inc AMN Healthcare Services Inc
 AMOV,AMOV|America Movil, S.A.B. de C.V. Class A American Depositary Shares
 AMP,AMP|Ameriprise Financial, Inc. Common Stock
 AMPE,AMPE|Ampio Pharmaceuticals, Inc.
+AMPI.U,AMPI.U|Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant
 AMPY,AMPY|Amplify Energy Corp. Common Stock
 AMR,AMR|Alpha Metallurgical Resources, Inc. Common Stock
 AMRC,AMRC|Ameresco, Inc. Class A Common Stock
@@ -1438,6 +1439,7 @@ FTAI,FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares
 FTAI$A,FTAI$A|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
 FTAI$B,FTAI$B|Fortress Transportation and Infrastructure Investors LLC 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares
 FTCH,FTCH|Farfetch Limited Class A Ordinary Shares
+FTEV.U,FTEV.U|FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-third of one redeemable warrant
 FTF,FTF|Franklin Limited Duration Income Trust Common Shares of Beneficial Interest
 FTHY,FTHY|First Trust High Yield Opportunities 2027 Term Fund Common Stock
 FTI,FTI|TechnipFMC plc Ordinary Share
@@ -2106,6 +2108,7 @@ LODE,LODE|Comstock Mining, Inc. Common Stock
 LOKB,LOKB|Live Oak Acquisition Corp. II Class A Common Stock
 LOKB.U,LOKB.U|Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 LOKB.W,LOKB.W|Live Oak Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+LOKM.U,LOKM.U|Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-fifth of one warrant
 LOMA,LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
 LOV,LOV|Spark Networks, Inc. American Depositary Shares (each representing one-tenth of an Ordinary Share)
 LOW,LOW|Lowe's Companies, Inc. Common Stock
@@ -2513,6 +2516,8 @@ NSS,NSS|NuStar Logistics, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes 
 NSTB,NSTB|Northern Star Investment Corp. II Class A Common stock
 NSTB.U,NSTB.U|Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 NSTB.W,NSTB.W|Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share
+NSTC.U,NSTC.U|Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant
+NSTD.U,NSTD.U|Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant
 NTB,NTB|Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares
 NTCO,NTCO|Natura &Co Holding S.A. American Depositary Shares 
 NTEST,NTEST|NYSE Tick Pilot Test Sym-Control
@@ -3146,6 +3151,7 @@ SNA,SNA|Snap-On Incorporated Common Stock
 SNAP,SNAP|Snap Inc. Class A Common Stock
 SNDR,SNDR|Schneider National, Inc. Common Stock
 SNE,SNE|Sony Corporation Common Stock
+SNII.U,SNII.U|Supernova Partners Acquisition Company II, Ltd. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 SNMP,SNMP|Evolve Transition Infrastructure LP Common Stock
 SNN,SNN|Smith & Nephew SNATS, Inc. Common Stock
 SNOW,SNOW|Snowflake Inc. Class A Common Stock
@@ -3434,6 +3440,7 @@ TSI,TSI|TCW Strategic Income Fund, Inc. Common Stock
 TSLX,TSLX|Sixth Street Specialty Lending, Inc. Common Stock
 TSM,TSM|Taiwan Semiconductor Manufacturing Company Ltd.
 TSN,TSN|Tyson Foods, Inc. Common Stock
+TSPQ.U,TSPQ.U|TCW Special Purpose Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 TSQ,TSQ|Townsquare Media, Inc. Class A Common Stock
 TT,TT|Trane Technologies plc
 TTC,TTC|Toro Company (The) Common Stock
@@ -3811,7 +3818,6 @@ ACGLO,ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,00
 ACGLP,ACGLP|Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs
 ACHC,ACHC|Acadia Healthcare Company, Inc. - Common Stock
 ACHV,ACHV|Achieve Life Sciences, Inc.  - Common Shares
-ACIA,ACIA|Acacia Communications, Inc. - Common Stock
 ACIU,ACIU|AC Immune SA - Common Stock
 ACIW,ACIW|ACI Worldwide, Inc. - Common Stock
 ACKIT,ACKIT|Ackrell SPAC Partners I Co.  - Subunits
@@ -4013,9 +4019,10 @@ ANPC,ANPC|AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares
 ANSS,ANSS|ANSYS, Inc. - Common Stock
 ANTE,ANTE|AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares
 ANY,ANY|Sphere 3D Corp. - Common Shares
+ANZUU,ANZUU|Anzu Special Acquisition Corp I - Units
 AOSL,AOSL|Alpha and Omega Semiconductor Limited - Common Shares
 AOUT,AOUT|American Outdoor Brands, Inc. - Common Stock
-APA,APA|Apache Corporation - Common Stock
+APA,APA|APA Corporation - Common Stock
 APDN,APDN|Applied DNA Sciences, Inc. - Common Stock
 APEI,APEI|American Public Education, Inc. - Common Stock
 APEN,APEN|Apollo Endosurgery, Inc. - Common Stock
@@ -4067,6 +4074,7 @@ ARNA,ARNA|Arena Pharmaceuticals, Inc. - Common Stock
 AROW,AROW|Arrow Financial Corporation - Common Stock
 ARPO,ARPO|Aerpio Pharmaceuticals, Inc. - Common Stock
 ARQT,ARQT|Arcutis Biotherapeutics, Inc. - Common stock
+ARRWU,ARRWU|Arrowroot Acquisition Corp. - Unit
 ARRY,ARRY|Array Technologies, Inc. - Common Stock
 ARTL,ARTL|Artelo Biosciences, Inc. - Common Stock
 ARTLW,ARTLW|Artelo Biosciences, Inc. - Warrant
@@ -4783,7 +4791,9 @@ DGICB,DGICB|Donegal Group, Inc. - Class B Common Stock
 DGII,DGII|Digi International Inc. - Common Stock
 DGLY,DGLY|Digital Ally, Inc. - Common Stock
 DGNS,DGNS|Dragoneer Growth Opportunities Corp. II - Class A Ordinary Shares
+DHBCU,DHBCU|DHB Capital Corp. - Unit
 DHC,DHC|Diversified Healthcare Trust  - Common Shares of Beneficial Interest
+DHCAU,DHCAU|DHC Acquisition Corp. - Unit
 DHCNI,DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042
 DHCNL,DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
 DHHCU,DHHCU|DiamondHead Holdings Corp. - Unit
@@ -5184,6 +5194,7 @@ GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
 GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
 GBNY,GBNY|Generations Bancorp NY, Inc. - Common Stock
 GBOX,GBOX|Greenbox POS - Common Stock
+GBRGU,GBRGU|Goldenbridge Acquisition Limited - Unit
 GBS,GBS|GBS Inc. - Common Stock
 GBT,GBT|Global Blood Therapeutics, Inc. - Common Stock
 GCACU,GCACU|Growth Capital Acquisition Corp. - Unit
@@ -5473,6 +5484,7 @@ HWCPL,HWCPL|Hancock Whitney Corporation - 5.95% Subordinated Notes due 2045
 HWCPZ,HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060
 HWKN,HWKN|Hawkins, Inc. - Common Stock
 HX,HX|Xiaobai Maimai Inc. - American Depositary Shares
+HYACU,HYACU|Haymaker Acquisition Corp. III - Unit
 HYFM,HYFM|Hydrofarm Holdings Group, Inc. - Common Stock
 HYMC,HYMC|Hycroft Mining Holding Corporation - Class A Common Stock
 HYMCL,HYMCL|Hycroft Mining Holding Corporation - Warrants
@@ -5819,7 +5831,9 @@ LIVX,LIVX|LiveXLive Media, Inc. - Common Stock
 LIXT,LIXT|Lixte Biotechnology Holdings, Inc. - Common Stock
 LIXTW,LIXTW|Lixte Biotechnology Holdings, Inc. - Warrants
 LIZI,LIZI|LIZHI INC. - American Depositary Shares
+LJAQ,LJAQ|LightJump Acquisition Corporation - Common Stock
 LJAQU,LJAQU|LightJump Acquisition Corporation - Unit
+LJAQW,LJAQW|LightJump Acquisition Corporation - Warrant
 LJPC,LJPC|La Jolla Pharmaceutical Company - Common Stock
 LKCO,LKCO|Luokung Technology Corp - Ordinary Shares
 LKFN,LKFN|Lakeland Financial Corporation - Common Stock
@@ -6128,6 +6142,7 @@ NCNA,NCNA|NuCana plc - American Depositary Shares
 NCNO,NCNO|nCino, Inc. - Common Stock
 NCSM,NCSM|NCS Multistage Holdings, Inc. - Common Stock
 NCTY,NCTY|The9 Limited - American Depository Shares
+NDACU,NDACU|NightDragon Acquisition Corp. - SCALE Units
 NDAQ,NDAQ|Nasdaq, Inc. - Common Stock
 NDLS,NDLS|Noodles & Company - Common Stock
 NDRA,NDRA|ENDRA Life Sciences Inc. - Common Stock
@@ -6292,6 +6307,7 @@ OFSSI,OFSSI|OFS Capital Corporation - 5.95% Notes due 2026
 OFSSL,OFSSL|OFS Capital Corporation - 6.375% Notes due 2025
 OFSSZ,OFSSZ|OFS Capital Corporation - 6.50% Notes due 2025
 OGI,OGI|Organigram Holdings Inc. - Common Shares
+OHPAU,OHPAU|Orion Acquisition Corp. - Unit
 OIIM,OIIM|O2Micro International Limited - American Depositary Shares
 OKTA,OKTA|Okta, Inc. - Class A Common Stock
 OLB,OLB|The OLB Group, Inc. - Common Stock
