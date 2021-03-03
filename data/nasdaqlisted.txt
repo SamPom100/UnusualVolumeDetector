@@ -1486,6 +1486,7 @@ FNY|First Trust Mid Cap Growth AlphaDEX Fund|G|N|N|100|Y|N
 FOCS|Focus Financial Partners Inc. - Common Stock|Q|N|N|100|N|N
 FOLD|Amicus Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 FONR|Fonar Corporation - Common Stock|S|N|N|100|N|N
+FORA|Forian Inc. - Common Stock|S|N|N|100|N|N
 FORD|Forward Industries, Inc. - Common Stock|S|N|N|100|N|N
 FOREU|Foresight Acquisition Corp. - Unit, consisting of one share of Class A Common Stock and one-third of one redeemable warrant|S|N|N|100|N|N
 FORM|FormFactor, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1593,7 +1594,6 @@ GABC|German American Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 GAIA|Gaia, Inc. - Class A Common Stock|G|N|N|100|N|N
 GAIN|Gladstone Investment Corporation - Business Development Company|Q|N|N|100|N|N
 GAINL|Gladstone Investment Corporation - 6.375% Series E Cumulative Term Preferred Stock due 2025|Q|N|N|100|N|N
-GAINM|Gladstone Investment Corporation - 6.25% Series D Cumulative Term Preferred Stock|Q|N|N|100|N|N
 GALT|Galectin Therapeutics Inc. - Common Stock|S|N|N|100|N|N
 GAN|GAN Limited - Ordinary Shares|S|N|N|100|N|N
 GASS|StealthGas, Inc. - common stock|Q|N|N|100|N|N
@@ -1820,7 +1820,7 @@ HFFG|HF Foods Group Inc. - Common Stock|S|N|N|100|N|N
 HFWA|Heritage Financial Corporation - Common Stock|Q|N|N|100|N|N
 HGBL|Heritage Global Inc. - Common Stock|S|N|N|100|N|N
 HGEN|Humanigen, Inc. - Common Stock|S|N|N|100|N|N
-HGSH|China HGS Real Estate, Inc. - Common Stock|S|N|D|100|N|N
+HGSH|China HGS Real Estate, Inc. - Common Stock|S|N|N|100|N|N
 HHR|HeadHunter Group PLC - American Depositary Shares|Q|N|N|100|N|N
 HIBB|Hibbett Sports, Inc. - Common Stock|Q|N|N|100|N|N
 HIFS|Hingham Institution for Savings - Common Stock|G|N|N|100|N|N
@@ -2388,7 +2388,7 @@ LWAC|Locust Walk Acquisition Corp. - Class A Common stock|S|N|N|100|N|N
 LWACU|Locust Walk Acquisition Corp. - Unit|S|N|N|100|N|N
 LWACW|Locust Walk Acquisition Corp. - Warrant|S|N|N|100|N|N
 LWAY|Lifeway Foods, Inc. - Common Stock|G|N|N|100|N|N
-LX|LexinFintech Holdings Ltd. - American Depositary Shares|G|N|N|100|N|N
+LX|LexinFintech Holdings Ltd. - American Depositary Shares|Q|N|N|100|N|N
 LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares|G|N|N|100|N|N
 LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 LYFT|Lyft, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -2510,7 +2510,7 @@ MLACW|Malacca Straits Acquisition Company Limited - Warrants|S|N|N|100|N|N
 MLCO|Melco Resorts & Entertainment Limited - American Depositary Shares |Q|N|N|100|N|N
 MLHR|Herman Miller, Inc. - Common Stock|Q|N|N|100|N|N
 MLND|Millendo Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
-MLVF|Malvern Bancorp, Inc. - Common Stock|G|N|N|100|N|N
+MLVF|Malvern Bancorp, Inc. - Common Stock|G|N|E|100|N|N
 MMAC|MMA Capital Holdings, Inc. - Common Stock|S|N|N|100|N|N
 MMLP|Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 MMSI|Merit Medical Systems, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3044,9 +3044,11 @@ POLA|Polar Power, Inc. - Common Stock|S|N|N|100|N|N
 POOL|Pool Corporation - Common Stock|Q|N|N|100|N|N
 POSH|Poshmark, Inc. - Class A Common Stock|Q|N|N|100|N|N
 POTX|Global X Cannabis ETF|G|N|N|100|Y|N
+POW|Powered Brands - Class A Ordinary Shares|S|N|N|100|N|N
 POWI|Power Integrations, Inc. - Common Stock|Q|N|N|100|N|N
 POWL|Powell Industries, Inc. - Common Stock|Q|N|N|100|N|N
 POWRU|Powered Brands - Units|S|N|N|100|N|N
+POWRW|Powered Brands - Warrants|S|N|N|100|N|N
 POWW|AMMO, Inc. - Common Stock|S|N|N|100|N|N
 PPBI|Pacific Premier Bancorp Inc - Common Stock|Q|N|N|100|N|N
 PPBT|Purple Biotech Ltd. - American Depositary Shares|S|N|N|100|N|N
@@ -3172,8 +3174,8 @@ QLI|Qilian International Holding Group Ltd. - Ordinary Shares|G|N|N|100|N|N
 QLYS|Qualys, Inc. - Common Stock|Q|N|N|100|N|N
 QMCO|Quantum Corporation - Common Stock|G|N|N|100|N|N
 QNST|QuinStreet, Inc. - Common Stock|Q|N|N|100|N|N
-QQC|Simplify Growth Equity Plus Convexity ETF|G|N|N|100|Y|N
-QQD|Simplify Growth Equity Plus Downside Convexity ETF|G|N|N|100|Y|N
+QQC|Simplify Nasdaq 100 PLUS Convexity ETF|G|N|N|100|Y|N
+QQD|Simplify Nasdaq 100 PLUS Downside Convexity ETF|G|N|N|100|Y|N
 QQEW|First Trust NASDAQ-100 Equal Weighted Index Fund|G|N|N|100|Y|N
 QQQ|Invesco QQQ Trust, Series 1|G|N|N|100|Y|N
 QQQJ|Invesco NASDAQ Next Gen 100 ETF|G|N|N|100|Y|N
@@ -3318,6 +3320,7 @@ ROCH|Roth CH Acquisition I Co. - Common Stock|S|N|N|100|N|N
 ROCHU|Roth CH Acquisition I Co. - Unit|S|N|N|100|N|N
 ROCHW|Roth CH Acquisition I Co. - Warrant|S|N|N|100|N|N
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100|N|N
+ROCRU|Roth CH Acquisition III Co. - Unit|S|N|N|100|N|N
 ROIC|Retail Opportunity Investments Corp. - Common Stock|Q|N|N|100|N|N
 ROKU|Roku, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ROLL|RBC Bearings Incorporated - Common Stock|Q|N|N|100|N|N
@@ -3950,7 +3953,9 @@ VBTX|Veritex Holdings, Inc. - Common Stock|G|N|N|100|N|N
 VC|Visteon Corporation - Common Stock|Q|N|N|100|N|N
 VCEL|Vericel Corporation - Common Stock|S|N|N|100|N|N
 VCIT|Vanguard Intermediate-Term Corporate Bond ETF|G|N|N|100|Y|N
+VCKA|Vickers Vantage Corp. I - Ordinary Shares|S|N|N|100|N|N
 VCKAU|Vickers Vantage Corp. I - Unit|S|N|N|100|N|N
+VCKAW|Vickers Vantage Corp. I - Warrant|S|N|N|100|N|N
 VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCNX|Vaccinex, Inc. - Common Stock|S|N|N|100|N|N
 VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100|Y|N
@@ -4068,7 +4073,9 @@ VTC|Vanguard Total Corporate Bond ETF|G|N|N|100|Y|N
 VTGN|VistaGen Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VTHR|Vanguard Russell 3000 ETF|G|N|N|100|Y|N
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund|G|N|N|100|Y|N
+VTIQ|VectoIQ Acquisition Corp. II - Class A Common Stock|S|N|N|100|N|N
 VTIQU|VectoIQ Acquisition Corp. II - Unit|S|N|N|100|N|N
+VTIQW|VectoIQ Acquisition Corp. II - Warrant|S|N|N|100|N|N
 VTNR|Vertex Energy, Inc - Common Stock|S|N|N|100|N|N
 VTRN|VictoryShares Top Veteran Employers ETF|G|N|N|100|Y|N
 VTRS|Viatris Inc. - Common Stock|Q|N|N|100|N|N
@@ -4248,4 +4255,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0302202112:12|||||||
+File Creation Time: 0303202112:12|||||||

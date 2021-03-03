@@ -47,7 +47,9 @@ ACV,ACV|Virtus AllianzGI Diversified Income & Convertible Fund Common Shares of 
 ACY,ACY|AeroCentury Corp. Common Stock
 ADC,ADC|Agree Realty Corporation Common Stock
 ADCT,ADCT|ADC Therapeutics SA Common Shares
+ADEX,ADEX|Adit EdTech Acquisition Corp. Common Stock
 ADEX.U,ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant
+ADEX.W,ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
 ADM,ADM|Archer-Daniels-Midland Company Common Stock
 ADNT,ADNT|Adient plc Ordinary Shares 
 ADRA.U,ADRA.U|Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
@@ -587,7 +589,7 @@ BWG,BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWL.A,BWL.A|Bowl America, Inc. Class A Common Stock
 BWSN,BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026
 BWXT,BWXT|BWX Technologies, Inc. Common Stock
-BX,BX|The Blackstone Group Inc. Class A Common Stock
+BX,BX|The Blackstone Group Inc. Common Stock
 BXC,BXC|Bluelinx Holdings Inc. Common Stock
 BXG,BXG|Bluegreen Vacations Corporation Common Stock
 BXMT,BXMT|Blackstone Mortgage Trust, Inc. Common Stock
@@ -1881,6 +1883,7 @@ IRS,IRS|IRSA Inversiones Y Representaciones S.A. Common Stock
 IRT,IRT|Independence Realty Trust, Inc. Common Stock
 ISD,ISD|PGIM High Yield Bond Fund, Inc.
 ISDR,ISDR|Issuer Direct Corporation Common Stock
+ISOS.U,ISOS.U|Isos Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share
 ISR,ISR|IsoRay, Inc. Common Stock (DE)
 IT,IT|Gartner, Inc. Common Stock
 ITCB,ITCB|Itau CorpBanca American Depositary Shares (each representing 1,500 shares of Common Stock, no par value)
@@ -2141,6 +2144,7 @@ MA,MA|Mastercard Incorporated Common Stock
 MAA,MAA|Mid-America Apartment Communities, Inc. Common Stock
 MAA$I,MAA$I|Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock
 MAC,MAC|Macerich Company (The) Common Stock
+MACC.U,MACC.U|Mission Advancement Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant
 MAG,MAG|MAG Silver Corporation Ordinary Shares
 MAIN,MAIN|Main Street Capital Corporation Common Stock
 MAN,MAN|ManpowerGroup Common Stock
@@ -2620,6 +2624,7 @@ ORCL,ORCL|Oracle Corporation Common Stock
 ORI,ORI|Old Republic International Corporation Common Stock
 ORLA,ORLA|Orla Mining Ltd. Common Shares
 ORN,ORN|Orion Group Holdings, Inc. Common
+OSCR,OSCR|Oscar Health, Inc. Class A Common Stock
 OSG,OSG|Overseas Shipholding Group, Inc. Class A Common Stock
 OSH,OSH|Oak Street Health, Inc. Common Stock
 OSK,OSK|Oshkosh Corporation (Holding Company)Common Stock
@@ -3310,7 +3315,6 @@ TBB,TBB|AT&T Inc. 5.350% Global Notes due 2066
 TBC,TBC|AT&T Inc. 5.625% Global Notes due 2067
 TBI,TBI|TrueBlue, Inc. Common Stock
 TCI,TCI|Transcontinental Realty Investors, Inc. Common Stock
-TCP,TCP|TC PipeLines, LP Common Units representing Limited Partner Interests
 TCS,TCS|Container Store (The) Common Stock
 TD,TD|Toronto Dominion Bank (The) Common Stock
 TDA,TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061
@@ -5102,6 +5106,7 @@ FNWB,FNWB|First Northwest Bancorp - Common Stock
 FOCS,FOCS|Focus Financial Partners Inc. - Common Stock
 FOLD,FOLD|Amicus Therapeutics, Inc. - Common Stock
 FONR,FONR|Fonar Corporation - Common Stock
+FORA,FORA|Forian Inc. - Common Stock
 FORD,FORD|Forward Industries, Inc. - Common Stock
 FOREU,FOREU|Foresight Acquisition Corp. - Unit, consisting of one share of Class A Common Stock and one-third of one redeemable warrant
 FORM,FORM|FormFactor, Inc. - Common Stock
@@ -5183,7 +5188,6 @@ GABC,GABC|German American Bancorp, Inc. - Common Stock
 GAIA,GAIA|Gaia, Inc. - Class A Common Stock
 GAIN,GAIN|Gladstone Investment Corporation - Business Development Company
 GAINL,GAINL|Gladstone Investment Corporation - 6.375% Series E Cumulative Term Preferred Stock due 2025
-GAINM,GAINM|Gladstone Investment Corporation - 6.25% Series D Cumulative Term Preferred Stock
 GALT,GALT|Galectin Therapeutics Inc. - Common Stock
 GAN,GAN|GAN Limited - Ordinary Shares
 GASS,GASS|StealthGas, Inc. - common stock
@@ -6537,9 +6541,11 @@ PODD,PODD|Insulet Corporation - Common Stock
 POLA,POLA|Polar Power, Inc. - Common Stock
 POOL,POOL|Pool Corporation - Common Stock
 POSH,POSH|Poshmark, Inc. - Class A Common Stock
+POW,POW|Powered Brands - Class A Ordinary Shares
 POWI,POWI|Power Integrations, Inc. - Common Stock
 POWL,POWL|Powell Industries, Inc. - Common Stock
 POWRU,POWRU|Powered Brands - Units
+POWRW,POWRW|Powered Brands - Warrants
 POWW,POWW|AMMO, Inc. - Common Stock
 PPBI,PPBI|Pacific Premier Bancorp Inc - Common Stock
 PPBT,PPBT|Purple Biotech Ltd. - American Depositary Shares
@@ -6761,6 +6767,7 @@ ROCH,ROCH|Roth CH Acquisition I Co. - Common Stock
 ROCHU,ROCHU|Roth CH Acquisition I Co. - Unit
 ROCHW,ROCHW|Roth CH Acquisition I Co. - Warrant
 ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
+ROCRU,ROCRU|Roth CH Acquisition III Co. - Unit
 ROIC,ROIC|Retail Opportunity Investments Corp. - Common Stock
 ROKU,ROKU|Roku, Inc. - Class A Common Stock
 ROLL,ROLL|RBC Bearings Incorporated - Common Stock
@@ -7355,7 +7362,9 @@ VBLT,VBLT|Vascular Biogenics Ltd. - Ordinary Shares
 VBTX,VBTX|Veritex Holdings, Inc. - Common Stock
 VC,VC|Visteon Corporation - Common Stock
 VCEL,VCEL|Vericel Corporation - Common Stock
+VCKA,VCKA|Vickers Vantage Corp. I - Ordinary Shares
 VCKAU,VCKAU|Vickers Vantage Corp. I - Unit
+VCKAW,VCKAW|Vickers Vantage Corp. I - Warrant
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
 VCVC,VCVC|10X Capital Venture Acquisition Corp - Common Stock
@@ -7454,7 +7463,9 @@ VTAQR,VTAQR|Ventoux CCM Acquisition Corp. - Right
 VTAQU,VTAQU|Ventoux CCM Acquisition Corp. - Unit
 VTAQW,VTAQW|Ventoux CCM Acquisition Corp. - Warrant
 VTGN,VTGN|VistaGen Therapeutics, Inc. - Common Stock
+VTIQ,VTIQ|VectoIQ Acquisition Corp. II - Class A Common Stock
 VTIQU,VTIQU|VectoIQ Acquisition Corp. II - Unit
+VTIQW,VTIQW|VectoIQ Acquisition Corp. II - Warrant
 VTNR,VTNR|Vertex Energy, Inc - Common Stock
 VTRS,VTRS|Viatris Inc. - Common Stock
 VTRU,VTRU|Vitru Limited - Common Shares

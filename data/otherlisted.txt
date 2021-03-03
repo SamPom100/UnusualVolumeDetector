@@ -60,7 +60,9 @@ ACWV|iShares MSCI Global Min Vol Factor ETF|Z|ACWV|Y|100|N|ACWV
 ACY|AeroCentury Corp. Common Stock|A|ACY|N|100|N|ACY
 ADC|Agree Realty Corporation Common Stock|N|ADC|N|100|N|ADC
 ADCT|ADC Therapeutics SA Common Shares|N|ADCT|N|100|N|ADCT
+ADEX|Adit EdTech Acquisition Corp. Common Stock|N|ADEX|N|100|N|ADEX
 ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant|N|ADEX.U|N|100|N|ADEX=
+ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|ADEX.WS|N|100|N|ADEX+
 ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
@@ -740,7 +742,7 @@ BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026|N|BWSN|N|10
 BWX|SPDR Bloomberg Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Bloomberg Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
-BX|The Blackstone Group Inc. Class A Common Stock|N|BX|N|100|N|BX
+BX|The Blackstone Group Inc. Common Stock|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXG|Bluegreen Vacations Corporation Common Stock|N|BXG|N|100|N|BXG
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
@@ -2661,6 +2663,7 @@ IGEB|iShares Investment Grade Bond Factor ETF|Z|IGEB|Y|100|N|IGEB
 IGHG|ProShares Investment Grade-Interest Rate Hedged|Z|IGHG|Y|100|N|IGHG
 IGI|Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock|N|IGI|N|100|N|IGI
 IGLB|iShares 10  Year Investment Grade Corporate Bond ETF|P|IGLB|Y|100|N|IGLB
+IGLD|FT Cboe Vest Gold Strategy Target Income ETF|Z|IGLD|Y|100|N|IGLD
 IGM|iShares Expanded Tech Sector ETF|P|IGM|Y|100|N|IGM
 IGN|iShares North American Tech-Multimedia Networking ETF|P|IGN|Y|100|N|IGN
 IGR|CBRE Clarion Global Real Estate Income Fund Common Stock|N|IGR|N|100|N|IGR
@@ -2783,6 +2786,7 @@ ISCF|iShares MSCI Intl Small-Cap Multifactor ETF|P|ISCF|Y|100|N|ISCF
 ISD|PGIM High Yield Bond Fund, Inc.|N|ISD|N|100|N|ISD
 ISDR|Issuer Direct Corporation Common Stock|A|ISDR|N|100|N|ISDR
 ISMD|Inspire Small/Mid Cap Impact ETF|P|ISMD|Y|100|N|ISMD
+ISOS.U|Isos Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share|N|ISOS.U|N|100|N|ISOS=
 ISR|IsoRay, Inc. Common Stock (DE)|A|ISR|N|100|N|ISR
 ISRA|VanEck Vectors Israel ETF|P|ISRA|Y|100|N|ISRA
 ISWN|Amplify BlackSwan ISWN ETF|P|ISWN|Y|100|N|ISWN
@@ -3244,6 +3248,7 @@ MAA|Mid-America Apartment Communities, Inc. Common Stock|N|MAA|N|100|N|MAA
 MAA$I|Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock|N|MAApI|N|100|N|MAA-I
 MAAX|VanEck Vectors ETF Trust VanEck Vectors Muni Allocation ETF|Z|MAAX|Y|100|N|MAAX
 MAC|Macerich Company (The) Common Stock|N|MAC|N|100|N|MAC
+MACC.U|Mission Advancement Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant|N|MACC.U|N|100|N|MACC=
 MAG|MAG Silver Corporation Ordinary Shares|A|MAG|N|100|N|MAG
 MAGA|Point Bridge GOP Stock Tracker ETF|Z|MAGA|Y|100|N|MAGA
 MAIN|Main Street Capital Corporation Common Stock|N|MAIN|N|100|N|MAIN
@@ -3840,6 +3845,7 @@ ORCL|Oracle Corporation Common Stock|N|ORCL|N|100|N|ORCL
 ORI|Old Republic International Corporation Common Stock|N|ORI|N|100|N|ORI
 ORLA|Orla Mining Ltd. Common Shares|A|ORLA|N|100|N|ORLA
 ORN|Orion Group Holdings, Inc. Common|N|ORN|N|100|N|ORN
+OSCR|Oscar Health, Inc. Class A Common Stock|N|OSCR|N|100|N|OSCR
 OSCV|Opus Small Cap Value ETF|Z|OSCV|Y|100|N|OSCV
 OSG|Overseas Shipholding Group, Inc. Class A Common Stock|N|OSG|N|100|N|OSG
 OSH|Oak Street Health, Inc. Common Stock|N|OSH|N|100|N|OSH
@@ -4967,7 +4973,6 @@ TBT|ProShares UltraShort Lehman 20  Year Treasury|P|TBT|Y|100|N|TBT
 TBX|ProShares Short 7 10 Year Treasury|P|TBX|Y|100|N|TBX
 TCHP|T. Rowe Price Blue Chip Growth ETF|P|TCHP|Y|100|N|TCHP
 TCI|Transcontinental Realty Investors, Inc. Common Stock|N|TCI|N|100|N|TCI
-TCP|TC PipeLines, LP Common Units representing Limited Partner Interests|N|TCP|N|100|N|TCP
 TCS|Container Store (The) Common Stock|N|TCS|N|100|N|TCS
 TCTL|Premise Capital Diversified Tactical ETF|Z|TCTL|Y|100|N|TCTL
 TD|Toronto Dominion Bank (The) Common Stock|N|TD|N|100|N|TD
@@ -5741,4 +5746,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0302202112:12||||||
+File Creation Time: 0303202112:12||||||
