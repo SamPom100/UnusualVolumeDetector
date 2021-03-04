@@ -294,6 +294,7 @@ ATA.W,ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whol
 ATAC,ATAC|Altimar Acquisition Corporation Class A Ordinary Shares
 ATAC.U,ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 ATAC.W,ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+ATAQ.U,ATAQ.U|Altimar Acquisition Corp. III Units, each consisting of one Class A Ordinary Share and one-fourth of one redeemable warrant
 ATC,ATC|Atotech Limited Common Shares
 ATCO,ATCO|Atlas Corp. Common Shares
 ATCO$D,ATCO$D|Atlas Corp. 7.95% Series D
@@ -2154,6 +2155,7 @@ MATX,MATX|Matson, Inc. Common Stock
 MAV,MAV|Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest
 MAX,MAX|MediaAlpha, Inc. Class A Common Stock
 MAXR,MAXR|Maxar Technologies Inc.
+MBAC.U,MBAC.U|M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant
 MBI,MBI|MBIA Inc. Common Stock
 MBT,MBT|Mobile TeleSystems PJSC
 MC,MC|Moelis & Company Class A Common Stock
@@ -3415,6 +3417,7 @@ TPX,TPX|Tempur Sealy International, Inc. Common Stock
 TPZ,TPZ|Tortoise Power and Energy Infrastructure Fund, Inc Common Stock
 TR,TR|Tootsie Roll Industries, Inc. Common Stock
 TRC,TRC|Tejon Ranch Co Common Stock
+TRCA.U,TRCA.U|Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 TREB,TREB|Trebia Acquisition Corp. Class A Ordinary Shares
 TREB.U,TREB.U|Trebia Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant
 TREB.W,TREB.W|Trebia Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share
@@ -3810,6 +3813,7 @@ ACAC,ACAC|Acies Acquisition Corp. - Class A Ordinary Share
 ACACU,ACACU|Acies Acquisition Corp. - Unit
 ACACW,ACACW|Acies Acquisition Corp. - Warrant
 ACAD,ACAD|ACADIA Pharmaceuticals Inc. - Common Stock
+ACAHU,ACAHU|Atlantic Coastal Acquisition Corp. - Unit
 ACBI,ACBI|Atlantic Capital Bancshares, Inc. - Common Stock
 ACCD,ACCD|Accolade, Inc. - common stock
 ACER,ACER|Acer Therapeutics Inc. - Common Stock
@@ -4135,6 +4139,7 @@ AUBAP,AUBAP|Atlantic Union Bankshares Corporation - Depositary Shares each repre
 AUBN,AUBN|Auburn National Bancorporation, Inc. - Common Stock
 AUDC,AUDC|AudioCodes Ltd. - Ordinary Shares
 AUPH,AUPH|Aurinia Pharmaceuticals Inc - Common Shares
+AURCU,AURCU|Aurora Acquisition Corp. - Unit
 AUTL,AUTL|Autolus Therapeutics plc - American Depositary Shares
 AUTO,AUTO|AutoWeb, Inc. - Common Stock
 AUUD,AUUD|Auddia Inc. - Common Stock
@@ -5188,6 +5193,7 @@ GABC,GABC|German American Bancorp, Inc. - Common Stock
 GAIA,GAIA|Gaia, Inc. - Class A Common Stock
 GAIN,GAIN|Gladstone Investment Corporation - Business Development Company
 GAINL,GAINL|Gladstone Investment Corporation - 6.375% Series E Cumulative Term Preferred Stock due 2025
+GAINN,GAINN|Gladstone Investment Corporation - 5.00% Notes Due 2026
 GALT,GALT|Galectin Therapeutics Inc. - Common Stock
 GAN,GAN|GAN Limited - Ordinary Shares
 GASS,GASS|StealthGas, Inc. - common stock
@@ -5297,7 +5303,9 @@ GOSS,GOSS|Gossamer Bio, Inc. - Common Stock
 GOVX,GOVX|GeoVax Labs, Inc. - Common Stock
 GOVXW,GOVXW|GeoVax Labs, Inc. - Warrants
 GP,GP|GreenPower Motor Company Inc. - Common Shares
+GPAC,GPAC|Global Partner Acquisition Corp II - Class A Ordinary Share
 GPACU,GPACU|Global Partner Acquisition Corp II - Unit
+GPACW,GPACW|Global Partner Acquisition Corp II - Warrant
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
@@ -5400,6 +5408,7 @@ HECCW,HECCW|Hudson Executive Investment Corp. - Warrant
 HEES,HEES|H&E Equipment Services, Inc. - Common Stock
 HELE,HELE|Helen of Troy Limited - Common Stock
 HEPA,HEPA|Hepion Pharmaceuticals, Inc. - Common Stock
+HERAU,HERAU|FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant
 HFBL,HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock
 HFFG,HFFG|HF Foods Group Inc. - Common Stock
 HFWA,HFWA|Heritage Financial Corporation - Common Stock
@@ -5588,6 +5597,7 @@ INKAW,INKAW|KludeIn I Acquisition Corp. - Warrant
 INM,INM|InMed Pharmaceuticals Inc. - Common Shares
 INMB,INMB|INmune Bio Inc. - Common stock
 INMD,INMD|InMode Ltd.  - Ordinary Shares
+INNV,INNV|InnovAge Holding Corp. - Common Stock
 INO,INO|Inovio Pharmaceuticals, Inc. - Common Stock
 INOD,INOD|Innodata Inc. - Common Stock
 INOV,INOV|Inovalon Holdings, Inc. - Class A Common Stock
@@ -5753,6 +5763,7 @@ KTOS,KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock
 KTRA,KTRA|Kintara Therapeutics, Inc. - Common Stock
 KURA,KURA|Kura Oncology, Inc. - Common Stock
 KVHI,KVHI|KVH Industries, Inc. - Common Stock
+KVSA,KVSA|Khosla Ventures Acquisition Co. - Class A Common Stock
 KXIN,KXIN|Kaixin Auto Holdings - Ordinary Share
 KYMR,KYMR|Kymera Therapeutics, Inc. - Common Stock
 KZIA,KZIA|Kazia Therapeutics Limited - American Depositary Shares
@@ -5798,7 +5809,9 @@ LECO,LECO|Lincoln Electric Holdings, Inc. - Common Shares
 LEDS,LEDS|SemiLEDS Corporation - Common Stock
 LEGH,LEGH|Legacy Housing Corporation - Common Stock
 LEGN,LEGN|Legend Biotech Corporation - American Depositary Shares
+LEGO,LEGO|Legato Merger Corp. - Common stock
 LEGOU,LEGOU|Legato Merger Corp. - Units
+LEGOW,LEGOW|Legato Merger Corp. - Warrant
 LESL,LESL|Leslie's, Inc. - Common Stock
 LEVL,LEVL|Level One Bancorp, Inc. - Common Stock
 LEVLP,LEVLP|Level One Bancorp, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B
@@ -6566,7 +6579,6 @@ PRDO,PRDO|Perdoceo Education Corporation - Common Stock
 PRFT,PRFT|Perficient, Inc. - Common Stock
 PRFX,PRFX|PainReform Ltd. - Ordinary Shares
 PRGS,PRGS|Progress Software Corporation - Common Stock
-PRGX,PRGX|PRGX Global, Inc. - Common Stock
 PRIM,PRIM|Primoris Services Corporation - Common Stock
 PRLD,PRLD|Prelude Therapeutics Incorporated - Common Stock
 PROF,PROF|Profound Medical Corp. - common stock
@@ -6590,6 +6602,7 @@ PS,PS|Pluralsight, Inc. - Class A Common Stock
 PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
 PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
 PSACW,PSACW|Property Solutions Acquisition Corp. - Warrant
+PSAGU,PSAGU|Property Solutions Acquisition Corporation II - Units
 PSEC,PSEC|Prospect Capital Corporation - Common Stock
 PSHG,PSHG|Performance Shipping Inc. - Common Shares
 PSMT,PSMT|PriceSmart, Inc. - Common Stock
@@ -6798,6 +6811,7 @@ RVPH,RVPH|Reviva Pharmaceuticals Holdings, Inc. - Common Stock
 RVPHW,RVPHW|Reviva Pharmaceuticals Holdings, Inc. - Warrants
 RVSB,RVSB|Riverview Bancorp Inc - Common Stock
 RWLK,RWLK|ReWalk Robotics Ltd. - Ordinary Shares
+RXRAU,RXRAU|RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant
 RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
 RYTM,RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock
