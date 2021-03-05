@@ -342,6 +342,7 @@ ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole war
 ASPN|Aspen Aerogels, Inc. Common Stock|N|ASPN|N|100|N|ASPN
 ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock|N|ASR|N|100|N|ASR
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
+ASXC|Asensus Surgical, Inc. Common Stock|A|ASXC|N|100|N|ASXC
 ASZ.U|Austerlitz Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|ASZ.U|N|100|N|ASZ=
 AT|Atlantic Power Corporation Ordinary Shares (Canada)|N|AT|N|100|N|AT
 ATA|Americas Technology Acquisition Corp. Ordinary Shares|N|ATA|N|100|N|ATA
@@ -1347,6 +1348,7 @@ DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants|N|DMYD.WS|N|100|N|DMYD+
 DMYI|dMY Technology Group, Inc. III Class A Common Stock|N|DMYI|N|100|N|DMYI
 DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|DMYI.U|N|100|N|DMYI=
 DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|DMYI.WS|N|100|N|DMYI+
+DMYQ.U|dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|DMYQ.U|N|100|N|DMYQ=
 DNB|Dun & Bradstreet Holdings, Inc. Common Stock|N|DNB|N|100|N|DNB
 DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares|N|DNK|N|100|N|DNK
 DNL|WisdomTree Global ex-US Quality Dividend Growth Fund|P|DNL|Y|100|N|DNL
@@ -1803,7 +1805,9 @@ FBND|Fidelity Total Bond ETF|P|FBND|Y|100|N|FBND
 FBP|First BanCorp. New Common Stock|N|FBP|N|100|N|FBP
 FBT|First Trust Amex Biotech Index Fund|P|FBT|Y|100|N|FBT
 FC|Franklin Covey Company Common Stock|N|FC|N|100|N|FC
+FCAX|Fortress Capital Acquisition Corp. Class A Ordinary Shares|N|FCAX|N|100|N|FCAX
 FCAX.U|Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|FCAX.U|N|100|N|FCAX=
+FCAX.W|Fortress Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|FCAX.WS|N|100|N|FCAX+
 FCF|First Commonwealth Financial Corporation Common Stock|N|FCF|N|100|N|FCF
 FCG|First Trust Natural Gas ETF|P|FCG|Y|100|N|FCG
 FCN|FTI Consulting, Inc. Common Stock|N|FCN|N|100|N|FCN
@@ -2768,6 +2772,8 @@ IPOS|Renaissance Capital Greenwich Fund|P|IPOS|Y|100|N|IPOS
 IPV|InterPrivate Acquisition Corp. Common Stock|N|IPV|N|100|N|IPV
 IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant|N|IPV.U|N|100|N|IPV=
 IPV.W|InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|IPV.WS|N|100|N|IPV+
+IPVA.U|InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|IPVA.U|N|100|N|IPVA=
+IPVF.U|InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|IPVF.U|N|100|N|IPVF=
 IQDE|FlexShares International Quality Dividend Defensive Index Fund|P|IQDE|Y|100|N|IQDE
 IQDF|FlexShares International Quality Dividend Index Fund|P|IQDF|Y|100|N|IQDF
 IQDG|WisdomTree International Quality Dividend Growth Fund|Z|IQDG|Y|100|N|IQDG
@@ -3593,7 +3599,9 @@ NG|Novagold Resources Inc.|A|NG|N|100|N|NG
 NGA|Northern Genesis Acquisition Corp. Common Stock|N|NGA|N|100|N|NGA
 NGA.U|Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|NGA.U|N|100|N|NGA=
 NGA.W|Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|NGA.WS|N|100|N|NGA+
+NGAB|Northern Genesis Acquisition Corp. II Common Stock|N|NGAB|N|100|N|NGAB
 NGAB.U|Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-third of one redeemable warrant|N|NGAB.U|N|100|N|NGAB=
+NGAB.W|Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|NGAB.WS|N|100|N|NGAB+
 NGD|New Gold Inc.|A|NGD|N|100|N|NGD
 NGE|Global X MSCI Nigeria ETF|P|NGE|Y|100|N|NGE
 NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares|N|NGG|N|100|N|NGG
@@ -4075,7 +4083,9 @@ PNI|Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNM|PNM Resources, Inc. (Holding Co.) Common Stock|N|PNM|N|100|N|PNM
 PNOV|Innovator S&P 500 Power Buffer ETF - November|Z|PNOV|Y|100|N|PNOV
 PNR|Pentair plc. Ordinary Share|N|PNR|N|100|N|PNR
+PNTM|Pontem Corporation Class A Ordinary Shares|N|PNTM|N|100|N|PNTM
 PNTM.U|Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|PNTM.U|N|100|N|PNTM=
+PNTM.W|Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PNTM.WS|N|100|N|PNTM+
 PNW|Pinnacle West Capital Corporation Common Stock|N|PNW|N|100|N|PNW
 POCT|Innovator S&P 500 Power Buffer ETF - October|Z|POCT|Y|100|N|POCT
 POR|Portland General Electric Co Common Stock|N|POR|N|100|N|POR
@@ -5154,7 +5164,6 @@ TRTY|Cambria Trinity ETF|Z|TRTY|Y|100|N|TRTY
 TRU|TransUnion Common Stock|N|TRU|N|100|N|TRU
 TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|100|N|TRV
 TRX|Tanzanian Gold Corporation Common Stock|A|TRX|N|100|N|TRX
-TRXC|TransEnterix, Inc. Common Stock|A|TRXC|N|100|N|TRXC
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
 TSE|Trinseo S.A. Ordinary Shares|N|TSE|N|100|N|TSE
 TSI|TCW Strategic Income Fund, Inc. Common Stock|N|TSI|N|100|N|TSI
@@ -5187,6 +5196,7 @@ TWND|Tailwind Acquisition Corp. Class A Common Stock|N|TWND|N|100|N|TWND
 TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant|N|TWND.U|N|100|N|TWND=
 TWND.W|Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|TWND.WS|N|100|N|TWND+
 TWNI.U|Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|TWNI.U|N|100|N|TWNI=
+TWNT.U|Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|TWNT.U|N|100|N|TWNT=
 TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
 TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)|N|TWOpA|N|100|N|TWO-A
 TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|TWOpB|N|100|N|TWO-B
@@ -5464,6 +5474,7 @@ VOX|Vanguard Communication Services  ETF|P|VOX|Y|100|N|VOX
 VOYA|Voya Financial, Inc. Common Stock|N|VOYA|N|100|N|VOYA
 VOYA$B|Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B|N|VOYApB|N|100|N|VOYA-B
 VPC|Virtus Private Credit Strategy ETF|P|VPC|Y|100|N|VPC
+VPCC.U|VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|VPCC.U|N|100|N|VPCC=
 VPG|Vishay Precision Group, Inc. Common Stock|N|VPG|N|100|N|VPG
 VPL|Vanguard FTSE Pacific ETF|P|VPL|Y|100|N|VPL
 VPOP|Simplify Volt Pop Culture Disruption ETF|P|VPOP|Y|100|N|VPOP
@@ -5590,6 +5601,8 @@ WOR|Worthington Industries, Inc. Common Stock|N|WOR|N|100|N|WOR
 WORK|Slack Technologies, Inc. Class A Common Stock|N|WORK|N|100|N|WORK
 WOW|WideOpenWest, Inc. Common Stock|N|WOW|N|100|N|WOW
 WPC|W. P. Carey Inc. REIT|N|WPC|N|100|N|WPC
+WPCA.U|Warburg Pincus Capital Corporation IA Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|WPCA.U|N|100|N|WPCA=
+WPCB.U|Warburg Pincus Capital Corporation IB Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|WPCB.U|N|100|N|WPCB=
 WPF|Foley Trasimene Acquisition Corp. Class A CommonStock|N|WPF|N|100|N|WPF
 WPF.U|Foley Trasimene Acquisition Corp. Units, each consisting of one Class A common stock and one-third of one redeemable warrant|N|WPF.U|N|100|N|WPF=
 WPF.W|Foley Trasimene Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|WPF.WS|N|100|N|WPF+
@@ -5752,4 +5765,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0304202115:43||||||
+File Creation Time: 0305202115:45||||||
