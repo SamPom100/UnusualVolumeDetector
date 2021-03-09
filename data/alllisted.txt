@@ -690,7 +690,6 @@ CELG.R,CELG.R|Bristol-Myers Squibb Company Celegne Contingent Value Rights
 CELP,CELP|Cypress Environmental Partners, L.P. Common Units representing limited partner interests
 CEM,CEM|ClearBridge MLP and Midstream Fund Inc. Common Stock
 CEN,CEN|Center Coast Brookfield MLP & Energy Infrastructure Fund
-CEO,CEO|CNOOC Limited Common Stock
 CEPU,CEPU|Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)
 CEQP,CEQP|Crestwood Equity Partners LP
 CEQP$,CEQP$|Crestwood Equity Partners LP Preferred Units representing limited partner interests
@@ -1619,6 +1618,8 @@ GRA,GRA|W.R. Grace & Co. Common Stock
 GRC,GRC|Gorman-Rupp Company (The) Common Stock
 GRF,GRF|Eagle Capital Growth Fund, Inc. Common Stock
 GRN,GRN|iPath Series B Carbon Exchange-Traded Notes
+GROY,GROY|Gold Royalty Corp. Common Shares
+GROY.W,GROY.W|Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50
 GRP.U,GRP.U|Granite Real Estate Inc. Stapled Units, each consisting of one unit of Granite Real Estate Trust and one common share of Granite REIT Inc.
 GRU,GRU|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Grains Total Return
 GRUB,GRUB|GrubHub Inc. Common Stock
@@ -1655,6 +1656,7 @@ GTY,GTY|Getty Realty Corporation Common Stock
 GUT,GUT|Gabelli Utility Trust (The) Common Stock
 GUT$A,GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares
 GUT$C,GUT$C|Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares
+GUT.V,GUT.V|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) When Issued
 GVA,GVA|Granite Construction Incorporated Common Stock
 GWB,GWB|Great Western Bancorp, Inc. Common Stock
 GWRE,GWRE|Guidewire Software, Inc. Common Stock
@@ -2688,6 +2690,7 @@ PDAC.W,PDAC.W|Peridot Acquisition Corp. Redeemable Warrants, each whole warrant 
 PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDO,PDO|PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest
+PDOT.U,PDOT.U|Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant
 PDS,PDS|Precision Drilling Corporation Common Stock
 PDT,PDT|John Hancock Premium Dividend Fund
 PEAK,PEAK|Healthpeak Properties, Inc. Common Stock
@@ -3844,6 +3847,7 @@ ACLS,ACLS|Axcelis Technologies, Inc. - Common Stock
 ACMR,ACMR|ACM Research, Inc. - Class A Common Stock
 ACNB,ACNB|ACNB Corporation - Common Stock
 ACOR,ACOR|Acorda Therapeutics, Inc. - Common Stock
+ACQRU,ACQRU|Independence Holdings Corp. - Units
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc. - Class A Common Stock
@@ -4304,7 +4308,6 @@ BLUW,BLUW|Blue Water Acquisition Corp. - Class A Common Stock
 BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
 BLUWW,BLUWW|Blue Water Acquisition Corp. - Warrant
 BMBL,BMBL|Bumble Inc. - common stock
-BMLP,BMLP|Dorsey Wright MLP Index ETNs due December 10, 2036
 BMRA,BMRA|Biomerica, Inc. - Common Stock
 BMRC,BMRC|Bank of Marin Bancorp - Common Stock
 BMRN,BMRN|BioMarin Pharmaceutical Inc. - Common Stock
@@ -4402,7 +4405,9 @@ CAAS,CAAS|China Automotive Systems, Inc. - Common Stock
 CABA,CABA|Cabaletta Bio, Inc. - Common Stock
 CAC,CAC|Camden National Corporation - Common Stock
 CACC,CACC|Credit Acceptance Corporation - Common Stock
+CAHC,CAHC|CA Healthcare Acquisition Corp. - Class A Common Stock
 CAHCU,CAHCU|CA Healthcare Acquisition Corp. - Unit
+CAHCW,CAHCW|CA Healthcare Acquisition Corp. - Warrant
 CAKE,CAKE|The Cheesecake Factory Incorporated - Common Stock
 CALA,CALA|Calithera Biosciences, Inc. - Common Stock
 CALB,CALB|California BanCorp - Common Stock
@@ -4495,9 +4500,6 @@ CFBK,CFBK|CF Bankshares Inc. - Common Stock
 CFFI,CFFI|C&F Financial Corporation - Common Stock
 CFFN,CFFN|Capitol Federal Financial, Inc. - Common Stock
 CFFVU,CFFVU|CF Acquisition Corp. V - Unit
-CFII,CFII|CF Finance Acquisition Corp. II - Class A Common Stock
-CFIIU,CFIIU|CF Finance Acquisition Corp. II - Unit
-CFIIW,CFIIW|CF Finance Acquisition Corp. II - Warrant
 CFIV,CFIV|CF Acquisition Corp. IV - Class A common stock
 CFIVU,CFIVU|CF Acquisition Corp. IV - Unit
 CFIVW,CFIVW|CF Acquisition Corp. IV - Warrant
@@ -4992,7 +4994,9 @@ ETTX,ETTX|Entasis Therapeutics Holdings Inc. - Common Stock
 EUCR,EUCR|Eucrates Biomedical Acquisition Corp. - Ordinary Shares
 EUCRU,EUCRU|Eucrates Biomedical Acquisition Corp. - Unit
 EUCRW,EUCRW|Eucrates Biomedical Acquisition Corp. - Warrant
+EUSG,EUSG|European Sustainable Growth Acquisition Corp. - Class A Ordinary Shares
 EUSGU,EUSGU|European Sustainable Growth Acquisition Corp. - Unit
+EUSGW,EUSGW|European Sustainable Growth Acquisition Corp. - Warrant
 EVAX,EVAX|Evaxion Biotech A/S - American Depositary Share
 EVBG,EVBG|Everbridge, Inc. - Common Stock
 EVER,EVER|EverQuote, Inc. - Class A Common Stock
@@ -5302,7 +5306,6 @@ GNFT,GNFT|GENFIT S.A. - American Depositary Shares
 GNLN,GNLN|Greenlane Holdings, Inc. - Class A Common Stock
 GNMK,GNMK|GenMark Diagnostics, Inc. - Common Stock
 GNOG,GNOG|Golden Nugget Online Gaming, Inc. - Class A Common Stock
-GNOGW,GNOGW|Golden Nugget Online Gaming, Inc. - Warrant
 GNPX,GNPX|Genprex, Inc. - Common Stock
 GNRS,GNRS|Greenrose Acquisition Corp. - Common Stock
 GNRSU,GNRSU|Greenrose Acquisition Corp. - Unit
@@ -6243,7 +6246,6 @@ NLSPW,NLSPW|NLS Pharmaceutics Ltd. - Warrant
 NLTX,NLTX|Neoleukin Therapeutics, Inc. - Common Stock
 NMCI,NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests
 NMFC,NMFC|New Mountain Finance Corporation - Common Stock
-NMFCL,NMFCL|New Mountain Finance Corporation - 5.75% Notes due 2023
 NMIH,NMIH|NMI Holdings Inc - Common Stock
 NMMC,NMMC|North Mountain Merger Corp. - Class A Common Stock
 NMMCU,NMMCU|North Mountain Merger Corp. - Unit
@@ -6437,7 +6439,6 @@ OVID,OVID|Ovid Therapeutics Inc. - Common Stock
 OVLY,OVLY|Oak Valley Bancorp (CA) - Common Stock
 OXBR,OXBR|Oxbridge Re Holdings Limited - Ordinary Shares
 OXBRW,OXBRW|Oxbridge Re Holdings Limited - Warrant
-OXFD,OXFD|Oxford Immunotec Global PLC - Ordinary Shares
 OXLC,OXLC|Oxford Lane Capital Corp. - Common Stock
 OXLCM,OXLCM|Oxford Lane Capital Corp. - 6.75% Series 2024 Term Preferred Stock
 OXLCO,OXLCO|Oxford Lane Capital Corp. - Term Preferred Shares, 7.50% Series 2023
@@ -6548,7 +6549,6 @@ PHUN,PHUN|Phunware, Inc. - Common Stock
 PHUNW,PHUNW|Phunware, Inc. - Warrants
 PHVS,PHVS|Pharvaris N.V. - Ordinary Shares
 PI,PI|Impinj, Inc. - Common Stock
-PICO,PICO|PICO Holdings Inc. - Common Stock
 PINC,PINC|Premier, Inc. - Class A Common Stock
 PIRS,PIRS|Pieris Pharmaceuticals, Inc. - Common Stock
 PIXY,PIXY|ShiftPixy, Inc. - Common Stock
@@ -7136,6 +7136,8 @@ SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVFA,SVFA|SVF Investment Corp. - Class A Ordinary Shares
 SVFAU,SVFAU|SVF Investment Corp. - Unit
 SVFAW,SVFAW|SVF Investment Corp. - Warrant
+SVFB,SVFB|SVF Investment Corp. 2 - Class A Ordinary Shares
+SVFC,SVFC|SVF Investment Corp. 3 - Class A Ordinary Shares
 SVMK,SVMK|SVMK Inc. - Common Stock
 SVOK,SVOK|Seven Oaks Acquisition Corp. - Class A Common Stock
 SVOKU,SVOKU|Seven Oaks Acquisition Corp. - Unit
@@ -7441,6 +7443,8 @@ VIACA,VIACA|ViacomCBS Inc. - Class A Common Stock
 VIAV,VIAV|Viavi Solutions Inc. - Common Stock
 VICR,VICR|Vicor Corporation - Common Stock
 VIE,VIE|Viela Bio, Inc. - Common Stock
+VIEW,VIEW|View, Inc. - Class A Common Stock
+VIEWW,VIEWW|View, Inc. - Warrant
 VIH,VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares
 VIHAU,VIHAU|VPC Impact Acquisition Holdings - Unit
 VIHAW,VIHAW|VPC Impact Acquisition Holdings - Warrant
@@ -7527,6 +7531,7 @@ VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
 VUZI,VUZI|Vuzix Corporation - Common Stock
 VVOS,VVOS|Vivos Therapeutics, Inc. - Common Stock
 VVPR,VVPR|VivoPower International PLC - Ordinary Shares
+VWTR,VWTR|Vidler Water Resouces, Inc. - Common Stock
 VXRT,VXRT|Vaxart, Inc. - Common Stock
 VYGR,VYGR|Voyager Therapeutics, Inc. - Common Stock
 VYNE,VYNE|VYNE Therapeutics Inc. - Common Stock

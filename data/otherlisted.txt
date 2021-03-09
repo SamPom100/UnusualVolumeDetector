@@ -859,7 +859,6 @@ CELP|Cypress Environmental Partners, L.P. Common Units representing limited part
 CEM|ClearBridge MLP and Midstream Fund Inc. Common Stock|N|CEM|N|100|N|CEM
 CEMB|iShares J.P. Morgan EM Corporate Bond ETF|Z|CEMB|Y|100|N|CEMB
 CEN|Center Coast Brookfield MLP & Energy Infrastructure Fund|N|CEN|N|100|N|CEN
-CEO|CNOOC Limited Common Stock|N|CEO|N|100|N|CEO
 CEPU|Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)|N|CEPU|N|100|N|CEPU
 CEQP|Crestwood Equity Partners LP|N|CEQP|N|100|N|CEQP
 CEQP$|Crestwood Equity Partners LP Preferred Units representing limited partner interests|N|CEQPp|N|100|N|CEQP-
@@ -2313,6 +2312,8 @@ GRES|IQ ARB Global Resources ETF|P|GRES|Y|100|N|GRES
 GRF|Eagle Capital Growth Fund, Inc. Common Stock|A|GRF|N|100|N|GRF
 GRN|iPath Series B Carbon Exchange-Traded Notes|P|GRN|N|100|N|GRN
 GRNB|VanEck Vectors Green Bond ETF|P|GRNB|Y|100|N|GRNB
+GROY|Gold Royalty Corp. Common Shares|A|GROY|N|100|N|GROY
+GROY.W|Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50|A|GROY.WS|N|100|N|GROY+
 GRP.U|Granite Real Estate Inc. Stapled Units, each consisting of one unit of Granite Real Estate Trust and one common share of Granite REIT Inc.|N|GRP.U|N|100|N|GRP=
 GRU|ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Grains Total Return|P|GRU|N|100|N|GRU
 GRUB|GrubHub Inc. Common Stock|N|GRUB|N|100|N|GRUB
@@ -2368,6 +2369,7 @@ GUSH|Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares|P|GUSH|Y|100|N|GUS
 GUT|Gabelli Utility Trust (The) Common Stock|N|GUT|N|100|N|GUT
 GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares|N|GUTpA|N|100|N|GUT-A
 GUT$C|Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares|N|GUTpC|N|100|N|GUT-C
+GUT.V|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) When Issued|N|GUTrw|N|100|N|GUT^#
 GVA|Granite Construction Incorporated Common Stock|N|GVA|N|100|N|GVA
 GVAL|Cambria Global Value ETF|Z|GVAL|Y|100|N|GVAL
 GVI|iShares Intermediate Government/Credit Bond ETF|Z|GVI|Y|100|N|GVI
@@ -3947,6 +3949,7 @@ PDI|PIMCO Dynamic Income Fund Common Stock|N|PDI|N|100|N|PDI
 PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock|N|PDM|N|100|N|PDM
 PDN|Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF|P|PDN|Y|100|N|PDN
 PDO|PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest|N|PDO|N|100|N|PDO
+PDOT.U|Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|PDOT.U|N|100|N|PDOT=
 PDS|Precision Drilling Corporation Common Stock|N|PDS|N|100|N|PDS
 PDT|John Hancock Premium Dividend Fund|N|PDT|N|100|N|PDT
 PEAK|Healthpeak Properties, Inc. Common Stock|N|PEAK|N|100|N|PEAK
@@ -5761,4 +5764,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0308202115:43||||||
+File Creation Time: 0309202112:12||||||
