@@ -754,6 +754,7 @@ CL,CL|Colgate-Palmolive Company Common Stock
 CLA,CLA|Colonnade Acquisition Corp. Class A Ordinary Shares
 CLA.U,CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 CLA.W,CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
+CLAA.U,CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant
 CLAS,CLAS|Class Acceleration Corp. Class A Common Stock
 CLAS.U,CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
 CLAS.W,CLAS.W|Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
@@ -1245,6 +1246,7 @@ ESBA,ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Rep
 ESE,ESE|ESCO Technologies Inc. Common Stock
 ESGC,ESGC|Eros STX Global Corporation A Ordinary Shares
 ESI,ESI|Element Solutions Inc. Common Stock
+ESM.U,ESM.U|ESM Acquisition Corporation Unit
 ESNT,ESNT|Essent Group Ltd. Common Shares
 ESP,ESP|Espey Mfg. & Electronics Corp. Common Stock
 ESRT,ESRT|Empire State Realty Trust, Inc. Class A Common Stock
@@ -1424,6 +1426,7 @@ FRT$C,FRT$C|Federal Realty Investment Trust Depositary Shares, each representing
 FRX,FRX|Forest Road Acquisition Corp. Class A Common Stock
 FRX.U,FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant
 FRX.W,FRX.W|Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+FRXB.U,FRXB.U|Forest Road Acquisition Corp. II Unit
 FSD,FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest
 FSI,FSI|Flexible Solutions International Inc. Common Stock (CDA)
 FSK,FSK|FS KKR Capital Corp. Common Stock
@@ -2881,7 +2884,9 @@ PZG,PZG|Paramount Gold Nevada Corp. Common Stock
 PZN,PZN|Pzena Investment Management Inc Class A Common Stock
 QD,QD|Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share
 QEP,QEP|QEP Resources, Inc. Common Stock
+QFTA,QFTA|Quantum FinTech Acquisition Corporation Common Stock
 QFTA.U,QFTA.U|Quantum FinTech Acquisition Corporation Units, each consisting of one share of Common Stock and one Warrant
+QFTA.W,QFTA.W|Quantum FinTech Acquisition Corporation Warrants, each warrant exercisable for one-half of one share of Common Stock at an exercise price of $11.50
 QGEN,QGEN|Qiagen N.V. Common Shares 
 QS,QS|QuantumScape Corporation Class A Common Stock
 QS.W,QS.W|QuantumScape Corporation Warrants
@@ -2905,6 +2910,7 @@ RBAC,RBAC|RedBall Acquisition Corp. Class A Ordinary Shares
 RBAC.U,RBAC.U|RedBall Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 RBAC.W,RBAC.W|RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 RBC,RBC|Regal Beloit Corporation Common Stock
+RBLX,RBLX|Roblox Corporation Class A Common Stock
 RC,RC|Ready Capital Corproation Common Stock
 RCA,RCA|Ready Capital Corporation 7.00% Convertible Senior Notes due 2023
 RCB,RCB|Ready Capital Corporation 6.20% Senior Notes due 2026
@@ -3056,6 +3062,7 @@ SBG.U,SBG.U|Sandbridge Acquisition Corporation Units
 SBG.W,SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 SBH,SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI,SBI|Western Asset Intermediate Muni Fund Inc Common Stock
+SBII.U,SBII.U|Sandbridge X2 Corp. Unit
 SBOW,SBOW|SilverBow Resorces, Inc. Common Stock
 SBR,SBR|Sabine Royalty Trust Common Stock
 SBS,SBS|Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)
@@ -3919,6 +3926,7 @@ AGCWW,AGCWW|Altimeter Growth Corp. - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGFY,AGFY|Agrify Corporation - Common Stock
+AGGRU,AGGRU|Agile Growth Corp. - Units
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
 AGLE,AGLE|Aeglea BioTherapeutics, Inc. - Common Stock
 AGMH,AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares
@@ -4308,6 +4316,7 @@ BLUW,BLUW|Blue Water Acquisition Corp. - Class A Common Stock
 BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
 BLUWW,BLUWW|Blue Water Acquisition Corp. - Warrant
 BMBL,BMBL|Bumble Inc. - common stock
+BMLP,BMLP|Dorsey Wright MLP Index ETNs due December 10, 2036
 BMRA,BMRA|Biomerica, Inc. - Common Stock
 BMRC,BMRC|Bank of Marin Bancorp - Common Stock
 BMRN,BMRN|BioMarin Pharmaceutical Inc. - Common Stock
@@ -4864,6 +4873,7 @@ DSPG,DSPG|DSP Group, Inc. - Common Stock
 DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
 DTIL,DTIL|Precision BioSciences, Inc. - Common Stock
+DTOCU,DTOCU|Digital Transformation Opportunities Corp. - Units
 DTSS,DTSS|Datasea Inc. - Common Stock
 DUNE,DUNE|Dune Acquisition Corporation - Class A Common Stock
 DUNEU,DUNEU|Dune Acquisition Corporation - Unit
@@ -5168,6 +5178,7 @@ FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSGU,FRSGU|First Reserve Sustainable Growth Corp. - Unit
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRTA,FRTA|Forterra, Inc. - Common Stock
+FRWAU,FRWAU|PWP Forward Acquisition Corp. I - Units
 FSBW,FSBW|FS Bancorp, Inc. - Common Stock
 FSEA,FSEA|First Seacoast Bancorp - Common Stock
 FSFG,FSFG|First Savings Financial Group, Inc. - Common Stock
@@ -5543,6 +5554,7 @@ IBCP,IBCP|Independent Bank Corporation - Common Stock
 IBEX,IBEX|IBEX Limited - Common Share
 IBKR,IBKR|Interactive Brokers Group, Inc. - Class A Common Stock
 IBOC,IBOC|International Bancshares Corporation - Common Stock
+IBRX,IBRX|ImmunityBio, Inc. - Common Stock
 IBTX,IBTX|Independent Bank Group, Inc - Common Stock
 ICAD,ICAD|icad inc. - Common Stock
 ICBK,ICBK|County Bancorp, Inc. - Common Stock
@@ -6096,7 +6108,7 @@ MOFG,MOFG|MidWestOne Financial Group, Inc. - Common Stock
 MOGO,MOGO|Mogo Inc. - Common Shares
 MOHO,MOHO|ECMOHO Limited - American Depositary Shares
 MOMO,MOMO|Momo Inc. - American Depositary Shares
-MONCU,MONCU|Monument Circle Acquisition Corp. Units - Unit
+MONCU,MONCU|Monument Circle Acquisition Corp. - Unit
 MOR,MOR|MorphoSys AG - American Depositary Shares
 MORF,MORF|Morphic Holding, Inc. - Common Stock
 MORN,MORN|Morningstar, Inc. - Common Stock
@@ -6235,7 +6247,6 @@ NICE,NICE|NICE Ltd - American Depositary Shares each representing one Ordinary S
 NICK,NICK|Nicholas Financial, Inc. - Common Stock
 NISN,NISN|NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares
 NIU,NIU|Niu Technologies - American Depositary Shares
-NK,NK|NantKwest, Inc. - Common Stock
 NKLA,NKLA|Nikola Corporation - Common Stock
 NKSH,NKSH|National Bankshares, Inc. - Common Stock
 NKTR,NKTR|Nektar Therapeutics - Common Stock
@@ -7410,6 +7421,7 @@ VACQ,VACQ|Vector Acquisition Corporation - Class A Common Stock
 VACQU,VACQU|Vector Acquisition Corporation - Unit
 VACQW,VACQW|Vector Acquisition Corporation - Warrant
 VALU,VALU|Value Line, Inc. - Common Stock
+VAQC,VAQC|Vector Acquisition Corporation II - Class A Ordinary Shares
 VBFC,VBFC|Village Bank and Trust Financial Corp. - Common Stock
 VBIV,VBIV|VBI Vaccines, Inc. - Ordinary Shares
 VBLT,VBLT|Vascular Biogenics Ltd. - Ordinary Shares

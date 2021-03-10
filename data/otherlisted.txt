@@ -340,6 +340,7 @@ ASPL|Aspirational Consumer Lifestyle Corp. Class A Ordinary Shares|N|ASPL|N|100|
 ASPL.U|Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ASPL.U|N|100|N|ASPL=
 ASPL.W|Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ASPL.WS|N|100|N|ASPL+
 ASPN|Aspen Aerogels, Inc. Common Stock|N|ASPN|N|100|N|ASPN
+ASPY|ASYMmetric ETFs Trust ASYMshares ASYMmetric 500 ETF|P|ASPY|Y|100|N|ASPY
 ASR|Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock|N|ASR|N|100|N|ASR
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
 ASXC|Asensus Surgical, Inc. Common Stock|A|ASXC|N|100|N|ASXC
@@ -941,6 +942,7 @@ CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
 CLA|Colonnade Acquisition Corp. Class A Ordinary Shares|N|CLA|N|100|N|CLA
 CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|CLA.U|N|100|N|CLA=
 CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CLA.WS|N|100|N|CLA+
+CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|CLAA.U|N|100|N|CLAA=
 CLAS|Class Acceleration Corp. Class A Common Stock|N|CLAS|N|100|N|CLAS
 CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|CLAS.U|N|100|N|CLAS=
 CLAS.W|Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CLAS.WS|N|100|N|CLAS+
@@ -1676,6 +1678,7 @@ ESGS|Columbia Sustainable U.S. Equity Income ETF|P|ESGS|Y|100|N|ESGS
 ESGV|Vanguard ESG U.S. Stock ETF|Z|ESGV|Y|100|N|ESGV
 ESHY|Xtrackers J.P. Morgan ESG USD High Yield Corporate Bond ETF|Z|ESHY|Y|100|N|ESHY
 ESI|Element Solutions Inc. Common Stock|N|ESI|N|100|N|ESI
+ESM.U|ESM Acquisition Corporation Unit|N|ESM.U|N|100|N|ESM=
 ESML|iShares ESG Aware MSCI USA Small-Cap ETF|Z|ESML|Y|100|N|ESML
 ESNG|Direxion MSCI USA ESG - Leaders vs. Laggards ETF|P|ESNG|Y|100|N|ESNG
 ESNT|Essent Group Ltd. Common Shares|N|ESNT|N|100|N|ESNT
@@ -2039,6 +2042,7 @@ FRTY|Alger Mid Cap 40 ETF|P|FRTY|Y|100|N|FRTY
 FRX|Forest Road Acquisition Corp. Class A Common Stock|N|FRX|N|100|N|FRX
 FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant|N|FRX.U|N|100|N|FRX=
 FRX.W|Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|FRX.WS|N|100|N|FRX+
+FRXB.U|Forest Road Acquisition Corp. II Unit|N|FRXB.U|N|100|N|FRXB=
 FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest|N|FSD|N|100|N|FSD
 FSEC|Fidelity Investment Grade Securitized ETF|P|FSEC|Y|100|N|FSEC
 FSEP|FT Cboe Vest U.S. Equity Buffer ETF - September|Z|FSEP|Y|100|N|FSEP
@@ -2411,6 +2415,7 @@ HDGE|Ranger Equity Bear Bear ETF|P|HDGE|Y|100|N|HDGE
 HDIV|QRAFT AI-Enhanced U.S. High Dividend ETF|P|HDIV|Y|100|N|HDIV
 HDLB|ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044|P|HDLB|Y|100|N|HDLB
 HDMV|First Trust Exchange-Traded Fund III First Trust Horizon Managed Volatility Developed International ETF|P|HDMV|Y|100|N|HDMV
+HDRO|ETF Series Solutions Defiance Next Gen H2 ETF|P|HDRO|Y|100|N|HDRO
 HDV|iShares Core High Dividend ETF|P|HDV|Y|100|N|HDV
 HE|Hawaiian Electric Industries, Inc. Common Stock|N|HE|N|100|N|HE
 HEDJ|WisdomTree Europe Hedged Equity Fund|P|HEDJ|Y|100|N|HEDJ
@@ -4236,7 +4241,9 @@ QED|IQ Hedge Event-Driven Tracker ETF|P|QED|Y|100|N|QED
 QEFA|SPDR MSCI EAFE StrategicFactors ETF|P|QEFA|Y|100|N|QEFA
 QEMM|SPDR MSCI Emerging Markets StrategicFactors ETF|P|QEMM|Y|100|N|QEMM
 QEP|QEP Resources, Inc. Common Stock|N|QEP|N|100|N|QEP
+QFTA|Quantum FinTech Acquisition Corporation Common Stock|N|QFTA|N|100|N|QFTA
 QFTA.U|Quantum FinTech Acquisition Corporation Units, each consisting of one share of Common Stock and one Warrant|N|QFTA.U|N|100|N|QFTA=
+QFTA.W|Quantum FinTech Acquisition Corporation Warrants, each warrant exercisable for one-half of one share of Common Stock at an exercise price of $11.50|N|QFTA.WS|N|100|N|QFTA+
 QGEN|Qiagen N.V. Common Shares |N|QGEN|N|100|N|QGEN
 QGRO|American Century STOXX U.S. Quality Growth ETF|P|QGRO|Y|100|N|QGRO
 QID|ProShares UltraShort QQQ|P|QID|Y|100|N|QID
@@ -4292,6 +4299,7 @@ RBAC.U|RedBall Acquisition Corp. Units, each consisting of one Class A ordinary 
 RBAC.W|RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|RBAC.WS|N|100|N|RBAC+
 RBC|Regal Beloit Corporation Common Stock|N|RBC|N|100|N|RBC
 RBIN|Nationwide Risk-Based International Equity ETF|P|RBIN|Y|100|N|RBIN
+RBLX|Roblox Corporation Class A Common Stock|N|RBLX|N|100|N|RBLX
 RBND|SPDR Bloomberg SASB Corporate Bond ESG Select ETF|P|RBND|Y|100|N|RBND
 RBUS|Nationwide Risk-Based U.S. Equity ETF|P|RBUS|Y|100|N|RBUS
 RC|Ready Capital Corproation Common Stock|N|RC|N|100|N|RC
@@ -4520,6 +4528,7 @@ SBG.U|Sandbridge Acquisition Corporation Units|N|SBG.U|N|100|N|SBG=
 SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|SBG.WS|N|100|N|SBG+
 SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock|N|SBH|N|100|N|SBH
 SBI|Western Asset Intermediate Muni Fund Inc Common Stock|N|SBI|N|100|N|SBI
+SBII.U|Sandbridge X2 Corp. Unit|N|SBII.U|N|100|N|SBII=
 SBIO|ALPS Medical Breakthroughs ETF|P|SBIO|Y|100|N|SBIO
 SBM|Short Basic Materials|P|SBM|Y|100|N|SBM
 SBOW|SilverBow Resorces, Inc. Common Stock|N|SBOW|N|100|N|SBOW
@@ -5764,4 +5773,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0309202115:42||||||
+File Creation Time: 0310202112:13||||||
