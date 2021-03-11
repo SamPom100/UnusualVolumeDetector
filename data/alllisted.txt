@@ -856,6 +856,7 @@ CPG,CPG|Crescent Point Energy Corporation Ordinary Shares (Canada)
 CPHI,CPHI|China Pharma Holdings, Inc. Common Stock
 CPK,CPK|Chesapeake Utilities Corporation Common Stock
 CPLG,CPLG|CorePoint Lodging Inc. Common Stock 
+CPNG,CPNG|Coupang, Inc. Class A Common Stock
 CPRI,CPRI|Capri Holdings Limited Ordinary Shares
 CPS,CPS|Cooper-Standard Holdings Inc. Common Stock
 CPSR,CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock
@@ -887,7 +888,7 @@ CRU.U,CRU.U|Crucible Acquisition Corporation Units, each consisting of one share
 CRU.W,CRU.W|Crucible Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 CRY,CRY|CryoLife, Inc. Common Stock
 CS,CS|Credit Suisse Group American Depositary Shares
-CSAN.V,CSAN.V|Cosan S.A. American Depositary Shares (each representing one Common Share) When Issued
+CSAN,CSAN|Cosan S.A. ADR
 CSL,CSL|Carlisle Companies Incorporated Common Stock
 CSLT,CSLT|Castlight Health, Inc. Class B Common Stock
 CSPR,CSPR|Casper Sleep Inc. Common Stock
@@ -1356,6 +1357,7 @@ FHN$B,FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/4
 FHN$C,FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C
 FHN$D,FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D
 FHN$E,FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E
+FHS,FHS|First High-School Education Group Co., Ltd. American Depositary Shares
 FI,FI|Frank's International N.V. Common Stock
 FICO,FICO|Fair Isaac Corproation Common Stock
 FIEE,FIEE|UBS AG FI Enhanced Europe 50 ETN due February 12, 2026
@@ -1476,6 +1478,7 @@ GAB$J,GAB$J|Gabelli Equity Trust, Inc. (The) 5.45% Series J Cumulative Preferred
 GAB$K,GAB$K|Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock
 GAM,GAM|General American Investors, Inc. Common Stock
 GAM$B,GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock
+GAPA.U,GAPA.U|G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 GATO,GATO|Gatos Silver, Inc. Common Stock
 GATX,GATX|GATX Corporation Common Stock
 GAU,GAU|Galiano Gold Inc.
@@ -4156,6 +4159,7 @@ ATRI,ATRI|Atrion Corporation - Common Stock
 ATRO,ATRO|Astronics Corporation - Common Stock
 ATRS,ATRS|Antares Pharma, Inc. - Common Stock
 ATSG,ATSG|Air Transport Services Group, Inc - Common Stock
+ATSPU,ATSPU|Archimedes Tech SPAC Partners Co. - Unit
 ATVCU,ATVCU|Tribe Capital Growth Corp I - Units
 ATVI,ATVI|Activision Blizzard, Inc - Common Stock
 ATXI,ATXI|Avenue Therapeutics, Inc. - Common Stock
@@ -5173,6 +5177,7 @@ FRHC,FRHC|Freedom Holding Corp. - Common Stock
 FRLN,FRLN|Freeline Therapeutics Holdings plc - ADSs
 FRME,FRME|First Merchants Corporation - Common Stock
 FROG,FROG|JFrog Ltd. - Ordinary shares
+FRONU,FRONU|Frontier Acquisition Corp. - Units
 FRPH,FRPH|FRP Holdings, Inc. - Common Stock
 FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSGU,FRSGU|First Reserve Sustainable Growth Corp. - Unit
@@ -5841,6 +5846,7 @@ LBRDP,LBRDP|Liberty Broadband Corporation - Series A Cumulative Redeemable Prefe
 LBTYA,LBTYA|Liberty Global plc - Class A Ordinary Shares
 LBTYB,LBTYB|Liberty Global plc - Class B Ordinary Shares
 LBTYK,LBTYK|Liberty Global plc - Class C Ordinary Shares
+LCAAU,LCAAU|L Catterton Asia Acquisition Corp - Units
 LCAP,LCAP|Lionheart Acquisition Corp. II - Class A Common Stock
 LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCAPW,LCAPW|Lionheart Acquisition Corp. II - Warrant
@@ -6666,6 +6672,7 @@ PTICU,PTICU|PropTech Investment Corporation II - Unit
 PTICW,PTICW|PropTech Investment Corporation II - Warrant
 PTMN,PTMN|Portman Ridge Finance Corporation - common stock
 PTNR,PTNR|Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share
+PTOCU,PTOCU|Pine Technology Acquisition Corp. - Unit
 PTON,PTON|Peloton Interactive, Inc. - Common Stock
 PTPI,PTPI|Petros Pharmaceuticals, Inc. - Common Stock
 PTRS,PTRS|Partners Bancorp - Common Stock
@@ -6687,6 +6694,7 @@ PXSAP,PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Convertible Preferred
 PXSAW,PXSAW|Pyxis Tankers Inc. - Warrant
 PYPD,PYPD|PolyPid Ltd. - Ordinary Shares
 PYPL,PYPL|PayPal Holdings, Inc. - Common Stock
+PYR,PYR|PyroGenesis Canada Inc. - Common Shares
 PZZA,PZZA|Papa John's International, Inc. - Common Stock
 QADA,QADA|QAD Inc. - Class A Common Stock
 QADB,QADB|QAD Inc. - Class B Common Stock
@@ -7051,6 +7059,7 @@ SP,SP|SP Plus Corporation - Common Stock
 SPCB,SPCB|SuperCom, Ltd. - Ordinary Shares
 SPFI,SPFI|South Plains Financial, Inc. - Common Stock
 SPI,SPI|SPI Energy Co., Ltd. - Ordinary Shares
+SPKBU,SPKBU|Silver Spike Acquisition Corp II - Units
 SPKE,SPKE|Spark Energy, Inc. - Class A Common Stock
 SPKEP,SPKEP|Spark Energy, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
 SPLK,SPLK|Splunk Inc. - Common Stock
@@ -7543,7 +7552,7 @@ VTVT,VTVT|vTv Therapeutics Inc. - Class A Common Stock
 VUZI,VUZI|Vuzix Corporation - Common Stock
 VVOS,VVOS|Vivos Therapeutics, Inc. - Common Stock
 VVPR,VVPR|VivoPower International PLC - Ordinary Shares
-VWTR,VWTR|Vidler Water Resouces, Inc. - Common Stock
+VWTR,VWTR|Vidler Water Resources, Inc. - Common Stock
 VXRT,VXRT|Vaxart, Inc. - Common Stock
 VYGR,VYGR|Voyager Therapeutics, Inc. - Common Stock
 VYNE,VYNE|VYNE Therapeutics Inc. - Common Stock

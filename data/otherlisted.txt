@@ -1064,6 +1064,7 @@ CPHI|China Pharma Holdings, Inc. Common Stock|A|CPHI|N|100|N|CPHI
 CPI|IQ Real Return ETF|P|CPI|Y|100|N|CPI
 CPK|Chesapeake Utilities Corporation Common Stock|N|CPK|N|100|N|CPK
 CPLG|CorePoint Lodging Inc. Common Stock |N|CPLG|N|100|N|CPLG
+CPNG|Coupang, Inc. Class A Common Stock|N|CPNG|N|100|N|CPNG
 CPRI|Capri Holdings Limited Ordinary Shares|N|CPRI|N|100|N|CPRI
 CPS|Cooper-Standard Holdings Inc. Common Stock|N|CPS|N|100|N|CPS
 CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock|N|CPSR|N|100|N|CPSR
@@ -1098,7 +1099,7 @@ CRU.U|Crucible Acquisition Corporation Units, each consisting of one share of Cl
 CRU.W|Crucible Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|CRU.WS|N|100|N|CRU+
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
-CSAN.V|Cosan S.A. American Depositary Shares (each representing one Common Share) When Issued|N|CSANw|N|100|N|CSAN#
+CSAN|Cosan S.A. ADR|N|CSAN|N|100|N|CSAN
 CSD|Invesco S&P Spin-Off ETF|P|CSD|Y|100|N|CSD
 CSL|Carlisle Companies Incorporated Common Stock|N|CSL|N|100|N|CSL
 CSLT|Castlight Health, Inc. Class B Common Stock|N|CSLT|N|100|N|CSLT
@@ -1879,6 +1880,7 @@ FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/400th i
 FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C|N|FHNpC|N|100|N|FHN-C
 FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D|N|FHNpD|N|100|N|FHN-D
 FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E|N|FHNpE|N|100|N|FHN-E
+FHS|First High-School Education Group Co., Ltd. American Depositary Shares|N|FHS|N|100|N|FHS
 FI|Frank's International N.V. Common Stock|N|FI|N|100|N|FI
 FIBR|iShares U.S. Fixed Income Balanced Risk Factor ETF|Z|FIBR|Y|100|N|FIBR
 FICO|Fair Isaac Corproation Common Stock|N|FICO|N|100|N|FICO
@@ -2129,6 +2131,7 @@ GAL|SPDR SSgA Global Allocation ETF|P|GAL|Y|100|N|GAL
 GAM|General American Investors, Inc. Common Stock|N|GAM|N|100|N|GAM
 GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock|N|GAMpB|N|100|N|GAM-B
 GAMR|Wedbush ETFMG Video Game Tech ETF|P|GAMR|Y|100|N|GAMR
+GAPA.U|G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|GAPA.U|N|100|N|GAPA=
 GATO|Gatos Silver, Inc. Common Stock|N|GATO|N|100|N|GATO
 GATX|GATX Corporation Common Stock|N|GATX|N|100|N|GATX
 GAU|Galiano Gold Inc.|A|GAU|N|100|N|GAU
@@ -2904,6 +2907,7 @@ JDST|Direxion Daily Junior Gold Miners Index Bear 2X Shares|P|JDST|Y|100|N|JDST
 JE|Just Energy Group, Inc. Ordinary Shares (Canada)|N|JE|N|100|N|JE
 JEF|Jefferies Financial Group Inc. Common Stock|N|JEF|N|100|N|JEF
 JELD|JELD-WEN Holding, Inc. Common Stock|N|JELD|N|100|N|JELD
+JEMA|J.P. Morgan Exchange-Traded Fund Trust JPMorgan Emerging Markets Equity Core ETF|Z|JEMA|Y|100|N|JEMA
 JEMD|Nuveen Emerging Markets Debt 2022 Target Term Fund Common Shares of Beneficial Interest, $0.01 par value per share|N|JEMD|N|100|N|JEMD
 JEPI|JPMorgan Equity Premium Income ETF|P|JEPI|Y|100|N|JEPI
 JEQ|Aberdeen Japan Equity Fund, Inc.  Common Stock|N|JEQ|N|100|N|JEQ
@@ -5773,4 +5777,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0310202112:13||||||
+File Creation Time: 0311202112:13||||||
