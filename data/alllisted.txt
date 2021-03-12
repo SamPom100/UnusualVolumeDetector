@@ -751,9 +751,6 @@ CIXX,CIXX|CI Financial Corp. Common Shares
 CKH,CKH|SEACOR Holdings Inc. Common Stock
 CKX,CKX|CKX Lands, Inc. Common Stock
 CL,CL|Colgate-Palmolive Company Common Stock
-CLA,CLA|Colonnade Acquisition Corp. Class A Ordinary Shares
-CLA.U,CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
-CLA.W,CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CLAA.U,CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant
 CLAS,CLAS|Class Acceleration Corp. Class A Common Stock
 CLAS.U,CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
@@ -1671,6 +1668,7 @@ H,H|Hyatt Hotels Corporation Class A Common Stock
 HAE,HAE|Haemonetics Corporation Common Stock
 HAL,HAL|Halliburton Company Common Stock
 HASI,HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock
+HAYW,HAYW|Hayward Holdings, Inc. Common Stock
 HBB,HBB|Hamilton Beach Brands Holding Company Class A Common Stock 
 HBI,HBI|Hanesbrands Inc. Common Stock
 HBM,HBM|Hudbay Minerals Inc. Ordinary Shares (Canada)
@@ -2640,6 +2638,8 @@ OSG,OSG|Overseas Shipholding Group, Inc. Class A Common Stock
 OSH,OSH|Oak Street Health, Inc. Common Stock
 OSK,OSK|Oshkosh Corporation (Holding Company)Common Stock
 OTIS,OTIS|Otis Worldwide Corporation Common Stock 
+OUST,OUST|Ouster, Inc. Common Stock
+OUST.W,OUST.W|Ouster, Inc. Warrants
 OUT,OUT|OUTFRONT Media Inc. Common Stock
 OVV,OVV|Ovintiv Inc. (DE)
 OXM,OXM|Oxford Industries, Inc. Common Stock
@@ -3002,6 +3002,7 @@ ROG,ROG|Rogers Corporation Common Stock
 ROK,ROK|Rockwell Automation, Inc. Common Stock
 ROL,ROL|Rollins, Inc. Common Stock
 ROP,ROP|Roper Technologies, Inc. Common Stock
+ROSS.U,ROSS.U|Ross Acquisition Corp II Units
 ROT,ROT|Rotor Acquisition Corp. Class A Common Stock
 ROT.U,ROT.U|Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant
 ROT.W,ROT.W|Rotor Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share
@@ -4509,6 +4510,7 @@ CFACU,CFACU|CF Finance Acquisition Corp. III - Unit
 CFACW,CFACW|CF Finance Acquisition Corp. III - Warrant
 CFB,CFB|CrossFirst Bankshares, Inc. - Common Stock
 CFBK,CFBK|CF Bankshares Inc. - Common Stock
+CFFEU,CFFEU|CF Acquisition Corp. VIII - Unit
 CFFI,CFFI|C&F Financial Corporation - Common Stock
 CFFN,CFFN|Capitol Federal Financial, Inc. - Common Stock
 CFFVU,CFFVU|CF Acquisition Corp. V - Unit
@@ -5211,6 +5213,7 @@ FTNT,FTNT|Fortinet, Inc. - Common Stock
 FTOC,FTOC|FTAC Olympus Acquisition Corp. - Class A Ordinary Shares
 FTOCU,FTOCU|FTAC Olympus Acquisition Corp. - Unit
 FTOCW,FTOCW|FTAC Olympus Acquisition Corp. - Warrant
+FTPAU,FTPAU|FTAC Parnassus Acquisition Corp. - Unit
 FULC,FULC|Fulcrum Therapeutics, Inc. - Common Stock
 FULT,FULT|Fulton Financial Corporation - Common Stock
 FULTP,FULTP|Fulton Financial Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
@@ -5392,6 +5395,8 @@ GTEC,GTEC|Greenland Technologies Holding Corporation - Ordinary Shares
 GTH,GTH|Genetron Holdings Limited - American Depositary Shares
 GTHX,GTHX|G1 Therapeutics, Inc. - Common Stock
 GTIM,GTIM|Good Times Restaurants Inc. - Common Stock
+GTPAU,GTPAU|Gores Technology Partners, Inc. - Units
+GTPBU,GTPBU|Gores Technology Partners II, Inc. - Units
 GTYH,GTYH|GTY Technology Holdings, Inc. - Common Stock
 GURE,GURE|Gulf Resources, Inc. - Common Stock
 GVP,GVP|GSE Systems, Inc. - Common Stock
@@ -5592,7 +5597,9 @@ IGACW,IGACW|IG Acquisition Corp. - Warrant
 IGIC,IGIC|International General Insurance Holdings Ltd. - Ordinary Shares
 IGICW,IGICW|International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025
 IGMS,IGMS|IGM Biosciences, Inc. - Common Stock
+IGNY,IGNY|Ignyte Acquisition Corp. - Common Stock
 IGNYU,IGNYU|Ignyte Acquisition Corp. - Unit
+IGNYW,IGNYW|Ignyte Acquisition Corp. - Warrant
 IHRT,IHRT|iHeartMedia, Inc. - Class A Common Stock
 III,III|Information Services Group, Inc. - Common Stock
 IIII,IIII|INSU Acquisition Corp. III - Class A Common Stock
@@ -5729,6 +5736,7 @@ JKHY,JKHY|Jack Henry & Associates, Inc. - Common Stock
 JMPNL,JMPNL|JMP Group LLC - 7.25% Senior Notes due 2027
 JMPNZ,JMPNZ|JMP Group LLC - 6.875% Senior Notes due 2029
 JNCE,JNCE|Jounce Therapeutics, Inc. - Common Stock
+JOAN,JOAN|JOANN, Inc. - common stock
 JOBS,JOBS|51job, Inc. - American Depositary Shares, each representing two common shares
 JOFFU,JOFFU|JOFF Fintech Acquisition Corp. - Unit
 JOUT,JOUT|Johnson Outdoors Inc. - Class A Common Stock
@@ -5839,6 +5847,7 @@ LAZR,LAZR|Luminar Technologies, Inc.  - Class A Common Stock
 LAZY,LAZY|Lazydays Holdings, Inc. - Common Stock
 LBAI,LBAI|Lakeland Bancorp, Inc. - Common Stock
 LBC,LBC|Luther Burbank Corporation - Common Stock
+LBPH,LBPH|Longboard Pharmaceuticals, Inc. - Common Stock
 LBRDA,LBRDA|Liberty Broadband Corporation - Class A Common Stock
 LBRDK,LBRDK|Liberty Broadband Corporation - Class C Common Stock
 LBRDP,LBRDP|Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock
@@ -6080,6 +6089,7 @@ MIND,MIND|MIND Technology, Inc. - Common Stock
 MINDP,MINDP|MIND Technology, Inc. - Series A 9.00% Series A Cumulative Preferred Stock
 MIRM,MIRM|Mirum Pharmaceuticals, Inc. - common stock
 MIST,MIST|Milestone Pharmaceuticals Inc. - Common Shares
+MITC,MITC|MeaTech 3D Ltd. - American Depositary Shares
 MITK,MITK|Mitek Systems, Inc. - Common Stock
 MITO,MITO|Stealth BioTherapeutics Corp. - American Depositary Shares
 MKD,MKD|Molecular Data Inc. - ADS
@@ -6113,7 +6123,9 @@ MOFG,MOFG|MidWestOne Financial Group, Inc. - Common Stock
 MOGO,MOGO|Mogo Inc. - Common Shares
 MOHO,MOHO|ECMOHO Limited - American Depositary Shares
 MOMO,MOMO|Momo Inc. - American Depositary Shares
+MON,MON|Monument Circle Acquisition Corp. - Class A Common Stock
 MONCU,MONCU|Monument Circle Acquisition Corp. - Unit
+MONCW,MONCW|Monument Circle Acquisition Corp. - Warrant
 MOR,MOR|MorphoSys AG - American Depositary Shares
 MORF,MORF|Morphic Holding, Inc. - Common Stock
 MORN,MORN|Morningstar, Inc. - Common Stock
@@ -6373,8 +6385,6 @@ OFLX,OFLX|Omega Flex, Inc. - Common Stock
 OFS,OFS|OFS Capital Corporation - Common Stock
 OFSSG,OFSSG|OFS Capital Corporation - 6.25% Notes Due 2023
 OFSSI,OFSSI|OFS Capital Corporation - 5.95% Notes due 2026
-OFSSL,OFSSL|OFS Capital Corporation - 6.375% Notes due 2025
-OFSSZ,OFSSZ|OFS Capital Corporation - 6.50% Notes due 2025
 OGI,OGI|Organigram Holdings Inc. - Common Shares
 OHPAU,OHPAU|Orion Acquisition Corp. - Unit
 OIIM,OIIM|O2Micro International Limited - American Depositary Shares
@@ -6436,7 +6446,9 @@ OSN,OSN|Ossen Innovation Co., Ltd. - American Depositary Shares
 OSPN,OSPN|OneSpan Inc. - Common Stock
 OSS,OSS|One Stop Systems, Inc. - Common Stock
 OSTK,OSTK|Overstock.com, Inc. - Common Stock
+OSTR,OSTR|Oyster Enterprises Acquisition Corp. - Class A Common Stock
 OSTRU,OSTRU|Oyster Enterprises Acquisition Corp. - Unit
+OSTRW,OSTRW|Oyster Enterprises Acquisition Corp. - Warrant
 OSUR,OSUR|OraSure Technologies, Inc. - Common Stock
 OSW,OSW|OneSpaWorld Holdings Limited - Common Shares
 OTEL,OTEL|Otelco Inc. - Common Stock
@@ -6863,6 +6875,7 @@ RVPH,RVPH|Reviva Pharmaceuticals Holdings, Inc. - Common Stock
 RVPHW,RVPHW|Reviva Pharmaceuticals Holdings, Inc. - Warrants
 RVSB,RVSB|Riverview Bancorp Inc - Common Stock
 RWLK,RWLK|ReWalk Robotics Ltd. - Ordinary Shares
+RXDX,RXDX|Prometheus Biosciences, Inc. - Common Stock
 RXRAU,RXRAU|RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant
 RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
@@ -6901,6 +6914,7 @@ SBSI,SBSI|Southside Bancshares, Inc. - Common Stock
 SBT,SBT|Sterling Bancorp, Inc. - Common Stock
 SBTX,SBTX|Silverback Therapeutics, Inc. - Common Stock
 SBUX,SBUX|Starbucks Corporation - Common Stock
+SCAQU,SCAQU|Stratim Cloud Acquisition Corp. - Unit
 SCHL,SCHL|Scholastic Corporation - Common Stock
 SCHN,SCHN|Schnitzer Steel Industries, Inc. - Class A Common Stock
 SCKT,SCKT|Socket Mobile, Inc. - Common Stock
@@ -7370,7 +7384,9 @@ TXRH,TXRH|Texas Roadhouse, Inc. - Common Stock
 TYHT,TYHT|Shineco, Inc. - Common Stock
 TYME,TYME|Tyme Technologies, Inc. - Common Stock
 TZOO,TZOO|Travelzoo - Common Stock
+TZPS,TZPS|TZP Strategies Acquisition Corp. - Class A Ordinary Share
 TZPSU,TZPSU|TZP Strategies Acquisition Corp. - Unit
+TZPSW,TZPSW|TZP Strategies Acquisition Corp. - Warrant
 UAL,UAL|United Airlines Holdings, Inc. - Common Stock
 UBCP,UBCP|United Bancorp, Inc. - Common Stock
 UBFO,UBFO|United Security Bancshares - Common Stock

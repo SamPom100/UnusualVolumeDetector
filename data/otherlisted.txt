@@ -939,9 +939,6 @@ CIXX|CI Financial Corp. Common Shares|N|CIXX|N|100|N|CIXX
 CKH|SEACOR Holdings Inc. Common Stock|N|CKH|N|100|N|CKH
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
-CLA|Colonnade Acquisition Corp. Class A Ordinary Shares|N|CLA|N|100|N|CLA
-CLA.U|Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|CLA.U|N|100|N|CLA=
-CLA.W|Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CLA.WS|N|100|N|CLA+
 CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|CLAA.U|N|100|N|CLAA=
 CLAS|Class Acceleration Corp. Class A Common Stock|N|CLAS|N|100|N|CLAS
 CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|CLAS.U|N|100|N|CLAS=
@@ -2399,6 +2396,7 @@ HART|IQ Healthy Hearts ETF|P|HART|Y|100|N|HART
 HASI|Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock|N|HASI|N|100|N|HASI
 HAUZ|Xtrackers International Real Estate ETF|P|HAUZ|Y|100|N|HAUZ
 HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
+HAYW|Hayward Holdings, Inc. Common Stock|N|HAYW|N|100|N|HAYW
 HBB|Hamilton Beach Brands Holding Company Class A Common Stock |N|HBB|N|100|N|HBB
 HBI|Hanesbrands Inc. Common Stock|N|HBI|N|100|N|HBI
 HBM|Hudbay Minerals Inc. Ordinary Shares (Canada)|N|HBM|N|100|N|HBM
@@ -3375,6 +3373,7 @@ MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|M
 MIG|VanEck Vectors Moody's Analytics IG Corporate Bond ETF|Z|MIG|Y|100|N|MIG
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
+MINN|Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ETF|Z|MINN|Y|100|N|MINN
 MINT|PIMCO Enhanced Short Maturity Active Exchange-Traded Fund|P|MINT|Y|100|N|MINT
 MIT.U|Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant to purchase one share of Class A common stock|N|MIT.U|N|100|N|MIT=
 MITT|AG Mortgage Investment Trust, Inc. Common Stock|N|MITT|N|100|N|MITT
@@ -3871,6 +3870,8 @@ OTIS|Otis Worldwide Corporation Common Stock |N|OTIS|N|100|N|OTIS
 OUNZ|VanEck Merk Gold Trust|P|OUNZ|Y|100|N|OUNZ
 OUSA|OShares U.S. Quality Dividend ETF|Z|OUSA|Y|100|N|OUSA
 OUSM|OShares U.S. Small-Cap Quality Dividend ETF|Z|OUSM|Y|100|N|OUSM
+OUST|Ouster, Inc. Common Stock|N|OUST|N|100|N|OUST
+OUST.W|Ouster, Inc. Warrants|N|OUST.WS|N|100|N|OUST+
 OUT|OUTFRONT Media Inc. Common Stock|N|OUT|N|100|N|OUT
 OVB|Overlay Shares Core Bond ETF|P|OVB|Y|100|N|OVB
 OVF|Overlay Shares Foreign Equity ETF|P|OVF|Y|100|N|OVF
@@ -4434,6 +4435,7 @@ ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
 ROP|Roper Technologies, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|ATAC US Rotation ETF|P|RORO|Y|100|N|RORO
 ROSC|Hartford Multifactor Small Cap ETF|P|ROSC|Y|100|N|ROSC
+ROSS.U|Ross Acquisition Corp II Units|N|ROSS.U|N|100|N|ROSS=
 ROT|Rotor Acquisition Corp. Class A Common Stock|N|ROT|N|100|N|ROT
 ROT.U|Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant|N|ROT.U|N|100|N|ROT=
 ROT.W|Rotor Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share|N|ROT.WS|N|100|N|ROT+
@@ -5777,4 +5779,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0311202115:44||||||
+File Creation Time: 0312202115:43||||||
