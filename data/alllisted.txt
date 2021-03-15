@@ -70,6 +70,9 @@ AENZ,AENZ|Aenza S.A.A. American Depositary Shares
 AEO,AEO|American Eagle Outfitters, Inc. Common Stock
 AER,AER|AerCap Holdings N.V. Ordinary Shares
 AES,AES|The AES Corporation Common Stock
+AESC,AESC|The AES Corporation Corporate Units
+AEVA,AEVA|Aeva Technologies, Inc. Common Stock
+AEVA.W,AEVA.W|Aeva Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
 AFB,AFB|AllianceBernstein National Municipal Income Fund Inc
 AFC,AFC|Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047
 AFG,AFG|American Financial Group, Inc. Common Stock
@@ -130,7 +133,6 @@ AIV,AIV|Apartment Investment and Management Company Common Stock
 AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
-AIZP,AIZP|Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value
 AJAX,AJAX|Ajax I Class A Ordinary Shares
 AJAX.U,AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 AJAX.W,AJAX.W|Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -386,7 +388,6 @@ BAM,BAM|Brookfield Asset Management Inc. Common Stock
 BAMH,BAMH|Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080
 BAMI,BAMI|Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes
 BANC,BANC|Banc of California, Inc. Common Stock
-BANC$D,BANC$D|Banc of California, Inc. Depositary Shares each representing a 1/40th interest in a share of 7.375% Non-Cumulative Perpetual Preferred Stock, Series D
 BANC$E,BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E
 BAP,BAP|Credicorp Ltd. Common Stock
 BAR,BAR|GraniteShares Gold Trust Shares of Beneficial Interest
@@ -1880,9 +1881,6 @@ IPOE.W,IPOE.W|Social Capital Hedosophia Holdings Corp. V Redeemable Warrants, ea
 IPOF,IPOF|Social Capital Hedosophia Holdings Corp. VI Class A Ordinary Shares
 IPOF.U,IPOF.U|Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 IPOF.W,IPOF.W|Social Capital Hedosophia Holdings Corp. VI Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
-IPV,IPV|InterPrivate Acquisition Corp. Common Stock
-IPV.U,IPV.U|InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value, and one-half of one Warrant
-IPV.W,IPV.W|InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
 IPVA.U,IPVA.U|InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 IPVF.U,IPVF.U|InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 IQI,IQI|Invesco Quality Municipal Income Trust Common Stock
@@ -2348,7 +2346,7 @@ MVF,MVF|Blackrock MuniVest Fund, Inc. Common Stock
 MVO,MVO|MV Oil Trust Units of Beneficial Interests
 MVT,MVT|Blackrock MuniVest Fund II, Inc.  Common Stock
 MWA,MWA|MUELLER WATER PRODUCTS Common Stock
-MX,MX|MagnaChip Semiconductor Corporation Depositary Shares, each representing one share of common stock
+MX,MX|Magnachip Semiconductor Corporation Common Stock
 MXC,MXC|Mexco Energy Corporation Common Stock
 MXE,MXE|Mexico Equity and Income Fund, Inc. (The) Common Stock
 MXF,MXF|Mexico Fund, Inc. (The) Common Stock
@@ -2870,7 +2868,9 @@ PUK,PUK|Prudential Public Limited Company Common Stock
 PUK$,PUK$|Prudential Public Limited Company 6.75% Perpetual Subordinated Captial Security
 PUK$A,PUK$A|Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Securities Exchangeable at the Issuer's Option Into Non-Cumulative Dollar Denominated Preference Shares
 PUMP,PUMP|ProPetro Holding Corp. Common Stock
+PV,PV|Primavera Capital Acquisition Corporation Class A Ordinary Shares
 PV.U,PV.U|Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
+PV.W,PV.W|Primavera Capital Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PVG,PVG|Pretium Resources, Inc. Ordinary Shares (Canada)
 PVH,PVH|PVH Corp. Common Stock
 PVL,PVL|Permianville Royalty Trust Trust Units 
@@ -3491,8 +3491,6 @@ TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
 TWO$B,TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 TWO$C,TWO$C|Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
-TWO$D,TWO$D|Two Harbors Investments Corp 7.75% Series D Cumulative Redeemable Preferred Stock
-TWO$E,TWO$E|Two Harbors Investments Corp 7.50% Series E Cumulative Redeemable Preferred Stock
 TWTR,TWTR|Twitter, Inc. Common Stock
 TX,TX|Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)
 TXT,TXT|Textron Inc. Common Stock
@@ -3687,10 +3685,8 @@ WFC$C,WFC$C|Wells Fargo & Company Depositary Shares, each representing a 1/1,000
 WFC$L,WFC$L|Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
 WFC$N,WFC$N|Wells Fargo & Company Dep Shs Repstg 1/1000th Perp Pfd Cl A Ser N
 WFC$O,WFC$O|Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Preferred Class A Series O
-WFC$P,WFC$P|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (Ser P)
 WFC$Q,WFC$Q|Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating
 WFC$R,WFC$R|Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)
-WFC$W,WFC$W|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series W
 WFC$X,WFC$X|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series X
 WFC$Y,WFC$Y|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
 WFC$Z,WFC$Z|Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
@@ -4120,7 +4116,9 @@ ARVN,ARVN|Arvinas, Inc. - Common Stock
 ARWR,ARWR|Arrowhead Pharmaceuticals, Inc. - Common Stock
 ARYA,ARYA|ARYA Sciences Acquisition Corp III - Class A Ordinary Shares
 ARYD,ARYD|ARYA Sciences Acquisition Corp IV - Class A Ordinary Shares
+ASAX,ASAX|Astrea Acquisition Corp. - Class A Common Stock
 ASAXU,ASAXU|Astrea Acquisition Corp. - Unit
+ASAXW,ASAXW|Astrea Acquisition Corp. - Warrant
 ASLE,ASLE|AerSale Corporation - Common Stock
 ASLEW,ASLEW|AerSale Corporation - Warrants
 ASLN,ASLN|ASLAN Pharmaceuticals Limited - American Depositary Shares
@@ -5310,9 +5308,13 @@ GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
 GMAB,GMAB|Genmab A/S - American Depositary Shares
 GMBL,GMBL|Esports Entertainment Group Inc. - Common Stock
 GMBLW,GMBLW|Esports Entertainment Group Inc. - Warrant
+GMBT,GMBT|Queen's Gambit Growth Capital - Class A Ordinary Share
 GMBTU,GMBTU|Queen's Gambit Growth Capital - Unit
+GMBTW,GMBTW|Queen's Gambit Growth Capital - Warrant
 GMDA,GMDA|Gamida Cell Ltd. - Ordinary Shares
+GMII,GMII|Gores Metropoulos II, Inc. - Class A Common Stock
 GMIIU,GMIIU|Gores Metropoulos II, Inc. - Unit
+GMIIW,GMIIW|Gores Metropoulos II, Inc. - Warrants
 GMLP,GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership
 GMLPP,GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units
 GMTX,GMTX|Gemini Therapeutics, Inc. - Common Stock
@@ -5723,7 +5725,9 @@ JAZZ,JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares
 JBHT,JBHT|J.B. Hunt Transport Services, Inc. - Common Stock
 JBLU,JBLU|JetBlue Airways Corporation - Common Stock
 JBSS,JBSS|John B. Sanfilippo & Son, Inc. - Common Stock
+JCIC,JCIC|Jack Creek Investment Corp. - Class A Ordinary Shares
 JCICU,JCICU|Jack Creek Investment Corp. - Units
+JCICW,JCICW|Jack Creek Investment Corp. - Warrants
 JCOM,JCOM|j2 Global, Inc. - Common Stock
 JCS,JCS|Communications Systems, Inc. - Common Stock
 JCTCF,JCTCF|Jewett-Cameron Trading Company - Common Shares
@@ -5917,7 +5921,9 @@ LKFN,LKFN|Lakeland Financial Corporation - Common Stock
 LKQ,LKQ|LKQ Corporation - Common Stock
 LLIT,LLIT|Lianluo Smart Limited - Class A Common Stock
 LLNW,LLNW|Limelight Networks, Inc. - Common Stock
+LMACA,LMACA|Liberty Media Acquisition Corporation - Series A Common Stock
 LMACU,LMACU|Liberty Media Acquisition Corporation - Unit
+LMACW,LMACW|Liberty Media Acquisition Corporation - Warrants
 LMAOU,LMAOU|LMF Acquisition Opportunities Inc. - Unit
 LMAT,LMAT|LeMaitre Vascular, Inc. - Common Stock
 LMB,LMB|Limbach Holdings, Inc. - Common Stock
@@ -6025,6 +6031,8 @@ MBOT,MBOT|Microbot Medical Inc.  - Common Stock
 MBRX,MBRX|Moleculin Biotech, Inc. - Common Stock
 MBUU,MBUU|Malibu Boats, Inc. - Common Stock
 MBWM,MBWM|Mercantile Bank Corporation - Common Stock
+MCAD,MCAD|Mountain Crest Acquisition Corp. II - Common Stock
+MCADR,MCADR|Mountain Crest Acquisition Corp. II - Right
 MCADU,MCADU|Mountain Crest Acquisition Corp. II - Units each consisting of one share of Common Stock, $0.0001 par value andone Right to acquire 1/10 of one share of Common Stock.
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
@@ -6195,7 +6203,9 @@ MYGN,MYGN|Myriad Genetics, Inc. - Common Stock
 MYRG,MYRG|MYR Group, Inc. - Common Stock
 MYSZ,MYSZ|My Size, Inc. - Common Stock
 MYT,MYT|Urban Tea, Inc. - Ordinary Shares
+NAAC,NAAC|North Atlantic Acquisition Corporation - Class A Ordinary Share
 NAACU,NAACU|North Atlantic Acquisition Corporation - Unit
+NAACW,NAACW|North Atlantic Acquisition Corporation - Warrant
 NAII,NAII|Natural Alternatives International, Inc. - Common Stock
 NAKD,NAKD|Naked Brand Group Limited - Ordinary Shares
 NAOV,NAOV|NanoVibronix, Inc. - Common Stock
@@ -6377,7 +6387,9 @@ ODFL,ODFL|Old Dominion Freight Line, Inc. - Common Stock
 ODP,ODP|The ODP Corporation - Common Stock
 ODT,ODT|Odonate Therapeutics, Inc. - Common Stock
 OEG,OEG|Orbital Energy Group, Inc. - Common Stock
+OEPW,OEPW|One Equity Partners Open Water I Corp. - Class A Common Stock
 OEPWU,OEPWU|One Equity Partners Open Water I Corp. - Unit
+OEPWW,OEPWW|One Equity Partners Open Water I Corp. - Warrant
 OESX,OESX|Orion Energy Systems, Inc. - Common Stock
 OFED,OFED|Oconee Federal Financial Corp. - Common Stock
 OFIX,OFIX|Orthofix Medical Inc.  - Common Stock
@@ -6973,7 +6985,9 @@ SGOC,SGOC|SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)
 SGRP,SGRP|SPAR Group, Inc. - Common Stock
 SGRY,SGRY|Surgery Partners, Inc. - Common Stock
 SGTX,SGTX|Sigilon Therapeutics, Inc. - Common Stock
+SHAC,SHAC|SCP & CO Healthcare Acquisition Company - Class A Common Stock
 SHACU,SHACU|SCP & CO Healthcare Acquisition Company - Unit
+SHACW,SHACW|SCP & CO Healthcare Acquisition Company - Warrant
 SHBI,SHBI|Shore Bancshares Inc - Common Stock
 SHC,SHC|Sotera Health Company - Common Stock
 SHEN,SHEN|Shenandoah Telecommunications Co - Common Stock
@@ -7522,7 +7536,9 @@ VNET,VNET|21Vianet Group, Inc. - American Depositary Shares
 VNOM,VNOM|Viper Energy Partners LP - Common Unit
 VOD,VOD|Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares
 VOR,VOR|Vor Biopharma Inc. - Common Stock
+VOSO,VOSO|Virtuoso Acquisition Corp. - Class A Common Stock
 VOSOU,VOSOU|Virtuoso Acquisition Corp. - Unit
+VOSOW,VOSOW|Virtuoso Acquisition Corp. - Warrant
 VOXX,VOXX|VOXX International Corporation - Class A Common Stock
 VPCBU,VPCBU|VPC Impact Acquisition Holdings II - Unit
 VRA,VRA|Vera Bradley, Inc. - Common Stock
