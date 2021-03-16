@@ -1203,6 +1203,7 @@ EACPW|Edify Acquisition Corp. - Warrant|S|N|N|100|N|N
 EAR|Eargo, Inc. - Common Stock|Q|N|N|100|N|N
 EARS|Auris Medical Holding Ltd. - Common Shares|S|N|N|100|N|N
 EAST|Eastside Distilling, Inc. - Common Stock|S|N|N|100|N|N
+EBACU|European Biotech Acquisition Corp. - Units|S|N|N|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBC|Eastern Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 EBIX|Ebix, Inc. - Common Stock|Q|N|E|100|N|N
@@ -1627,6 +1628,7 @@ GBDC|Golub Capital BDC, Inc. - Common Stock|Q|N|N|100|N|N
 GBIO|Generation Bio Co. - Common stock|Q|N|N|100|N|N
 GBLI|Global Indemnity Group, LLC - Class A Common Stock|Q|N|N|100|N|N
 GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047|Q|N|N|100|N|N
+GBNH|Greenbrook TMS Inc. - Common Shares|S|N|N|100|N|N
 GBNY|Generations Bancorp NY, Inc. - Common Stock|S|N|N|100|N|N
 GBOX|Greenbox POS - Common Stock|S|N|N|100|N|N
 GBRGU|Goldenbridge Acquisition Limited - Unit|S|N|N|100|N|N
@@ -1659,7 +1661,7 @@ GFNSZ|General Finance Corporation - 7.875% Senior Notes due 2025|G|N|N|100|N|N
 GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying|S|N|N|100|N|N
 GH|Guardant Health, Inc. - Common Stock|Q|N|N|100|N|N
 GHACU|Gaming & Hospitality Acquisition Corp. - Unit|S|N|N|100|N|N
-GHSI|Guardion Health Sciences, Inc. - Common Stock|S|N|D|100|N|N
+GHSI|Guardion Health Sciences, Inc. - Common Stock|S|N|N|100|N|N
 GHVI|Gores Holdings VI, Inc. - Class A Common Stock|S|N|N|100|N|N
 GHVIU|Gores Holdings VI, Inc. - Unit|S|N|N|100|N|N
 GHVIW|Gores Holdings VI, Inc. - Warrant|S|N|N|100|N|N
@@ -3047,7 +3049,9 @@ PGC|Peapack-Gladstone Financial Corporation - Common Stock|Q|N|N|100|N|N
 PGEN|Precigen, Inc. - Common Stock|Q|N|N|100|N|N
 PGJ|Invesco Golden Dragon China ETF|G|N|N|100|Y|N
 PGNY|Progyny, Inc. - Common Stock|Q|N|N|100|N|N
+PGRW|Progress Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 PGRWU|Progress Acquisition Corp. - Units.|S|N|N|100|N|N
+PGRWW|Progress Acquisition Corp. - Warrant|S|N|N|100|N|N
 PHAR|Pharming Group N.V. - ADS, each representing 10 ordinary shares|G|N|N|100|N|N
 PHAS|PhaseBio Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 PHAT|Phathom Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3079,6 +3083,7 @@ PLBY|PLBY Group, Inc.  - Common Stock|G|N|N|100|N|N
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100|N|N
 PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares|S|N|N|100|N|N
 PLL|Piedmont Lithium Limited - American Depositary Shares|S|N|N|100|N|N
+PLMIU|Plum Acquisition Corp. I - Units|S|N|N|100|N|N
 PLMR|Palomar Holdings, Inc. - Common stock|Q|N|N|100|N|N
 PLPC|Preformed Line Products Company - Common Stock|Q|N|N|100|N|N
 PLRX|Pliant Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3407,6 +3412,7 @@ RSVAU|Rodgers Silicon Valley Acquisition Corp. - Unit|S|N|N|100|N|N
 RSVAW|Rodgers Silicon Valley Acquisition Corp. - Warrant|S|N|N|100|N|N
 RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
 RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
+RTPYU|Reinvent Technology Partners Y - Unit|S|N|N|100|N|N
 RUBY|Rubius Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RUHN|Ruhnn Holding Limited - American Depositary Shares|Q|N|N|100|N|N
 RUN|Sunrun Inc. - Common Stock|Q|N|N|100|N|N
@@ -4067,7 +4073,6 @@ VIAC|ViacomCBS Inc. - Class B Common Stock|Q|N|N|100|N|N
 VIACA|ViacomCBS Inc. - Class A Common Stock|Q|N|N|100|N|N
 VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100|N|N
 VICR|Vicor Corporation - Common Stock|Q|N|N|100|N|N
-VIE|Viela Bio, Inc. - Common Stock|Q|N|N|100|N|N
 VIEW|View, Inc. - Class A Common Stock|G|N|N|100|N|N
 VIEWW|View, Inc. - Warrant|G|N|N|100|N|N
 VIGI|Vanguard International Dividend Appreciation ETF|G|N|N|100|Y|N
@@ -4186,6 +4191,7 @@ WABC|Westamerica Bancorporation - Common Stock|Q|N|N|100|N|N
 WAFD|Washington Federal, Inc. - Common Stock|Q|N|N|100|N|N
 WAFDP|Washington Federal, Inc. - Depositary Shares|Q|N|N|100|N|N
 WAFU|Wah Fu Education Group Limited - Ordinary Shares|S|N|N|100|N|N
+WALDU|Waldencast Acquisition Corp. - Units|S|N|N|100|N|N
 WASH|Washington Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 WATT|Energous Corporation - Common Stock|S|N|N|100|N|N
 WB|Weibo Corporation - American Depositary Shares|Q|N|N|100|N|N
@@ -4343,4 +4349,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0315202118:02|||||||
+File Creation Time: 0316202112:12|||||||

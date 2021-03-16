@@ -1464,10 +1464,12 @@ FURY,FURY|Fury Gold Mines Limited Common Shares
 FUSE,FUSE|Fusion Acquisition Corp. Class A Common Stock
 FUSE.U,FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
 FUSE.W,FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
+FVIV.U,FVIV.U|Fortress Value Acquisition Corp. IV Unit
 FVRR,FVRR|Fiverr International Ltd. Ordinary Shares, no par value
 FVT,FVT|Fortress Value Acquisition Corp. III Class A Common Stock
 FVT.U,FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant
 FVT.W,FVT.W|Fortress Value Acquisition Corp. III Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
+FZT.U,FZT.U|FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant
 G,G|Genpact Limited Common Stock
 GAB,GAB|Gabelli Equity Trust, Inc. (The) Common Stock
 GAB$G,GAB$G|Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock
@@ -1660,7 +1662,7 @@ GTY,GTY|Getty Realty Corporation Common Stock
 GUT,GUT|Gabelli Utility Trust (The) Common Stock
 GUT$A,GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares
 GUT$C,GUT$C|Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares
-GUT.V,GUT.V|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) When Issued
+GUT.R,GUT.R|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) 
 GVA,GVA|Granite Construction Incorporated Common Stock
 GWB,GWB|Great Western Bancorp, Inc. Common Stock
 GWRE,GWRE|Guidewire Software, Inc. Common Stock
@@ -4899,6 +4901,7 @@ EACPW,EACPW|Edify Acquisition Corp. - Warrant
 EAR,EAR|Eargo, Inc. - Common Stock
 EARS,EARS|Auris Medical Holding Ltd. - Common Shares
 EAST,EAST|Eastside Distilling, Inc. - Common Stock
+EBACU,EBACU|European Biotech Acquisition Corp. - Units
 EBAY,EBAY|eBay Inc. - Common Stock
 EBC,EBC|Eastern Bankshares, Inc. - Common Stock
 EBIX,EBIX|Ebix, Inc. - Common Stock
@@ -5243,6 +5246,7 @@ GBDC,GBDC|Golub Capital BDC, Inc. - Common Stock
 GBIO,GBIO|Generation Bio Co. - Common stock
 GBLI,GBLI|Global Indemnity Group, LLC - Class A Common Stock
 GBLIL,GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047
+GBNH,GBNH|Greenbrook TMS Inc. - Common Shares
 GBNY,GBNY|Generations Bancorp NY, Inc. - Common Stock
 GBOX,GBOX|Greenbox POS - Common Stock
 GBRGU,GBRGU|Goldenbridge Acquisition Limited - Unit
@@ -6575,7 +6579,9 @@ PFXNL,PFXNL|PhenixFIN Corporation  - Notes Due 2023
 PGC,PGC|Peapack-Gladstone Financial Corporation - Common Stock
 PGEN,PGEN|Precigen, Inc. - Common Stock
 PGNY,PGNY|Progyny, Inc. - Common Stock
+PGRW,PGRW|Progress Acquisition Corp. - Class A Common Stock
 PGRWU,PGRWU|Progress Acquisition Corp. - Units.
+PGRWW,PGRWW|Progress Acquisition Corp. - Warrant
 PHAR,PHAR|Pharming Group N.V. - ADS, each representing 10 ordinary shares
 PHAS,PHAS|PhaseBio Pharmaceuticals, Inc. - Common Stock
 PHAT,PHAT|Phathom Pharmaceuticals, Inc. - Common Stock
@@ -6601,6 +6607,7 @@ PLBY,PLBY|PLBY Group, Inc.  - Common Stock
 PLCE,PLCE|Children's Place, Inc. (The) - Common Stock
 PLIN,PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares
 PLL,PLL|Piedmont Lithium Limited - American Depositary Shares
+PLMIU,PLMIU|Plum Acquisition Corp. I - Units
 PLMR,PLMR|Palomar Holdings, Inc. - Common stock
 PLPC,PLPC|Preformed Line Products Company - Common Stock
 PLRX,PLRX|Pliant Therapeutics, Inc. - Common Stock
@@ -6875,6 +6882,7 @@ RSVA,RSVA|Rodgers Silicon Valley Acquisition Corp. - Common Stock
 RSVAU,RSVAU|Rodgers Silicon Valley Acquisition Corp. - Unit
 RSVAW,RSVAW|Rodgers Silicon Valley Acquisition Corp. - Warrant
 RTLR,RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests
+RTPYU,RTPYU|Reinvent Technology Partners Y - Unit
 RUBY,RUBY|Rubius Therapeutics, Inc. - Common Stock
 RUHN,RUHN|Ruhnn Holding Limited - American Depositary Shares
 RUN,RUN|Sunrun Inc. - Common Stock
@@ -7492,7 +7500,6 @@ VIAC,VIAC|ViacomCBS Inc. - Class B Common Stock
 VIACA,VIACA|ViacomCBS Inc. - Class A Common Stock
 VIAV,VIAV|Viavi Solutions Inc. - Common Stock
 VICR,VICR|Vicor Corporation - Common Stock
-VIE,VIE|Viela Bio, Inc. - Common Stock
 VIEW,VIEW|View, Inc. - Class A Common Stock
 VIEWW,VIEWW|View, Inc. - Warrant
 VIH,VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares
@@ -7591,6 +7598,7 @@ WABC,WABC|Westamerica Bancorporation - Common Stock
 WAFD,WAFD|Washington Federal, Inc. - Common Stock
 WAFDP,WAFDP|Washington Federal, Inc. - Depositary Shares
 WAFU,WAFU|Wah Fu Education Group Limited - Ordinary Shares
+WALDU,WALDU|Waldencast Acquisition Corp. - Units
 WASH,WASH|Washington Trust Bancorp, Inc. - Common Stock
 WATT,WATT|Energous Corporation - Common Stock
 WB,WB|Weibo Corporation - American Depositary Shares

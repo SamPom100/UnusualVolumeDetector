@@ -2096,6 +2096,7 @@ FUT|ProShares Managed Futures Strategy ETF|Z|FUT|Y|100|N|FUT
 FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAL|Fidelity Value Factor ETF|P|FVAL|Y|100|N|FVAL
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
+FVIV.U|Fortress Value Acquisition Corp. IV Unit|N|FVIV.U|N|100|N|FVIV=
 FVRR|Fiverr International Ltd. Ordinary Shares, no par value|N|FVRR|N|100|N|FVRR
 FVT|Fortress Value Acquisition Corp. III Class A Common Stock|N|FVT|N|100|N|FVT
 FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant|N|FVT.U|N|100|N|FVT=
@@ -2119,6 +2120,7 @@ FXU|First Trust Utilities AlphaDEX Fund|P|FXU|Y|100|N|FXU
 FXY|Invesco CurrencyShares Japanese Yen Trust|P|FXY|Y|100|N|FXY
 FXZ|First Trust Materials AlphaDEX Fund|P|FXZ|Y|100|N|FXZ
 FYLD|Cambria Foreign Shareholder Yield ETF|Z|FYLD|Y|100|N|FYLD
+FZT.U|FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant|N|FZT.U|N|100|N|FZT=
 G|Genpact Limited Common Stock|N|G|N|100|N|G
 GAA|Cambria Global Asset Allocation ETF|Z|GAA|Y|100|N|GAA
 GAB|Gabelli Equity Trust, Inc. (The) Common Stock|N|GAB|N|100|N|GAB
@@ -2375,7 +2377,7 @@ GUSH|Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares|P|GUSH|Y|100|N|GUS
 GUT|Gabelli Utility Trust (The) Common Stock|N|GUT|N|100|N|GUT
 GUT$A|Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares|N|GUTpA|N|100|N|GUT-A
 GUT$C|Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares|N|GUTpC|N|100|N|GUT-C
-GUT.V|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) When Issued|N|GUTrw|N|100|N|GUT^#
+GUT.R|Gabelli Utility Trust (The) Rights (expiring April 14, 2021) |N|GUTr|N|100|N|GUT^
 GVA|Granite Construction Incorporated Common Stock|N|GVA|N|100|N|GVA
 GVAL|Cambria Global Value ETF|Z|GVAL|Y|100|N|GVAL
 GVI|iShares Intermediate Government/Credit Bond ETF|Z|GVI|Y|100|N|GVI
@@ -4907,6 +4909,7 @@ STLV|iShares Factors US Value Style ETF|Z|STLV|Y|100|N|STLV
 STM|STMicroelectronics N.V. Common Stock|N|STM|N|100|N|STM
 STMB|iShares Factors US Mid Blend Style ETF|Z|STMB|Y|100|N|STMB
 STN|Stantec Inc Common Stock|N|STN|N|100|N|STN
+STNC|Stance Equity ESG Large Cap Core ETF|P|STNC|Y|100|N|STNC
 STNG|Scorpio Tankers Inc. Common Shares|N|STNG|N|100|N|STNG
 STON|StoneMor Inc. Common Stock|N|STON|N|100|N|STON
 STOR|STORE Capital Corporation Common Stock|N|STOR|N|100|N|STOR
@@ -5773,4 +5776,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0315202118:02||||||
+File Creation Time: 0316202112:12||||||
