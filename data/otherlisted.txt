@@ -35,13 +35,15 @@ ACB|Aurora Cannabis Inc. Common Shares|N|ACB|N|100|N|ACB
 ACC|American Campus Communities Inc Common Stock|N|ACC|N|100|N|ACC
 ACCO|Acco Brands Corporation Common Stock|N|ACCO|N|100|N|ACCO
 ACEL|Accel Entertainment, Inc. |N|ACEL|N|100|N|ACEL
-ACES|ALPS Clean Energy ETF|Z|ACES|Y|100|N|ACES
+ACES|ALPS Clean Energy ETF|P|ACES|Y|100|N|ACES
 ACH|Aluminum Corporation of China Limited American Depositary Shares|N|ACH|N|100|N|ACH
 ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACIC|Atlas Crest Investment Corp. Class A Common Stock|N|ACIC|N|100|N|ACIC
 ACIC.U|Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of one redeemable warrant|N|ACIC.U|N|100|N|ACIC=
 ACIC.W|Atlas Crest Investment Corp. Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50|N|ACIC.WS|N|100|N|ACIC+
+ACII|Atlas Crest Investment Corp. II Class A Common Stock|N|ACII|N|100|N|ACII
 ACII.U|Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value, and one-fourth of one redeemable warrant|N|ACII.U|N|100|N|ACII=
+ACII.W|Atlas Crest Investment Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50|N|ACII.WS|N|100|N|ACII+
 ACIO|ETF Series Solutions Aptus Collared Income Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
@@ -67,6 +69,7 @@ ADEX|Adit EdTech Acquisition Corp. Common Stock|N|ADEX|N|100|N|ADEX
 ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant|N|ADEX.U|N|100|N|ADEX=
 ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|ADEX.WS|N|100|N|ADEX+
 ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
+ADIV|SmartETFs Asia Pacific Dividend Builder ETF|P|ADIV|Y|100|N|ADIV
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
 ADNT|Adient plc Ordinary Shares |N|ADNT|N|100|N|ADNT
@@ -380,7 +383,9 @@ ATHN.U|Athena Technology Acquisition Corp. Units, each consisting of one share o
 ATI|Allegheny Technologies Incorporated Common Stock|N|ATI|N|100|N|ATI
 ATKR|Atkore Inc. Common Stock|N|ATKR|N|100|N|ATKR
 ATMP|iPath Select MLP ETN|Z|ATMP|N|100|N|ATMP
+ATMR|Altimar Acquisition Corp. II Class A Ordinary Shares|N|ATMR|N|100|N|ATMR
 ATMR.U|Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|ATMR.U|N|100|N|ATMR=
+ATMR.W|Altimar Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|ATMR.WS|N|100|N|ATMR+
 ATNM|Actinium Pharmaceuticals, Inc. (Delaware) Common Stock|A|ATNM|N|100|N|ATNM
 ATO|Atmos Energy Corporation Common Stock|N|ATO|N|100|N|ATO
 ATR|AptarGroup, Inc. Common Stock|N|ATR|N|100|N|ATR
@@ -1080,7 +1085,9 @@ CPSR.U|Capstar Special Purpose Acquisition Corp. Units, each consisting of one s
 CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CPSR.WS|N|100|N|CPSR+
 CPT|Camden Property Trust Common Stock|N|CPT|N|100|N|CPT
 CPTK.U|Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CPTK.U|N|100|N|CPTK=
+CPUH|Compute Health Acquisition Corp. Class A Common Stock|N|CPUH|N|100|N|CPUH
 CPUH.U|Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant|N|CPUH.U|N|100|N|CPUH=
+CPUH.W|Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|CPUH.WS|N|100|N|CPUH+
 CQP|Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units|A|CQP|N|100|N|CQP
 CQQQ|Invesco China Technology ETF|P|CQQQ|Y|100|N|CQQQ
 CR|Crane Co. Common Stock|N|CR|N|100|N|CR
@@ -1316,6 +1323,7 @@ DIV|Global X Super Dividend ETF|P|DIV|Y|100|N|DIV
 DIVA|AGFiQ Hedged Dividend Income Fund|P|DIVA|Y|100|N|DIVA
 DIVB|iShares U.S. Dividend and Buyback ETF|Z|DIVB|Y|100|N|DIVB
 DIVO|Amplify CWP Enhanced Dividend Income ETF|P|DIVO|Y|100|N|DIVO
+DIVS|SmartETFs Dividend Builder ETF|P|DIVS|Y|100|N|DIVS
 DIVZ|TrueShares Low Volatility Equity Income ETF|P|DIVZ|Y|100|N|DIVZ
 DJAN|FT Cboe Vest U.S. Equity Deep Buffer ETF - January|Z|DJAN|Y|100|N|DJAN
 DJCB|ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039|P|DJCB|Y|100|N|DJCB
@@ -1341,7 +1349,6 @@ DLS|WisdomTree International SmallCap Fund|P|DLS|Y|100|N|DLS
 DLX|Deluxe Corporation Common Stock|N|DLX|N|100|N|DLX
 DLY|DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest|N|DLY|N|100|N|DLY
 DM|Desktop Metal, Inc. Class A Common Stock|N|DM|N|100|N|DM
-DM.W|Desktop Metal, Inc. Warrants|N|DM.WS|N|100|N|DM+
 DMAR|FT Cboe Vest U.S. Equity Deep Buffer ETF - March|Z|DMAR|Y|100|N|DMAR
 DMAY|FT Cboe Vest U.S. Equity Deep Buffer ETF - May|Z|DMAY|Y|100|N|DMAY
 DMB|BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock|N|DMB|N|100|N|DMB
@@ -1423,7 +1430,7 @@ DT|Dynatrace, Inc. Common Stock|N|DT|N|100|N|DT
 DTB|DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080|N|DTB|N|100|N|DTB
 DTD|WisdomTree U.S. Total Dividend Fund|P|DTD|Y|100|N|DTD
 DTE|DTE Energy Company Common Stock|N|DTE|N|100|N|DTE
-DTEC|ALPS ETF Trust ALPS Disruptive Technologies ETF|Z|DTEC|Y|100|N|DTEC
+DTEC|ALPS ETF Trust ALPS Disruptive Technologies ETF|P|DTEC|Y|100|N|DTEC
 DTF|DTF Tax-Free Income, Inc. Common Stock|N|DTF|N|100|N|DTF
 DTH|WisdomTree International High Dividend Fund|P|DTH|Y|100|N|DTH
 DTJ|DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076|N|DTJ|N|100|N|DTJ
@@ -1488,6 +1495,7 @@ EBS|Emergent Biosolutions, Inc. Common Stock|N|EBS|N|100|N|EBS
 EC|Ecopetrol S.A. American Depositary Shares|N|EC|N|100|N|EC
 ECC|Eagle Point Credit Company Inc. Common Stock|N|ECC|N|100|N|ECC
 ECCB|Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026|N|ECCB|N|100|N|ECCB
+ECCW|Eagle Point Credit Company Inc. 6.75% Notes due 2031|N|ECCW|N|100|N|ECCW
 ECCX|Eagle Point Credit Company Inc. 6.6875% Notes due 2028|N|ECCX|N|100|N|ECCX
 ECCY|Eagle Point Credit Company Inc. 6.75% Notes due 2027|N|ECCY|N|100|N|ECCY
 ECF|Ellsworth Growth and Income Fund Ltd.|A|ECF|N|100|N|ECF
@@ -2473,7 +2481,9 @@ HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate 
 HGLB|Highland Global Allocation Fund Common Stock|N|HGLB|N|100|N|HGLB
 HGV|Hilton Grand Vacations Inc. Common Stock |N|HGV|N|100|N|HGV
 HHC|Howard Hughes Corporation (The) Common Stock|N|HHC|N|100|N|HHC
+HHLA|HH&L Acquisition Co. Class A Ordinary Shares|N|HHLA|N|100|N|HHLA
 HHLA.U|HH&L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|HHLA.U|N|100|N|HHLA=
+HHLA.W|HH&L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HHLA.WS|N|100|N|HHLA+
 HI|Hillenbrand Inc Common Stock|N|HI|N|100|N|HI
 HIBL|Direxion Daily S&P 500 High Beta Bull 3X Shares|P|HIBL|Y|100|N|HIBL
 HIBS|Direxion Daily S&P 500 High Beta Bear 3X Shares|P|HIBS|Y|100|N|HIBS
@@ -3092,7 +3102,7 @@ KFVG|KraneShares Trust KraneShares CICC China 5G and Semiconductor Index ETF|P|K
 KFY|Korn Ferry Common Stock|N|KFY|N|100|N|KFY
 KFYP|KraneShares CICC China Leaders 100 Index ETF|P|KFYP|Y|100|N|KFYP
 KGC|Kinross Gold Corporation Common Stock|N|KGC|N|100|N|KGC
-KGRN|KraneShares MSCI China Environment Index ETF|P|KGRN|Y|100|N|KGRN
+KGRN|KraneShares MSCI China Clean Technology Index ETF|P|KGRN|Y|100|N|KGRN
 KIE|SPDR S&P Insurance ETF|P|KIE|Y|100|N|KIE
 KIM|Kimco Realty Corporation Common Stock|N|KIM|N|100|N|KIM
 KIM$L|Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share|N|KIMpL|N|100|N|KIM-L
@@ -3138,7 +3148,7 @@ KORU|Direxion Daily South Korea Bull 3X Shares|P|KORU|Y|100|N|KORU
 KOS|Kosmos Energy Ltd. Common Shares (DE)|N|KOS|N|100|N|KOS
 KR|Kroger Company (The) Common Stock|N|KR|N|100|N|KR
 KRA|Kraton Corporation Common Stock|N|KRA|N|100|N|KRA
-KRBN|KFA Global Carbon ETF|P|KRBN|Y|100|N|KRBN
+KRBN|KraneShares Global Carbon ETF|P|KRBN|Y|100|N|KRBN
 KRC|Kilroy Realty Corporation Common Stock|N|KRC|N|100|N|KRC
 KRE|SPDR S&P Regional Banking ETF|P|KRE|Y|100|N|KRE
 KREF|KKR Real Estate Finance Trust Inc. Common Stock|N|KREF|N|100|N|KREF
@@ -3827,7 +3837,9 @@ NXP|Nuveen Select Tax Free Income Portfolio Common Stock|N|NXP|N|100|N|NXP
 NXQ|Nuveen Select Tax Free Income Portfolio II Common Stock|N|NXQ|N|100|N|NXQ
 NXR|Nuveen Select Tax Free Income Portfolio III Common Stock|N|NXR|N|100|N|NXR
 NXRT|NexPoint Residential Trust, Inc. Common Stock|N|NXRT|N|100|N|NXRT
+NXU|Novus Capital Corporation II Class A Common Stock|N|NXU|N|100|N|NXU
 NXU.U|Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one third of one redeemable warrant|N|NXU.U|N|100|N|NXU=
+NXU.W|Novus Capital Corporation II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share|N|NXU.WS|N|100|N|NXU+
 NYC|New York City REIT, Inc. Class A Common Stock|N|NYC|N|100|N|NYC
 NYCB|New York Community Bancorp, Inc. Common Stock|N|NYCB|N|100|N|NYCB
 NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock|N|NYCBpA|N|100|N|NYCB-A
@@ -5834,4 +5846,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0326202115:42||||||
+File Creation Time: 0329202112:12||||||
