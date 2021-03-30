@@ -311,6 +311,7 @@ ARKG|ARK Genomic Revolution ETF|Z|ARKG|Y|100|N|ARKG
 ARKK|ARK Innovation ETF|P|ARKK|Y|100|N|ARKK
 ARKQ|ARK Autonomous Technology & Robotics ETF|Z|ARKQ|Y|100|N|ARKQ
 ARKW|ARK Next Generation Internet ETF|P|ARKW|Y|100|N|ARKW
+ARKX|ARK Space Exploration & Innovation ETF|Z|ARKX|Y|100|N|ARKX
 ARL|American Realty Investors, Inc. Common Stock|N|ARL|N|100|N|ARL
 ARLO|Arlo Technologies, Inc. Common Stock|N|ARLO|N|100|N|ARLO
 ARMK|Aramark Common Stock|N|ARMK|N|100|N|ARMK
@@ -1084,7 +1085,9 @@ CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock|N|CPSR|N|100
 CPSR.U|Capstar Special Purpose Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|CPSR.U|N|100|N|CPSR=
 CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CPSR.WS|N|100|N|CPSR+
 CPT|Camden Property Trust Common Stock|N|CPT|N|100|N|CPT
+CPTK|Crown PropTech Acquisitions Class A Ordinary Shares|N|CPTK|N|100|N|CPTK
 CPTK.U|Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CPTK.U|N|100|N|CPTK=
+CPTK.W|Crown PropTech Acquisitions Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CPTK.WS|N|100|N|CPTK+
 CPUH|Compute Health Acquisition Corp. Class A Common Stock|N|CPUH|N|100|N|CPUH
 CPUH.U|Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant|N|CPUH.U|N|100|N|CPUH=
 CPUH.W|Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|CPUH.WS|N|100|N|CPUH+
@@ -2056,7 +2059,6 @@ FR|First Industrial Realty Trust, Inc. Common Stock|N|FR|N|100|N|FR
 FRA|Blackrock Floating Rate Income Strategies Fund Inc  Common Stock|N|FRA|N|100|N|FRA
 FRAK|VanEck Vectors Unconventional Oil & Gas ETF|P|FRAK|Y|100|N|FRAK
 FRC|FIRST REPUBLIC BANK Common Stock|N|FRC|N|100|N|FRC
-FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series G Preferred Stock|N|FRCpG|N|100|N|FRC-G
 FRC$H|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share|N|FRCpH|N|100|N|FRC-H
 FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share|N|FRCpI|N|100|N|FRC-I
 FRC$J|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncumulative Perpetual Series J Preferred Stock|N|FRCpJ|N|100|N|FRC-J
@@ -2100,6 +2102,7 @@ FT|Franklin Universal Trust Common Stock|N|FT|N|100|N|FT
 FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares|N|FTAI|N|100|N|FTAI
 FTAI$A|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares|N|FTAIpA|N|100|N|FTAI-A
 FTAI$B|Fortress Transportation and Infrastructure Investors LLC 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares|N|FTAIpB|N|100|N|FTAI-B
+FTAI$C|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed - Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares|N|FTAIpC|N|100|N|FTAI-C
 FTCH|Farfetch Limited Class A Ordinary Shares|N|FTCH|N|100|N|FTCH
 FTEC|Fidelity MSCI Information Technology Index ETF|P|FTEC|Y|100|N|FTEC
 FTEV.U|FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-third of one redeemable warrant|N|FTEV.U|N|100|N|FTEV=
@@ -5285,6 +5288,7 @@ TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
 TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)|N|TWOpA|N|100|N|TWO-A
 TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|TWOpB|N|100|N|TWO-B
 TWO$C|Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|TWOpC|N|100|N|TWO-C
+TWOA|two Class A Ordinary Shares|N|TWOA|N|100|N|TWOA
 TWTR|Twitter, Inc. Common Stock|N|TWTR|N|100|N|TWTR
 TX|Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)|N|TX|N|100|N|TX
 TXT|Textron Inc. Common Stock|N|TXT|N|100|N|TXT
@@ -5846,4 +5850,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0329202112:12||||||
+File Creation Time: 0330202111:01||||||

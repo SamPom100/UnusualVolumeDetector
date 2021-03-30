@@ -875,7 +875,9 @@ CPSR,CPSR|Capstar Special Purpose Acquisition Corp. Class A Common Stock
 CPSR.U,CPSR.U|Capstar Special Purpose Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
 CPSR.W,CPSR.W|Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 CPT,CPT|Camden Property Trust Common Stock
+CPTK,CPTK|Crown PropTech Acquisitions Class A Ordinary Shares
 CPTK.U,CPTK.U|Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+CPTK.W,CPTK.W|Crown PropTech Acquisitions Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 CPUH,CPUH|Compute Health Acquisition Corp. Class A Common Stock
 CPUH.U,CPUH.U|Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant
 CPUH.W,CPUH.W|Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
@@ -1434,7 +1436,6 @@ FPL,FPL|First Trust New Opportunities MLP & Energy Fund Common Shares of Benefic
 FR,FR|First Industrial Realty Trust, Inc. Common Stock
 FRA,FRA|Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
 FRC,FRC|FIRST REPUBLIC BANK Common Stock
-FRC$G,FRC$G|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series G Preferred Stock
 FRC$H,FRC$H|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share
 FRC$I,FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share
 FRC$J,FRC$J|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncumulative Perpetual Series J Preferred Stock
@@ -1468,6 +1469,7 @@ FT,FT|Franklin Universal Trust Common Stock
 FTAI,FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares
 FTAI$A,FTAI$A|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
 FTAI$B,FTAI$B|Fortress Transportation and Infrastructure Investors LLC 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares
+FTAI$C,FTAI$C|Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed - Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares
 FTCH,FTCH|Farfetch Limited Class A Ordinary Shares
 FTEV.U,FTEV.U|FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-third of one redeemable warrant
 FTF,FTF|Franklin Limited Duration Income Trust Common Shares of Beneficial Interest
@@ -3546,6 +3548,7 @@ TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
 TWO$B,TWO$B|Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 TWO$C,TWO$C|Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
+TWOA,TWOA|two Class A Ordinary Shares
 TWTR,TWTR|Twitter, Inc. Common Stock
 TX,TX|Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)
 TXT,TXT|Textron Inc. Common Stock
@@ -4739,7 +4742,9 @@ CORE,CORE|Core-Mark Holding Company, Inc. - Common Stock
 CORT,CORT|Corcept Therapeutics Incorporated - Common Stock
 COST,COST|Costco Wholesale Corporation - Common Stock
 COUP,COUP|Coupa Software Incorporated - Common Stock
+COVA,COVA|COVA Acquisition Corp. - Class A Ordinary Share
 COVAU,COVAU|COVA Acquisition Corp. - Unit
+COVAW,COVAW|COVA Acquisition Corp. - Warrants to purchase Class A ordinary shares
 COWN,COWN|Cowen Inc. - Class A Common Stock
 COWNL,COWNL|Cowen Inc. - 7.75% Senior Notes due 2033
 COWNZ,COWNZ|Cowen Inc. - 7.35% Senior Notes Due 2027
@@ -5800,7 +5805,6 @@ ISBC,ISBC|Investors Bancorp, Inc. - Common Stock
 ISEE,ISEE|IVERIC bio, Inc. - Common Stock
 ISIG,ISIG|Insignia Systems, Inc. - Common Stock
 ISLE,ISLE|Isleworth Healthcare Acquisition Corporation - Common stock
-ISLEU,ISLEU|Isleworth Healthcare Acquisition Corporation - Unit
 ISLEW,ISLEW|Isleworth Healthcare Acquisition Corporation - Warrant
 ISNS,ISNS|Image Sensing Systems, Inc. - Common Stock
 ISRG,ISRG|Intuitive Surgical, Inc. - Common Stock
@@ -5940,7 +5944,9 @@ KTCC,KTCC|Key Tronic Corporation - Common Stock
 KTOS,KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock
 KTRA,KTRA|Kintara Therapeutics, Inc. - Common Stock
 KURA,KURA|Kura Oncology, Inc. - Common Stock
+KURI,KURI|Alkuri Global Acquisition Corp. - Class A common stock
 KURIU,KURIU|Alkuri Global Acquisition Corp. - Unit
+KURIW,KURIW|Alkuri Global Acquisition Corp. - Warrant
 KVHI,KVHI|KVH Industries, Inc. - Common Stock
 KVSA,KVSA|Khosla Ventures Acquisition Co. - Class A Common Stock
 KVSB,KVSB|Khosla Ventures Acquisition Co. II - Class A Common Stock
@@ -6962,6 +6968,7 @@ RILY,RILY|B. Riley Financial, Inc. - Common Stock
 RILYG,RILYG|B. Riley Financial, Inc. - 7.25% Senior Notes due 2027
 RILYH,RILYH|B. Riley Financial, Inc. - 7.375% Senior Notes Due 2023
 RILYI,RILYI|B. Riley Financial, Inc. - 6.875% Senior Notes due 2023
+RILYK,RILYK|B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026
 RILYL,RILYL|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
 RILYM,RILYM|B. Riley Financial, Inc. - 6.375% Senior Notes due 2025
 RILYN,RILYN|B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
@@ -7597,7 +7604,6 @@ UPST,UPST|Upstart Holdings, Inc. - Common stock
 UPWK,UPWK|Upwork Inc. - Common Stock
 URBN,URBN|Urban Outfitters, Inc. - Common Stock
 URGN,URGN|UroGen Pharma Ltd. - Ordinary Shares
-UROV,UROV|Urovant Sciences Ltd. - Common Shares
 USAK,USAK|USA Truck, Inc. - Common Stock
 USAP,USAP|Universal Stainless & Alloy Products, Inc. - Common Stock
 USAT,USAT|USA Technologies, Inc. - Common Stock
