@@ -360,7 +360,6 @@ AWR,AWR|American States Water Company Common Stock
 AWX,AWX|Avalon Holdings Corporation Common Stock
 AX,AX|Axos Financial, Inc. Common Stock
 AXL,AXL|American Axle & Manufacturing Holdings, Inc. Common Stock
-AXO,AXO|Axos Financial, Inc. 6.25% Subordinated Notes Due 2026
 AXP,AXP|American Express Company Common Stock
 AXR,AXR|AMREP Corporation Common Stock
 AXS,AXS|Axis Capital Holdings Limited Common Stock
@@ -454,9 +453,6 @@ BFLY.W,BFLY.W|Butterfly Network, Inc. Warrants
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
-BFT,BFT|Foley Trasimene Acquisition Corp. II Class A Common Stock
-BFT.U,BFT.U|Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-third of one warrant
-BFT.W,BFT.W|Foley Trasimene Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share
 BFY,BFY|BlackRock New York Municipal Income Trust II
 BFZ,BFZ|BlackRock California Municipal Income Trust
 BG,BG|Bunge Limited Bunge Limited
@@ -857,6 +853,7 @@ COR,COR|CoreSite Realty Corporation Common Stock
 CORR,CORR|CorEnergy Infrastructure Trust, Inc. Common Stock
 CORR$A,CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock
 COTY,COTY|Coty Inc. Class A Common Stock
+COUR,COUR|Coursera, Inc. Common Stock
 COW,COW|iPathA Series B Bloomberg Livestock Subindex Total Return ETN
 CP,CP|Canadian Pacific Railway Limited Common Stock
 CPA,CPA|Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock
@@ -2897,6 +2894,8 @@ PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 
 PSB$Y,PSB$Y|PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y
 PSB$Z,PSB$Z|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative Preferred Stock, Series Z , par value $0.01 per share
 PSF,PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock
+PSFE,PSFE|Paysafe Limited Common Shares
+PSFE.W,PSFE.W|Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share
 PSN,PSN|Parsons Corporation Common Stock
 PSO,PSO|Pearson, Plc Common Stock
 PSTG,PSTG|Pure Storage, Inc. Class A Common Stock
@@ -3306,7 +3305,6 @@ SSTK,SSTK|Shutterstock, Inc. Common Stock
 SSY,SSY|SunLink Health Systems, Inc. Common Stock
 ST,ST|Sensata Technologies Holding plc Ordinary Shares
 STAG,STAG|Stag Industrial, Inc. Common Stock
-STAG$C,STAG$C|Stag Industrial, Inc. 6.875% Series C Cumulative Redeemable Preferred Stock
 STAR,STAR|iStar Inc. Common Stock
 STAR$D,STAR$D|iStar Inc. Series D Cumulative Redeemable Preferred Stock
 STAR$G,STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock
@@ -3907,6 +3905,7 @@ ACGL,ACGL|Arch Capital Group Ltd. - Common Stock
 ACGLO,ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F
 ACGLP,ACGLP|Arch Capital Group Ltd. - Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs
 ACHC,ACHC|Acadia Healthcare Company, Inc. - Common Stock
+ACHL,ACHL|Achilles Therapeutics plc - American Depositary Shares
 ACHV,ACHV|Achieve Life Sciences, Inc.  - Common Shares
 ACIU,ACIU|AC Immune SA - Common Stock
 ACIW,ACIW|ACI Worldwide, Inc. - Common Stock
@@ -4599,7 +4598,6 @@ CGBD,CGBD|TCG BDC, Inc. - Common Stock
 CGC,CGC|Canopy Growth Corporation - Common Shares
 CGEM,CGEM|Cullinan Oncology, Inc. - Common Stock
 CGEN,CGEN|Compugen Ltd. - Ordinary Shares
-CGIX,CGIX|Cancer Genetics, Inc. - Common Stock
 CGNT,CGNT|Cognyte Software Ltd. - Ordinary Shares
 CGNX,CGNX|Cognex Corporation - Common Stock
 CGO,CGO|Calamos Global Total Return Fund - Common Stock
@@ -5275,6 +5273,7 @@ FRONU,FRONU|Frontier Acquisition Corp. - Units
 FRPH,FRPH|FRP Holdings, Inc. - Common Stock
 FRPT,FRPT|Freshpet, Inc. - Common Stock
 FRSGU,FRSGU|First Reserve Sustainable Growth Corp. - Unit
+FRST,FRST|Primis Financial Corp. - Common Stock
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRTA,FRTA|Forterra, Inc. - Common Stock
 FRWAU,FRWAU|PWP Forward Acquisition Corp. I - Units
@@ -6161,6 +6160,7 @@ MBIO,MBIO|Mustang Bio, Inc. - Common Stock
 MBNKP,MBNKP|Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F
 MBOT,MBOT|Microbot Medical Inc.  - Common Stock
 MBRX,MBRX|Moleculin Biotech, Inc. - Common Stock
+MBTCU,MBTCU|Nocturne Acquisition Corporation - Unit
 MBUU,MBUU|Malibu Boats, Inc. - Common Stock
 MBWM,MBWM|Mercantile Bank Corporation - Common Stock
 MCAD,MCAD|Mountain Crest Acquisition Corp. II - Common Stock
@@ -6975,7 +6975,6 @@ RILYN,RILYN|B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
 RILYO,RILYO|B. Riley Financial, Inc. - 6.75% Senior Notes due 2024
 RILYP,RILYP|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock
 RILYT,RILYT|B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
-RILYZ,RILYZ|B. Riley Financial, Inc. - 7.50% Senior Notes Due 2027
 RIOT,RIOT|Riot Blockchain, Inc - Common Stock
 RIVE,RIVE|Riverview Financial Corporation - Common Stock
 RKDA,RKDA|Arcadia Biosciences, Inc. - Common Stock
@@ -7232,7 +7231,6 @@ SOHU,SOHU|Sohu.com Limited  - American Depositary Shares
 SOLO,SOLO|Electrameccanica Vehicles Corp. Ltd. - Common Stock
 SOLOW,SOLOW|Electrameccanica Vehicles Corp. Ltd. - Warrants
 SOLY,SOLY|Soliton, Inc. - Common Stock
-SONA,SONA|Southern National Bancorp of Virginia, Inc. - Common Stock
 SONM,SONM|Sonim Technologies, Inc. - Common Stock
 SONN,SONN|Sonnet BioTherapeutics Holdings, Inc. - Common Stock
 SONO,SONO|Sonos, Inc. - Common Stock
@@ -7752,6 +7750,7 @@ VWTR,VWTR|Vidler Water Resources, Inc. - Common Stock
 VXRT,VXRT|Vaxart, Inc. - Common Stock
 VYGR,VYGR|Voyager Therapeutics, Inc. - Common Stock
 VYNE,VYNE|VYNE Therapeutics Inc. - Common Stock
+VYNT,VYNT|Vyant Bio, Inc. - Common Stock
 WABC,WABC|Westamerica Bancorporation - Common Stock
 WAFD,WAFD|Washington Federal, Inc. - Common Stock
 WAFDP,WAFDP|Washington Federal, Inc. - Depositary Shares

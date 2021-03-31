@@ -433,7 +433,6 @@ AWTM|Aware Ultra-Short Duration Enhanced Income ETF|P|AWTM|Y|100|N|AWTM
 AWX|Avalon Holdings Corporation Common Stock|A|AWX|N|100|N|AWX
 AX|Axos Financial, Inc. Common Stock|N|AX|N|100|N|AX
 AXL|American Axle & Manufacturing Holdings, Inc. Common Stock|N|AXL|N|100|N|AXL
-AXO|Axos Financial, Inc. 6.25% Subordinated Notes Due 2026|N|AXO|N|100|N|AXO
 AXP|American Express Company Common Stock|N|AXP|N|100|N|AXP
 AXR|AMREP Corporation Common Stock|N|AXR|N|100|N|AXR
 AXS|Axis Capital Holdings Limited Common Stock|N|AXS|N|100|N|AXS
@@ -559,9 +558,6 @@ BFOR|Barron's 400|P|BFOR|Y|100|N|BFOR
 BFS|Saul Centers, Inc. Common Stock|N|BFS|N|100|N|BFS
 BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock|N|BFSpD|N|100|N|BFS-D
 BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock|N|BFSpE|N|100|N|BFS-E
-BFT|Foley Trasimene Acquisition Corp. II Class A Common Stock|N|BFT|N|100|N|BFT
-BFT.U|Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-third of one warrant|N|BFT.U|N|100|N|BFT=
-BFT.W|Foley Trasimene Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share|N|BFT.WS|N|100|N|BFT+
 BFTR|BlackRock Future Innovators ETF|P|BFTR|Y|100|N|BFTR
 BFY|BlackRock New York Municipal Income Trust II|N|BFY|N|100|N|BFY
 BFZ|BlackRock California Municipal Income Trust|N|BFZ|N|100|N|BFZ
@@ -1064,6 +1060,7 @@ CORP|Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund|P|CORP|Y|1
 CORR|CorEnergy Infrastructure Trust, Inc. Common Stock|N|CORR|N|100|N|CORR
 CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock|N|CORRpA|N|100|N|CORR-A
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
+COUR|Coursera, Inc. Common Stock|N|COUR|N|100|N|COUR
 COW|iPathA Series B Bloomberg Livestock Subindex Total Return ETN|P|COW|N|100|N|COW
 COWZ|Pacer US Cash Cows 100 ETF|Z|COWZ|Y|100|N|COWZ
 CP|Canadian Pacific Railway Limited Common Stock|N|CP|N|100|N|CP
@@ -1355,6 +1352,7 @@ DM|Desktop Metal, Inc. Class A Common Stock|N|DM|N|100|N|DM
 DMAR|FT Cboe Vest U.S. Equity Deep Buffer ETF - March|Z|DMAR|Y|100|N|DMAR
 DMAY|FT Cboe Vest U.S. Equity Deep Buffer ETF - May|Z|DMAY|Y|100|N|DMAY
 DMB|BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock|N|DMB|N|100|N|DMB
+DMCY|Democracy International Fund|P|DMCY|Y|100|N|DMCY
 DMDV|AAM S&P Developed Markets High Dividend Value ETF|P|DMDV|Y|100|N|DMDV
 DMF|BNY Mellon Municipal Income Inc. Common Stock|A|DMF|N|100|N|DMF
 DMO|Western Asset Mortgage Opportunity Fund Inc. Common Stock|N|DMO|N|100|N|DMO
@@ -2967,6 +2965,7 @@ JGH|Nuveen Global High Income Fund Common Shares of Beneficial Interest|N|JGH|N|
 JGLD|Amplify Pure Junior Gold Miners ETF|P|JGLD|Y|100|N|JGLD
 JHAA|Nuveen Corporate Income 2023 Target Term Fund|N|JHAA|N|100|N|JHAA
 JHB|Nuveen Corporate Income November 2021 Target Term Fund|N|JHB|N|100|N|JHB
+JHCB|John Hancock Corporate Bond ETF|P|JHCB|Y|100|N|JHCB
 JHCS|John Hancock Multifactor Media and Communications ETF|P|JHCS|Y|100|N|JHCS
 JHEM|John Hancock Multifactor Emerging Markets ETF|P|JHEM|Y|100|N|JHEM
 JHG|Janus Henderson Group plc Ordinary Shares|N|JHG|N|100|N|JHG
@@ -4228,6 +4227,8 @@ PSCX|Pacer Swan SOS Conservative (December) ETF|Z|PSCX|Y|100|N|PSCX
 PSEP|Innovator ETFs Trust Innovator S&P 500 Power Buffer ETF - September|Z|PSEP|Y|100|N|PSEP
 PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock|N|PSF|N|100|N|PSF
 PSFD|Pacer Funds ETF|Z|PSFD|Y|100|N|PSFD
+PSFE|Paysafe Limited Common Shares|N|PSFE|N|100|N|PSFE
+PSFE.W|Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share|N|PSFE.WS|N|100|N|PSFE+
 PSFF|Pacer Swan SOS Fund of Funds ETF|Z|PSFF|Y|100|N|PSFF
 PSI|Invesco Dynamic Semiconductors ETF|P|PSI|Y|100|N|PSI
 PSJ|Invesco Dynamic Software ETF|P|PSJ|Y|100|N|PSJ
@@ -4954,7 +4955,6 @@ SSUS|Day Hagan/Ned Davis Research Smart Sector ETF|P|SSUS|Y|100|N|SSUS
 SSY|SunLink Health Systems, Inc. Common Stock|A|SSY|N|100|N|SSY
 ST|Sensata Technologies Holding plc Ordinary Shares|N|ST|N|100|N|ST
 STAG|Stag Industrial, Inc. Common Stock|N|STAG|N|100|N|STAG
-STAG$C|Stag Industrial, Inc. 6.875% Series C Cumulative Redeemable Preferred Stock|N|STAGpC|N|100|N|STAG-C
 STAR|iStar Inc. Common Stock|N|STAR|N|100|N|STAR
 STAR$D|iStar Inc. Series D Cumulative Redeemable Preferred Stock|N|STARpD|N|100|N|STAR-D
 STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock|N|STARpG|N|100|N|STAR-G
@@ -5850,4 +5850,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0330202114:01||||||
+File Creation Time: 0331202112:12||||||
