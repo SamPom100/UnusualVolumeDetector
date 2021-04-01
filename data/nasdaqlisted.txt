@@ -136,6 +136,7 @@ AGNCM|AGNC Investment Corp. - Depositary Shares rep 6.875% Series D Fixed-to-Flo
 AGNCN|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 AGNCO|AGNC Investment Corp. - Depositary Shares, each representing a 1/1,000th interest in a share of Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 AGNCP|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
+AGNG|Global X Aging Population ETF|G|N|N|100|Y|N
 AGRX|Agile Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 AGTC|Applied Genetic Technologies Corporation - Common Stock|G|N|N|100|N|N
 AGYS|Agilysys, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1271,6 +1272,7 @@ ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100|N|N
 ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100|N|N
 ELYS|Elys Game Technology, Corp.  - Common Stock|S|N|N|100|N|N
+EM|Smart Share Global Limited - American Depositary Shares|Q|N|N|100|N|N
 EMB|iShares J.P. Morgan USD Emerging Markets Bond ETF|G|N|N|100|Y|N
 EMCB|WisdomTree Emerging Markets Corporate Bond Fund|G|N|N|100|Y|N
 EMCF|Emclaire Financial Corp - Common Stock|S|N|N|100|N|N
@@ -1285,7 +1287,9 @@ ENFAU|890 5th Avenue Partners, Inc. - Unit|S|N|N|100|N|N
 ENFAW|890 5th Avenue Partners, Inc. - Warrant|S|N|N|100|N|N
 ENG|ENGlobal Corporation - Common Stock|S|N|N|100|N|N
 ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares|S|N|N|100|N|N
+ENNV|ECP Environmental Growth Opportunities Corp. - Class A Common Stock|S|N|N|100|N|N
 ENNVU|ECP Environmental Growth Opportunities Corp. - Unit|S|N|N|100|N|N
+ENNVW|ECP Environmental Growth Opportunities Corp. - Warrants|S|N|N|100|N|N
 ENOB|Enochian Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 ENPH|Enphase Energy, Inc. - Common Stock|G|N|N|100|N|N
 ENSG|The Ensign Group, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1363,7 +1367,9 @@ EVGN|Evogene Ltd. - Ordinary Shares|G|N|N|100|N|N
 EVK|Ever-Glory International Group, Inc. - Common Stock|G|N|N|100|N|N
 EVLMC|Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares|G|N|N|100|N|Y
 EVLO|Evelo Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
+EVOJ|Evo Acquisition Corp. - Class A Common stock|S|N|N|100|N|N
 EVOJU|Evo Acquisition Corp. - Unit|S|N|N|100|N|N
+EVOJW|Evo Acquisition Corp. - Warrant|S|N|N|100|N|N
 EVOK|Evoke Pharma, Inc. - Common Stock|S|N|N|100|N|N
 EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100|N|N
 EVOP|EVO Payments, Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -1416,7 +1422,6 @@ FBIZ|First Business Financial Services, Inc. - Common Stock|Q|N|N|100|N|N
 FBMS|The First Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FBNC|First Bancorp - Common Stock|Q|N|N|100|N|N
 FBRX|Forte Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
-FBSS|Fauquier Bankshares, Inc. - Common Stock|S|N|N|100|N|N
 FBZ|First Trust Brazil AlphaDEX Fund|G|N|N|100|Y|N
 FCA|First Trust China AlphaDEX Fund|G|N|N|100|Y|N
 FCAC|Falcon Capital Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -1702,8 +1707,10 @@ GHVI|Gores Holdings VI, Inc. - Class A Common Stock|S|N|N|100|N|N
 GHVIU|Gores Holdings VI, Inc. - Unit|S|N|N|100|N|N
 GHVIW|Gores Holdings VI, Inc. - Warrant|S|N|N|100|N|N
 GIFI|Gulf Island Fabrication, Inc. - Common Stock|Q|N|N|100|N|N
+GIG|GigCapital4, Inc. - Common stock|S|N|N|100|N|N
 GIGE|SoFi Gig Economy ETF|G|N|N|100|Y|N
 GIGGU|GigCapital4, Inc. - Unit|S|N|N|100|N|N
+GIGGW|GigCapital4, Inc. - Warrant|S|N|N|100|N|N
 GIGM|GigaMedia Limited - Ordinary Shares|S|N|N|100|N|N
 GIII|G-III Apparel Group, LTD. - Common Stock|Q|N|N|100|N|N
 GIIXU|Gores Holdings VIII, Inc. - Unit|S|N|N|100|N|N
@@ -2250,6 +2257,7 @@ KAIRW|Kairos Acquisition Corp. - Warrant|S|N|N|100|N|N
 KALA|Kala Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 KALU|Kaiser Aluminum Corporation - Common Stock|Q|N|N|100|N|N
 KALV|KalVista Pharmaceuticals, Inc. - Common Stock|G|N|D|100|N|N
+KARO|Karooooo Ltd. - Ordinary shares|S|N|N|100|N|N
 KBAL|Kimball International, Inc. - Class B Common Stock|Q|N|N|100|N|N
 KBNT|Kubient, Inc. - Common Stock|S|N|N|100|N|N
 KBNTW|Kubient, Inc. - Warrant|S|N|N|100|N|N
@@ -2454,7 +2462,6 @@ LMRKO|Landmark Infrastructure Partners LP - Preferred Units|G|N|N|100|N|N
 LMRKP|Landmark Infrastructure Partners LP - 8.00% Series A Cumulative Redeemable Perpetual Preferred Units|G|N|N|100|N|N
 LMST|Limestone Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 LNDC|Landec Corporation - Common Stock|Q|N|N|100|N|N
-LNGR|Global X Aging Population ETF|G|N|N|100|Y|N
 LNSR|LENSAR, Inc. - Common Stock|S|N|N|100|N|N
 LNT|Alliant Energy Corporation - Common Stock|Q|N|N|100|N|N
 LNTH|Lantheus Holdings, Inc. - Common Stock|G|N|N|100|N|N
@@ -2807,7 +2814,6 @@ NLOK|NortonLifeLock Inc. - Common Stock|Q|N|N|100|N|N
 NLSP|NLS Pharmaceutics Ltd. - Common Shares|S|N|N|100|N|N
 NLSPW|NLS Pharmaceutics Ltd. - Warrant|S|N|N|100|N|N
 NLTX|Neoleukin Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
-NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests|Q|N|N|100|N|N
 NMFC|New Mountain Finance Corporation - Common Stock|Q|N|N|100|N|N
 NMIH|NMI Holdings Inc - Common Stock|G|N|N|100|N|N
 NMMC|North Mountain Merger Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -2996,7 +3002,6 @@ OSTRU|Oyster Enterprises Acquisition Corp. - Unit|S|N|N|100|N|N
 OSTRW|Oyster Enterprises Acquisition Corp. - Warrant|S|N|N|100|N|N
 OSUR|OraSure Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 OSW|OneSpaWorld Holdings Limited - Common Shares|S|N|N|100|N|N
-OTEL|Otelco Inc. - Common Stock|S|N|N|100|N|N
 OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
 OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -4083,6 +4088,7 @@ UIHC|United Insurance Holdings Corp. - Common Stock|S|N|N|100|N|N
 UK|Ucommune International Ltd  - Ordinary Shares|S|N|N|100|N|N
 UKOMW|Ucommune International Ltd  - Warrant expiring 11/17/2025|S|N|N|100|N|N
 ULBI|Ultralife Corporation - Common Stock|G|N|N|100|N|N
+ULCC|Frontier Group Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ULH|Universal Logistics Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ULTA|Ulta Beauty, Inc. - Common Stock|Q|N|N|100|N|N
 UMBF|UMB Financial Corporation - Common Stock|Q|N|N|100|N|N
@@ -4443,4 +4449,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0331202112:12|||||||
+File Creation Time: 0401202112:12|||||||

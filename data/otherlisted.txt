@@ -279,6 +279,7 @@ APO|Apollo Global Management, Inc. Class A Common Stock|N|APO|N|100|N|APO
 APO$A|Apollo Global Management, Inc. 6.375% Series A Preferred Shares|N|APOpA|N|100|N|APO-A
 APO$B|Apollo Global Management, Inc 6.375% Series B Preferred Shares|N|APOpB|N|100|N|APO-B
 APRN|Blue Apron Holdings, Inc. Class A Common Stock|N|APRN|N|100|N|APRN
+APRZ|Trust TrueShares Structured Outcome (April) ETF|Z|APRZ|Y|100|N|APRZ
 APSG|Apollo Strategic Growth Capital Class A Ordinary Shares|N|APSG|N|100|N|APSG
 APSG.U|Apollo Strategic Growth Capital Units, each consisting of one Class A Ordinary Share and one-third Warrant|N|APSG.U|N|100|N|APSG=
 APSG.W|Apollo Strategic Growth Capital Warrants, each exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|APSG.WS|N|100|N|APSG+
@@ -761,7 +762,6 @@ BXG|Bluegreen Vacations Corporation Common Stock|N|BXG|N|100|N|BXG
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
 BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest|N|BXMX|N|100|N|BXMX
 BXP|Boston Properties, Inc. Common Stock|N|BXP|N|100|N|BXP
-BXP$B|Boston Properties, Inc. Depositary Shares, each representing 1/100th of a share of the Issuer's 5.25% Sockeries B Cumulative Redeemable Preferred St|N|BXPpB|N|100|N|BXP-B
 BXS|BancorpSouth Bank Common Stock|N|BXS|N|100|N|BXS
 BXS$A|BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock|N|BXSpA|N|100|N|BXS-A
 BY|Byline Bancorp, Inc. Common Stock|N|BY|N|100|N|BY
@@ -1051,6 +1051,7 @@ COHN|Cohen & Company Inc.|A|COHN|N|100|N|COHN
 COLD|Americold Realty Trust Common Shares|N|COLD|N|100|N|COLD
 COM|Direxion Auspice Broad Commodity Strategy ETF|P|COM|Y|100|N|COM
 COMB|GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF|P|COMB|Y|100|N|COMB
+COMP|Compass, Inc. Class A Common Stock|N|COMP|N|100|N|COMP
 COO|The Cooper Companies, Inc. Common Stock|N|COO|N|100|N|COO
 COP|ConocoPhillips Common Stock|N|COP|N|100|N|COP
 COPX|Global X Copper Miners ETF|P|COPX|Y|100|N|COPX
@@ -1483,6 +1484,7 @@ EAOA|iShares ESG Aware Aggressive Allocation ETF|Z|EAOA|Y|100|N|EAOA
 EAOK|iShares ESG Aware Conservative Allocation ETF|Z|EAOK|Y|100|N|EAOK
 EAOM|iShares ESG Aware Moderate Allocation ETF|Z|EAOM|Y|100|N|EAOM
 EAOR|iShares ESG Aware Growth Allocation ETF|Z|EAOR|Y|100|N|EAOR
+EAPR|Innovator MSCI Emerging Markets Power Buffer ETF April|P|EAPR|Y|100|N|EAPR
 EARN|Ellington Residential Mortgage REIT Common Shares of Beneficial Interest|N|EARN|N|100|N|EARN
 EASG|Xtrackers MSCI EAFE ESG Leaders Equity ETF|P|EASG|Y|100|N|EASG
 EAT|Brinker International, Inc. Common Stock|N|EAT|N|100|N|EAT
@@ -2629,6 +2631,7 @@ IAG|Iamgold Corporation Ordinary Shares|N|IAG|N|100|N|IAG
 IAGG|iShares International Aggregate Bond Fund|Z|IAGG|Y|100|N|IAGG
 IAI|iShares U.S. Broker-Dealers & Securities Exchanges ETF|P|IAI|Y|100|N|IAI
 IAK|iShares U.S. Insurance ETF|P|IAK|Y|100|N|IAK
+IAPR|Innovator MSCI EAFE Power Buffer ETF April|P|IAPR|Y|100|N|IAPR
 IAT|iShares U.S. Regional Banks ETF|P|IAT|Y|100|N|IAT
 IAU|ishares Gold Trust|P|IAU|Y|100|N|IAU
 IAUF|iShares Gold Strategy ETF|Z|IAUF|Y|100|N|IAUF
@@ -2745,7 +2748,6 @@ IHY|VanEck Vectors International High Yield Bond|P|IHY|Y|100|N|IHY
 IIAC|Investindustrial Acquisition Corp. Class A Ordinary Shares|N|IIAC|N|100|N|IIAC
 IIAC.U|Investindustrial Acquisition Corp. Unit|N|IIAC.U|N|100|N|IIAC=
 IIAC.W|Investindustrial Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|IIAC.WS|N|100|N|IIAC+
-IID|Voya International High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IID|N|100|N|IID
 IIF|Morgan Stanley India Investment Fund, Inc. Common Stock|N|IIF|N|100|N|IIF
 IIGD|Invesco Investment Grade Defensive ETF|P|IIGD|Y|100|N|IIGD
 IIGV|Invesco Investment Grade Value ETF|P|IIGV|Y|100|N|IIGV
@@ -4088,7 +4090,9 @@ PIAI|Prime Impact Acquisition I Class A Ordinary Shares|N|PIAI|N|100|N|PIAI
 PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share|N|PIAI.U|N|100|N|PIAI=
 PIAI.W|Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PIAI.WS|N|100|N|PIAI+
 PICB|Invesco International Corporate Bond ETF|P|PICB|Y|100|N|PICB
+PICC|Pivotal Investment Corporation III Class A Common Stock|N|PICC|N|100|N|PICC
 PICC.U|Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|PICC.U|N|100|N|PICC=
+PICC.W|Pivotal Investment Corporation III Redeemable Warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share|N|PICC.WS|N|100|N|PICC+
 PICK|iShares MSCI Global Select Metals & Mining Producers Fund|Z|PICK|Y|100|N|PICK
 PIFI|ClearShares Piton Intermediate Fixed income ETF|P|PIFI|Y|100|N|PIFI
 PII|Polaris Inc. Common Stock|N|PII|N|100|N|PII
@@ -4223,6 +4227,7 @@ PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Sh
 PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X|N|PSBpX|N|100|N|PSB-X
 PSB$Y|PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y|N|PSBpY|N|100|N|PSB-Y
 PSB$Z|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative Preferred Stock, Series Z , par value $0.01 per share|N|PSBpZ|N|100|N|PSB-Z
+PSCW|Pacer Swan SOS Conservative (April) ETF|Z|PSCW|Y|100|N|PSCW
 PSCX|Pacer Swan SOS Conservative (December) ETF|Z|PSCX|Y|100|N|PSCX
 PSEP|Innovator ETFs Trust Innovator S&P 500 Power Buffer ETF - September|Z|PSEP|Y|100|N|PSEP
 PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock|N|PSF|N|100|N|PSF
@@ -4230,6 +4235,7 @@ PSFD|Pacer Funds ETF|Z|PSFD|Y|100|N|PSFD
 PSFE|Paysafe Limited Common Shares|N|PSFE|N|100|N|PSFE
 PSFE.W|Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share|N|PSFE.WS|N|100|N|PSFE+
 PSFF|Pacer Swan SOS Fund of Funds ETF|Z|PSFF|Y|100|N|PSFF
+PSFM|Pacer Swan SOS Flex (April) ETF|Z|PSFM|Y|100|N|PSFM
 PSI|Invesco Dynamic Semiconductors ETF|P|PSI|Y|100|N|PSI
 PSJ|Invesco Dynamic Software ETF|P|PSJ|Y|100|N|PSJ
 PSK|SPDR Wells Fargo Preferred Stock ETF|P|PSK|Y|100|N|PSK
@@ -4239,6 +4245,7 @@ PSMC|Invesco Conservative Multi-Asset Allocation ETF|Z|PSMC|Y|100|N|PSMC
 PSMD|Pacer Swan SOS Moderate (December) ETF|Z|PSMD|Y|100|N|PSMD
 PSMG|Invesco Growth Multi-Asset Allocation ETF|Z|PSMG|Y|100|N|PSMG
 PSMM|Invesco Moderately Conservative Multi-Asset Allocation ETF|Z|PSMM|Y|100|N|PSMM
+PSMR|Pacer Swan SOS Moderate (April) ETF|Z|PSMR|Y|100|N|PSMR
 PSN|Parsons Corporation Common Stock|N|PSN|N|100|N|PSN
 PSO|Pearson, Plc Common Stock|N|PSO|N|100|N|PSO
 PSP|Invesco Global Listed Private Equity ETF|P|PSP|Y|100|N|PSP
@@ -4340,6 +4347,7 @@ QS|QuantumScape Corporation Class A Common Stock|N|QS|N|100|N|QS
 QS.W|QuantumScape Corporation Warrants|N|QS.WS|N|100|N|QS+
 QSR|Restaurant Brands International Inc. Common Shares|N|QSR|N|100|N|QSR
 QSY|WisdomTree U.S. Quality Shareholder Yield Fund|P|QSY|Y|100|N|QSY
+QTAP|Innovator Growth Accelerated Plus ETF - April|Z|QTAP|Y|100|N|QTAP
 QTS|QTS Realty Trust, Inc. Class A Common Stock|N|QTS|N|100|N|QTS
 QTS$A|QTS Realty Trust, Inc. 7.125% Series A Cumulative Redeemable Perpetual Preferred Stock|N|QTSpA|N|100|N|QTS-A
 QTS$B|QTS Realty Trust, Inc. 6.50% Series B Cumulative Convertible Perpetual Preferred Stock|N|QTSpB|N|100|N|QTS-B
@@ -4642,6 +4650,7 @@ SCHV|Schwab U.S. Large-Cap Value ETF|P|SCHV|Y|100|N|SCHV
 SCHW|Charles Schwab Corporation (The) Common Stock|N|SCHW|N|100|N|SCHW
 SCHW$C|The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 6% Non-Cumulative Perpetual Preferred Stock, Series C|N|SCHWpC|N|100|N|SCHW-C
 SCHW$D|The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock, Series D|N|SCHWpD|N|100|N|SCHW-D
+SCHW$J|The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.450% Non-Cumulative Perpetual Preferred Stock, Series J|N|SCHWpJ|N|100|N|SCHW-J
 SCHX|Schwab U.S. Large-Cap ETF|P|SCHX|Y|100|N|SCHX
 SCHZ|Schwab US Aggregate Bond ETF|P|SCHZ|Y|100|N|SCHZ
 SCI|Service Corporation International Common Stock|N|SCI|N|100|N|SCI
@@ -4806,7 +4815,6 @@ SMTS|Sierra Metals Inc. Common Stock|A|SMTS|N|100|N|SMTS
 SNA|Snap-On Incorporated Common Stock|N|SNA|N|100|N|SNA
 SNAP|Snap Inc. Class A Common Stock|N|SNAP|N|100|N|SNAP
 SNDR|Schneider National, Inc. Common Stock|N|SNDR|N|100|N|SNDR
-SNE|Sony Corporation Common Stock|N|SNE|N|100|N|SNE
 SNII.U|Supernova Partners Acquisition Company II, Ltd. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|SNII.U|N|100|N|SNII=
 SNMP|Evolve Transition Infrastructure LP Common Stock|A|SNMP|N|100|N|SNMP
 SNN|Smith & Nephew SNATS, Inc. Common Stock|N|SNN|N|100|N|SNN
@@ -4834,6 +4842,7 @@ SOJE|Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due Oct
 SOL|Renesola Ltd. American Depsitary Shares (Each representing 10 shares)|N|SOL|N|100|N|SOL
 SOLN|Southern Company (The) 2019 Series A Corporate Units|N|SOLN|N|100|N|SOLN
 SON|Sonoco Products Company Common Stock|N|SON|N|100|N|SON
+SONY|Sony Group Corporation American Depositary Shares |N|SONY|N|100|N|SONY
 SOR|Source Capital, Inc. Common Stock|N|SOR|N|100|N|SOR
 SOS|SOS Limited American Depositary Shares|N|SOS|N|100|N|SOS
 SOXL|Direxion Daily Semiconductor Bull 3x Shares|P|SOXL|Y|100|N|SOXL
@@ -4841,7 +4850,9 @@ SOXS|Direxion Daily Semiconductor Bear 3x Shares|P|SOXS|Y|100|N|SOXS
 SOYB|Teucrium Soybean Fund ETV|P|SOYB|Y|100|N|SOYB
 SPAB|SPDR Portfolio Aggregate Bond ETF|P|SPAB|Y|100|N|SPAB
 SPAK|Defiance Next Gen SPAC Derived ETF|P|SPAK|Y|100|N|SPAK
+SPAQ|Spartan Acquisition Corp. III Class A Common Stock|N|SPAQ|N|100|N|SPAQ
 SPAQ.U|Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fourth of one warrant|N|SPAQ.U|N|100|N|SPAQ=
+SPAQ.W|Spartan Acquisition Corp. III Warrants|N|SPAQ.WS|N|100|N|SPAQ+
 SPB|Spectrum Brands Holdings, Inc. Common Stock|N|SPB|N|100|N|SPB
 SPBO|SPDR Portfolio Corporate Bond ETF|P|SPBO|Y|100|N|SPBO
 SPCE|Virgin Galactic Holdings, Inc. Common Stock|N|SPCE|N|100|N|SPCE
@@ -4923,7 +4934,7 @@ SPYX|SPDR S&P 500 Fossil Fuel Reserves Free ETF|P|SPYX|Y|100|N|SPYX
 SQ|Square, Inc. Class A Common Stock|N|SQ|N|100|N|SQ
 SQEW|LeaderShares Equity Skew ETF|P|SQEW|Y|100|N|SQEW
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
-SQM.V|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) When Issued|N|SQMrw|N|100|N|SQM^#
+SQM.R|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) |N|SQMr|N|100|N|SQM^
 SQNS|Sequans Communications S.A. American Depositary Shares|N|SQNS|N|100|N|SQNS
 SQZ|SQZ Biotechnologies Company Common Stock|N|SQZ|N|100|N|SQZ
 SR|Spire Inc. Common Stock|N|SR|N|100|N|SR
@@ -5276,6 +5287,7 @@ TV|Grupo Televisa S.A. Common Stock|N|TV|N|100|N|TV
 TVC|Tennessee Valley Authority Common Stock|N|TVC|N|100|N|TVC
 TVE|Tennessee Valley Authority|N|TVE|N|100|N|TVE
 TWI|Titan International, Inc. (DE) Common Stock|N|TWI|N|100|N|TWI
+TWIO|Spinnaker ETF Series Trajan Wealth Income Opportunities ETF|P|TWIO|Y|100|N|TWIO
 TWLO|Twilio Inc. Class A Common Stock|N|TWLO|N|100|N|TWLO
 TWM|ProShares UltraShort Russell2000|P|TWM|Y|100|N|TWM
 TWN|Taiwan Fund, Inc. (The) Common Stock|N|TWN|N|100|N|TWN
@@ -5733,11 +5745,15 @@ WY|Weyerhaeuser Company Common Stock|N|WY|N|100|N|WY
 WYY|WidePoint Corporation Common Stock|A|WYY|N|100|N|WYY
 X|United States Steel Corporation Common Stock|N|X|N|100|N|X
 XAR|SPDR S&P Aerospace & Defense ETF|P|XAR|Y|100|N|XAR
+XBAP|Innovator U.S. Equity Accelerated 9 Buffer ETF - April|Z|XBAP|Y|100|N|XBAP
 XBI|SPDR Series Trust  SPDR S&P Biotech ETF|P|XBI|Y|100|N|XBI
 XBUY|Amplify International Online Retail ETF|P|XBUY|Y|100|N|XBUY
 XCEM|Columbia EM Core ex-China ETF|P|XCEM|Y|100|N|XCEM
+XDAP|Innovator U.S. Equity Accelerated ETF - April|Z|XDAP|Y|100|N|XDAP
 XDAT|Franklin Exponential Data ETF|Z|XDAT|Y|100|N|XDAT
 XDIV|U.S. Equity Ex-Dividend Fund Series 2027 Shares|P|XDIV|Y|100|N|XDIV
+XDQQ|Innovator Growth Accelerated ETF - Quarterly|Z|XDQQ|Y|100|N|XDQQ
+XDSQ|Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF - Quarterly|Z|XDSQ|Y|100|N|XDSQ
 XEC|Cimarex Energy Co Common Stock|N|XEC|N|100|N|XEC
 XES|SPDR Series Trust SPDR S&P Oil & Gas Equipment & Services ETF|P|XES|Y|100|N|XES
 XFLT|XAI Octagon Floating Rate & Alternative Income Term Trust Common Shares of Beneficial Interest|N|XFLT|N|100|N|XFLT
@@ -5792,6 +5808,7 @@ XSMO|Invesco S&P SmallCap Momentum ETF|P|XSMO|Y|100|N|XSMO
 XSOE|WisdomTree Emerging Markets Ex-State Owned Enterprises Fund|P|XSOE|Y|100|N|XSOE
 XSVM|Invesco S&P SmallCap Value with Momentum ETF|P|XSVM|Y|100|N|XSVM
 XSW|SPDR S&P Software & Services ETF|P|XSW|Y|100|N|XSW
+XTAP|Innovator U.S. Equity Accelerated Plus ETF - April|Z|XTAP|Y|100|N|XTAP
 XTL|SPDR S&P Telecom ETF|P|XTL|Y|100|N|XTL
 XTN|SPDR S&P Transportation ETF|P|XTN|Y|100|N|XTN
 XTNT|Xtant Medical Holdings, Inc. Common Stock|A|XTNT|N|100|N|XTNT
@@ -5850,4 +5867,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0331202112:12||||||
+File Creation Time: 0401202112:12||||||

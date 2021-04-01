@@ -604,7 +604,6 @@ BXG,BXG|Bluegreen Vacations Corporation Common Stock
 BXMT,BXMT|Blackstone Mortgage Trust, Inc. Common Stock
 BXMX,BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest
 BXP,BXP|Boston Properties, Inc. Common Stock
-BXP$B,BXP$B|Boston Properties, Inc. Depositary Shares, each representing 1/100th of a share of the Issuer's 5.25% Sockeries B Cumulative Redeemable Preferred St
 BXS,BXS|BancorpSouth Bank Common Stock
 BXS$A,BXS$A|BancorpSouth Bank 5.50% Series A Non-Cumulative Perpetual Preferred Stock
 BY,BY|Byline Bancorp, Inc. Common Stock
@@ -847,6 +846,7 @@ COF$K,COF$K|Capital One Financial Corporation Depositary Shares, Each Representi
 COG,COG|Cabot Oil & Gas Corporation Common Stock
 COHN,COHN|Cohen & Company Inc.
 COLD,COLD|Americold Realty Trust Common Shares
+COMP,COMP|Compass, Inc. Class A Common Stock
 COO,COO|The Cooper Companies, Inc. Common Stock
 COP,COP|ConocoPhillips Common Stock
 COR,COR|CoreSite Realty Corporation Common Stock
@@ -1864,7 +1864,6 @@ IHTA,IHTA|Invesco High Income 2024 Target Term Fund Common Shares of Beneficial 
 IIAC,IIAC|Investindustrial Acquisition Corp. Class A Ordinary Shares
 IIAC.U,IIAC.U|Investindustrial Acquisition Corp. Unit
 IIAC.W,IIAC.W|Investindustrial Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
-IID,IID|Voya International High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IIF,IIF|Morgan Stanley India Investment Fund, Inc. Common Stock
 IIIN,IIIN|Insteel Industries, Inc. Common Stock
 IIM,IIM|Invesco Value Municipal Income Trust Common Stock
@@ -2784,7 +2783,9 @@ PHX,PHX|PHX Minerals Inc. Common Stock
 PIAI,PIAI|Prime Impact Acquisition I Class A Ordinary Shares
 PIAI.U,PIAI.U|Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share
 PIAI.W,PIAI.W|Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+PICC,PICC|Pivotal Investment Corporation III Class A Common Stock
 PICC.U,PICC.U|Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
+PICC.W,PICC.W|Pivotal Investment Corporation III Redeemable Warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share
 PII,PII|Polaris Inc. Common Stock
 PIM,PIM|Putnam Master Intermediate Income Trust Common Stock
 PINE,PINE|Alpine Income Property Trust, Inc. Common Stock
@@ -3131,6 +3132,7 @@ SCE$L,SCE$L|SCE TRUST VI
 SCHW,SCHW|Charles Schwab Corporation (The) Common Stock
 SCHW$C,SCHW$C|The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 6% Non-Cumulative Perpetual Preferred Stock, Series C
 SCHW$D,SCHW$D|The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock, Series D
+SCHW$J,SCHW$J|The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.450% Non-Cumulative Perpetual Preferred Stock, Series J
 SCI,SCI|Service Corporation International Common Stock
 SCL,SCL|Stepan Company Common Stock
 SCM,SCM|Stellus Capital Investment Corporation Common Stock
@@ -3225,7 +3227,6 @@ SMTS,SMTS|Sierra Metals Inc. Common Stock
 SNA,SNA|Snap-On Incorporated Common Stock
 SNAP,SNAP|Snap Inc. Class A Common Stock
 SNDR,SNDR|Schneider National, Inc. Common Stock
-SNE,SNE|Sony Corporation Common Stock
 SNII.U,SNII.U|Supernova Partners Acquisition Company II, Ltd. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 SNMP,SNMP|Evolve Transition Infrastructure LP Common Stock
 SNN,SNN|Smith & Nephew SNATS, Inc. Common Stock
@@ -3252,9 +3253,12 @@ SOJE,SOJE|Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes du
 SOL,SOL|Renesola Ltd. American Depsitary Shares (Each representing 10 shares)
 SOLN,SOLN|Southern Company (The) 2019 Series A Corporate Units
 SON,SON|Sonoco Products Company Common Stock
+SONY,SONY|Sony Group Corporation American Depositary Shares 
 SOR,SOR|Source Capital, Inc. Common Stock
 SOS,SOS|SOS Limited American Depositary Shares
+SPAQ,SPAQ|Spartan Acquisition Corp. III Class A Common Stock
 SPAQ.U,SPAQ.U|Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fourth of one warrant
+SPAQ.W,SPAQ.W|Spartan Acquisition Corp. III Warrants
 SPB,SPB|Spectrum Brands Holdings, Inc. Common Stock
 SPCE,SPCE|Virgin Galactic Holdings, Inc. Common Stock
 SPE,SPE|Special Opportunities Fund, Inc Common Stock
@@ -3282,7 +3286,7 @@ SPXC,SPXC|SPX Corporation Common Stock
 SPXX,SPXX|Nuveen S&P 500 Dynamic Overwrite Fund
 SQ,SQ|Square, Inc. Class A Common Stock
 SQM,SQM|Sociedad Quimica y Minera S.A. Common Stock
-SQM.V,SQM.V|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) When Issued
+SQM.R,SQM.R|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) 
 SQNS,SQNS|Sequans Communications S.A. American Depositary Shares
 SQZ,SQZ|SQZ Biotechnologies Company Common Stock
 SR,SR|Spire Inc. Common Stock
@@ -5028,6 +5032,7 @@ ELOX,ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock
 ELSE,ELSE|Electro-Sensors, Inc. - Common Stock
 ELTK,ELTK|Eltek Ltd. - Ordinary Shares
 ELYS,ELYS|Elys Game Technology, Corp.  - Common Stock
+EM,EM|Smart Share Global Limited - American Depositary Shares
 EMCF,EMCF|Emclaire Financial Corp - Common Stock
 EMKR,EMKR|EMCORE Corporation - Common Stock
 EML,EML|Eastern Company (The) - Common Stock
@@ -5037,7 +5042,9 @@ ENFAU,ENFAU|890 5th Avenue Partners, Inc. - Unit
 ENFAW,ENFAW|890 5th Avenue Partners, Inc. - Warrant
 ENG,ENG|ENGlobal Corporation - Common Stock
 ENLV,ENLV|Enlivex Therapeutics Ltd. - Ordinary Shares
+ENNV,ENNV|ECP Environmental Growth Opportunities Corp. - Class A Common Stock
 ENNVU,ENNVU|ECP Environmental Growth Opportunities Corp. - Unit
+ENNVW,ENNVW|ECP Environmental Growth Opportunities Corp. - Warrants
 ENOB,ENOB|Enochian Biosciences, Inc. - Common Stock
 ENPH,ENPH|Enphase Energy, Inc. - Common Stock
 ENSG,ENSG|The Ensign Group, Inc. - Common Stock
@@ -5108,7 +5115,9 @@ EVGN,EVGN|Evogene Ltd. - Ordinary Shares
 EVK,EVK|Ever-Glory International Group, Inc. - Common Stock
 EVLMC,EVLMC|Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares
 EVLO,EVLO|Evelo Biosciences, Inc. - Common Stock
+EVOJ,EVOJ|Evo Acquisition Corp. - Class A Common stock
 EVOJU,EVOJU|Evo Acquisition Corp. - Unit
+EVOJW,EVOJW|Evo Acquisition Corp. - Warrant
 EVOK,EVOK|Evoke Pharma, Inc. - Common Stock
 EVOL,EVOL|Evolving Systems, Inc. - Common Stock
 EVOP,EVOP|EVO Payments, Inc. - Class A Common Stock
@@ -5153,7 +5162,6 @@ FBIZ,FBIZ|First Business Financial Services, Inc. - Common Stock
 FBMS,FBMS|The First Bancshares, Inc. - Common Stock
 FBNC,FBNC|First Bancorp - Common Stock
 FBRX,FBRX|Forte Biosciences, Inc.  - Common Stock
-FBSS,FBSS|Fauquier Bankshares, Inc. - Common Stock
 FCAC,FCAC|Falcon Capital Acquisition Corp. - Class A Common Stock
 FCACU,FCACU|Falcon Capital Acquisition Corp. - Unit
 FCACW,FCACW|Falcon Capital Acquisition Corp. - Warrant
@@ -5384,7 +5392,9 @@ GHVI,GHVI|Gores Holdings VI, Inc. - Class A Common Stock
 GHVIU,GHVIU|Gores Holdings VI, Inc. - Unit
 GHVIW,GHVIW|Gores Holdings VI, Inc. - Warrant
 GIFI,GIFI|Gulf Island Fabrication, Inc. - Common Stock
+GIG,GIG|GigCapital4, Inc. - Common stock
 GIGGU,GIGGU|GigCapital4, Inc. - Unit
+GIGGW,GIGGW|GigCapital4, Inc. - Warrant
 GIGM,GIGM|GigaMedia Limited - Ordinary Shares
 GIII,GIII|G-III Apparel Group, LTD. - Common Stock
 GIIXU,GIIXU|Gores Holdings VIII, Inc. - Unit
@@ -5877,6 +5887,7 @@ KAIRW,KAIRW|Kairos Acquisition Corp. - Warrant
 KALA,KALA|Kala Pharmaceuticals, Inc. - Common Stock
 KALU,KALU|Kaiser Aluminum Corporation - Common Stock
 KALV,KALV|KalVista Pharmaceuticals, Inc. - Common Stock
+KARO,KARO|Karooooo Ltd. - Ordinary shares
 KBAL,KBAL|Kimball International, Inc. - Class B Common Stock
 KBNT,KBNT|Kubient, Inc. - Common Stock
 KBNTW,KBNTW|Kubient, Inc. - Warrant
@@ -6414,7 +6425,6 @@ NLOK,NLOK|NortonLifeLock Inc. - Common Stock
 NLSP,NLSP|NLS Pharmaceutics Ltd. - Common Shares
 NLSPW,NLSPW|NLS Pharmaceutics Ltd. - Warrant
 NLTX,NLTX|Neoleukin Therapeutics, Inc. - Common Stock
-NMCI,NMCI|Navios Maritime Containers L.P. - Common units representing limited partner interests
 NMFC,NMFC|New Mountain Finance Corporation - Common Stock
 NMIH,NMIH|NMI Holdings Inc - Common Stock
 NMMC,NMMC|North Mountain Merger Corp. - Class A Common Stock
@@ -6600,7 +6610,6 @@ OSTRU,OSTRU|Oyster Enterprises Acquisition Corp. - Unit
 OSTRW,OSTRW|Oyster Enterprises Acquisition Corp. - Warrant
 OSUR,OSUR|OraSure Technologies, Inc. - Common Stock
 OSW,OSW|OneSpaWorld Holdings Limited - Common Shares
-OTEL,OTEL|Otelco Inc. - Common Stock
 OTEX,OTEX|Open Text Corporation - Common Shares
 OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
@@ -7586,6 +7595,7 @@ UIHC,UIHC|United Insurance Holdings Corp. - Common Stock
 UK,UK|Ucommune International Ltd  - Ordinary Shares
 UKOMW,UKOMW|Ucommune International Ltd  - Warrant expiring 11/17/2025
 ULBI,ULBI|Ultralife Corporation - Common Stock
+ULCC,ULCC|Frontier Group Holdings, Inc. - Common Stock
 ULH,ULH|Universal Logistics Holdings, Inc. - Common Stock
 ULTA,ULTA|Ulta Beauty, Inc. - Common Stock
 UMBF,UMBF|UMB Financial Corporation - Common Stock
