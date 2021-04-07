@@ -1080,7 +1080,6 @@ DMYI.U,DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share
 DMYI.W,DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share
 DMYQ.U,DMYQ.U|dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 DNB,DNB|Dun & Bradstreet Holdings, Inc. Common Stock
-DNK,DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares
 DNMR,DNMR|Danimer Scientific, Inc. Common Stock
 DNMR.W,DNMR.W|Danimer Scientific, Inc. Redeemable Warrants
 DNN,DNN|Denison Mines Corp Ordinary Shares (Canada)
@@ -1804,6 +1803,7 @@ HT$E,HT$E|Hersha Hospitality Trust 6.50% Series E Cumulative Redeemable Preferre
 HTA,HTA|Healthcare Trust of America, Inc. Class A Common Stock
 HTD,HTD|John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
 HTFA,HTFA|Horizon Technology Finance Corporation 6.25% Notes due 2022
+HTFB,HTFB|Horizon Technology Finance Corporation 4.875% Notes due 2026
 HTGC,HTGC|Hercules Capital, Inc. Common Stock
 HTH,HTH|Hilltop Holdings Inc.
 HTPA,HTPA|Highland Transcend Partners I Corp. Class A Ordinary Shares
@@ -3201,7 +3201,6 @@ SILV,SILV|SilverCrest Metals Inc. Common Shares
 SIM,SIM|Grupo Simec, S.A.B. de C.V. American Depositary Shares
 SITC,SITC|SITE Centers Corp. Common Stock
 SITC$A,SITC$A|SITE Centers Corp. 6.375% Class A Preferred Shares
-SITC$K,SITC$K|SITE Centers Corp. DEPOSITARY SH REPSTG 1/20TH PDF CL K % (United States)
 SITE,SITE|SiteOne Landscape Supply, Inc. Common Stock
 SIX,SIX|Six Flags Entertainment Corporation New Common Stock
 SJI,SJI|South Jersey Industries, Inc. Common Stock
@@ -4221,6 +4220,8 @@ ASRV,ASRV|AmeriServ Financial Inc. - Common Stock
 ASRVP,ASRVP|AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A
 ASTC,ASTC|Astrotech Corporation - Common Stock
 ASTE,ASTE|Astec Industries, Inc. - Common Stock
+ASTS,ASTS|AST SpaceMobile, Inc. - Class A Common Stock
+ASTSW,ASTSW|AST SpaceMobile, Inc. - Warrant
 ASUR,ASUR|Asure Software Inc - Common Stock
 ASYS,ASYS|Amtech Systems, Inc. - Common Stock
 ATAX,ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
@@ -4704,6 +4705,7 @@ CMLF,CMLF|CM Life Sciences, Inc. - Class A Common Stock
 CMLFU,CMLFU|CM Life Sciences, Inc. - Unit
 CMLFW,CMLFW|CM Life Sciences, Inc. - Warrant
 CMLS,CMLS|Cumulus Media Inc. - Class A Common Stock
+CMLTU,CMLTU|CM Life Sciences III Inc. - Unit
 CMMB,CMMB|Chemomab Therapeutics Ltd.  - American Depositary Shares
 CMPI,CMPI|Checkmate Pharmaceuticals, Inc. - Common Stock
 CMPR,CMPR|Cimpress plc - Ordinary Shares
@@ -6158,7 +6160,9 @@ LYTS,LYTS|LSI Industries Inc. - Common Stock
 MAAC,MAAC|Montes Archimedes Acquisition Corp. - Class A Common Stock
 MAACU,MAACU|Montes Archimedes Acquisition Corp. - Unit
 MAACW,MAACW|Montes Archimedes Acquisition Corp. - Warrant
+MACA,MACA|Moringa Acquisition Corp - Class A Ordinary Shares
 MACAU,MACAU|Moringa Acquisition Corp - Units
+MACAW,MACAW|Moringa Acquisition Corp - Warrant
 MACK,MACK|Merrimack Pharmaceuticals, Inc. - Common Stock
 MACQU,MACQU|MCAP Acquisition Corporation - Unit
 MACU,MACU|Mallard Acquisition Corp. - Common Stock
@@ -6328,7 +6332,6 @@ MRUS,MRUS|Merus N.V. - Common Shares
 MRVI,MRVI|Maravai LifeSciences Holdings, Inc. - Class A common stock
 MRVL,MRVL|Marvell Technology Group Ltd. - Common Stock
 MSAC,MSAC|Medicus Sciences Acquisition Corp. - Class A Ordinary Share
-MSACU,MSACU|Medicus Sciences Acquisition Corp. - Unit
 MSACW,MSACW|Medicus Sciences Acquisition Corp. - Warrant
 MSBI,MSBI|Midland States Bancorp, Inc. - Common Stock
 MSDAU,MSDAU|MSD Acquisition Corp. - Unit
@@ -6461,9 +6464,6 @@ NODK,NODK|NI Holdings, Inc. - Common Stock
 NOTV,NOTV|Inotiv, Inc. - Common Stock
 NOVN,NOVN|Novan, Inc. - Common Stock
 NOVT,NOVT|Novanta Inc. - Common Shares
-NPA,NPA|New Providence Acquisition Corp. - Class A Common Stock
-NPAUU,NPAUU|New Providence Acquisition Corp. - Unit
-NPAWW,NPAWW|New Providence Acquisition Corp. - Warrant
 NRAC,NRAC|Noble Rock Acquisition Corporation - Class A Ordinary share
 NRACU,NRACU|Noble Rock Acquisition Corporation - Unit
 NRACW,NRACW|Noble Rock Acquisition Corporation - Warrant
@@ -6668,6 +6668,7 @@ PAHC,PAHC|Phibro Animal Health Corporation - Class A Common Stock
 PAIC,PAIC|Petra Acquisition, Inc. - Common Stock
 PAICU,PAICU|Petra Acquisition, Inc. - Units
 PAICW,PAICW|Petra Acquisition, Inc. - Warrant
+PANA,PANA|Panacea Acquisition Corp. II - Class A Ordinary Shares
 PANL,PANL|Pangaea Logistics Solutions Ltd. - Common Stock
 PAQC,PAQC|Provident Acquisition Corp. - Class A Ordinary Shares
 PAQCU,PAQCU|Provident Acquisition Corp. - Units
@@ -6842,7 +6843,6 @@ PRTH,PRTH|Priority Technology Holdings, Inc. - Common Stock
 PRTK,PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock
 PRTS,PRTS|CarParts.com, Inc. - Common Stock
 PRVB,PRVB|Provention Bio, Inc. - Common Stock
-PS,PS|Pluralsight, Inc. - Class A Common Stock
 PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
 PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
 PSACW,PSACW|Property Solutions Acquisition Corp. - Warrant

@@ -1386,7 +1386,6 @@ DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Cla
 DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|DMYI.WS|N|100|N|DMYI+
 DMYQ.U|dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|DMYQ.U|N|100|N|DMYQ=
 DNB|Dun & Bradstreet Holdings, Inc. Common Stock|N|DNB|N|100|N|DNB
-DNK|Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinary shares|N|DNK|N|100|N|DNK
 DNL|WisdomTree Global ex-US Quality Dividend Growth Fund|P|DNL|Y|100|N|DNL
 DNMR|Danimer Scientific, Inc. Common Stock|N|DNMR|N|100|N|DNMR
 DNMR.W|Danimer Scientific, Inc. Redeemable Warrants|N|DNMR.WS|N|100|N|DNMR+
@@ -1613,6 +1612,7 @@ EME|EMCOR Group, Inc. Common Stock|N|EME|N|100|N|EME
 EMF|Templeton Emerging Markets Fund Common Stock|N|EMF|N|100|N|EMF
 EMFM|Global X MSCI Next Emerging & Frontier ETF|P|EMFM|Y|100|N|EMFM
 EMGF|iShares MSCI Emerging Markets Multifactor ETF|Z|EMGF|Y|100|N|EMGF
+EMHC|SPDR Bloomberg Barclays Emerging Markets USD Bond ETF|P|EMHC|Y|100|N|EMHC
 EMHY|iShares J.P. Morgan EM High Yield Bond ETF|Z|EMHY|Y|100|N|EMHY
 EMLC|VanEck Vectors J.P. Morgan EM Local Currency Bond ETF|P|EMLC|Y|100|N|EMLC
 EMLP|First Trust North American Energy Infrastructure Fund|P|EMLP|Y|100|N|EMLP
@@ -2583,6 +2583,7 @@ HTAB|Hartford Schroders Tax-Aware Bond ETF|P|HTAB|Y|100|N|HTAB
 HTD|John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest|N|HTD|N|100|N|HTD
 HTEC|Robo Global Healthcare Technology and Innovation ETF|P|HTEC|Y|100|N|HTEC
 HTFA|Horizon Technology Finance Corporation 6.25% Notes due 2022|N|HTFA|N|100|N|HTFA
+HTFB|Horizon Technology Finance Corporation 4.875% Notes due 2026|N|HTFB|N|100|N|HTFB
 HTGC|Hercules Capital, Inc. Common Stock|N|HTGC|N|100|N|HTGC
 HTH|Hilltop Holdings Inc.|N|HTH|N|100|N|HTH
 HTPA|Highland Transcend Partners I Corp. Class A Ordinary Shares|N|HTPA|N|100|N|HTPA
@@ -4760,7 +4761,6 @@ SIM|Grupo Simec, S.A.B. de C.V. American Depositary Shares|A|SIM|N|100|N|SIM
 SIMS|SPDR S&P Kensho Intelligent Structures ETF |P|SIMS|Y|100|N|SIMS
 SITC|SITE Centers Corp. Common Stock|N|SITC|N|100|N|SITC
 SITC$A|SITE Centers Corp. 6.375% Class A Preferred Shares|N|SITCpA|N|100|N|SITC-A
-SITC$K|SITE Centers Corp. DEPOSITARY SH REPSTG 1/20TH PDF CL K % (United States)|N|SITCpK|N|100|N|SITC-K
 SITE|SiteOne Landscape Supply, Inc. Common Stock|N|SITE|N|100|N|SITE
 SIVR|Aberdeen Standard Physical Silver Shares ETF|P|SIVR|Y|100|N|SIVR
 SIX|Six Flags Entertainment Corporation New Common Stock|N|SIX|N|100|N|SIX
@@ -5613,6 +5613,7 @@ VTOL|Bristow Group, Inc. Common Stock|N|VTOL|N|100|N|VTOL
 VTR|Ventas, Inc. Common Stock|N|VTR|N|100|N|VTR
 VTV|Vanguard Value ETF|P|VTV|Y|100|N|VTV
 VUG|Vanguard Growth ETF|P|VUG|Y|100|N|VUG
+VUSB|Vanguard Ultra-Short Bond ETF|Z|VUSB|Y|100|N|VUSB
 VUSE|ETF Series Solutions Trust Vident Core US Equity ETF|P|VUSE|Y|100|N|VUSE
 VV|Vanguard Large-Cap ETF|P|VV|Y|100|N|VV
 VVI|Viad Corp Common Stock|N|VVI|N|100|N|VVI
@@ -5880,4 +5881,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0406202114:02||||||
+File Creation Time: 0407202112:12||||||
