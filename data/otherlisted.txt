@@ -68,6 +68,7 @@ ADCT|ADC Therapeutics SA Common Shares|N|ADCT|N|100|N|ADCT
 ADEX|Adit EdTech Acquisition Corp. Common Stock|N|ADEX|N|100|N|ADEX
 ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant|N|ADEX.U|N|100|N|ADEX=
 ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|ADEX.WS|N|100|N|ADEX+
+ADF.U|Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|ADF.U|N|100|N|ADF=
 ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
 ADIV|SmartETFs Asia Pacific Dividend Builder ETF|P|ADIV|Y|100|N|ADIV
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
@@ -396,6 +397,7 @@ ATR|AptarGroup, Inc. Common Stock|N|ATR|N|100|N|ATR
 ATTO|Atento S.A. Ordinary Shares|N|ATTO|N|100|N|ATTO
 ATUS|Altice USA, Inc. Class A Common Stock|N|ATUS|N|100|N|ATUS
 AU|AngloGold Ashanti Limited Common Stock|N|AU|N|100|N|AU
+AUD|Audacy Common Stock|N|AUD|N|100|N|AUD
 AUGZ|TrueShares Structured Outcome (August) ETF|Z|AUGZ|Y|100|N|AUGZ
 AUMN|Golden Minerals Company Common Stock|A|AUMN|N|100|N|AUMN
 AUS.U|Austerlitz Acquisition Corporation I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|AUS.U|N|100|N|AUS=
@@ -1743,7 +1745,6 @@ ETH|Ethan Allen Interiors Inc. Common Stock|N|ETH|N|100|N|ETH
 ETHO|Etho Climate Leadership U.S. ETF|P|ETHO|Y|100|N|ETHO
 ETI$|Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value|N|ETIp|N|100|N|ETI-
 ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest|N|ETJ|N|100|N|ETJ
-ETM|Entercom Communications Corp. Common Stock|N|ETM|N|100|N|ETM
 ETN|Eaton Corporation, PLC Ordinary Shares|N|ETN|N|100|N|ETN
 ETO|Eaton Vance Tax-Advantage Global Dividend Opp Common Stock|N|ETO|N|100|N|ETO
 ETR|Entergy Corporation Common Stock|N|ETR|N|100|N|ETR
@@ -5232,6 +5233,7 @@ TOTL|SPDR DoubleLine Total Return Tactical ETF|P|TOTL|Y|100|N|TOTL
 TPAY|Ecofin Digital Payments Infrastructure Fund|P|TPAY|Y|100|N|TPAY
 TPB|Turning Point Brands, Inc. Common Stock|N|TPB|N|100|N|TPB
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
+TPGS|TPG Pace Solutions Corp. Class A Ordinary Shares|N|TPGS|N|100|N|TPGS
 TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares|N|TPGY|N|100|N|TPGY
 TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|TPGY.U|N|100|N|TPGY=
 TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|TPGY.WS|N|100|N|TPGY+
@@ -5308,7 +5310,9 @@ TWN|Taiwan Fund, Inc. (The) Common Stock|N|TWN|N|100|N|TWN
 TWND|Tailwind Acquisition Corp. Class A Common Stock|N|TWND|N|100|N|TWND
 TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant|N|TWND.U|N|100|N|TWND=
 TWND.W|Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|TWND.WS|N|100|N|TWND+
+TWNI|Tailwind International Acquisition Corp. Class A Ordinary Shares|N|TWNI|N|100|N|TWNI
 TWNI.U|Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|TWNI.U|N|100|N|TWNI=
+TWNI.W|Tailwind International Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|TWNI.WS|N|100|N|TWNI+
 TWNT.U|Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|TWNT.U|N|100|N|TWNT=
 TWO|Two Harbors Investment Corp|N|TWO|N|100|N|TWO
 TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)|N|TWOpA|N|100|N|TWO-A
@@ -5883,4 +5887,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0408202115:42||||||
+File Creation Time: 0409202112:11||||||

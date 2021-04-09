@@ -603,7 +603,9 @@ BRPA|Big Rock Partners Acquisition Corp. - Common Stock|S|N|D|100|N|N
 BRPAR|Big Rock Partners Acquisition Corp. - Right|S|N|D|100|N|N
 BRPAU|Big Rock Partners Acquisition Corp. - Unit|S|N|D|100|N|N
 BRPAW|Big Rock Partners Acquisition Corp. - Warrant|S|N|D|100|N|N
+BRPM|B. Riley Principal 150 Merger Corp. - Class A Common Stock|S|N|N|100|N|N
 BRPMU|B. Riley Principal 150 Merger Corp. - Unit|S|N|N|100|N|N
+BRPMW|B. Riley Principal 150 Merger Corp. - Warrant|S|N|N|100|N|N
 BRQS|Borqs Technologies, Inc.  - Ordinary Shares|S|N|N|100|N|N
 BRY|Berry Corporation (bry) - Common Stock|Q|N|N|100|N|N
 BSAE|Invesco BulletShares 2021 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
@@ -1737,6 +1739,7 @@ GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100|N|N
 GLPI|Gaming and Leisure Properties, Inc. - Common Stock|Q|N|N|100|N|N
 GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares|Q|N|N|100|N|N
 GLSI|Greenwich LifeSciences, Inc. - Common stock|S|N|N|100|N|N
+GLSPU|Global SPAC Partners Co. - Unit|S|N|N|100|N|N
 GLTO|Galecto, Inc. - Common Stock|Q|N|N|100|N|N
 GLUU|Glu Mobile Inc. - Common Stock|Q|N|N|100|N|N
 GLYC|GlycoMimetics, Inc. - Common Stock|G|N|N|100|N|N
@@ -3113,7 +3116,9 @@ PEZ|Invesco DWA Consumer Cyclicals Momentum ETF|G|N|N|100|Y|N
 PFBC|Preferred Bank - Common Stock|Q|N|N|100|N|N
 PFBI|Premier Financial Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 PFC|Premier Financial Corp.  - Common Stock|Q|N|N|100|N|N
+PFDR|Pathfinder Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
 PFDRU|Pathfinder Acquisition Corporation - Unit|S|N|N|100|N|N
+PFDRW|Pathfinder Acquisition Corporation - Warrant|S|N|N|100|N|N
 PFF|iShares Preferred and Income Securities ETF|G|N|N|100|Y|N
 PFG|Principal Financial Group Inc - Common Stock|Q|N|N|100|N|N
 PFHD|Professional Holding Corp. - Class A Common Stock|Q|N|N|100|N|N
@@ -3247,7 +3252,9 @@ PRVB|Provention Bio, Inc. - Common Stock|Q|N|N|100|N|N
 PSAC|Property Solutions Acquisition Corp. - Common Stock|S|N|N|100|N|N
 PSACU|Property Solutions Acquisition Corp. - Unit|S|N|N|100|N|N
 PSACW|Property Solutions Acquisition Corp. - Warrant|S|N|N|100|N|N
+PSAG|Property Solutions Acquisition Corporation II - Class A Common Stock|S|N|N|100|N|N
 PSAGU|Property Solutions Acquisition Corporation II - Units|S|N|N|100|N|N
+PSAGW|Property Solutions Acquisition Corporation II - Warrant|S|N|N|100|N|N
 PSC|Principal U.S. Small-Cap Multi-Factor ETF|G|N|N|100|Y|N
 PSCC|Invesco S&P SmallCap Consumer Staples ETF|G|N|N|100|Y|N
 PSCD|Invesco S&P SmallCap Consumer Discretionary ETF|G|N|N|100|Y|N
@@ -3490,6 +3497,7 @@ ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100|N|N
 RP|RealPage, Inc. - Common Stock|Q|N|N|100|N|N
 RPAY|Repay Holdings Corporation - Class A Common Stock|S|N|N|100|N|N
 RPD|Rapid7, Inc. - Common Stock|G|N|N|100|N|N
+RPHM|Reneo Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 RPRX|Royalty Pharma plc - Class A Ordinary Shares|Q|N|N|100|N|N
 RPTX|Repare Therapeutics Inc. - Common Shares|Q|N|N|100|N|N
 RRBI|Red River Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3747,7 +3755,9 @@ SPRO|Spero Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 SPRT|Support.com, Inc. - Common Stock|S|N|N|100|N|N
 SPSC|SPS Commerce, Inc. - Common Stock|Q|N|N|100|N|N
 SPT|Sprout Social, Inc - Class A Common Stock|S|N|N|100|N|N
+SPTK|SportsTek Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 SPTKU|SportsTek Acquisition Corp. - Unit|S|N|N|100|N|N
+SPTKW|SportsTek Acquisition Corp. - Warrant|S|N|N|100|N|N
 SPTN|SpartanNash Company - Common Stock|Q|N|N|100|N|N
 SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPWR|SunPower Corporation - Common Stock|Q|N|N|100|N|N
@@ -4163,6 +4173,7 @@ VCVCU|10X Capital Venture Acquisition Corp - Unit|S|N|N|100|N|N
 VCVCW|10X Capital Venture Acquisition Corp - Warrant|S|N|N|100|N|N
 VCYT|Veracyte, Inc. - Common Stock|G|N|N|100|N|N
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100|N|N
+VECT|VectivBio Holding AG - Ordinary Shares|Q|N|N|100|N|N
 VELOU|Velocity Acquisition Corp. - Units|S|N|N|100|N|N
 VENAU|Venus Acquisition Corporation - Units|S|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
@@ -4210,7 +4221,6 @@ VIVE|Viveve Medical, Inc. - Common Stock|S|N|N|100|N|N
 VIVO|Meridian Bioscience Inc. - Common Stock|Q|N|N|100|N|N
 VJET|voxeljet AG - American Depositary Shares|S|N|N|100|N|N
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-VKTXW|Viking Therapeutics, Inc. - Warrants|S|N|N|100|N|N
 VLDR|Velodyne Lidar, Inc. - Common Stock|Q|N|N|100|N|N
 VLDRW|Velodyne Lidar, Inc. - Warrant|Q|N|N|100|N|N
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -4465,4 +4475,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0408202115:42|||||||
+File Creation Time: 0409202112:11|||||||

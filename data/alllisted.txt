@@ -55,6 +55,7 @@ ADCT,ADCT|ADC Therapeutics SA Common Shares
 ADEX,ADEX|Adit EdTech Acquisition Corp. Common Stock
 ADEX.U,ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant
 ADEX.W,ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
+ADF.U,ADF.U|Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 ADM,ADM|Archer-Daniels-Midland Company Common Stock
 ADNT,ADNT|Adient plc Ordinary Shares 
 ADRA,ADRA|Adara Acquisition Corp. Class A Common Stock
@@ -336,6 +337,7 @@ ATR,ATR|AptarGroup, Inc. Common Stock
 ATTO,ATTO|Atento S.A. Ordinary Shares
 ATUS,ATUS|Altice USA, Inc. Class A Common Stock
 AU,AU|AngloGold Ashanti Limited Common Stock
+AUD,AUD|Audacy Common Stock
 AUMN,AUMN|Golden Minerals Company Common Stock
 AUS.U,AUS.U|Austerlitz Acquisition Corporation I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 AUY,AUY|Yamana Gold Inc. Ordinary Shares (Canada)
@@ -1295,7 +1297,6 @@ ETG,ETG|Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of 
 ETH,ETH|Ethan Allen Interiors Inc. Common Stock
 ETI$,ETI$|Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value
 ETJ,ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
-ETM,ETM|Entercom Communications Corp. Common Stock
 ETN,ETN|Eaton Corporation, PLC Ordinary Shares
 ETO,ETO|Eaton Vance Tax-Advantage Global Dividend Opp Common Stock
 ETR,ETR|Entergy Corporation Common Stock
@@ -3494,6 +3495,7 @@ TOL,TOL|Toll Brothers, Inc. Common Stock
 TOT,TOT|Total SE
 TPB,TPB|Turning Point Brands, Inc. Common Stock
 TPC,TPC|Tutor Perini Corporation Common Stock
+TPGS,TPGS|TPG Pace Solutions Corp. Class A Ordinary Shares
 TPGY,TPGY|TPG Pace Beneficial Finance Corp. Class A Ordinary Shares
 TPGY.U,TPGY.U|TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant
 TPGY.W,TPGY.W|TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
@@ -3555,7 +3557,9 @@ TWN,TWN|Taiwan Fund, Inc. (The) Common Stock
 TWND,TWND|Tailwind Acquisition Corp. Class A Common Stock
 TWND.U,TWND.U|Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant
 TWND.W,TWND.W|Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+TWNI,TWNI|Tailwind International Acquisition Corp. Class A Ordinary Shares
 TWNI.U,TWNI.U|Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+TWNI.W,TWNI.W|Tailwind International Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 TWNT.U,TWNT.U|Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 TWO,TWO|Two Harbors Investment Corp
 TWO$A,TWO$A|Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)
@@ -4463,7 +4467,9 @@ BRPA,BRPA|Big Rock Partners Acquisition Corp. - Common Stock
 BRPAR,BRPAR|Big Rock Partners Acquisition Corp. - Right
 BRPAU,BRPAU|Big Rock Partners Acquisition Corp. - Unit
 BRPAW,BRPAW|Big Rock Partners Acquisition Corp. - Warrant
+BRPM,BRPM|B. Riley Principal 150 Merger Corp. - Class A Common Stock
 BRPMU,BRPMU|B. Riley Principal 150 Merger Corp. - Unit
+BRPMW,BRPMW|B. Riley Principal 150 Merger Corp. - Warrant
 BRQS,BRQS|Borqs Technologies, Inc.  - Ordinary Shares
 BRY,BRY|Berry Corporation (bry) - Common Stock
 BSBK,BSBK|Bogota Financial Corp. - Common Stock
@@ -5433,6 +5439,7 @@ GLPG,GLPG|Galapagos NV - American Depositary Shares
 GLPI,GLPI|Gaming and Leisure Properties, Inc. - Common Stock
 GLRE,GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
 GLSI,GLSI|Greenwich LifeSciences, Inc. - Common stock
+GLSPU,GLSPU|Global SPAC Partners Co. - Unit
 GLTO,GLTO|Galecto, Inc. - Common Stock
 GLUU,GLUU|Glu Mobile Inc. - Common Stock
 GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
@@ -6728,7 +6735,9 @@ PETZ,PETZ|TDH Holdings, Inc. - Common Shares
 PFBC,PFBC|Preferred Bank - Common Stock
 PFBI,PFBI|Premier Financial Bancorp, Inc. - Common Stock
 PFC,PFC|Premier Financial Corp.  - Common Stock
+PFDR,PFDR|Pathfinder Acquisition Corporation - Class A Ordinary Shares
 PFDRU,PFDRU|Pathfinder Acquisition Corporation - Unit
+PFDRW,PFDRW|Pathfinder Acquisition Corporation - Warrant
 PFG,PFG|Principal Financial Group Inc - Common Stock
 PFHD,PFHD|Professional Holding Corp. - Class A Common Stock
 PFIE,PFIE|Profire Energy, Inc. - Common Stock
@@ -6846,7 +6855,9 @@ PRVB,PRVB|Provention Bio, Inc. - Common Stock
 PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
 PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
 PSACW,PSACW|Property Solutions Acquisition Corp. - Warrant
+PSAG,PSAG|Property Solutions Acquisition Corporation II - Class A Common Stock
 PSAGU,PSAGU|Property Solutions Acquisition Corporation II - Units
+PSAGW,PSAGW|Property Solutions Acquisition Corporation II - Warrant
 PSEC,PSEC|Prospect Capital Corporation - Common Stock
 PSHG,PSHG|Performance Shipping Inc. - Common Shares
 PSMT,PSMT|PriceSmart, Inc. - Common Stock
@@ -7042,6 +7053,7 @@ ROST,ROST|Ross Stores, Inc. - Common Stock
 RP,RP|RealPage, Inc. - Common Stock
 RPAY,RPAY|Repay Holdings Corporation - Class A Common Stock
 RPD,RPD|Rapid7, Inc. - Common Stock
+RPHM,RPHM|Reneo Pharmaceuticals, Inc. - Common Stock
 RPRX,RPRX|Royalty Pharma plc - Class A Ordinary Shares
 RPTX,RPTX|Repare Therapeutics Inc. - Common Shares
 RRBI,RRBI|Red River Bancshares, Inc. - Common Stock
@@ -7280,7 +7292,9 @@ SPRO,SPRO|Spero Therapeutics, Inc. - Common Stock
 SPRT,SPRT|Support.com, Inc. - Common Stock
 SPSC,SPSC|SPS Commerce, Inc. - Common Stock
 SPT,SPT|Sprout Social, Inc - Class A Common Stock
+SPTK,SPTK|SportsTek Acquisition Corp. - Class A Common Stock
 SPTKU,SPTKU|SportsTek Acquisition Corp. - Unit
+SPTKW,SPTKW|SportsTek Acquisition Corp. - Warrant
 SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
@@ -7675,6 +7689,7 @@ VCVCU,VCVCU|10X Capital Venture Acquisition Corp - Unit
 VCVCW,VCVCW|10X Capital Venture Acquisition Corp - Warrant
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
+VECT,VECT|VectivBio Holding AG - Ordinary Shares
 VELOU,VELOU|Velocity Acquisition Corp. - Units
 VENAU,VENAU|Venus Acquisition Corporation - Units
 VEON,VEON|VEON Ltd. - American Depositary Shares
@@ -7717,7 +7732,6 @@ VIVE,VIVE|Viveve Medical, Inc. - Common Stock
 VIVO,VIVO|Meridian Bioscience Inc. - Common Stock
 VJET,VJET|voxeljet AG - American Depositary Shares
 VKTX,VKTX|Viking Therapeutics, Inc. - Common Stock
-VKTXW,VKTXW|Viking Therapeutics, Inc. - Warrants
 VLDR,VLDR|Velodyne Lidar, Inc. - Common Stock
 VLDRW,VLDRW|Velodyne Lidar, Inc. - Warrant
 VLGEA,VLGEA|Village Super Market, Inc. - Class A Common Stock
