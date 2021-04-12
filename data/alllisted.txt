@@ -175,7 +175,6 @@ ALP$Q,ALP$Q|Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par
 ALSN,ALSN|Allison Transmission Holdings, Inc. Common Stock
 ALTG,ALTG|Alta Equipment Group Inc. Class A Common Stock
 ALTG$A,ALTG$A|Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock)
-ALTG.W,ALTG.W|Alta Equipment Group Inc. Warrants
 ALUS,ALUS|Alussa Energy Acquisition Corp. Class A Ordinary Shares
 ALUS.U,ALUS.U|Alussa Energy Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-half of one redeemable warrant
 ALUS.W,ALUS.W|Alussa Energy Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50
@@ -408,7 +407,6 @@ BBAR,BBAR|Banco BBVA Argentina S.A. ADS
 BBD,BBD|Banco Bradesco Sa American Depositary Shares
 BBDC,BBDC|Barings BDC, Inc. Common Stock
 BBDO,BBDO|Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
-BBF,BBF|BlackRock Municipal Income Investment Trust
 BBL,BBL|BHP Group PlcSponsored ADR
 BBN,BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest
 BBU,BBU|Brookfield Business Partners L.P. Limited Partnership Units 
@@ -457,7 +455,6 @@ BFLY.W,BFLY.W|Butterfly Network, Inc. Warrants
 BFS,BFS|Saul Centers, Inc. Common Stock
 BFS$D,BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock
 BFS$E,BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock
-BFY,BFY|BlackRock New York Municipal Income Trust II
 BFZ,BFZ|BlackRock California Municipal Income Trust
 BG,BG|Bunge Limited Bunge Limited
 BGB,BGB|Blackstone Strategic Credit Fund Common Shares
@@ -571,8 +568,6 @@ BRX,BRX|Brixmor Property Group Inc. Common Stock
 BSA,BSA|BrightSphere Investment Group Inc. 5.125% Notes due 2031
 BSAC,BSAC|Banco Santander - Chile ADS
 BSBR,BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit
-BSD,BSD|BlackRock Strategic Municipal Trust Inc. (The) Common Stock
-BSE,BSE|Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest
 BSIG,BSIG|BrightSphere Investment Group Inc. Common Stock
 BSL,BSL|Blackstone Senior Floating Rate Term Fund Common Shares of Beneficial Interest
 BSM,BSM|Black Stone Minerals, L.P. Common units representing limited partner interests
@@ -1337,7 +1332,9 @@ EXTN,EXTN|Exterran Corporation Common Stock
 F,F|Ford Motor Company Common Stock
 F$B,F$B|Ford Motor Company 6.20% Notes due June 1, 2059
 F$C,F$C|Ford Motor Company 6% Notes due December 1, 2059
+FACA,FACA|Figure Acquisition Corp. I Class A Common Stock
 FACA.U,FACA.U|Figure Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
+FACA.W,FACA.W|Figure Acquisition Corp. I Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 FACT.U,FACT.U|Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 FAF,FAF|First American Corporation (New) Common Stock
 FAII,FAII|Fortress Value Acquisition Corp. II Class A Common Stock
@@ -2259,7 +2256,6 @@ MFG,MFG|Mizuho Financial Group, Inc. Sponosred ADR (Japan)
 MFGP,MFGP|Micro Focus Intl PLC ADS each representing One Ord Sh
 MFL,MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest
 MFM,MFM|MFS Municipal Income Trust Common Stock
-MFT,MFT|Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest
 MFV,MFV|MFS Special Value Trust Common Stock
 MG,MG|Mistras Group Inc Common Stock
 MGA,MGA|Magna International, Inc. Common Stock
@@ -2522,14 +2518,13 @@ NMM,NMM|Navios Maritime Partners LP Common Units Representing Limited Partner In
 NMR,NMR|Nomura Holdings Inc ADR American Depositary Shares
 NMS,NMS|Nuveen Minnesota Quality Municipal Income Fund 
 NMT,NMT|Nuveen Massachusetts Quality Municipal Income Fund Common Stock
-NMY,NMY|Nuveen Maryland Quality Municipal Income Fund Common Stock
 NMZ,NMZ|Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share
 NNA,NNA|Navios Maritime Acquisition Corporation Common stock
 NNI,NNI|Nelnet, Inc. Common Stock
 NNN,NNN|National Retail Properties Common Stock
 NNN$F,NNN$F|National Retail Properties Depositary Shares, each representing a 1/100th interest in a share of 5.20% Series F Cumulative Redeemable Preferred Stock
 NNVC,NNVC|NanoViricides, Inc. Common Stock
-NNY,NNY|Nuveen New York Municipal Value Fund, Inc. Common Stock
+NNY,NNY|Nuveen New York Municipal Value Fund Common Stock
 NOA,NOA|North American Construction Group Ltd. Common Shares (no par)
 NOAH,NOAH|Noah Holdings Limited
 NOC,NOC|Northrop Grumman Corporation Common Stock
@@ -2631,7 +2626,6 @@ NYCB,NYCB|New York Community Bancorp, Inc. Common Stock
 NYCB$A,NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock
 NYCB$U,NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)
 NYT,NYT|New York Times Company (The) Common Stock
-NYV,NYV|Nuveen New York Municipal Value Fund 2 Common Shares of Beneficial Interest
 NZF,NZF|Nuveen Municipal Credit Income Fund 
 O,O|Realty Income Corporation Common Stock
 OACB,OACB|Oaktree Acquisition Corp. II Class A Ordinary Shares
@@ -3282,7 +3276,9 @@ SPFR.W,SPFR.W|Jaws Spitfire Acquisition Corporation Redeemable warrants, each wh
 SPG,SPG|Simon Property Group, Inc. Common Stock
 SPG$J,SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock
 SPGI,SPGI|S&P Global Inc. Common Stock
+SPGS,SPGS|Simon Property Group Acquisition Holdings, Inc. Class A Common Stock
 SPGS.U,SPGS.U|Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
+SPGS.W,SPGS.W|Simon Property Group Acquisition Holdings, Inc. Warrants, each exercisable for one Class A common stock at an exercise price of $11.50 per share
 SPH,SPH|Suburban Propane Partners, L.P. Common Stock
 SPLP,SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT
 SPLP$A,SPLP$A|Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value
@@ -4216,7 +4212,9 @@ ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
 ASND,ASND|Ascendis Pharma A/S - American Depositary Shares
 ASO,ASO|Academy Sports and Outdoors, Inc. - Common Stock
+ASPC,ASPC|Alpha Capital Acquisition Company - One Class A Ordinary Share
 ASPCU,ASPCU|Alpha Capital Acquisition Company - Unit
+ASPCW,ASPCW|Alpha Capital Acquisition Company - Warrant
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
 ASPU,ASPU|Aspen Group Inc. - Common Stock
 ASRT,ASRT|Assertio Holdings, Inc. - Common Stock
@@ -4287,7 +4285,7 @@ AXAS,AXAS|Abraxas Petroleum Corporation - Common Stock
 AXDX,AXDX|Accelerate Diagnostics, Inc. - Common Stock
 AXGN,AXGN|Axogen, Inc. - Common Stock
 AXLA,AXLA|Axcella Health Inc. - Common Stock
-AXNX,AXNX|Axonics Modulation Technologies, Inc. - Common Stock
+AXNX,AXNX|Axonics, Inc. - Common Stock
 AXON,AXON|Axon Enterprise, Inc. - Common Stock
 AXSM,AXSM|Axsome Therapeutics, Inc. - Common Stock
 AXTI,AXTI|AXT Inc - Common Stock
@@ -4617,7 +4615,9 @@ CFIVW,CFIVW|CF Acquisition Corp. IV - Warrant
 CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
 CFV,CFV|CF Acquisition Corp. V - Class A Common Stock
+CFVI,CFVI|CF Acquisition Corp. VI - Class A Common Stock
 CFVIU,CFVIU|CF Acquisition Corp. VI - Unit
+CFVIW,CFVIW|CF Acquisition Corp. VI - Warrant
 CG,CG|The Carlyle Group Inc. - Common Stock
 CGBD,CGBD|TCG BDC, Inc. - Common Stock
 CGC,CGC|Canopy Growth Corporation - Common Shares
@@ -5314,7 +5314,9 @@ FSLR,FSLR|First Solar, Inc. - Common Stock
 FSRV,FSRV|FinServ Acquisition Corp. - Class A Common Stock
 FSRVU,FSRVU|FinServ Acquisition Corp. - Unit
 FSRVW,FSRVW|FinServ Acquisition Corp. - Warrant
+FSRX,FSRX|FinServ Acquisition Corp. II - Class A Common Stock
 FSRXU,FSRXU|FinServ Acquisition Corp. II - Unit
+FSRXW,FSRXW|FinServ Acquisition Corp. II - Warrant
 FSSI,FSSI|Fortistar Sustainable Solutions Corp. - Class A Common Stock
 FSSIU,FSSIU|Fortistar Sustainable Solutions Corp. - Unit
 FSSIW,FSSIW|Fortistar Sustainable Solutions Corp. - Warrant
@@ -5903,7 +5905,9 @@ JVA,JVA|Coffee Holding Co., Inc. - Common Stock
 JWEL,JWEL|Jowell Global Ltd. - Ordinary Shares
 JYAC,JYAC|Jiya Acquisition Corp. - Class A Common Stock
 JYNT,JYNT|The Joint Corp. - Common Stock
+KAII,KAII|Kismet Acquisition Two Corp. - Class A Ordinary Shares
 KAIIU,KAIIU|Kismet Acquisition Two Corp. - Unit
+KAIIW,KAIIW|Kismet Acquisition Two Corp. - Warrant
 KAIR,KAIR|Kairos Acquisition Corp. - Class A Ordinary Shares
 KAIRU,KAIRU|Kairos Acquisition Corp. - Unit
 KAIRW,KAIRW|Kairos Acquisition Corp. - Warrant
@@ -5930,7 +5934,9 @@ KFFB,KFFB|Kentucky First Federal Bancorp - Common Stock
 KFRC,KFRC|Kforce, Inc. - Common Stock
 KHC,KHC|The Kraft Heinz Company - Common Stock
 KIDS,KIDS|OrthoPediatrics Corp. - Common Stock
+KIII,KIII|Kismet Acquisition Three Corp. - Class A Ordinary Shares
 KIIIU,KIIIU|Kismet Acquisition Three Corp. - Unit
+KIIIW,KIIIW|Kismet Acquisition Three Corp. - Warrant
 KIN,KIN|Kindred Biosciences, Inc. - Common Stock
 KINS,KINS|Kingstone Companies, Inc - Common Stock
 KINZ,KINZ|KINS Technology Group Inc. - Class A Common Stock
@@ -6510,7 +6516,9 @@ NVFY,NVFY|Nova Lifestyle, Inc - Common Stock
 NVIV,NVIV|InVivo Therapeutics Holdings Corp. - Common Stock
 NVMI,NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares
 NVOS,NVOS|Novo Integrated Sciences, Inc. - Common Stock
+NVSA,NVSA|New Vista Acquisition Corp - Class A Ordinary Shares
 NVSAU,NVSAU|New Vista Acquisition Corp - Unit
+NVSAW,NVSAW|New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares
 NVVE,NVVE|Nuvve Holding Corp. - Common Stock
 NVVEW,NVVEW|Nuvve Holding Corp. - Warrant
 NWBI,NWBI|Northwest Bancshares, Inc. - Common Stock
@@ -6794,7 +6802,9 @@ PLYA,PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares
 PMBC,PMBC|Pacific Mercantile Bancorp - Common Stock
 PMD,PMD|Psychemedics Corporation - Common Stock
 PME,PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares
+PMGM,PMGM|Priveterra Acquisition Corp. - Class A Common Stock
 PMGMU,PMGMU|Priveterra Acquisition Corp. - Units
+PMGMW,PMGMW|Priveterra Acquisition Corp. - Warrant
 PMVP,PMVP|PMV Pharmaceuticals, Inc. - Common Stock
 PNBK,PNBK|Patriot National Bancorp Inc. - Common Stock
 PNFP,PNFP|Pinnacle Financial Partners, Inc. - Common Stock
@@ -6962,7 +6972,7 @@ RCLFU,RCLFU|Rosecliff Acquisition Corp I - Units, consisting of one share Class 
 RCLFW,RCLFW|Rosecliff Acquisition Corp I - Warrants
 RCM,RCM|R1 RCM Inc. - Common Stock
 RCMT,RCMT|RCM Technologies, Inc. - Common Stock
-RCON,RCON|Recon Technology, Ltd. - Ordinary Shares
+RCON,RCON|Recon Technology, Ltd. - Class A Ordinary Shares
 RDCM,RDCM|Radcom Ltd. - Ordinary Shares
 RDFN,RDFN|Redfin Corporation - Common Stock
 RDHL,RDHL|Redhill Biopharma Ltd. - American Depositary Shares
@@ -7817,6 +7827,7 @@ WEN,WEN|Wendy's Company (The) - Common Stock
 WERN,WERN|Werner Enterprises, Inc. - Common Stock
 WETF,WETF|WisdomTree Investments, Inc. - Common Stock
 WEYS,WEYS|Weyco Group, Inc. - Common Stock
+WFCF,WFCF|Where Food Comes From, Inc. - Common Stock
 WHF,WHF|WhiteHorse Finance, Inc. - Common Stock
 WHFBZ,WHFBZ|WhiteHorse Finance, Inc. - 6.50% Notes due 2025
 WHLM,WHLM|Wilhelmina International, Inc. - Common Stock
@@ -7888,6 +7899,7 @@ XNCR,XNCR|Xencor, Inc. - Common Stock
 XNET,XNET|Xunlei Limited - American Depositary Shares
 XOG,XOG|Extraction Oil & Gas, Inc. - Common Stock
 XOMA,XOMA|XOMA Corporation - Common Stock
+XOMAO,XOMAO|XOMA Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
 XOMAP,XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XONE,XONE|The ExOne Company - Common Stock
 XP,XP|XP Inc. - Class A Common Stock

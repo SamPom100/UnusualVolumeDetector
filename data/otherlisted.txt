@@ -206,7 +206,6 @@ ALP$Q|Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par Value
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
 ALTG|Alta Equipment Group Inc. Class A Common Stock|N|ALTG|N|100|N|ALTG
 ALTG$A|Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock)|N|ALTGpA|N|100|N|ALTG-A
-ALTG.W|Alta Equipment Group Inc. Warrants|N|ALTG.WS|N|100|N|ALTG+
 ALTL|Pacer Lunt Large Cap Alternator ETF|P|ALTL|Y|100|N|ALTL
 ALTS|ProShares Morningstar Alternatives Solution ETF|Z|ALTS|Y|100|N|ALTS
 ALUS|Alussa Energy Acquisition Corp. Class A Ordinary Shares|N|ALUS|N|100|N|ALUS
@@ -498,7 +497,6 @@ BBD|Banco Bradesco Sa American Depositary Shares|N|BBD|N|100|N|BBD
 BBDC|Barings BDC, Inc. Common Stock|N|BBDC|N|100|N|BBDC
 BBDO|Banco Bradesco Sa American Depositary Shares (each representing one Common Share)|N|BBDO|N|100|N|BBDO
 BBEU|JPMorgan BetaBuilders Europe ETF |Z|BBEU|Y|100|N|BBEU
-BBF|BlackRock Municipal Income Investment Trust|N|BBF|N|100|N|BBF
 BBIN|JPMorgan BetaBuilders International Equity ETF|Z|BBIN|Y|100|N|BBIN
 BBJP|JPMorgan BetaBuilders Japan ETF |Z|BBJP|Y|100|N|BBJP
 BBL|BHP Group PlcSponsored ADR|N|BBL|N|100|N|BBL
@@ -564,7 +562,6 @@ BFS|Saul Centers, Inc. Common Stock|N|BFS|N|100|N|BFS
 BFS$D|Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock|N|BFSpD|N|100|N|BFS-D
 BFS$E|Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock|N|BFSpE|N|100|N|BFS-E
 BFTR|BlackRock Future Innovators ETF|P|BFTR|Y|100|N|BFTR
-BFY|BlackRock New York Municipal Income Trust II|N|BFY|N|100|N|BFY
 BFZ|BlackRock California Municipal Income Trust|N|BFZ|N|100|N|BFZ
 BG|Bunge Limited Bunge Limited|N|BG|N|100|N|BG
 BGB|Blackstone Strategic Credit Fund Common Shares|N|BGB|N|100|N|BGB
@@ -717,8 +714,6 @@ BRZU|Direxion Daily Brazil Bull 2X Shares|P|BRZU|Y|100|N|BRZU
 BSA|BrightSphere Investment Group Inc. 5.125% Notes due 2031|N|BSA|N|100|N|BSA
 BSAC|Banco Santander - Chile ADS|N|BSAC|N|100|N|BSAC
 BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit|N|BSBR|N|100|N|BSBR
-BSD|BlackRock Strategic Municipal Trust Inc. (The) Common Stock|N|BSD|N|100|N|BSD
-BSE|Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest|N|BSE|N|100|N|BSE
 BSEP|Innovator ETFs Trust Innovator S&P 500 Buffer ETF - September|Z|BSEP|Y|100|N|BSEP
 BSIG|BrightSphere Investment Group Inc. Common Stock|N|BSIG|N|100|N|BSIG
 BSL|Blackstone Senior Floating Rate Term Fund Common Shares of Beneficial Interest|N|BSL|N|100|N|BSL
@@ -1830,7 +1825,9 @@ EZU|iShares MSCI Eurozone ETF|Z|EZU|Y|100|N|EZU
 F|Ford Motor Company Common Stock|N|F|N|100|N|F
 F$B|Ford Motor Company 6.20% Notes due June 1, 2059|N|FpB|N|100|N|F-B
 F$C|Ford Motor Company 6% Notes due December 1, 2059|N|FpC|N|100|N|F-C
+FACA|Figure Acquisition Corp. I Class A Common Stock|N|FACA|N|100|N|FACA
 FACA.U|Figure Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|FACA.U|N|100|N|FACA=
+FACA.W|Figure Acquisition Corp. I Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|FACA.WS|N|100|N|FACA+
 FACT.U|Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|FACT.U|N|100|N|FACT=
 FAF|First American Corporation (New) Common Stock|N|FAF|N|100|N|FAF
 FAII|Fortress Value Acquisition Corp. II Class A Common Stock|N|FAII|N|100|N|FAII
@@ -3410,7 +3407,6 @@ MFGP|Micro Focus Intl PLC ADS each representing One Ord Sh|N|MFGP|N|100|N|MFGP
 MFL|Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest|N|MFL|N|100|N|MFL
 MFM|MFS Municipal Income Trust Common Stock|N|MFM|N|100|N|MFM
 MFMS|Motley Fool Small-Cap Growth ETF|Z|MFMS|Y|100|N|MFMS
-MFT|Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest|N|MFT|N|100|N|MFT
 MFUS|PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF|P|MFUS|Y|100|N|MFUS
 MFV|MFS Special Value Trust Common Stock|N|MFV|N|100|N|MFV
 MG|Mistras Group Inc Common Stock|N|MG|N|100|N|MG
@@ -3738,14 +3734,13 @@ NMM|Navios Maritime Partners LP Common Units Representing Limited Partner Intere
 NMR|Nomura Holdings Inc ADR American Depositary Shares|N|NMR|N|100|N|NMR
 NMS|Nuveen Minnesota Quality Municipal Income Fund |N|NMS|N|100|N|NMS
 NMT|Nuveen Massachusetts Quality Municipal Income Fund Common Stock|N|NMT|N|100|N|NMT
-NMY|Nuveen Maryland Quality Municipal Income Fund Common Stock|N|NMY|N|100|N|NMY
 NMZ|Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share|N|NMZ|N|100|N|NMZ
 NNA|Navios Maritime Acquisition Corporation Common stock|N|NNA|N|100|N|NNA
 NNI|Nelnet, Inc. Common Stock|N|NNI|N|100|N|NNI
 NNN|National Retail Properties Common Stock|N|NNN|N|100|N|NNN
 NNN$F|National Retail Properties Depositary Shares, each representing a 1/100th interest in a share of 5.20% Series F Cumulative Redeemable Preferred Stock|N|NNNpF|N|100|N|NNN-F
 NNVC|NanoViricides, Inc. Common Stock|A|NNVC|N|100|N|NNVC
-NNY|Nuveen New York Municipal Value Fund, Inc. Common Stock|N|NNY|N|100|N|NNY
+NNY|Nuveen New York Municipal Value Fund Common Stock|N|NNY|N|100|N|NNY
 NOA|North American Construction Group Ltd. Common Shares (no par)|N|NOA|N|100|N|NOA
 NOAH|Noah Holdings Limited|N|NOAH|N|100|N|NOAH
 NOBL|ProShares S&P 500 Dividend Aristocrats ETF|Z|NOBL|Y|100|N|NOBL
@@ -3869,7 +3864,6 @@ NYCB$A|New York Community Bancorp, Inc. Depositary shares, each representing a 1
 NYCB$U|New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)|N|NYCBpU|N|100|N|NYCB-U
 NYF|iShares New York Muni Bond ETF|P|NYF|Y|100|N|NYF
 NYT|New York Times Company (The) Common Stock|N|NYT|N|100|N|NYT
-NYV|Nuveen New York Municipal Value Fund 2 Common Shares of Beneficial Interest|N|NYV|N|100|N|NYV
 NZF|Nuveen Municipal Credit Income Fund |N|NZF|N|100|N|NZF
 O|Realty Income Corporation Common Stock|N|O|N|100|N|O
 OACB|Oaktree Acquisition Corp. II Class A Ordinary Shares|N|OACB|N|100|N|OACB
@@ -4890,7 +4884,9 @@ SPG$J|Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative
 SPGI|S&P Global Inc. Common Stock|N|SPGI|N|100|N|SPGI
 SPGM|SPDR Portfolio MSCI Global Stock Market ETF|P|SPGM|Y|100|N|SPGM
 SPGP|Invesco S&P 500 GARP ETF|P|SPGP|Y|100|N|SPGP
+SPGS|Simon Property Group Acquisition Holdings, Inc. Class A Common Stock|N|SPGS|N|100|N|SPGS
 SPGS.U|Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|SPGS.U|N|100|N|SPGS=
+SPGS.W|Simon Property Group Acquisition Holdings, Inc. Warrants, each exercisable for one Class A common stock at an exercise price of $11.50 per share|N|SPGS.WS|N|100|N|SPGS+
 SPH|Suburban Propane Partners, L.P. Common Stock|N|SPH|N|100|N|SPH
 SPHB|Invesco S&P 500 High Beta ETF|P|SPHB|Y|100|N|SPHB
 SPHD|Invesco S&P 500 High Dividend Low Volatility ETF|P|SPHD|Y|100|N|SPHD
@@ -5887,4 +5883,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0409202115:41||||||
+File Creation Time: 0412202115:41||||||
