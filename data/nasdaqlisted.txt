@@ -558,7 +558,7 @@ BNFT|Benefitfocus, Inc. - Common Stock|G|N|N|100|N|N
 BNGO|Bionano Genomics, Inc. - Common Stock|S|N|N|100|N|N
 BNGOW|Bionano Genomics, Inc. - Warrant|S|N|N|100|N|N
 BNR|Burning Rock Biotech Limited - American Depositary Shares|G|N|N|100|N|N
-BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|N|100|N|N
+BNSO|Bonso Electronics International, Inc. - Common Stock|S|N|D|100|N|N
 BNTC|Benitec Biopharma Inc. - Common Stock|S|N|N|100|N|N
 BNTX|BioNTech SE - American Depositary Shares|Q|N|N|100|N|N
 BOCH|Bank of Commerce Holdings (CA) - Common Stock|G|N|N|100|N|N
@@ -751,7 +751,6 @@ CDK|CDK Global, Inc. - Common Stock|Q|N|N|100|N|N
 CDL|VictoryShares US Large Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
 CDLX|Cardlytics, Inc. - Common Stock|G|N|N|100|N|N
 CDMO|Avid Bioservices, Inc. - Common Stock|S|N|N|100|N|N
-CDMOP|Avid Bioservices, Inc. - 10.50% Series E Convertible Preferred Stock|S|N|N|100|N|N
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100|N|N
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100|N|N
 CDTX|Cidara Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -1738,7 +1737,7 @@ GLBS|Globus Maritime Limited - Common Stock|S|N|N|100|N|N
 GLBZ|Glen Burnie Bancorp - Common Stock|S|N|N|100|N|N
 GLDD|Great Lakes Dredge & Dock Corporation - Common Stock|Q|N|N|100|N|N
 GLDI|Credit Suisse Gold Shares Covered Call Exchange Traded Notes|G|N|N|100|N|N
-GLG|TD Holdings, Inc. - Common Stock|S|N|N|100|N|N
+GLG|TD Holdings, Inc. - Common Stock|S|N|E|100|N|N
 GLHAU|Glass Houses Acquisition Corp. - Unit|S|N|N|100|N|N
 GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares|S|N|N|100|N|N
 GLNG|Golar LNG Limited - Common Shares|Q|N|N|100|N|N
@@ -4190,7 +4189,10 @@ VCYT|Veracyte, Inc. - Common Stock|G|N|N|100|N|N
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100|N|N
 VECT|VectivBio Holding AG - Ordinary Shares|Q|N|N|100|N|N
 VELOU|Velocity Acquisition Corp. - Units|S|N|N|100|N|N
+VENA|Venus Acquisition Corporation - Ordinary Shares|S|N|N|100|N|N
+VENAR|Venus Acquisition Corporation - Rights|S|N|N|100|N|N
 VENAU|Venus Acquisition Corporation - Units|S|N|N|100|N|N
+VENAW|Venus Acquisition Corporation - Warrant|S|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
 VERB|Verb Technology Company, Inc. - Common Stock|S|N|N|100|N|N
 VERBW|Verb Technology Company, Inc. - Warrant|S|N|N|100|N|N
@@ -4220,7 +4222,6 @@ VII|7GC & Co. Holdings Inc. - Class A common stock|S|N|N|100|N|N
 VIIAU|7GC & Co. Holdings Inc. - Unit|S|N|N|100|N|N
 VIIAW|7GC & Co. Holdings Inc. - Warrant|S|N|N|100|N|N
 VINC|Vincerx Pharma, Inc. - Common Stock|S|N|N|100|N|N
-VINCU|Vincerx Pharma, Inc. - Unit|S|N|N|100|N|N
 VINCW|Vincerx Pharma, Inc. - Warrant|S|N|N|100|N|N
 VINO|Gaucho Group Holdings, Inc. - Common Stock|S|N|N|100|N|N
 VINP|Vinci Partners Investments Ltd. - Class A Common Shares|Q|N|N|100|N|N
@@ -4383,7 +4384,7 @@ WSC|WillScot Mobile Mini Holdings Corp. - Class A Common Stock|S|N|N|100|N|N
 WSFS|WSFS Financial Corporation - Common Stock|Q|N|N|100|N|N
 WSTG|Wayside Technology Group, Inc. - Common Stock|G|N|N|100|N|N
 WTBA|West Bancorporation - Common Stock|Q|N|N|100|N|N
-WTER|The Alkaline Water Company Inc. - Common Stock|S|N|N|100|N|N
+WTER|The Alkaline Water Company Inc. - Common Stock|S|N|D|100|N|N
 WTFC|Wintrust Financial Corporation - Common Stock|Q|N|N|100|N|N
 WTFCM|Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D|Q|N|N|100|N|N
 WTFCP|Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E|Q|N|N|100|N|N
@@ -4492,4 +4493,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0412202115:41|||||||
+File Creation Time: 0413202112:11|||||||
