@@ -124,6 +124,7 @@ AGE|AgeX Therapeutics, Inc. Common Stock|A|AGE|N|100|N|AGE
 AGG|iShares Core U.S. Aggregate Bond ETF|P|AGG|Y|100|N|AGG
 AGGY|WisdomTree Yield Enhanced U.S. Aggregate Bond Fund|P|AGGY|Y|100|N|AGGY
 AGI|Alamos Gold Inc. Class A Common Shares|N|AGI|N|100|N|AGI
+AGL|agilon health, inc. Common Stock|N|AGL|N|100|N|AGL
 AGM|Federal Agricultural Mortgage Corporation Common Stock|N|AGM|N|100|N|AGM
 AGM$C|Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg|N|AGMpC|N|100|N|AGM-C
 AGM$D|Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D|N|AGMpD|N|100|N|AGM-D
@@ -251,7 +252,9 @@ AMWL|American Well Corporation Class A Common Stock|N|AMWL|N|100|N|AMWL
 AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L|N|AMX|N|100|N|AMX
 AMZA|InfraCap MLP ETF|P|AMZA|Y|100|N|AMZA
 AN|AutoNation, Inc. Common Stock|N|AN|N|100|N|AN
+ANAC|Arctos NorthStar Acquisition Corp. Class A Ordinary Shares|N|ANAC|N|100|N|ANAC
 ANAC.U|Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|ANAC.U|N|100|N|ANAC=
+ANAC.W|Arctos NorthStar Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ANAC.WS|N|100|N|ANAC+
 ANET|Arista Networks, Inc. Common Stock|N|ANET|N|100|N|ANET
 ANEW|ProShares MSCI Transformational Changes ETF|P|ANEW|Y|100|N|ANEW
 ANF|Abercrombie & Fitch Company Common Stock|N|ANF|N|100|N|ANF
@@ -892,6 +895,7 @@ CFR$B|Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th o
 CFX|Colfax Corporation Common Stock|N|CFX|N|100|N|CFX
 CFXA|Colfax Corporation 5.75% Tangible Equity Units|N|CFXA|N|100|N|CFXA
 CGA|China Green Agriculture, Inc. Common Stock|N|CGA|N|100|N|CGA
+CGAU|Centerra Gold Inc. Common Shares|N|CGAU|N|100|N|CGAU
 CGW|Invesco S&P Global Water Index ETF|P|CGW|Y|100|N|CGW
 CHAA|Catcha Investment Corp. Class A Ordinary Shares|N|CHAA|N|100|N|CHAA
 CHAA.U|Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|CHAA.U|N|100|N|CHAA=
@@ -3958,6 +3962,7 @@ OVV|Ovintiv Inc. (DE)|N|OVV|N|100|N|OVV
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
+PAB|PGIM Active Aggregate Bond ETF|P|PAB|Y|100|N|PAB
 PAC|Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)|N|PAC|N|100|N|PAC
 PACE|TPG Pace Tech Opportunities Corp. Class A Ordinary Shares|N|PACE|N|100|N|PACE
 PACE.U|TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant|N|PACE.U|N|100|N|PACE=
@@ -4768,7 +4773,6 @@ SIZE|iShares MSCI USA Size Factor ETF|P|SIZE|Y|100|N|SIZE
 SJB|ProShares Short High Yield|P|SJB|Y|100|N|SJB
 SJI|South Jersey Industries, Inc. Common Stock|N|SJI|N|100|N|SJI
 SJIJ|South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079|N|SJIJ|N|100|N|SJIJ
-SJIU|South Jersey Industries, Inc. Corporate Units|N|SJIU|N|100|N|SJIU
 SJIV|South Jersey Industries, Inc. Corporate Units|N|SJIV|N|100|N|SJIV
 SJM|J.M. Smucker Company (The) New Common Stock|N|SJM|N|100|N|SJM
 SJNK|SPDR Bloomberg Barclays Short Term High Yield Bond ETF|P|SJNK|Y|100|N|SJNK
@@ -4945,7 +4949,6 @@ SPYX|SPDR S&P 500 Fossil Fuel Reserves Free ETF|P|SPYX|Y|100|N|SPYX
 SQ|Square, Inc. Class A Common Stock|N|SQ|N|100|N|SQ
 SQEW|LeaderShares Equity Skew ETF|P|SQEW|Y|100|N|SQEW
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
-SQM.R|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) |N|SQMr|N|100|N|SQM^
 SQNS|Sequans Communications S.A. American Depositary Shares|N|SQNS|N|100|N|SQNS
 SQZ|SQZ Biotechnologies Company Common Stock|N|SQZ|N|100|N|SQZ
 SR|Spire Inc. Common Stock|N|SR|N|100|N|SR
@@ -5475,7 +5478,6 @@ VALQ|American Century STOXX U.S. Quality Value ETF|P|VALQ|Y|100|N|VALQ
 VALT|ETFMG Sit Ultra Short ETF|P|VALT|Y|100|N|VALT
 VAMO|Cambria ETF Trust Cambria Value and Momentum ETF|Z|VAMO|Y|100|N|VAMO
 VAPO|Vapotherm, Inc. Common Stock|N|VAPO|N|100|N|VAPO
-VAR|Varian Medical Systems, Inc. Common Stock|N|VAR|N|100|N|VAR
 VAW|Vanguard Materials ETF|P|VAW|Y|100|N|VAW
 VB|Vanguard Small-Cap ETF|P|VB|Y|100|N|VB
 VBF|Invesco Bond Fund Common Stock|N|VBF|N|100|N|VBF
@@ -5883,4 +5885,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0414202115:41||||||
+File Creation Time: 0415202112:11||||||

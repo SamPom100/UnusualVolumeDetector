@@ -99,6 +99,7 @@ AGCO,AGCO|AGCO Corporation Common Stock
 AGD,AGD|Aberdeen Global Dynamic Dividend Fund
 AGE,AGE|AgeX Therapeutics, Inc. Common Stock
 AGI,AGI|Alamos Gold Inc. Class A Common Shares
+AGL,AGL|agilon health, inc. Common Stock
 AGM,AGM|Federal Agricultural Mortgage Corporation Common Stock
 AGM$C,AGM$C|Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg
 AGM$D,AGM$D|Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D
@@ -212,7 +213,9 @@ AMUB,AMUB|ETRACS Alerian MLP Index ETN Series B due July 18, 2042
 AMWL,AMWL|American Well Corporation Class A Common Stock
 AMX,AMX|America Movil, S.A.B. de C.V. American Depository Receipt Series L
 AN,AN|AutoNation, Inc. Common Stock
+ANAC,ANAC|Arctos NorthStar Acquisition Corp. Class A Ordinary Shares
 ANAC.U,ANAC.U|Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant
+ANAC.W,ANAC.W|Arctos NorthStar Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ANET,ANET|Arista Networks, Inc. Common Stock
 ANF,ANF|Abercrombie & Fitch Company Common Stock
 ANTM,ANTM|Anthem, Inc. Common Stock
@@ -717,6 +720,7 @@ CFR$B,CFR$B|Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/
 CFX,CFX|Colfax Corporation Common Stock
 CFXA,CFXA|Colfax Corporation 5.75% Tangible Equity Units
 CGA,CGA|China Green Agriculture, Inc. Common Stock
+CGAU,CGAU|Centerra Gold Inc. Common Shares
 CHAA,CHAA|Catcha Investment Corp. Class A Ordinary Shares
 CHAA.U,CHAA.U|Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
 CHAA.W,CHAA.W|Catcha Investment Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
@@ -3199,7 +3203,6 @@ SITE,SITE|SiteOne Landscape Supply, Inc. Common Stock
 SIX,SIX|Six Flags Entertainment Corporation New Common Stock
 SJI,SJI|South Jersey Industries, Inc. Common Stock
 SJIJ,SJIJ|South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079
-SJIU,SJIU|South Jersey Industries, Inc. Corporate Units
 SJIV,SJIV|South Jersey Industries, Inc. Corporate Units
 SJM,SJM|J.M. Smucker Company (The) New Common Stock
 SJR,SJR|Shaw Communications Inc. Common Stock
@@ -3294,7 +3297,6 @@ SPXC,SPXC|SPX Corporation Common Stock
 SPXX,SPXX|Nuveen S&P 500 Dynamic Overwrite Fund
 SQ,SQ|Square, Inc. Class A Common Stock
 SQM,SQM|Sociedad Quimica y Minera S.A. Common Stock
-SQM.R,SQM.R|Sociedad Quimica y Minera S.A. Rights (expires April 19, 2021) 
 SQNS,SQNS|Sequans Communications S.A. American Depositary Shares
 SQZ,SQZ|SQZ Biotechnologies Company Common Stock
 SR,SR|Spire Inc. Common Stock
@@ -3645,7 +3647,6 @@ V,V|Visa Inc.
 VAC,VAC|Marriott Vacations Worldwide Corporation Common Stock
 VALE,VALE|VALE S.A.  American Depositary Shares Each Representing one common share
 VAPO,VAPO|Vapotherm, Inc. Common Stock
-VAR,VAR|Varian Medical Systems, Inc. Common Stock
 VBF,VBF|Invesco Bond Fund Common Stock
 VCF,VCF|Delaware Investments Colorado Municipal Income Fund, Inc  Common Stock
 VCIF,VCIF|Vertical Capital Income Fund Common Shares of Beneficial Interest
@@ -4152,6 +4153,7 @@ APM,APM|Aptorum Group Limited - Class A Ordinary Shares
 APOG,APOG|Apogee Enterprises, Inc. - Common Stock
 APOP,APOP|Cellect Biotechnology Ltd. - American Depositary Shares
 APOPW,APOPW|Cellect Biotechnology Ltd. - Warrants to Purchase ADR (1 WT and $7.50 to purchase 0.2 ADS)
+APP,APP|Applovin Corporation - Class A Common Stock
 APPF,APPF|AppFolio, Inc. - Class A Common Stock
 APPH,APPH|AppHarvest, Inc. - Common Stock
 APPHW,APPHW|AppHarvest, Inc. - Warrants
@@ -4708,7 +4710,9 @@ CMCT,CMCT|CIM Commercial Trust Corporation - Common Stock
 CMCTP,CMCTP|CIM Commercial Trust Corporation - Series L Preferred Stock
 CME,CME|CME Group Inc. - Class A Common Stock
 CMFNL,CMFNL|Investcorp Credit Management BDC, Inc. - 6.125% Notes due 2023
+CMII,CMII|CM Life Sciences II Inc. - Class A Common Stock
 CMIIU,CMIIU|CM Life Sciences II Inc. - Unit
+CMIIW,CMIIW|CM Life Sciences II Inc. - Warrant
 CMLF,CMLF|CM Life Sciences, Inc. - Class A Common Stock
 CMLFU,CMLFU|CM Life Sciences, Inc. - Unit
 CMLFW,CMLFW|CM Life Sciences, Inc. - Warrant
@@ -5016,6 +5020,7 @@ EAST,EAST|Eastside Distilling, Inc. - Common Stock
 EBACU,EBACU|European Biotech Acquisition Corp. - Units
 EBAY,EBAY|eBay Inc. - Common Stock
 EBC,EBC|Eastern Bankshares, Inc. - Common Stock
+EBET,EBET|Esports Technologies, Inc. - Common Stock
 EBIX,EBIX|Ebix, Inc. - Common Stock
 EBMT,EBMT|Eagle Bancorp Montana, Inc. - Common Stock
 EBON,EBON|Ebang International Holdings Inc. - Class A Ordinary Shares
@@ -5526,7 +5531,9 @@ GSAQ,GSAQ|Global Synergy Acquisition Corp. - Ordinary Shares
 GSAQU,GSAQU|Global Synergy Acquisition Corp. - Units
 GSAQW,GSAQW|Global Synergy Acquisition Corp. - Warrant
 GSBC,GSBC|Great Southern Bancorp, Inc. - Common Stock
+GSEV,GSEV|Gores Holdings VII, Inc. - Class A Common Stock
 GSEVU,GSEVU|Gores Holdings VII, Inc. - Units
+GSEVW,GSEVW|Gores Holdings VII, Inc. - Warrant
 GSHD,GSHD|Goosehead Insurance, Inc. - Class A Common Stock
 GSIT,GSIT|GSI Technology, Inc. - Common Stock
 GSKY,GSKY|GreenSky, Inc. - Common Stock
@@ -5974,6 +5981,7 @@ KRNT,KRNT|Kornit Digital Ltd. - Ordinary Shares
 KRNY,KRNY|Kearny Financial - Common Stock
 KRON,KRON|Kronos Bio, Inc. - Common Stock
 KROS,KROS|Keros Therapeutics, Inc. - common stock
+KRT,KRT|Karat Packaging Inc. - Common Stock
 KRTX,KRTX|Karuna Therapeutics, Inc. - Common Stock
 KRUS,KRUS|Kura Sushi USA, Inc. - Class A Common Stock
 KRYS,KRYS|Krystal Biotech, Inc. - Common Stock
@@ -6252,7 +6260,6 @@ METX,METX|Meten EdtechX Education Group Ltd. - Ordinary Shares
 METXW,METXW|Meten EdtechX Education Group Ltd. - Warrant
 MFH,MFH|Mercurity Fintech Holding Inc. - American Depositary Shares
 MFIN,MFIN|Medallion Financial Corp. - Common Stock
-MFINL,MFINL|Medallion Financial Corp. - 9.000% Notes due 2021
 MFNC,MFNC|Mackinac Financial Corporation - Common Stock
 MGEE,MGEE|MGE Energy Inc. - Common Stock
 MGI,MGI|Moneygram International, Inc. - Common Stock
@@ -6664,7 +6671,6 @@ OXBRW,OXBRW|Oxbridge Re Holdings Limited - Warrant
 OXLC,OXLC|Oxford Lane Capital Corp. - Common Stock
 OXLCL,OXLCL|Oxford Lane Capital Corp. - 6.75% Notes due 2031
 OXLCM,OXLCM|Oxford Lane Capital Corp. - 6.75% Series 2024 Term Preferred Stock
-OXLCO,OXLCO|Oxford Lane Capital Corp. - Term Preferred Shares, 7.50% Series 2023
 OXLCP,OXLCP|Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
 OXSQ,OXSQ|Oxford Square Capital Corp. - Closed End Fund
 OXSQL,OXSQL|Oxford Square Capital Corp. - 6.50% Notes due 2024
@@ -7228,7 +7234,9 @@ SIVBP,SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th inte
 SJ,SJ|Scienjoy Holding Corporation - Ordinary Shares
 SKYW,SKYW|SkyWest, Inc. - Common Stock
 SLAB,SLAB|Silicon Laboratories, Inc. - Common Stock
+SLAM,SLAM|Slam Corp. - Class A Ordinary Share
 SLAMU,SLAMU|Slam Corp. - Unit
+SLAMW,SLAMW|Slam Corp. - warrant
 SLCR,SLCR|Silver Crest Acquisition Corporation - Class A Ordinary Share
 SLCRU,SLCRU|Silver Crest Acquisition Corporation - Unit
 SLCRW,SLCRW|Silver Crest Acquisition Corporation - Warrant
@@ -7588,6 +7596,7 @@ TSIB,TSIB|Tishman Speyer Innovation Corp. II - Class A common stock
 TSIBU,TSIBU|Tishman Speyer Innovation Corp. II - Unit
 TSIBW,TSIBW|Tishman Speyer Innovation Corp. II - Warrant
 TSLA,TSLA|Tesla, Inc.  - Common Stock
+TSP,TSP|TuSimple Holdings Inc. - Class A Common Stock
 TSRI,TSRI|TSR, Inc. - Common Stock
 TTCF,TTCF|Tattooed Chef, Inc. - Class A Common Stock
 TTD,TTD|The Trade Desk, Inc. - Class A Common Stock
@@ -7704,7 +7713,9 @@ VCVCW,VCVCW|10X Capital Venture Acquisition Corp - Warrant
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
 VECT,VECT|VectivBio Holding AG - Ordinary Shares
+VELO,VELO|Velocity Acquisition Corp. - Class A Common Stock
 VELOU,VELOU|Velocity Acquisition Corp. - Units
+VELOW,VELOW|Velocity Acquisition Corp. - Warrant
 VENA,VENA|Venus Acquisition Corporation - Ordinary Shares
 VENAR,VENAR|Venus Acquisition Corporation - Rights
 VENAU,VENAU|Venus Acquisition Corporation - Units
