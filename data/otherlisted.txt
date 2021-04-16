@@ -550,6 +550,7 @@ BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BEP|Brookfield Renewable Partners L.P. |N|BEP|N|100|N|BEP
 BEP$A|Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17|N|BEPpA|N|100|N|BEP-A
 BEPC|Brookfield Renewable Corporation Class A Subordinate Voting Shares |N|BEPC|N|100|N|BEPC
+BEPH|Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes|N|BEPH|N|100|N|BEPH
 BERY|Berry Global Group, Inc. Common Stock|N|BERY|N|100|N|BERY
 BEST|BEST Inc. American Depositary Shares, each representing one Class A Ordinary Share|N|BEST|N|100|N|BEST
 BETZ|Roundhill Sports Betting & iGaming ETF|P|BETZ|Y|100|N|BETZ
@@ -732,6 +733,7 @@ BSX|Boston Scientific Corporation Common Stock|N|BSX|N|100|N|BSX
 BSX$A|Boston Scientific Corporation 5.50% Mandatory Convertible Preferred Stock, Series A|N|BSXpA|N|100|N|BSX-A
 BTA|BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest|N|BTA|N|100|N|BTA
 BTAL|AGFiQ U.S. Market Neutral Anti-Beta Fund|P|BTAL|Y|100|N|BTAL
+BTC|ClearShares Piton Intermediate Fixed income ETF|P|BTC|Y|100|N|BTC
 BTEK|BlackRock Future Tech ETF|P|BTEK|Y|100|N|BTEK
 BTG|B2Gold Corp Common shares (Canada)|A|BTG|N|100|N|BTG
 BTI|British American Tobacco  Industries, p.l.c. Common Stock ADR|N|BTI|N|100|N|BTI
@@ -958,7 +960,6 @@ CIT|CIT Group Inc (DEL) Common Stock|N|CIT|N|100|N|CIT
 CIT$B|CIT Group Inc (DEL) 5.625 % Non-Cumulative Perpetual Preferred Stock, Series B|N|CITpB|N|100|N|CIT-B
 CIX|CompX International Inc. Common Stock|A|CIX|N|100|N|CIX
 CIXX|CI Financial Corp. Common Shares|N|CIXX|N|100|N|CIXX
-CKH|SEACOR Holdings Inc. Common Stock|N|CKH|N|100|N|CKH
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
 CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|CLAA.U|N|100|N|CLAA=
@@ -4111,7 +4112,6 @@ PICC|Pivotal Investment Corporation III Class A Common Stock|N|PICC|N|100|N|PICC
 PICC.U|Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|PICC.U|N|100|N|PICC=
 PICC.W|Pivotal Investment Corporation III Redeemable Warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share|N|PICC.WS|N|100|N|PICC+
 PICK|iShares MSCI Global Select Metals & Mining Producers Fund|Z|PICK|Y|100|N|PICK
-PIFI|ClearShares Piton Intermediate Fixed income ETF|P|PIFI|Y|100|N|PIFI
 PII|Polaris Inc. Common Stock|N|PII|N|100|N|PII
 PILL|Direxion Daily Pharmaceutical & Medical Bull 3X Shares|P|PILL|Y|100|N|PILL
 PIM|Putnam Master Intermediate Income Trust Common Stock|N|PIM|N|100|N|PIM
@@ -5360,6 +5360,7 @@ UFEB|Innovator S&P 500 Ultra Buffer ETF - February|Z|UFEB|Y|100|N|UFEB
 UFI|Unifi, Inc. New Common Stock|N|UFI|N|100|N|UFI
 UFS|Domtar Corporation (NEW) Common Stock|N|UFS|N|100|N|UFS
 UGA|United States Gasoline Fund LP|P|UGA|Y|100|N|UGA
+UGCE|Uncommon Portfolio Design Core Equity ETF|P|UGCE|Y|100|N|UGCE
 UGE|ProShares Ultra Consumer Goods|P|UGE|Y|100|N|UGE
 UGI|UGI Corporation Common Stock|N|UGI|N|100|N|UGI
 UGL|ProShares Ultra Gold|P|UGL|Y|100|N|UGL
@@ -5885,4 +5886,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0415202115:41||||||
+File Creation Time: 0416202112:11||||||

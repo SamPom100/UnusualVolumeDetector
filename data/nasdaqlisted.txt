@@ -170,6 +170,7 @@ AKTS|Akoustis Technologies, Inc. - Common Stock|S|N|N|100|N|N
 AKTX|Akari Therapeutics Plc - American Depositary Shares|S|N|N|100|N|N
 AKU|Akumin Inc. - Common Shares|S|N|N|100|N|N
 AKUS|Akouos, Inc. - Common Stock|Q|N|N|100|N|N
+AKYA|Akoya BioSciences, Inc. - Common Stock|Q|N|N|100|N|N
 ALAC|Alberton Acquisition Corporation - Ordinary Shares|S|N|D|100|N|N
 ALACR|Alberton Acquisition Corporation - Rights|S|N|D|100|N|N
 ALACU|Alberton Acquisition Corporation - Unit|S|N|D|100|N|N
@@ -551,6 +552,7 @@ BLUW|Blue Water Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 BLUWU|Blue Water Acquisition Corp. - Unit|S|N|N|100|N|N
 BLUWW|Blue Water Acquisition Corp. - Warrant|S|N|N|100|N|N
 BMBL|Bumble Inc. - common stock|Q|N|N|100|N|N
+BMEA|Biomea Fusion, Inc. - Common Stock|Q|N|N|100|N|N
 BMRA|Biomerica, Inc. - Common Stock|S|N|N|100|N|N
 BMRC|Bank of Marin Bancorp - Common Stock|S|N|N|100|N|N
 BMRN|BioMarin Pharmaceutical Inc. - Common Stock|Q|N|N|100|N|N
@@ -943,7 +945,9 @@ COHU|Cohu, Inc. - Common Stock|Q|N|N|100|N|N
 COIN|Coinbase Global, Inc. - Class A Common Stock|Q|N|N|100|N|N
 COKE|Coca-Cola Consolidated, Inc. - Common Stock|Q|N|N|100|N|N
 COLB|Columbia Banking System, Inc. - Common Stock|Q|N|N|100|N|N
+COLI|Colicity Inc. - Class A Common Stock|S|N|N|100|N|N
 COLIU|Colicity Inc. - Units|S|N|N|100|N|N
+COLIW|Colicity Inc. - Warrant|S|N|N|100|N|N
 COLL|Collegium Pharmaceutical, Inc. - Common Stock|Q|N|N|100|N|N
 COLM|Columbia Sportswear Company - Common Stock|Q|N|N|100|N|N
 COMM|CommScope Holding Company, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1089,7 +1093,7 @@ CYBR|CyberArk Software Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CYCC|Cyclacel Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 CYCCP|Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock|S|N|N|100|N|N
 CYCN|Cyclerion Therapeutics, Inc. - Common Stock |Q|N|N|100|N|N
-CYRN|CYREN Ltd. - Ordinary Shares|S|N|N|100|N|N
+CYRN|CYREN Ltd. - Ordinary Shares|S|N|D|100|N|N
 CYRX|CryoPort, Inc. - Common Stock|S|N|N|100|N|N
 CYTH|Cyclo Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CYTHW|Cyclo Therapeutics, Inc. - Warrant|S|N|N|100|N|N
@@ -1613,7 +1617,9 @@ FSTX|F-star Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 FSV|FirstService Corporation - Common Shares|Q|N|N|100|N|N
 FSZ|First Trust Switzerland AlphaDEX Fund|G|N|N|100|Y|N
 FTA|First Trust Large Cap Value AlphaDEX Fund|G|N|N|100|Y|N
+FTAA|FTAC Athena Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 FTAAU|FTAC Athena Acquisition Corp. - Unit|S|N|N|100|N|N
+FTAAW|FTAC Athena Acquisition Corp. - Warrant|S|N|N|100|N|N
 FTAG|First Trust Indxx Global Agriculture ETF|G|N|N|100|Y|N
 FTC|First Trust Large Cap Growth AlphaDEX Fund|G|N|N|100|Y|N
 FTCS|First Trust Capital Strength ETF|G|N|N|100|Y|N
@@ -1686,7 +1692,10 @@ GBLIL|Global Indemnity Group, LLC - 7.875% Subordinated Notes due 2047|Q|N|N|100
 GBNH|Greenbrook TMS Inc. - Common Shares|S|N|N|100|N|N
 GBNY|Generations Bancorp NY, Inc. - Common Stock|S|N|N|100|N|N
 GBOX|Greenbox POS - Common Stock|S|N|N|100|N|N
+GBRG|Goldenbridge Acquisition Limited - Ordinary Shares|S|N|N|100|N|N
+GBRGR|Goldenbridge Acquisition Limited - Right|S|N|N|100|N|N
 GBRGU|Goldenbridge Acquisition Limited - Unit|S|N|N|100|N|N
+GBRGW|Goldenbridge Acquisition Limited - Warrant|S|N|N|100|N|N
 GBS|GBS Inc. - Common Stock|G|N|N|100|N|N
 GBT|Global Blood Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 GCAC|Growth Capital Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -1741,7 +1750,9 @@ GLADL|Gladstone Capital Corporation - 5.375% Notes due 2024|Q|N|N|100|N|N
 GLAQ|Globis Acquisition Corp. - Common stock|S|N|N|100|N|N
 GLAQU|Globis Acquisition Corp. - Unit|S|N|N|100|N|N
 GLAQW|Globis Acquisition Corp. - Warrant|S|N|N|100|N|N
+GLBL|Cartesian Growth Corporation - Class A Ordinary Share|S|N|N|100|N|N
 GLBLU|Cartesian Growth Corporation - Unit|S|N|N|100|N|N
+GLBLW|Cartesian Growth Corporation - Warrant|S|N|N|100|N|N
 GLBS|Globus Maritime Limited - Common Stock|S|N|N|100|N|N
 GLBZ|Glen Burnie Bancorp - Common Stock|S|N|N|100|N|N
 GLDD|Great Lakes Dredge & Dock Corporation - Common Stock|Q|N|N|100|N|N
@@ -1768,7 +1779,6 @@ GMDA|Gamida Cell Ltd. - Ordinary Shares|G|N|N|100|N|N
 GMII|Gores Metropoulos II, Inc. - Class A Common Stock|S|N|N|100|N|N
 GMIIU|Gores Metropoulos II, Inc. - Unit|S|N|N|100|N|N
 GMIIW|Gores Metropoulos II, Inc. - Warrants|S|N|N|100|N|N
-GMLP|Golar LNG Partners LP - Common Units Representing Limited Partnership|Q|N|N|100|N|N
 GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units|Q|N|N|100|N|N
 GMTX|Gemini Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GNAC|Group Nine Acquisition Corp. - Class A Common stock|S|N|N|100|N|N
@@ -1935,7 +1945,9 @@ HHR|HeadHunter Group PLC - American Depositary Shares|Q|N|N|100|N|N
 HIBB|Hibbett Sports, Inc. - Common Stock|Q|N|N|100|N|N
 HIFS|Hingham Institution for Savings - Common Stock|G|N|N|100|N|N
 HIHO|Highway Holdings Limited - Common Stock|S|N|N|100|N|N
+HIII|Hudson Executive Investment Corp. III - Class A Common Stock|S|N|N|100|N|N
 HIIIU|Hudson Executive Investment Corp. III - Unit|S|N|N|100|N|N
+HIIIW|Hudson Executive Investment Corp. III - Warrant|S|N|N|100|N|N
 HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.|Q|N|N|100|N|N
 HJLI|Hancock Jaffe Laboratories, Inc. - Common Stock|S|N|N|100|N|N
 HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants|S|N|N|100|N|N
@@ -2651,7 +2663,6 @@ MGYR|Magyar Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 MHLD|Maiden Holdings, Ltd. - Common Stock|S|N|N|100|N|N
 MICT|MICT, Inc. - Common Stock|S|N|N|100|N|N
 MIDD|The Middleby Corporation - Common Stock|Q|N|N|100|N|N
-MIK|The Michaels Companies, Inc. - Common Stock|Q|N|N|100|N|N
 MILE|Metromile, Inc. - Common Stock|S|N|N|100|N|N
 MILEW|Metromile, Inc. - Warrant|S|N|N|100|N|N
 MILN|Global X Millennial Consumer ETF|G|N|N|100|Y|N
@@ -2787,7 +2798,9 @@ NBLX|Noble Midstream Partners LP - Common Units, Representing Limited Partner In
 NBN|Northeast Bank - Common Stock|G|N|N|100|N|N
 NBRV|Nabriva Therapeutics plc - Ordinary Shares|Q|N|N|100|N|N
 NBSE|NeuBase Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
+NBST|Newbury Street Acquisition Corporation - Common Stock|S|N|N|100|N|N
 NBSTU|Newbury Street Acquisition Corporation - Units|S|N|N|100|N|N
+NBSTW|Newbury Street Acquisition Corporation - Warrants|S|N|N|100|N|N
 NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100|N|N
 NBTX|Nanobiotix S.A. - ADSs|Q|N|N|100|N|N
 NCBS|Nicolet Bankshares Inc. - Common Stock|S|N|N|100|N|N
@@ -3548,6 +3561,7 @@ RVSB|Riverview Bancorp Inc - Common Stock|Q|N|N|100|N|N
 RWLK|ReWalk Robotics Ltd. - Ordinary Shares|S|N|N|100|N|N
 RXDX|Prometheus Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 RXRAU|RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant|S|N|N|100|N|N
+RXRX|Recursion Pharmaceuticals, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RXT|Rackspace Technology, Inc. - Common Stock|Q|N|N|100|N|N
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100|N|N
 RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
@@ -4509,4 +4523,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0415202115:41|||||||
+File Creation Time: 0416202112:11|||||||
