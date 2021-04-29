@@ -1544,6 +1544,7 @@ EDIV|SPDR S&P Emerging Markets Dividend ETF|P|EDIV|Y|100|N|EDIV
 EDN|Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares|N|EDN|N|100|N|EDN
 EDOG|ALPS Emerging Sector Dividend Dogs ETF|P|EDOG|Y|100|N|EDOG
 EDOW|First Trust Dow 30 Equal Weight ETF|P|EDOW|Y|100|N|EDOW
+EDR|Endeavor Group Holdings, Inc. Class A Common Stock|N|EDR|N|100|N|EDR
 EDU|New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)|N|EDU|N|100|N|EDU
 EDV|Vanguard Extended Duration Treasury ETF|P|EDV|Y|100|N|EDV
 EDZ|Direxion Emerging Markets Bear 3X Shares|P|EDZ|Y|100|N|EDZ
@@ -4082,7 +4083,9 @@ PDI|PIMCO Dynamic Income Fund Common Stock|N|PDI|N|100|N|PDI
 PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock|N|PDM|N|100|N|PDM
 PDN|Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF|P|PDN|Y|100|N|PDN
 PDO|PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest|N|PDO|N|100|N|PDO
+PDOT|Peridot Acquisition Corp. II Class A Ordinary Shares|N|PDOT|N|100|N|PDOT
 PDOT.U|Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|PDOT.U|N|100|N|PDOT=
+PDOT.W|Peridot Acquisition Corp. II Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PDOT.WS|N|100|N|PDOT+
 PDS|Precision Drilling Corporation Common Stock|N|PDS|N|100|N|PDS
 PDT|John Hancock Premium Dividend Fund|N|PDT|N|100|N|PDT
 PEAK|Healthpeak Properties, Inc. Common Stock|N|PEAK|N|100|N|PEAK
@@ -4708,6 +4711,7 @@ SCHW$C|The Charles Schwab Corporation Depositary Shares each representing 1/40th
 SCHW$D|The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock, Series D|N|SCHWpD|N|100|N|SCHW-D
 SCHW$J|The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.450% Non-Cumulative Perpetual Preferred Stock, Series J|N|SCHWpJ|N|100|N|SCHW-J
 SCHX|Schwab U.S. Large-Cap ETF|P|SCHX|Y|100|N|SCHX
+SCHY|Schwab International Dividend Equity ETF|P|SCHY|Y|100|N|SCHY
 SCHZ|Schwab US Aggregate Bond ETF|P|SCHZ|Y|100|N|SCHZ
 SCI|Service Corporation International Common Stock|N|SCI|N|100|N|SCI
 SCJ|iShares MSCI Japan Sm Cap|P|SCJ|Y|100|N|SCJ
@@ -5031,6 +5035,8 @@ STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock|N|STARpG|N|100|
 STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock|N|STARpI|N|100|N|STAR-I
 STC|Stewart Information Services Corporation Common Stock|N|STC|N|100|N|STC
 STE|STERIS plc (Ireland) Ordinary Shares|N|STE|N|100|N|STE
+STEM|Stem, Inc. Class A Common Stock|N|STEM|N|100|N|STEM
+STEM.W|Stem, Inc. Warrants|N|STEM.WS|N|100|N|STEM+
 STG|Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares|N|STG|N|100|N|STG
 STIC|Northern Star Acquisition Corp. Class A Common Stock|N|STIC|N|100|N|STIC
 STIC.U|Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third ofA one Warrant|N|STIC.U|N|100|N|STIC=
@@ -5054,9 +5060,6 @@ STOT|SPDR DoubleLine Short Duration Total Return Tactical ETF|Z|STOT|Y|100|N|STO
 STPC|Star Peak Corp II Class A Common Stock|N|STPC|N|100|N|STPC
 STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|STPC.U|N|100|N|STPC=
 STPC.W|Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|STPC.WS|N|100|N|STPC+
-STPK|Star Peak Energy Transition Corp. Class A Common Stock|N|STPK|N|100|N|STPK
-STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|STPK.U|N|100|N|STPK=
-STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|STPK.WS|N|100|N|STPK+
 STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
 STRE.U|Supernova Partners Acquisition Company III, Ltd. Units|N|STRE.U|N|100|N|STRE=
 STSB|iShares Factors US Small Blend Style ETF|Z|STSB|Y|100|N|STSB
@@ -5946,4 +5949,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0428202115:40||||||
+File Creation Time: 0429202112:11||||||

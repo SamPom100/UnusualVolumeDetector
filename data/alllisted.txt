@@ -1176,6 +1176,7 @@ EDD,EDD|Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Morgan Stanley 
 EDF,EDF|Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
 EDI,EDI|Stone Harbor Emerging Markets Total Income Fund Common Shares of Beneficial Interests
 EDN,EDN|Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares
+EDR,EDR|Endeavor Group Holdings, Inc. Class A Common Stock
 EDU,EDU|New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)
 EEA,EEA|The European Equity Fund, Inc. Common Stock
 EEH,EEH|Aktiebolaget Svensk Exportkredit (Swed Ex Cred Corp) Elements (SM) Linked to the SPECTRUM Large Cap U.S. Sector Momentum Index developed by BNP Paribas due August 8, 2022, Medium-Term Notes, Series D
@@ -2785,7 +2786,9 @@ PDAC.W,PDAC.W|Peridot Acquisition Corp. Redeemable Warrants, each whole warrant 
 PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDO,PDO|PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest
+PDOT,PDOT|Peridot Acquisition Corp. II Class A Ordinary Shares
 PDOT.U,PDOT.U|Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant
+PDOT.W,PDOT.W|Peridot Acquisition Corp. II Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PDS,PDS|Precision Drilling Corporation Common Stock
 PDT,PDT|John Hancock Premium Dividend Fund
 PEAK,PEAK|Healthpeak Properties, Inc. Common Stock
@@ -3365,6 +3368,8 @@ STAR$G,STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock
 STAR$I,STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock
 STC,STC|Stewart Information Services Corporation Common Stock
 STE,STE|STERIS plc (Ireland) Ordinary Shares
+STEM,STEM|Stem, Inc. Class A Common Stock
+STEM.W,STEM.W|Stem, Inc. Warrants
 STG,STG|Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares
 STIC,STIC|Northern Star Acquisition Corp. Class A Common Stock
 STIC.U,STIC.U|Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third ofA one Warrant
@@ -3381,9 +3386,6 @@ STOR,STOR|STORE Capital Corporation Common Stock
 STPC,STPC|Star Peak Corp II Class A Common Stock
 STPC.U,STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
 STPC.W,STPC.W|Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
-STPK,STPK|Star Peak Energy Transition Corp. Class A Common Stock
-STPK.U,STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant
-STPK.W,STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
 STRE.U,STRE.U|Supernova Partners Acquisition Company III, Ltd. Units
 STT,STT|State Street Corporation Common Stock
 STT$D,STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
@@ -3990,7 +3992,9 @@ ACLS,ACLS|Axcelis Technologies, Inc. - Common Stock
 ACMR,ACMR|ACM Research, Inc. - Class A Common Stock
 ACNB,ACNB|ACNB Corporation - Common Stock
 ACOR,ACOR|Acorda Therapeutics, Inc. - Common Stock
+ACQR,ACQR|Independence Holdings Corp. - Class A Ordinary Share
 ACQRU,ACQRU|Independence Holdings Corp. - Units
+ACQRW,ACQRW|Independence Holdings Corp. - Warrant
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc. - Class A Common Stock
@@ -4144,7 +4148,9 @@ ALXN,ALXN|Alexion Pharmaceuticals, Inc. - Common Stock
 ALXO,ALXO|ALX Oncology Holdings Inc. - Common Stock
 ALYA,ALYA|Alithya Group inc. - Class A subordinate voting shares
 AMAL,AMAL|Amalgamated Financial Corp. - Common Stock
+AMAO,AMAO|American Acquisition Opportunity Inc. - Class A Common Stock
 AMAOU,AMAOU|American Acquisition Opportunity Inc. - Units
+AMAOW,AMAOW|American Acquisition Opportunity Inc. - Warrant
 AMAT,AMAT|Applied Materials, Inc. - Common Stock
 AMBA,AMBA|Ambarella, Inc. - Ordinary Shares
 AMCX,AMCX|AMC Networks Inc. - Class A Common Stock
@@ -4330,6 +4336,7 @@ AUTO,AUTO|AutoWeb, Inc. - Common Stock
 AUUD,AUUD|Auddia Inc. - Common Stock
 AUUDW,AUUDW|Auddia Inc. - Warrants
 AUVI,AUVI|Applied UV, Inc. - Common Stock
+AVAH,AVAH|Aveanna Healthcare Holdings Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
 AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
 AVCT,AVCT|American Virtual Cloud Technologies, Inc.  - Common Stock
@@ -4542,6 +4549,7 @@ BRY,BRY|Berry Corporation (bry) - Common Stock
 BSBK,BSBK|Bogota Financial Corp. - Common Stock
 BSET,BSET|Bassett Furniture Industries, Incorporated - Common Stock
 BSGM,BSGM|BioSig Technologies, Inc. - Common Stock
+BSKYU,BSKYU|Big Sky Growth Partners, Inc. - Unit
 BSPE,BSPE|Bespoke Capital Acquisition Corp. - Class A Restricted Voting Shares
 BSQR,BSQR|BSQUARE Corporation - Common Stock
 BSRR,BSRR|Sierra Bancorp - Common Stock
@@ -6660,6 +6668,7 @@ OCAXU,OCAXU|OCA Acquisition Corp. - Unit
 OCAXW,OCAXW|OCA Acquisition Corp. - Warrant
 OCC,OCC|Optical Cable Corporation - Common Stock
 OCCI,OCCI|OFS Credit Company, Inc. - Common Stock
+OCCIO,OCCIO|OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock
 OCCIP,OCCIP|OFS Credit Company, Inc. - 6.875% Series A Term Preferred Stock
 OCDX,OCDX|Ortho Clinical Diagnostics plc - Ordinary Shares
 OCFC,OCFC|OceanFirst Financial Corp. - Common Stock
@@ -6970,6 +6979,7 @@ PRTG,PRTG|Portage Biotech Inc. - Common Stock
 PRTH,PRTH|Priority Technology Holdings, Inc. - Common Stock
 PRTK,PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock
 PRTS,PRTS|CarParts.com, Inc. - Common Stock
+PRVA,PRVA|Privia Health Group, Inc. - Common Stock
 PRVB,PRVB|Provention Bio, Inc. - Common Stock
 PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
 PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
@@ -7355,6 +7365,7 @@ SLGN,SLGN|Silgan Holdings Inc. - Common Stock
 SLM,SLM|SLM Corporation - Common Stock
 SLMBP,SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
 SLN,SLN|Silence Therapeutics Plc - American Depository Share
+SLNG,SLNG|Stabilis Solutions, Inc. - Common Stock
 SLNO,SLNO|Soleno Therapeutics, Inc. - Common Stock
 SLP,SLP|Simulations Plus, Inc. - Common Stock
 SLRC,SLRC|SLR Investment Corp. - Common Stock
@@ -7719,6 +7730,7 @@ TTMI,TTMI|TTM Technologies, Inc. - Common Stock
 TTNP,TTNP|Titan Pharmaceuticals, Inc. - Common Stock
 TTOO,TTOO|T2 Biosystems, Inc. - Common Stock
 TTWO,TTWO|Take-Two Interactive Software, Inc. - Common Stock
+TUGCU,TUGCU|TradeUP Global Corporation - Unit
 TURN,TURN|180 Degree Capital Corp. - Common Stock
 TUSK,TUSK|Mammoth Energy Services, Inc. - Common Stock
 TVAC,TVAC|Thayer Ventures Acquisition Corporation - Class A Common Stock
