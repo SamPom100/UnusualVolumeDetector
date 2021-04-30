@@ -777,7 +777,9 @@ CIX,CIX|CompX International Inc. Common Stock
 CIXX,CIXX|CI Financial Corp. Common Shares
 CKX,CKX|CKX Lands, Inc. Common Stock
 CL,CL|Colgate-Palmolive Company Common Stock
+CLAA,CLAA|Colonnade Acquisition Corp. II Class A Ordinary Shares
 CLAA.U,CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant
+CLAA.W,CLAA.W|Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 CLAS,CLAS|Class Acceleration Corp. Class A Common Stock
 CLAS.U,CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
 CLAS.W,CLAS.W|Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
@@ -1287,7 +1289,9 @@ ESBA,ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Rep
 ESE,ESE|ESCO Technologies Inc. Common Stock
 ESGC,ESGC|Eros STX Global Corporation A Ordinary Shares
 ESI,ESI|Element Solutions Inc. Common Stock
+ESM,ESM|ESM Acquisition Corporation Class A Ordinary Shares
 ESM.U,ESM.U|ESM Acquisition Corporation Unit
+ESM.W,ESM.W|ESM Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ESNT,ESNT|Essent Group Ltd. Common Shares
 ESP,ESP|Espey Mfg. & Electronics Corp. Common Stock
 ESRT,ESRT|Empire State Realty Trust, Inc. Class A Common Stock
@@ -1474,7 +1478,9 @@ FRT$C,FRT$C|Federal Realty Investment Trust Depositary Shares, each representing
 FRX,FRX|Forest Road Acquisition Corp. Class A Common Stock
 FRX.U,FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant
 FRX.W,FRX.W|Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
+FRXB,FRXB|Forest Road Acquisition Corp. II Class A Common Stock
 FRXB.U,FRXB.U|Forest Road Acquisition Corp. II Unit
+FRXB.W,FRXB.W|Forest Road Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 FSD,FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest
 FSI,FSI|Flexible Solutions International Inc. Common Stock (CDA)
 FSK,FSK|FS KKR Capital Corp. Common Stock
@@ -1860,6 +1866,7 @@ IACA.W,IACA.W|ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisab
 IACB,IACB|ION Acquisition Corp 2 Ltd. Class A Ordinary Shares
 IACB.U,IACB.U|ION Acquisition Corp 2 Ltd. Units, each consisting of one Class A ordinary share and one-eighth of one redeemable warrant
 IACB.W,IACB.W|ION Acquisition Corp 2 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
+IACC,IACC|ION Acquisition Corp 3 Ltd. Class A Ordinary Shares
 IAE,IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAF,IAF|Aberdeen Australia Equity Fund Inc Common Stock
 IAG,IAG|Iamgold Corporation Ordinary Shares
@@ -2684,8 +2691,6 @@ ODC,ODC|Oil-Dri Corporation Of America Common Stock
 OEC,OEC|Orion Engineered Carbons S.A Common Shares
 OFC,OFC|Corporate Office Properties Trust Common Stock
 OFG,OFG|OFG Bancorp Common Stock
-OFG$A,OFG$A|OFG Bancorp Preferred Stock
-OFG$B,OFG$B|OFG Bancorp 7.0% Non Cumulative Monthly Income Preferred Stock Series B
 OFG$D,OFG$D|OFG Bancorp 7.125% Non-Cumulative Perpetual Preferred Stock. Series D
 OGCP,OGCP|Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests
 OGE,OGE|OGE Energy Corp Common Stock
@@ -3164,7 +3169,9 @@ SBG.U,SBG.U|Sandbridge Acquisition Corporation Units
 SBG.W,SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 SBH,SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI,SBI|Western Asset Intermediate Muni Fund Inc Common Stock
+SBII,SBII|Sandbridge X2 Corp. Class A Common Stock
 SBII.U,SBII.U|Sandbridge X2 Corp. Unit
+SBII.W,SBII.W|Sandbridge X2 Corp. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share
 SBOW,SBOW|SilverBow Resorces, Inc. Common Stock
 SBR,SBR|Sabine Royalty Trust Common Stock
 SBS,SBS|Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)
@@ -4070,7 +4077,9 @@ AGCWW,AGCWW|Altimeter Growth Corp. - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGFY,AGFY|Agrify Corporation - Common Stock
+AGGR,AGGR|Agile Growth Corp. - Class A Ordinary Share
 AGGRU,AGGRU|Agile Growth Corp. - Units
+AGGRW,AGGRW|Agile Growth Corp. - Warrant
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
 AGLE,AGLE|Aeglea BioTherapeutics, Inc. - Common Stock
 AGMH,AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares
@@ -4298,6 +4307,7 @@ ASYS,ASYS|Amtech Systems, Inc. - Common Stock
 ATAX,ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
 ATCX,ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock
 ATEC,ATEC|Alphatec Holdings, Inc. - Common Stock
+ATER,ATER|Aterian, Inc. - Common Stock
 ATEX,ATEX|Anterix Inc. - Common Stock
 ATHA,ATHA|Athira Pharma, Inc. - Common Stock
 ATHE,ATHE|Alterity Therapeutics Limited - American Depositary Shares
@@ -5068,7 +5078,9 @@ DSPG,DSPG|DSP Group, Inc. - Common Stock
 DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
 DTIL,DTIL|Precision BioSciences, Inc. - Common Stock
+DTOC,DTOC|Digital Transformation Opportunities Corp. - Class A Common Stock
 DTOCU,DTOCU|Digital Transformation Opportunities Corp. - Units
+DTOCW,DTOCW|Digital Transformation Opportunities Corp. - Warrant
 DTSS,DTSS|Datasea Inc. - Common Stock
 DUNE,DUNE|Dune Acquisition Corporation - Class A Common Stock
 DUNEU,DUNEU|Dune Acquisition Corporation - Unit
@@ -5390,7 +5402,9 @@ FRSGW,FRSGW|First Reserve Sustainable Growth Corp. - Warrant
 FRST,FRST|Primis Financial Corp. - Common Stock
 FRSX,FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares
 FRTA,FRTA|Forterra, Inc. - Common Stock
+FRW,FRW|PWP Forward Acquisition Corp. I - Class A Common Stock
 FRWAU,FRWAU|PWP Forward Acquisition Corp. I - Units
+FRWAW,FRWAW|PWP Forward Acquisition Corp. I - Warrant
 FSBW,FSBW|FS Bancorp, Inc. - Common Stock
 FSEA,FSEA|First Seacoast Bancorp - Common Stock
 FSFG,FSFG|First Savings Financial Group, Inc. - Common Stock
@@ -5538,7 +5552,6 @@ GLRE,GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
 GLSI,GLSI|Greenwich LifeSciences, Inc. - Common stock
 GLSPU,GLSPU|Global SPAC Partners Co. - Unit
 GLTO,GLTO|Galecto, Inc. - Common Stock
-GLUU,GLUU|Glu Mobile Inc. - Common Stock
 GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
 GMAB,GMAB|Genmab A/S - American Depositary Shares
 GMBL,GMBL|Esports Entertainment Group Inc. - Common Stock
@@ -5748,6 +5761,7 @@ HOOK,HOOK|HOOKIPA Pharma Inc. - Common Stock
 HOPE,HOPE|Hope Bancorp, Inc. - Common Stock
 HOTH,HOTH|Hoth Therapeutics, Inc. - Common Stock
 HOVNP,HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock
+HOWL,HOWL|Werewolf Therapeutics, Inc. - Common Stock
 HPK,HPK|HighPeak Energy, Inc. - Common Stock
 HPKEW,HPKEW|HighPeak Energy, Inc. - Warrant
 HQI,HQI|HireQuest, Inc. - Common Stock
@@ -6485,7 +6499,6 @@ MUDSU,MUDSU|Mudrick Capital Acquisition Corporation II - Unit
 MUDSW,MUDSW|Mudrick Capital Acquisition Corporation II - Warrant
 MVBF,MVBF|MVB Financial Corp. - Common Stock
 MVIS,MVIS|MicroVision, Inc. - Common Stock
-MWK,MWK|Mohawk Group Holdings, Inc. - Common Stock
 MXIM,MXIM|Maxim Integrated Products, Inc. - Common Stock
 MYFW,MYFW|First Western Financial, Inc. - Common Stock
 MYGN,MYGN|Myriad Genetics, Inc. - Common Stock
@@ -7082,6 +7095,7 @@ RBCAA,RBCAA|Republic Bancorp, Inc. - Class A Common Stock
 RBCN,RBCN|Rubicon Technology, Inc. - Common Stock
 RBKB,RBKB|Rhinebeck Bancorp, Inc. - Common Stock
 RBNC,RBNC|Reliant Bancorp, Inc. - Common Stock
+RCAT,RCAT|Red Cat Holdings, Inc. - Common Stock
 RCEL,RCEL|Avita Therapeutics, Inc. - Common Stock
 RCHG,RCHG|Recharge Acquisition Corp. - Class A Common Stock
 RCHGU,RCHGU|Recharge Acquisition Corp. - Unit
@@ -7817,6 +7831,7 @@ UTSI,UTSI|UTStarcom Holdings Corp - Ordinary Shares
 UVSP,UVSP|Univest Financial Corporation - Common Stock
 UXIN,UXIN|Uxin Limited - American Depositary Shares
 VABK,VABK|Virginia National Bankshares Corporation - Common Stock
+VACC,VACC|Vaccitech plc - American Depositary Shares
 VACQ,VACQ|Vector Acquisition Corporation - Class A Common Stock
 VACQU,VACQU|Vector Acquisition Corporation - Unit
 VACQW,VACQW|Vector Acquisition Corporation - Warrant

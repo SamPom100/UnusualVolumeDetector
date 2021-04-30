@@ -970,7 +970,9 @@ CIX|CompX International Inc. Common Stock|A|CIX|N|100|N|CIX
 CIXX|CI Financial Corp. Common Shares|N|CIXX|N|100|N|CIXX
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
+CLAA|Colonnade Acquisition Corp. II Class A Ordinary Shares|N|CLAA|N|100|N|CLAA
 CLAA.U|Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|CLAA.U|N|100|N|CLAA=
+CLAA.W|Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|CLAA.WS|N|100|N|CLAA+
 CLAS|Class Acceleration Corp. Class A Common Stock|N|CLAS|N|100|N|CLAS
 CLAS.U|Class Acceleration Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|CLAS.U|N|100|N|CLAS=
 CLAS.W|Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CLAS.WS|N|100|N|CLAS+
@@ -1736,7 +1738,9 @@ ESGS|Columbia Sustainable U.S. Equity Income ETF|P|ESGS|Y|100|N|ESGS
 ESGV|Vanguard ESG U.S. Stock ETF|Z|ESGV|Y|100|N|ESGV
 ESHY|Xtrackers J.P. Morgan ESG USD High Yield Corporate Bond ETF|Z|ESHY|Y|100|N|ESHY
 ESI|Element Solutions Inc. Common Stock|N|ESI|N|100|N|ESI
+ESM|ESM Acquisition Corporation Class A Ordinary Shares|N|ESM|N|100|N|ESM
 ESM.U|ESM Acquisition Corporation Unit|N|ESM.U|N|100|N|ESM=
+ESM.W|ESM Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ESM.WS|N|100|N|ESM+
 ESML|iShares ESG Aware MSCI USA Small-Cap ETF|Z|ESML|Y|100|N|ESML
 ESNG|Direxion MSCI USA ESG - Leaders vs. Laggards ETF|P|ESNG|Y|100|N|ESNG
 ESNT|Essent Group Ltd. Common Shares|N|ESNT|N|100|N|ESNT
@@ -2074,6 +2078,7 @@ FOCT|FT Cboe Vest U.S. Equity Buffer ETF - October|Z|FOCT|Y|100|N|FOCT
 FOE|Ferro Corporation Common Stock|N|FOE|N|100|N|FOE
 FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock|N|FOF|N|100|N|FOF
 FOR|Forestar Group Inc Common Stock |N|FOR|N|100|N|FOR
+FORH|Formidable ETF|P|FORH|Y|100|N|FORH
 FOUR|Shift4 Payments, Inc. Class A Common Stock|N|FOUR|N|100|N|FOUR
 FOVL|iShares Focused Value Factor ETF|P|FOVL|Y|100|N|FOVL
 FPAC|Far Peak Acquisition Corporation Class A Ordinary Shares|N|FPAC|N|100|N|FPAC
@@ -2110,7 +2115,9 @@ FRTY|Alger Mid Cap 40 ETF|P|FRTY|Y|100|N|FRTY
 FRX|Forest Road Acquisition Corp. Class A Common Stock|N|FRX|N|100|N|FRX
 FRX.U|Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Redeemable Warrant|N|FRX.U|N|100|N|FRX=
 FRX.W|Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|FRX.WS|N|100|N|FRX+
+FRXB|Forest Road Acquisition Corp. II Class A Common Stock|N|FRXB|N|100|N|FRXB
 FRXB.U|Forest Road Acquisition Corp. II Unit|N|FRXB.U|N|100|N|FRXB=
+FRXB.W|Forest Road Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|FRXB.WS|N|100|N|FRXB+
 FSD|First Trust High Income Long Short Fund Common Shares of Beneficial Interest|N|FSD|N|100|N|FSD
 FSEC|Fidelity Investment Grade Securitized ETF|P|FSEC|Y|100|N|FSEC
 FSEP|FT Cboe Vest U.S. Equity Buffer ETF - September|Z|FSEP|Y|100|N|FSEP
@@ -2667,6 +2674,7 @@ IACA.W|ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisable for 
 IACB|ION Acquisition Corp 2 Ltd. Class A Ordinary Shares|N|IACB|N|100|N|IACB
 IACB.U|ION Acquisition Corp 2 Ltd. Units, each consisting of one Class A ordinary share and one-eighth of one redeemable warrant|N|IACB.U|N|100|N|IACB=
 IACB.W|ION Acquisition Corp 2 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|IACB.WS|N|100|N|IACB+
+IACC|ION Acquisition Corp 3 Ltd. Class A Ordinary Shares|N|IACC|N|100|N|IACC
 IAE|Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest|N|IAE|N|100|N|IAE
 IAF|Aberdeen Australia Equity Fund Inc Common Stock|A|IAF|N|100|N|IAF
 IAG|Iamgold Corporation Ordinary Shares|N|IAG|N|100|N|IAG
@@ -3933,8 +3941,6 @@ OEF|iShares S&P 100 ETF|P|OEF|Y|100|N|OEF
 OEUR|OShares Europe Quality Dividend ETF|Z|OEUR|Y|100|N|OEUR
 OFC|Corporate Office Properties Trust Common Stock|N|OFC|N|100|N|OFC
 OFG|OFG Bancorp Common Stock|N|OFG|N|100|N|OFG
-OFG$A|OFG Bancorp Preferred Stock|N|OFGpA|N|100|N|OFG-A
-OFG$B|OFG Bancorp 7.0% Non Cumulative Monthly Income Preferred Stock Series B|N|OFGpB|N|100|N|OFG-B
 OFG$D|OFG Bancorp 7.125% Non-Cumulative Perpetual Preferred Stock. Series D|N|OFGpD|N|100|N|OFG-D
 OGCP|Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests|P|OGCP|N|100|N|OGCP
 OGE|OGE Energy Corp Common Stock|N|OGE|N|100|N|OGE
@@ -4669,7 +4675,9 @@ SBG.U|Sandbridge Acquisition Corporation Units|N|SBG.U|N|100|N|SBG=
 SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|SBG.WS|N|100|N|SBG+
 SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock|N|SBH|N|100|N|SBH
 SBI|Western Asset Intermediate Muni Fund Inc Common Stock|N|SBI|N|100|N|SBI
+SBII|Sandbridge X2 Corp. Class A Common Stock|N|SBII|N|100|N|SBII
 SBII.U|Sandbridge X2 Corp. Unit|N|SBII.U|N|100|N|SBII=
+SBII.W|Sandbridge X2 Corp. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|SBII.WS|N|100|N|SBII+
 SBIO|ALPS Medical Breakthroughs ETF|P|SBIO|Y|100|N|SBIO
 SBM|Short Basic Materials|P|SBM|Y|100|N|SBM
 SBOW|SilverBow Resorces, Inc. Common Stock|N|SBOW|N|100|N|SBOW
@@ -5661,6 +5669,7 @@ VRTV|Veritiv Corporation Common Stock|N|VRTV|N|100|N|VRTV
 VSGX|Vanguard ESG International Stock ETF|Z|VSGX|Y|100|N|VSGX
 VSH|Vishay Intertechnology, Inc. Common Stock|N|VSH|N|100|N|VSH
 VSL|Volshares Large Cap ETF|P|VSL|Y|100|N|VSL
+VSLU|Applied Finance Valuation Large Cap ETF|P|VSLU|Y|100|N|VSLU
 VSS|Vanguard FTSE All-Wld ex-US SmCp Idx ETF|P|VSS|Y|100|N|VSS
 VST|Vistra Corp. Common Stock|N|VST|N|100|N|VST
 VST.A|Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)|N|VST.WS.A|N|100|N|VST+A
@@ -5949,4 +5958,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0429202115:41||||||
+File Creation Time: 0430202115:41||||||
