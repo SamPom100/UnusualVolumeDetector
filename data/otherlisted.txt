@@ -2210,7 +2210,9 @@ GAL|SPDR SSgA Global Allocation ETF|P|GAL|Y|100|N|GAL
 GAM|General American Investors, Inc. Common Stock|N|GAM|N|100|N|GAM
 GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock|N|GAMpB|N|100|N|GAM-B
 GAMR|Wedbush ETFMG Video Game Tech ETF|P|GAMR|Y|100|N|GAMR
+GAPA|G&P Acquisition Corp. Class A Common Stock|N|GAPA|N|100|N|GAPA
 GAPA.U|G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|GAPA.U|N|100|N|GAPA=
+GAPA.W|G&P Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|GAPA.WS|N|100|N|GAPA+
 GATO|Gatos Silver, Inc. Common Stock|N|GATO|N|100|N|GATO
 GATX|GATX Corporation Common Stock|N|GATX|N|100|N|GATX
 GAU|Galiano Gold Inc.|A|GAU|N|100|N|GAU
@@ -3399,6 +3401,7 @@ MATX|Matson, Inc. Common Stock|N|MATX|N|100|N|MATX
 MAV|Pioneer Municipal High Income Advantage Fund, Inc.|N|MAV|N|100|N|MAV
 MAX|MediaAlpha, Inc. Class A Common Stock|N|MAX|N|100|N|MAX
 MAXR|Maxar Technologies Inc.|N|MAXR|N|100|N|MAXR
+MAYZ|Listed Funds Trust TrueShares Structured Outcome (May) ETF|Z|MAYZ|Y|100|N|MAYZ
 MBAC|M3-Brigade Acquisition II Corp. Class A Common Stock|N|MBAC|N|100|N|MBAC
 MBAC.U|M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|MBAC.U|N|100|N|MBAC=
 MBAC.W|M3-Brigade Acquisition II Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|MBAC.WS|N|100|N|MBAC+
@@ -3619,7 +3622,6 @@ MTNB|Matinas Biopharma Holdings, Inc. Common Stock|A|MTNB|N|100|N|MTNB
 MTOR|Meritor, Inc. Common Stock|N|MTOR|N|100|N|MTOR
 MTR|Mesa Royalty Trust Common Stock|N|MTR|N|100|N|MTR
 MTRN|Materion Corporation|N|MTRN|N|100|N|MTRN
-MTT|Western Asset Municipal Defined Opportunity Trust Inc Common Stock|N|MTT|N|100|N|MTT
 MTUL|ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN|P|MTUL|Y|100|N|MTUL
 MTUM|iShares MSCI USA Momentum Factor ETF|Z|MTUM|Y|100|N|MTUM
 MTW|Manitowoc Company, Inc. (The) Common Stock|N|MTW|N|100|N|MTW
@@ -3684,7 +3686,6 @@ NBH|Neuberger Berman Municipal Fund Inc. Common Stock|A|NBH|N|100|N|NBH
 NBHC|National Bank Holdings Corporation Common Stock|N|NBHC|N|100|N|NBHC
 NBO|Neuberger Berman New York Municipal Fund Inc. Common Stock|A|NBO|N|100|N|NBO
 NBR|Nabors Industries Ltd.|N|NBR|N|100|N|NBR
-NBR$A|Nabors Industries Ltd. 6.00% Mandatory Convertible Preferred Shares, Series A|N|NBRpA|N|100|N|NBR-A
 NBW|Neuberger Berman California Municipal Fund Inc Common Stock|A|NBW|N|100|N|NBW
 NBY|NovaBay Pharmaceuticals, Inc. Common Stock|A|NBY|N|100|N|NBY
 NC|NACCO Industries, Inc. Common Stock|N|NC|N|100|N|NC
@@ -4244,9 +4245,6 @@ PQLC|PGIM QMA Strategic Alpha Large-Cap Core ETF|P|PQLC|Y|100|N|PQLC
 PQSG|PGIM QMA Strategic Alpha Small-Cap Growth ETF|P|PQSG|Y|100|N|PQSG
 PQSV|PGIM ETF Trust ETF PGIM QMA Strategic Alpha Small-Cap Value ETF|P|PQSV|Y|100|N|PQSV
 PRA|ProAssurance Corporation Common Stock|N|PRA|N|100|N|PRA
-PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpG|N|100|N|PRE-G
-PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpH|N|100|N|PRE-H
-PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpI|N|100|N|PRE-I
 PRE$J|PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J|N|PREpJ|N|100|N|PRE-J
 PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
 PRF|Invesco FTSE RAFI US 1000 ETF|P|PRF|Y|100|N|PRF
@@ -4580,7 +4578,9 @@ ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
 ROP|Roper Technologies, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|ATAC US Rotation ETF|P|RORO|Y|100|N|RORO
 ROSC|Hartford Multifactor Small Cap ETF|P|ROSC|Y|100|N|ROSC
+ROSS|Ross Acquisition Corp II Class A Ordinary Shares|N|ROSS|N|100|N|ROSS
 ROSS.U|Ross Acquisition Corp II Units|N|ROSS.U|N|100|N|ROSS=
+ROSS.W|Ross Acquisition Corp II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|ROSS.WS|N|100|N|ROSS+
 ROT|Rotor Acquisition Corp. Class A Common Stock|N|ROT|N|100|N|ROT
 ROT.U|Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant|N|ROT.U|N|100|N|ROT=
 ROT.W|Rotor Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share|N|ROT.WS|N|100|N|ROT+
@@ -5537,6 +5537,8 @@ UZE|United States Cellular Corporation 5.500% Senior Notes due 2070|N|UZE|N|100|
 V|Visa Inc.|N|V|N|100|N|V
 VABS|Virtus Newfleet ABS/MBS ETF|P|VABS|Y|100|N|VABS
 VAC|Marriott Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
+VAL|Valaris Limited Common Shares|N|VAL|N|100|N|VAL
+VAL.W|Valaris Limited Warrants|N|VAL.WS|N|100|N|VAL+
 VALE|VALE S.A.  American Depositary Shares Each Representing one common share|N|VALE|N|100|N|VALE
 VALQ|American Century STOXX U.S. Quality Value ETF|P|VALQ|Y|100|N|VALQ
 VALT|ETFMG Sit Ultra Short ETF|P|VALT|Y|100|N|VALT
@@ -5727,7 +5729,6 @@ WCC$A|WESCO International, Inc. Depositary Shares each representing 1/1,000th in
 WCN|Waste Connections, Inc. Common Shares|N|WCN|N|100|N|WCN
 WD|Walker & Dunlop, Inc Common Stock|N|WD|N|100|N|WD
 WDIV|SPDR S&P Global Dividend|P|WDIV|Y|100|N|WDIV
-WDR|Waddell & Reed Financial, Inc. Common Stock|N|WDR|N|100|N|WDR
 WEA|Western Asset Bond Fund Share of Beneficial Interest|N|WEA|N|100|N|WEA
 WEAT|Teucrium Wheat Fund ETV|P|WEAT|Y|100|N|WEAT
 WEBL|Direxion Daily Dow Jones Internet Bull 3X Shares|P|WEBL|Y|100|N|WEBL
@@ -5958,4 +5959,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0430202115:41||||||
+File Creation Time: 0503202112:10||||||
