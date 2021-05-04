@@ -386,6 +386,7 @@ ATEST|Tick Pilot Test Control Common Stock|A|ATEST|N|100|Y|ATEST
 ATEST.A|Tick Pilot Test Group 1 Common Stock|A|ATEST.A|N|100|Y|ATEST.A
 ATEST.B|Tick pilot Test 2 Common Stock|A|ATEST.B|N|100|Y|ATEST.B
 ATEST.C|Tick Pilot Test 3 Common Stock|A|ATEST.C|N|100|Y|ATEST.C
+ATFV|Alger 35 ETF|P|ATFV|Y|100|N|ATFV
 ATGE|Adtalem Global Education Inc. Common Stock|N|ATGE|N|100|N|ATGE
 ATH|Athene Holding Ltd. Class A Common Shares|N|ATH|N|100|N|ATH
 ATH$A|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Share, Series A|N|ATHpA|N|100|N|ATH-A
@@ -4305,7 +4306,7 @@ PSFF|Pacer Swan SOS Fund of Funds ETF|Z|PSFF|Y|100|N|PSFF
 PSFM|Pacer Swan SOS Flex (April) ETF|Z|PSFM|Y|100|N|PSFM
 PSI|Invesco Dynamic Semiconductors ETF|P|PSI|Y|100|N|PSI
 PSJ|Invesco Dynamic Software ETF|P|PSJ|Y|100|N|PSJ
-PSK|SPDR Wells Fargo Preferred Stock ETF|P|PSK|Y|100|N|PSK
+PSK|SPDR ICE Preferred Securities ETF|P|PSK|Y|100|N|PSK
 PSLV|Sprott Physical Silver Trust ETV|P|PSLV|Y|100|N|PSLV
 PSMB|Invesco Balanced Multi-Asset Allocation ETF|Z|PSMB|Y|100|N|PSMB
 PSMC|Invesco Conservative Multi-Asset Allocation ETF|Z|PSMC|Y|100|N|PSMC
@@ -5959,4 +5960,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0503202112:10||||||
+File Creation Time: 0504202112:11||||||
