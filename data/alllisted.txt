@@ -614,6 +614,7 @@ BV,BV|BrightView Holdings, Inc. Common Stock
 BVH,BVH|Bluegreen Vacations Holding Corporation Class A Common Stock
 BVN,BVN|Buenaventura Mining Company Inc.
 BW,BW|Babcock & Wilcox Enterprises, Inc. Common Stock
+BW$A,BW$A|Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock
 BWA,BWA|BorgWarner Inc. Common Stock
 BWG,BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWL.A,BWL.A|Bowl America, Inc. Class A Common Stock
@@ -1410,6 +1411,7 @@ FHN$B,FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/4
 FHN$C,FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C
 FHN$D,FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D
 FHN$E,FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E
+FHN$F,FHN$F|First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F
 FHS,FHS|First High-School Education Group Co., Ltd. American Depositary Shares
 FI,FI|Frank's International N.V. Common Stock
 FICO,FICO|Fair Isaac Corproation Common Stock
@@ -3089,7 +3091,9 @@ RJI,RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Link
 RJN,RJN|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return Structured Product
 RJZ,RJZ|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return Structured Product
 RKT,RKT|Rocket Companies, Inc. Class A Common Stock
+RKTA,RKTA|Rocket Internet Growth Opportunities Corp. Class A Ordinary Shares
 RKTA.U,RKTA.U|Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+RKTA.W,RKTA.W|Rocket Internet Growth Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 RL,RL|Ralph Lauren Corporation Common Stock
 RLGT,RLGT|Radiant Logistics, Inc. Common Stock
 RLGY,RLGY|Realogy Holdings Corp. Common Stock
@@ -3404,7 +3408,9 @@ STOR,STOR|STORE Capital Corporation Common Stock
 STPC,STPC|Star Peak Corp II Class A Common Stock
 STPC.U,STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant
 STPC.W,STPC.W|Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+STRE,STRE|Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares
 STRE.U,STRE.U|Supernova Partners Acquisition Company III, Ltd. Units
+STRE.W,STRE.W|Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 STT,STT|State Street Corporation Common Stock
 STT$D,STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
 STT$G,STT$G|State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative
@@ -3732,7 +3738,9 @@ VGAC,VGAC|VG Acquisition Corp. Class A Ordinary Shares
 VGAC.U,VGAC.U|VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 VGAC.W,VGAC.W|VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 VGI,VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest
+VGII,VGII|Virgin Group Acquisition Corp. II Class A Ordinary Shares
 VGII.U,VGII.U|Virgin Group Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant
+VGII.W,VGII.W|Virgin Group Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 VGM,VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)
 VGR,VGR|Vector Group Ltd. Common Stock
 VGZ,VGZ|Vista Gold Corp Common Stock
@@ -5377,7 +5385,9 @@ FMBH,FMBH|First Mid Bancshares, Inc. - Common Stock
 FMBI,FMBI|First Midwest Bancorp, Inc. - Common Stock
 FMBIO,FMBIO|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C
 FMBIP,FMBIP|First Midwest Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
+FMIV,FMIV|Forum Merger IV Corporation - Class A Common stock
 FMIVU,FMIVU|Forum Merger IV Corporation - Unit
+FMIVW,FMIVW|Forum Merger IV Corporation - Warrant
 FMNB,FMNB|Farmers National Banc Corp. - Common Stock
 FMTX,FMTX|Forma Therapeutics Holdings, Inc. - Common Stock
 FNCB,FNCB|FNCB Bancorp Inc. - Common Stock
@@ -5545,7 +5555,9 @@ GGAL,GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Sh
 GGMC,GGMC|Glenfarne Merger Corp. - Class A Common Stock
 GGMCU,GGMCU|Glenfarne Merger Corp. - Unit
 GGMCW,GGMCW|Glenfarne Merger Corp. - Warrant
+GGPI,GGPI|Gores Guggenheim, Inc. Unit - Class A common stock
 GGPIU,GGPIU|Gores Guggenheim, Inc. Unit - Unit
+GGPIW,GGPIW|Gores Guggenheim, Inc. Unit - Warrant
 GH,GH|Guardant Health, Inc. - Common Stock
 GHAC,GHAC|Gaming & Hospitality Acquisition Corp. - Class A Common Stock
 GHACU,GHACU|Gaming & Hospitality Acquisition Corp. - Unit
@@ -5579,7 +5591,9 @@ GLBZ,GLBZ|Glen Burnie Bancorp - Common Stock
 GLDD,GLDD|Great Lakes Dredge & Dock Corporation - Common Stock
 GLDI,GLDI|Credit Suisse Gold Shares Covered Call Exchange Traded Notes
 GLG,GLG|TD Holdings, Inc. - Common Stock
+GLHA,GLHA|Glass Houses Acquisition Corp. - Class A common stock
 GLHAU,GLHAU|Glass Houses Acquisition Corp. - Unit
+GLHAW,GLHAW|Glass Houses Acquisition Corp. - Warrant
 GLMD,GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares
 GLNG,GLNG|Golar LNG Limited - Common Shares
 GLPG,GLPG|Galapagos NV - American Depositary Shares
@@ -5601,7 +5615,6 @@ GMDA,GMDA|Gamida Cell Ltd. - Ordinary Shares
 GMII,GMII|Gores Metropoulos II, Inc. - Class A Common Stock
 GMIIU,GMIIU|Gores Metropoulos II, Inc. - Unit
 GMIIW,GMIIW|Gores Metropoulos II, Inc. - Warrants
-GMLPP,GMLPP|Golar LNG Partners LP - 8.75% Series A Cumulative Redeemable Preferred Units
 GMTX,GMTX|Gemini Therapeutics, Inc. - Common Stock
 GNAC,GNAC|Group Nine Acquisition Corp. - Class A Common stock
 GNACU,GNACU|Group Nine Acquisition Corp. - Unit
@@ -5990,7 +6003,7 @@ IPLDP,IPLDP|Interstate Power and Light Company - Interstate Power & Light Compan
 IPVI,IPVI|InterPrivate IV InfraTech Partners Inc. - Class A Common Stock
 IPVIU,IPVIU|InterPrivate IV InfraTech Partners Inc. - Units
 IPVIW,IPVIW|InterPrivate IV InfraTech Partners Inc. - Warrant
-IPW,IPW|iPower, Inc. - Common Stock
+IPW,IPW|iPower Inc. - Common Stock
 IPWR,IPWR|Ideal Power Inc. - Common Stock
 IQ,IQ|iQIYI, Inc. - American Depositary Shares
 IRBT,IRBT|iRobot Corporation - Common Stock
@@ -6213,7 +6226,9 @@ LE,LE|Lands' End, Inc. - Common Stock
 LECO,LECO|Lincoln Electric Holdings, Inc. - Common Shares
 LEDS,LEDS|SemiLEDS Corporation - Common Stock
 LEE,LEE|Lee Enterprises, Incorporated - Common Stock
+LEGA,LEGA|Lead Edge Growth Opportunities, Ltd - Class A Ordinary Shares
 LEGAU,LEGAU|Lead Edge Growth Opportunities, Ltd - Units
+LEGAW,LEGAW|Lead Edge Growth Opportunities, Ltd - Warrant
 LEGH,LEGH|Legacy Housing Corporation - Common Stock
 LEGN,LEGN|Legend Biotech Corporation - American Depositary Shares
 LEGO,LEGO|Legato Merger Corp. - Common stock
@@ -6624,7 +6639,9 @@ NFLX,NFLX|Netflix, Inc. - Common Stock
 NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
 NGACU,NGACU|NextGen Acquisition Corporation - Units
 NGACW,NGACW|NextGen Acquisition Corporation - Warrants
+NGCA,NGCA|NextGen Acquisition Corp. II - Class A Ordinary Shares
 NGCAU,NGCAU|NextGen Acquisition Corp. II - Units
+NGCAW,NGCAW|NextGen Acquisition Corp. II - Warrant
 NGM,NGM|NGM Biopharmaceuticals, Inc. - Common Stock
 NGMS,NGMS|NeoGames S.A. - Ordinary Shares
 NH,NH|NantHealth, Inc. - Common Stock
@@ -6815,6 +6832,7 @@ OPTT,OPTT|Ocean Power Technologies, Inc. - Common Stock
 ORBC,ORBC|ORBCOMM Inc. - Common Stock
 ORGO,ORGO|Organogenesis Holdings Inc.  - Class A 
 ORGS,ORGS|Orgenesis Inc. - Common Stock
+ORIAU,ORIAU|Orion Biotech Opportunities Corp. - Units
 ORIC,ORIC|Oric Pharmaceuticals, Inc. - Common Stock
 ORLY,ORLY|O'Reilly Automotive, Inc. - Common Stock
 ORMP,ORMP|Oramed Pharmaceuticals Inc. - Common Stock
@@ -7663,7 +7681,9 @@ TBLT,TBLT|ToughBuilt Industries, Inc. - Common Stock
 TBLTW,TBLTW|ToughBuilt Industries, Inc. - Warrant
 TBNK,TBNK|Territorial Bancorp Inc. - Common Stock
 TBPH,TBPH|Theravance Biopharma, Inc. - Ordinary Shares
+TBSA,TBSA|TB SA Acquisition Corp - Class A ordinary share
 TBSAU,TBSAU|TB SA Acquisition Corp - Unit
+TBSAW,TBSAW|TB SA Acquisition Corp - Warrant
 TC,TC|TuanChe Limited - American Depositary Shares
 TCAC,TCAC|Tuatara Capital Acquisition Corporation - Class A Ordinary Shares
 TCACU,TCACU|Tuatara Capital Acquisition Corporation - Unit

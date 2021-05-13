@@ -774,6 +774,7 @@ BV|BrightView Holdings, Inc. Common Stock|N|BV|N|100|N|BV
 BVH|Bluegreen Vacations Holding Corporation Class A Common Stock|N|BVH|N|100|N|BVH
 BVN|Buenaventura Mining Company Inc.|N|BVN|N|100|N|BVN
 BW|Babcock & Wilcox Enterprises, Inc. Common Stock|N|BW|N|100|N|BW
+BW$A|Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock|N|BWpA|N|100|N|BW-A
 BWA|BorgWarner Inc. Common Stock|N|BWA|N|100|N|BWA
 BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.|N|BWG|N|100|N|BWG
 BWL.A|Bowl America, Inc. Class A Common Stock|A|BWL.A|N|100|N|BWL.A
@@ -1954,6 +1955,7 @@ FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/400th i
 FHN$C|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C|N|FHNpC|N|100|N|FHN-C
 FHN$D|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D|N|FHNpD|N|100|N|FHN-D
 FHN$E|First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E|N|FHNpE|N|100|N|FHN-E
+FHN$F|First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F|N|FHNpF|N|100|N|FHN-F
 FHS|First High-School Education Group Co., Ltd. American Depositary Shares|N|FHS|N|100|N|FHS
 FI|Frank's International N.V. Common Stock|N|FI|N|100|N|FI
 FIBR|iShares U.S. Fixed Income Balanced Risk Factor ETF|Z|FIBR|Y|100|N|FIBR
@@ -2056,6 +2058,7 @@ FMC|FMC Corporation Common Stock|N|FMC|N|100|N|FMC
 FMF|First Trust Managed Futures Strategy Fund|P|FMF|Y|100|N|FMF
 FMIL|Fidelity New Millennium ETF|Z|FMIL|Y|100|N|FMIL
 FMN|Federated Hermes Premier Municipal Income Fund|N|FMN|N|100|N|FMN
+FMNY|First Trust New York Municipal High Income ETF|P|FMNY|Y|100|N|FMNY
 FMO|Fiduciary/Claymore Energy Infrastructure Fund Common Shares of Beneficial Interest|N|FMO|N|100|N|FMO
 FMS|Fresenius Medical Care AG Common Stock|N|FMS|N|100|N|FMS
 FMX|Fomento Economico Mexicano S.A.B. de C.V. Common Stock|N|FMX|N|100|N|FMX
@@ -3529,6 +3532,7 @@ MIY|Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock|N|MIY|N|100|N|M
 MJ|ETFMG Alternative Harvest ETF|P|MJ|Y|100|N|MJ
 MJJ|MicroSectors Cannabis ETNs|P|MJJ|Y|100|N|MJJ
 MJO|MicroSectors Cannabis 2X Leveraged ETNs|P|MJO|Y|100|N|MJO
+MJUS|ETFMG U.S. Alternative Harvest ETF|P|MJUS|Y|100|N|MJUS
 MKC|McCormick & Company, Incorporated Common Stock|N|MKC|N|100|N|MKC
 MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC.V|N|100|N|MKC.V
 MKL|Markel Corporation Common Stock|N|MKL|N|10|N|MKL
@@ -4556,7 +4560,9 @@ RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked t
 RJN|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return Structured Product|P|RJN|N|100|N|RJN
 RJZ|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return Structured Product|P|RJZ|N|100|N|RJZ
 RKT|Rocket Companies, Inc. Class A Common Stock|N|RKT|N|100|N|RKT
+RKTA|Rocket Internet Growth Opportunities Corp. Class A Ordinary Shares|N|RKTA|N|100|N|RKTA
 RKTA.U|Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|RKTA.U|N|100|N|RKTA=
+RKTA.W|Rocket Internet Growth Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|RKTA.WS|N|100|N|RKTA+
 RL|Ralph Lauren Corporation Common Stock|N|RL|N|100|N|RL
 RLGT|Radiant Logistics, Inc. Common Stock|A|RLGT|N|100|N|RLGT
 RLGY|Realogy Holdings Corp. Common Stock|N|RLGY|N|100|N|RLGY
@@ -5087,7 +5093,9 @@ STPC|Star Peak Corp II Class A Common Stock|N|STPC|N|100|N|STPC
 STPC.U|Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|STPC.U|N|100|N|STPC=
 STPC.W|Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|STPC.WS|N|100|N|STPC+
 STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
+STRE|Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares|N|STRE|N|100|N|STRE
 STRE.U|Supernova Partners Acquisition Company III, Ltd. Units|N|STRE.U|N|100|N|STRE=
+STRE.W|Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|STRE.WS|N|100|N|STRE+
 STSB|iShares Factors US Small Blend Style ETF|Z|STSB|Y|100|N|STSB
 STT|State Street Corporation Common Stock|N|STT|N|100|N|STT
 STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D|N|STTpD|N|100|N|STT-D
@@ -5109,6 +5117,7 @@ SUSA|iShares MSCI USA ESG Select ETF|P|SUSA|Y|100|N|SUSA
 SUZ|Suzano S.A. American Depositary Shares (each representing One Ordinary Share)|N|SUZ|N|100|N|SUZ
 SVAL|iShares US Small Cap Value Factor ETF|Z|SVAL|Y|100|N|SVAL
 SVM|Silvercorp Metals Inc. Common Shares|A|SVM|N|100|N|SVM
+SVOL|Simplify Volatility Premium ETF|P|SVOL|Y|100|N|SVOL
 SVT|Servotronics, Inc. Common Stock|A|SVT|N|100|N|SVT
 SVXY|ProShares Short VIX Short Term Futures ETF|Z|SVXY|Y|100|N|SVXY
 SWAN|Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF|P|SWAN|Y|100|N|SWAN
@@ -5351,6 +5360,7 @@ TRTY|Cambria Trinity ETF|Z|TRTY|Y|100|N|TRTY
 TRU|TransUnion Common Stock|N|TRU|N|100|N|TRU
 TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|100|N|TRV
 TRX|Tanzanian Gold Corporation Common Stock|A|TRX|N|100|N|TRX
+TRYP|SonicShares Airlines, Hotels, Cruise Lines ETF|P|TRYP|Y|100|N|TRYP
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
 TSE|Trinseo S.A. Ordinary Shares|N|TSE|N|100|N|TSE
 TSI|TCW Strategic Income Fund, Inc. Common Stock|N|TSI|N|100|N|TSI
@@ -5603,7 +5613,9 @@ VGAC|VG Acquisition Corp. Class A Ordinary Shares|N|VGAC|N|100|N|VGAC
 VGAC.U|VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|VGAC.U|N|100|N|VGAC=
 VGAC.W|VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|VGAC.WS|N|100|N|VGAC+
 VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest|N|VGI|N|100|N|VGI
+VGII|Virgin Group Acquisition Corp. II Class A Ordinary Shares|N|VGII|N|100|N|VGII
 VGII.U|Virgin Group Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|VGII.U|N|100|N|VGII=
+VGII.W|Virgin Group Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|VGII.WS|N|100|N|VGII+
 VGK|Vanguard FTSEEuropean ETF|P|VGK|Y|100|N|VGK
 VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|N|VGM
 VGR|Vector Group Ltd. Common Stock|N|VGR|N|100|N|VGR
@@ -5979,4 +5991,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0512202121:30||||||
+File Creation Time: 0513202112:10||||||
