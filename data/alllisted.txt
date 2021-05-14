@@ -2404,6 +2404,7 @@ MQT,MQT|Blackrock MuniYield Quality Fund II, Inc. Common Stock
 MQY,MQY|Blackrock MuniYield Quality Fund, Inc. Common Stock
 MRC,MRC|MRC Global Inc. Common Stock
 MRK,MRK|Merck & Company, Inc. Common Stock (new)
+MRK.V,MRK.V|Merck & Company, Inc. Common Stock Ex-Distribution When Issued
 MRO,MRO|Marathon Oil Corporation Common Stock
 MS,MS|Morgan Stanley Common Stock
 MS$A,MS$A|Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A
@@ -2526,7 +2527,9 @@ NG,NG|Novagold Resources Inc.
 NGAB,NGAB|Northern Genesis Acquisition Corp. II Common Stock
 NGAB.U,NGAB.U|Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-third of one redeemable warrant
 NGAB.W,NGAB.W|Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
+NGC,NGC|Northern Genesis Acquisition Corp. III Common Stock
 NGC.U,NGC.U|Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-quarter of one redeemable warrant
+NGC.W,NGC.W|Northern Genesis Acquisition Corp. III Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share
 NGD,NGD|New Gold Inc.
 NGG,NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares
 NGL,NGL|NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
@@ -2708,6 +2711,7 @@ OG,OG|Onion Global Limited American Depositary Shares (each ten (10) ADSs repres
 OGCP,OGCP|Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests
 OGE,OGE|OGE Energy Corp Common Stock
 OGEN,OGEN|Oragenics Inc. Common Stock
+OGN.V,OGN.V|Organon & Co. Common Stock When Issued
 OGS,OGS|ONE Gas, Inc. Common Stock
 OHI,OHI|Omega Healthcare Investors, Inc. Common Stock
 OI,OI|O-I Glass, Inc. Common Stock
@@ -2727,7 +2731,9 @@ ONE,ONE|OneSmart International Education Group Limited ADS
 ONTF,ONTF|ON24, Inc. Common Stock
 ONTO,ONTO|Onto Innovation Inc. Common Stock
 OOMA,OOMA|Ooma, Inc. Common Stock
+OPA,OPA|Magnum Opus Acquisition Limited Class A Ordinary Shares
 OPA.U,OPA.U|Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant
+OPA.W,OPA.W|Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
 OPP$A,OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock
 OPY,OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)
@@ -2743,6 +2749,7 @@ ORN,ORN|Orion Group Holdings, Inc. Common
 OSCR,OSCR|Oscar Health, Inc. Class A Common Stock
 OSG,OSG|Overseas Shipholding Group, Inc. Class A Common Stock
 OSH,OSH|Oak Street Health, Inc. Common Stock
+OSI.U,OSI.U|Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant
 OSK,OSK|Oshkosh Corporation (Holding Company)Common Stock
 OTIS,OTIS|Otis Worldwide Corporation Common Stock 
 OUST,OUST|Ouster, Inc. Common Stock
@@ -2815,6 +2822,7 @@ PEB$C,PEB$C|Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferr
 PEB$D,PEB$D|Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$E,PEB$E|Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$F,PEB$F|Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest
+PEB$G,PEB$G|Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interest
 PED,PED|Pedevco Corp. Common Stock
 PEG,PEG|Public Service Enterprise Group Incorporated Common Stock
 PEI,PEI|Pennsylvania Real Estate Investment Trust Common Stock
@@ -4292,6 +4300,7 @@ ARRW,ARRW|Arrowroot Acquisition Corp. - Class A common stock
 ARRWU,ARRWU|Arrowroot Acquisition Corp. - Unit
 ARRWW,ARRWW|Arrowroot Acquisition Corp. - Warrant
 ARRY,ARRY|Array Technologies, Inc. - Common Stock
+ARTAU,ARTAU|Artisan Acquisition Corp. - Units
 ARTL,ARTL|Artelo Biosciences, Inc. - Common Stock
 ARTLW,ARTLW|Artelo Biosciences, Inc. - Warrant
 ARTNA,ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock
@@ -4931,7 +4940,9 @@ CRVL,CRVL|CorVel Corp. - Common Stock
 CRVS,CRVS|Corvus Pharmaceuticals, Inc. - Common Stock
 CRWD,CRWD|CrowdStrike Holdings, Inc. - Class A Common Stock
 CRWS,CRWS|Crown Crafts, Inc. - Common Stock
+CRZN,CRZN|Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares
 CRZNU,CRZNU|Corazon Capital V838 Monoceros Corp - Unit
+CRZNW,CRZNW|Corazon Capital V838 Monoceros Corp - Warrant
 CSBR,CSBR|Champions Oncology, Inc. - Common Stock
 CSCO,CSCO|Cisco Systems, Inc. - Common Stock
 CSCW,CSCW|Color Star Technology Co. Ltd. - Ordinary Shares
@@ -5016,6 +5027,8 @@ DARE,DARE|Dare Bioscience, Inc. - Common Stock
 DBDR,DBDR|Roman DBDR Tech Acquisition Corp. - Class A Common Stock
 DBDRU,DBDRU|Roman DBDR Tech Acquisition Corp. - Unit
 DBDRW,DBDRW|Roman DBDR Tech Acquisition Corp. - Warrant
+DBGI,DBGI|Digital Brands Group, Inc. - Common Stock
+DBGIW,DBGIW|Digital Brands Group, Inc. - Warrant
 DBTX,DBTX|Decibel Therapeutics, Inc. - Common Stock
 DBVT,DBVT|DBV Technologies S.A. - American Depositary Shares
 DBX,DBX|Dropbox, Inc. - Class A Common Stock
@@ -5026,7 +5039,9 @@ DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
 DCRB,DCRB|Decarbonization Plus Acquisition Corporation - Class A Common Stock
 DCRBU,DCRBU|Decarbonization Plus Acquisition Corporation - Unit
 DCRBW,DCRBW|Decarbonization Plus Acquisition Corporation - Warrant
+DCRC,DCRC|Decarbonization Plus Acquisition Corporation III - Class A Common Stock
 DCRCU,DCRCU|Decarbonization Plus Acquisition Corporation III - Unit
+DCRCW,DCRCW|Decarbonization Plus Acquisition Corporation III - Warrant
 DCRN,DCRN|Decarbonization Plus Acquisition Corporation II - Class A Common stock
 DCRNU,DCRNU|Decarbonization Plus Acquisition Corporation II - Unit
 DCRNW,DCRNW|Decarbonization Plus Acquisition Corporation II - Warrant
@@ -5065,7 +5080,9 @@ DHHCU,DHHCU|DiamondHead Holdings Corp. - Unit
 DHHCW,DHHCW|DiamondHead Holdings Corp. - Warrant
 DHIL,DHIL|Diamond Hill Investment Group, Inc. - Class A Common Stock
 DIOD,DIOD|Diodes Incorporated - Common Stock
+DISA,DISA|Disruptive Acquisition Corporation I - Class A Ordinary Shares
 DISAU,DISAU|Disruptive Acquisition Corporation I - Unit
+DISAW,DISAW|Disruptive Acquisition Corporation I - Warrant
 DISCA,DISCA|Discovery, Inc. - Series A Common Stock
 DISCB,DISCB|Discovery, Inc. - Series B Common Stock
 DISCK,DISCK|Discovery, Inc. - Series C Common Stock
@@ -5114,6 +5131,8 @@ DTOC,DTOC|Digital Transformation Opportunities Corp. - Class A Common Stock
 DTOCU,DTOCU|Digital Transformation Opportunities Corp. - Units
 DTOCW,DTOCW|Digital Transformation Opportunities Corp. - Warrant
 DTSS,DTSS|Datasea Inc. - Common Stock
+DTST,DTST|Data Storage Corporation - Common Stock
+DTSTW,DTSTW|Data Storage Corporation - Warrant
 DUNE,DUNE|Dune Acquisition Corporation - Class A Common Stock
 DUNEU,DUNEU|Dune Acquisition Corporation - Unit
 DUNEW,DUNEW|Dune Acquisition Corporation - Warrant
@@ -5175,6 +5194,7 @@ EIGR,EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock
 EJFA,EJFA|EJF Acquisition Corp. - Class A Ordinary Share
 EJFAU,EJFAU|EJF Acquisition Corp. - Unit
 EJFAW,EJFAW|EJF Acquisition Corp. - Warrant
+EJH,EJH|E-Home Household Service Holdings Limited - Ordinary shares
 EKSO,EKSO|Ekso Bionics Holdings, Inc. - Common Stock
 ELDN,ELDN|Eledon Pharmaceuticals, Inc. - Common Stock
 ELOX,ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock
@@ -5672,7 +5692,7 @@ GRPN,GRPN|Groupon, Inc. - Common Stock
 GRSV,GRSV|Gores Holdings V, Inc. - Common stock
 GRSVU,GRSVU|Gores Holdings V, Inc. - Unit
 GRSVW,GRSVW|Gores Holdings V, Inc. - Warrant
-GRTS,GRTS|Gritstone Oncology, Inc. - Common Stock
+GRTS,GRTS|Gritstone bio, Inc. - Common Stock
 GRTX,GRTX|Galera Therapeutics, Inc. - Common Stock
 GRVY,GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one common share.
 GRWG,GRWG|GrowGeneration Corp. - Common Stock
@@ -5757,7 +5777,7 @@ HCII,HCII|Hudson Executive Investment Corp. II - Class A common stock
 HCIIU,HCIIU|Hudson Executive Investment Corp. II - Unit
 HCIIW,HCIIW|Hudson Executive Investment Corp. II - Warrant
 HCKT,HCKT|The Hackett Group, Inc. - Common Stock
-HCM,HCM|Hutchison China MediTech Limited - American Depositary Shares
+HCM,HCM|HUTCHMED (China) Limited - American Depositary Shares
 HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
@@ -7625,6 +7645,7 @@ SVFAU,SVFAU|SVF Investment Corp. - Unit
 SVFAW,SVFAW|SVF Investment Corp. - Warrant
 SVFB,SVFB|SVF Investment Corp. 2 - Class A Ordinary Shares
 SVFC,SVFC|SVF Investment Corp. 3 - Class A Ordinary Shares
+SVFD,SVFD|Save Foods, Inc. - Common Stock
 SVMK,SVMK|SVMK Inc. - Common Stock
 SVOK,SVOK|Seven Oaks Acquisition Corp. - Class A Common Stock
 SVOKU,SVOKU|Seven Oaks Acquisition Corp. - Unit
@@ -7957,6 +7978,7 @@ VENAR,VENAR|Venus Acquisition Corporation - Rights
 VENAU,VENAU|Venus Acquisition Corporation - Units
 VENAW,VENAW|Venus Acquisition Corporation - Warrant
 VEON,VEON|VEON Ltd. - American Depositary Shares
+VERA,VERA|Vera Therapeutics, Inc. - Class A Common Stock
 VERB,VERB|Verb Technology Company, Inc. - Common Stock
 VERBW,VERBW|Verb Technology Company, Inc. - Warrant
 VERI,VERI|Veritone, Inc. - Common Stock

@@ -336,6 +336,7 @@ ARRW|Arrowroot Acquisition Corp. - Class A common stock|S|N|N|100|N|N
 ARRWU|Arrowroot Acquisition Corp. - Unit|S|N|N|100|N|N
 ARRWW|Arrowroot Acquisition Corp. - Warrant|S|N|N|100|N|N
 ARRY|Array Technologies, Inc. - Common Stock|G|N|N|100|N|N
+ARTAU|Artisan Acquisition Corp. - Units|S|N|N|100|N|N
 ARTL|Artelo Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 ARTLW|Artelo Biosciences, Inc. - Warrant|S|N|N|100|N|N
 ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100|N|N
@@ -1041,7 +1042,9 @@ CRVL|CorVel Corp. - Common Stock|Q|N|N|100|N|N
 CRVS|Corvus Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 CRWD|CrowdStrike Holdings, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100|N|N
+CRZN|Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares|S|N|N|100|N|N
 CRZNU|Corazon Capital V838 Monoceros Corp - Unit|S|N|N|100|N|N
+CRZNW|Corazon Capital V838 Monoceros Corp - Warrant|S|N|N|100|N|N
 CSA|VictoryShares US Small Cap Volatility Wtd ETF|G|N|N|100|Y|N
 CSB|VictoryShares US Small Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
 CSBR|Champions Oncology, Inc. - Common Stock|S|N|N|100|N|N
@@ -1135,6 +1138,8 @@ DAX|Global X DAX Germany ETF|G|N|N|100|Y|N
 DBDR|Roman DBDR Tech Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 DBDRU|Roman DBDR Tech Acquisition Corp. - Unit|S|N|N|100|N|N
 DBDRW|Roman DBDR Tech Acquisition Corp. - Warrant|S|N|N|100|N|N
+DBGI|Digital Brands Group, Inc. - Common Stock|S|N|N|100|N|N
+DBGIW|Digital Brands Group, Inc. - Warrant|S|N|N|100|N|N
 DBTX|Decibel Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 DBVT|DBV Technologies S.A. - American Depositary Shares|Q|N|N|100|N|N
 DBX|Dropbox, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -1145,7 +1150,9 @@ DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 DCRB|Decarbonization Plus Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 DCRBU|Decarbonization Plus Acquisition Corporation - Unit|S|N|N|100|N|N
 DCRBW|Decarbonization Plus Acquisition Corporation - Warrant|S|N|N|100|N|N
+DCRC|Decarbonization Plus Acquisition Corporation III - Class A Common Stock|S|N|N|100|N|N
 DCRCU|Decarbonization Plus Acquisition Corporation III - Unit|S|N|N|100|N|N
+DCRCW|Decarbonization Plus Acquisition Corporation III - Warrant|S|N|N|100|N|N
 DCRN|Decarbonization Plus Acquisition Corporation II - Class A Common stock|S|N|N|100|N|N
 DCRNU|Decarbonization Plus Acquisition Corporation II - Unit|S|N|N|100|N|N
 DCRNW|Decarbonization Plus Acquisition Corporation II - Warrant|S|N|N|100|N|N
@@ -1158,7 +1165,7 @@ DDMXW|DD3 Acquisition Corp. II - Warrant|S|N|N|100|N|N
 DDOG|Datadog, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DEMZ|Democratic Large Cap Core ETF|G|N|N|100|Y|N
 DENN|Denny's Corporation - Common Stock|S|N|N|100|N|N
-DFFN|Diffusion Pharmaceuticals Inc. - Common Stock|S|N|N|100|N|N
+DFFN|Diffusion Pharmaceuticals Inc. - Common Stock|S|N|D|100|N|N
 DFH|Dream Finders Homes, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DFHT|Deerfield Healthcare Technology Acquisitions Corp. - Class A Common Stock|S|N|N|100|N|N
 DFHTU|Deerfield Healthcare Technology Acquisitions Corp. - Unit|S|N|N|100|N|N
@@ -1189,7 +1196,9 @@ DHHCU|DiamondHead Holdings Corp. - Unit|S|N|N|100|N|N
 DHHCW|DiamondHead Holdings Corp. - Warrant|S|N|N|100|N|N
 DHIL|Diamond Hill Investment Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DIOD|Diodes Incorporated - Common Stock|Q|N|N|100|N|N
+DISA|Disruptive Acquisition Corporation I - Class A Ordinary Shares|S|N|N|100|N|N
 DISAU|Disruptive Acquisition Corporation I - Unit|S|N|N|100|N|N
+DISAW|Disruptive Acquisition Corporation I - Warrant|S|N|N|100|N|N
 DISCA|Discovery, Inc. - Series A Common Stock|Q|N|N|100|N|N
 DISCB|Discovery, Inc. - Series B Common Stock|Q|N|N|100|N|N
 DISCK|Discovery, Inc. - Series C Common Stock|Q|N|N|100|N|N
@@ -1240,6 +1249,8 @@ DTOC|Digital Transformation Opportunities Corp. - Class A Common Stock|S|N|N|100
 DTOCU|Digital Transformation Opportunities Corp. - Units|S|N|N|100|N|N
 DTOCW|Digital Transformation Opportunities Corp. - Warrant|S|N|N|100|N|N
 DTSS|Datasea Inc. - Common Stock|S|N|N|100|N|N
+DTST|Data Storage Corporation - Common Stock|S|N|N|100|N|N
+DTSTW|Data Storage Corporation - Warrant|S|N|N|100|N|N
 DUNE|Dune Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 DUNEU|Dune Acquisition Corporation - Unit|S|N|N|100|N|N
 DUNEW|Dune Acquisition Corporation - Warrant|S|N|N|100|N|N
@@ -1321,6 +1332,7 @@ EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EJFA|EJF Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 EJFAU|EJF Acquisition Corp. - Unit|S|N|N|100|N|N
 EJFAW|EJF Acquisition Corp. - Warrant|S|N|N|100|N|N
+EJH|E-Home Household Service Holdings Limited - Ordinary shares|S|N|N|100|N|N
 EKSO|Ekso Bionics Holdings, Inc. - Common Stock|S|N|N|100|N|N
 ELDN|Eledon Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
@@ -1897,7 +1909,7 @@ GRPN|Groupon, Inc. - Common Stock|Q|N|N|100|N|N
 GRSV|Gores Holdings V, Inc. - Common stock|S|N|N|100|N|N
 GRSVU|Gores Holdings V, Inc. - Unit|S|N|N|100|N|N
 GRSVW|Gores Holdings V, Inc. - Warrant|S|N|N|100|N|N
-GRTS|Gritstone Oncology, Inc. - Common Stock|Q|N|N|100|N|N
+GRTS|Gritstone bio, Inc. - Common Stock|Q|N|N|100|N|N
 GRTX|Galera Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GRVY|GRAVITY Co., Ltd. - American depositary shares, each representing one common share.|G|N|N|100|N|N
 GRWG|GrowGeneration Corp. - Common Stock|S|N|N|100|N|N
@@ -1983,7 +1995,7 @@ HCII|Hudson Executive Investment Corp. II - Class A common stock|S|N|N|100|N|N
 HCIIU|Hudson Executive Investment Corp. II - Unit|S|N|N|100|N|N
 HCIIW|Hudson Executive Investment Corp. II - Warrant|S|N|N|100|N|N
 HCKT|The Hackett Group, Inc. - Common Stock|Q|N|N|100|N|N
-HCM|Hutchison China MediTech Limited - American Depositary Shares|Q|N|N|100|N|N
+HCM|HUTCHMED (China) Limited - American Depositary Shares|Q|N|N|100|N|N
 HCSG|Healthcare Services Group, Inc. - Common Stock|Q|N|N|100|N|N
 HDSN|Hudson Technologies, Inc. - Common Stock|S|N|N|100|N|N
 HEAR|Turtle Beach Corporation - Common Stock|G|N|N|100|N|N
@@ -2225,7 +2237,7 @@ INCY|Incyte Corporation - Common Stock|Q|N|N|100|N|N
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100|N|N
 INDT|INDUS Realty Trust, Inc. - Common Stock|G|N|N|100|N|N
 INDY|iShares S&P India Nifty 50 Index Fund|G|N|N|100|Y|N
-INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|D|100|N|N
+INFI|Infinity Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 INFN|Infinera Corporation - Common Stock|Q|N|N|100|N|N
 INFR|Legg Mason Global Infrastructure ETF|G|N|N|100|Y|N
 INGN|Inogen, Inc - Common Stock|Q|N|N|100|N|N
@@ -4016,6 +4028,7 @@ SVFAU|SVF Investment Corp. - Unit|S|N|N|100|N|N
 SVFAW|SVF Investment Corp. - Warrant|S|N|N|100|N|N
 SVFB|SVF Investment Corp. 2 - Class A Ordinary Shares|S|N|N|100|N|N
 SVFC|SVF Investment Corp. 3 - Class A Ordinary Shares|S|N|N|100|N|N
+SVFD|Save Foods, Inc. - Common Stock|S|N|N|100|N|N
 SVMK|SVMK Inc. - Common Stock|Q|N|N|100|N|N
 SVOK|Seven Oaks Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 SVOKU|Seven Oaks Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -4363,6 +4376,7 @@ VENAR|Venus Acquisition Corporation - Rights|S|N|N|100|N|N
 VENAU|Venus Acquisition Corporation - Units|S|N|N|100|N|N
 VENAW|Venus Acquisition Corporation - Warrant|S|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
+VERA|Vera Therapeutics, Inc. - Class A Common Stock|G|N|N|100|N|N
 VERB|Verb Technology Company, Inc. - Common Stock|S|N|N|100|N|N
 VERBW|Verb Technology Company, Inc. - Warrant|S|N|N|100|N|N
 VERI|Veritone, Inc. - Common Stock|G|N|N|100|N|N
@@ -4664,4 +4678,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0513202115:41|||||||
+File Creation Time: 0514202112:11|||||||
