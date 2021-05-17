@@ -46,6 +46,7 @@ ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
 ACND.U,ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 ACND.W,ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 ACP,ACP|Aberdeen Income Credit Strategies Fund Common Shares
+ACP$A,ACP$A|Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock
 ACR,ACR|ACRES Commercial Realty Corp. Common Stock
 ACR$C,ACR$C|ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock 
 ACRE,ACRE|Ares Commercial Real Estate Corporation Common Stock
@@ -306,7 +307,6 @@ ASXC,ASXC|Asensus Surgical, Inc. Common Stock
 ASZ,ASZ|Austerlitz Acquisition Corporation II Class A Ordinary Shares
 ASZ.U,ASZ.U|Austerlitz Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
 ASZ.W,ASZ.W|Austerlitz Acquisition Corporation II Warrants, each whole Warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share
-AT,AT|Atlantic Power Corporation Ordinary Shares (Canada)
 ATA,ATA|Americas Technology Acquisition Corp. Ordinary Shares
 ATA.U,ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant
 ATA.W,ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50
@@ -1076,7 +1076,6 @@ DLNG,DLNG|Dynagas LNG Partners LP Common Units
 DLNG$A,DLNG$A|Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units
 DLNG$B,DLNG$B|Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni
 DLR,DLR|Digital Realty Trust, Inc. Common Stock
-DLR$C,DLR$C|Digital Realty Trust, Inc. 6.625% Series C Cumulative Redeemable Perpetual Preferred Stock
 DLR$J,DLR$J|Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock
 DLR$K,DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share
 DLR$L,DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock
@@ -5391,7 +5390,6 @@ FLEX,FLEX|Flex Ltd. - Ordinary Shares
 FLGC,FLGC|Flora Growth Corp. - Common Stock
 FLGT,FLGT|Fulgent Genetics, Inc. - Common Stock
 FLIC,FLIC|The First of Long Island Corporation - Common Stock
-FLIR,FLIR|FLIR Systems, Inc. - Common Stock
 FLL,FLL|Full House Resorts, Inc. - Common Stock
 FLMN,FLMN|Falcon Minerals Corporation - Class A Common Stock
 FLMNW,FLMNW|Falcon Minerals Corporation - Warrant
@@ -6227,10 +6225,12 @@ LBRDP,LBRDP|Liberty Broadband Corporation - Series A Cumulative Redeemable Prefe
 LBTYA,LBTYA|Liberty Global plc - Class A Ordinary Shares
 LBTYB,LBTYB|Liberty Global plc - Class B Ordinary Shares
 LBTYK,LBTYK|Liberty Global plc - Class C Ordinary Shares
+LCA,LCA|Landcadia Holdings IV, Inc. - Class A Common Stock
 LCAA,LCAA|L Catterton Asia Acquisition Corp - Class A Ordinary Shares
 LCAAU,LCAAU|L Catterton Asia Acquisition Corp - Units
 LCAAW,LCAAW|L Catterton Asia Acquisition Corp - Warrant
 LCAHU,LCAHU|Landcadia Holdings IV, Inc. - Units
+LCAHW,LCAHW|Landcadia Holdings IV, Inc. - Warrant
 LCAP,LCAP|Lionheart Acquisition Corp. II - Class A Common Stock
 LCAPU,LCAPU|Lionheart Acquisition Corp. II - Unit
 LCAPW,LCAPW|Lionheart Acquisition Corp. II - Warrant
@@ -6565,7 +6565,9 @@ MRVL,MRVL|Marvell Technology, Inc. - Common Stock
 MSAC,MSAC|Medicus Sciences Acquisition Corp. - Class A Ordinary Share
 MSACW,MSACW|Medicus Sciences Acquisition Corp. - Warrant
 MSBI,MSBI|Midland States Bancorp, Inc. - Common Stock
+MSDA,MSDA|MSD Acquisition Corp. - Class A Ordinary Shares
 MSDAU,MSDAU|MSD Acquisition Corp. - Unit
+MSDAW,MSDAW|MSD Acquisition Corp. - Warrant
 MSEX,MSEX|Middlesex Water Company - Common Stock
 MSFT,MSFT|Microsoft Corporation - Common Stock
 MSGM,MSGM|Motorsport Games Inc. - Class A Common Stock

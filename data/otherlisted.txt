@@ -53,6 +53,7 @@ ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares|N|ACND|N|100|N|
 ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|ACND.U|N|100|N|ACND=
 ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|ACND.WS|N|100|N|ACND+
 ACP|Aberdeen Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
+ACP$A|Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock|N|ACPpA|N|100|N|ACP-A
 ACR|ACRES Commercial Realty Corp. Common Stock|N|ACR|N|100|N|ACR
 ACR$C|ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock |N|ACRpC|N|100|N|ACR-C
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
@@ -367,7 +368,6 @@ ASXC|Asensus Surgical, Inc. Common Stock|A|ASXC|N|100|N|ASXC
 ASZ|Austerlitz Acquisition Corporation II Class A Ordinary Shares|N|ASZ|N|100|N|ASZ
 ASZ.U|Austerlitz Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|ASZ.U|N|100|N|ASZ=
 ASZ.W|Austerlitz Acquisition Corporation II Warrants, each whole Warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|ASZ.WS|N|100|N|ASZ+
-AT|Atlantic Power Corporation Ordinary Shares (Canada)|N|AT|N|100|N|AT
 ATA|Americas Technology Acquisition Corp. Ordinary Shares|N|ATA|N|100|N|ATA
 ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant|N|ATA.U|N|100|N|ATA=
 ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50|N|ATA.WS|N|100|N|ATA+
@@ -1377,7 +1377,6 @@ DLNG|Dynagas LNG Partners LP Common Units|N|DLNG|N|100|N|DLNG
 DLNG$A|Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units|N|DLNGpA|N|100|N|DLNG-A
 DLNG$B|Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni|N|DLNGpB|N|100|N|DLNG-B
 DLR|Digital Realty Trust, Inc. Common Stock|N|DLR|N|100|N|DLR
-DLR$C|Digital Realty Trust, Inc. 6.625% Series C Cumulative Redeemable Perpetual Preferred Stock|N|DLRpC|N|100|N|DLR-C
 DLR$J|Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock|N|DLRpJ|N|100|N|DLR-J
 DLR$K|Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|DLRpK|N|100|N|DLR-K
 DLR$L|Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock|N|DLRpL|N|100|N|DLR-L
@@ -5748,12 +5747,10 @@ WARR|Warrior Technologies Acquisition Company Class A Common Stock|N|WARR|N|100|
 WARR.U|Warrior Technologies Acquisition Company Units|N|WARR.U|N|100|N|WARR=
 WARR.W|Warrior Technologies Acquisition Company Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|WARR.WS|N|100|N|WARR+
 WAT|Waters Corporation Common Stock|N|WAT|N|100|N|WAT
-WBIE|WBI BullBear Rising Income 3000 ETF|P|WBIE|Y|100|N|WBIE
 WBIF|WBI BullBear Value 3000 ETF|P|WBIF|Y|100|N|WBIF
 WBIG|WBI BullBear Yield 3000 ETF|P|WBIG|Y|100|N|WBIG
 WBII|WBI BullBear Global Income ETF|P|WBII|Y|100|N|WBII
 WBIL|WBI BullBear Quality 3000 ETF|P|WBIL|Y|100|N|WBIL
-WBIN|WBI BullBear Trend Switch US Total Return ETF|P|WBIN|Y|100|N|WBIN
 WBIT|Absolute Shares Trust WBI BullBear Trend Switch US 3000 Total Return ETF|P|WBIT|Y|100|N|WBIT
 WBIY|WBI Power Factor High Dividend ETF|P|WBIY|Y|100|N|WBIY
 WBK|Westpac Banking Corporation Common Stock|N|WBK|N|100|N|WBK
@@ -5999,4 +5996,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0514202115:40||||||
+File Creation Time: 0517202112:10||||||
