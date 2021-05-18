@@ -47,6 +47,7 @@ ACND.U,ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one 
 ACND.W,ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 ACP,ACP|Aberdeen Income Credit Strategies Fund Common Shares
 ACP$A,ACP$A|Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock
+ACP.V,ACP.V|Aberdeen Income Credit Strategies Fund Rights (expiring June 16, 2021) When Issued
 ACR,ACR|ACRES Commercial Realty Corp. Common Stock
 ACR$C,ACR$C|ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock 
 ACRE,ACRE|Ares Commercial Real Estate Corporation Common Stock
@@ -1688,6 +1689,7 @@ GPL,GPL|Great Panther Mining Limited Ordinary Shares (Canada)
 GPM,GPM|Guggenheim Enhanced Equity Income Fund
 GPMT,GPMT|Granite Point Mortgage Trust Inc. Common Stock
 GPN,GPN|Global Payments Inc. Common Stock
+GPOR,GPOR|Gulfport Energy Corporation Common Shares
 GPRK,GPRK|Geopark Ltd Common Shares
 GPS,GPS|Gap, Inc. (The) Common Stock
 GPX,GPX|GP Strategies Corporation Common Stock
@@ -2915,6 +2917,7 @@ PNTM,PNTM|Pontem Corporation Class A Ordinary Shares
 PNTM.U,PNTM.U|Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
 PNTM.W,PNTM.W|Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PNW,PNW|Pinnacle West Capital Corporation Common Stock
+POND.U,POND.U|Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 POR,POR|Portland General Electric Co Common Stock
 POST,POST|Post Holdings, Inc. Common Stock
 PPG,PPG|PPG Industries, Inc. Common Stock
@@ -4070,7 +4073,6 @@ ADXS,ADXS|Advaxis, Inc. - Common Stock
 AEAC,AEAC|Authentic Equity Acquisition Corp. - Class A ordinary share
 AEACU,AEACU|Authentic Equity Acquisition Corp. - Unit
 AEACW,AEACW|Authentic Equity Acquisition Corp. - Warrant
-AEGN,AEGN|Aegion Corp - Class A Common Stock
 AEHL,AEHL|Antelope Enterprise Holdings Limited - Common Stock
 AEHR,AEHR|Aehr Test Systems - Common Stock
 AEI,AEI|Alset EHome International Inc. - Common Stock
@@ -4084,7 +4086,9 @@ AESE,AESE|Allied Esports Entertainment, Inc. - Common Stock
 AEY,AEY|ADDvantage Technologies Group, Inc. - Common Stock
 AEYE,AEYE|AudioEye, Inc. - Common Stock
 AEZS,AEZS|Aeterna Zentaris Inc. - Common Stock
+AFAQ,AFAQ|AF Acquisition Corp. - Common Stock
 AFAQU,AFAQU|AF Acquisition Corp. - Units
+AFAQW,AFAQW|AF Acquisition Corp. - Warrants
 AFBI,AFBI|Affinity Bancshares, Inc. - Common Stock
 AFCG,AFCG|AFC Gamma, Inc. - Common Stock
 AFIB,AFIB|Acutus Medical, Inc. - Common Stock
@@ -4335,6 +4339,7 @@ ASTSW,ASTSW|AST SpaceMobile, Inc. - Warrant
 ASUR,ASUR|Asure Software Inc - Common Stock
 ASYS,ASYS|Amtech Systems, Inc. - Common Stock
 ATAX,ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
+ATCOL,ATCOL|Atlas Corp. - 7.125% Notes due 2027
 ATCX,ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock
 ATEC,ATEC|Alphatec Holdings, Inc. - Common Stock
 ATER,ATER|Aterian, Inc. - Common Stock
@@ -4360,7 +4365,9 @@ ATSG,ATSG|Air Transport Services Group, Inc - Common Stock
 ATSPT,ATSPT|Archimedes Tech SPAC Partners Co. - Subunit
 ATSPU,ATSPU|Archimedes Tech SPAC Partners Co. - Unit
 ATSPW,ATSPW|Archimedes Tech SPAC Partners Co. - Warrant
+ATVC,ATVC|Tribe Capital Growth Corp I - Class A common stock
 ATVCU,ATVCU|Tribe Capital Growth Corp I - Units
+ATVCW,ATVCW|Tribe Capital Growth Corp I - Warrant
 ATVI,ATVI|Activision Blizzard, Inc - Common Stock
 ATXI,ATXI|Avenue Therapeutics, Inc. - Common Stock
 AUB,AUB|Atlantic Union Bankshares Corporation - Common Stock
@@ -4615,7 +4622,7 @@ BVXV,BVXV|BiondVax Pharmaceuticals Ltd. - American Depositary Shares
 BWAC,BWAC|Better World Acquisition Corp. - Common Stock
 BWACU,BWACU|Better World Acquisition Corp. - Unit
 BWACW,BWACW|Better World Acquisition Corp. - Warrants
-BWAY,BWAY|Brainsway Ltd. - American Depositary Shares
+BWAY,BWAY|BrainsWay Ltd. - American Depositary Shares
 BWB,BWB|Bridgewater Bancshares, Inc. - Common Stock
 BWEN,BWEN|Broadwind, Inc. - Common Stock
 BWFG,BWFG|Bankwell Financial Group, Inc. - Common Stock
@@ -4895,6 +4902,7 @@ COVAU,COVAU|COVA Acquisition Corp. - Unit
 COVAW,COVAW|COVA Acquisition Corp. - Warrants to purchase Class A ordinary shares
 COWN,COWN|Cowen Inc. - Class A Common Stock
 COWNL,COWNL|Cowen Inc. - 7.75% Senior Notes due 2033
+CPARU,CPARU|Catalyst Partners Acquisition Corp. - Unit
 CPHC,CPHC|Canterbury Park Holding Corporation - Common Stock
 CPIX,CPIX|Cumberland Pharmaceuticals Inc. - Common Stock
 CPLP,CPLP|Capital Product Partners L.P. - common units representing limited partner interests
@@ -6102,6 +6110,7 @@ JVA,JVA|Coffee Holding Co., Inc. - Common Stock
 JWEL,JWEL|Jowell Global Ltd. - Ordinary Shares
 JYAC,JYAC|Jiya Acquisition Corp. - Class A Common Stock
 JYNT,JYNT|The Joint Corp. - Common Stock
+JZXN,JZXN|Jiuzi Holdings, Inc. - Ordinary Shares
 KAII,KAII|Kismet Acquisition Two Corp. - Class A Ordinary Shares
 KAIIU,KAIIU|Kismet Acquisition Two Corp. - Unit
 KAIIW,KAIIW|Kismet Acquisition Two Corp. - Warrant
@@ -6428,6 +6437,7 @@ MBWM,MBWM|Mercantile Bank Corporation - Common Stock
 MCAD,MCAD|Mountain Crest Acquisition Corp. II - Common Stock
 MCADR,MCADR|Mountain Crest Acquisition Corp. II - Right
 MCADU,MCADU|Mountain Crest Acquisition Corp. II - Units each consisting of one share of Common Stock, $0.0001 par value andone Right to acquire 1/10 of one share of Common Stock.
+MCAEU,MCAEU|Mountain Crest Acquisition Corp. III - Unit
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
 MCFE,MCFE|McAfee Corp. - Class A Common Stock
@@ -7017,7 +7027,7 @@ PLBC,PLBC|Plumas Bancorp - Common Stock
 PLBY,PLBY|PLBY Group, Inc.  - Common Stock
 PLCE,PLCE|Children's Place, Inc. (The) - Common Stock
 PLIN,PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares
-PLL,PLL|Piedmont Lithium Limited - American Depositary Shares
+PLL,PLL|Piedmont Lithium Limited - Common Stock
 PLMI,PLMI|Plum Acquisition Corp. I - Class A Ordinary Share
 PLMIU,PLMIU|Plum Acquisition Corp. I - Units
 PLMIW,PLMIW|Plum Acquisition Corp. I - Warrant
@@ -8031,6 +8041,7 @@ VMACU,VMACU|Vistas Media Acquisition Company Inc. - Unit
 VMACW,VMACW|Vistas Media Acquisition Company Inc. - Warrant
 VMAR,VMAR|Vision Marine Technologies Inc. - Common Shares
 VMD,VMD|Viemed Healthcare, Inc. - Common Shares
+VMEOV,VMEOV|Vimeo, Inc. - Common Stock When Issued
 VNDA,VNDA|Vanda Pharmaceuticals Inc. - Common Stock
 VNET,VNET|21Vianet Group, Inc. - American Depositary Shares
 VNOM,VNOM|Viper Energy Partners LP - Common Unit
