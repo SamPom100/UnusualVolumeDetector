@@ -60,7 +60,9 @@ ACST|Acasti Pharma, Inc. - Class A Common Stock|S|N|D|100|N|N
 ACTC|ArcLight Clean Transition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 ACTCU|ArcLight Clean Transition Corp. - Unit|S|N|N|100|N|N
 ACTCW|ArcLight Clean Transition Corp. - Warrant|S|N|N|100|N|N
+ACTD|ArcLight Clean Transition Corp. II - Class A Ordinary Share|S|N|N|100|N|N
 ACTDU|ArcLight Clean Transition Corp. II - Unit|S|N|N|100|N|N
+ACTDW|ArcLight Clean Transition Corp. II - Warrant|S|N|N|100|N|N
 ACTG|Acacia Research Corporation - Common Stock|Q|N|N|100|N|N
 ACVA|ACV Auctions Inc. - Class A Common Stock|Q|N|N|100|N|N
 ACWI|iShares MSCI ACWI Index Fund|G|N|N|100|Y|N
@@ -437,7 +439,7 @@ AVT|Avnet, Inc. - Common Stock|Q|N|N|100|N|N
 AVXL|Anavex Life Sciences Corp. - Common Stock|S|N|N|100|N|N
 AWH|Aspira Women's Health Inc. - Common Stock|S|N|N|100|N|N
 AWRE|Aware, Inc. - Common Stock|G|N|N|100|N|N
-AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|N|100|N|N
+AXAS|Abraxas Petroleum Corporation - Common Stock|S|N|D|100|N|N
 AXDX|Accelerate Diagnostics, Inc. - Common Stock|S|N|N|100|N|N
 AXGN|Axogen, Inc. - Common Stock|S|N|N|100|N|N
 AXLA|Axcella Health Inc. - Common Stock|G|N|N|100|N|N
@@ -840,6 +842,7 @@ CFVI|CF Acquisition Corp. VI - Class A Common Stock|S|N|N|100|N|N
 CFVIU|CF Acquisition Corp. VI - Unit|S|N|N|100|N|N
 CFVIW|CF Acquisition Corp. VI - Warrant|S|N|N|100|N|N
 CG|The Carlyle Group Inc. - Common Stock|Q|N|N|100|N|N
+CGABL|The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061|Q|N|N|100|N|N
 CGBD|TCG BDC, Inc. - Common Stock|Q|N|N|100|N|N
 CGC|Canopy Growth Corporation - Common Shares|Q|N|N|100|N|N
 CGEM|Cullinan Oncology, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1815,6 +1818,7 @@ GIIXU|Gores Holdings VIII, Inc. - Unit|S|N|N|100|N|N
 GIIXW|Gores Holdings VIII, Inc. - Warrant|S|N|N|100|N|N
 GILD|Gilead Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100|N|N
+GIWWU|GigInternational1, Inc. - Units|S|N|N|100|N|N
 GLAD|Gladstone Capital Corporation - Common Stock|Q|N|N|100|N|N
 GLADL|Gladstone Capital Corporation - 5.375% Notes due 2024|Q|N|N|100|N|N
 GLAQ|Globis Acquisition Corp. - Common stock|S|N|N|100|N|N
@@ -3129,7 +3133,7 @@ ONDS|Ondas Holdings Inc. - Common Stock|S|N|N|100|N|N
 ONEM|1Life Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 ONEQ|Fidelity Nasdaq Composite Index ETF|G|N|N|100|Y|N
 ONEW|OneWater Marine Inc. - Class A Common Stock|G|N|N|100|N|N
-ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+ONTX|Onconova Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 ONTXW|Onconova Therapeutics, Inc. - Warrants|S|N|N|100|N|N
 ONVO|Organovo Holdings, Inc. - Common Stock|S|N|N|100|N|N
 OPBK|OP Bancorp - Common Stock|G|N|N|100|N|N
@@ -3331,7 +3335,7 @@ PLBC|Plumas Bancorp - Common Stock|S|N|N|100|N|N
 PLBY|PLBY Group, Inc.  - Common Stock|G|N|N|100|N|N
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100|N|N
 PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares|S|N|N|100|N|N
-PLL|Piedmont Lithium Limited - Common Stock|S|N|N|100|N|N
+PLL|Piedmont Lithium Inc.   - Common Stock|S|N|N|100|N|N
 PLMI|Plum Acquisition Corp. I - Class A Ordinary Share|S|N|N|100|N|N
 PLMIU|Plum Acquisition Corp. I - Units|S|N|N|100|N|N
 PLMIW|Plum Acquisition Corp. I - Warrant|S|N|N|100|N|N
@@ -3538,6 +3542,7 @@ RADA|RADA Electronic Industries Ltd. - Ordinary Shares|S|N|N|100|N|N
 RADI|Radius Global Infrastructure, Inc. - Common Stock|G|N|N|100|N|N
 RAIL|Freightcar America, Inc. - Common Stock|Q|N|N|100|N|N
 RAIN|Rain Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
+RAMMU|Aries I Acquisition Corporation - Unit|S|N|N|100|N|N
 RAND|Rand Capital Corporation - Common Stock|S|N|N|100|N|N
 RAPT|RAPT Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RARE|Ultragenyx Pharmaceutical Inc. - Common Stock|Q|N|N|100|N|N
@@ -3846,6 +3851,7 @@ SJ|Scienjoy Holding Corporation - Ordinary Shares|S|N|N|100|N|N
 SKIN|The Beauty Health Company - Class A Common Stock|S|N|N|100|N|N
 SKINW|The Beauty Health Company - Warrant expiring 5/4/2026|S|N|N|100|N|N
 SKOR|FlexShares Credit-Scored US Corporate Bond Index Fund|G|N|N|100|Y|N
+SKYAU|Skydeck Acquisition Corp. - Units|S|N|N|100|N|N
 SKYT|SkyWater Technology, Inc. - Common Stock|S|N|N|100|N|N
 SKYU|ProShares Ultra Nasdaq Cloud Computing ETF|G|N|N|100|Y|N
 SKYW|SkyWest, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4016,7 +4022,7 @@ STTK|Shattuck Labs, Inc. - Common Stock|Q|N|N|100|N|N
 STWO|ACON S2 Acquisition Corp. - Class A ordinary shares|S|N|N|100|N|N
 STWOU|ACON S2 Acquisition Corp. - Unit|S|N|N|100|N|N
 STWOW|ACON S2 Acquisition Corp. - Warrant|S|N|N|100|N|N
-STX|Seagate Technology PLC - Ordinary Shares (Ireland)|Q|N|N|100|N|N
+STX|Seagate Technology Holdings PLC - Ordinary Shares (Ireland)|Q|N|N|100|N|N
 STXB|Spirit of Texas Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 SUMO|Sumo Logic, Inc. - Common Stock|Q|N|N|100|N|N
 SUMR|Summer Infant, Inc. - Common Stock|S|N|N|100|N|N
@@ -4690,4 +4696,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0518202112:11|||||||
+File Creation Time: 0519202112:11|||||||

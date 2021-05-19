@@ -1709,7 +1709,6 @@ GS$C,GS$C|Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Prefe
 GS$D,GS$D|Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg
 GS$J,GS$J|Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to Fltg Rate
 GS$K,GS$K|Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K
-GS$N,GS$N|Goldman Sachs Group, Inc. (The) Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.30% Non-Cumulative Preferred Stock, Series N
 GSAH,GSAH|GS Acquisition Holdings Corp II Class A Common Stock
 GSAH.U,GSAH.U|GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-quarter of one redeemable Warrant
 GSAH.W,GSAH.W|GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
@@ -2967,7 +2966,7 @@ PSA$L,PSA$L|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.62
 PSA$M,PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M
 PSA$N,PSA$N|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N
 PSA$O,PSA$O|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of Beneficial Interest, Series O
-PSB,PSB|PS Business Parks, Inc. Common Stock
+PSB,PSB|PS Business Parks, Inc. (MD) Common Stock
 PSB$W,PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W
 PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X
 PSB$Y,PSB$Y|PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y
@@ -3373,6 +3372,7 @@ SPXX,SPXX|Nuveen S&P 500 Dynamic Overwrite Fund
 SQ,SQ|Square, Inc. Class A Common Stock
 SQM,SQM|Sociedad Quimica y Minera S.A. Common Stock
 SQNS,SQNS|Sequans Communications S.A. American Depositary Shares
+SQSP,SQSP|Squarespace, Inc. Class A Common Stock
 SQZ,SQZ|SQZ Biotechnologies Company Common Stock
 SR,SR|Spire Inc. Common Stock
 SR$A,SR$A|Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock
@@ -4038,7 +4038,9 @@ ACST,ACST|Acasti Pharma, Inc. - Class A Common Stock
 ACTC,ACTC|ArcLight Clean Transition Corp. - Class A Ordinary Shares
 ACTCU,ACTCU|ArcLight Clean Transition Corp. - Unit
 ACTCW,ACTCW|ArcLight Clean Transition Corp. - Warrant
+ACTD,ACTD|ArcLight Clean Transition Corp. II - Class A Ordinary Share
 ACTDU,ACTDU|ArcLight Clean Transition Corp. II - Unit
+ACTDW,ACTDW|ArcLight Clean Transition Corp. II - Warrant
 ACTG,ACTG|Acacia Research Corporation - Common Stock
 ACVA,ACVA|ACV Auctions Inc. - Class A Common Stock
 ADAG,ADAG|Adagene Inc. - ADS, each representing 1.25 ordinary shares
@@ -4750,6 +4752,7 @@ CFVI,CFVI|CF Acquisition Corp. VI - Class A Common Stock
 CFVIU,CFVIU|CF Acquisition Corp. VI - Unit
 CFVIW,CFVIW|CF Acquisition Corp. VI - Warrant
 CG,CG|The Carlyle Group Inc. - Common Stock
+CGABL,CGABL|The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061
 CGBD,CGBD|TCG BDC, Inc. - Common Stock
 CGC,CGC|Canopy Growth Corporation - Common Shares
 CGEM,CGEM|Cullinan Oncology, Inc. - Common Stock
@@ -5603,6 +5606,7 @@ GIIXU,GIIXU|Gores Holdings VIII, Inc. - Unit
 GIIXW,GIIXW|Gores Holdings VIII, Inc. - Warrant
 GILD,GILD|Gilead Sciences, Inc. - Common Stock
 GILT,GILT|Gilat Satellite Networks Ltd. - Ordinary Shares
+GIWWU,GIWWU|GigInternational1, Inc. - Units
 GLAD,GLAD|Gladstone Capital Corporation - Common Stock
 GLADL,GLADL|Gladstone Capital Corporation - 5.375% Notes due 2024
 GLAQ,GLAQ|Globis Acquisition Corp. - Common stock
@@ -7027,7 +7031,7 @@ PLBC,PLBC|Plumas Bancorp - Common Stock
 PLBY,PLBY|PLBY Group, Inc.  - Common Stock
 PLCE,PLCE|Children's Place, Inc. (The) - Common Stock
 PLIN,PLIN|China Xiangtai Food Co., Ltd. - Ordinary Shares
-PLL,PLL|Piedmont Lithium Limited - Common Stock
+PLL,PLL|Piedmont Lithium Inc.   - Common Stock
 PLMI,PLMI|Plum Acquisition Corp. I - Class A Ordinary Share
 PLMIU,PLMIU|Plum Acquisition Corp. I - Units
 PLMIW,PLMIW|Plum Acquisition Corp. I - Warrant
@@ -7196,6 +7200,7 @@ RADA,RADA|RADA Electronic Industries Ltd. - Ordinary Shares
 RADI,RADI|Radius Global Infrastructure, Inc. - Common Stock
 RAIL,RAIL|Freightcar America, Inc. - Common Stock
 RAIN,RAIN|Rain Therapeutics Inc. - Common Stock
+RAMMU,RAMMU|Aries I Acquisition Corporation - Unit
 RAND,RAND|Rand Capital Corporation - Common Stock
 RAPT,RAPT|RAPT Therapeutics, Inc. - Common Stock
 RARE,RARE|Ultragenyx Pharmaceutical Inc. - Common Stock
@@ -7481,6 +7486,7 @@ SIVBP,SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th inte
 SJ,SJ|Scienjoy Holding Corporation - Ordinary Shares
 SKIN,SKIN|The Beauty Health Company - Class A Common Stock
 SKINW,SKINW|The Beauty Health Company - Warrant expiring 5/4/2026
+SKYAU,SKYAU|Skydeck Acquisition Corp. - Units
 SKYT,SKYT|SkyWater Technology, Inc. - Common Stock
 SKYW,SKYW|SkyWest, Inc. - Common Stock
 SLAB,SLAB|Silicon Laboratories, Inc. - Common Stock
@@ -7637,7 +7643,7 @@ STTK,STTK|Shattuck Labs, Inc. - Common Stock
 STWO,STWO|ACON S2 Acquisition Corp. - Class A ordinary shares
 STWOU,STWOU|ACON S2 Acquisition Corp. - Unit
 STWOW,STWOW|ACON S2 Acquisition Corp. - Warrant
-STX,STX|Seagate Technology PLC - Ordinary Shares (Ireland)
+STX,STX|Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
 STXB,STXB|Spirit of Texas Bancshares, Inc. - Common Stock
 SUMO,SUMO|Sumo Logic, Inc. - Common Stock
 SUMR,SUMR|Summer Infant, Inc. - Common Stock
