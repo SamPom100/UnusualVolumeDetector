@@ -371,8 +371,8 @@ ASRV|AmeriServ Financial Inc. - Common Stock|G|N|N|100|N|N
 ASRVP|AmeriServ Financial Inc. - AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A|G|N|N|100|N|N
 ASTC|Astrotech Corporation - Common Stock|S|N|N|100|N|N
 ASTE|Astec Industries, Inc. - Common Stock|Q|N|N|100|N|N
-ASTS|AST SpaceMobile, Inc. - Class A Common Stock|S|N|N|100|N|N
-ASTSW|AST SpaceMobile, Inc. - Warrant|S|N|N|100|N|N
+ASTS|AST SpaceMobile, Inc. - Class A Common Stock|Q|N|N|100|N|N
+ASTSW|AST SpaceMobile, Inc. - Warrant|Q|N|N|100|N|N
 ASUR|Asure Software Inc - Common Stock|S|N|N|100|N|N
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100|N|N
 ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests|Q|N|N|100|N|N
@@ -1263,7 +1263,7 @@ DUNE|Dune Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 DUNEU|Dune Acquisition Corporation - Unit|S|N|N|100|N|N
 DUNEW|Dune Acquisition Corporation - Warrant|S|N|N|100|N|N
 DUO|Fangdd Network Group Ltd. - American Depositary Shares|G|N|N|100|N|N
-DUOT|Duos Technologies Group, Inc. - Common Stock|S|N|D|100|N|N
+DUOT|Duos Technologies Group, Inc. - Common Stock|S|N|N|100|N|N
 DVAX|Dynavax Technologies Corporation - Common Stock|S|N|N|100|N|N
 DVLU|First Trust Dorsey Wright Momentum & Value ETF|G|N|N|100|Y|N
 DVOL|First Trust Dorsey Wright Momentum & Low Volatility ETF|G|N|N|100|Y|N
@@ -2592,7 +2592,6 @@ LJPC|La Jolla Pharmaceutical Company - Common Stock|S|N|N|100|N|N
 LKCO|Luokung Technology Corp - Ordinary Shares|S|N|N|100|N|N
 LKFN|Lakeland Financial Corporation - Common Stock|Q|N|N|100|N|N
 LKQ|LKQ Corporation - Common Stock|Q|N|N|100|N|N
-LLIT|Lianluo Smart Limited - Class A Common Stock|S|N|N|100|N|N
 LLNW|Limelight Networks, Inc. - Common Stock|Q|N|N|100|N|N
 LMACA|Liberty Media Acquisition Corporation - Series A Common Stock|S|N|N|100|N|N
 LMACU|Liberty Media Acquisition Corporation - Unit|S|N|N|100|N|N
@@ -2939,6 +2938,7 @@ NDSN|Nordson Corporation - Common Stock|Q|N|N|100|N|N
 NEBC|Nebula Caravel Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 NEBCU|Nebula Caravel Acquisition Corp. - Unit|S|N|N|100|N|N
 NEBCW|Nebula Caravel Acquisition Corp. - Warrant|S|N|N|100|N|N
+NEGG|Newegg Commerce, Inc. - Common Shares|S|N|N|100|N|N
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100|N|N
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100|N|N
 NEON|Neonode Inc. - Common Stock|S|N|N|100|N|N
@@ -3180,6 +3180,7 @@ OTEX|Open Text Corporation - Common Shares|Q|N|N|100|N|N
 OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
 OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
+OTLY|Oatly Group AB - American Depositary Shares|Q|N|N|100|N|N
 OTRA|OTR Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 OTRAU|OTR Acquisition Corp. - Unit|S|N|N|100|N|N
 OTRAW|OTR Acquisition Corp. - Warrant|S|N|N|100|N|N
@@ -3514,6 +3515,7 @@ QQC|Simplify Nasdaq 100 PLUS Convexity ETF|G|N|N|100|Y|N
 QQD|Simplify Nasdaq 100 PLUS Downside Convexity ETF|G|N|N|100|Y|N
 QQEW|First Trust NASDAQ-100 Equal Weighted Index Fund|G|N|N|100|Y|N
 QQQ|Invesco QQQ Trust, Series 1|G|N|N|100|Y|N
+QQQA|ProShares Nasdaq-100 Dorsey Wright Momentum ETF|G|N|N|100|Y|N
 QQQJ|Invesco NASDAQ Next Gen 100 ETF|G|N|N|100|Y|N
 QQQM|Invesco NASDAQ 100 ETF|G|N|N|100|Y|N
 QQQN|VictoryShares Nasdaq Next 50 ETF|G|N|N|100|Y|N
@@ -4696,4 +4698,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0519202115:41|||||||
+File Creation Time: 0520202112:11|||||||

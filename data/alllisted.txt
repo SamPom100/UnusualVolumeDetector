@@ -311,9 +311,6 @@ ASZ.W,ASZ.W|Austerlitz Acquisition Corporation II Warrants, each whole Warrant e
 ATA,ATA|Americas Technology Acquisition Corp. Ordinary Shares
 ATA.U,ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant
 ATA.W,ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50
-ATAC,ATAC|Altimar Acquisition Corporation Class A Ordinary Shares
-ATAC.U,ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
-ATAC.W,ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ATAQ,ATAQ|Altimar Acquisition Corp. III Class A Ordinary Shares
 ATAQ.U,ATAQ.U|Altimar Acquisition Corp. III Units, each consisting of one Class A Ordinary Share and one-fourth of one redeemable warrant
 ATAQ.W,ATAQ.W|Altimar Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share
@@ -2516,6 +2513,7 @@ NETI,NETI|Eneti Inc. Common Stock
 NEU,NEU|NewMarket Corp Common Stock
 NEV,NEV|Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest
 NEW,NEW|Puxin Limited American Depositary Shares, each representing two Ordinary Shares
+NEWP,NEWP|New Pacific Metals Corp. Common Shares
 NEWR,NEWR|New Relic, Inc. Common Stock
 NEX,NEX|NexTier Oilfield Solutions Inc. Common Stock
 NEXA,NEXA|Nexa Resources S.A. Common Shares
@@ -2756,6 +2754,8 @@ OUST,OUST|Ouster, Inc. Common Stock
 OUST.W,OUST.W|Ouster, Inc. Warrants
 OUT,OUT|OUTFRONT Media Inc. Common Stock
 OVV,OVV|Ovintiv Inc. (DE)
+OWL,OWL|Blue Owl Capital Inc. Class A Common Stock
+OWL.W,OWL.W|Blue Owl Capital Inc. Redeemable Warrants
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
 OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
@@ -2800,6 +2800,7 @@ PCI,PCI|PIMCO Dynamic Credit and Mortgage Income Fund Common Shares of Beneficia
 PCK,PCK|Pimco California Municipal Income Fund II Common Shares of Beneficial Interest
 PCM,PCM|PCM Fund, Inc. Common Stock
 PCN,PCN|Pimco Corporate & Income Strategy Fund Common Stock
+PCOR,PCOR|Procore Technologies, Inc. Common Stock
 PCPC,PCPC|Periphas Capital Partnering Corporation Class A Common Stock
 PCPC.U,PCPC.U|Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant
 PCPC.W,PCPC.W|Periphas Capital Partnering Corporation Warrants
@@ -6315,7 +6316,6 @@ LJPC,LJPC|La Jolla Pharmaceutical Company - Common Stock
 LKCO,LKCO|Luokung Technology Corp - Ordinary Shares
 LKFN,LKFN|Lakeland Financial Corporation - Common Stock
 LKQ,LKQ|LKQ Corporation - Common Stock
-LLIT,LLIT|Lianluo Smart Limited - Class A Common Stock
 LLNW,LLNW|Limelight Networks, Inc. - Common Stock
 LMACA,LMACA|Liberty Media Acquisition Corporation - Series A Common Stock
 LMACU,LMACU|Liberty Media Acquisition Corporation - Unit
@@ -6654,6 +6654,7 @@ NDSN,NDSN|Nordson Corporation - Common Stock
 NEBC,NEBC|Nebula Caravel Acquisition Corp. - Class A Common Stock
 NEBCU,NEBCU|Nebula Caravel Acquisition Corp. - Unit
 NEBCW,NEBCW|Nebula Caravel Acquisition Corp. - Warrant
+NEGG,NEGG|Newegg Commerce, Inc. - Common Shares
 NEO,NEO|NeoGenomics, Inc. - Common Stock
 NEOG,NEOG|Neogen Corporation - Common Stock
 NEON,NEON|Neonode Inc. - Common Stock
@@ -6891,6 +6892,7 @@ OTEX,OTEX|Open Text Corporation - Common Shares
 OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
 OTLKW,OTLKW|Outlook Therapeutics, Inc. - Series A Warrant
+OTLY,OTLY|Oatly Group AB - American Depositary Shares
 OTRA,OTRA|OTR Acquisition Corp. - Class A Common Stock
 OTRAU,OTRAU|OTR Acquisition Corp. - Unit
 OTRAW,OTRAW|OTR Acquisition Corp. - Warrant

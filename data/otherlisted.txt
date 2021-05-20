@@ -372,9 +372,6 @@ ASZ.W|Austerlitz Acquisition Corporation II Warrants, each whole Warrant exercis
 ATA|Americas Technology Acquisition Corp. Ordinary Shares|N|ATA|N|100|N|ATA
 ATA.U|Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of Redeemable Warrant|N|ATA.U|N|100|N|ATA=
 ATA.W|Americas Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50|N|ATA.WS|N|100|N|ATA+
-ATAC|Altimar Acquisition Corporation Class A Ordinary Shares|N|ATAC|N|100|N|ATAC
-ATAC.U|Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|ATAC.U|N|100|N|ATAC=
-ATAC.W|Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|ATAC.WS|N|100|N|ATAC+
 ATAQ|Altimar Acquisition Corp. III Class A Ordinary Shares|N|ATAQ|N|100|N|ATAQ
 ATAQ.U|Altimar Acquisition Corp. III Units, each consisting of one Class A Ordinary Share and one-fourth of one redeemable warrant|N|ATAQ.U|N|100|N|ATAQ=
 ATAQ.W|Altimar Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|ATAQ.WS|N|100|N|ATAQ+
@@ -3366,6 +3363,7 @@ LPI|Laredo Petroleum, Inc. Common Stock|N|LPI|N|100|N|LPI
 LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES|N|LPL|N|100|N|LPL
 LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
+LQDB|iShares Trust iShares BBB Rated Corporate Bond ETF|P|LQDB|Y|100|N|LQDB
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LQDI|iShares Inflation Hedged Corporate Bond ETF|Z|LQDI|Y|100|N|LQDI
 LRGF|iShares MSCI USA Multifactor ETF|P|LRGF|Y|100|N|LRGF
@@ -3741,6 +3739,7 @@ NETL|NETLease Corporate Real Estate ETF|P|NETL|Y|100|N|NETL
 NEU|NewMarket Corp Common Stock|N|NEU|N|100|N|NEU
 NEV|Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest|N|NEV|N|100|N|NEV
 NEW|Puxin Limited American Depositary Shares, each representing two Ordinary Shares|N|NEW|N|100|N|NEW
+NEWP|New Pacific Metals Corp. Common Shares|A|NEWP|N|100|N|NEWP
 NEWR|New Relic, Inc. Common Stock|N|NEWR|N|100|N|NEWR
 NEX|NexTier Oilfield Solutions Inc. Common Stock|N|NEX|N|100|N|NEX
 NEXA|Nexa Resources S.A. Common Shares|N|NEXA|N|100|N|NEXA
@@ -3886,8 +3885,10 @@ NTG|Tortoise Midstream Energy Fund, Inc. Common Stock|N|NTG|N|100|N|NTG
 NTIP|Network-1 Technologies, Inc. Common Stock|A|NTIP|N|100|N|NTIP
 NTP|Nam Tai Property Inc. Common Stock|N|NTP|N|100|N|NTP
 NTR|Nutrien Ltd. Common Shares|N|NTR|N|100|N|NTR
+NTSE|WisdomTree Trust WisdomTree Emerging Markets Efficient Core Fund|P|NTSE|Y|100|N|NTSE
+NTSI|WisdomTree Trust WisdomTree International Efficient Core Fund|P|NTSI|Y|100|N|NTSI
 NTST|NetSTREIT Corp. Common Stock|N|NTST|N|100|N|NTST
-NTSX|WisdomTree 90/60 U.S. Balanced Fund|P|NTSX|Y|100|N|NTSX
+NTSX|WisdomTree U.S. Efficient Core Fund|P|NTSX|Y|100|N|NTSX
 NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
 NUAG|Nuveen Enhanced Yield U.S. Aggregate Bond ETF|P|NUAG|Y|100|N|NUAG
 NUBD|Nuveen ESG U.S. Aggregate Bond ETF|P|NUBD|Y|100|N|NUBD
@@ -4038,6 +4039,8 @@ OVM|Overlay Shares Municipal Bond ETF|P|OVM|Y|100|N|OVM
 OVS|Overlay Shares Small Cap Equity ETF|P|OVS|Y|100|N|OVS
 OVT|Overlay Shares Short Term Bond ETF|P|OVT|Y|100|N|OVT
 OVV|Ovintiv Inc. (DE)|N|OVV|N|100|N|OVV
+OWL|Blue Owl Capital Inc. Class A Common Stock|N|OWL|N|100|N|OWL
+OWL.W|Blue Owl Capital Inc. Redeemable Warrants|N|OWL.WS|N|100|N|OWL+
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
@@ -4104,6 +4107,7 @@ PCI|PIMCO Dynamic Credit and Mortgage Income Fund Common Shares of Beneficial In
 PCK|Pimco California Municipal Income Fund II Common Shares of Beneficial Interest|N|PCK|N|100|N|PCK
 PCM|PCM Fund, Inc. Common Stock|N|PCM|N|100|N|PCM
 PCN|Pimco Corporate & Income Strategy Fund Common Stock|N|PCN|N|100|N|PCN
+PCOR|Procore Technologies, Inc. Common Stock|N|PCOR|N|100|N|PCOR
 PCPC|Periphas Capital Partnering Corporation Class A Common Stock|N|PCPC|N|100|N|PCPC
 PCPC.U|Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant|N|PCPC.U|N|100|N|PCPC=
 PCPC.W|Periphas Capital Partnering Corporation Warrants|N|PCPC.WS|N|100|N|PCPC+
@@ -4227,7 +4231,9 @@ PLG|Platinum Group Metals Ltd. Ordinary Shares (Canada)|A|PLG|N|100|N|PLG
 PLM|Polymet Mining Corporation Ordinary Shares (Canada)|A|PLM|N|100|N|PLM
 PLNT|Planet Fitness, Inc. Common Stock|N|PLNT|N|100|N|PLNT
 PLOW|Douglas Dynamics, Inc. Common Stock|N|PLOW|N|100|N|PLOW
+PLRG|Principal U.S. Large-Cap Adaptive Multi-Factor ETF|Z|PLRG|Y|100|N|PLRG
 PLT|Plantronics, Inc. Common Stock|N|PLT|N|100|N|PLT
+PLTL|Principal U.S. Small-Cap Adaptive Multi-Factor ETF|Z|PLTL|Y|100|N|PLTL
 PLTM|GraniteShares Platinum Shares ETF|P|PLTM|Y|100|N|PLTM
 PLTR|Palantir Technologies Inc. Class A Common Stock|N|PLTR|N|100|N|PLTR
 PLX|Protalix BioTherapeutics, Inc. (DE) Common Stock|A|PLX|N|100|N|PLX
@@ -6002,4 +6008,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0519202115:41||||||
+File Creation Time: 0520202112:11||||||
