@@ -2281,6 +2281,7 @@ GFF|Griffon Corporation Common Stock|N|GFF|N|100|N|GFF
 GFI|Gold Fields Limited American Depositary Shares|N|GFI|N|100|N|GFI
 GFL|GFL Environmental Inc. Subordinate voting shares, no par value|N|GFL|N|100|N|GFL
 GFLU|GFL Environmental Inc. Tangible Equity Units|N|GFLU|N|100|N|GFLU
+GFOR.U|Graf Acquisition Corp. IV Units|N|GFOR.U|N|100|N|GFOR=
 GFX|Golden Falcon Acquisition Corp. Class A Common Stock|N|GFX|N|100|N|GFX
 GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|GFX.U|N|100|N|GFX=
 GFX.W|Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|GFX.WS|N|100|N|GFX+
@@ -2337,6 +2338,7 @@ GLIF|AGFiQ Global Infrastructure ETF|P|GLIF|Y|100|N|GLIF
 GLIN|VanEck Vectors India Growth Leaders ETF|P|GLIN|Y|100|N|GLIN
 GLL|ProShares UltraShort Gold|P|GLL|Y|100|N|GLL
 GLO|Clough Global Opportunities Fund Common Stock|A|GLO|N|100|N|GLO
+GLO.V|Clough Global Opportunities Fund Rights When-Issued|A|GLOrw|N|100|N|GLO^#
 GLOB|Globant S.A. Common Shares|N|GLOB|N|100|N|GLOB
 GLOG|GasLog Ltd. Common Shares|N|GLOG|N|100|N|GLOG
 GLOG$A|GasLog LP. 8.75% Series A Cumulative Redeemable Perpetual Preference Shares|N|GLOGpA|N|100|N|GLOG-A
@@ -2348,6 +2350,7 @@ GLP|Global Partners LP Global Partners LP Common Units representing Limited Part
 GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests|N|GLPpA|N|100|N|GLP-A
 GLP$B|Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests|N|GLPpB|N|100|N|GLP-B
 GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest|A|GLQ|N|100|N|GLQ
+GLQ.V|Clough Global Equity Fund Rights When-Issued|A|GLQrw|N|100|N|GLQ^#
 GLRY|Northern Lights Fund Trust IV Inspire Faithward Mid Cap Momentum ESG ETF|P|GLRY|Y|100|N|GLRY
 GLT|Glatfelter Corporation Common Stock|N|GLT|N|100|N|GLT
 GLTR|Aberdeen Standard Physical Precious Metals Basket Shares ETF|P|GLTR|Y|100|N|GLTR
@@ -2355,6 +2358,7 @@ GLU|Gabelli Global Utility Common Shares of Beneficial Ownership|A|GLU|N|100|N|G
 GLU$A|The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares|A|GLUpA|N|100|N|GLU-A
 GLU$B|The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares|A|GLUpB|N|100|N|GLU-B
 GLV|Clough Global Dividend and Income Fund Common Shares of beneficial interest|A|GLV|N|100|N|GLV
+GLV.V|Clough Global Dividend and Income Fund Right When-Issued|A|GLVrw|N|100|N|GLV^#
 GLW|Corning Incorporated Common Stock|N|GLW|N|100|N|GLW
 GM|General Motors Company Common Stock|N|GM|N|100|N|GM
 GME|GameStop Corporation Common Stock|N|GME|N|100|N|GME
@@ -3862,7 +3866,6 @@ NSH.U|NavSight Holdings, Inc. Units, each consisting of one share of Class A Com
 NSH.W|NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per whole share|N|NSH.WS|N|100|N|NSH+
 NSL|Nuveen Senior Income Fund Common Stock|N|NSL|N|100|N|NSL
 NSP|Insperity, Inc. Common Stock|N|NSP|N|100|N|NSP
-NSPR|InspireMD Inc. Common Stock|A|NSPR|N|100|N|NSPR
 NSPR.B|InspireMD, Inc. Series B Warrants, (Expiring March 14, 2022)|A|NSPR.WS.B|N|100|N|NSPR+B
 NSPR.W|InspireMD, Inc. Warrants|A|NSPR.WS|N|100|N|NSPR+
 NSS|NuStar Logistics, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043|N|NSS|N|100|N|NSS
@@ -6008,4 +6011,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0520202115:40||||||
+File Creation Time: 0521202112:11||||||

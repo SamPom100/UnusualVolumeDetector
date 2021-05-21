@@ -1586,6 +1586,7 @@ GFF,GFF|Griffon Corporation Common Stock
 GFI,GFI|Gold Fields Limited American Depositary Shares
 GFL,GFL|GFL Environmental Inc. Subordinate voting shares, no par value
 GFLU,GFLU|GFL Environmental Inc. Tangible Equity Units
+GFOR.U,GFOR.U|Graf Acquisition Corp. IV Units
 GFX,GFX|Golden Falcon Acquisition Corp. Class A Common Stock
 GFX.U,GFX.U|Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
 GFX.W,GFX.W|Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
@@ -1629,6 +1630,7 @@ GLEO,GLEO|Galileo Acquisition Corp. Ordinary Shares
 GLEO.U,GLEO.U|Galileo Acquisition Corp. Units, each consisting of one Ordinary Share and one Redeemable Warrant
 GLEO.W,GLEO.W|Galileo Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50
 GLO,GLO|Clough Global Opportunities Fund Common Stock
+GLO.V,GLO.V|Clough Global Opportunities Fund Rights When-Issued
 GLOB,GLOB|Globant S.A. Common Shares
 GLOG,GLOG|GasLog Ltd. Common Shares
 GLOG$A,GLOG$A|GasLog LP. 8.75% Series A Cumulative Redeemable Perpetual Preference Shares
@@ -1640,11 +1642,13 @@ GLP,GLP|Global Partners LP Global Partners LP Common Units representing Limited 
 GLP$A,GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests
 GLP$B,GLP$B|Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests
 GLQ,GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest
+GLQ.V,GLQ.V|Clough Global Equity Fund Rights When-Issued
 GLT,GLT|Glatfelter Corporation Common Stock
 GLU,GLU|Gabelli Global Utility Common Shares of Beneficial Ownership
 GLU$A,GLU$A|The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares
 GLU$B,GLU$B|The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares
 GLV,GLV|Clough Global Dividend and Income Fund Common Shares of beneficial interest
+GLV.V,GLV.V|Clough Global Dividend and Income Fund Right When-Issued
 GLW,GLW|Corning Incorporated Common Stock
 GM,GM|General Motors Company Common Stock
 GME,GME|GameStop Corporation Common Stock
@@ -2626,7 +2630,6 @@ NSH.U,NSH.U|NavSight Holdings, Inc. Units, each consisting of one share of Class
 NSH.W,NSH.W|NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per whole share
 NSL,NSL|Nuveen Senior Income Fund Common Stock
 NSP,NSP|Insperity, Inc. Common Stock
-NSPR,NSPR|InspireMD Inc. Common Stock
 NSPR.B,NSPR.B|InspireMD, Inc. Series B Warrants, (Expiring March 14, 2022)
 NSPR.W,NSPR.W|InspireMD, Inc. Warrants
 NSS,NSS|NuStar Logistics, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043
@@ -4007,7 +4010,9 @@ ACAD,ACAD|ACADIA Pharmaceuticals Inc. - Common Stock
 ACAH,ACAH|Atlantic Coastal Acquisition Corp. - Class A Common Stock
 ACAHU,ACAHU|Atlantic Coastal Acquisition Corp. - Unit
 ACAHW,ACAHW|Atlantic Coastal Acquisition Corp. - Warrant
+ACBA,ACBA|Ace Global Business Acquisition Limited - Ordinary Shares
 ACBAU,ACBAU|Ace Global Business Acquisition Limited - Unit
+ACBAW,ACBAW|Ace Global Business Acquisition Limited - Warrant
 ACBI,ACBI|Atlantic Capital Bancshares, Inc. - Common Stock
 ACCD,ACCD|Accolade, Inc. - common stock
 ACER,ACER|Acer Therapeutics Inc. - Common Stock
@@ -4505,8 +4510,8 @@ BIOX,BIOX|Bioceres Crop Solutions Corp. - Ordinary Shares
 BIVI,BIVI|BioVie Inc. - Common stock
 BJRI,BJRI|BJ's Restaurants, Inc. - Common Stock
 BKCC,BKCC|BlackRock Capital Investment Corporation - Common Stock
-BKEP,BKEP|Blueknight Energy Partners L.P., L.L.C. - Common Units representing Limited Partner Interests
-BKEPP,BKEPP|Blueknight Energy Partners L.P., L.L.C. - Series A Preferred Units
+BKEP,BKEP|Blueknight Energy Partners L.P. - Common Units representing Limited Partner Interests
+BKEPP,BKEPP|Blueknight Energy Partners L.P. - Series A Preferred Units
 BKNG,BKNG|Booking Holdings Inc. - Common Stock
 BKSC,BKSC|Bank of South Carolina Corp. - Common Stock
 BKYI,BKYI|BIO-key International, Inc. - Common Stock
@@ -6726,6 +6731,7 @@ NRIM,NRIM|Northrim BanCorp Inc - Common Stock
 NRIX,NRIX|Nurix Therapeutics, Inc. - Common stock
 NSEC,NSEC|National Security Group, Inc. - Common Stock
 NSIT,NSIT|Insight Enterprises, Inc. - Common Stock
+NSPR,NSPR|InspireMD Inc. - Common Stock
 NSSC,NSSC|NAPCO Security Technologies, Inc. - Common Stock
 NSTG,NSTG|NanoString Technologies, Inc. - Common Stock
 NSYS,NSYS|Nortech Systems Incorporated - Common Stock
@@ -6909,6 +6915,7 @@ OXLCL,OXLCL|Oxford Lane Capital Corp. - 6.75% Notes due 2031
 OXLCM,OXLCM|Oxford Lane Capital Corp. - 6.75% Series 2024 Term Preferred Stock
 OXLCP,OXLCP|Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
 OXSQ,OXSQ|Oxford Square Capital Corp. - Closed End Fund
+OXSQG,OXSQG|Oxford Square Capital Corp. - 5.50% Notes due 2028
 OXSQL,OXSQL|Oxford Square Capital Corp. - 6.50% Notes due 2024
 OXSQZ,OXSQZ|Oxford Square Capital Corp. - 6.25% Notes due 2026
 OYST,OYST|Oyster Point Pharma, Inc. - common stock
@@ -7072,6 +7079,7 @@ POWL,POWL|Powell Industries, Inc. - Common Stock
 POWRU,POWRU|Powered Brands - Units
 POWRW,POWRW|Powered Brands - Warrants
 POWW,POWW|AMMO, Inc. - Common Stock
+POWWP,POWWP|AMMO, Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock
 PPBI,PPBI|Pacific Premier Bancorp Inc - Common Stock
 PPBT,PPBT|Purple Biotech Ltd. - American Depositary Shares
 PPC,PPC|Pilgrim's Pride Corporation - Common Stock
