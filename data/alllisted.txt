@@ -523,6 +523,7 @@ BLD,BLD|TopBuild Corp. Common Stock
 BLE,BLE|BlackRock Municipal Income Trust II
 BLK,BLK|BlackRock, Inc. Common Stock
 BLL,BLL|Ball Corporation Common Stock
+BLND,BLND|Blend Labs, Inc. Class A Common Stock
 BLUA,BLUA|BlueRiver Acquisition Corp. Class A Ordinary Shares
 BLUA.U,BLUA.U|BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares
 BLUA.W,BLUA.W|BlueRiver Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
@@ -568,6 +569,7 @@ BR,BR|Broadridge Financial Solutions, Inc.Common Stock
 BRBR,BRBR|BellRing Brands, Inc. Class A Common Stock
 BRBS,BRBS|Blue Ridge Bankshares, Inc. Common Stock
 BRC,BRC|Brady Corporation Common Stock
+BRDG,BRDG|Bridge Investment Group Holdings Inc. Class A Common Stock
 BRFS,BRFS|BRF S.A.
 BRG,BRG|Bluerock Residential Growth REIT, Inc. Class A Common Stock
 BRG$C,BRG$C|Bluerock Residential Growth REIT, Inc. 7.625% Series C Cumulative Redeemable Preferred Stock
@@ -584,6 +586,7 @@ BRW,BRW|Saba Capital Income & Opportunities Fund SBI
 BRX,BRX|Brixmor Property Group Inc. Common Stock
 BSA,BSA|BrightSphere Investment Group Inc. 5.125% Notes due 2031
 BSAC,BSAC|Banco Santander - Chile ADS
+BSAQ.U,BSAQ.U|Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
 BSBR,BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit
 BSIG,BSIG|BrightSphere Investment Group Inc. Common Stock
 BSL,BSL|Blackstone Senior Floating Rate Term Fund Common Shares of Beneficial Interest
@@ -1127,7 +1130,6 @@ DS$D,DS$D|Drive Shack Inc. Pfd Ser D
 DSL,DSL|DoubleLine Income Solutions Fund Common Shares of Beneficial Interests
 DSM,DSM|BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock
 DSS,DSS|Document Security Systems, Inc. Common Stock
-DSSI,DSSI|Diamond S Shipping Inc. Common Stock 
 DSU,DSU|Blackrock Debt Strategies Fund, Inc. Common Stock
 DSX,DSX|Diana Shipping inc. common stock
 DSX$B,DSX$B|Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)
@@ -1198,7 +1200,9 @@ EFR,EFR|Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Intere
 EFT,EFT|Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
 EFX,EFX|Equifax, Inc. Common Stock
 EGF,EGF|Blackrock Enhanced Government Fund, Inc. Common Stock
+EGGF,EGGF|EG Acquisition Corp. Class A Common Stock
 EGGF.U,EGGF.U|EG Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
+EGGF.W,EGGF.W|EG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share
 EGHT,EGHT|8x8 Inc Common Stock
 EGO,EGO|Eldorado Gold Corporation Ordinary Shares
 EGP,EGP|EastGroup Properties, Inc. Common Stock
@@ -1600,7 +1604,7 @@ GGO$A,GGO$A|The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Calla
 GGT,GGT|Gabelli Multi-Media Trust, Inc. (The) Common Stock
 GGT$E,GGT$E|Gabelli Multi-Media Trust Inc. (The) 5.125% Series E Cumulative Preferred Stock
 GGT$G,GGT$G|Gabelli Multi-Media Trust Inc. (The) 5.125% Series G Cumulative Preferred Shares
-GGT.V,GGT.V|Gabelli Multi-Media Trust Inc. (The) Rights (expiring 8/25/2021) When Issued
+GGT.R,GGT.R|Gabelli Multi-Media Trust Inc. (The) Rights (expiring 8/25/2021) 
 GGZ,GGZ|Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
 GGZ$A,GGZ$A|Gabelli Global Small and Mid Cap Value Trust (The) 5.450% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
 GHC,GHC|Graham Holdings Company Common Stock
@@ -2740,6 +2744,8 @@ OUT,OUT|OUTFRONT Media Inc. Common Stock
 OVV,OVV|Ovintiv Inc. (DE)
 OWL,OWL|Blue Owl Capital Inc. Class A Common Stock
 OWL.W,OWL.W|Blue Owl Capital Inc. Redeemable Warrants
+OWLT,OWLT|Owlet, Inc. Class A Common Stock
+OWLT.W,OWLT.W|Owlet, Inc. Warrants
 OXM,OXM|Oxford Industries, Inc. Common Stock
 OXY,OXY|Occidental Petroleum Corporation Common Stock
 OXY.W,OXY.W|Occidental Petroleum Corporation Warrants 
@@ -2962,7 +2968,9 @@ PSFE,PSFE|Paysafe Limited Common Shares
 PSFE.W,PSFE.W|Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share
 PSN,PSN|Parsons Corporation Common Stock
 PSO,PSO|Pearson, Plc Common Stock
+PSPC,PSPC|Post Holdings Partnering Corporation Series A Common Stock
 PSPC.U,PSPC.U|Post Holdings Partnering Corporation Units, each consisting of one share of Series A common stock, and one-third of one redeemable warrant
+PSPC.W,PSPC.W|Post Holdings Partnering Corporation Redeemable Warrants, each whole warrant exercisable for one share of Series A common stock at an exercise price of $11.50
 PSTG,PSTG|Pure Storage, Inc. Class A Common Stock
 PSTH,PSTH|Pershing Square Tontine Holdings, Ltd. Class A Common Stock
 PSTH.W,PSTH.W|Pershing Square Tontine Holdings, Ltd. Warrants, exercisable for one share of Class A Common Stock for $23.00 per share
@@ -3179,9 +3187,6 @@ SB$D,SB$D|Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)
 SBBA,SBBA|Scorpio Tankers Inc. 7.00% Senior Notes due 2025
 SBEV,SBEV|Splash Beverage Group, Inc. Common Stock
 SBEV.W,SBEV.W|Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60
-SBG,SBG|Sandbridge Acquisition Corporation Class A Common Stock
-SBG.U,SBG.U|Sandbridge Acquisition Corporation Units
-SBG.W,SBG.W|Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 SBH,SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock
 SBI,SBI|Western Asset Intermediate Muni Fund Inc Common Stock
 SBII,SBII|Sandbridge X2 Corp. Class A Common Stock
@@ -3412,6 +3417,7 @@ STRE.W,STRE.W|Supernova Partners Acquisition Company III, Ltd. Redeemable warran
 STT,STT|State Street Corporation Common Stock
 STT$D,STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
 STT$G,STT$G|State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative
+STVN,STVN|Stevanato Group S.p.A. Ordinary Shares
 STWD,STWD|STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.
 STXS,STXS|Stereotaxis, Inc. Common Stock
 STZ,STZ|Constellation Brands, Inc. Common Stock
@@ -4244,6 +4250,7 @@ ANZUW,ANZUW|Anzu Special Acquisition Corp I - Warrant
 AOSL,AOSL|Alpha and Omega Semiconductor Limited - Common Shares
 AOUT,AOUT|American Outdoor Brands, Inc. - Common Stock
 APA,APA|APA Corporation - Common Stock
+APACU,APACU|StoneBridge Acquisition Corporation - Unit
 APDN,APDN|Applied DNA Sciences, Inc. - Common Stock
 APEI,APEI|American Public Education, Inc. - Common Stock
 APEN,APEN|Apollo Endosurgery, Inc. - Common Stock
@@ -4519,6 +4526,7 @@ BLDEW,BLDEW|Blade Air Mobility, Inc. - Warrants
 BLDP,BLDP|Ballard Power Systems, Inc. - Common Shares
 BLDR,BLDR|Builders FirstSource, Inc. - Common Stock
 BLFS,BLFS|BioLife Solutions, Inc. - Common Stock
+BLFY,BLFY|Blue Foundry Bancorp - Common Stock
 BLI,BLI|Berkeley Lights, Inc. - Common Stock
 BLIN,BLIN|Bridgeline Digital, Inc. - Common Stock
 BLKB,BLKB|Blackbaud, Inc. - Common Stock
@@ -4869,7 +4877,6 @@ CNNB,CNNB|Cincinnati Bancorp, Inc. - Common Stock
 CNOB,CNOB|ConnectOne Bancorp, Inc. - Common Stock
 CNSL,CNSL|Consolidated Communications Holdings, Inc. - Common Stock
 CNSP,CNSP|CNS Pharmaceuticals, Inc. - Common Stock
-CNST,CNST|Constellation Pharmaceuticals, Inc. - Common Stock
 CNTA,CNTA|Centessa Pharmaceuticals plc - American Depositary Shares
 CNTB,CNTB|Connect Biopharma Holdings Limited - American Depositary Shares
 CNTG,CNTG|Centogene N.V. - Common Shares
@@ -5277,6 +5284,7 @@ EQ,EQ|Equillium, Inc. - Common Stock
 EQBK,EQBK|Equity Bancshares, Inc. - Class A Common Stock
 EQIX,EQIX|Equinix, Inc. - Common Stock
 EQOS,EQOS|Diginex Limited - Ordinary Shares
+ERAS,ERAS|Erasca, Inc. - Common Stock
 ERES,ERES|East Resources Acquisition Company - Class A Common Stock
 ERESU,ERESU|East Resources Acquisition Company - Unit
 ERESW,ERESW|East Resources Acquisition Company - Warrant
@@ -5795,7 +5803,6 @@ HAYN,HAYN|Haynes International, Inc. - Common Stock
 HBAN,HBAN|Huntington Bancshares Incorporated - Common Stock
 HBANM,HBANM|Huntington Bancshares Incorporated - Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock
 HBANN,HBANN|Huntington Bancshares Incorporated - Depositary Shares each representing a 1/40th interest in a share of 5.875% Series C Non-Cumulative Perpetual Preferred Stock
-HBANO,HBANO|Huntington Bancshares Incorporated - Depositary Shares
 HBANP,HBANP|Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock
 HBCP,HBCP|Home Bancorp, Inc. - Common Stock
 HBIO,HBIO|Harvard Bioscience, Inc. - Common Stock
@@ -6009,6 +6016,7 @@ IMBI,IMBI|iMedia Brands, Inc. - Class A Common Stock
 IMCC,IMCC|IM Cannabis Corp. - Common Shares
 IMCR,IMCR|Immunocore Holdings plc - American Depositary Shares
 IMGN,IMGN|ImmunoGen, Inc. - Common Stock
+IMGO,IMGO|Imago BioSciences, Inc. - Common stock
 IMKTA,IMKTA|Ingles Markets, Incorporated - Class A Common Stock
 IMMP,IMMP|Immutep Limited - American Depositary Shares
 IMMR,IMMR|Immersion Corporation - Common Stock
@@ -7360,6 +7368,7 @@ REVHU,REVHU|Revolution Healthcare Acquisition Corp. - SAIL Units
 REVHW,REVHW|Revolution Healthcare Acquisition Corp. - Warrant.
 REYN,REYN|Reynolds Consumer Products Inc. - Common Stock
 RFIL,RFIL|RF Industries, Ltd. - Common Stock
+RGC,RGC|Regencell Bioscience Holdings Limited - Ordinary Shares
 RGCO,RGCO|RGC Resources Inc. - Common Stock
 RGEN,RGEN|Repligen Corporation - Common Stock
 RGLD,RGLD|Royal Gold, Inc. - Common Stock
@@ -7857,6 +7866,7 @@ TCOM,TCOM|Trip.com Group Limited - American Depositary Shares
 TCON,TCON|TRACON Pharmaceuticals, Inc. - Common Stock
 TCPC,TCPC|BlackRock TCP Capital Corp. - Common Stock
 TCRR,TCRR|TCR2 Therapeutics Inc. - Common Stock
+TCRX,TCRX|TScan Therapeutics, Inc. - Common Stock
 TCVA,TCVA|TCV Acquisition Corp. - Class A Ordinary Shares
 TCX,TCX|Tucows Inc. - Common Stock
 TDAC,TDAC|Trident Acquisitions Corp. - Common Stock
@@ -8005,6 +8015,7 @@ TVACW,TVACW|Thayer Ventures Acquisition Corporation - Warrant
 TVTX,TVTX|Travere Therapeutics, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
+TWCBU,TWCBU|Bilander Acquisition Corp. - Unit
 TWCT,TWCT|TWC Tech Holdings II Corp. - Class A Common Stock
 TWCTU,TWCTU|TWC Tech Holdings II Corp. - Unit
 TWCTW,TWCTW|TWC Tech Holdings II Corp. - Warrant
