@@ -3032,7 +3032,7 @@ IYK|iShares U.S. Consumer Goods ETF|P|IYK|Y|100|N|IYK
 IYLD|iShares Morningstar Multi-Asset Income ETF|Z|IYLD|Y|100|N|IYLD
 IYM|iShares U.S. Basic Materials ETF|P|IYM|Y|100|N|IYM
 IYR|iShares U.S. Real Estate ETF|P|IYR|Y|100|N|IYR
-IYT|iShares Transportation AverageETF|Z|IYT|Y|100|N|IYT
+IYT|iShares Trust iShares U.S. Transportation ETF|Z|IYT|Y|100|N|IYT
 IYW|iShares U.S. Technology ETF|P|IYW|Y|100|N|IYW
 IYY|iShares Dow Jones U.S. ETF|P|IYY|Y|100|N|IYY
 IYZ|iShares U.S. Telecommunications ETF|Z|IYZ|Y|100|N|IYZ
@@ -3717,7 +3717,7 @@ MYOV|Myovant Sciences Ltd. Common Shares|N|MYOV|N|100|N|MYOV
 MYTE|MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share|N|MYTE|N|100|N|MYTE
 MYY|ProShares Short MidCap400|P|MYY|Y|100|N|MYY
 MZZ|ProShares UltraShort MidCap400|P|MZZ|Y|100|N|MZZ
-NABL.V|N-able, Inc. Common Stock When Issued|N|NABLw|N|100|N|NABL#
+NABL|N-able, Inc. Common Stock|N|NABL|N|100|N|NABL
 NAC|Nuveen California Quality Municipal Income Fund|N|NAC|N|100|N|NAC
 NACP|Impact Shares Trust I Impact Shares NAACP Minority Empowerment ETF|P|NACP|Y|100|N|NACP
 NAD|Nuveen Quality Municipal Income Fund Common Stock|N|NAD|N|100|N|NAD
@@ -4352,7 +4352,6 @@ PRT|PermRock Royalty Trust Trust Units|N|PRT|N|100|N|PRT
 PRTY|Party City Holdco Inc. Common Stock|N|PRTY|N|100|N|PRTY
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PSA|Public Storage Common Stock|N|PSA|N|100|N|PSA
-PSA$D|Public Storage Depositary Shares Each Representing 1/1000 of a 4.95% Cumulative Preferred Share of Beneficial Interest, Series D|N|PSApD|N|100|N|PSA-D
 PSA$E|Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of Beneficial Interest, Series E|N|PSApE|N|100|N|PSA-E
 PSA$F|Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share|N|PSApF|N|100|N|PSA-F
 PSA$G|Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of Beneficial Interest, Series G|N|PSApG|N|100|N|PSA-G
@@ -4620,6 +4619,7 @@ RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A commo
 RICE.W|Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|RICE.WS|N|100|N|RICE+
 RIG|Transocean Ltd (Switzerland) Common Stock|N|RIG|N|100|N|RIG
 RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
+RIGZ|Alpha Architect ETF Trust Viridi Cleaner Energy Crypto-Mining & Semiconductor ETF|P|RIGZ|Y|100|N|RIGZ
 RINF|ProShares Inflation Expectations ETF|P|RINF|Y|100|N|RINF
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RISN|Inspire Tactical Balanced ESG ETF|P|RISN|Y|100|N|RISN
@@ -4894,6 +4894,7 @@ SHM|SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF|P|SHM|Y|100|N|S
 SHO|Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares|N|SHO|N|100|N|SHO
 SHO$F|Sunstone Hotel Investors, Inc. 6.450% Series F Cumulative Redeemable Preferred Stock|N|SHOpF|N|100|N|SHO-F
 SHO$H|Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock|N|SHOpH|N|100|N|SHO-H
+SHO$I|Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock|N|SHOpI|N|100|N|SHO-I
 SHOP|Shopify Inc. Class A Subordinate Voting Shares|N|SHOP|N|100|N|SHOP
 SHUS|Syntax Stratified U.S. Total Market Hedged ETF|P|SHUS|Y|100|N|SHUS
 SHW|Sherwin-Williams Company (The) Common Stock|N|SHW|N|100|N|SHW
@@ -5203,7 +5204,6 @@ SWBK.U|Switchback II Corporation Units, each consisting of one Class A ordinary 
 SWBK.W|Switchback II Corporation Warrants, exercisable for one share of Class A Ordinary Share|N|SWBK.WS|N|100|N|SWBK+
 SWCH|Switch, Inc. Class A Common Stock|N|SWCH|N|100|N|SWCH
 SWI|SolarWinds Corporation Common Stock|N|SWI|N|100|N|SWI
-SWI.V|SolarWinds Corporation Common Stock Ex-Distribution When Issued|N|SWIw|N|100|N|SWI#
 SWK|Stanley Black & Decker, Inc. Common Stock|N|SWK|N|100|N|SWK
 SWM|Schweitzer-Mauduit International, Inc. Common Stock|N|SWM|N|100|N|SWM
 SWN|Southwestern Energy Company Common Stock|N|SWN|N|100|N|SWN
@@ -5427,6 +5427,7 @@ TRP|TC Energy Corporation Common Stock|N|TRP|N|100|N|TRP
 TRPL|Pacer Metaurus US Large Cap Dividend Multiplier 300 ETF|P|TRPL|Y|100|N|TRPL
 TRQ|Turquoise Hill Resources Ltd. Ordinary Shares|N|TRQ|N|100|N|TRQ
 TRT|Trio-Tech International Common Stock|A|TRT|N|100|N|TRT
+TRTL.U|TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant|N|TRTL.U|N|100|N|TRTL=
 TRTN|Triton International Limited Common Shares|N|TRTN|N|100|N|TRTN
 TRTN$A|Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares|N|TRTNpA|N|100|N|TRTN-A
 TRTN$B|Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares|N|TRTNpB|N|100|N|TRTN-B
@@ -5783,6 +5784,7 @@ VSGX|Vanguard ESG International Stock ETF|Z|VSGX|Y|100|N|VSGX
 VSH|Vishay Intertechnology, Inc. Common Stock|N|VSH|N|100|N|VSH
 VSL|Volshares Large Cap ETF|P|VSL|Y|100|N|VSL
 VSLU|Applied Finance Valuation Large Cap ETF|P|VSLU|Y|100|N|VSLU
+VSPY|Spinnaker ETF Series VectorShares Min Vol ETF|P|VSPY|Y|100|N|VSPY
 VSS|Vanguard FTSE All-Wld ex-US SmCp Idx ETF|P|VSS|Y|100|N|VSS
 VST|Vistra Corp. Common Stock|N|VST|N|100|N|VST
 VST.A|Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)|N|VST.WS.A|N|100|N|VST+A
@@ -6082,4 +6084,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0719202115:41||||||
+File Creation Time: 0720202112:11||||||

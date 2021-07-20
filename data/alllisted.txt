@@ -2454,7 +2454,7 @@ MYN,MYN|Blackrock MuniYield New York Quality Fund, Inc.Common Stock
 MYO,MYO|Myomo Inc. Common Stock
 MYOV,MYOV|Myovant Sciences Ltd. Common Shares
 MYTE,MYTE|MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share
-NABL.V,NABL.V|N-able, Inc. Common Stock When Issued
+NABL,NABL|N-able, Inc. Common Stock
 NAC,NAC|Nuveen California Quality Municipal Income Fund
 NAD,NAD|Nuveen Quality Municipal Income Fund Common Stock
 NAK,NAK|Northern Dynasty Minerals, Ltd. Common Stock
@@ -2944,7 +2944,6 @@ PRT,PRT|PermRock Royalty Trust Trust Units
 PRTY,PRTY|Party City Holdco Inc. Common Stock
 PRU,PRU|Prudential Financial, Inc. Common Stock
 PSA,PSA|Public Storage Common Stock
-PSA$D,PSA$D|Public Storage Depositary Shares Each Representing 1/1000 of a 4.95% Cumulative Preferred Share of Beneficial Interest, Series D
 PSA$E,PSA$E|Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of Beneficial Interest, Series E
 PSA$F,PSA$F|Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share
 PSA$G,PSA$G|Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of Beneficial Interest, Series G
@@ -3255,6 +3254,7 @@ SHLX,SHLX|Shell Midstream Partners, L.P. Common Units representing Limited Partn
 SHO,SHO|Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares
 SHO$F,SHO$F|Sunstone Hotel Investors, Inc. 6.450% Series F Cumulative Redeemable Preferred Stock
 SHO$H,SHO$H|Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock
+SHO$I,SHO$I|Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock
 SHOP,SHOP|Shopify Inc. Class A Subordinate Voting Shares
 SHW,SHW|Sherwin-Williams Company (The) Common Stock
 SI,SI|Silvergate Capital Corporation Class A Common Stock
@@ -3437,7 +3437,6 @@ SWBK.U,SWBK.U|Switchback II Corporation Units, each consisting of one Class A or
 SWBK.W,SWBK.W|Switchback II Corporation Warrants, exercisable for one share of Class A Ordinary Share
 SWCH,SWCH|Switch, Inc. Class A Common Stock
 SWI,SWI|SolarWinds Corporation Common Stock
-SWI.V,SWI.V|SolarWinds Corporation Common Stock Ex-Distribution When Issued
 SWK,SWK|Stanley Black & Decker, Inc. Common Stock
 SWM,SWM|Schweitzer-Mauduit International, Inc. Common Stock
 SWN,SWN|Southwestern Energy Company Common Stock
@@ -3589,6 +3588,7 @@ TROX,TROX|Tronox Holdings plc Ordinary Shares (UK)
 TRP,TRP|TC Energy Corporation Common Stock
 TRQ,TRQ|Turquoise Hill Resources Ltd. Ordinary Shares
 TRT,TRT|Trio-Tech International Common Stock
+TRTL.U,TRTL.U|TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant
 TRTN,TRTN|Triton International Limited Common Shares
 TRTN$A,TRTN$A|Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares
 TRTN$B,TRTN$B|Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares
@@ -4387,6 +4387,7 @@ AUTO,AUTO|AutoWeb, Inc. - Common Stock
 AUUD,AUUD|Auddia Inc. - Common Stock
 AUUDW,AUUDW|Auddia Inc. - Warrants
 AUVI,AUVI|Applied UV, Inc. - Common Stock
+AUVIP,AUVIP|Applied UV, Inc. - 10.5% Series A Cumulative Perpetual Preferred Stock, $0.0001 par value per share
 AVAH,AVAH|Aveanna Healthcare Holdings Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
 AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
@@ -4499,7 +4500,7 @@ BIDU,BIDU|Baidu, Inc. - American Depositary Shares, each representing 8 ordinary
 BIGC,BIGC|BigCommerce Holdings, Inc. - Series 1 Common Stock
 BIIB,BIIB|Biogen Inc. - Common Stock
 BILI,BILI|Bilibili Inc. - American Depositary Shares
-BIMI,BIMI|BOQI International Medical Inc. - Common Stock
+BIMI,BIMI|BIMI International Medical Inc. - Common Stock
 BIOC,BIOC|Biocept, Inc. - Common Stock
 BIOL,BIOL|Biolase, Inc. - Common Stock
 BIOT,BIOT|Biotech Acquisition Company - Class A Ordinary Shares
@@ -4811,6 +4812,7 @@ CJJD,CJJD|China Jo-Jo Drugstores, Inc. - Common Stock
 CKPT,CKPT|Checkpoint Therapeutics, Inc. - Common Stock
 CLAQU,CLAQU|CleanTech Acquisition Corp. - Units
 CLAR,CLAR|Clarus Corporation - Common Stock
+CLAYU,CLAYU|Chavant Capital Acquisition Corp. - Unit
 CLBK,CLBK|Columbia Financial, Inc. - Common Stock
 CLBS,CLBS|Caladrius Biosciences, Inc. - Common Stock
 CLDB,CLDB|Cortland Bancorp - Common Stock
@@ -4824,6 +4826,7 @@ CLMT,CLMT|Calumet Specialty Products Partners, L.P. - Common units representing 
 CLNE,CLNE|Clean Energy Fuels Corp. - Common Stock
 CLNN,CLNN|Clene Inc. - Common Stock
 CLNNW,CLNNW|Clene Inc. - Warrant
+CLOEU,CLOEU|Clover Leaf Capital Corp. - Unit
 CLOV,CLOV|Clover Health Investments, Corp.  - Class A Common stock
 CLOVW,CLOVW|Clover Health Investments, Corp.  - Warrants
 CLPS,CLPS|CLPS Incorporation - Common Stock
@@ -5829,6 +5832,7 @@ HCKT,HCKT|The Hackett Group, Inc. - Common Stock
 HCM,HCM|HUTCHMED (China) Limited - American Depositary Shares
 HCNEU,HCNEU|Jaws Hurricane Acquisition Corp. - Unit
 HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
+HCWB,HCWB|HCW Biologics Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
 HEES,HEES|H&E Equipment Services, Inc. - Common Stock
