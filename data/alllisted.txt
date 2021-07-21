@@ -421,6 +421,7 @@ BBN,BBN|BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Inter
 BBU,BBU|Brookfield Business Partners L.P. Limited Partnership Units 
 BBVA,BBVA|Banco Bilbao Vizcaya Argentaria S.A. Common Stock
 BBW,BBW|Build-A-Bear Workshop, Inc. Common Stock
+BBWI.V,BBWI.V|Bath & Body Works, Inc. Common Stock Ex-distribution When-Issued
 BBY,BBY|Best Buy Co., Inc. Common Stock
 BC,BC|Brunswick Corporation Common Stock
 BC$A,BC$A|Brunswick Corporation 6.500% Senior Notes due 2048
@@ -1402,9 +1403,6 @@ FF,FF|FutureFuel Corp.  Common shares
 FFA,FFA|First Trust Enhanced Equity Income Fund
 FFC,FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FGB,FGB|First Trust Specialty Finance and Financial Opportunities Fund
-FGNA,FGNA|FG New America Acquisition Corp. Class A Common Stock
-FGNA.U,FGNA.U|FG New America Acquisition Corp. Units
-FGNA.W,FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 FHI,FHI|Federated Hermes, Inc. Common Stock
 FHN,FHN|First Horizon Corporation Common Stock
 FHN$B,FHN$B|First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B
@@ -2148,6 +2146,7 @@ LAC,LAC|Lithium Americas Corp. Common Shares
 LAD,LAD|Lithia Motors, Inc. Common Stock
 LADR,LADR|Ladder Capital Corp Class A Common Stock
 LAIX,LAIX|LAIX Inc. American Depositary Shares, each  representing one Class A Ordinary Share
+LAW,LAW|CS Disco, Inc. Common Stock
 LAZ,LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock
 LB,LB|L Brands, Inc.
 LBRT,LBRT|Liberty Oilfield Services Inc. Class A Common Stock
@@ -2717,6 +2716,8 @@ OOMA,OOMA|Ooma, Inc. Common Stock
 OPA,OPA|Magnum Opus Acquisition Limited Class A Ordinary Shares
 OPA.U,OPA.U|Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant
 OPA.W,OPA.W|Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+OPFI,OPFI|OppFi Inc. Class A Common Stock
+OPFI.W,OPFI.W|OppFi Inc. Warrants
 OPP,OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock
 OPP$A,OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock
 OPTT,OPTT|Ocean Power Technologies, Inc. Common Stock
@@ -3794,11 +3795,13 @@ VPV,VPV|Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
 VRS,VRS|Verso Corporation Common Stock
 VRT,VRT|Vertiv Holdings, LLC Class A Common Stock
 VRTV,VRTV|Veritiv Corporation Common Stock
+VSCO.V,VSCO.V|Victorias Secret & Co. Common Stock When-Issued
 VSH,VSH|Vishay Intertechnology, Inc. Common Stock
 VST,VST|Vistra Corp. Common Stock
 VST.A,VST.A|Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)
 VSTO,VSTO|Vista Outdoor Inc. Common Stock
 VTA,VTA|Invesco Credit Opportunities Fund Common Shares of Beneficial Interest
+VTEX,VTEX|VTEX Class A Common Shares
 VTN,VTN|Invesco Trust for Investment Grade New York Municipals Common Stock
 VTOL,VTOL|Bristow Group, Inc. Common Stock
 VTR,VTR|Ventas, Inc. Common Stock
@@ -3873,7 +3876,6 @@ WMT,WMT|Walmart Inc. Common Stock
 WNC,WNC|Wabash National Corporation Common Stock
 WNS,WNS|WNS (Holdings) Limited Sponsored ADR (Jersey)
 WOR,WOR|Worthington Industries, Inc. Common Stock
-WORK,WORK|Slack Technologies, Inc. Class A Common Stock
 WOW,WOW|WideOpenWest, Inc. Common Stock
 WPC,WPC|W. P. Carey Inc. REIT
 WPCA,WPCA|Warburg Pincus Capital Corporation IA Class A Ordinary Shares
@@ -3982,6 +3984,7 @@ AAME,AAME|Atlantic American Corporation - Common Stock
 AAOI,AAOI|Applied Optoelectronics, Inc. - Common Stock
 AAON,AAON|AAON, Inc. - Common Stock
 AAPL,AAPL|Apple Inc. - Common Stock
+AATC,AATC|Autoscope Technologies Corporation - Common Stock
 AAWW,AAWW|Atlas Air Worldwide Holdings - Common Stock
 ABCB,ABCB|Ameris Bancorp - Common Stock
 ABCL,ABCL|AbCellera Biologics Inc. - Common Shares
@@ -4226,10 +4229,6 @@ AMYT,AMYT|Amryt Pharma plc - American Depositary Shares
 AMZN,AMZN|Amazon.com, Inc. - Common Stock
 ANAB,ANAB|AnaptysBio, Inc. - Common Stock
 ANAT,ANAT|American National Group, Inc. - Common Stock
-ANDA,ANDA|Andina Acquisition Corp. III - Ordinary Shares
-ANDAR,ANDAR|Andina Acquisition Corp. III - Right
-ANDAU,ANDAU|Andina Acquisition Corp. III - Unit
-ANDAW,ANDAW|Andina Acquisition Corp. III - Warrant
 ANDE,ANDE|The Andersons, Inc. - Common Stock
 ANEB,ANEB|Anebulo Pharmaceuticals, Inc. - Common Stock
 ANGI,ANGI|Angi Inc. - Class A Common Stock
@@ -6102,7 +6101,6 @@ ISEE,ISEE|IVERIC bio, Inc. - Common Stock
 ISIG,ISIG|Insignia Systems, Inc. - Common Stock
 ISLE,ISLE|Isleworth Healthcare Acquisition Corporation - Common stock
 ISLEW,ISLEW|Isleworth Healthcare Acquisition Corporation - Warrant
-ISNS,ISNS|Image Sensing Systems, Inc. - Common Stock
 ISPC,ISPC|iSpecimen Inc. - Common Stock
 ISRG,ISRG|Intuitive Surgical, Inc. - Common Stock
 ISSC,ISSC|Innovative Solutions and Support, Inc. - Common Stock
@@ -6214,6 +6212,7 @@ KLAQU,KLAQU|KL Acquisition Corp - Unit
 KLAQW,KLAQW|KL Acquisition Corp - Warrant
 KLDO,KLDO|Kaleido Biosciences, Inc. - Common Stock
 KLIC,KLIC|Kulicke and Soffa Industries, Inc. - Common Stock
+KLTR,KLTR|Kaltura, Inc. - Common Stock
 KLXE,KLXE|KLX Energy Services Holdings, Inc.  - Common Stock
 KMDA,KMDA|Kamada Ltd. - Ordinary Shares
 KMPH,KMPH|KemPharm, Inc. - Common Stock
@@ -7101,6 +7100,7 @@ PFLT,PFLT|PennantPark Floating Rate Capital Ltd. - Common Stock
 PFMT,PFMT|Performant Financial Corporation - Common Stock
 PFPT,PFPT|Proofpoint, Inc. - Common Stock
 PFSW,PFSW|PFSweb, Inc. - Common Stock
+PFTAU,PFTAU|Portage Fintech Acquisition Corporation - Unit
 PFX,PFX|PhenixFIN Corporation  - Common Stock
 PFXNL,PFXNL|PhenixFIN Corporation  - Notes Due 2023
 PGC,PGC|Peapack-Gladstone Financial Corporation - Common Stock
@@ -7263,6 +7263,7 @@ PXLW,PXLW|Pixelworks, Inc. - Common Stock
 PXS,PXS|Pyxis Tankers Inc. - Common Stock
 PXSAP,PXSAP|Pyxis Tankers Inc. - 7.75% Series A Cumulative Convertible Preferred Shares
 PXSAW,PXSAW|Pyxis Tankers Inc. - Warrant
+PYCR,PYCR|Paycor HCM, Inc. - Common Stock
 PYPD,PYPD|PolyPid Ltd. - Ordinary Shares
 PYPL,PYPL|PayPal Holdings, Inc. - Common Stock
 PYR,PYR|PyroGenesis Canada Inc. - Common Shares
@@ -7646,6 +7647,8 @@ SMPL,SMPL|The Simply Good Foods Company - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
 SMTI,SMTI|Sanara MedTech Inc. - Common Stock
+SNAX,SNAX|Stryve Foods, Inc. - Class A Common Stock
+SNAXW,SNAXW|Stryve Foods, Inc. - Warrant
 SNBR,SNBR|Sleep Number Corporation - Common Stock
 SNCR,SNCR|Synchronoss Technologies, Inc. - Common Stock
 SNCRL,SNCRL|Synchronoss Technologies, Inc. - 8.375% Senior Notes due 2026
@@ -7856,6 +7859,7 @@ TC,TC|TuanChe Limited - American Depositary Shares
 TCAC,TCAC|Tuatara Capital Acquisition Corporation - Class A Ordinary Shares
 TCACU,TCACU|Tuatara Capital Acquisition Corporation - Unit
 TCACW,TCACW|Tuatara Capital Acquisition Corporation - Warrant
+TCBC,TCBC|TC Bancshares, Inc. - Common Stock
 TCBI,TCBI|Texas Capital Bancshares, Inc. - Common Stock
 TCBIO,TCBIO|Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B
 TCBK,TCBK|TriCo Bancshares - Common Stock
@@ -8121,6 +8125,7 @@ VCVCW,VCVCW|10X Capital Venture Acquisition Corp - Warrant
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
 VECT,VECT|VectivBio Holding AG - Ordinary Shares
+VEEE,VEEE|Twin Vee PowerCats Co. - Common Stock
 VELO,VELO|Velocity Acquisition Corp. - Class A Common Stock
 VELOU,VELOU|Velocity Acquisition Corp. - Units
 VELOW,VELOW|Velocity Acquisition Corp. - Warrant

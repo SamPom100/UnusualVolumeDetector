@@ -523,6 +523,7 @@ BBU|Brookfield Business Partners L.P. Limited Partnership Units |N|BBU|N|100|N|B
 BBUS|JPMorgan BetaBuilders U.S. Equity ETF|Z|BBUS|Y|100|N|BBUS
 BBVA|Banco Bilbao Vizcaya Argentaria S.A. Common Stock|N|BBVA|N|100|N|BBVA
 BBW|Build-A-Bear Workshop, Inc. Common Stock|N|BBW|N|100|N|BBW
+BBWI.V|Bath & Body Works, Inc. Common Stock Ex-distribution When-Issued|N|BBWIw|N|100|N|BBWI#
 BBY|Best Buy Co., Inc. Common Stock|N|BBY|N|100|N|BBY
 BC|Brunswick Corporation Common Stock|N|BC|N|100|N|BC
 BC$A|Brunswick Corporation 6.500% Senior Notes due 2048|N|BCpA|N|100|N|BC-A
@@ -1008,6 +1009,7 @@ CLIM.U|Climate Real Impact Solutions II Acquisition Corporation Units, each cons
 CLIM.W|Climate Real Impact Solutions II Acquisition Corporation Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|CLIM.WS|N|100|N|CLIM+
 CLIX|ProShares Long Online/Short Stores ETF|P|CLIX|Y|100|N|CLIX
 CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock|A|CLM|N|100|N|CLM
+CLMA|Tidal ETF Trust iClima Global Decarbonization Transition Leaders ETF|P|CLMA|Y|100|N|CLMA
 CLPR|Clipper Realty Inc. Common Stock|N|CLPR|N|100|N|CLPR
 CLR|Continental Resources, Inc. Common Stock|N|CLR|N|100|N|CLR
 CLS|Celestica, Inc. Common Stock|N|CLS|N|100|N|CLS
@@ -1965,9 +1967,6 @@ FFTI|FormulaFolios Tactical Income ETF|Z|FFTI|Y|100|N|FFTI
 FFTY|Innovator IBD 50 ETF|P|FFTY|Y|100|N|FFTY
 FGB|First Trust Specialty Finance and Financial Opportunities Fund|N|FGB|N|100|N|FGB
 FGD|First Trust DJ Global Select Dividend|P|FGD|Y|100|N|FGD
-FGNA|FG New America Acquisition Corp. Class A Common Stock|N|FGNA|N|100|N|FGNA
-FGNA.U|FG New America Acquisition Corp. Units|N|FGNA.U|N|100|N|FGNA=
-FGNA.W|FG New America Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FGNA.WS|N|100|N|FGNA+
 FGRO|Fidelity Growth Opportunities ETF|Z|FGRO|Y|100|N|FGRO
 FHI|Federated Hermes, Inc. Common Stock|N|FHI|N|100|N|FHI
 FHLC|Fidelity MSCI Health Care Index ETF|P|FHLC|Y|100|N|FHLC
@@ -3298,6 +3297,7 @@ LAC|Lithium Americas Corp. Common Shares|N|LAC|N|100|N|LAC
 LAD|Lithia Motors, Inc. Common Stock|N|LAD|N|100|N|LAD
 LADR|Ladder Capital Corp Class A Common Stock|N|LADR|N|100|N|LADR
 LAIX|LAIX Inc. American Depositary Shares, each  representing one Class A Ordinary Share|N|LAIX|N|100|N|LAIX
+LAW|CS Disco, Inc. Common Stock|N|LAW|N|100|N|LAW
 LAZ|Lazard LTD. Lazard, LTD. Class A Common Stock|N|LAZ|N|100|N|LAZ
 LB|L Brands, Inc.|N|LB|N|100|N|LB
 LBAY|Leatherback Long/Short Alternative Yield ETF|P|LBAY|Y|100|N|LBAY
@@ -3695,6 +3695,7 @@ MUX|McEwen Mining Inc. Common Stock|N|MUX|N|100|N|MUX
 MVF|Blackrock MuniVest Fund, Inc. Common Stock|N|MVF|N|100|N|MVF
 MVO|MV Oil Trust Units of Beneficial Interests|N|MVO|N|100|N|MVO
 MVP|Roundhill Pro Sports, Media & Apparel ETF|P|MVP|Y|100|N|MVP
+MVPS|Amplify ETF Trust Amplify Thematic All-Stars ETF|P|MVPS|Y|100|N|MVPS
 MVRL|ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN|P|MVRL|Y|100|N|MVRL
 MVT|Blackrock MuniVest Fund II, Inc.  Common Stock|N|MVT|N|100|N|MVT
 MVV|ProShares Ultra MidCap400|P|MVV|Y|100|N|MVV
@@ -4035,6 +4036,8 @@ OPA|Magnum Opus Acquisition Limited Class A Ordinary Shares|N|OPA|N|100|N|OPA
 OPA.U|Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant|N|OPA.U|N|100|N|OPA=
 OPA.W|Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|OPA.WS|N|100|N|OPA+
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
+OPFI|OppFi Inc. Class A Common Stock|N|OPFI|N|100|N|OPFI
+OPFI.W|OppFi Inc. Warrants|N|OPFI.WS|N|100|N|OPFI+
 OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock|N|OPP|N|100|N|OPP
 OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock|N|OPPpA|N|100|N|OPP-A
 OPPX|Corbett Road Tactical Opportunity ETF|P|OPPX|Y|100|N|OPPX
@@ -4887,6 +4890,7 @@ SH|ProShares Short S&P500|P|SH|Y|100|N|SH
 SHAG|WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund|Z|SHAG|Y|100|N|SHAG
 SHAK|Shake Shack, Inc. Class A Common Stock|N|SHAK|N|100|N|SHAK
 SHE|SPDR Series Trust SPDR SSGA Gender Diversity Index ETF|P|SHE|Y|100|N|SHE
+SHFT|Tidal ETF Trust iClima Distributed Renewable Energy Transition Leaders ETF|P|SHFT|Y|100|N|SHFT
 SHG|Shinhan Financial Group Co Ltd American Depositary Shares|N|SHG|N|100|N|SHG
 SHI|SINOPEC Shangai Petrochemical Company, Ltd. Common Stock|N|SHI|N|100|N|SHI
 SHLX|Shell Midstream Partners, L.P. Common Units representing Limited Partner Interests|N|SHLX|N|100|N|SHLX
@@ -5780,6 +5784,7 @@ VRP|Invesco Variable Rate Preferred ETF|P|VRP|Y|100|N|VRP
 VRS|Verso Corporation Common Stock|N|VRS|N|100|N|VRS
 VRT|Vertiv Holdings, LLC Class A Common Stock|N|VRT|N|100|N|VRT
 VRTV|Veritiv Corporation Common Stock|N|VRTV|N|100|N|VRTV
+VSCO.V|Victorias Secret & Co. Common Stock When-Issued|N|VSCOw|N|100|N|VSCO#
 VSGX|Vanguard ESG International Stock ETF|Z|VSGX|Y|100|N|VSGX
 VSH|Vishay Intertechnology, Inc. Common Stock|N|VSH|N|100|N|VSH
 VSL|Volshares Large Cap ETF|P|VSL|Y|100|N|VSL
@@ -5792,6 +5797,7 @@ VSTO|Vista Outdoor Inc. Common Stock|N|VSTO|N|100|N|VSTO
 VT|Vanguard Total World Stock Index ETF|P|VT|Y|100|N|VT
 VTA|Invesco Credit Opportunities Fund Common Shares of Beneficial Interest|N|VTA|N|100|N|VTA
 VTEB|Vanguard Tax-Exempt Bond ETF|P|VTEB|Y|100|N|VTEB
+VTEX|VTEX Class A Common Shares|N|VTEX|N|100|N|VTEX
 VTI|Vanguard Total Stock Market ETF|P|VTI|Y|100|N|VTI
 VTN|Invesco Trust for Investment Grade New York Municipals Common Stock|N|VTN|N|100|N|VTN
 VTOL|Bristow Group, Inc. Common Stock|N|VTOL|N|100|N|VTOL
@@ -5896,7 +5902,6 @@ WNC|Wabash National Corporation Common Stock|N|WNC|N|100|N|WNC
 WNS|WNS (Holdings) Limited Sponsored ADR (Jersey)|N|WNS|N|100|N|WNS
 WOMN|Impact Shares Trust I ETF Impact Shares YWCA Womenas Empowerment ETF|P|WOMN|Y|100|N|WOMN
 WOR|Worthington Industries, Inc. Common Stock|N|WOR|N|100|N|WOR
-WORK|Slack Technologies, Inc. Class A Common Stock|N|WORK|N|100|N|WORK
 WOW|WideOpenWest, Inc. Common Stock|N|WOW|N|100|N|WOW
 WPC|W. P. Carey Inc. REIT|N|WPC|N|100|N|WPC
 WPCA|Warburg Pincus Capital Corporation IA Class A Ordinary Shares|N|WPCA|N|100|N|WPCA
@@ -6084,4 +6089,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0720202115:41||||||
+File Creation Time: 0721202112:11||||||
