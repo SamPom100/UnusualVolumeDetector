@@ -18,6 +18,7 @@ ABIO|ARCA biopharma, Inc. - Common Stock|S|N|N|100|N|N
 ABMD|ABIOMED, Inc. - Common Stock|Q|N|N|100|N|N
 ABNB|Airbnb, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ABOS|Acumen Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
+ABSI|Absci Corporation - Common Stock|Q|N|N|100|N|N
 ABST|Absolute Software Corporation - Common Stock|Q|N|N|100|N|N
 ABTX|Allegiance Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 ABUS|Arbutus Biopharma Corporation - Common Stock|Q|N|N|100|N|N
@@ -220,7 +221,6 @@ ALTUU|Altitude Acquisition Corp. - Unit|S|N|N|100|N|N
 ALTUW|Altitude Acquisition Corp. - Warrant|S|N|N|100|N|N
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
 ALVR|AlloVir, Inc. - Common Stock|Q|N|N|100|N|N
-ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ALXO|ALX Oncology Holdings Inc. - Common Stock|Q|N|N|100|N|N
 ALYA|Alithya Group inc. - Class A subordinate voting shares|S|N|N|100|N|N
 ALZN|Alzamend Neuro, Inc. - Common Stock|S|N|N|100|N|N
@@ -467,6 +467,7 @@ BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities|Q|N|N|1
 BANR|Banner Corporation - Common Stock|Q|N|N|100|N|N
 BANX|StoneCastle Financial Corp - Common Stock|Q|N|N|100|N|N
 BAOS|Baosheng Media Group Holdings Limited - Ordinary shares|S|N|N|100|N|N
+BASE|Couchbase, Inc. - Common Stock|Q|N|N|100|N|N
 BATRA|Liberty Media Corporation - Series A Liberty Braves Common Stock|Q|N|N|100|N|N
 BATRK|Liberty Media Corporation - Series C Liberty Braves Common Stock|Q|N|N|100|N|N
 BBBY|Bed Bath & Beyond Inc. - Common Stock|Q|N|N|100|N|N
@@ -524,6 +525,8 @@ BGCP|BGC Partners, Inc. - Class A Common Stock|Q|N|N|100|N|N
 BGFV|Big 5 Sporting Goods Corporation - Common Stock|Q|N|N|100|N|N
 BGNE|BeiGene, Ltd. - American Depositary Shares|Q|N|N|100|N|N
 BGRN|iShares Global Green Bond ETF|G|N|N|100|Y|N
+BGRY|Berkshire Grey, Inc. - Class A Common Stock|Q|N|N|100|N|N
+BGRYW|Berkshire Grey, Inc. - Warrant|Q|N|N|100|N|N
 BHAT|Blue Hat Interactive Entertainment Technology - Ordinary Shares|S|N|D|100|N|N
 BHF|Brighthouse Financial, Inc. - Common Stock|Q|N|N|100|N|N
 BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058|Q|N|N|100|N|N
@@ -1416,9 +1419,9 @@ EOLS|Evolus, Inc. - Common Stock|G|N|N|100|N|N
 EOSE|Eos Energy Enterprises, Inc. - Common Stock|S|N|N|100|N|N
 EOSEW|Eos Energy Enterprises, Inc. - Warrant|S|N|N|100|N|N
 EPAY|Bottomline Technologies, Inc. - Common Stock|Q|N|N|100|N|N
-EPHY|Epiphany Technology Acquisition Corp. - Class A Common Stock|S|N|E|100|N|N
-EPHYU|Epiphany Technology Acquisition Corp. - Unit|S|N|E|100|N|N
-EPHYW|Epiphany Technology Acquisition Corp. - Warrant|S|N|E|100|N|N
+EPHY|Epiphany Technology Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
+EPHYU|Epiphany Technology Acquisition Corp. - Unit|S|N|N|100|N|N
+EPHYW|Epiphany Technology Acquisition Corp. - Warrant|S|N|N|100|N|N
 EPIX|ESSA Pharma Inc. - Common Stock|S|N|N|100|N|N
 EPSN|Epsilon Energy Ltd. - Common Shares|G|N|N|100|N|N
 EPZM|Epizyme, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1542,7 +1545,6 @@ FCA|First Trust China AlphaDEX Fund|G|N|N|100|Y|N
 FCAL|First Trust California Municipal High income ETF|G|N|N|100|Y|N
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100|N|N
 FCBC|First Community Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
-FCBP|First Choice Bancorp - Common Stock|S|N|N|100|N|N
 FCCO|First Community Corporation - Common Stock|S|N|N|100|N|N
 FCCY|1st Constitution Bancorp (NJ) - Common Stock|G|N|N|100|N|N
 FCEF|First Trust CEF Income Opportunity ETF|G|N|N|100|Y|N
@@ -1576,6 +1578,8 @@ FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100|N|N
 FFBW|FFBW, Inc. - Common Stock|S|N|N|100|N|N
 FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES|S|N|N|100|N|N
 FFIC|Flushing Financial Corporation - Common Stock|Q|N|N|100|N|N
+FFIE|Faraday Future Intelligent Electric Inc. - Common Stock|G|N|N|100|N|N
+FFIEW|Faraday Future Intelligent Electric Inc. - Warrant|G|N|N|100|N|N
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FFIV|F5 Networks, Inc. - Common Stock|Q|N|N|100|N|N
 FFNW|First Financial Northwest, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2872,6 +2876,8 @@ MITK|Mitek Systems, Inc. - Common Stock|S|N|N|100|N|N
 MITO|Stealth BioTherapeutics Corp. - American Depositary Shares|G|N|N|100|N|N
 MKD|Molecular Data Inc. - ADS|S|N|D|100|N|N
 MKSI|MKS Instruments, Inc. - Common Stock|Q|N|N|100|N|N
+MKTW|MarketWise, Inc. - Class A Common Stock|G|N|N|100|N|N
+MKTWW|MarketWise, Inc. - Warrant|G|N|N|100|N|N
 MKTX|MarketAxess Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 MKTY|Mechanical Technology Incorporated - Common Stock|S|N|N|100|N|N
 MLAB|Mesa Laboratories, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3527,9 +3533,6 @@ PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock|G|N|N|100|N|N
 PRTS|CarParts.com, Inc. - Common Stock|Q|N|N|100|N|N
 PRVA|Privia Health Group, Inc. - Common Stock|Q|N|N|100|N|N
 PRVB|Provention Bio, Inc. - Common Stock|Q|N|N|100|N|N
-PSAC|Property Solutions Acquisition Corp. - Common Stock|S|N|N|100|N|N
-PSACU|Property Solutions Acquisition Corp. - Unit|S|N|N|100|N|N
-PSACW|Property Solutions Acquisition Corp. - Warrant|S|N|N|100|N|N
 PSAG|Property Solutions Acquisition Corporation II - Class A Common Stock|S|N|E|100|N|N
 PSAGU|Property Solutions Acquisition Corporation II - Units|S|N|E|100|N|N
 PSAGW|Property Solutions Acquisition Corporation II - Warrant|S|N|E|100|N|N
@@ -3650,9 +3653,6 @@ QUMU|Qumu Corporation - Common Stock|S|N|N|100|N|N
 QURE|uniQure N.V. - Ordinary Shares|Q|N|N|100|N|N
 QYLD|Global X NASDAQ-100 Covered Call ETF|G|N|N|100|Y|N
 QYLG|Global X Nasdaq 100 Covered Call & Growth ETF|G|N|N|100|Y|N
-RAAC|Revolution Acceleration Acquisition Corp - Class A Common Stock|S|N|N|100|N|N
-RAACU|Revolution Acceleration Acquisition Corp - Unit|S|N|N|100|N|N
-RAACW|Revolution Acceleration Acquisition Corp - Warrant|S|N|N|100|N|N
 RACB|Research Alliance Corp. II - Class A Common Stock|S|N|N|100|N|N
 RADA|RADA Electronic Industries Ltd. - Ordinary Shares|S|N|N|100|N|N
 RADI|Radius Global Infrastructure, Inc. - Common Stock|G|N|N|100|N|N
@@ -4812,6 +4812,7 @@ ZBZZT|Test Pilot Test Stock Class B Common Stock|G|Y|N|100||N
 ZCMD|Zhongchao Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 ZCZZT|Tick Pilot Test Stock Class C |G|Y|N|100||N
 ZEAL|Zealand Pharma A/S - American Depositary Shares|Q|N|N|100|N|N
+ZENV|Zenvia Inc. - Class A Common Stock|S|N|N|100|N|N
 ZEUS|Olympic Steel, Inc. - Common Stock|Q|N|N|100|N|N
 ZG|Zillow Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ZGNX|Zogenix, Inc. - Common Stock|G|N|N|100|N|N
@@ -4853,4 +4854,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0721202112:11|||||||
+File Creation Time: 0722202110:00|||||||

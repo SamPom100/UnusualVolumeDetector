@@ -40,9 +40,6 @@ ACII.U,ACII.U|Atlas Crest Investment Corp. II Units, each consisting of one Clas
 ACII.W,ACII.W|Atlas Crest Investment Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50
 ACM,ACM|AECOM Common Stock
 ACN,ACN|Accenture plc Class A Ordinary Shares (Ireland)
-ACND,ACND|Ascendant Digital Acquisition Corp. Class A Ordinary Shares
-ACND.U,ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
-ACND.W,ACND.W|Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share
 ACP,ACP|Aberdeen Income Credit Strategies Fund Common Shares
 ACP$A,ACP$A|Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock
 ACR,ACR|ACRES Commercial Realty Corp. Common Stock
@@ -1477,6 +1474,7 @@ FRC$I,FRC$I|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th in
 FRC$J,FRC$J|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncumulative Perpetual Series J Preferred Stock
 FRC$K,FRC$K|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.125% Noncumulative Perpetual Series K Preferred Stock
 FRC$L,FRC$L|FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.250% Noncumulative Perpetual Series L Preferred Stock
+FRC$M,FRC$M|FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 4.000% Noncumulative Perpetual Series M Preferred Stock
 FRD,FRD|Friedman Industries Inc. Common Stock
 FREY,FREY|FREYR Battery Ordinary Shares
 FREY.W,FREY.W|FREYR Battery Warrants, each whole warrant exercisable to purchase one Ordinary Share at an exercise price of $11.50 per share
@@ -1735,6 +1733,7 @@ GVA,GVA|Granite Construction Incorporated Common Stock
 GWB,GWB|Great Western Bancorp, Inc. Common Stock
 GWRE,GWRE|Guidewire Software, Inc. Common Stock
 GWW,GWW|W.W. Grainger, Inc. Common Stock
+GXO.V,GXO.V|GXO Logistics, Inc. Common Stock When-Issued
 H,H|Hyatt Hotels Corporation Class A Common Stock
 HAE,HAE|Haemonetics Corporation Common Stock
 HAL,HAL|Halliburton Company Common Stock
@@ -1936,6 +1935,7 @@ INN$E,INN$E|Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable 
 INS,INS|Intelligent Systems Corporation Common Stock
 INSI,INSI|Insight Select Income Fund
 INSP,INSP|Inspire Medical Systems, Inc. Common Stock
+INST,INST|Instructure Holdings, Inc. Common Stock
 INSW,INSW|International Seaways, Inc. Common Stock 
 INSW$A,INSW$A|International Seaways, Inc. 8.50% Senior Notes due June 30, 2023
 INT,INT|World Fuel Services Corporation Common Stock
@@ -3158,6 +3158,7 @@ RXN,RXN|Rexnord Corporation Common Stock
 RY,RY|Royal Bank Of Canada Common Stock
 RY$T,RY$T|Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2
 RYAM,RYAM|Rayonier Advanced Materials Inc. Common Stock
+RYAN,RYAN|Ryan Specialty Group Holdings, Inc. Class A Common Stock
 RYB,RYB|RYB Education, Inc. American depositary shares, each representing one Class A ordinary share
 RYI,RYI|Ryerson Holding Corporation Common Stock
 RYN,RYN|Rayonier Inc. REIT Common Stock
@@ -3927,6 +3928,7 @@ XOM,XOM|Exxon Mobil Corporation Common Stock
 XPEV,XPEV|XPeng Inc. American depositary shares, each representing two Class A ordinary shares
 XPL,XPL|Solitario Zinc Corp. Common Stock
 XPO,XPO|XPO Logistics, Inc.
+XPO.V,XPO.V|XPO Logistics, Inc. Ex-Distribution When-issued Common Stock
 XPOA,XPOA|DPCM Capital, Inc. Class A Common Stock
 XPOA.U,XPOA.U|DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 XPOA.W,XPOA.W|DPCM Capital, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
@@ -3975,6 +3977,7 @@ ZTO,ZTO|ZTO Express (Cayman) Inc. American Depositary Shares, each representing 
 ZTR,ZTR|Virtus Total Return Fund Inc.
 ZTS,ZTS|Zoetis Inc. Class A Common Stock
 ZUO,ZUO|Zuora, Inc. Class A Common Stock
+ZVIA,ZVIA|Zevia PBC Class A Common Stock
 ZVV,ZVV|NYSE ARCA test stock
 ZXIET,ZXIET|IEX Test Company Test Symbol Three for IEX
 ZYME,ZYME|Zymeworks Inc. Common Shares
@@ -3995,6 +3998,7 @@ ABIO,ABIO|ARCA biopharma, Inc. - Common Stock
 ABMD,ABMD|ABIOMED, Inc. - Common Stock
 ABNB,ABNB|Airbnb, Inc. - Class A Common Stock
 ABOS,ABOS|Acumen Pharmaceuticals, Inc. - Common Stock
+ABSI,ABSI|Absci Corporation - Common Stock
 ABST,ABST|Absolute Software Corporation - Common Stock
 ABTX,ABTX|Allegiance Bancshares, Inc. - Common Stock
 ABUS,ABUS|Arbutus Biopharma Corporation - Common Stock
@@ -4188,7 +4192,6 @@ ALTU,ALTU|Altitude Acquisition Corp. - Class A Common Stock
 ALTUU,ALTUU|Altitude Acquisition Corp. - Unit
 ALTUW,ALTUW|Altitude Acquisition Corp. - Warrant
 ALVR,ALVR|AlloVir, Inc. - Common Stock
-ALXN,ALXN|Alexion Pharmaceuticals, Inc. - Common Stock
 ALXO,ALXO|ALX Oncology Holdings Inc. - Common Stock
 ALYA,ALYA|Alithya Group inc. - Class A subordinate voting shares
 ALZN,ALZN|Alzamend Neuro, Inc. - Common Stock
@@ -4431,6 +4434,7 @@ BANFP,BANFP|BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities
 BANR,BANR|Banner Corporation - Common Stock
 BANX,BANX|StoneCastle Financial Corp - Common Stock
 BAOS,BAOS|Baosheng Media Group Holdings Limited - Ordinary shares
+BASE,BASE|Couchbase, Inc. - Common Stock
 BATRA,BATRA|Liberty Media Corporation - Series A Liberty Braves Common Stock
 BATRK,BATRK|Liberty Media Corporation - Series C Liberty Braves Common Stock
 BBBY,BBBY|Bed Bath & Beyond Inc. - Common Stock
@@ -4485,6 +4489,8 @@ BFST,BFST|Business First Bancshares, Inc. - Common Stock
 BGCP,BGCP|BGC Partners, Inc. - Class A Common Stock
 BGFV,BGFV|Big 5 Sporting Goods Corporation - Common Stock
 BGNE,BGNE|BeiGene, Ltd. - American Depositary Shares
+BGRY,BGRY|Berkshire Grey, Inc. - Class A Common Stock
+BGRYW,BGRYW|Berkshire Grey, Inc. - Warrant
 BHAT,BHAT|Blue Hat Interactive Entertainment Technology - Ordinary Shares
 BHF,BHF|Brighthouse Financial, Inc. - Common Stock
 BHFAL,BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058
@@ -5381,7 +5387,6 @@ FBNC,FBNC|First Bancorp - Common Stock
 FBRX,FBRX|Forte Biosciences, Inc.  - Common Stock
 FCAP,FCAP|First Capital, Inc. - Common Stock
 FCBC,FCBC|First Community Bankshares, Inc. - Common Stock
-FCBP,FCBP|First Choice Bancorp - Common Stock
 FCCO,FCCO|First Community Corporation - Common Stock
 FCCY,FCCY|1st Constitution Bancorp (NJ) - Common Stock
 FCEL,FCEL|FuelCell Energy, Inc. - Common Stock
@@ -5403,6 +5408,8 @@ FFBC,FFBC|First Financial Bancorp. - Common Stock
 FFBW,FFBW|FFBW, Inc. - Common Stock
 FFHL,FFHL|Fuwei Films (Holdings) Co., Ltd. - ORDINARY SHARES
 FFIC,FFIC|Flushing Financial Corporation - Common Stock
+FFIE,FFIE|Faraday Future Intelligent Electric Inc. - Common Stock
+FFIEW,FFIEW|Faraday Future Intelligent Electric Inc. - Warrant
 FFIN,FFIN|First Financial Bankshares, Inc. - Common Stock
 FFIV,FFIV|F5 Networks, Inc. - Common Stock
 FFNW,FFNW|First Financial Northwest, Inc. - Common Stock
@@ -6581,6 +6588,8 @@ MITK,MITK|Mitek Systems, Inc. - Common Stock
 MITO,MITO|Stealth BioTherapeutics Corp. - American Depositary Shares
 MKD,MKD|Molecular Data Inc. - ADS
 MKSI,MKSI|MKS Instruments, Inc. - Common Stock
+MKTW,MKTW|MarketWise, Inc. - Class A Common Stock
+MKTWW,MKTWW|MarketWise, Inc. - Warrant
 MKTX,MKTX|MarketAxess Holdings, Inc. - Common Stock
 MKTY,MKTY|Mechanical Technology Incorporated - Common Stock
 MLAB,MLAB|Mesa Laboratories, Inc. - Common Stock
@@ -7211,9 +7220,6 @@ PRTK,PRTK|Paratek Pharmaceuticals, Inc.  - Common Stock
 PRTS,PRTS|CarParts.com, Inc. - Common Stock
 PRVA,PRVA|Privia Health Group, Inc. - Common Stock
 PRVB,PRVB|Provention Bio, Inc. - Common Stock
-PSAC,PSAC|Property Solutions Acquisition Corp. - Common Stock
-PSACU,PSACU|Property Solutions Acquisition Corp. - Unit
-PSACW,PSACW|Property Solutions Acquisition Corp. - Warrant
 PSAG,PSAG|Property Solutions Acquisition Corporation II - Class A Common Stock
 PSAGU,PSAGU|Property Solutions Acquisition Corporation II - Units
 PSAGW,PSAGW|Property Solutions Acquisition Corporation II - Warrant
@@ -7301,9 +7307,6 @@ QUBT,QUBT|Quantum Computing Inc. - Common Stock
 QUIK,QUIK|QuickLogic Corporation - Common Stock
 QUMU,QUMU|Qumu Corporation - Common Stock
 QURE,QURE|uniQure N.V. - Ordinary Shares
-RAAC,RAAC|Revolution Acceleration Acquisition Corp - Class A Common Stock
-RAACU,RAACU|Revolution Acceleration Acquisition Corp - Unit
-RAACW,RAACW|Revolution Acceleration Acquisition Corp - Warrant
 RACB,RACB|Research Alliance Corp. II - Class A Common Stock
 RADA,RADA|RADA Electronic Industries Ltd. - Ordinary Shares
 RADI,RADI|Radius Global Infrastructure, Inc. - Common Stock
@@ -8374,6 +8377,7 @@ ZBZZT,ZBZZT|Test Pilot Test Stock Class B Common Stock
 ZCMD,ZCMD|Zhongchao Inc. - Class A Ordinary Shares
 ZCZZT,ZCZZT|Tick Pilot Test Stock Class C 
 ZEAL,ZEAL|Zealand Pharma A/S - American Depositary Shares
+ZENV,ZENV|Zenvia Inc. - Class A Common Stock
 ZEUS,ZEUS|Olympic Steel, Inc. - Common Stock
 ZG,ZG|Zillow Group, Inc. - Class A Common Stock
 ZGNX,ZGNX|Zogenix, Inc. - Common Stock
