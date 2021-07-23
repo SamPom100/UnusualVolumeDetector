@@ -1056,6 +1056,7 @@ CNF|CNFinance Holdings Limited American Depositary Shares, each representing  tw
 CNHI|CNH Industrial N.V. Common Shares|N|CNHI|N|100|N|CNHI
 CNI|Canadian National Railway Company Common Stock|N|CNI|N|100|N|CNI
 CNK|Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock|N|CNK|N|100|N|CNK
+CNM|Core & Main, Inc. Class A Common Stock|N|CNM|N|100|N|CNM
 CNMD|CONMED Corporation Common Stock|N|CNMD|N|100|N|CNMD
 CNNE|Cannae Holdings, Inc. Common Stock|N|CNNE|N|100|N|CNNE
 CNO|CNO Financial Group, Inc. Common Stock|N|CNO|N|100|N|CNO
@@ -2780,6 +2781,7 @@ IDHD|Invesco S&P International Developed High Dividend Low Volatility ETF|Z|IDHD
 IDHQ|Invesco S&P International Developed Quality ETF|P|IDHQ|Y|100|N|IDHQ
 IDIV|U.S. Equity Cumulative Dividends Fund Series 2027 Shares|P|IDIV|Y|100|N|IDIV
 IDLV|Invesco S&P International Developed Low Volatility ETF|P|IDLV|Y|100|N|IDLV
+IDME|ETF Series Solutions International Drawdown Managed Equity ETF|Z|IDME|Y|100|N|IDME
 IDMO|Invesco S&P International Developed Momentum ETF|P|IDMO|Y|100|N|IDMO
 IDNA|iShares Genomics Immunology and Healthcare ETF|P|IDNA|Y|100|N|IDNA
 IDOG|ALPS International Sector Dividend Dogs ETF|P|IDOG|Y|100|N|IDOG
@@ -3527,6 +3529,7 @@ MGMT|Ballast Small/Mid Cap ETF|P|MGMT|Y|100|N|MGMT
 MGP|MGM Growth Properties LLC Class A common shares representing limited liability company interests|N|MGP|N|100|N|MGP
 MGR|Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059|N|MGR|N|100|N|MGR
 MGRB|Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060|N|MGRB|N|100|N|MGRB
+MGRD|Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061|N|MGRD|N|100|N|MGRD
 MGU|Macquarie Global Infrastructure Total Return Fund Inc. Common Stock|N|MGU|N|100|N|MGU
 MGV|Vanguard Mega Cap Value ETF|P|MGV|Y|100|N|MGV
 MGY|Magnolia Oil & Gas Corporation Class A Common Stock|N|MGY|N|100|N|MGY
@@ -4378,6 +4381,7 @@ PSB$Z|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Sh
 PSCJ|Pacer Swan SOS Conservative (July) ETF|Z|PSCJ|Y|100|N|PSCJ
 PSCW|Pacer Swan SOS Conservative (April) ETF|Z|PSCW|Y|100|N|PSCW
 PSCX|Pacer Swan SOS Conservative (December) ETF|Z|PSCX|Y|100|N|PSCX
+PSEC$A|Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock|N|PSECpA|N|100|N|PSEC-A
 PSEP|Innovator ETFs Trust Innovator S&P 500 Power Buffer ETF - September|Z|PSEP|Y|100|N|PSEP
 PSF|Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock|N|PSF|N|100|N|PSF
 PSFD|Pacer Funds ETF|Z|PSFD|Y|100|N|PSFD
@@ -6010,6 +6014,7 @@ XPO.V|XPO Logistics, Inc. Ex-Distribution When-issued Common Stock|N|XPOw|N|100|
 XPOA|DPCM Capital, Inc. Class A Common Stock|N|XPOA|N|100|N|XPOA
 XPOA.U|DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|XPOA.U|N|100|N|XPOA=
 XPOA.W|DPCM Capital, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|XPOA.WS|N|100|N|XPOA+
+XPOF|Xponential Fitness, Inc. Class A Common Stock|N|XPOF|N|100|N|XPOF
 XPP|ProShares Ultra FTSE China 50|P|XPP|Y|100|N|XPP
 XRLV|Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF|P|XRLV|Y|100|N|XRLV
 XRT|SPDR S&P Retail ETF|P|XRT|Y|100|N|XRT
@@ -6095,4 +6100,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0722202110:00||||||
+File Creation Time: 0723202115:41||||||
