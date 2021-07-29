@@ -865,9 +865,6 @@ CCAC.W|CITIC Capital Acquisition Corp. Warrants, each whole warrant exercisable 
 CCEP|Coca-Cola Europacific Partners plc Ordinary Shares|N|CCEP|N|100|N|CCEP
 CCF|Chase Corporation Common Stock|A|CCF|N|100|N|CCF
 CCI|Crown Castle International Corp. (REIT) Common Stock|N|CCI|N|100|N|CCI
-CCIV|Churchill Capital Corp IV Class A Common Stock|N|CCIV|N|100|N|CCIV
-CCIV.U|Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant|N|CCIV.U|N|100|N|CCIV=
-CCIV.W|Churchill Capital Corp IV Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|CCIV.WS|N|100|N|CCIV+
 CCJ|Cameco Corporation Common Stock|N|CCJ|N|100|N|CCJ
 CCK|Crown Holdings, Inc.|N|CCK|N|100|N|CCK
 CCL|Carnival Corporation Common Stock|N|CCL|N|100|N|CCL
@@ -1589,6 +1586,7 @@ EEMO|Invesco S&P Emerging Markets Momentum ETF|P|EEMO|Y|100|N|EEMO
 EEMS|Ishares MSCI Emerging Markets Small Cap Index Fund|P|EEMS|Y|100|N|EEMS
 EEMV|iShares MSCI Emerging Markets Min Vol Factor ETF|Z|EEMV|Y|100|N|EEMV
 EEMX|SPDR MSCI Emerging Markets Fuel Reserves Free ETF|P|EEMX|Y|100|N|EEMX
+EERN|DriveWealth Power Saver ETF|P|EERN|Y|100|N|EERN
 EES|WisdomTree U.S. SmallCap Fund|P|EES|Y|100|N|EES
 EET|ProShares Ultra MSCI Emerging Markets|P|EET|Y|100|N|EET
 EEV|ProShares UltraShort MSCI Emerging Markets|P|EEV|Y|100|N|EEV
@@ -2616,7 +2614,6 @@ HNP|Huaneng Power Intl Common Stock|N|HNP|N|100|N|HNP
 HNW|Pioneer Diversified High Income Fund, Inc.|A|HNW|N|100|N|HNW
 HOG|Harley-Davidson, Inc. Common Stock|N|HOG|N|100|N|HOG
 HOLD|AdvisorShares Sage Core Reserves ETF|P|HOLD|Y|100|N|HOLD
-HOME|At Home Group Inc. Common Stock|N|HOME|N|100|N|HOME
 HOMZ|Hoya Capital Housing ETF|P|HOMZ|Y|100|N|HOMZ
 HOV|Hovnanian Enterprises, Inc. Class A Common Stock|N|HOV|N|100|N|HOV
 HP|Helmerich & Payne, Inc. Common Stock|N|HP|N|100|N|HP
@@ -3579,6 +3576,7 @@ MKL|Markel Corporation Common Stock|N|MKL|N|10|N|MKL
 MLI|Mueller Industries, Inc. Common Stock|N|MLI|N|100|N|MLI
 MLM|Martin Marietta Materials, Inc. Common Stock|N|MLM|N|100|N|MLM
 MLN|VanEck Vectors ETF Trust VanEck Vectors Long Muni ETF|Z|MLN|Y|100|N|MLN
+MLNK|MeridianLink, Inc. Common Stock|N|MLNK|N|100|N|MLNK
 MLP|Maui Land & Pineapple Company, Inc. Common Stock|N|MLP|N|100|N|MLP
 MLPA|Global X MLP ETF|P|MLPA|Y|100|N|MLPA
 MLPB|ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040|P|MLPB|N|100|N|MLPB
@@ -4085,6 +4083,7 @@ OWL|Blue Owl Capital Inc. Class A Common Stock|N|OWL|N|100|N|OWL
 OWL.W|Blue Owl Capital Inc. Redeemable Warrants|N|OWL.WS|N|100|N|OWL+
 OWLT|Owlet, Inc. Class A Common Stock|N|OWLT|N|100|N|OWLT
 OWLT.W|Owlet, Inc. Warrants|N|OWLT.WS|N|100|N|OWLT+
+OWNS|Impact Shares Affordable Housing MBS ETF|P|OWNS|Y|100|N|OWNS
 OXM|Oxford Industries, Inc. Common Stock|N|OXM|N|100|N|OXM
 OXY|Occidental Petroleum Corporation Common Stock|N|OXY|N|100|N|OXY
 OXY.W|Occidental Petroleum Corporation Warrants |N|OXY.WS|N|100|N|OXY+
@@ -4450,6 +4449,7 @@ PWB|Invesco Dynamic Large Cap Growth ETF|P|PWB|Y|100|N|PWB
 PWC|Invesco Dynamic Market ETF|P|PWC|Y|100|N|PWC
 PWR|Quanta Services, Inc. Common Stock|N|PWR|N|100|N|PWR
 PWS|Pacer WealthShield ETF |Z|PWS|Y|100|N|PWS
+PWSC|PowerSchool Holdings, Inc. Class A Common Stock|N|PWSC|N|100|N|PWSC
 PWV|Invesco Dynamic Large Cap Value ETF|P|PWV|Y|100|N|PWV
 PWZ|Invesco California AMT-Free Municipal Bond Portfolio|P|PWZ|Y|100|N|PWZ
 PXD|Pioneer Natural Resources Company Common Stock|N|PXD|N|100|N|PXD
@@ -4874,6 +4874,7 @@ SF|Stifel Financial Corporation Common Stock|N|SF|N|100|N|SF
 SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A|N|SFpA|N|100|N|SF-A
 SF$B|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B|N|SFpB|N|100|N|SF-B
 SF$C|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C|N|SFpC|N|100|N|SF-C
+SF$D|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% Non-Cumulative Preferred Stock, Series D|N|SFpD|N|100|N|SF-D
 SFB|Stifel Financial Corporation 5.20% Senior Notes due 2047|N|SFB|N|100|N|SFB
 SFBS|ServisFirst Bancshares, Inc. Common Stock|N|SFBS|N|100|N|SFBS
 SFE|Safeguard Scientifics, Inc. New Common Stock|N|SFE|N|100|N|SFE
@@ -5155,6 +5156,7 @@ STAR|iStar Inc. Common Stock|N|STAR|N|100|N|STAR
 STAR$D|iStar Inc. Series D Cumulative Redeemable Preferred Stock|N|STARpD|N|100|N|STAR-D
 STAR$G|iStar Inc. Series G Cumulative Redeemable Preferred Stock|N|STARpG|N|100|N|STAR-G
 STAR$I|iStar Inc. Series I Cumulative Redeemable Preferred Stock|N|STARpI|N|100|N|STAR-I
+STBL|DriveWealth Steady Saver ETF|P|STBL|Y|100|N|STBL
 STC|Stewart Information Services Corporation Common Stock|N|STC|N|100|N|STC
 STE|STERIS plc (Ireland) Ordinary Shares|N|STE|N|100|N|STE
 STEM|Stem, Inc. Class A Common Stock|N|STEM|N|100|N|STEM
@@ -5924,6 +5926,7 @@ WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferre
 WPM|Wheaton Precious Metals Corp Common Shares (Canada)|N|WPM|N|100|N|WPM
 WPP|WPP plc American Depositary Shares|N|WPP|N|100|N|WPP
 WPS|iShares International Developed Property ETF|P|WPS|Y|100|N|WPS
+WRAC.U|Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|WRAC.U|N|100|N|WRAC=
 WRB|W.R. Berkley Corporation Common Stock|N|WRB|N|100|N|WRB
 WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058|N|WRBpE|N|100|N|WRB-E
 WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059|N|WRBpF|N|100|N|WRB-F
@@ -6100,4 +6103,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0723202115:41||||||
+File Creation Time: 0728202121:32||||||
