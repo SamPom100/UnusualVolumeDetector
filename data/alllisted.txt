@@ -1105,6 +1105,7 @@ DNZ.W,DNZ.W|D and Z Media Acquisition Corp. Warrants, each whole warrant exercis
 DOC,DOC|Physicians Realty Trust Common Shares of Beneficial Interest
 DOCN,DOCN|DigitalOcean Holdings, Inc. Common Stock
 DOCS,DOCS|Doximity, Inc. Class A Common Stock
+DOLE,DOLE|Dole plc Ordinary Shares
 DOMA,DOMA|Doma Holdings, Inc. Common Stock
 DOMA.W,DOMA.W|Doma Holdings, Inc. Warrants
 DOOR,DOOR|Masonite International Corporation Ordinary Shares (Canada)
@@ -2815,6 +2816,7 @@ PEB$D,PEB$D|Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Prefer
 PEB$E,PEB$E|Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$F,PEB$F|Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$G,PEB$G|Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interest
+PEB$H,PEB$H|Pebblebrook Hotel Trust 5.700% Series H Cumulative Redeemable Preferred Shares of Beneficial Interest
 PED,PED|Pedevco Corp. Common Stock
 PEG,PEG|Public Service Enterprise Group Incorporated Common Stock
 PEI,PEI|Pennsylvania Real Estate Investment Trust Common Stock
@@ -2841,7 +2843,6 @@ PGRE,PGRE|Paramount Group, Inc. Common Stock
 PGTI,PGTI|PGT Innovations, Inc.
 PGZ,PGZ|Principal Real Estate Income Fund Common Shares of Beneficial Interest
 PH,PH|Parker-Hannifin Corporation Common Stock
-PHCC,PHCC|Preston Hollow Community Capital, Inc. Class A Common Stock
 PHD,PHD|Pioneer Floating Rate Fund, Inc.
 PHG,PHG|Koninklijke Philips N.V. NY Registry Shares
 PHGE,PHGE|BiomX Inc. COmmon Stock
@@ -4825,7 +4826,7 @@ CIH,CIH|China Index Holdings Limited - American Depository Shares
 CINF,CINF|Cincinnati Financial Corporation - Common Stock
 CIVB,CIVB|Civista Bancshares, Inc.  - Common Stock
 CIZN,CIZN|Citizens Holding Company - Common Stock
-CJJD,CJJD|China Jo-Jo Drugstores, Inc. - Common Stock
+CJJD,CJJD|China Jo-Jo Drugstores, Inc. - Ordinary Shares
 CKPT,CKPT|Checkpoint Therapeutics, Inc. - Common Stock
 CLAQU,CLAQU|CleanTech Acquisition Corp. - Units
 CLAR,CLAR|Clarus Corporation - Common Stock
@@ -5063,6 +5064,8 @@ CYTH,CYTH|Cyclo Therapeutics, Inc. - Common Stock
 CYTHW,CYTHW|Cyclo Therapeutics, Inc. - Warrant
 CYTK,CYTK|Cytokinetics, Incorporated - Common Stock
 CYTO,CYTO|Altamira Therapeutics Ltd. - Common Shares
+CYXT,CYXT|Cyxtera Technologies, Inc. - Class A Common Stock
+CYXTW,CYXTW|Cyxtera Technologies, Inc. - Warrant
 CZNC,CZNC|Citizens & Northern Corp - Common Stock
 CZR,CZR|Caesars Entertainment, Inc. - Common Stock
 CZWI,CZWI|Citizens Community Bancorp, Inc. - Common Stock
@@ -5163,6 +5166,7 @@ DOOO,DOOO|BRP Inc. - Common Subordinate Voting Shares
 DORM,DORM|Dorman Products, Inc. - Common Stock
 DOX,DOX|Amdocs Limited - Ordinary Shares
 DOYU,DOYU|DouYu International Holdings Limited - American Depositary Shares
+DPRO,DPRO|Draganfly Inc. - Common Shares
 DRAYU,DRAYU|Macondray Capital Acquisition Corp. I - Unit
 DRIO,DRIO|DarioHealth Corp. - Common Stock
 DRNA,DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock
@@ -5582,7 +5586,9 @@ FWRD,FWRD|Forward Air Corporation - Common Stock
 FXNC,FXNC|First National Corporation - Common Stock
 FYBR,FYBR|Frontier Communications Parent, Inc. - Common Stock
 GABC,GABC|German American Bancorp, Inc. - Common Stock
+GACQ,GACQ|Global Consumer Acquisition Corp. - Common Stock
 GACQU,GACQU|Global Consumer Acquisition Corp. - Unit
+GACQW,GACQW|Global Consumer Acquisition Corp. - Warrant
 GAIA,GAIA|Gaia, Inc. - Class A Common Stock
 GAIN,GAIN|Gladstone Investment Corporation - Business Development Company
 GAINL,GAINL|Gladstone Investment Corporation - 6.375% Series E Cumulative Term Preferred Stock due 2025
@@ -5733,7 +5739,10 @@ GP,GP|GreenPower Motor Company Inc. - Common Shares
 GPAC,GPAC|Global Partner Acquisition Corp II - Class A Ordinary Share
 GPACU,GPACU|Global Partner Acquisition Corp II - Unit
 GPACW,GPACW|Global Partner Acquisition Corp II - Warrant
+GPCO,GPCO|Golden Path Acquisition Corporation - Ordinary Shares
+GPCOR,GPCOR|Golden Path Acquisition Corporation - Rights
 GPCOU,GPCOU|Golden Path Acquisition Corporation - Units, each consisting of one Ordinary Share, one right, and one warrant.
+GPCOW,GPCOW|Golden Path Acquisition Corporation - Warrant
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
@@ -6047,6 +6056,7 @@ IMPL,IMPL|Impel NeuroPharma, Inc. - Common Stock
 IMRA,IMRA|IMARA Inc. - Common Stock
 IMRN,IMRN|Immuron Limited - American Depositary Shares
 IMRNW,IMRNW|Immuron Limited - Warrants
+IMRX,IMRX|Immuneering Corporation - Class A Common Stock
 IMTE,IMTE|Integrated Media Technology Limited - Ordinary Shares
 IMTX,IMTX|Immatics N.V. - Ordinary Shares
 IMTXW,IMTXW|Immatics N.V. - Warrants
@@ -6054,6 +6064,7 @@ IMUX,IMUX|Immunic, Inc.  - Common Stock
 IMV,IMV|IMV Inc. - Common Shares
 IMVT,IMVT|Immunovant, Inc.  - Common Stock
 IMXI,IMXI|International Money Express, Inc. - Common Stock
+INAB,INAB|IN8bio, Inc. - Common Stock
 INBK,INBK|First Internet Bancorp - Common Stock
 INBKL,INBKL|First Internet Bancorp - 6.0% Fixed-to-Floating Rate Subordinated Notes due 2026
 INBKZ,INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029
@@ -6722,6 +6733,7 @@ MVBF,MVBF|MVB Financial Corp. - Common Stock
 MVIS,MVIS|MicroVision, Inc. - Common Stock
 MVST,MVST|Microvast Holdings, Inc. - Common Stock
 MVSTW,MVSTW|Microvast Holdings, Inc. - Warrant
+MXCT,MXCT|MaxCyte, Inc. - Common Stock
 MXIM,MXIM|Maxim Integrated Products, Inc. - Common Stock
 MYFW,MYFW|First Western Financial, Inc. - Common Stock
 MYGN,MYGN|Myriad Genetics, Inc. - Common Stock
@@ -6899,7 +6911,6 @@ NYMT,NYMT|New York Mortgage Trust, Inc. - Common Stock
 NYMTL,NYMTL|New York Mortgage Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share
 NYMTM,NYMTM|New York Mortgage Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
 NYMTN,NYMTN|New York Mortgage Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock
-NYMTO,NYMTO|New York Mortgage Trust, Inc. - 7.875% Series C Cumulative Redeemable Preferred Stock
 NYMTP,NYMTP|New York Mortgage Trust, Inc. - 7.75% Series B Cumulative Redeemable Preferred Stock
 NYMX,NYMX|Nymox Pharmaceutical Corporation - Common Stock
 NYXH,NYXH|Nyxoah SA - Ordinary Shares
@@ -6957,6 +6968,7 @@ OMCL,OMCL|Omnicell, Inc. - Common Stock
 OMEG,OMEG|Omega Alpha SPAC - Class A Ordinary Shares
 OMER,OMER|Omeros Corporation - Common Stock
 OMEX,OMEX|Odyssey Marine Exploration, Inc. - Common Stock
+OMGA,OMGA|Omega Therapeutics, Inc. - Common Stock
 OMIC,OMIC|Singular Genomics Systems, Inc. - Common Stock
 OMP,OMP|Oasis Midstream Partners LP - Common Units, Representing Limited Partner Interests
 ON,ON|ON Semiconductor Corporation - Common Stock
@@ -7341,6 +7353,7 @@ RAM,RAM|Aries I Acquisition Corporation - Class A Ordinary Share
 RAMMU,RAMMU|Aries I Acquisition Corporation - Unit
 RAMMW,RAMMW|Aries I Acquisition Corporation - Warrant
 RAND,RAND|Rand Capital Corporation - Common Stock
+RANI,RANI|Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPT,RAPT|RAPT Therapeutics, Inc. - Common Stock
 RARE,RARE|Ultragenyx Pharmaceutical Inc. - Common Stock
 RAVE,RAVE|Rave Restaurant Group, Inc. - Common Stock
@@ -7491,6 +7504,7 @@ RXRA,RXRA|RXR Acquisition Corp. - Class A Common Stock
 RXRAU,RXRAU|RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant
 RXRAW,RXRAW|RXR Acquisition Corp. - Warrants to purchase Class A common stock
 RXRX,RXRX|Recursion Pharmaceuticals, Inc. - Class A Common Stock
+RXST,RXST|RxSight, Inc. - Common Stock
 RXT,RXT|Rackspace Technology, Inc. - Common Stock
 RYAAY,RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares
 RYTM,RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock
@@ -7670,7 +7684,9 @@ SMED,SMED|Sharps Compliance Corp. - Common Stock
 SMFR,SMFR|Sema4 Holdings Corp. - Class A Common Stock
 SMFRW,SMFRW|Sema4 Holdings Corp. - Warrant
 SMID,SMID|Smith-Midland Corporation - Common Stock
+SMIH,SMIH|Summit Healthcare Acquisition Corp. - Class A Ordinary Share
 SMIHU,SMIHU|Summit Healthcare Acquisition Corp. - Units
+SMIHW,SMIHW|Summit Healthcare Acquisition Corp. - Warrant
 SMIT,SMIT|Schmitt Industries, Inc. - Common Stock
 SMMF,SMMF|Summit Financial Group, Inc. - Common Stock
 SMMT,SMMT|Summit Therapeutics Inc.  - Common Stock
@@ -7816,9 +7832,6 @@ SUPN,SUPN|Supernus Pharmaceuticals, Inc. - Common Stock
 SURF,SURF|Surface Oncology, Inc. - Common Stock
 SV,SV|Spring Valley Acquisition Corp. - Class A Ordinary Share
 SVA,SVA|Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)
-SVAC,SVAC|Starboard Value Acquisition Corp. - Class A Common Stock
-SVACU,SVACU|Starboard Value Acquisition Corp. - Unit
-SVACW,SVACW|Starboard Value Acquisition Corp. - Warrant
 SVBI,SVBI|Severn Bancorp Inc - Common Stock
 SVC,SVC|Service Properties Trust - Shares of Beneficial Interest
 SVFA,SVFA|SVF Investment Corp. - Class A Ordinary Shares
@@ -7968,7 +7981,6 @@ TLGT,TLGT|Teligent, Inc. - Common Stock
 TLIS,TLIS|Talis Biomedical Corporation - common stock
 TLMD,TLMD|SOC Telemed, Inc. - Class A Common Stock
 TLMDW,TLMDW|SOC Telemed, Inc. - Warrants
-TLND,TLND|Talend S.A. - American Depositary Shares
 TLRY,TLRY|Tilray, Inc. - Class 2 Common Stock
 TLS,TLS|Telos Corporation - Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
@@ -7987,6 +7999,7 @@ TMTSW,TMTSW|Spartacus Acquisition Corporation - Warrant
 TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
+TNYA,TNYA|Tenaya Therapeutics, Inc. - Common Stock
 TOMZ,TOMZ|TOMI Environmental Solutions, Inc. - Common Stock
 TOPS,TOPS|TOP Ships Inc. - Common Stock
 TOUR,TOUR|Tuniu Corporation - American Depositary Shares
@@ -8375,6 +8388,7 @@ XOMAO,XOMAO|XOMA Corporation - Depositary Shares Rep Series B 8.375% Cumulative 
 XOMAP,XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XONE,XONE|The ExOne Company - Common Stock
 XP,XP|XP Inc. - Class A Common Stock
+XPAXU,XPAXU|XPAC Acquisition Corp. - Unit
 XPDI,XPDI|Power & Digital Infrastructure Acquisition Corp. - Class A Common Stock
 XPDIU,XPDIU|Power & Digital Infrastructure Acquisition Corp. - Unit
 XPDIW,XPDIW|Power & Digital Infrastructure Acquisition Corp. - Warrant
