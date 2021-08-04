@@ -699,6 +699,7 @@ BOAC.W|Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole
 BOAS|BOA Acquisition Corp. Class A Common Stock|N|BOAS|N|100|N|BOAS
 BOAS.U|BOA Acquisition Corp. Units, each consisting of one share of Class A common stock, and one third of one redeemable warrant|N|BOAS.U|N|100|N|BOAS=
 BOAS.W|BOA Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at a price of $11.50 per share|N|BOAS.WS|N|100|N|BOAS+
+BOAT|SonicShares Global Shipping ETF|P|BOAT|Y|100|N|BOAT
 BOB|Merlyn.AI Best-of-Breed Core Momentum ETF|Z|BOB|Y|100|N|BOB
 BOCT|Innovator S&P 500 Buffer ETF - October|Z|BOCT|Y|100|N|BOCT
 BODY|The Beachbody Company, Inc. Class A Common Stock|N|BODY|N|100|N|BODY
@@ -2788,6 +2789,7 @@ IDRV|iShares Self-Driving EV and Tech ETF|P|IDRV|Y|100|N|IDRV
 IDT|IDT Corporation Class B Common Stock|N|IDT|N|100|N|IDT
 IDU|iShares U.S. Utilities ETF|P|IDU|Y|100|N|IDU
 IDV|iShares International Select Dividend ETF|Z|IDV|Y|100|N|IDV
+IDW|IDW Media Holdings Class B Common Stock|A|IDW|N|100|N|IDW
 IDX|VanEck Vectors Indonesia Index ETF|P|IDX|Y|100|N|IDX
 IECS|iShares Evolved U.S. Consumer Staples ETF|Z|IECS|Y|100|N|IECS
 IEDI|iShares Evolved U.S. Discretionary Spending ETF|Z|IEDI|Y|100|N|IEDI
@@ -3139,6 +3141,7 @@ JPM$D|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  inte
 JPM$J|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG|N|JPMpJ|N|100|N|JPM-J
 JPM$K|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ|N|JPMpK|N|100|N|JPM-K
 JPM$L|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL|N|JPMpL|N|100|N|JPM-L
+JPM$M|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM|N|JPMpM|N|100|N|JPM-M
 JPMB|JPMorgan USD Emerging Markets Sovereign Bond ETF|P|JPMB|Y|100|N|JPMB
 JPME|JPMorgan Diversified Return U.S. Mid Cap Equity ETF|P|JPME|Y|100|N|JPME
 JPN|Xtrackers Japan JPX-Nikkei 400 Equity ETF|P|JPN|Y|100|N|JPN
@@ -4350,7 +4353,6 @@ PRLB|Proto Labs, Inc. Common stock|N|PRLB|N|100|N|PRLB
 PRMW|Primo Water Corporation Common Stock|N|PRMW|N|100|N|PRMW
 PRNT|3D Printing (The) ETF|Z|PRNT|Y|100|N|PRNT
 PRO|PROS Holdings, Inc. Common Stock|N|PRO|N|100|N|PRO
-PROS|ProSight Global, Inc. Common Stock|N|PROS|N|100|N|PROS
 PRPB|CC Neuberger Principal Holdings II Class A Ordinary Shares|N|PRPB|N|100|N|PRPB
 PRPB.U|CC Neuberger Principal Holdings II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|PRPB.U|N|100|N|PRPB=
 PRPB.W|CC Neuberger Principal Holdings II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|PRPB.WS|N|100|N|PRPB+
@@ -5682,6 +5684,7 @@ VCAR|Simplify Volt RoboCar Disruption and Tech ETF|P|VCAR|Y|100|N|VCAR
 VCEB|Vanguard World Funds ETF|Z|VCEB|Y|100|N|VCEB
 VCF|Delaware Investments Colorado Municipal Income Fund, Inc  Common Stock|A|VCF|N|100|N|VCF
 VCIF|Vertical Capital Income Fund Common Shares of Beneficial Interest|N|VCIF|N|100|N|VCIF
+VCLN|Virtus Duff & Phelps Clean Energy ETF|P|VCLN|Y|100|N|VCLN
 VCLO|Simplify Volt Cloud and Cybersecurity Disruption ETF|P|VCLO|Y|100|N|VCLO
 VCR|Vanguard Consumer Discretion ETF|P|VCR|Y|100|N|VCR
 VCRA|Vocera Communications, Inc. Common Stock|N|VCRA|N|100|N|VCRA
@@ -5936,7 +5939,6 @@ WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059|N|WRBpF|N|
 WRB$G|W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060|N|WRBpG|N|100|N|WRB-G
 WRB$H|W.R. Berkley Corporation 4.125% Subordinated Debentures due 2061|N|WRBpH|N|100|N|WRB-H
 WRE|Washington Real Estate Investment Trust Common Stock|N|WRE|N|100|N|WRE
-WRI|Weingarten Realty Investors Common Stock|N|WRI|N|100|N|WRI
 WRK|Westrock Company Common Stock|N|WRK|N|100|N|WRK
 WRN|Western Copper and Gold Corporation Common Stock|A|WRN|N|100|N|WRN
 WSM|Williams-Sonoma, Inc. Common Stock (DE)|N|WSM|N|100|N|WSM
@@ -6105,4 +6107,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0803202115:40||||||
+File Creation Time: 0804202118:01||||||
