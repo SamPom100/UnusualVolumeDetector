@@ -188,6 +188,8 @@ AMAM,AMAM|Ambrx Biopharma Inc. American Depositary Shares (each representing sev
 AMBC,AMBC|Ambac Financial Group, Inc. Common Stock
 AMBC.W,AMBC.W|Ambac Financial Group, Inc. Warrants
 AMBO,AMBO|Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shares
+AMBP,AMBP|Ardagh Metal Packaging S.A. Ordinary Shares
+AMBP.W,AMBP.W|Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share
 AMC,AMC|AMC Entertainment Holdings, Inc. Class A Common Stock
 AMCR,AMCR|Amcor plc Ordinary Shares
 AME,AME|AMETEK, Inc.
@@ -1000,6 +1002,7 @@ CXH,CXH|MFS Investment Grade Municipal Trust Common Stock
 CXM,CXM|Sprinklr, Inc. Class A Common Stock
 CXP,CXP|Columbia Property Trust, Inc. Common Stock
 CXW,CXW|CoreCivic, Inc. Common Stock
+CYBN,CYBN|Cybin Inc. Common Shares
 CYD,CYD|China Yuchai International Limited Common Stock
 CYH,CYH|Community Health Systems, Inc. Common Stock
 D,D|Dominion Energy, Inc. Common Stock
@@ -1712,7 +1715,9 @@ GSL,GSL|Global Ship Lease Inc New Class A Common Shares
 GSL$B,GSL$B|Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)
 GSLD,GSLD|Global Ship Lease, Inc. 8.00% Senior Notes due 2024
 GSP,GSP|Barclays Bank PLC iPath Exchange Traded Notes due June 12, 2036 Linked to GSCI Total Return Index
+GSQB,GSQB|G Squared Ascend II Inc. Class A Ordinary Shares
 GSQB.U,GSQB.U|G Squared Ascend II Inc. Units
+GSQB.W,GSQB.W|G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 GSQD,GSQD|G Squared Ascend I Inc. Class A Ordinary Shares
 GSQD.U,GSQD.U|G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant to acquire one Class A ordinary share
 GSQD.W,GSQD.W|G Squared Ascend I Inc. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50
@@ -3839,6 +3844,7 @@ WD,WD|Walker & Dunlop, Inc Common Stock
 WDH,WDH|Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares)
 WDI,WDI|Western Asset Diversified Income Fund Common Shares of Beneficial Interest
 WEA,WEA|Western Asset Bond Fund Share of Beneficial Interest
+WEBR,WEBR|Weber Inc. Class A Common Stock
 WEC,WEC|WEC Energy Group, Inc. Common Stock
 WEI,WEI|Weidai Ltd. American depositary shares, each  representing one (1) Class A ordinary share
 WELL,WELL|Welltower Inc. Common Stock
@@ -5366,6 +5372,7 @@ EVOL,EVOL|Evolving Systems, Inc. - Common Stock
 EVOP,EVOP|EVO Payments, Inc. - Class A Common Stock
 EVSTC,EVSTC|Eaton Vance Stock NextShares
 EWBC,EWBC|East West Bancorp, Inc. - Common Stock
+EWCZ,EWCZ|European Wax Center, Inc. - Class A Common Stock
 EWTX,EWTX|Edgewise Therapeutics, Inc. - Common Stock
 EXAS,EXAS|Exact Sciences Corporation - Common Stock
 EXC,EXC|Exelon Corporation - Common Stock
@@ -5680,6 +5687,7 @@ GLBS,GLBS|Globus Maritime Limited - Common Stock
 GLBZ,GLBZ|Glen Burnie Bancorp - Common Stock
 GLDD,GLDD|Great Lakes Dredge & Dock Corporation - Common Stock
 GLDI,GLDI|Credit Suisse Gold Shares Covered Call Exchange Traded Notes
+GLEEU,GLEEU|Gladstone Acquisition Corp. - Unit
 GLG,GLG|TD Holdings, Inc. - Common Stock
 GLHA,GLHA|Glass Houses Acquisition Corp. - Class A common stock
 GLHAU,GLHAU|Glass Houses Acquisition Corp. - Unit
@@ -5767,9 +5775,6 @@ GROMW,GROMW|Grom Social Enterprises Inc. - Warrants
 GROW,GROW|U.S. Global Investors, Inc. - Class A Common Stock
 GRPH,GRPH|Graphite Bio, Inc. - Common Stock
 GRPN,GRPN|Groupon, Inc. - Common Stock
-GRSV,GRSV|Gores Holdings V, Inc. - Common stock
-GRSVU,GRSVU|Gores Holdings V, Inc. - Unit
-GRSVW,GRSVW|Gores Holdings V, Inc. - Warrant
 GRTS,GRTS|Gritstone bio, Inc. - Common Stock
 GRTX,GRTX|Galera Therapeutics, Inc. - Common Stock
 GRUB,GRUB|Just Eat Takeaway.com N.V. - American Depositary Shares
@@ -5998,7 +6003,6 @@ ICHR,ICHR|Ichor Holdings - Ordinary Shares
 ICLK,ICLK|iClick Interactive Asia Group Limited - American Depositary Shares
 ICLR,ICLR|ICON plc - Ordinary Shares
 ICMB,ICMB|Investcorp Credit Management BDC, Inc. - Common Stock
-ICON,ICON|Iconix Brand Group, Inc. - Common Stock
 ICPT,ICPT|Intercept Pharmaceuticals, Inc. - Common Stock
 ICUI,ICUI|ICU Medical, Inc. - Common Stock
 ICVX,ICVX|Icosavax, Inc. - Common Stock
@@ -6923,6 +6927,7 @@ OBCI,OBCI|Ocean Bio-Chem, Inc. - Common Stock
 OBLG,OBLG|Oblong Inc. - Common Stock
 OBNK,OBNK|Origin Bancorp, Inc. - Common Stock
 OBSV,OBSV|ObsEva SA - Common Shares
+OBT,OBT|Orange County Bancorp, Inc. - Common Stock
 OCAX,OCAX|OCA Acquisition Corp. - Class A Common Stock
 OCAXU,OCAXU|OCA Acquisition Corp. - Unit
 OCAXW,OCAXW|OCA Acquisition Corp. - Warrant
@@ -7202,6 +7207,7 @@ PME,PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares
 PMGM,PMGM|Priveterra Acquisition Corp. - Class A Common Stock
 PMGMU,PMGMU|Priveterra Acquisition Corp. - Units
 PMGMW,PMGMW|Priveterra Acquisition Corp. - Warrant
+PMTS,PMTS|CPI Card Group Inc. - Common Stock
 PMVP,PMVP|PMV Pharmaceuticals, Inc. - Common Stock
 PNBK,PNBK|Patriot National Bancorp Inc. - Common Stock
 PNFP,PNFP|Pinnacle Financial Partners, Inc. - Common Stock
@@ -8338,6 +8344,8 @@ WIX,WIX|Wix.com Ltd. - Ordinary Shares
 WKEY,WKEY|WISeKey International Holding AG - American Depositary Shares
 WKHS,WKHS|Workhorse Group, Inc. - Common Stock
 WKME,WKME|WalkMe Ltd. - Ordinary Shares
+WKSP,WKSP|Worksport, Ltd. - Common Stock
+WKSPW,WKSPW|Worksport, Ltd. - Warrant
 WLDN,WLDN|Willdan Group, Inc. - Common Stock
 WLFC,WLFC|Willis Lease Finance Corporation - Common Stock
 WLTW,WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares

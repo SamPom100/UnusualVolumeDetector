@@ -1509,6 +1509,7 @@ EVOL|Evolving Systems, Inc. - Common Stock|S|N|N|100|N|N
 EVOP|EVO Payments, Inc. - Class A Common Stock|G|N|N|100|N|N
 EVSTC|Eaton Vance Stock NextShares|G|N|N|100|N|Y
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
+EWCZ|European Wax Center, Inc. - Class A Common Stock|Q|N|N|100|N|N
 EWEB|Global X Emerging Markets Internet & E-commerce ETF|G|N|N|100|Y|N
 EWJE|iShares MSCI Japan Equal Weighted ETF|G|N|N|100|Y|N
 EWJV|iShares MSCI Japan Value ETF|G|N|N|100|Y|N
@@ -1887,6 +1888,7 @@ GLBS|Globus Maritime Limited - Common Stock|S|N|N|100|N|N
 GLBZ|Glen Burnie Bancorp - Common Stock|S|N|N|100|N|N
 GLDD|Great Lakes Dredge & Dock Corporation - Common Stock|Q|N|N|100|N|N
 GLDI|Credit Suisse Gold Shares Covered Call Exchange Traded Notes|G|N|N|100|N|N
+GLEEU|Gladstone Acquisition Corp. - Unit|S|N|N|100|N|N
 GLG|TD Holdings, Inc. - Common Stock|S|N|N|100|N|N
 GLHA|Glass Houses Acquisition Corp. - Class A common stock|S|N|N|100|N|N
 GLHAU|Glass Houses Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -1977,9 +1979,6 @@ GROMW|Grom Social Enterprises Inc. - Warrants|S|N|N|100|N|N
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100|N|N
 GRPH|Graphite Bio, Inc. - Common Stock|G|N|N|100|N|N
 GRPN|Groupon, Inc. - Common Stock|Q|N|N|100|N|N
-GRSV|Gores Holdings V, Inc. - Common stock|S|N|N|100|N|N
-GRSVU|Gores Holdings V, Inc. - Unit|S|N|N|100|N|N
-GRSVW|Gores Holdings V, Inc. - Warrant|S|N|N|100|N|N
 GRTS|Gritstone bio, Inc. - Common Stock|Q|N|N|100|N|N
 GRTX|Galera Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GRUB|Just Eat Takeaway.com N.V. - American Depositary Shares|Q|N|N|100|N|N
@@ -2233,7 +2232,6 @@ ICLK|iClick Interactive Asia Group Limited - American Depositary Shares|G|N|N|10
 ICLN|iShares S&P Global Clean Energy Index Fund|G|N|N|100|Y|N
 ICLR|ICON plc - Ordinary Shares|Q|N|N|100|N|N
 ICMB|Investcorp Credit Management BDC, Inc. - Common Stock|Q|N|N|100|N|N
-ICON|Iconix Brand Group, Inc. - Common Stock|Q|N|N|100|N|N
 ICPT|Intercept Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ICUI|ICU Medical, Inc. - Common Stock|Q|N|N|100|N|N
 ICVX|Icosavax, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3209,6 +3207,7 @@ OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100|N|N
 OBLG|Oblong Inc. - Common Stock|S|N|N|100|N|N
 OBNK|Origin Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 OBSV|ObsEva SA - Common Shares|Q|N|N|100|N|N
+OBT|Orange County Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 OCAX|OCA Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 OCAXU|OCA Acquisition Corp. - Unit|S|N|N|100|N|N
 OCAXW|OCA Acquisition Corp. - Warrant|S|N|N|100|N|N
@@ -3506,6 +3505,7 @@ PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares|S|N|H|100|N|N
 PMGM|Priveterra Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 PMGMU|Priveterra Acquisition Corp. - Units|S|N|N|100|N|N
 PMGMW|Priveterra Acquisition Corp. - Warrant|S|N|N|100|N|N
+PMTS|CPI Card Group Inc. - Common Stock|G|N|N|100|N|N
 PMVP|PMV Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 PNBK|Patriot National Bancorp Inc. - Common Stock|G|N|N|100|N|N
 PNFP|Pinnacle Financial Partners, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4766,6 +4766,8 @@ WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 WKEY|WISeKey International Holding AG - American Depositary Shares|G|N|N|100|N|N
 WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100|N|N
 WKME|WalkMe Ltd. - Ordinary Shares|Q|N|N|100|N|N
+WKSP|Worksport, Ltd. - Common Stock|S|N|N|100|N|N
+WKSPW|Worksport, Ltd. - Warrant|S|N|N|100|N|N
 WLDN|Willdan Group, Inc. - Common Stock|G|N|N|100|N|N
 WLFC|Willis Lease Finance Corporation - Common Stock|G|N|N|100|N|N
 WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares|Q|N|N|100|N|N
@@ -4900,4 +4902,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0804202121:31|||||||
+File Creation Time: 0805202115:41|||||||
