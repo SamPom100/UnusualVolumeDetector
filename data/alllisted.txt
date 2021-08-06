@@ -142,7 +142,6 @@ AIRC,AIRC|Apartment Income REIT Corp. Common Stock
 AIRI,AIRI|Air Industries Group Common Stock
 AIT,AIT|Applied Industrial Technologies, Inc. Common Stock
 AIV,AIV|Apartment Investment and Management Company Common Stock
-AIW,AIW|Arlington Asset Investment Corp 6.625% Notes due 2023
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
 AJAX,AJAX|Ajax I Class A Ordinary Shares
@@ -2333,6 +2332,7 @@ MHNC,MHNC|Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO,MHO|M/I Homes, Inc. Common Stock
 MIC,MIC|Macquarie Infrastructure Corporation Common Stock
 MIN,MIN|MFS Intermediate Income Trust Common Stock
+MIO,MIO|Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock
 MIT,MIT|Mason Industrial Technology, Inc. Class A Common Stock
 MIT.U,MIT.U|Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant to purchase one share of Class A common stock
 MIT.W,MIT.W|Mason Industrial Technology, Inc. Redeemable warrants, exercisable for one share of Class A common stock for $11.50 per share
@@ -3132,7 +3132,9 @@ RODI,RODI|iPath Return on Disability ETN
 ROG,ROG|Rogers Corporation Common Stock
 ROK,ROK|Rockwell Automation, Inc. Common Stock
 ROL,ROL|Rollins, Inc. Common Stock
+RONI,RONI|Rice Acquisition Corp. II Class A Ordinary Shares
 RONI.U,RONI.U|Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+RONI.W,RONI.W|Rice Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 ROP,ROP|Roper Technologies, Inc. Common Stock
 ROSS,ROSS|Ross Acquisition Corp II Class A Ordinary Shares
 ROSS.U,ROSS.U|Ross Acquisition Corp II Units
@@ -3268,6 +3270,7 @@ SHO$I,SHO$I|Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable 
 SHOP,SHOP|Shopify Inc. Class A Subordinate Voting Shares
 SHW,SHW|Sherwin-Williams Company (The) Common Stock
 SI,SI|Silvergate Capital Corporation Class A Common Stock
+SI$A,SI$A|Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
 SID,SID|Companhia Siderurgica Nacional S.A. Common Stock
 SIF,SIF|SIFCO Industries, Inc. Common Stock
 SIG,SIG|Signet Jewelers Limited Common Shares
@@ -4063,6 +4066,7 @@ ADER,ADER|26 Capital Acquisition Corp. - Class A Common Stock
 ADERU,ADERU|26 Capital Acquisition Corp. - Unit
 ADERW,ADERW|26 Capital Acquisition Corp. - Warrant
 ADES,ADES|Advanced Emissions Solutions, Inc. - Common Stock
+ADGI,ADGI|Adagio Therapeutics, Inc. - Common Stock
 ADI,ADI|Analog Devices, Inc. - Common Stock
 ADIL,ADIL|Adial Pharmaceuticals, Inc - Common Stock
 ADILW,ADILW|Adial Pharmaceuticals, Inc - Warrant
@@ -4802,7 +4806,6 @@ CHKEL,CHKEL|Chesapeake Energy Corporation - Class C Warrants
 CHKEW,CHKEW|Chesapeake Energy Corporation - Class A Warrants
 CHKEZ,CHKEZ|Chesapeake Energy Corporation - Class B Warrants
 CHKP,CHKP|Check Point Software Technologies Ltd. - Ordinary Shares
-CHMA,CHMA|Chiasma, Inc. - Common Stock
 CHMG,CHMG|Chemung Financial Corp  - Common Stock
 CHNG,CHNG|Change Healthcare Inc. - Common Stock
 CHNGU,CHNGU|Change Healthcare Inc. - Tangible Equity Units
@@ -6849,6 +6852,7 @@ NODK,NODK|NI Holdings, Inc. - Common Stock
 NOTV,NOTV|Inotiv, Inc. - Common Stock
 NOVN,NOVN|Novan, Inc. - Common Stock
 NOVT,NOVT|Novanta Inc. - Common Shares
+NOVVU,NOVVU|Nova Vision Acquisition Corp. - Unit
 NPCE,NPCE|Neuropace, Inc. - Common Stock
 NRAC,NRAC|Noble Rock Acquisition Corporation - Class A Ordinary share
 NRACU,NRACU|Noble Rock Acquisition Corporation - Unit
@@ -7471,6 +7475,7 @@ RNLX,RNLX|Renalytix AI plc - American Depositary Shares
 RNST,RNST|Renasant Corporation - Common Stock
 RNWK,RNWK|RealNetworks, Inc. - Common Stock
 ROAD,ROAD|Construction Partners, Inc. - Common Stock
+ROCGU,ROCGU|Roth CH Acquisition IV Co. - Unit
 ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
 ROCR,ROCR|Roth CH Acquisition III Co. - Common stock
 ROCRU,ROCRU|Roth CH Acquisition III Co. - Unit
@@ -7504,6 +7509,7 @@ RUN,RUN|Sunrun Inc. - Common Stock
 RUSHA,RUSHA|Rush Enterprises, Inc. - Class A Common Stock
 RUSHB,RUSHB|Rush Enterprises, Inc. - Class B Common Stock
 RUTH,RUTH|Ruth's Hospitality Group, Inc. - Common Stock
+RVACU,RVACU|Riverview Acquisition Corp. - Unit
 RVMD,RVMD|Revolution Medicines, Inc. - Common Stock
 RVNC,RVNC|Revance Therapeutics, Inc. - Common Stock
 RVPH,RVPH|Reviva Pharmaceuticals Holdings, Inc. - Common Stock
@@ -8463,7 +8469,9 @@ ZNTEW,ZNTEW|Zanite Acquisition Corp. - Warrant
 ZNTL,ZNTL|Zentalis Pharmaceuticals, Inc. - common stock
 ZS,ZS|Zscaler, Inc. - Common Stock
 ZSAN,ZSAN|Zosano Pharma Corporation - Common Stock
+ZT,ZT|Zimmer Energy Transition Acquisition Corp. - Class A Common Stock
 ZTAQU,ZTAQU|Zimmer Energy Transition Acquisition Corp. - Units, consisting of one share of Class A common stock and one-third of one warrant
+ZTAQW,ZTAQW|Zimmer Energy Transition Acquisition Corp. - Warrants
 ZUMZ,ZUMZ|Zumiez Inc. - Common Stock
 ZVO,ZVO|Zovio Inc. - Common Stock
 ZVZZC,ZVZZC|NASDAQ TEST STOCK Nextshares Test Security

@@ -174,7 +174,6 @@ AIRC|Apartment Income REIT Corp. Common Stock|N|AIRC|N|100|N|AIRC
 AIRI|Air Industries Group Common Stock|A|AIRI|N|100|N|AIRI
 AIT|Applied Industrial Technologies, Inc. Common Stock|N|AIT|N|100|N|AIT
 AIV|Apartment Investment and Management Company Common Stock|N|AIV|N|100|N|AIV
-AIW|Arlington Asset Investment Corp 6.625% Notes due 2023|N|AIW|N|100|N|AIW
 AIZ|Assurant, Inc. Common Stock|N|AIZ|N|100|N|AIZ
 AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061|N|AIZN|N|100|N|AIZN
 AJAX|Ajax I Class A Ordinary Shares|N|AJAX|N|100|N|AJAX
@@ -3563,6 +3562,7 @@ MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
 MINN|Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ETF|Z|MINN|Y|100|N|MINN
 MINT|PIMCO Enhanced Short Maturity Active Exchange-Traded Fund|P|MINT|Y|100|N|MINT
+MIO|Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock|N|MIO|N|100|N|MIO
 MIT|Mason Industrial Technology, Inc. Class A Common Stock|N|MIT|N|100|N|MIT
 MIT.U|Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant to purchase one share of Class A common stock|N|MIT.U|N|100|N|MIT=
 MIT.W|Mason Industrial Technology, Inc. Redeemable warrants, exercisable for one share of Class A common stock for $11.50 per share|N|MIT.WS|N|100|N|MIT+
@@ -4691,7 +4691,9 @@ ROKT|SPDR S&P Kensho Final Frontiers ETF|P|ROKT|Y|100|N|ROKT
 ROL|Rollins, Inc. Common Stock|N|ROL|N|100|N|ROL
 ROM|ProShares Ultra Technology|P|ROM|Y|100|N|ROM
 ROMO|Strategy Shares Newfound/ReSolve Robust Momentum ETF|Z|ROMO|Y|100|N|ROMO
+RONI|Rice Acquisition Corp. II Class A Ordinary Shares|N|RONI|N|100|N|RONI
 RONI.U|Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|RONI.U|N|100|N|RONI=
+RONI.W|Rice Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|RONI.WS|N|100|N|RONI+
 ROOF|IQ US Real Estate Small Cap ETF|P|ROOF|Y|100|N|ROOF
 ROP|Roper Technologies, Inc. Common Stock|N|ROP|N|100|N|ROP
 RORO|ATAC US Rotation ETF|P|RORO|Y|100|N|RORO
@@ -4926,6 +4928,7 @@ SHYD|VanEck Vectors ETF Trust VanEck Vectors Short High Yield Muni ETF|Z|SHYD|Y|
 SHYG|iShares 0-5 Year High Yield Corporate Bond ETF|P|SHYG|Y|100|N|SHYG
 SHYL|Xtrackers Short Duration High Yield Bond ETF|P|SHYL|Y|100|N|SHYL
 SI|Silvergate Capital Corporation Class A Common Stock|N|SI|N|100|N|SI
+SI$A|Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A|N|SIpA|N|100|N|SI-A
 SID|Companhia Siderurgica Nacional S.A. Common Stock|N|SID|N|100|N|SID
 SIF|SIFCO Industries, Inc. Common Stock|A|SIF|N|100|N|SIF
 SIG|Signet Jewelers Limited Common Shares|N|SIG|N|100|N|SIG
@@ -6117,4 +6120,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0805202115:41||||||
+File Creation Time: 0806202112:11||||||
