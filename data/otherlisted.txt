@@ -793,7 +793,7 @@ BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026|N|BWSN|N|10
 BWX|SPDR Bloomberg Barclays Intl Treasury Bd|P|BWX|Y|100|N|BWX
 BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Bloomberg Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
-BX|The Blackstone Group Inc. Common Stock|N|BX|N|100|N|BX
+BX|Blackstone Inc. Common Stock|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
 BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest|N|BXMX|N|100|N|BXMX
@@ -2587,7 +2587,6 @@ HIGA.W|H.I.G. Acquisition Corp. Warrants, each whole warrant exercisable for one
 HII|Huntington Ingalls Industries, Inc. Common Stock|N|HII|N|100|N|HII
 HIL|Hill International, Inc. Common Stock|N|HIL|N|100|N|HIL
 HIMS|Hims & Hers Health, Inc. Class A Common Stock|N|HIMS|N|100|N|HIMS
-HIMS.W|Hims & Hers Health, Inc.. Warrants|N|HIMS.WS|N|100|N|HIMS+
 HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock|N|HIO|N|100|N|HIO
 HIPO|Hippo Holdings Inc. Common Stock|N|HIPO|N|100|N|HIPO
 HIPO.W|Hippo Holdings Inc. Warrants|N|HIPO.WS|N|100|N|HIPO+
@@ -3876,6 +3875,7 @@ NOMD|Nomad Foods Limited Ordinary Shares|N|NOMD|N|100|N|NOMD
 NORW|Global X MSCI Norway ETF|P|NORW|Y|100|N|NORW
 NOV|NOV Inc. Common Stock|N|NOV|N|100|N|NOV
 NOVA|Sunnova Energy International Inc. Common Stock|N|NOVA|N|100|N|NOVA
+NOVZ|TrueShares Structured Outcome (November) ETF|Z|NOVZ|Y|100|N|NOVZ
 NOW|ServiceNow, Inc. Common Stock|N|NOW|N|100|N|NOW
 NP|Neenah, Inc. Common Stock|N|NP|N|100|N|NP
 NPCT|Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest|N|NPCT|N|100|N|NPCT
@@ -3962,7 +3962,6 @@ NUVB.W|Nuvation Bio Inc. Warrants|N|NUVB.WS|N|100|N|NUVB+
 NUW|Nuveen AMT-Free Municipal Value Fund|N|NUW|N|100|N|NUW
 NVG|Nuveen AMT-Free Municipal Credit Income Fund |N|NVG|N|100|N|NVG
 NVGS|Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)|N|NVGS|N|100|N|NVGS
-NVMZ|TrueShares Structured Outcome (November) ETF|Z|NVMZ|Y|100|N|NVMZ
 NVO|Novo Nordisk A/S Common Stock|N|NVO|N|100|N|NVO
 NVQ|QRAFT AI-Enhanced US Next Value ETF|P|NVQ|Y|100|N|NVQ
 NVR|NVR, Inc. Common Stock|N|NVR|N|10|N|NVR
@@ -6120,4 +6119,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0806202121:31||||||
+File Creation Time: 0809202112:11||||||

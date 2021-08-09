@@ -625,7 +625,7 @@ BWG,BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWL.A,BWL.A|Bowl America, Inc. Class A Common Stock
 BWSN,BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026
 BWXT,BWXT|BWX Technologies, Inc. Common Stock
-BX,BX|The Blackstone Group Inc. Common Stock
+BX,BX|Blackstone Inc. Common Stock
 BXC,BXC|Bluelinx Holdings Inc. Common Stock
 BXMT,BXMT|Blackstone Mortgage Trust, Inc. Common Stock
 BXMX,BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest
@@ -1780,7 +1780,6 @@ HIGA.W,HIGA.W|H.I.G. Acquisition Corp. Warrants, each whole warrant exercisable 
 HII,HII|Huntington Ingalls Industries, Inc. Common Stock
 HIL,HIL|Hill International, Inc. Common Stock
 HIMS,HIMS|Hims & Hers Health, Inc. Class A Common Stock
-HIMS.W,HIMS.W|Hims & Hers Health, Inc.. Warrants
 HIO,HIO|Western Asset High Income Opportunity Fund, Inc. Common Stock
 HIPO,HIPO|Hippo Holdings Inc. Common Stock
 HIPO.W,HIPO.W|Hippo Holdings Inc. Warrants
@@ -4231,7 +4230,6 @@ AMOT,AMOT|Allied Motion Technologies, Inc. - Common Stock
 AMPG,AMPG|Amplitech Group, Inc. - Common Stock
 AMPGW,AMPGW|Amplitech Group, Inc. - Warrants
 AMPH,AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock
-AMRB,AMRB|American River Bankshares - Common Stock
 AMRK,AMRK|A-Mark Precious Metals, Inc. - Common Stock
 AMRN,AMRN|Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share
 AMRS,AMRS|Amyris, Inc. - Common Stock
@@ -6204,7 +6202,9 @@ JRJC,JRJC|China Finance Online Co. Limited - American Depositary Shares
 JRSH,JRSH|Jerash Holdings (US), Inc. - Common Stock
 JRVR,JRVR|James River Group Holdings, Ltd. - Common Shares
 JSM,JSM|Navient Corporation - 6% Senior Notes due December 15, 2043
+JUGG,JUGG|Jaws Juggernaut Acquisition Corporation - Class A Ordinary Share
 JUGGU,JUGGU|Jaws Juggernaut Acquisition Corporation - Unit
+JUGGW,JUGGW|Jaws Juggernaut Acquisition Corporation - Warrant
 JUPW,JUPW|Jupiter Wellness, Inc. - Common Stock
 JUPWW,JUPWW|Jupiter Wellness, Inc. - Warrant
 JVA,JVA|Coffee Holding Co., Inc. - Common Stock
@@ -7448,6 +7448,7 @@ RILYN,RILYN|B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026
 RILYO,RILYO|B. Riley Financial, Inc. - 6.75% Senior Notes due 2024
 RILYP,RILYP|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock
 RILYT,RILYT|B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
+RILYZ,RILYZ|B. Riley Financial, Inc. - 5.25% Senior Notes due 2028
 RIOT,RIOT|Riot Blockchain, Inc - Common Stock
 RIVE,RIVE|Riverview Financial Corporation - Common Stock
 RKDA,RKDA|Arcadia Biosciences, Inc. - Common Stock
@@ -8041,7 +8042,9 @@ TRMK,TRMK|Trustmark Corporation - Common Stock
 TRMR,TRMR|Tremor International Ltd. - American Depository Shares
 TRMT,TRMT|Tremont Mortgage Trust - Common Shares of Beneficial Interest
 TRNS,TRNS|Transcat, Inc. - Common Stock
+TRON,TRON|Corner Growth Acquisition Corp. 2 - Class A Ordinary Share
 TRONU,TRONU|Corner Growth Acquisition Corp. 2 - Units
+TRONW,TRONW|Corner Growth Acquisition Corp. 2 - Warrants
 TROW,TROW|T. Rowe Price Group, Inc. - Common Stock
 TRS,TRS|TriMas Corporation - Common Stock
 TRST,TRST|TrustCo Bank Corp NY - Common Stock
