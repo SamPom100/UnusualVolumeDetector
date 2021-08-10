@@ -2226,7 +2226,7 @@ LPX,LPX|Louisiana-Pacific Corporation Common Stock
 LRN,LRN|Stride, Inc. Common Stock
 LSF,LSF|Laird Superfood, Inc. Common Stock
 LSI,LSI|Life Storage, Inc. Common Stock
-LSPD,LSPD|Lightspeed POS Inc. Subordinate Voting Shares
+LSPD,LSPD|Lightspeed Commerce Inc. Subordinate Voting Shares
 LTC,LTC|LTC Properties, Inc. Common Stock
 LTHM,LTHM|Livent Corporation Common Stock
 LU,LU|Lufax Holding Ltd American Depositary Shares, two of which representing one Ordinary Share
@@ -4146,6 +4146,7 @@ AHAC,AHAC|Alpha Healthcare Acquisition Corp. - Common Stock
 AHACU,AHACU|Alpha Healthcare Acquisition Corp. - Unit
 AHACW,AHACW|Alpha Healthcare Acquisition Corp. - Warrant
 AHCO,AHCO|AdaptHealth Corp.  - Class A Common Stock
+AHPAU,AHPAU|Avista Public Acquisition Corp. II - Unit
 AHPI,AHPI|Allied Healthcare Products, Inc. - Common Stock
 AIH,AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares
 AIHS,AIHS|Senmiao Technology Limited - Common Stock
@@ -4339,6 +4340,7 @@ ASMB,ASMB|Assembly Biosciences, Inc. - Common Stock
 ASML,ASML|ASML Holding N.V. - New York Registry Shares
 ASND,ASND|Ascendis Pharma A/S - American Depositary Shares
 ASO,ASO|Academy Sports and Outdoors, Inc. - Common Stock
+ASPAU,ASPAU|Abri SPAC I, Inc. - Unit
 ASPC,ASPC|Alpha Capital Acquisition Company - One Class A Ordinary Share
 ASPCU,ASPCU|Alpha Capital Acquisition Company - Unit
 ASPCW,ASPCW|Alpha Capital Acquisition Company - Warrant
@@ -4942,6 +4944,7 @@ COVAU,COVAU|COVA Acquisition Corp. - Unit
 COVAW,COVAW|COVA Acquisition Corp. - Warrants to purchase Class A ordinary shares
 COWN,COWN|Cowen Inc. - Class A Common Stock
 COWNL,COWNL|Cowen Inc. - 7.75% Senior Notes due 2033
+CPAAU,CPAAU|Conyers Park III Acquisition Corp. - Unit
 CPAR,CPAR|Catalyst Partners Acquisition Corp. - Class A Ordinary Share
 CPARU,CPARU|Catalyst Partners Acquisition Corp. - Unit
 CPARW,CPARW|Catalyst Partners Acquisition Corp. - Warrant
@@ -4962,6 +4965,7 @@ CRBP,CRBP|Corbus Pharmaceuticals Holdings, Inc. - Common Stock
 CRBU,CRBU|Caribou Biosciences, Inc. - Common Stock
 CRCT,CRCT|Cricut, Inc. - Class A common stock
 CRDF,CRDF|Cardiff Oncology, Inc. - Common Stock
+CRDL,CRDL|Cardiol Therapeutics Inc. - Class A Common Shares
 CREE,CREE|Cree, Inc. - Common Stock
 CREG,CREG|China Recycling Energy Corporation - Common Stock
 CRESW,CRESW|Cresud S.A.C.I.F. y A. - Warrant
@@ -5271,6 +5275,7 @@ ELMSW,ELMSW|Electric Last Mile Solutions, Inc. - Warrant
 ELOX,ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock
 ELSE,ELSE|Electro-Sensors, Inc. - Common Stock
 ELTK,ELTK|Eltek Ltd. - Ordinary Shares
+ELYM,ELYM|Eliem Therapeutics, Inc - Common Stock
 ELYS,ELYS|Elys Game Technology, Corp.  - Common Stock
 EM,EM|Smart Share Global Limited - American Depositary Shares
 EMCF,EMCF|Emclaire Financial Corp - Common Stock
@@ -7206,6 +7211,7 @@ PLXP,PLXP|PLx Pharma Inc. - Common Stock
 PLXS,PLXS|Plexus Corp. - Common Stock
 PLYA,PLYA|Playa Hotels & Resorts N.V. - Ordinary Shares
 PMBC,PMBC|Pacific Mercantile Bancorp - Common Stock
+PMCB,PMCB|PharmaCyte  Biotech, Inc. - Common Stock
 PMD,PMD|Psychemedics Corporation - Common Stock
 PME,PME|Pingtan Marine Enterprise Ltd. - Ordinary Shares
 PMGM,PMGM|Priveterra Acquisition Corp. - Class A Common Stock
@@ -7760,8 +7766,6 @@ SPKAU,SPKAU|SPK Acquisition Corp - Units
 SPKB,SPKB|Silver Spike Acquisition Corp II - Class A Ordinary Shares
 SPKBU,SPKBU|Silver Spike Acquisition Corp II - Units
 SPKBW,SPKBW|Silver Spike Acquisition Corp II - Warrant
-SPKE,SPKE|Spark Energy, Inc. - Class A Common Stock
-SPKEP,SPKEP|Spark Energy, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
 SPLK,SPLK|Splunk Inc. - Common Stock
 SPNE,SPNE|SeaSpine Holdings Corporation - Common Stock
 SPNS,SPNS|Sapiens International Corporation N.V. - Common Shares
@@ -8212,9 +8216,11 @@ VERY,VERY|Vericity, Inc. - Common Stock
 VEV,VEV|Vicinity Motor Corp. - Common Stock
 VFF,VFF|Village Farms International, Inc. - Common Shares
 VG,VG|Vonage Holdings Corp. - Common Stock
+VIA,VIA|Via Renewables, Inc. - Class A Common Stock
 VIAC,VIAC|ViacomCBS Inc. - Class B Common Stock
 VIACA,VIACA|ViacomCBS Inc. - Class A Common Stock
 VIACP,VIACP|ViacomCBS Inc. - 5.75% Series A Mandatory Convertible Preferred Stock
+VIASP,VIASP|Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock
 VIAV,VIAV|Viavi Solutions Inc. - Common Stock
 VICR,VICR|Vicor Corporation - Common Stock
 VIEW,VIEW|View, Inc. - Class A Common Stock
