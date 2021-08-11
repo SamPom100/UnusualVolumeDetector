@@ -1639,7 +1639,9 @@ GLP$A,GLP$A|Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative 
 GLP$B,GLP$B|Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests
 GLQ,GLQ|Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest
 GLT,GLT|Glatfelter Corporation Common Stock
+GLTA,GLTA|Galata Acquisition Corp. Class A Ordinary Shares
 GLTA.U,GLTA.U|Galata Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant
+GLTA.W,GLTA.W|Galata Acquisition Corp. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50
 GLU,GLU|Gabelli Global Utility Common Shares of Beneficial Ownership
 GLU$A,GLU$A|The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares
 GLU$B,GLU$B|The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares
@@ -2042,6 +2044,8 @@ JNJ,JNJ|Johnson & Johnson Common Stock
 JNPR,JNPR|Juniper Networks, Inc. Common Stock
 JO,JO|iPathA Series B Bloomberg Coffee Subindex Total Return ETN
 JOB,JOB|GEE Group Inc. Common Stock
+JOBY,JOBY|Joby Aviation, Inc. Common Stock
+JOBY.W,JOBY.W|Joby Aviation, Inc. Warrants
 JOE,JOE|St. Joe Company (The) Common Stock
 JOF,JOF|Japan Smaller Capitalization Fund Inc Common Stock
 JP,JP|Jupai Holdings Limited American Depositary Shares, each representing six ordinary shares
@@ -2192,6 +2196,8 @@ LHC,LHC|Leo Holdings Corp. II Class A Ordinary Shares
 LHC.U,LHC.U|Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 LHC.W,LHC.W|Leo Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 LHX,LHX|L3Harris Technologies, Inc. Common Stock
+LICY,LICY|Li-Cycle Holdings Corp. Common Shares
+LICY.W,LICY.W|Li-Cycle Holdings Corp. Redeemable Warrants, each whole warrant exercisable for one Common Share at an exercise price of $11.50
 LII,LII|Lennox International, Inc. Common Stock
 LIII,LIII|Leo Holdings III Corp. Class A Ordinary Shares
 LIII.U,LIII.U|Leo Holdings III Corp. Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant
@@ -2804,9 +2810,6 @@ PCPC.U,PCPC.U|Periphas Capital Partnering Corporation CAPS, each consisting of o
 PCPC.W,PCPC.W|Periphas Capital Partnering Corporation Warrants
 PCQ,PCQ|PIMCO California Municipal Income Fund Common Stock
 PD,PD|PagerDuty, Inc. Common Stock
-PDAC,PDAC|Peridot Acquisition Corp. Class A Ordinary Shares
-PDAC.U,PDAC.U|Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant
-PDAC.W,PDAC.W|Peridot Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 PDI,PDI|PIMCO Dynamic Income Fund Common Stock
 PDM,PDM|Piedmont Office Realty Trust, Inc. Class A Common Stock
 PDO,PDO|PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest
@@ -2929,7 +2932,6 @@ PRE$J,PRE$J|PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred
 PRG,PRG|PROG Holdings, Inc. Common Stock
 PRGO,PRGO|Perrigo Company plc Ordinary Shares
 PRI,PRI|Primerica, Inc. Common Stock
-PRIF$A,PRIF$A|Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025
 PRIF$D,PRIF$D|Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029
 PRIF$E,PRIF$E|Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024
 PRIF$F,PRIF$F|Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027
@@ -3124,7 +3126,6 @@ RNG,RNG|RingCentral, Inc. Class A Common Stock
 RNGR,RNGR|Ranger Energy Services, Inc. Class A Common Stock
 RNP,RNP|Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares
 RNR,RNR|RenaissanceRe Holdings Ltd. Common Stock
-RNR$E,RNR$E|RenaissanceRe Holdings Ltd. 5.375% Series E Preference Shares
 RNR$F,RNR$F|RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share
 RNR$G,RNR$G|RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares
 RODI,RODI|iPath Return on Disability ETN
@@ -3153,9 +3154,6 @@ RSF,RSF|RiverNorth Specialty Finance Corporation
 RSG,RSG|Republic Services, Inc. Common Stock
 RSI,RSI|Rush Street Interactive, Inc. Class A Common Stock
 RSKD,RSKD|Riskified Ltd. Class A Ordinary Shares
-RTP,RTP|Reinvent Technology Partners Class A Ordinary Shares
-RTP.U,RTP.U|Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
-RTP.W,RTP.W|Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 RTX,RTX|Raytheon Technologies Corporation Common Stock
 RVI,RVI|Retail Value Inc. Common Stock 
 RVLV,RVLV|Revolve Group, Inc. Class A Common Stock
@@ -3902,6 +3900,7 @@ WPG$H,WPG$H|Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Pref
 WPG$I,WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred SBI
 WPM,WPM|Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP|WPP plc American Depositary Shares
+WQGA.U,WQGA.U|World Quantum Growth Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant to acquire one Class A ordinary share
 WRAC.U,WRAC.U|Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant
 WRB,WRB|W.R. Berkley Corporation Common Stock
 WRB$E,WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058
@@ -4475,7 +4474,6 @@ BCOV,BCOV|Brightcove Inc. - Common Stock
 BCOW,BCOW|1895 Bancorp of Wisconsin, Inc. - Common Stock
 BCPC,BCPC|Balchem Corporation - Common Stock
 BCRX,BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock
-BCTG,BCTG|BCTG Acquisition Corp. - Common Stock
 BCTX,BCTX|BriaCell Therapeutics Corp. - Common Shares
 BCTXW,BCTXW|BriaCell Therapeutics Corp. - Warrant
 BCYC,BCYC|Bicycle Therapeutics plc - American Depositary Shares
@@ -4905,6 +4903,7 @@ CNSP,CNSP|CNS Pharmaceuticals, Inc. - Common Stock
 CNTA,CNTA|Centessa Pharmaceuticals plc - American Depositary Shares
 CNTB,CNTB|Connect Biopharma Holdings Limited - American Depositary Shares
 CNTG,CNTG|Centogene N.V. - Common Shares
+CNTQU,CNTQU|Chardan NexTech Acquisition 2 Corp. - Unit
 CNTY,CNTY|Century Casinos, Inc. - Common Stock
 CNXC,CNXC|Concentrix Corporation - Common Stock
 CNXN,CNXN|PC Connection, Inc. - Common Stock
@@ -5101,6 +5100,7 @@ DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
 DCRC,DCRC|Decarbonization Plus Acquisition Corporation III - Class A Common Stock
 DCRCU,DCRCU|Decarbonization Plus Acquisition Corporation III - Unit
 DCRCW,DCRCW|Decarbonization Plus Acquisition Corporation III - Warrant
+DCRDU,DCRDU|Decarbonization Plus Acquisition Corporation IV - Unit
 DCRN,DCRN|Decarbonization Plus Acquisition Corporation II - Class A Common stock
 DCRNU,DCRNU|Decarbonization Plus Acquisition Corporation II - Unit
 DCRNW,DCRNW|Decarbonization Plus Acquisition Corporation II - Warrant
@@ -7147,6 +7147,8 @@ PERI,PERI|Perion Network Ltd - Ordinary Shares
 PESI,PESI|Perma-Fix Environmental Services, Inc. - Common Stock
 PETQ,PETQ|PetIQ, Inc. - Class A Common Stock
 PETS,PETS|PetMed Express, Inc. - Common Stock
+PETV,PETV|PetVivo Holdings, Inc. - Common Stock
+PETVW,PETVW|PetVivo Holdings, Inc. - Warrant
 PETZ,PETZ|TDH Holdings, Inc. - Common Shares
 PFBC,PFBC|Preferred Bank - Common Stock
 PFBI,PFBI|Premier Financial Bancorp, Inc. - Common Stock
@@ -7230,6 +7232,7 @@ PNTG,PNTG|The Pennant Group, Inc. - Common Stock
 POAI,POAI|Predictive Oncology Inc. - Common Stock
 PODD,PODD|Insulet Corporation - Common Stock
 POLA,POLA|Polar Power, Inc. - Common Stock
+PONOU,PONOU|Pono Capital Corp - Unit
 POOL,POOL|Pool Corporation - Common Stock
 POSH,POSH|Poshmark, Inc. - Class A Common Stock
 POW,POW|Powered Brands - Class A Ordinary Shares
@@ -8021,12 +8024,14 @@ TMTSU,TMTSU|Spartacus Acquisition Corporation - Unit
 TMTSW,TMTSW|Spartacus Acquisition Corporation - Warrant
 TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
+TNGX,TNGX|Tango Therapeutics, Inc. - Common Stock
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNYA,TNYA|Tenaya Therapeutics, Inc. - Common Stock
 TOMZ,TOMZ|TOMI Environmental Solutions, Inc. - Common Stock
 TOPS,TOPS|TOP Ships Inc. - Common Stock
 TOUR,TOUR|Tuniu Corporation - American Depositary Shares
 TOWN,TOWN|Towne Bank - Common Stock
+TPBAU,TPBAU|TPB Acquisition Corporation I - Unit
 TPIC,TPIC|TPI Composites, Inc. - Common Stock
 TPST,TPST|Tempest Therapeutics, Inc. - Common Stock
 TPTX,TPTX|Turning Point Therapeutics, Inc. - Common stock
@@ -8192,6 +8197,7 @@ VCKAU,VCKAU|Vickers Vantage Corp. I - Unit
 VCKAW,VCKAW|Vickers Vantage Corp. I - Warrant
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
+VCXAU,VCXAU|10X Capital Venture Acquisition Corp. II - Unit
 VCYT,VCYT|Veracyte, Inc. - Common Stock
 VECO,VECO|Veeco Instruments Inc. - Common Stock
 VECT,VECT|VectivBio Holding AG - Ordinary Shares

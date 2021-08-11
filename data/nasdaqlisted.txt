@@ -497,7 +497,6 @@ BCOV|Brightcove Inc. - Common Stock|Q|N|N|100|N|N
 BCOW|1895 Bancorp of Wisconsin, Inc. - Common Stock|S|N|N|100|N|N
 BCPC|Balchem Corporation - Common Stock|Q|N|N|100|N|N
 BCRX|BioCryst Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-BCTG|BCTG Acquisition Corp. - Common Stock|S|N|N|100|N|N
 BCTX|BriaCell Therapeutics Corp. - Common Shares|S|N|N|100|N|N
 BCTXW|BriaCell Therapeutics Corp. - Warrant|S|N|N|100|N|N
 BCYC|Bicycle Therapeutics plc - American Depositary Shares|Q|N|N|100|N|N
@@ -991,6 +990,7 @@ CNSP|CNS Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 CNTA|Centessa Pharmaceuticals plc - American Depositary Shares|Q|N|N|100|N|N
 CNTB|Connect Biopharma Holdings Limited - American Depositary Shares|G|N|N|100|N|N
 CNTG|Centogene N.V. - Common Shares|G|N|N|100|N|N
+CNTQU|Chardan NexTech Acquisition 2 Corp. - Unit|S|N|N|100|N|N
 CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100|N|N
 CNXC|Concentrix Corporation - Common Stock|Q|N|N|100|N|N
 CNXN|PC Connection, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1197,6 +1197,7 @@ DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 DCRC|Decarbonization Plus Acquisition Corporation III - Class A Common Stock|S|N|N|100|N|N
 DCRCU|Decarbonization Plus Acquisition Corporation III - Unit|S|N|N|100|N|N
 DCRCW|Decarbonization Plus Acquisition Corporation III - Warrant|S|N|N|100|N|N
+DCRDU|Decarbonization Plus Acquisition Corporation IV - Unit|S|N|N|100|N|N
 DCRN|Decarbonization Plus Acquisition Corporation II - Class A Common stock|S|N|N|100|N|N
 DCRNU|Decarbonization Plus Acquisition Corporation II - Unit|S|N|N|100|N|N
 DCRNW|Decarbonization Plus Acquisition Corporation II - Warrant|S|N|N|100|N|N
@@ -3430,6 +3431,8 @@ PERI|Perion Network Ltd - Ordinary Shares|Q|N|N|100|N|N
 PESI|Perma-Fix Environmental Services, Inc. - Common Stock|S|N|N|100|N|N
 PETQ|PetIQ, Inc. - Class A Common Stock|Q|N|N|100|N|N
 PETS|PetMed Express, Inc. - Common Stock|Q|N|N|100|N|N
+PETV|PetVivo Holdings, Inc. - Common Stock|S|N|N|100|N|N
+PETVW|PetVivo Holdings, Inc. - Warrant|S|N|N|100|N|N
 PETZ|TDH Holdings, Inc. - Common Shares|S|N|N|100|N|N
 PEY|Invesco High Yield Equity Dividend Achievers ETF|G|N|N|100|Y|N
 PEZ|Invesco DWA Consumer Cyclicals Momentum ETF|G|N|N|100|Y|N
@@ -3527,6 +3530,7 @@ PNTG|The Pennant Group, Inc. - Common Stock|Q|N|N|100|N|N
 POAI|Predictive Oncology Inc. - Common Stock|S|N|N|100|N|N
 PODD|Insulet Corporation - Common Stock|Q|N|N|100|N|N
 POLA|Polar Power, Inc. - Common Stock|S|N|N|100|N|N
+PONOU|Pono Capital Corp - Unit|S|N|N|100|N|N
 POOL|Pool Corporation - Common Stock|Q|N|N|100|N|N
 POSH|Poshmark, Inc. - Class A Common Stock|Q|N|N|100|N|N
 POTX|Global X Cannabis ETF|G|N|N|100|Y|N
@@ -4400,12 +4404,14 @@ TMTSU|Spartacus Acquisition Corporation - Unit|S|N|N|100|N|N
 TMTSW|Spartacus Acquisition Corporation - Warrant|S|N|N|100|N|N
 TMUS|T-Mobile US, Inc. - Common Stock|Q|N|N|100|N|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
+TNGX|Tango Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|G|N|N|100|N|N
 TNYA|Tenaya Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 TOMZ|TOMI Environmental Solutions, Inc. - Common Stock|S|N|N|100|N|N
 TOPS|TOP Ships Inc. - Common Stock|S|N|N|100|N|N
 TOUR|Tuniu Corporation - American Depositary Shares|G|N|N|100|N|N
 TOWN|Towne Bank - Common Stock|Q|N|N|100|N|N
+TPBAU|TPB Acquisition Corporation I - Unit|S|N|N|100|N|N
 TPIC|TPI Composites, Inc. - Common Stock|G|N|N|100|N|N
 TPST|Tempest Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TPTX|Turning Point Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
@@ -4584,6 +4590,7 @@ VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCNX|Vaccinex, Inc. - Common Stock|S|N|N|100|N|N
 VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCTR|Victory Capital Holdings, Inc. - Common Stock|Q|N|N|100|N|N
+VCXAU|10X Capital Venture Acquisition Corp. II - Unit|S|N|N|100|N|N
 VCYT|Veracyte, Inc. - Common Stock|G|N|N|100|N|N
 VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100|N|N
 VECT|VectivBio Holding AG - Ordinary Shares|Q|N|N|100|N|N
@@ -4917,4 +4924,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0810202121:31|||||||
+File Creation Time: 0811202112:10|||||||
