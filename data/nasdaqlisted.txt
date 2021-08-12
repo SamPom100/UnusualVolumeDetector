@@ -307,7 +307,7 @@ APTMU|Alpha Partners Technology Merger Corp. - Unit|S|N|N|100|N|N
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100|N|N
 APTX|Aptinyx Inc. - Common Stock|Q|N|N|100|N|N
 APVO|Aptevo Therapeutics Inc. - Common Stock|S|N|N|100|N|N
-APWC|Asia Pacific Wire  - Common shares, Par value .01 per share|S|N|N|100|N|N
+APWC|Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share|S|N|N|100|N|N
 APYX|Apyx Medical Corporation - Common Stock|Q|N|N|100|N|N
 AQB|AquaBounty Technologies, Inc. - Common Stock|S|N|N|100|N|N
 AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100|N|N
@@ -3339,6 +3339,7 @@ OTTR|Otter Tail Corporation - Common Stock|Q|N|N|100|N|N
 OVBC|Ohio Valley Banc Corp. - Common Stock|G|N|N|100|N|N
 OVID|Ovid Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 OVLY|Oak Valley Bancorp (CA) - Common Stock|S|N|N|100|N|N
+OXACU|Oxbridge Acquisition Corp. - Unit|S|N|N|100|N|N
 OXBR|Oxbridge Re Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 OXBRW|Oxbridge Re Holdings Limited - Warrant|S|N|N|100|N|N
 OXLC|Oxford Lane Capital Corp. - Common Stock|Q|N|N|100|N|N
@@ -3549,6 +3550,7 @@ PPGH|Poema Global Holdings Corp. - Ordinary Share|S|N|N|100|N|N
 PPGHU|Poema Global Holdings Corp. - Unit|S|N|N|100|N|N
 PPGHW|Poema Global Holdings Corp. - Warrant|S|N|N|100|N|N
 PPH|VanEck Vectors Pharmaceutical ETF|G|N|N|100|Y|N
+PPHPU|PHP Ventures Acquisition Corp. - Units|S|N|N|100|N|N
 PPIH|Perma-Pipe International Holdings, Inc. - Common Stock|G|N|N|100|N|N
 PPSI|Pioneer Power Solutions, Inc. - Common Stock|S|N|N|100|N|N
 PPTA|Perpetua Resources Corp. - Common Shares|S|N|N|100|N|N
@@ -3639,8 +3641,8 @@ PVAC|Penn Virginia Corporation - Common Stock|Q|N|N|100|N|N
 PVBC|Provident Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 PWFL|PowerFleet, Inc. - Common Stock|G|N|N|100|N|N
 PWOD|Penns Woods Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
-PWP|Perella Weinberg Partners - Class A Common Stock|S|N|N|100|N|N
-PWPPW|Perella Weinberg Partners - Warrant|S|N|N|100|N|N
+PWP|Perella Weinberg Partners - Class A Common Stock|Q|N|N|100|N|N
+PWPPW|Perella Weinberg Partners - Warrant|Q|N|N|100|N|N
 PXI|Invesco DWA Energy Momentum ETF|G|N|N|100|Y|N
 PXLW|Pixelworks, Inc. - Common Stock|G|N|N|100|N|N
 PXS|Pyxis Tankers Inc. - Common Stock|S|N|D|100|N|N
@@ -4183,11 +4185,14 @@ SRSA|Sarissa Capital Acquisition Corp. - Class A Ordinary Shares|S|N|E|100|N|N
 SRSAU|Sarissa Capital Acquisition Corp. - Unit|S|N|E|100|N|N
 SRSAW|Sarissa Capital Acquisition Corp. - Warrants|S|N|E|100|N|N
 SRTS|Sensus Healthcare, Inc. - Common Stock|S|N|N|100|N|N
+SRZN|Surrozen, Inc. - Common Stock|S|N|N|100|N|N
+SRZNW|Surrozen, Inc. - Warrant|S|N|N|100|N|N
 SSAA|Science Strategic Acquisition Corp. Alpha - Class A Common Stock|S|N|N|100|N|N
 SSAAU|Science Strategic Acquisition Corp. Alpha - Unit|S|N|N|100|N|N
 SSAAW|Science Strategic Acquisition Corp. Alpha - Warrant|S|N|N|100|N|N
 SSB|South State Corporation - Common Stock|Q|N|N|100|N|N
 SSBI|Summit State Bank - Common Stock|G|N|N|100|N|N
+SSBK|Southern States Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 SSKN|Strata Skin Sciences, Inc. - Common Stock|S|N|N|100|N|N
 SSNC|SS&C Technologies Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SSNT|SilverSun Technologies, Inc. - Common Stock|S|N|N|100|N|N
@@ -4683,6 +4688,7 @@ VPCB|VPC Impact Acquisition Holdings II - Class A ordinary shre|S|N|N|100|N|N
 VPCBU|VPC Impact Acquisition Holdings II - Unit|S|N|N|100|N|N
 VPCBW|VPC Impact Acquisition Holdings II - Warrant|S|N|N|100|N|N
 VPN|Global X Data Center REITs & Digital Infrastructure ETF|G|N|N|100|Y|N
+VQS|VIQ Solutions Inc. - Common Shares|S|N|N|100|N|N
 VRA|Vera Bradley, Inc. - Common Stock|Q|N|N|100|N|N
 VRAR|The Glimpse Group, Inc. - Common Stock|S|N|N|100|N|N
 VRAY|ViewRay, Inc. - Common Stock|G|N|N|100|N|N
@@ -4924,4 +4930,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0811202115:40|||||||
+File Creation Time: 0812202115:41|||||||

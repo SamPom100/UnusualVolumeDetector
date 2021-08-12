@@ -114,6 +114,7 @@ AFLG|First Trust Active Factor Large Cap ETF|P|AFLG|Y|100|N|AFLG
 AFMC|First Trust Active Factor Mid Cap ETF|P|AFMC|Y|100|N|AFMC
 AFSM|First Trust Active Factor Small Cap ETF|P|AFSM|Y|100|N|AFSM
 AFT|Apollo Senior Floating Rate Fund Inc. Common Stock|N|AFT|N|100|N|AFT
+AFTR.U|AfterNext HealthTech Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|AFTR.U|N|100|N|AFTR=
 AFTY|Pacer CSOP FTSE China A50 ETF|P|AFTY|Y|100|N|AFTY
 AG|First Majestic Silver Corp. Ordinary Shares (Canada)|N|AG|N|100|N|AG
 AGAC|African Gold Acquisition Corporation Class A Ordinary Shares|N|AGAC|N|100|N|AGAC
@@ -933,9 +934,6 @@ CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
 CHCT|Community Healthcare Trust Incorporated Common Stock|N|CHCT|N|100|N|CHCT
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
 CHE|Chemed Corp|N|CHE|N|100|N|CHE
-CHFW|Consonance-HFW Acquisition Corp. Class A Ordinary Shares|A|CHFW|N|100|N|CHFW
-CHFW.U|Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third of one Warrant to acquire one Class A Ordinary Share|A|CHFW.U|N|100|N|CHFW=
-CHFW.W|Consonance-HFW Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50|A|CHFW.WS|N|100|N|CHFW+
 CHGG|Chegg, Inc. Common Stock|N|CHGG|N|100|N|CHGG
 CHGX|Change Finance U.S. Large Cap Fossil Fuel Free ETF|P|CHGX|Y|100|N|CHGX
 CHH|Choice Hotels International, Inc. Common Stock|N|CHH|N|100|N|CHH
@@ -2609,7 +2607,6 @@ HLGE|Hartford Longevity Economy ETF|P|HLGE|Y|100|N|HLGE
 HLI|Houlihan Lokey, Inc. Class A Common Stock|N|HLI|N|100|N|HLI
 HLLY|Holley Inc. Common Stock|N|HLLY|N|100|N|HLLY
 HLLY.W|Holley Inc. Warrants|N|HLLY.WS|N|100|N|HLLY+
-HLM$|Hillman Group Capital Trust Preferred Stock|A|HLMp|N|100|N|HLM-
 HLT|Hilton Worldwide Holdings Inc. Common Stock |N|HLT|N|100|N|HLT
 HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
@@ -4655,6 +4652,8 @@ RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
 RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Total Return Structured Product|P|RJI|N|100|N|RJI
 RJN|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return Structured Product|P|RJN|N|100|N|RJN
 RJZ|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return Structured Product|P|RJZ|N|100|N|RJZ
+RKLY|Rockley Photonics Holdings Limited Ordinary Shares|N|RKLY|N|100|N|RKLY
+RKLY.W|Rockley Photonics Holdings Limited Warrants, each warrant exercisable for one ordinary share at an exercise price of $11.50|N|RKLY.WS|N|100|N|RKLY+
 RKT|Rocket Companies, Inc. Class A Common Stock|N|RKT|N|100|N|RKT
 RKTA|Rocket Internet Growth Opportunities Corp. Class A Ordinary Shares|N|RKTA|N|100|N|RKTA
 RKTA.U|Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|RKTA.U|N|100|N|RKTA=
@@ -4843,9 +4842,6 @@ SCJ|iShares MSCI Japan Sm Cap|P|SCJ|Y|100|N|SCJ
 SCL|Stepan Company Common Stock|N|SCL|N|100|N|SCL
 SCM|Stellus Capital Investment Corporation Common Stock|N|SCM|N|100|N|SCM
 SCO|ProShares UltraShort Bloomberg Crude Oil|P|SCO|Y|100|N|SCO
-SCPE|SC Health Corporation Class A Ordinary Shares|N|SCPE|N|100|N|SCPE
-SCPE.U|SC Health Corporation Units|N|SCPE.U|N|100|N|SCPE=
-SCPE.W|SC Health Corporation Warrants|N|SCPE.WS|N|100|N|SCPE+
 SCS|Steelcase Inc. Common Stock|N|SCS|N|100|N|SCS
 SCU|Sculptor Capital Management, Inc. Class A Common Stock|N|SCU|N|100|N|SCU
 SCVX|SCVX Corp. Class A Ordinary Shares|N|SCVX|N|100|N|SCVX
@@ -4917,7 +4913,6 @@ SHI|SINOPEC Shangai Petrochemical Company, Ltd. Common Stock|N|SHI|N|100|N|SHI
 SHLX|Shell Midstream Partners, L.P. Common Units representing Limited Partner Interests|N|SHLX|N|100|N|SHLX
 SHM|SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF|P|SHM|Y|100|N|SHM
 SHO|Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares|N|SHO|N|100|N|SHO
-SHO$F|Sunstone Hotel Investors, Inc. 6.450% Series F Cumulative Redeemable Preferred Stock|N|SHOpF|N|100|N|SHO-F
 SHO$H|Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock|N|SHOpH|N|100|N|SHO-H
 SHO$I|Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock|N|SHOpI|N|100|N|SHO-I
 SHOP|Shopify Inc. Class A Subordinate Voting Shares|N|SHOP|N|100|N|SHOP
@@ -6120,4 +6115,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0811202115:40||||||
+File Creation Time: 0812202115:41||||||
