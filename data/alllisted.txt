@@ -2084,6 +2084,7 @@ KBR,KBR|KBR, Inc. Common Stock
 KCAC,KCAC|Kensington Capital Acquisition Corp. II Class A Common Stock
 KCAC.U,KCAC.U|Kensington Capital Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant
 KCAC.W,KCAC.W|Kensington Capital Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
+KCGI.U,KCGI.U|Kensington Capital Acquisition Corp. V Units, each consisting of one Class A ordinary share and three-fourths of one redeemable warrant
 KEN,KEN|Kenon Holdings Ltd. Ordinary Shares
 KEP,KEP|Korea Electric Power Corporation Common Stock
 KEX,KEX|Kirby Corporation Common Stock
@@ -2935,6 +2936,7 @@ PRIF$F,PRIF$F|Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock du
 PRIF$G,PRIF$G|Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026
 PRIF$H,PRIF$H|Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026
 PRIF$I,PRIF$I|Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028
+PRIF$J,PRIF$J|Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028
 PRK,PRK|Park National Corporation Common Stock
 PRLB,PRLB|Proto Labs, Inc. Common stock
 PRMW,PRMW|Primo Water Corporation Common Stock
@@ -3988,6 +3990,7 @@ ZVV,ZVV|NYSE ARCA test stock
 ZXIET,ZXIET|IEX Test Company Test Symbol Three for IEX
 ZYME,ZYME|Zymeworks Inc. Common Shares
 AACG,AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares
+AACIU,AACIU|Armada Acquisition Corp. I - Unit
 AAL,AAL|American Airlines Group, Inc. - Common Stock
 AAME,AAME|Atlantic American Corporation - Common Stock
 AAOI,AAOI|Applied Optoelectronics, Inc. - Common Stock
@@ -4268,6 +4271,7 @@ API,API|Agora, Inc. - ADS
 APLS,APLS|Apellis Pharmaceuticals, Inc. - Common Stock
 APLT,APLT|Applied Therapeutics, Inc. - Common Stock
 APM,APM|Aptorum Group Limited - Class A Ordinary Shares
+APMIU,APMIU|AxonPrime Infrastructure Acquisition Corporation - Unit
 APOG,APOG|Apogee Enterprises, Inc. - Common Stock
 APOP,APOP|Cellect Biotechnology Ltd. - American Depositary Shares
 APP,APP|Applovin Corporation - Class A Common Stock
@@ -4742,6 +4746,7 @@ CEMI,CEMI|Chembio Diagnostics, Inc. - Common Stock
 CENH,CENH|Centricus Acquisition Corp. - Class A Ordinary Share
 CENHU,CENHU|Centricus Acquisition Corp. - Unit
 CENHW,CENHW|Centricus Acquisition Corp. - Warrant
+CENQU,CENQU|CENAQ Energy Corp. - Unit
 CENT,CENT|Central Garden & Pet Company - Common Stock
 CENTA,CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting
 CENX,CENX|Century Aluminum Company - Common Stock
@@ -4831,7 +4836,9 @@ CLAQR,CLAQR|CleanTech Acquisition Corp. - Rights
 CLAQU,CLAQU|CleanTech Acquisition Corp. - Units
 CLAQW,CLAQW|CleanTech Acquisition Corp. - Warrant
 CLAR,CLAR|Clarus Corporation - Common Stock
+CLAY,CLAY|Chavant Capital Acquisition Corp. - Ordinary Shares
 CLAYU,CLAYU|Chavant Capital Acquisition Corp. - Unit
+CLAYW,CLAYW|Chavant Capital Acquisition Corp. - Warrants
 CLBK,CLBK|Columbia Financial, Inc. - Common Stock
 CLBS,CLBS|Caladrius Biosciences, Inc. - Common Stock
 CLDB,CLDB|Cortland Bancorp - Common Stock
@@ -5079,6 +5086,8 @@ DAKT,DAKT|Daktronics, Inc. - Common Stock
 DALN,DALN|DallasNews Corporation - Series A Common Stock
 DALS,DALS|DA32 Life Science Tech Acquisition Corp. - Class A Common Stock
 DARE,DARE|Dare Bioscience, Inc. - Common Stock
+DATS,DATS|DatChat, Inc. - Common Stock
+DATSW,DATSW|DatChat, Inc. - Series A Warrant
 DAWN,DAWN|Day One Biopharmaceuticals, Inc. - Common Stock
 DBDR,DBDR|Roman DBDR Tech Acquisition Corp. - Class A Common Stock
 DBDRU,DBDRU|Roman DBDR Tech Acquisition Corp. - Unit
@@ -5176,6 +5185,8 @@ DOYU,DOYU|DouYu International Holdings Limited - American Depositary Shares
 DPRO,DPRO|Draganfly Inc. - Common Shares
 DRAYU,DRAYU|Macondray Capital Acquisition Corp. I - Unit
 DRIO,DRIO|DarioHealth Corp. - Common Stock
+DRMA,DRMA|Dermata Therapeutics, Inc. - Common Stock
+DRMAW,DRMAW|Dermata Therapeutics, Inc. - Warrant
 DRNA,DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock
 DRRX,DRRX|DURECT Corporation - Common Stock
 DRTT,DRTT|DIRTT Environmental Solutions Ltd. - Common Shares
@@ -6173,6 +6184,7 @@ JAKK,JAKK|JAKKS Pacific, Inc. - Common Stock
 JAMF,JAMF|Jamf Holding Corp. - Common Stock
 JAN,JAN|JanOne Inc. - Common Stock
 JANX,JANX|Janux Therapeutics, Inc. - Common Stock
+JAQCU,JAQCU|Jupiter Acquisition Corporation - Units
 JAZZ,JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares
 JBHT,JBHT|J.B. Hunt Transport Services, Inc. - Common Stock
 JBLU,JBLU|JetBlue Airways Corporation - Common Stock
@@ -6627,7 +6639,9 @@ MINM,MINM|Minim, Inc. - Common Stock
 MIRM,MIRM|Mirum Pharmaceuticals, Inc. - common stock
 MIRO,MIRO|Miromatrix Medical Inc. - Common Stock
 MIST,MIST|Milestone Pharmaceuticals Inc. - Common Shares
+MITA,MITA|Coliseum Acquisition Corp. - Class A Ordinary Share
 MITAU,MITAU|Coliseum Acquisition Corp. - Unit
+MITAW,MITAW|Coliseum Acquisition Corp. - Warrant
 MITC,MITC|MeaTech 3D Ltd. - American Depositary Shares
 MITK,MITK|Mitek Systems, Inc. - Common Stock
 MITO,MITO|Stealth BioTherapeutics Corp. - American Depositary Shares
@@ -6661,6 +6675,8 @@ MNSB,MNSB|MainStreet Bancshares, Inc. - Common Stock
 MNSBP,MNSBP|MainStreet Bancshares, Inc. - Depositary Shares
 MNST,MNST|Monster Beverage Corporation - Common Stock
 MNTK,MNTK|Montauk Renewables, Inc. - Common Stock
+MNTS,MNTS|Momentus Inc. - Class A Common Stock
+MNTSW,MNTSW|Momentus Inc. - Warrant
 MNTV,MNTV|Momentive Global Inc.  - Common Stock
 MNTX,MNTX|Manitex International, Inc. - common stock
 MODV,MODV|ModivCare Inc. - Common Stock
@@ -7785,9 +7801,6 @@ SPWR,SPWR|SunPower Corporation - Common Stock
 SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
 SQFT,SQFT|Presidio Property Trust, Inc. - Class A Common Stock
 SQFTP,SQFTP|Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share
-SRAC,SRAC|Stable Road Acquisition Corp. - Class A Common Stock
-SRACU,SRACU|Stable Road Acquisition Corp. - Unit
-SRACW,SRACW|Stable Road Acquisition Corp. - Warrant
 SRAX,SRAX|SRAX, Inc. - Class A Common Stock
 SRCE,SRCE|1st Source Corporation - Common Stock
 SRCL,SRCL|Stericycle, Inc. - Common Stock

@@ -1,5 +1,6 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
 AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|G|N|N|100|N|N
+AACIU|Armada Acquisition Corp. I - Unit|G|N|N|100|N|N
 AADR|AdvisorShares Dorsey Wright ADR ETF|G|N|N|100|Y|N
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100|N|N
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100|N|N
@@ -293,6 +294,7 @@ API|Agora, Inc. - ADS|Q|N|N|100|N|N
 APLS|Apellis Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 APLT|Applied Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 APM|Aptorum Group Limited - Class A Ordinary Shares|G|N|N|100|N|N
+APMIU|AxonPrime Infrastructure Acquisition Corporation - Unit|S|N|N|100|N|N
 APOG|Apogee Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
 APOP|Cellect Biotechnology Ltd. - American Depositary Shares|S|N|N|100|N|N
 APP|Applovin Corporation - Class A Common Stock|Q|N|N|100|N|N
@@ -822,6 +824,7 @@ CEMI|Chembio Diagnostics, Inc. - Common Stock|S|N|N|100|N|N
 CENH|Centricus Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 CENHU|Centricus Acquisition Corp. - Unit|S|N|N|100|N|N
 CENHW|Centricus Acquisition Corp. - Warrant|S|N|N|100|N|N
+CENQU|CENAQ Energy Corp. - Unit|S|N|N|100|N|N
 CENT|Central Garden & Pet Company - Common Stock|Q|N|N|100|N|N
 CENTA|Central Garden & Pet Company - Class A Common Stock Nonvoting|Q|N|N|100|N|N
 CENX|Century Aluminum Company - Common Stock|Q|N|N|100|N|N
@@ -920,7 +923,9 @@ CLAQR|CleanTech Acquisition Corp. - Rights|S|N|N|100|N|N
 CLAQU|CleanTech Acquisition Corp. - Units|S|N|N|100|N|N
 CLAQW|CleanTech Acquisition Corp. - Warrant|S|N|N|100|N|N
 CLAR|Clarus Corporation - Common Stock|Q|N|N|100|N|N
+CLAY|Chavant Capital Acquisition Corp. - Ordinary Shares|S|N|N|100|N|N
 CLAYU|Chavant Capital Acquisition Corp. - Unit|S|N|N|100|N|N
+CLAYW|Chavant Capital Acquisition Corp. - Warrants|S|N|N|100|N|N
 CLBK|Columbia Financial, Inc. - Common Stock|Q|N|N|100|N|N
 CLBS|Caladrius Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 CLDB|Cortland Bancorp - Common Stock|S|N|N|100|N|N
@@ -1180,6 +1185,8 @@ DALN|DallasNews Corporation - Series A Common Stock|S|N|N|100|N|N
 DALS|DA32 Life Science Tech Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 DAPP|VanEck Vectors Digital Transformation ETF|G|N|N|100|Y|N
 DARE|Dare Bioscience, Inc. - Common Stock|S|N|N|100|N|N
+DATS|DatChat, Inc. - Common Stock|S|N|N|100|N|N
+DATSW|DatChat, Inc. - Series A Warrant|S|N|N|100|N|N
 DAWN|Day One Biopharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 DAX|Global X DAX Germany ETF|G|N|N|100|Y|N
 DBDR|Roman DBDR Tech Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -1285,6 +1292,8 @@ DPRO|Draganfly Inc. - Common Shares|S|N|N|100|N|N
 DRAYU|Macondray Capital Acquisition Corp. I - Unit|S|N|N|100|N|N
 DRIO|DarioHealth Corp. - Common Stock|S|N|N|100|N|N
 DRIV|Global X Autonomous & Electric Vehicles ETF|G|N|N|100|Y|N
+DRMA|Dermata Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+DRMAW|Dermata Therapeutics, Inc. - Warrant|S|N|N|100|N|N
 DRNA|Dicerna Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 DRRX|DURECT Corporation - Common Stock|S|N|N|100|N|N
 DRTT|DIRTT Environmental Solutions Ltd. - Common Shares|Q|N|N|100|N|N
@@ -2432,6 +2441,7 @@ JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100|N|N
 JAMF|Jamf Holding Corp. - Common Stock|Q|N|N|100|N|N
 JAN|JanOne Inc. - Common Stock|S|N|N|100|N|N
 JANX|Janux Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
+JAQCU|Jupiter Acquisition Corporation - Units|S|N|N|100|N|N
 JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares|Q|N|N|100|N|N
 JBHT|J.B. Hunt Transport Services, Inc. - Common Stock|Q|N|N|100|N|N
 JBLU|JetBlue Airways Corporation - Common Stock|Q|N|N|100|N|N
@@ -2909,7 +2919,9 @@ MINM|Minim, Inc. - Common Stock|S|N|N|100|N|N
 MIRM|Mirum Pharmaceuticals, Inc. - common stock|G|N|N|100|N|N
 MIRO|Miromatrix Medical Inc. - Common Stock|S|N|N|100|N|N
 MIST|Milestone Pharmaceuticals Inc. - Common Shares|Q|N|N|100|N|N
+MITA|Coliseum Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 MITAU|Coliseum Acquisition Corp. - Unit|S|N|N|100|N|N
+MITAW|Coliseum Acquisition Corp. - Warrant|S|N|N|100|N|N
 MITC|MeaTech 3D Ltd. - American Depositary Shares|S|N|N|100|N|N
 MITK|Mitek Systems, Inc. - Common Stock|S|N|N|100|N|N
 MITO|Stealth BioTherapeutics Corp. - American Depositary Shares|G|N|N|100|N|N
@@ -2943,6 +2955,8 @@ MNSB|MainStreet Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 MNSBP|MainStreet Bancshares, Inc. - Depositary Shares|S|N|N|100|N|N
 MNST|Monster Beverage Corporation - Common Stock|Q|N|N|100|N|N
 MNTK|Montauk Renewables, Inc. - Common Stock|S|N|N|100|N|N
+MNTS|Momentus Inc. - Class A Common Stock|Q|N|N|100|N|N
+MNTSW|Momentus Inc. - Warrant|Q|N|N|100|N|N
 MNTV|Momentive Global Inc.  - Common Stock|Q|N|N|100|N|N
 MNTX|Manitex International, Inc. - common stock|S|N|N|100|N|N
 MODV|ModivCare Inc. - Common Stock|Q|N|N|100|N|N
@@ -3860,8 +3874,8 @@ RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock|Q|N|N|100|N|N
 RRR|Red Rock Resorts, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RSLS|ReShape Lifesciences, Inc. - Common Stock|S|N|N|100|N|N
 RSSS|Research Solutions, Inc - Common Stock|S|N|N|100|N|N
-RSVR|Reservoir Media, Inc.. - Common Stock|S|N|N|100|N|N
-RSVRW|Reservoir Media, Inc.. - Warrant|S|N|N|100|N|N
+RSVR|Reservoir Media, Inc.. - Common Stock|G|N|N|100|N|N
+RSVRW|Reservoir Media, Inc.. - Warrant|G|N|N|100|N|N
 RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
 RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 RTPY|Reinvent Technology Partners Y - Class A Ordinary Shares|S|N|N|100|N|N
@@ -4164,9 +4178,6 @@ SQFT|Presidio Property Trust, Inc. - Class A Common Stock|S|N|N|100|N|N
 SQFTP|Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share|S|N|N|100|N|N
 SQLV|Legg Mason Small-Cap Quality Value ETF|G|N|N|100|Y|N
 SQQQ|ProShares UltraPro Short QQQ|G|N|N|100|Y|N
-SRAC|Stable Road Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
-SRACU|Stable Road Acquisition Corp. - Unit|S|N|N|100|N|N
-SRACW|Stable Road Acquisition Corp. - Warrant|S|N|N|100|N|N
 SRAX|SRAX, Inc. - Class A Common Stock|S|N|N|100|N|N
 SRCE|1st Source Corporation - Common Stock|Q|N|N|100|N|N
 SRCL|Stericycle, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4930,4 +4941,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0812202118:01|||||||
+File Creation Time: 0813202115:41|||||||
