@@ -24,6 +24,7 @@ ABG,ABG|Asbury Automotive Group Inc Common Stock
 ABM,ABM|ABM Industries Incorporated Common Stock
 ABR,ABR|Arbor Realty Trust Common Stock
 ABR$D,ABR$D|Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share
+ABR$E,ABR$E|Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock
 ABT,ABT|Abbott Laboratories Common Stock
 AC,AC|Associated Capital Group, Inc. Common Stock
 ACA,ACA|Arcosa, Inc. Common Stock 
@@ -1015,7 +1016,6 @@ DBD,DBD|Diebold Nixdorf Incorporated Common Stock
 DBI,DBI|Designer Brands Inc. Class A Common Stock
 DBL,DBL|DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
 DBRG,DBRG|DigitalBridge Group, Inc.
-DBRG$G,DBRG$G|DigitalBridge Group, Inc. 7.50% Series G 
 DBRG$H,DBRG$H|DigitalBridge Group, Inc. 7.125% Series H 
 DBRG$I,DBRG$I|DigitalBridge Group, Inc. 7.15% Series I 
 DBRG$J,DBRG$J|DigitalBridge Group, Inc. 7.125% Series J 
@@ -1313,8 +1313,8 @@ ET$C,ET$C|Energy Transfer L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative
 ET$D,ET$D|Energy Transfer L.P. 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit
 ET$E,ET$E|Energy Transfer L.P. 7.600% Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit
 ETB,ETB|Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest
+ETD,ETD|Ethan Allen Interiors Inc. Common Stock
 ETG,ETG|Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest
-ETH,ETH|Ethan Allen Interiors Inc. Common Stock
 ETI$,ETI$|Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value
 ETJ,ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest
 ETN,ETN|Eaton Corporation, PLC Ordinary Shares
@@ -1935,6 +1935,7 @@ INGR,INGR|Ingredion Incorporated Common Stock
 INN,INN|Summit Hotel Properties, Inc. Common Stock
 INN$D,INN$D|Summit Hotel Properties, Inc. 6.45% Series D Cumulative Redeemable Preferred Stock
 INN$E,INN$E|Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock
+INN$F,INN$F|Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share
 INS,INS|Intelligent Systems Corporation Common Stock
 INSI,INSI|Insight Select Income Fund
 INSP,INSP|Inspire Medical Systems, Inc. Common Stock
@@ -2334,6 +2335,11 @@ MHN,MHN|Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock
 MHNC,MHNC|Maiden Holdings North America, Ltd. 7.75% Notes due 2043
 MHO,MHO|M/I Homes, Inc. Common Stock
 MIC,MIC|Macquarie Infrastructure Corporation Common Stock
+MIMO,MIMO|Airspan Networks Holdings Inc. Common Stock
+MIMO.A,MIMO.A|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $12.50
+MIMO.B,MIMO.B|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $15.00
+MIMO.C,MIMO.C|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $17.50
+MIMO.W,MIMO.W|Airspan Networks Holdings Inc. Warrants
 MIN,MIN|MFS Intermediate Income Trust Common Stock
 MIO,MIO|Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock
 MIT,MIT|Mason Industrial Technology, Inc. Class A Common Stock
@@ -2473,9 +2479,6 @@ NAPA,NAPA|The Duckhorn Portfolio, Inc. Common Stock
 NAT,NAT|Nordic American Tankers Limited Common Stock
 NAVB,NAVB|Navidea Biopharmaceuticals, Inc. Common Stock
 NAZ,NAZ|Nuveen Arizona Quality Municipal Income Fund Common Stock
-NBA,NBA|New Beginnings Acquisition Corp. Common Stock
-NBA.U,NBA.U|New Beginnings Acquisition Corp. Units, each consisting of one share of common stock, and one redeemable warrant
-NBA.W,NBA.W|New Beginnings Acquisition Corp. Redeemable Warrants, each warrant exercisable for one share of Common Stock at an exercise price of $11.50
 NBB,NBB|Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest
 NBH,NBH|Neuberger Berman Municipal Fund Inc. Common Stock
 NBHC,NBHC|National Bank Holdings Corporation Common Stock
@@ -3068,7 +3071,6 @@ REV,REV|Revlon, Inc. New Common Stock
 REVG,REVG|REV Group, Inc. Common Stock
 REX,REX|REX American Resources Corporation
 REXR,REXR|Rexford Industrial Realty, Inc. Common Stock
-REXR$A,REXR$A|Rexford Industrial Realty, Inc. 5.875% Series A Cumulative Redeemable Preferred Stock
 REXR$B,REXR$B|Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock
 REXR$C,REXR$C|Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share
 REZI,REZI|Resideo Technologies, Inc. Common Stock 
@@ -3285,7 +3287,6 @@ SJW,SJW|SJW Group Common Stock (DE)
 SKIL,SKIL|Skillsoft Corp. Class A Common Stock
 SKIL.W,SKIL.W|Skillsoft Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 SKLZ,SKLZ|Skillz Inc. Class A Common Stock
-SKLZ.W,SKLZ.W|Skillz Inc. Warrants
 SKM,SKM|SK Telecom Co., Ltd. Common Stock
 SKT,SKT|Tanger Factory Outlet Centers, Inc. Common Stock
 SKX,SKX|Skechers U.S.A., Inc. Common Stock
@@ -3747,7 +3748,6 @@ VEEV,VEEV|Veeva Systems Inc. Class A Common Stock
 VEI,VEI|Vine Energy Inc. Class A Common Stock
 VEL,VEL|Velocity Financial, Inc. Common Stock
 VER,VER|VEREIT, Inc. Common Stock
-VER$F,VER$F|VEREIT, Inc. 6.70% Series F Cumulative Redeemable Preferred Stock
 VET,VET|Vermilion Energy Inc. Common (Canada)
 VFC,VFC|V.F. Corporation Common Stock
 VFL,VFL|Delaware Investments National Municipal Income Fund Common Stock
@@ -3943,7 +3943,6 @@ XPOF,XPOF|Xponential Fitness, Inc. Class A Common Stock
 XRX,XRX|Xerox Holdings Corporation Common Stock
 XTNT,XTNT|Xtant Medical Holdings, Inc. Common Stock
 XVZ,XVZ|iPath S&P 500 Dynamic VIX ETN
-XXII,XXII|22nd Century Group, Inc. Common Stock
 XYF,XYF|X Financial American Depositary Shares, each representing six Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
@@ -5584,7 +5583,9 @@ FTPA,FTPA|FTAC Parnassus Acquisition Corp. - Class A Common Stock
 FTPAU,FTPAU|FTAC Parnassus Acquisition Corp. - Unit
 FTPAW,FTPAW|FTAC Parnassus Acquisition Corp. - Warrant
 FTRP,FTRP|Field Trip Health Ltd. - Common Shares
+FTVI,FTVI|FinTech Acquisition Corp. VI - Class A Common Stock
 FTVIU,FTVIU|FinTech Acquisition Corp. VI - Units
+FTVIW,FTVIW|FinTech Acquisition Corp. VI - Warrants
 FULC,FULC|Fulcrum Therapeutics, Inc. - Common Stock
 FULT,FULT|Fulton Financial Corporation - Common Stock
 FULTP,FULTP|Fulton Financial Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A
@@ -5778,10 +5779,6 @@ GRIL,GRIL|Muscle Maker, Inc - Common Stock
 GRIN,GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares
 GRMN,GRMN|Garmin Ltd. - Common Stock
 GRNQ,GRNQ|Greenpro Capital Corp. - Common Stock
-GRNV,GRNV|GreenVision Acquisition Corp - Common Stock
-GRNVR,GRNVR|GreenVision Acquisition Corp - Rights
-GRNVU,GRNVU|GreenVision Acquisition Corp - Unit
-GRNVW,GRNVW|GreenVision Acquisition Corp - Warrant
 GROM,GROM|Grom Social Enterprises Inc. - Common Stock
 GROMW,GROMW|Grom Social Enterprises Inc. - Warrants
 GROW,GROW|U.S. Global Investors, Inc. - Class A Common Stock
@@ -5907,6 +5904,8 @@ HJLIW,HJLIW|Hancock Jaffe Laboratories, Inc. - Warrants
 HLAH,HLAH|Hamilton Lane Alliance Holdings I, Inc. - Class A Common Stock
 HLAHU,HLAHU|Hamilton Lane Alliance Holdings I, Inc. - Unit
 HLAHW,HLAHW|Hamilton Lane Alliance Holdings I, Inc. - Warrant
+HLBZ,HLBZ|Helbiz, Inc. - Class A Common Stock
+HLBZW,HLBZW|Helbiz, Inc. - Warrant
 HLG,HLG|Hailiang Education Group Inc. - American Depositary Shares
 HLIO,HLIO|Helios Technologies, Inc. - Common Stock
 HLIT,HLIT|Harmonic Inc. - Common Stock
@@ -6658,7 +6657,6 @@ MLACW,MLACW|Malacca Straits Acquisition Company Limited - Warrants
 MLCO,MLCO|Melco Resorts & Entertainment Limited - American Depositary Shares 
 MLHR,MLHR|Herman Miller, Inc. - Common Stock
 MLVF,MLVF|Malvern Bancorp, Inc. - Common Stock
-MMAC,MMAC|MMA Capital Holdings, Inc. - Common Stock
 MMAT,MMAT|Meta Materials Inc. - Common Stock
 MMLP,MMLP|Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests
 MMMB,MMMB|MamaMancini's Holdings, Inc. - Common Stock
@@ -7060,6 +7058,8 @@ OTIC,OTIC|Otonomy, Inc. - Common Stock
 OTLK,OTLK|Outlook Therapeutics, Inc. - Common Stock
 OTLKW,OTLKW|Outlook Therapeutics, Inc. - Series A Warrant
 OTLY,OTLY|Oatly Group AB - American Depositary Shares
+OTMO,OTMO|Otonomo Technologies Ltd. - Ordinary shares
+OTMOW,OTMOW|Otonomo Technologies Ltd. - Warrant
 OTRA,OTRA|OTR Acquisition Corp. - Class A Common Stock
 OTRAU,OTRAU|OTR Acquisition Corp. - Unit
 OTRAW,OTRAW|OTR Acquisition Corp. - Warrant
@@ -7555,9 +7555,6 @@ SAFM,SAFM|Sanderson Farms, Inc. - Common Stock
 SAFT,SAFT|Safety Insurance Group, Inc. - Common Stock
 SAGE,SAGE|Sage Therapeutics, Inc. - Common Stock
 SAIA,SAIA|Saia, Inc. - Common Stock
-SAII,SAII|Software Acquisition Group Inc. II - Class A Common Stock
-SAIIU,SAIIU|Software Acquisition Group Inc. II - Unit
-SAIIW,SAIIW|Software Acquisition Group Inc. II - Warrant
 SAL,SAL|Salisbury Bancorp, Inc. - Common Stock
 SALM,SALM|Salem Media Group, Inc. - Class A Common Stock
 SAMG,SAMG|Silvercrest Asset Management Group Inc. - Common Stock
@@ -8366,6 +8363,7 @@ WHFBZ,WHFBZ|WhiteHorse Finance, Inc. - 6.50% Notes due 2025
 WHLM,WHLM|Wilhelmina International, Inc. - Common Stock
 WHLR,WHLR|Wheeler Real Estate Investment Trust, Inc. - Common Stock
 WHLRD,WHLRD|Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock
+WHLRL,WHLRL|Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031
 WHLRP,WHLRP|Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock
 WILC,WILC|G. Willi-Food International,  Ltd. - Ordinary Shares
 WIMI,WIMI|WiMi Hologram Cloud Inc. - American Depositary Share
@@ -8446,6 +8444,7 @@ XPER,XPER|Xperi Holding Corporation - Common Stock
 XRAY,XRAY|DENTSPLY SIRONA Inc. - Common Stock
 XSPA,XSPA|XpresSpa Group, Inc.  - Common Stock
 XTLB,XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares
+XXII,XXII|22nd Century Group, Inc - Common Stock
 YELL,YELL|Yellow Corporation - Common Stock
 YGMZ,YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares
 YI,YI|111, Inc. - American Depositary Shares

@@ -1773,7 +1773,9 @@ FTRI|First Trust Indxx Global Natural Resources Income ETF|G|N|N|100|Y|N
 FTRP|Field Trip Health Ltd. - Common Shares|Q|N|N|100|N|N
 FTSL|First Trust Senior Loan Fund ETF|G|N|N|100|Y|N
 FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100|Y|N
+FTVI|FinTech Acquisition Corp. VI - Class A Common Stock|S|N|N|100|N|N
 FTVIU|FinTech Acquisition Corp. VI - Units|S|N|N|100|N|N
+FTVIW|FinTech Acquisition Corp. VI - Warrants|S|N|N|100|N|N
 FTXD|First Trust Nasdaq Retail ETF|G|N|N|100|Y|N
 FTXG|First Trust Nasdaq Food & Beverage ETF|G|N|N|100|Y|N
 FTXH|First Trust Nasdaq Pharmaceuticals ETF|G|N|N|100|Y|N
@@ -1984,10 +1986,6 @@ GRIL|Muscle Maker, Inc - Common Stock|S|N|N|100|N|N
 GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares|Q|N|N|100|N|N
 GRMN|Garmin Ltd. - Common Stock|Q|N|N|100|N|N
 GRNQ|Greenpro Capital Corp. - Common Stock|S|N|N|100|N|N
-GRNV|GreenVision Acquisition Corp - Common Stock|S|N|N|100|N|N
-GRNVR|GreenVision Acquisition Corp - Rights|S|N|N|100|N|N
-GRNVU|GreenVision Acquisition Corp - Unit|S|N|N|100|N|N
-GRNVW|GreenVision Acquisition Corp - Warrant|S|N|N|100|N|N
 GROM|Grom Social Enterprises Inc. - Common Stock|S|N|N|100|N|N
 GROMW|Grom Social Enterprises Inc. - Warrants|S|N|N|100|N|N
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -2118,6 +2116,8 @@ HLAH|Hamilton Lane Alliance Holdings I, Inc. - Class A Common Stock|S|N|N|100|N|
 HLAHU|Hamilton Lane Alliance Holdings I, Inc. - Unit|S|N|N|100|N|N
 HLAHW|Hamilton Lane Alliance Holdings I, Inc. - Warrant|S|N|N|100|N|N
 HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
+HLBZ|Helbiz, Inc. - Class A Common Stock|S|N|N|100|N|N
+HLBZW|Helbiz, Inc. - Warrant|S|N|N|100|N|N
 HLG|Hailiang Education Group Inc. - American Depositary Shares|G|N|N|100|N|N
 HLIO|Helios Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100|N|N
@@ -2938,7 +2938,6 @@ MLACW|Malacca Straits Acquisition Company Limited - Warrants|S|N|N|100|N|N
 MLCO|Melco Resorts & Entertainment Limited - American Depositary Shares |Q|N|N|100|N|N
 MLHR|Herman Miller, Inc. - Common Stock|Q|N|N|100|N|N
 MLVF|Malvern Bancorp, Inc. - Common Stock|G|N|N|100|N|N
-MMAC|MMA Capital Holdings, Inc. - Common Stock|S|N|N|100|N|N
 MMAT|Meta Materials Inc. - Common Stock|S|N|N|100|N|N
 MMLP|Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 MMMB|MamaMancini's Holdings, Inc. - Common Stock|S|N|N|100|N|N
@@ -3344,6 +3343,8 @@ OTIC|Otonomy, Inc. - Common Stock|Q|N|N|100|N|N
 OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 OTLKW|Outlook Therapeutics, Inc. - Series A Warrant|S|N|N|100|N|N
 OTLY|Oatly Group AB - American Depositary Shares|Q|N|N|100|N|N
+OTMO|Otonomo Technologies Ltd. - Ordinary shares|G|N|N|100|N|N
+OTMOW|Otonomo Technologies Ltd. - Warrant|G|N|N|100|N|N
 OTRA|OTR Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 OTRAU|OTR Acquisition Corp. - Unit|S|N|N|100|N|N
 OTRAW|OTR Acquisition Corp. - Warrant|S|N|N|100|N|N
@@ -3909,9 +3910,6 @@ SAFM|Sanderson Farms, Inc. - Common Stock|Q|N|N|100|N|N
 SAFT|Safety Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
 SAGE|Sage Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 SAIA|Saia, Inc. - Common Stock|Q|N|N|100|N|N
-SAII|Software Acquisition Group Inc. II - Class A Common Stock|S|N|N|100|N|N
-SAIIU|Software Acquisition Group Inc. II - Unit|S|N|N|100|N|N
-SAIIW|Software Acquisition Group Inc. II - Warrant|S|N|N|100|N|N
 SAL|Salisbury Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 SALM|Salem Media Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 SAMG|Silvercrest Asset Management Group Inc. - Common Stock|G|N|N|100|N|N
@@ -4789,6 +4787,7 @@ WHFBZ|WhiteHorse Finance, Inc. - 6.50% Notes due 2025|Q|N|N|100|N|N
 WHLM|Wilhelmina International, Inc. - Common Stock|S|N|N|100|N|N
 WHLR|Wheeler Real Estate Investment Trust, Inc. - Common Stock|S|N|N|100|N|N
 WHLRD|Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock|S|N|N|100|N|N
+WHLRL|Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031|S|N|N|100|N|N
 WHLRP|Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock|S|N|N|100|N|N
 WILC|G. Willi-Food International,  Ltd. - Ordinary Shares|S|N|N|100|N|N
 WIMI|WiMi Hologram Cloud Inc. - American Depositary Share|G|N|N|100|N|N
@@ -4872,6 +4871,7 @@ XRAY|DENTSPLY SIRONA Inc. - Common Stock|Q|N|N|100|N|N
 XSPA|XpresSpa Group, Inc.  - Common Stock|S|N|N|100|N|N
 XT|iShares Exponential Technologies ETF|G|N|N|100|Y|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
+XXII|22nd Century Group, Inc - Common Stock|S|N|N|100|N|N
 YELL|Yellow Corporation - Common Stock|Q|N|N|100|N|N
 YGMZ|MingZhu Logistics Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 YI|111, Inc. - American Depositary Shares|G|N|N|100|N|N
@@ -4941,4 +4941,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0813202118:01|||||||
+File Creation Time: 0816202115:42|||||||

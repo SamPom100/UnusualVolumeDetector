@@ -28,6 +28,7 @@ ABG|Asbury Automotive Group Inc Common Stock|N|ABG|N|100|N|ABG
 ABM|ABM Industries Incorporated Common Stock|N|ABM|N|100|N|ABM
 ABR|Arbor Realty Trust Common Stock|N|ABR|N|100|N|ABR
 ABR$D|Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share|N|ABRpD|N|100|N|ABR-D
+ABR$E|Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock|N|ABRpE|N|100|N|ABR-E
 ABT|Abbott Laboratories Common Stock|N|ABT|N|100|N|ABT
 AC|Associated Capital Group, Inc. Common Stock|N|AC|N|100|N|AC
 ACA|Arcosa, Inc. Common Stock |N|ACA|N|100|N|ACA
@@ -1278,7 +1279,6 @@ DBO|Invesco DB Oil Fund|P|DBO|Y|100|N|DBO
 DBOC|Innovator Double Stacker 9 Buffer ETF - October|Z|DBOC|Y|100|N|DBOC
 DBP|Invesco DB Precious Metals Fund|P|DBP|Y|100|N|DBP
 DBRG|DigitalBridge Group, Inc.|N|DBRG|N|100|N|DBRG
-DBRG$G|DigitalBridge Group, Inc. 7.50% Series G |N|DBRGpG|N|100|N|DBRG-G
 DBRG$H|DigitalBridge Group, Inc. 7.125% Series H |N|DBRGpH|N|100|N|DBRG-H
 DBRG$I|DigitalBridge Group, Inc. 7.15% Series I |N|DBRGpI|N|100|N|DBRG-I
 DBRG$J|DigitalBridge Group, Inc. 7.125% Series J |N|DBRGpJ|N|100|N|DBRG-J
@@ -1791,8 +1791,8 @@ ET$C|Energy Transfer L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative Rede
 ET$D|Energy Transfer L.P. 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit|N|ETpD|N|100|N|ET-D
 ET$E|Energy Transfer L.P. 7.600% Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit|N|ETpE|N|100|N|ET-E
 ETB|Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest|N|ETB|N|100|N|ETB
+ETD|Ethan Allen Interiors Inc. Common Stock|N|ETD|N|100|N|ETD
 ETG|Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest|N|ETG|N|100|N|ETG
-ETH|Ethan Allen Interiors Inc. Common Stock|N|ETH|N|100|N|ETH
 ETHO|Etho Climate Leadership U.S. ETF|P|ETHO|Y|100|N|ETHO
 ETI$|Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value|N|ETIp|N|100|N|ETI-
 ETJ|Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest|N|ETJ|N|100|N|ETJ
@@ -2899,6 +2899,7 @@ INMU|BlackRock Intermediate Muni Income Bond ETF|P|INMU|Y|100|N|INMU
 INN|Summit Hotel Properties, Inc. Common Stock|N|INN|N|100|N|INN
 INN$D|Summit Hotel Properties, Inc. 6.45% Series D Cumulative Redeemable Preferred Stock|N|INNpD|N|100|N|INN-D
 INN$E|Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock|N|INNpE|N|100|N|INN-E
+INN$F|Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share|N|INNpF|N|100|N|INN-F
 INS|Intelligent Systems Corporation Common Stock|N|INS|N|100|N|INS
 INSI|Insight Select Income Fund|N|INSI|N|100|N|INSI
 INSP|Inspire Medical Systems, Inc. Common Stock|N|INSP|N|100|N|INSP
@@ -3330,7 +3331,6 @@ LDI|loanDepot, Inc. Class A Common Stock|N|LDI|N|100|N|LDI
 LDL|Lydall, Inc. Common Stock|N|LDL|N|100|N|LDL
 LDOS|Leidos Holdings, Inc. Common Stock|N|LDOS|N|100|N|LDOS
 LDP|Cohen & Steers Limited Duration Preferred and Income Fund, Inc.|N|LDP|N|100|N|LDP
-LDRS|Innovator IBD ETF Leaders ETF|P|LDRS|Y|100|N|LDRS
 LDUR|PIMCO Enhanced Low Duration Active Exchange-Traded Fund|P|LDUR|Y|100|N|LDUR
 LEA|Lear Corporation Common Stock|N|LEA|N|100|N|LEA
 LEAD|Siren DIVCON Leaders Dividend ETF|Z|LEAD|Y|100|N|LEAD
@@ -3563,6 +3563,11 @@ MIDE|Xtrackers S&P MidCap 400 ESG ETF|P|MIDE|Y|100|N|MIDE
 MIDF|iShares MSCI USA Mid-Cap Multifactor ETF|P|MIDF|Y|100|N|MIDF
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIG|VanEck Vectors Moody's Analytics IG Corporate Bond ETF|Z|MIG|Y|100|N|MIG
+MIMO|Airspan Networks Holdings Inc. Common Stock|A|MIMO|N|100|N|MIMO
+MIMO.A|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $12.50|A|MIMO.WS.A|N|100|N|MIMO+A
+MIMO.B|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $15.00|A|MIMO.WS.B|N|100|N|MIMO+B
+MIMO.C|Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $17.50|A|MIMO.WS.C|N|100|N|MIMO+C
+MIMO.W|Airspan Networks Holdings Inc. Warrants|A|MIMO.WS|N|100|N|MIMO+
 MIN|MFS Intermediate Income Trust Common Stock|N|MIN|N|100|N|MIN
 MINC|AdvisorShares Newfleet Multi-sector Income ETF|P|MINC|Y|100|N|MINC
 MINN|Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ETF|Z|MINN|Y|100|N|MINN
@@ -3751,9 +3756,6 @@ NAPR|Innovator Nasdaq-100 Power Buffer ETF - April|Z|NAPR|Y|100|N|NAPR
 NAT|Nordic American Tankers Limited Common Stock|N|NAT|N|100|N|NAT
 NAVB|Navidea Biopharmaceuticals, Inc. Common Stock|A|NAVB|N|100|N|NAVB
 NAZ|Nuveen Arizona Quality Municipal Income Fund Common Stock|N|NAZ|N|100|N|NAZ
-NBA|New Beginnings Acquisition Corp. Common Stock|A|NBA|N|100|N|NBA
-NBA.U|New Beginnings Acquisition Corp. Units, each consisting of one share of common stock, and one redeemable warrant|A|NBA.U|N|100|N|NBA=
-NBA.W|New Beginnings Acquisition Corp. Redeemable Warrants, each warrant exercisable for one share of Common Stock at an exercise price of $11.50|A|NBA.WS|N|100|N|NBA+
 NBB|Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest|N|NBB|N|100|N|NBB
 NBH|Neuberger Berman Municipal Fund Inc. Common Stock|A|NBH|N|100|N|NBH
 NBHC|National Bank Holdings Corporation Common Stock|N|NBHC|N|100|N|NBHC
@@ -4608,7 +4610,6 @@ REVS|Columbia Research Enhanced Value ETF|P|REVS|Y|100|N|REVS
 REW|ProShares UltraShort Technology|P|REW|Y|100|N|REW
 REX|REX American Resources Corporation|N|REX|N|100|N|REX
 REXR|Rexford Industrial Realty, Inc. Common Stock|N|REXR|N|100|N|REXR
-REXR$A|Rexford Industrial Realty, Inc. 5.875% Series A Cumulative Redeemable Preferred Stock|N|REXRpA|N|100|N|REXR-A
 REXR$B|Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock|N|REXRpB|N|100|N|REXR-B
 REXR$C|Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share|N|REXRpC|N|100|N|REXR-C
 REZ|iShares Residential and Multisector Real Estate ETF|P|REZ|Y|100|N|REZ
@@ -4960,7 +4961,6 @@ SKF|ProShares UltraShort Financials|P|SKF|Y|100|N|SKF
 SKIL|Skillsoft Corp. Class A Common Stock|N|SKIL|N|100|N|SKIL
 SKIL.W|Skillsoft Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|SKIL.WS|N|100|N|SKIL+
 SKLZ|Skillz Inc. Class A Common Stock|N|SKLZ|N|100|N|SKLZ
-SKLZ.W|Skillz Inc. Warrants|N|SKLZ.WS|N|100|N|SKLZ+
 SKM|SK Telecom Co., Ltd. Common Stock|N|SKM|N|100|N|SKM
 SKT|Tanger Factory Outlet Centers, Inc. Common Stock|N|SKT|N|100|N|SKT
 SKX|Skechers U.S.A., Inc. Common Stock|N|SKX|N|100|N|SKX
@@ -5709,7 +5709,6 @@ VEGN|US Vegan Climate Index|P|VEGN|Y|100|N|VEGN
 VEI|Vine Energy Inc. Class A Common Stock|N|VEI|N|100|N|VEI
 VEL|Velocity Financial, Inc. Common Stock|N|VEL|N|100|N|VEL
 VER|VEREIT, Inc. Common Stock|N|VER|N|100|N|VER
-VER$F|VEREIT, Inc. 6.70% Series F Cumulative Redeemable Preferred Stock|N|VERpF|N|100|N|VER-F
 VET|Vermilion Energy Inc. Common (Canada)|N|VET|N|100|N|VET
 VEU|Vanguard FTSE All World Ex US ETF|P|VEU|Y|100|N|VEU
 VFC|V.F. Corporation Common Stock|N|VFC|N|100|N|VFC
@@ -6053,7 +6052,6 @@ XVOL|Acruence Active Hedge U.S. Equity ETF|P|XVOL|Y|100|N|XVOL
 XVV|iShares ESG Screened S&P 500 ETF|Z|XVV|Y|100|N|XVV
 XVZ|iPath S&P 500 Dynamic VIX ETN|Z|XVZ|N|100|N|XVZ
 XWEB|SPDR S&P Internet ETF|P|XWEB|Y|100|N|XWEB
-XXII|22nd Century Group, Inc. Common Stock|A|XXII|N|100|N|XXII
 XYF|X Financial American Depositary Shares, each representing six Class A Ordinary Shares|N|XYF|N|100|N|XYF
 XYL|Xylem Inc. Common Stock New|N|XYL|N|100|N|XYL
 XYLD|Global X Funds Global X S&P 500 Covered Call ETF|P|XYLD|Y|100|N|XYLD
@@ -6117,4 +6115,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0813202118:01||||||
+File Creation Time: 0816202115:42||||||
