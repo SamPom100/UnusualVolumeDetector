@@ -278,7 +278,7 @@ ARR,ARR|ARMOUR Residential REIT, Inc.
 ARR$C,ARR$C|ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)
 ARW,ARW|Arrow Electronics, Inc. Common Stock
 ASA,ASA|ASA  Gold and Precious Metals Limited
-ASAI,ASAI|Sendas Distribuidora S.A. ADS
+ASAI,ASAI|Sendas Distribuidora S A ADS
 ASAN,ASAN|Asana, Inc. Class A Common Stock
 ASAQ,ASAQ|Atlantic Street Acquisition Corp Class A Common Stock
 ASAQ.U,ASAQ.U|Atlantic Street Acquisition Corp Units, each consisting of one share of Class A common stock and one-half of one Warrant
@@ -624,7 +624,6 @@ BW,BW|Babcock & Wilcox Enterprises, Inc. Common Stock
 BW$A,BW$A|Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock
 BWA,BWA|BorgWarner Inc. Common Stock
 BWG,BWG|BrandywineGLOBAL Global Income Opportunities Fund Inc.
-BWL.A,BWL.A|Bowl America, Inc. Class A Common Stock
 BWSN,BWSN|Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026
 BWXT,BWXT|BWX Technologies, Inc. Common Stock
 BX,BX|Blackstone Inc. Common Stock
@@ -2623,9 +2622,6 @@ NS$C,NS$C|Nustar Energy L.P. 9.00% Series C Fixed-to-Floating Rate Cumulative Re
 NSA,NSA|National Storage Affiliates Trust Common Shares of Beneficial Interest
 NSA$A,NSA$A|National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)
 NSC,NSC|Norfolk Southern Corporation Common Stock
-NSH,NSH|NavSight Holdings, Inc. Class A Common Stock
-NSH.U,NSH.U|NavSight Holdings, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant
-NSH.W,NSH.W|NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per whole share
 NSL,NSL|Nuveen Senior Income Fund Common Stock
 NSP,NSP|Insperity, Inc. Common Stock
 NSS,NSS|NuStar Logistics, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043
@@ -3362,6 +3358,8 @@ SPGS,SPGS|Simon Property Group Acquisition Holdings, Inc. Class A Common Stock
 SPGS.U,SPGS.U|Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant
 SPGS.W,SPGS.W|Simon Property Group Acquisition Holdings, Inc. Warrants, each exercisable for one Class A common stock at an exercise price of $11.50 per share
 SPH,SPH|Suburban Propane Partners, L.P. Common Stock
+SPIR,SPIR|Spire Global, Inc. Class A Common Stock
+SPIR.W,SPIR.W|Spire Global, Inc. Warrants
 SPLP,SPLP|Steel Partners Holdings LP LTD PARTNERSHIP UNIT
 SPLP$A,SPLP$A|Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value
 SPNT,SPNT|SiriusPoint Ltd. Common Shares
@@ -5660,6 +5658,8 @@ GERN,GERN|Geron Corporation - Common Stock
 GEVO,GEVO|Gevo, Inc. - Common Stock
 GFED,GFED|Guaranty Federal Bancshares, Inc. - Common Stock
 GGAL,GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
+GGGV,GGGV|G3 VRM Acquisition Corp. - Class A Common Stock
+GGGVR,GGGVR|G3 VRM Acquisition Corp. - Rights
 GGGVU,GGGVU|G3 VRM Acquisition Corp. - Units, each consisting one share of Class A Common stock and one right.
 GGMC,GGMC|Glenfarne Merger Corp. - Class A Common Stock
 GGMCU,GGMCU|Glenfarne Merger Corp. - Unit
@@ -6060,7 +6060,10 @@ ILPT,ILPT|Industrial Logistics Properties Trust - Common Shares of Beneficial In
 IMAB,IMAB|I-MAB - American Depositary Shares
 IMAC,IMAC|IMAC Holdings, Inc. - Common Stock
 IMACW,IMACW|IMAC Holdings, Inc. - Warrant
+IMAQ,IMAQ|International Media Acquisition Corp. - Class A Common Stock
+IMAQR,IMAQR|International Media Acquisition Corp. - Rights
 IMAQU,IMAQU|International Media Acquisition Corp. - Unit
+IMAQW,IMAQW|International Media Acquisition Corp. - Warrants
 IMBI,IMBI|iMedia Brands, Inc. - Class A Common Stock
 IMCC,IMCC|IM Cannabis Corp. - Common Shares
 IMCR,IMCR|Immunocore Holdings plc - American Depositary Shares
@@ -6695,7 +6698,7 @@ MOTNU,MOTNU|Motion Acquisition Corp. - Unit
 MOTNW,MOTNW|Motion Acquisition Corp. - Warrants to purchase one Class A common
 MOTS,MOTS|Motus GI Holdings, Inc. - Common Stock
 MOVE,MOVE|Movano Inc. - Common Stock
-MOXC,MOXC|Moxian, Inc. - Common Stock
+MOXC,MOXC|Moxian (BVI) Inc  - Ordinary Shares
 MPAA,MPAA|Motorcar Parts of America, Inc. - Common Stock
 MPAC,MPAC|Model Performance Acquisition Corp. - Class A Ordinary Share
 MPACR,MPACR|Model Performance Acquisition Corp. - Right
