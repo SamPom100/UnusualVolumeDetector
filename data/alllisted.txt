@@ -1252,7 +1252,9 @@ ENV,ENV|Envestnet, Inc Common Stock
 ENVA,ENVA|Enova International, Inc. Common Stock
 ENX,ENX|Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value
 ENZ,ENZ|Enzo Biochem, Inc. Common Stock ($0.01 Par Value)
+EOCW,EOCW|Elliott Opportunity II Corp. Class A Ordinary Shares
 EOCW.U,EOCW.U|Elliott Opportunity II Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
+EOCW.W,EOCW.W|Elliott Opportunity II Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 EOD,EOD|Wells Fargo Global Dividend Opportunity Fund
 EOG,EOG|EOG Resources, Inc. Common Stock
 EOI,EOI|Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest
@@ -2963,6 +2965,7 @@ PSA$M,PSA$M|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.12
 PSA$N,PSA$N|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N
 PSA$O,PSA$O|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of Beneficial Interest, Series O
 PSA$P,PSA$P|Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cumulative Preferred Share of Bene cial Interest, Series P
+PSA$Q,PSA$Q|Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share
 PSB,PSB|PS Business Parks, Inc. (MD) Common Stock
 PSB$W,PSB$W|PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative Preferred Stock, Series W
 PSB$X,PSB$X|PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25% Cumulative Preferred Stock, Series X
@@ -3485,6 +3488,7 @@ TDI,TDI|Telephone and Data Systems, Inc. Sr Nt
 TDOC,TDOC|Teladoc Health, Inc. Common Stock
 TDS,TDS|Telephone and Data Systems, Inc. Common Shares
 TDS$U,TDS$U|Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock
+TDS$V,TDS$V|Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.000% Series VV Cumulative Redeemable Perpetual Preferred Stock
 TDW,TDW|Tidewater Inc. Common Stock
 TDW.A,TDW.A|Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)
 TDW.B,TDW.B|Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)
@@ -3940,7 +3944,6 @@ XPOA.W,XPOA.W|DPCM Capital, Inc. Warrants, each whole warrant exercisable for on
 XPOF,XPOF|Xponential Fitness, Inc. Class A Common Stock
 XRX,XRX|Xerox Holdings Corporation Common Stock
 XTNT,XTNT|Xtant Medical Holdings, Inc. Common Stock
-XVZ,XVZ|iPath S&P 500 Dynamic VIX ETN
 XYF,XYF|X Financial American Depositary Shares, each representing six Class A Ordinary Shares
 XYL,XYL|Xylem Inc. Common Stock New
 Y,Y|Alleghany Corporation Common Stock
@@ -4139,7 +4142,7 @@ AGYS,AGYS|Agilysys, Inc. - Common Stock
 AHAC,AHAC|Alpha Healthcare Acquisition Corp. - Common Stock
 AHACU,AHACU|Alpha Healthcare Acquisition Corp. - Unit
 AHACW,AHACW|Alpha Healthcare Acquisition Corp. - Warrant
-AHCO,AHCO|AdaptHealth Corp.  - Class A Common Stock
+AHCO,AHCO|AdaptHealth Corp.  - Common Stock
 AHPAU,AHPAU|Avista Public Acquisition Corp. II - Unit
 AHPI,AHPI|Allied Healthcare Products, Inc. - Common Stock
 AIH,AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares
@@ -4594,7 +4597,6 @@ BPYPM,BPYPM|Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeema
 BPYPN,BPYPN|Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3
 BPYPO,BPYPO|Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2
 BPYPP,BPYPP|Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable Perpetual Preferred Units
-BPYUP,BPYUP|Brookfield Property REIT Inc. - 6.375% Series A Preferred Stock
 BRCN,BRCN|Burcon NutraScience Corp. - Common Stock
 BREZ,BREZ|Breeze Holdings Acquisition Corp. - Common Stock
 BREZR,BREZR|Breeze Holdings Acquisition Corp. - Right
@@ -4651,6 +4653,7 @@ BWACU,BWACU|Better World Acquisition Corp. - Unit
 BWACW,BWACW|Better World Acquisition Corp. - Warrants
 BWAY,BWAY|BrainsWay Ltd. - American Depositary Shares
 BWB,BWB|Bridgewater Bancshares, Inc. - Common Stock
+BWBBP,BWBBP|Bridgewater Bancshares, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series A
 BWCAU,BWCAU|Blue Whale Acquisition Corp I - Unit
 BWEN,BWEN|Broadwind, Inc. - Common Stock
 BWFG,BWFG|Bankwell Financial Group, Inc. - Common Stock
@@ -4757,9 +4760,6 @@ CETX,CETX|Cemtrex Inc. - Common Stock
 CETXP,CETXP|Cemtrex Inc. - Series 1 Preferred Stock
 CETXW,CETXW|Cemtrex Inc. - Series 1 Warrant
 CEVA,CEVA|CEVA, Inc. - Common Stock
-CFAC,CFAC|CF Finance Acquisition Corp. III - Common Stock
-CFACU,CFACU|CF Finance Acquisition Corp. III - Unit
-CFACW,CFACW|CF Finance Acquisition Corp. III - Warrant
 CFB,CFB|CrossFirst Bankshares, Inc. - Common Stock
 CFBK,CFBK|CF Bankshares Inc. - Common Stock
 CFFE,CFFE|CF Acquisition Corp. VIII - Class A Common Stock
@@ -5180,7 +5180,9 @@ DORM,DORM|Dorman Products, Inc. - Common Stock
 DOX,DOX|Amdocs Limited - Ordinary Shares
 DOYU,DOYU|DouYu International Holdings Limited - American Depositary Shares
 DPRO,DPRO|Draganfly Inc. - Common Shares
+DRAY,DRAY|Macondray Capital Acquisition Corp. I - Class A Ordinary Shares
 DRAYU,DRAYU|Macondray Capital Acquisition Corp. I - Unit
+DRAYW,DRAYW|Macondray Capital Acquisition Corp. I - Warrant
 DRIO,DRIO|DarioHealth Corp. - Common Stock
 DRMA,DRMA|Dermata Therapeutics, Inc. - Common Stock
 DRMAW,DRMAW|Dermata Therapeutics, Inc. - Warrant
@@ -5610,8 +5612,8 @@ GACQU,GACQU|Global Consumer Acquisition Corp. - Unit
 GACQW,GACQW|Global Consumer Acquisition Corp. - Warrant
 GAIA,GAIA|Gaia, Inc. - Class A Common Stock
 GAIN,GAIN|Gladstone Investment Corporation - Business Development Company
-GAINL,GAINL|Gladstone Investment Corporation - 6.375% Series E Cumulative Term Preferred Stock due 2025
 GAINN,GAINN|Gladstone Investment Corporation - 5.00% Notes Due 2026
+GAINZ,GAINZ|Gladstone Investment Corporation - 4.875% Notes due 2028
 GALT,GALT|Galectin Therapeutics Inc. - Common Stock
 GAMB,GAMB|Gambling.com Group Limited - Ordinary Shares
 GAMC,GAMC|Golden Arrow Merger Corp. - Class A Common Stock
@@ -6405,6 +6407,8 @@ LHAA,LHAA|Lerer Hippeau Acquisition Corp. - Class A Common Stock
 LHCG,LHCG|LHC Group - common stock
 LHDX,LHDX|Lucira Health, Inc. - Common Stock
 LI,LI|Li Auto Inc. - American Depositary Shares
+LIDR,LIDR|AEye, Inc. - Class A Common Stock
+LIDRW,LIDRW|AEye, Inc. - Warrant
 LIFE,LIFE|aTyr Pharma, Inc. - Common Stock
 LILA,LILA|Liberty Latin America Ltd. - Class A Common Stock
 LILAK,LILAK|Liberty Latin America Ltd. - Class C Common Stock
@@ -6845,7 +6849,9 @@ NKLA,NKLA|Nikola Corporation - Common Stock
 NKSH,NKSH|National Bankshares, Inc. - Common Stock
 NKTR,NKTR|Nektar Therapeutics - Common Stock
 NKTX,NKTX|Nkarta, Inc. - Common Stock
+NLIT,NLIT|Northern Lights Acquisition Corp. - Class A Common Stock
 NLITU,NLITU|Northern Lights Acquisition Corp. - Units
+NLITW,NLITW|Northern Lights Acquisition Corp. - Warrants
 NLOK,NLOK|NortonLifeLock Inc. - Common Stock
 NLSP,NLSP|NLS Pharmaceutics Ltd. - Common Shares
 NLSPW,NLSPW|NLS Pharmaceutics Ltd. - Warrant
@@ -7078,6 +7084,7 @@ OXBRW,OXBRW|Oxbridge Re Holdings Limited - Warrant
 OXLC,OXLC|Oxford Lane Capital Corp. - Common Stock
 OXLCL,OXLCL|Oxford Lane Capital Corp. - 6.75% Notes due 2031
 OXLCM,OXLCM|Oxford Lane Capital Corp. - 6.75% Series 2024 Term Preferred Stock
+OXLCO,OXLCO|Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029
 OXLCP,OXLCP|Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares
 OXSQ,OXSQ|Oxford Square Capital Corp. - Closed End Fund
 OXSQG,OXSQG|Oxford Square Capital Corp. - 5.50% Notes due 2028
