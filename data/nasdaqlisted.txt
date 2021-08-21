@@ -2937,6 +2937,7 @@ MKTW|MarketWise, Inc. - Class A Common Stock|G|N|N|100|N|N
 MKTWW|MarketWise, Inc. - Warrant|G|N|N|100|N|N
 MKTX|MarketAxess Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 MKTY|Mechanical Technology Incorporated - Common Stock|S|N|N|100|N|N
+MKTYP|Mechanical Technology Incorporated - 9.0% Series A Cumulative Perpetual Preferred Stock|S|N|N|100|N|N
 MLAB|Mesa Laboratories, Inc. - Common Stock|Q|N|N|100|N|N
 MLAC|Malacca Straits Acquisition Company Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MLACU|Malacca Straits Acquisition Company Limited - Units|S|N|N|100|N|N
@@ -3112,9 +3113,6 @@ NFBK|Northfield Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 NFE|New Fortress Energy Inc. - Class A Common Stock|Q|N|N|100|N|N
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100|N|N
 NFTY|First Trust India Nifty 50 Equal Weight ETF|G|N|N|100|Y|N
-NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
-NGACU|NextGen Acquisition Corporation - Units|S|N|N|100|N|N
-NGACW|NextGen Acquisition Corporation - Warrants|S|N|N|100|N|N
 NGCA|NextGen Acquisition Corp. II - Class A Ordinary Shares|S|N|N|100|N|N
 NGCAU|NextGen Acquisition Corp. II - Units|S|N|N|100|N|N
 NGCAW|NextGen Acquisition Corp. II - Warrant|S|N|N|100|N|N
@@ -3632,7 +3630,7 @@ PSTX|Poseida Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 PT|Pintec Technology Holdings Limited - American Depositary Shares|G|N|N|100|N|N
 PTC|PTC Inc. - Common Stock|Q|N|N|100|N|N
 PTCT|PTC Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-PTE|PolarityTE, Inc. - Common Stock|S|N|N|100|N|N
+PTE|PolarityTE, Inc. - Common Stock|S|N|D|100|N|N
 PTEN|Patterson-UTI Energy, Inc. - Common Stock|Q|N|N|100|N|N
 PTF|Invesco DWA Technology Momentum ETF|G|N|N|100|Y|N
 PTGX|Protagonist Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -4030,7 +4028,9 @@ SHIPZ|Seanergy Maritime Holdings Corp - Class B Warrant|S|N|N|100|N|N
 SHLD|VictoryShares Protect America ETF|G|N|N|100|Y|N
 SHLS|Shoals Technologies Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 SHOO|Steven Madden, Ltd. - Common Stock|Q|N|N|100|N|N
+SHQA|Shelter Acquisition Corporation I - Class A Common Stock|S|N|N|100|N|N
 SHQAU|Shelter Acquisition Corporation I - Units, each consisting of One Class A Common Stock and one-third of one warrant.|S|N|N|100|N|N
+SHQAW|Shelter Acquisition Corporation I - Warrants|S|N|N|100|N|N
 SHSP|SharpSpring, Inc. - Common Stock|S|N|N|100|N|N
 SHV|iShares Short Treasury Bond ETF|G|N|N|100|Y|N
 SHY|iShares 1-3 Year Treasury Bond ETF|G|N|N|100|Y|N
@@ -4382,7 +4382,9 @@ TH|Target Hospitality Corp. - Common Stock|S|N|N|100|N|N
 THCA|Tuscan Holdings Corp. II - Common Stock|S|N|N|100|N|N
 THCAU|Tuscan Holdings Corp. II - Unit|S|N|N|100|N|N
 THCAW|Tuscan Holdings Corp. II - Warrant|S|N|N|100|N|N
+THCP|Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock|G|N|N|100|N|N
 THCPU|Thunder Bridge Capital Partners IV, Inc. - Unit|G|N|N|100|N|N
+THCPW|Thunder Bridge Capital Partners IV, Inc. - Warrant|G|N|N|100|N|N
 THFF|First Financial Corporation Indiana - Common Stock|Q|N|N|100|N|N
 THMA|Thimble Point Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 THMAU|Thimble Point Acquisition Corp. - Unit|S|N|N|100|N|N
@@ -4869,6 +4871,8 @@ XOMA|XOMA Corporation - Common Stock|G|N|N|100|N|N
 XOMAO|XOMA Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock|G|N|N|100|N|N
 XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 XONE|The ExOne Company - Common Stock|Q|N|N|100|N|N
+XOS|Xos, Inc. - Common Stock|S|N|N|100|N|N
+XOSWW|Xos, Inc. - Warrants|S|N|N|100|N|N
 XP|XP Inc. - Class A Common Stock|Q|N|N|100|N|N
 XPAXU|XPAC Acquisition Corp. - Unit|S|N|N|100|N|N
 XPDI|Power & Digital Infrastructure Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -4950,4 +4954,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0819202121:31|||||||
+File Creation Time: 0820202121:30|||||||

@@ -3240,7 +3240,6 @@ SEM,SEM|Select Medical Holdings Corporation Common Stock
 SEMR,SEMR|SEMrush Holdings, Inc. Class A Common Stock
 SENS,SENS|Senseonics Holdings, Inc. Common Stock
 SF,SF|Stifel Financial Corporation Common Stock
-SF$A,SF$A|Stifel Financial Corporation Depositary Shares, each representing a 1/1000th interest in a share of 6.25% Non-Cumulative Preferred Stock, Series A
 SF$B,SF$B|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B
 SF$C,SF$C|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C
 SF$D,SF$D|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% Non-Cumulative Preferred Stock, Series D
@@ -3832,6 +3831,7 @@ WARR,WARR|Warrior Technologies Acquisition Company Class A Common Stock
 WARR.U,WARR.U|Warrior Technologies Acquisition Company Units
 WARR.W,WARR.W|Warrior Technologies Acquisition Company Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50
 WAT,WAT|Waters Corporation Common Stock
+WAVC.U,WAVC.U|Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant
 WBK,WBK|Westpac Banking Corporation Common Stock
 WBS,WBS|Webster Financial Corporation Common Stock
 WBS$F,WBS$F|Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock
@@ -6657,6 +6657,7 @@ MKTW,MKTW|MarketWise, Inc. - Class A Common Stock
 MKTWW,MKTWW|MarketWise, Inc. - Warrant
 MKTX,MKTX|MarketAxess Holdings, Inc. - Common Stock
 MKTY,MKTY|Mechanical Technology Incorporated - Common Stock
+MKTYP,MKTYP|Mechanical Technology Incorporated - 9.0% Series A Cumulative Perpetual Preferred Stock
 MLAB,MLAB|Mesa Laboratories, Inc. - Common Stock
 MLAC,MLAC|Malacca Straits Acquisition Company Limited - Class A Ordinary Shares
 MLACU,MLACU|Malacca Straits Acquisition Company Limited - Units
@@ -6831,9 +6832,6 @@ NEXT,NEXT|NextDecade Corporation - Common Stock
 NFBK,NFBK|Northfield Bancorp, Inc. - Common Stock
 NFE,NFE|New Fortress Energy Inc. - Class A Common Stock
 NFLX,NFLX|Netflix, Inc. - Common Stock
-NGAC,NGAC|NextGen Acquisition Corporation - Class A Ordinary Shares
-NGACU,NGACU|NextGen Acquisition Corporation - Units
-NGACW,NGACW|NextGen Acquisition Corporation - Warrants
 NGCA,NGCA|NextGen Acquisition Corp. II - Class A Ordinary Shares
 NGCAU,NGCAU|NextGen Acquisition Corp. II - Units
 NGCAW,NGCAW|NextGen Acquisition Corp. II - Warrant
@@ -7672,7 +7670,9 @@ SHIPW,SHIPW|Seanergy Maritime Holdings Corp - Class A Warrants
 SHIPZ,SHIPZ|Seanergy Maritime Holdings Corp - Class B Warrant
 SHLS,SHLS|Shoals Technologies Group, Inc. - Class A Common Stock
 SHOO,SHOO|Steven Madden, Ltd. - Common Stock
+SHQA,SHQA|Shelter Acquisition Corporation I - Class A Common Stock
 SHQAU,SHQAU|Shelter Acquisition Corporation I - Units, each consisting of One Class A Common Stock and one-third of one warrant.
+SHQAW,SHQAW|Shelter Acquisition Corporation I - Warrants
 SHSP,SHSP|SharpSpring, Inc. - Common Stock
 SHYF,SHYF|The Shyft Group, Inc. - Common Stock
 SIBN,SIBN|SI-BONE, Inc. - Common Stock
@@ -8000,7 +8000,9 @@ TH,TH|Target Hospitality Corp. - Common Stock
 THCA,THCA|Tuscan Holdings Corp. II - Common Stock
 THCAU,THCAU|Tuscan Holdings Corp. II - Unit
 THCAW,THCAW|Tuscan Holdings Corp. II - Warrant
+THCP,THCP|Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock
 THCPU,THCPU|Thunder Bridge Capital Partners IV, Inc. - Unit
+THCPW,THCPW|Thunder Bridge Capital Partners IV, Inc. - Warrant
 THFF,THFF|First Financial Corporation Indiana - Common Stock
 THMA,THMA|Thimble Point Acquisition Corp. - Class A Common Stock
 THMAU,THMAU|Thimble Point Acquisition Corp. - Unit
@@ -8444,6 +8446,8 @@ XOMA,XOMA|XOMA Corporation - Common Stock
 XOMAO,XOMAO|XOMA Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock
 XOMAP,XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock
 XONE,XONE|The ExOne Company - Common Stock
+XOS,XOS|Xos, Inc. - Common Stock
+XOSWW,XOSWW|Xos, Inc. - Warrants
 XP,XP|XP Inc. - Class A Common Stock
 XPAXU,XPAXU|XPAC Acquisition Corp. - Unit
 XPDI,XPDI|Power & Digital Infrastructure Acquisition Corp. - Class A Common Stock
