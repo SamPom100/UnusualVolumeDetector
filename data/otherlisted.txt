@@ -493,13 +493,13 @@ BAMR|Brookfield Asset Management Reinsurance Partners Ltd. Class A Exchangeable 
 BANC|Banc of California, Inc. Common Stock|N|BANC|N|100|N|BANC
 BANC$E|Banc of California, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% Non-Cumulative Perpetual Preferred Stock, Series E|N|BANCpE|N|100|N|BANC-E
 BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
-BAPR|Innovator S&P 500 Buffer ETF - April |Z|BAPR|Y|100|N|BAPR
+BAPR|Innovator U.S. Equity Buffer ETF - April |Z|BAPR|Y|100|N|BAPR
 BAR|GraniteShares Gold Trust Shares of Beneficial Interest|P|BAR|N|100|N|BAR
 BARK|The Original BARK Company Common Stock|N|BARK|N|100|N|BARK
 BARK.W|The Original BARK Company Warrants|N|BARK.WS|N|100|N|BARK+
 BATL|Battalion Oil Corporation Common Stock|A|BATL|N|100|N|BATL
 BATT|Amplify Lithium & Battery Technology ETF|P|BATT|Y|100|N|BATT
-BAUG|Innovator S&P 500 Buffer ETF - August|Z|BAUG|Y|100|N|BAUG
+BAUG|Innovator U.S. Equity Buffer ETF - August|Z|BAUG|Y|100|N|BAUG
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
 BB|BlackBerry Limited Common Stock|N|BB|N|100|N|BB
 BBAR|Banco BBVA Argentina S.A. ADS|N|BBAR|N|100|N|BBAR
@@ -571,7 +571,7 @@ BETZ|Roundhill Sports Betting & iGaming ETF|P|BETZ|Y|100|N|BETZ
 BF.A|Brown Forman Inc Class A Common Stock|N|BF.A|N|100|N|BF.A
 BF.B|Brown Forman Inc Class B Common Stock|N|BF.B|N|100|N|BF.B
 BFAM|Bright Horizons Family Solutions Inc. Common Stock|N|BFAM|N|100|N|BFAM
-BFEB|Innovator S&P 500 Buffer ETF - February|Z|BFEB|Y|100|N|BFEB
+BFEB|Innovator U.S. Equity Buffer ETF - February|Z|BFEB|Y|100|N|BFEB
 BFK|BlackRock Municipal Income Trust|N|BFK|N|100|N|BFK
 BFLY|Butterfly Network, Inc. Class A Common Stock|N|BFLY|N|100|N|BFLY
 BFLY.W|Butterfly Network, Inc. Warrants|N|BFLY.WS|N|100|N|BFLY+
@@ -633,9 +633,9 @@ BITQ|Bitwise Crypto Industry Innovators ETF|P|BITQ|Y|100|N|BITQ
 BIV|Vanguard Intermediate-Term Bond ETF|P|BIV|Y|100|N|BIV
 BIZD|VanEck Vectors BDC Income ETF|P|BIZD|Y|100|N|BIZD
 BJ|BJ's Wholesale Club Holdings, Inc. Common Stock|N|BJ|N|100|N|BJ
-BJAN|Innovator S&P 500 Buffer ETF - January|Z|BJAN|Y|100|N|BJAN
-BJUL|Innovator ETFs Trust Innovator S&P 500 Buffer ETF - July|Z|BJUL|Y|100|N|BJUL
-BJUN|Innovator S&P 500 Buffer ETF - June|Z|BJUN|Y|100|N|BJUN
+BJAN|Innovator U.S. Equity Buffer ETF - January|Z|BJAN|Y|100|N|BJAN
+BJUL|Innovator U.S. Equity Buffer ETF - July|Z|BJUL|Y|100|N|BJUL
+BJUN|Innovator U.S. Equity Buffer ETF - June|Z|BJUN|Y|100|N|BJUN
 BK|The Bank of New York Mellon Corporation Common Stock|N|BK|N|100|N|BK
 BKAG|BNY Mellon Core Bond ETF|P|BKAG|Y|100|N|BKAG
 BKD|Brookdale Senior Living Inc. Common Stock|N|BKD|N|100|N|BKD
@@ -674,8 +674,8 @@ BLV|Vanguard Long-Term Bond ETF|P|BLV|Y|100|N|BLV
 BLW|Blackrock Limited Duration Income Trust|N|BLW|N|100|N|BLW
 BLX|Banco Latinoamericano de Comercio Exterior, S.A.|N|BLX|N|100|N|BLX
 BMA|Banco Macro S.A.  ADR (representing Ten Class B Common Shares)|N|BMA|N|100|N|BMA
-BMAR|Innovator S&P 500 Buffer ETF - March|Z|BMAR|Y|100|N|BMAR
-BMAY|Innovator S&P 500 Buffer ETF - May|Z|BMAY|Y|100|N|BMAY
+BMAR|Innovator U.S. Equity Buffer ETF - March|Z|BMAR|Y|100|N|BMAR
+BMAY|Innovator U.S. Equity Buffer ETF - May|Z|BMAY|Y|100|N|BMAY
 BME|Blackrock Health Sciences Trust|N|BME|N|100|N|BME
 BMED|BlackRock Future Health ETF|P|BMED|Y|100|N|BMED
 BMEZ|BlackRock Health Sciences Trust II Common Shares of Beneficial Interest|N|BMEZ|N|100|N|BMEZ
@@ -1099,7 +1099,9 @@ CORN|Teucrium Corn Fund ETV|P|CORN|Y|100|N|CORN
 CORP|Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund|P|CORP|Y|100|N|CORP
 CORR|CorEnergy Infrastructure Trust, Inc. Common Stock|N|CORR|N|100|N|CORR
 CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock|N|CORRpA|N|100|N|CORR-A
+CORS|Corsair Partnering Corporation Class A Ordinary Shares|N|CORS|N|100|N|CORS
 CORS.U|Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CORS.U|N|100|N|CORS=
+CORS.W|Corsair Partnering Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CORS.WS|N|100|N|CORS+
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
 COUR|Coursera, Inc. Common Stock|N|COUR|N|100|N|COUR
 COW|iPathA Series B Bloomberg Livestock Subindex Total Return ETN|P|COW|N|100|N|COW
@@ -1837,7 +1839,6 @@ EVT|Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial 
 EVTC|Evertec, Inc. Common Stock|N|EVTC|N|100|N|EVTC
 EVV|Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest|A|EVV|N|100|N|EVV
 EVX|VanEck Vectors Environmental Services ETF|P|EVX|Y|100|N|EVX
-EVY|Eaton Vance New York Municipal Income Trust Shares of Beneficial Interest|A|EVY|N|100|N|EVY
 EW|Edwards Lifesciences Corporation Common Stock|N|EW|N|100|N|EW
 EWA|iShares MSCI Australia Index Fund|P|EWA|Y|100|N|EWA
 EWC|iShares MSCI Canada Index Fund|P|EWC|Y|100|N|EWC
@@ -4124,11 +4125,11 @@ PALL|Aberdeen Standard Physical Palladium Shares ETF|P|PALL|Y|100|N|PALL
 PAM|Pampa Energia S.A. Pampa Energia S.A.|N|PAM|N|100|N|PAM
 PAMC|Pacer Lunt MidCap Multi-Factor Alternator ETF|P|PAMC|Y|100|N|PAMC
 PANW|Palo Alto Networks, Inc. Common Stock|N|PANW|N|100|N|PANW
-PAPR|Innovator S&P 500 Power Buffer ETF - April|Z|PAPR|Y|100|N|PAPR
+PAPR|Innovator U.S. Equity Power Buffer ETF - April|Z|PAPR|Y|100|N|PAPR
 PAR|PAR Technology Corporation Common Stock|N|PAR|N|100|N|PAR
 PARR|Par Pacific Holdings, Inc.  Common Stock|N|PARR|N|100|N|PARR
 PATH|UiPath, Inc. Class A Common Stock|N|PATH|N|100|N|PATH
-PAUG|Innovator S&P 500 Power Buffer ETF - August|Z|PAUG|Y|100|N|PAUG
+PAUG|Innovator U.S. Equity Power Buffer ETF - August|Z|PAUG|Y|100|N|PAUG
 PAVE|Global X Funds Global X U.S. Infrastructure Development ETF|Z|PAVE|Y|100|N|PAVE
 PAWZ|ProShares Pet Care ETF|Z|PAWZ|Y|100|N|PAWZ
 PAY|Paymentus Holdings, Inc. Class A Common Stock|N|PAY|N|100|N|PAY
@@ -4193,7 +4194,6 @@ PDT|John Hancock Premium Dividend Fund|N|PDT|N|100|N|PDT
 PEAK|Healthpeak Properties, Inc. Common Stock|N|PEAK|N|100|N|PEAK
 PEB|Pebblebrook Hotel Trust Common Shares of Beneficial Interest|N|PEB|N|100|N|PEB
 PEB$C|Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpC|N|100|N|PEB-C
-PEB$D|Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpD|N|100|N|PEB-D
 PEB$E|Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpE|N|100|N|PEB-E
 PEB$F|Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpF|N|100|N|PEB-F
 PEB$G|Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interest|N|PEBpG|N|100|N|PEB-G
@@ -4211,7 +4211,7 @@ PEX|ProShares Global Listed Private Equity ETF|Z|PEX|Y|100|N|PEX
 PEXL|Pacer US Export Leaders ETF|P|PEXL|Y|100|N|PEXL
 PFD|Flaherty & Crumrine Preferred and Income Fund Incorporated|N|PFD|N|100|N|PFD
 PFE|Pfizer, Inc. Common Stock|N|PFE|N|100|N|PFE
-PFEB|Innovator S&P 500 Power Buffer ETF - February|Z|PFEB|Y|100|N|PFEB
+PFEB|Innovator U.S. Equity Power Buffer ETF - February|Z|PFEB|Y|100|N|PFEB
 PFFA|Virtus InfraCap U.S. Preferred Stock ETF|P|PFFA|Y|100|N|PFFA
 PFFD|Global X U.S. Preferred ETF|P|PFFD|Y|100|N|PFFD
 PFFL|ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048|P|PFFL|N|100|N|PFFL
@@ -4277,11 +4277,11 @@ PIPP|Pine Island Acquisition Corp. Class A Common Stock|N|PIPP|N|100|N|PIPP
 PIPP.U|Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|PIPP.U|N|100|N|PIPP=
 PIPP.W|Pine Island Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|PIPP.WS|N|100|N|PIPP+
 PIPR|Piper Sandler Companies Common Stock|N|PIPR|N|100|N|PIPR
-PJAN|Innovator S&P 500 Power Buffer ETF - January|Z|PJAN|Y|100|N|PJAN
+PJAN|Innovator U.S. Equity Power Buffer ETF - January|Z|PJAN|Y|100|N|PJAN
 PJP|Invesco Dynamic Pharmaceuticals ETF|P|PJP|Y|100|N|PJP
 PJT|PJT Partners Inc. Class A Common Stock|N|PJT|N|100|N|PJT
-PJUL|Innovator S&P 500 Power Buffer ETF - July|Z|PJUL|Y|100|N|PJUL
-PJUN|Innovator S&P 500 Power Buffer ETF - June|Z|PJUN|Y|100|N|PJUN
+PJUL|Innovator U.S. Equity Power Buffer ETF - July|Z|PJUL|Y|100|N|PJUL
+PJUN|Innovator U.S. Equity Power Buffer ETF - June|Z|PJUN|Y|100|N|PJUN
 PK|Park Hotels & Resorts Inc. Common Stock |N|PK|N|100|N|PK
 PKB|Invesco Dynamic Building & Construction ETF|P|PKB|Y|100|N|PKB
 PKE|Park Aerospace Corp. Common Stock|N|PKE|N|100|N|PKE
@@ -4306,8 +4306,8 @@ PLX|Protalix BioTherapeutics, Inc. (DE) Common Stock|A|PLX|N|100|N|PLX
 PLYM|Plymouth Industrial REIT, Inc. Common Stock|N|PLYM|N|100|N|PLYM
 PLYM$A|Plymouth Industrial REIT, Inc. 7.50% Series A Cumulative Redeemable Preferred Stock|A|PLYMpA|N|100|N|PLYM-A
 PM|Philip Morris International Inc Common Stock|N|PM|N|100|N|PM
-PMAR|Innovator S&P 500 Power Buffer ETF - March|Z|PMAR|Y|100|N|PMAR
-PMAY|Innovator S&P 500 Power Buffer ETF - May|Z|PMAY|Y|100|N|PMAY
+PMAR|Innovator U.S. Equity Power Buffer ETF - March|Z|PMAR|Y|100|N|PMAR
+PMAY|Innovator U.S. Equity Power Buffer ETF - May|Z|PMAY|Y|100|N|PMAY
 PMF|PIMCO Municipal Income Fund Common Stock|N|PMF|N|100|N|PMF
 PML|Pimco Municipal Income Fund II Common Shares of Beneficial Interest|N|PML|N|100|N|PML
 PMM|Putnam Managed Municipal Income Trust Common Stock|N|PMM|N|100|N|PMM
@@ -5463,6 +5463,7 @@ TRTN$A|Triton International Limited 8.50% Series A Cumulative Redeemable Perpetu
 TRTN$B|Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares|N|TRTNpB|N|100|N|TRTN-B
 TRTN$C|Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares|N|TRTNpC|N|100|N|TRTN-C
 TRTN$D|Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares|N|TRTNpD|N|100|N|TRTN-D
+TRTN$E|Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares|N|TRTNpE|N|100|N|TRTN-E
 TRTX|TPG RE Finance Trust, Inc. Common Stock|N|TRTX|N|100|N|TRTX
 TRTX$C|TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share|N|TRTXpC|N|100|N|TRTX-C
 TRTY|Cambria Trinity ETF|Z|TRTY|Y|100|N|TRTY
@@ -5533,8 +5534,8 @@ UA|Under Armour, Inc. Class C Common Stock|N|UA|N|100|N|UA
 UAA|Under Armour, Inc. Class A Common Stock|N|UAA|N|100|N|UAA
 UAMY|United States Antimony Corporation Common Stock|A|UAMY|N|100|N|UAMY
 UAN|CVR Partners, LP Common Units representing Limited Partner Interests|N|UAN|N|100|N|UAN
-UAPR|Innovator S&P 500 Ultra Buffer ETF - April|Z|UAPR|Y|100|N|UAPR
-UAUG|Innovator S&P 500 Ultra Buffer ETF - August |Z|UAUG|Y|100|N|UAUG
+UAPR|Innovator U.S. Equity Ultra Buffer ETF - April|Z|UAPR|Y|100|N|UAPR
+UAUG|Innovator U.S. Equity Ultra Buffer ETF - August|Z|UAUG|Y|100|N|UAUG
 UAVS|AgEagle Aerial Systems, Inc. Common Stock|A|UAVS|N|100|N|UAVS
 UBA|Urstadt Biddle Properties Inc. Common Stock|N|UBA|N|100|N|UBA
 UBER|Uber Technologies, Inc. Common Stock|N|UBER|N|100|N|UBER
@@ -5557,7 +5558,7 @@ UE|Urban Edge Properties Common Shares of Beneficial Interest|N|UE|N|100|N|UE
 UEC|Uranium Energy Corp. Common Stock|A|UEC|N|100|N|UEC
 UEVM|VictoryShares USAA MSCI Emerging Markets Value Momentum ETF|P|UEVM|Y|100|N|UEVM
 UFAB|Unique Fabricating, Inc. Common Stock|A|UFAB|N|100|N|UFAB
-UFEB|Innovator S&P 500 Ultra Buffer ETF - February|Z|UFEB|Y|100|N|UFEB
+UFEB|Innovator U.S. Equity Ultra Buffer ETF - February|Z|UFEB|Y|100|N|UFEB
 UFI|Unifi, Inc. New Common Stock|N|UFI|N|100|N|UFI
 UFS|Domtar Corporation (NEW) Common Stock|N|UFS|N|100|N|UFS
 UGA|United States Gasoline Fund LP|P|UGA|Y|100|N|UGA
@@ -5573,17 +5574,17 @@ UI|Ubiquiti Inc. Common Stock|N|UI|N|100|N|UI
 UIS|Unisys Corporation New Common Stock|N|UIS|N|100|N|UIS
 UITB|VictoryShares USAA Core Intermediate-Term Bond ETF|P|UITB|Y|100|N|UITB
 UIVM|VictoryShares USAA MSCI International Value Momentum ETF|P|UIVM|Y|100|N|UIVM
-UJAN|Innovator S&P 500 Ultra Buffer ETF - January|Z|UJAN|Y|100|N|UJAN
+UJAN|Innovator U.S. Equity Ultra Buffer ETF - January|Z|UJAN|Y|100|N|UJAN
 UJB|ProShares Ultra High Yield ETF|P|UJB|Y|100|N|UJB
-UJUL|Innovator S&P 500 Ultra Buffer ETF - July|Z|UJUL|Y|100|N|UJUL
-UJUN|Innovator S&P 500 Ultra Buffer ETF - June|Z|UJUN|Y|100|N|UJUN
+UJUL|Innovator U.S. Equity Ultra Buffer ETF - July|Z|UJUL|Y|100|N|UJUL
+UJUN|Innovator U.S. Equity Ultra Buffer ETF - June|Z|UJUN|Y|100|N|UJUN
 UL|Unilever PLC Common Stock|N|UL|N|100|N|UL
 ULE|ProShares Ultra Euro|P|ULE|Y|100|N|ULE
 ULST|SPDR SSgA Ultra Short Term Bond ETF|P|ULST|Y|100|N|ULST
 ULTR|IQ Ultra Short Duration ETF|P|ULTR|Y|100|N|ULTR
 ULVM|VictoryShares USAA MSCI USA Value Momentum ETF|P|ULVM|Y|100|N|ULVM
-UMAR|Innovator S&P 500 Ultra Buffer ETF - March|Z|UMAR|Y|100|N|UMAR
-UMAY|Innovator S&P 500 Ultra Buffer ETF - May|Z|UMAY|Y|100|N|UMAY
+UMAR|Innovator U.S. Equity Ultra Buffer ETF - March|Z|UMAR|Y|100|N|UMAR
+UMAY|Innovator U.S. Equity Ultra Buffer ETF - May|Z|UMAY|Y|100|N|UMAY
 UMC|United Microelectronics Corporation (NEW) Common Stock|N|UMC|N|100|N|UMC
 UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
@@ -6119,4 +6120,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0820202121:30||||||
+File Creation Time: 0823202115:41||||||

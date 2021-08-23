@@ -875,7 +875,9 @@ COP,COP|ConocoPhillips Common Stock
 COR,COR|CoreSite Realty Corporation Common Stock
 CORR,CORR|CorEnergy Infrastructure Trust, Inc. Common Stock
 CORR$A,CORR$A|CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock
+CORS,CORS|Corsair Partnering Corporation Class A Ordinary Shares
 CORS.U,CORS.U|Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
+CORS.W,CORS.W|Corsair Partnering Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
 COTY,COTY|Coty Inc. Class A Common Stock
 COUR,COUR|Coursera, Inc. Common Stock
 COW,COW|iPathA Series B Bloomberg Livestock Subindex Total Return ETN
@@ -1345,7 +1347,6 @@ EVRI,EVRI|Everi Holdings Inc. Common Stock
 EVT,EVT|Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
 EVTC,EVTC|Evertec, Inc. Common Stock
 EVV,EVV|Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest
-EVY,EVY|Eaton Vance New York Municipal Income Trust Shares of Beneficial Interest
 EW,EW|Edwards Lifesciences Corporation Common Stock
 EXD,EXD|Eaton Vance Tax-Managed Buy-Write Strategy Fund Common Shares of Beneficial Interest
 EXG,EXG|Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest
@@ -2820,7 +2821,6 @@ PDT,PDT|John Hancock Premium Dividend Fund
 PEAK,PEAK|Healthpeak Properties, Inc. Common Stock
 PEB,PEB|Pebblebrook Hotel Trust Common Shares of Beneficial Interest
 PEB$C,PEB$C|Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
-PEB$D,PEB$D|Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$E,PEB$E|Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$F,PEB$F|Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest
 PEB$G,PEB$G|Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interest
@@ -3603,6 +3603,7 @@ TRTN$A,TRTN$A|Triton International Limited 8.50% Series A Cumulative Redeemable 
 TRTN$B,TRTN$B|Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares
 TRTN$C,TRTN$C|Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares
 TRTN$D,TRTN$D|Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares
+TRTN$E,TRTN$E|Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares
 TRTX,TRTX|TPG RE Finance Trust, Inc. Common Stock
 TRTX$C,TRTX$C|TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share
 TRU,TRU|TransUnion Common Stock
@@ -4575,7 +4576,6 @@ BNTC,BNTC|Benitec Biopharma Inc. - Common Stock
 BNTX,BNTX|BioNTech SE - American Depositary Shares
 BOCH,BOCH|Bank of Commerce Holdings (CA) - Common Stock
 BOKF,BOKF|BOK Financial Corporation - Common Stock
-BOKFL,BOKFL|BOK Financial Corporation - 5.375% Subordinated Notes due 2056
 BOLT,BOLT|Bolt Biotherapeutics, Inc. - Common Stock
 BOMN,BOMN|Boston Omaha Corporation - Class A Common Stock
 BON,BON|Bon Natural Life Limited - Ordinary Shares
@@ -5411,6 +5411,7 @@ FARM,FARM|Farmer Brothers Company - Common Stock
 FARO,FARO|FARO Technologies, Inc. - Common Stock
 FAST,FAST|Fastenal Company - Common Stock
 FAT,FAT|FAT Brands Inc. - Common Stock
+FATBB,FATBB|FAT Brands Inc. - Class B Common Stock
 FATBP,FATBP|FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock
 FATBW,FATBW|FAT Brands Inc. - Warrant
 FATE,FATE|Fate Therapeutics, Inc. - Common Stock
@@ -5458,7 +5459,9 @@ FGFPP,FGFPP|FG Financial Group, Inc.  - 8.00% Cumulative Series A Preferred Stoc
 FHB,FHB|First Hawaiian, Inc. - Common Stock
 FHTX,FHTX|Foghorn Therapeutics Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
+FICV,FICV|Frontier Investment Corp - Class A Ordinary Shares
 FICVU,FICVU|Frontier Investment Corp - Units
+FICVW,FICVW|Frontier Investment Corp - Warrants
 FINM,FINM|Marlin Technology Corporation - Class A Ordinary Share
 FINMU,FINMU|Marlin Technology Corporation - Unit
 FINMW,FINMW|Marlin Technology Corporation - Warrant
@@ -5824,7 +5827,8 @@ GVP,GVP|GSE Systems, Inc. - Common Stock
 GWAC,GWAC|Good Works Acquisition Corp. - Common Stock
 GWACW,GWACW|Good Works Acquisition Corp. - Warrant
 GWGH,GWGH|GWG Holdings, Inc - Common Stock
-GWIIU,GWIIU|Good Works II Acquisition Corp. - Unit
+GWII,GWII|Good Works II Acquisition Corp. - Common Stock
+GWIIW,GWIIW|Good Works II Acquisition Corp. - Warrant
 GWRS,GWRS|Global Water Resources, Inc. - common stock
 GXII,GXII|GX Acquisition Corp. II - Class A Common Stock
 GXIIU,GXIIU|GX Acquisition Corp. II - Unit
