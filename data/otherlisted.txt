@@ -1312,7 +1312,6 @@ DEED|First Trust TCW Securitized Plus ETF|P|DEED|Y|100|N|DEED
 DEEF|Xtrackers FTSE Developed ex US Multifactor ETF|P|DEEF|Y|100|N|DEEF
 DEEP|Roundhill Acquirers Deep Value ETF|P|DEEP|Y|100|N|DEEP
 DEF|Invesco Defensive Equity ETF|P|DEF|Y|100|N|DEF
-DEFA|iShares Adaptive Currency Hedged MSCI EAFE ETF|Z|DEFA|Y|100|N|DEFA
 DEFN|Emles Trust Emles Protective Allocation ETF|Z|DEFN|Y|100|N|DEFN
 DEH|D8 Holdings Corp. Class A Ordinary Shares|N|DEH|N|100|N|DEH
 DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|DEH.U|N|100|N|DEH=
@@ -1766,7 +1765,7 @@ ERX|Direxion Energy Bull 2X Shares|P|ERX|Y|100|N|ERX
 ERY|Direxion Daily Energy Bear 2X Shares|P|ERY|Y|100|N|ERY
 ES|Eversource Energy (D/B/A) Common Stock|N|ES|N|100|N|ES
 ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests|P|ESBA|N|100|N|ESBA
-ESCR|Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF|Z|ESCR|Y|100|N|ESCR
+ESCR|DBX ETF Tr Xtrackers Bloomberg US Investment Grade Corporate ESG ETF|Z|ESCR|Y|100|N|ESCR
 ESE|ESCO Technologies Inc. Common Stock|N|ESE|N|100|N|ESE
 ESEB|Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF|Z|ESEB|Y|100|N|ESEB
 ESG|FlexShares STOXX US ESG Select Index Fund|Z|ESG|Y|100|N|ESG
@@ -1966,6 +1965,7 @@ FFC|Flaherty & Crumrine Preferred and Income Securities Fund Incorporated|N|FFC|
 FFEB|FT Cboe Vest U.S. Equity Buffer ETF - February|Z|FFEB|Y|100|N|FFEB
 FFHG|Formula Folios Hedged Growth ETF |Z|FFHG|Y|100|N|FFHG
 FFIU|UVA Unconstrained Medium-Term Fixed Income ETF|P|FFIU|Y|100|N|FFIU
+FFND|The Future Fund Active ETF|P|FFND|Y|100|N|FFND
 FFR|First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund|P|FFR|Y|100|N|FFR
 FFSG|FormulaFolios Smart Growth ETF|Z|FFSG|Y|100|N|FFSG
 FFTG|FormulaFolios Tactical Growth ETF|Z|FFTG|Y|100|N|FFTG
@@ -2567,8 +2567,6 @@ HESM|Hess Midstream LP Class A Share|N|HESM|N|100|N|HESM
 HEWC|iShares Currency Hedged MSCI Canada ETF|P|HEWC|Y|100|N|HEWC
 HEWJ|iShares Currency Hedged MSCI Japan ETF|P|HEWJ|Y|100|N|HEWJ
 HEWU|iShares Currency Hedged MSCI United Kingdom ETF|P|HEWU|Y|100|N|HEWU
-HEWW|iShares Currency Hedged MSCI Mexico ETF|P|HEWW|Y|100|N|HEWW
-HEXO|HEXO Corp. Common Shares|N|HEXO|N|100|N|HEXO
 HEZU|iShares Currency Hedged MSCI Eurozone ETF|P|HEZU|Y|100|N|HEZU
 HFC|HollyFrontier Corporation Common Stock|N|HFC|N|100|N|HFC
 HFRO|Highland Income Fund|N|HFRO|N|100|N|HFRO
@@ -2922,7 +2920,6 @@ IP|International Paper Company Common Stock|N|IP|N|100|N|IP
 IPAC|iShares Core MSCI Pacific ETF|P|IPAC|Y|100|N|IPAC
 IPAY|ETFMG Prime Mobile Payments ETF|P|IPAY|Y|100|N|IPAY
 IPB|Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1|A|IPB|Y|100|N|IPB
-IPFF|iShares International Preferred Stock ETF|Z|IPFF|Y|100|N|IPFF
 IPG|Interpublic Group of Companies, Inc. (The) Common Stock|N|IPG|N|100|N|IPG
 IPI|Intrepid Potash, Inc Common Stock|N|IPI|N|100|N|IPI
 IPO|Renaissance IPO ETF|P|IPO|Y|100|N|IPO
@@ -4526,7 +4523,6 @@ QQH|HCM Defender 100 Index ETF|P|QQH|Y|100|N|QQH
 QQQE|Direxion NASDAQ-100 Equal Weighted Index Shares|P|QQQE|Y|100|N|QQQE
 QRFT|QRAFT AI-Enhanced U.S. Large Cap ETF|P|QRFT|Y|100|N|QRFT
 QS|QuantumScape Corporation Class A Common Stock|N|QS|N|100|N|QS
-QS.W|QuantumScape Corporation Warrants|N|QS.WS|N|100|N|QS+
 QSR|Restaurant Brands International Inc. Common Shares|N|QSR|N|100|N|QSR
 QSY|WisdomTree U.S. Quality Shareholder Yield Fund|P|QSY|Y|100|N|QSY
 QTAP|Innovator Growth Accelerated Plus ETF - April|Z|QTAP|Y|100|N|QTAP
@@ -4727,6 +4723,7 @@ RSG|Republic Services, Inc. Common Stock|N|RSG|N|100|N|RSG
 RSI|Rush Street Interactive, Inc. Class A Common Stock|N|RSI|N|100|N|RSI
 RSKD|Riskified Ltd. Class A Ordinary Shares|N|RSKD|N|100|N|RSKD
 RSP|Invesco S&P 500 Equal Weight ETF|P|RSP|Y|100|N|RSP
+RSPY|Revere Sector Opportunity ETF|P|RSPY|Y|100|N|RSPY
 RSX|VanEck Vectors Russia ETF|Z|RSX|Y|100|N|RSX
 RSXJ|VanEck Vectors Russia Small-Cap ETF|Z|RSXJ|Y|100|N|RSXJ
 RTAI|Rareview Tax Advantaged Income ETF|Z|RTAI|Y|100|N|RTAI
@@ -5180,11 +5177,9 @@ STK|Columbia Seligman Premium Technology Growth Fund Inc|N|STK|N|100|N|STK
 STL|Sterling Bancorp|N|STL|N|100|N|STL
 STL$A|Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.50% Non-Cumulative, Perpetual Preferred Stock, Series A|N|STLpA|N|100|N|STL-A
 STLA|Stellantis N.V. Common Shares|N|STLA|N|100|N|STLA
-STLC|iShares Factors US Blend Style ETF|Z|STLC|Y|100|N|STLC
 STLG|iShares Factors US Growth Style ETF|Z|STLG|Y|100|N|STLG
 STLV|iShares Factors US Value Style ETF|Z|STLV|Y|100|N|STLV
 STM|STMicroelectronics N.V. Common Stock|N|STM|N|100|N|STM
-STMB|iShares Factors US Mid Blend Style ETF|Z|STMB|Y|100|N|STMB
 STN|Stantec Inc Common Stock|N|STN|N|100|N|STN
 STNC|Stance Equity ESG Large Cap Core ETF|P|STNC|Y|100|N|STNC
 STNG|Scorpio Tankers Inc. Common Shares|N|STNG|N|100|N|STNG
@@ -5198,7 +5193,6 @@ STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
 STRE|Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares|N|STRE|N|100|N|STRE
 STRE.U|Supernova Partners Acquisition Company III, Ltd. Units|N|STRE.U|N|100|N|STRE=
 STRE.W|Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|STRE.WS|N|100|N|STRE+
-STSB|iShares Factors US Small Blend Style ETF|Z|STSB|Y|100|N|STSB
 STT|State Street Corporation Common Stock|N|STT|N|100|N|STT
 STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D|N|STTpD|N|100|N|STT-D
 STT$G|State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative|N|STTpG|N|100|N|STT-G
@@ -6094,6 +6088,7 @@ YYY|Amplify High Income ETF|P|YYY|Y|100|N|YYY
 ZBH|Zimmer Biomet Holdings, Inc. Common Stock|N|ZBH|N|100|N|ZBH
 ZBZX|BATS BZX Exchange test issue|Z|ZBZX|N|100|Y|ZBZX
 ZDGE|Zedge, Inc. Class B Common Stock |A|ZDGE|N|100|N|ZDGE
+ZECP|Zacks Trust Zacks Earnings Consistent Portfolio ETF|Z|ZECP|Y|100|N|ZECP
 ZEN|Zendesk, Inc. Common Stock|N|ZEN|N|100|N|ZEN
 ZEPP|Zepp Health Corporation American Depositary Shares|N|ZEPP|N|100|N|ZEPP
 ZETA|Zeta Global Holdings Corp. Class A Common Stock|N|ZETA|N|100|N|ZETA
@@ -6120,4 +6115,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0823202117:01||||||
+File Creation Time: 0824202112:11||||||

@@ -1761,7 +1761,6 @@ HEP,HEP|Holly Energy Partners, L.P. Common Stock
 HEQ,HEQ|John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest
 HES,HES|Hess Corporation Common Stock
 HESM,HESM|Hess Midstream LP Class A Share
-HEXO,HEXO|HEXO Corp. Common Shares
 HFC,HFC|HollyFrontier Corporation Common Stock
 HFRO,HFRO|Highland Income Fund
 HFRO$A,HFRO$A|Highland Income Fund 5.375% Series A Cumulative Preferred Shares
@@ -3021,7 +3020,6 @@ QFTA.U,QFTA.U|Quantum FinTech Acquisition Corporation Units, each consisting of 
 QFTA.W,QFTA.W|Quantum FinTech Acquisition Corporation Warrants, each warrant exercisable for one-half of one share of Common Stock at an exercise price of $11.50
 QGEN,QGEN|Qiagen N.V. Common Shares 
 QS,QS|QuantumScape Corporation Class A Common Stock
-QS.W,QS.W|QuantumScape Corporation Warrants
 QSR,QSR|Restaurant Brands International Inc. Common Shares
 QTS,QTS|QTS Realty Trust, Inc. Class A Common Stock
 QTS$A,QTS$A|QTS Realty Trust, Inc. 7.125% Series A Cumulative Redeemable Perpetual Preferred Stock
@@ -4127,6 +4125,8 @@ AGFY,AGFY|Agrify Corporation - Common Stock
 AGGR,AGGR|Agile Growth Corp. - Class A Ordinary Share
 AGGRU,AGGRU|Agile Growth Corp. - Units
 AGGRW,AGGRW|Agile Growth Corp. - Warrant
+AGIL,AGIL|AgileThought, Inc. - Class A Common Stock
+AGILW,AGILW|AgileThought, Inc. - Warrant
 AGIO,AGIO|Agios Pharmaceuticals, Inc. - Common Stock
 AGLE,AGLE|Aeglea BioTherapeutics, Inc. - Common Stock
 AGMH,AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares
@@ -4395,6 +4395,7 @@ AUB,AUB|Atlantic Union Bankshares Corporation - Common Stock
 AUBAP,AUBAP|Atlantic Union Bankshares Corporation - Depositary Shares each representing a 1/400th ownership interest in a share of 6.875%Perpetual Non-Cumulative Preferred Stock, Series A
 AUBN,AUBN|Auburn National Bancorporation, Inc. - Common Stock
 AUDC,AUDC|AudioCodes Ltd. - Ordinary Shares
+AUID,AUID|Ipsidy Inc. - Common Stock
 AUPH,AUPH|Aurinia Pharmaceuticals Inc - Common Shares
 AURC,AURC|Aurora Acquisition Corp. - Class A Ordinary Shares
 AURCU,AURCU|Aurora Acquisition Corp. - Unit
@@ -4851,7 +4852,6 @@ CLNN,CLNN|Clene Inc. - Common Stock
 CLNNW,CLNNW|Clene Inc. - Warrant
 CLOEU,CLOEU|Clover Leaf Capital Corp. - Unit
 CLOV,CLOV|Clover Health Investments, Corp.  - Class A Common stock
-CLOVW,CLOVW|Clover Health Investments, Corp.  - Warrants
 CLPS,CLPS|CLPS Incorporation - Common Stock
 CLPT,CLPT|ClearPoint Neuro Inc. - Common Stock
 CLRB,CLRB|Cellectar Biosciences, Inc. - Common Stock
@@ -4902,7 +4902,9 @@ CNSP,CNSP|CNS Pharmaceuticals, Inc. - Common Stock
 CNTA,CNTA|Centessa Pharmaceuticals plc - American Depositary Shares
 CNTB,CNTB|Connect Biopharma Holdings Limited - American Depositary Shares
 CNTG,CNTG|Centogene N.V. - Common Shares
+CNTQ,CNTQ|Chardan NexTech Acquisition 2 Corp. - Class A Common Stock
 CNTQU,CNTQU|Chardan NexTech Acquisition 2 Corp. - Unit
+CNTQW,CNTQW|Chardan NexTech Acquisition 2 Corp. - Warrant
 CNTY,CNTY|Century Casinos, Inc. - Common Stock
 CNXC,CNXC|Concentrix Corporation - Common Stock
 CNXN,CNXN|PC Connection, Inc. - Common Stock
@@ -5890,6 +5892,7 @@ HEPS,HEPS|D-Market Electronic Services & Trading - American Depositary Shares
 HERA,HERA|FTAC Hera Acquisition Corp. - Class A Ordinary Shares
 HERAU,HERAU|FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant
 HERAW,HERAW|FTAC Hera Acquisition Corp. - Warrant
+HEXO,HEXO|HEXO Corp. - Common Shares
 HFBL,HFBL|Home Federal Bancorp, Inc. of Louisiana - Common Stock
 HFFG,HFFG|HF Foods Group Inc. - Common Stock
 HFWA,HFWA|Heritage Financial Corporation - Common Stock
@@ -6425,9 +6428,6 @@ LITT,LITT|Logistics Innovation Technologies Corp. - Class A Common stock
 LITTU,LITTU|Logistics Innovation Technologies Corp. - Units
 LITTW,LITTW|Logistics Innovation Technologies Corp. - Warrant
 LIVE,LIVE|Live Ventures Incorporated - Common Stock
-LIVK,LIVK|LIV Capital Acquisition Corp. - Class A Ordinary Shares
-LIVKU,LIVKU|LIV Capital Acquisition Corp. - Unit
-LIVKW,LIVKW|LIV Capital Acquisition Corp. - Warrant
 LIVN,LIVN|LivaNova PLC - Ordinary Shares
 LIVX,LIVX|LiveXLive Media, Inc. - Common Stock
 LIXT,LIXT|Lixte Biotechnology Holdings, Inc. - Common Stock
@@ -7493,9 +7493,6 @@ RMBI,RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock
 RMBL,RMBL|RumbleOn, Inc. - Class B Common Stock
 RMBS,RMBS|Rambus, Inc. - Common Stock
 RMCF,RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock
-RMGB,RMGB|RMG Acquisition Corp. II - Class A Ordinary Shares
-RMGBU,RMGBU|RMG Acquisition Corp. II - Unit
-RMGBW,RMGBW|RMG Acquisition Corp. II - Warrant
 RMGC,RMGC|RMG Acquisition Corp. III - Class A Ordinary Shares
 RMGCU,RMGCU|RMG Acquisition Corp. III - Unit
 RMGCW,RMGCW|RMG Acquisition Corp. III - Warrant
@@ -7508,7 +7505,9 @@ RNAZ,RNAZ|TransCode Therapeutics, Inc. - Common Stock
 RNDB,RNDB|Randolph Bancorp, Inc. - Common Stock
 RNLX,RNLX|Renalytix AI plc - American Depositary Shares
 RNST,RNST|Renasant Corporation - Common Stock
+RNW,RNW|ReNew Energy Global plc - Class A Shares
 RNWK,RNWK|RealNetworks, Inc. - Common Stock
+RNWWW,RNWWW|ReNew Energy Global plc - Warrant
 ROAD,ROAD|Construction Partners, Inc. - Common Stock
 ROCGU,ROCGU|Roth CH Acquisition IV Co. - Unit
 ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
