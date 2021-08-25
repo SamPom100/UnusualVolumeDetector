@@ -146,9 +146,9 @@ AIT,AIT|Applied Industrial Technologies, Inc. Common Stock
 AIV,AIV|Apartment Investment and Management Company Common Stock
 AIZ,AIZ|Assurant, Inc. Common Stock
 AIZN,AIZN|Assurant, Inc. 5.25% Subordinated Notes due 2061
-AJAX,AJAX|Ajax I Class A Ordinary Shares
-AJAX.U,AJAX.U|Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant
-AJAX.W,AJAX.W|Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+AJAX,AJAX|Capri Listco Class A Ordinary Shares
+AJAX.U,AJAX.U|Capri Listco Units
+AJAX.W,AJAX.W|Capri Listco Warrants
 AJG,AJG|Arthur J. Gallagher & Co. Common Stock
 AJRD,AJRD|Aerojet Rocketdyne Holdings, Inc. Common Stock
 AJX,AJX|Great Ajax Corp. Common Stock
@@ -1600,7 +1600,6 @@ GGO$A,GGO$A|The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Calla
 GGT,GGT|Gabelli Multi-Media Trust, Inc. (The) Common Stock
 GGT$E,GGT$E|Gabelli Multi-Media Trust Inc. (The) 5.125% Series E Cumulative Preferred Stock
 GGT$G,GGT$G|Gabelli Multi-Media Trust Inc. (The) 5.125% Series G Cumulative Preferred Shares
-GGT.R,GGT.R|Gabelli Multi-Media Trust Inc. (The) Rights (expiring 8/25/2021) 
 GGZ,GGZ|Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
 GGZ$A,GGZ$A|Gabelli Global Small and Mid Cap Value Trust (The) 5.450% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)
 GHC,GHC|Graham Holdings Company Common Stock
@@ -3306,6 +3305,7 @@ SMHI,SMHI|SEACOR Marine Holdings Inc. Common Stock
 SMLP,SMLP|Summit Midstream Partners, LP Common Units Representing Limited Partner Interests
 SMM,SMM|Salient Midstream Common Shares of Beneficial Interest
 SMP,SMP|Standard Motor Products, Inc. Common Stock
+SMRT,SMRT|SmartRent, Inc. Class A Common Stock
 SMTS,SMTS|Sierra Metals Inc. Common Stock
 SMWB,SMWB|Similarweb Ltd. Ordinary Shares
 SNA,SNA|Snap-On Incorporated Common Stock
@@ -3511,6 +3511,7 @@ TG,TG|Tredegar Corporation Common Stock
 TGB,TGB|Taseko Mines, Ltd. Common Stock
 TGH,TGH|Textainer Group Holdings Limited Common Shares
 TGH$A,TGH$A|Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 7.000% Series A Cumulative Redeemable Perpetual Preference Shares
+TGH$B,TGH$B|Textainer Group Holdings Limited Depositary Shares, each representing a 1/1,000th interest in a share of 6.250% Series B Cumulative Redeemable Perpetual Preference Shares
 TGI,TGI|Triumph Group, Inc. Common Stock
 TGNA,TGNA|TEGNA Inc
 TGP,TGP|Teekay LNG Partners L.P.
@@ -5603,7 +5604,6 @@ FUV,FUV|Arcimoto, Inc. - Common Stock
 FVAM,FVAM|5:01 Acquisition Corp. - Class A Common Stock
 FVCB,FVCB|FVCBankcorp, Inc. - Common Stock
 FVE,FVE|Five Star Senior Living Inc. - Common Shares
-FWAA,FWAA|Fifth Wall Acquisition Corp. I - Class A Common Stock
 FWAC,FWAC|Fifth Wall Acquisition Corp. III - Class A Ordinary Shares
 FWONA,FWONA|Liberty Media Corporation - Series A Liberty Formula One Common Stock
 FWONK,FWONK|Liberty Media Corporation - Series C Liberty Formula One Common Stock
@@ -7486,6 +7486,8 @@ RILYZ,RILYZ|B. Riley Financial, Inc. - 5.25% Senior Notes due 2028
 RIOT,RIOT|Riot Blockchain, Inc - Common Stock
 RIVE,RIVE|Riverview Financial Corporation - Common Stock
 RKDA,RKDA|Arcadia Biosciences, Inc. - Common Stock
+RKLB,RKLB|Rocket Lab USA, Inc. - Common Stock
+RKLBW,RKLBW|Rocket Lab USA, Inc. - Warrant
 RLAY,RLAY|Relay Therapeutics, Inc. - Common Stock
 RLMD,RLMD|Relmada Therapeutics, Inc. - Common Stock
 RLYB,RLYB|Rallybio Corporation - Common Stock
@@ -8205,9 +8207,6 @@ UVSP,UVSP|Univest Financial Corporation - Common Stock
 UXIN,UXIN|Uxin Limited - American Depositary Shares
 VABK,VABK|Virginia National Bankshares Corporation - Common Stock
 VACC,VACC|Vaccitech plc - American Depositary Shares
-VACQ,VACQ|Vector Acquisition Corporation - Class A Common Stock
-VACQU,VACQU|Vector Acquisition Corporation - Unit
-VACQW,VACQW|Vector Acquisition Corporation - Warrant
 VALN,VALN|Valneva SE - American Depositary Shares
 VALU,VALU|Value Line, Inc. - Common Stock
 VAQC,VAQC|Vector Acquisition Corporation II - Class A Ordinary Shares

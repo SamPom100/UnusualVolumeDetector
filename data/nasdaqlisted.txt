@@ -1341,7 +1341,7 @@ DWUS|AdvisorShares Dorsey Wright FSM US Core ETF|G|N|N|100|Y|N
 DXCM|DexCom, Inc. - Common Stock|Q|N|N|100|N|N
 DXGE|WisdomTree Germany Hedged Equity Fund|G|N|N|100|Y|N
 DXJS|WisdomTree Japan Hedged SmallCap Equity Fund|G|N|N|100|Y|N
-DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
+DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|E|100|N|N
 DXYN|The Dixie Group, Inc. - Common Stock|G|N|N|100|N|N
 DYAI|Dyadic International, Inc. - Common Stock|S|N|N|100|N|N
 DYN|Dyne Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1801,7 +1801,6 @@ FVAM|5:01 Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 FVC|First Trust Dorsey Wright Dynamic Focus 5 ETF|G|N|N|100|Y|N
 FVCB|FVCBankcorp, Inc. - Common Stock|S|N|N|100|N|N
 FVE|Five Star Senior Living Inc. - Common Shares|S|N|N|100|N|N
-FWAA|Fifth Wall Acquisition Corp. I - Class A Common Stock|S|N|N|100|N|N
 FWAC|Fifth Wall Acquisition Corp. III - Class A Ordinary Shares|S|N|N|100|N|N
 FWONA|Liberty Media Corporation - Series A Liberty Formula One Common Stock|Q|N|N|100|N|N
 FWONK|Liberty Media Corporation - Series C Liberty Formula One Common Stock|Q|N|N|100|N|N
@@ -3661,7 +3660,7 @@ PUCK|Goal Acquisitions Corp. - Common Stock|S|N|N|100|N|N
 PUCKU|Goal Acquisitions Corp. - Unit|S|N|N|100|N|N
 PUCKW|Goal Acquisitions Corp. - Warrant|S|N|N|100|N|N
 PUI|Invesco DWA Utilities Momentum ETF|G|N|N|100|Y|N
-PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100|N|N
+PULM|Pulmatrix, Inc. - Common Stock|S|N|D|100|N|N
 PUYI|Puyi Inc. - American Depository Shares|G|N|N|100|N|N
 PVAC|Penn Virginia Corporation - Common Stock|Q|N|N|100|N|N
 PVBC|Provident Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -3831,6 +3830,8 @@ RING|iShares MSCI Global Gold Miners ETF|G|N|N|100|Y|N
 RIOT|Riot Blockchain, Inc - Common Stock|S|N|N|100|N|N
 RIVE|Riverview Financial Corporation - Common Stock|G|N|N|100|N|N
 RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|N|100|N|N
+RKLB|Rocket Lab USA, Inc. - Common Stock|S|N|N|100|N|N
+RKLBW|Rocket Lab USA, Inc. - Warrant|S|N|N|100|N|N
 RLAY|Relay Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RLMD|Relmada Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RLYB|Rallybio Corporation - Common Stock|Q|N|N|100|N|N
@@ -4598,9 +4599,6 @@ UVSP|Univest Financial Corporation - Common Stock|Q|N|N|100|N|N
 UXIN|Uxin Limited - American Depositary Shares|Q|N|N|100|N|N
 VABK|Virginia National Bankshares Corporation - Common Stock|S|N|N|100|N|N
 VACC|Vaccitech plc - American Depositary Shares|G|N|N|100|N|N
-VACQ|Vector Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
-VACQU|Vector Acquisition Corporation - Unit|S|N|N|100|N|N
-VACQW|Vector Acquisition Corporation - Warrant|S|N|N|100|N|N
 VALN|Valneva SE - American Depositary Shares|Q|N|N|100|N|N
 VALU|Value Line, Inc. - Common Stock|S|N|N|100|N|N
 VAQC|Vector Acquisition Corporation II - Class A Ordinary Shares|S|N|N|100|N|N
@@ -4653,8 +4651,8 @@ VIACP|ViacomCBS Inc. - 5.75% Series A Mandatory Convertible Preferred Stock|Q|N|
 VIASP|Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock|Q|N|N|100|N|N
 VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100|N|N
 VICR|Vicor Corporation - Common Stock|Q|N|N|100|N|N
-VIEW|View, Inc. - Class A Common Stock|G|N|N|100|N|N
-VIEWW|View, Inc. - Warrant|G|N|N|100|N|N
+VIEW|View, Inc. - Class A Common Stock|G|N|E|100|N|N
+VIEWW|View, Inc. - Warrant|G|N|E|100|N|N
 VIGI|Vanguard International Dividend Appreciation ETF|G|N|N|100|Y|N
 VIH|VPC Impact Acquisition Holdings - Class A Ordinary Shares|S|N|N|100|N|N
 VIHAU|VPC Impact Acquisition Holdings - Unit|S|N|N|100|N|N
@@ -4957,4 +4955,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0824202115:41|||||||
+File Creation Time: 0825202115:41|||||||
