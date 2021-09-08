@@ -745,7 +745,9 @@ BRX|Brixmor Property Group Inc. Common Stock|N|BRX|N|100|N|BRX
 BRZU|Direxion Daily Brazil Bull 2X Shares|P|BRZU|Y|100|N|BRZU
 BSA|BrightSphere Investment Group Inc. 5.125% Notes due 2031|N|BSA|N|100|N|BSA
 BSAC|Banco Santander - Chile ADS|N|BSAC|N|100|N|BSAC
+BSAQ|Black Spade Acquisition Co Class A Ordinary Shares|N|BSAQ|N|100|N|BSAQ
 BSAQ.U|Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|BSAQ.U|N|100|N|BSAQ=
+BSAQ.W|Black Spade Acquisition Co Warrants|N|BSAQ.WS|N|100|N|BSAQ+
 BSBR|Banco Santander Brasil SA American Depositary Shares, each representing one unit|N|BSBR|N|100|N|BSBR
 BSEP|Innovator U.S. Equity Buffer ETF - September|Z|BSEP|Y|100|N|BSEP
 BSIG|BrightSphere Investment Group Inc. Common Stock|N|BSIG|N|100|N|BSIG
@@ -845,7 +847,6 @@ CB|Chubb Limited  Common Stock|N|CB|N|100|N|CB
 CBAH|CBRE Acquisition Holdings, Inc. Class A Common Stock|N|CBAH|N|100|N|CBAH
 CBAH.U|CBRE Acquisition Holdings, Inc. SAIL securities, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant|N|CBAH.U|N|100|N|CBAH=
 CBAH.W|CBRE Acquisition Holdings, Inc. Warrants|N|CBAH.WS|N|100|N|CBAH+
-CBB|Cincinnati Bell Inc. Common Stock|N|CBB|N|100|N|CBB
 CBB$B|Cincinnati Bell Inc. Preferred Stock|N|CBBpB|N|100|N|CBB-B
 CBD|Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share|N|CBD|N|100|N|CBD
 CBH|Virtus AllianzGI Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest|N|CBH|N|100|N|CBH
@@ -927,9 +928,6 @@ CHAA|Catcha Investment Corp. Class A Ordinary Shares|N|CHAA|N|100|N|CHAA
 CHAA.U|Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|CHAA.U|N|100|N|CHAA=
 CHAA.W|Catcha Investment Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CHAA.WS|N|100|N|CHAA+
 CHAD|Direxion Daily CSI 300 China A Shares Bear 1X Shares|P|CHAD|Y|100|N|CHAD
-CHAQ|Chardan Healthcare Acquisition 2 Corp. Common Stock|A|CHAQ|N|100|N|CHAQ
-CHAQ.U|Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one Warrant entitling the holder to purchase one-half of a share of Common Stock|A|CHAQ.U|N|100|N|CHAQ=
-CHAQ.W|Chardan Healthcare Acquisition 2 Corp. Warrants, entitling the holder thereof to purchase one-half (1/2) of a share of common stock at a price of $11.50 per whole share|A|CHAQ.WS|N|100|N|CHAQ+
 CHAU|Direxion Daily CSI 300 China A Share Bull 2X Shares|P|CHAU|Y|100|N|CHAU
 CHCT|Community Healthcare Trust Incorporated Common Stock|N|CHCT|N|100|N|CHCT
 CHD|Church & Dwight Company, Inc. Common Stock|N|CHD|N|100|N|CHD
@@ -2400,9 +2398,6 @@ GNK|Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)|N|GN
 GNL|Global Net Lease, Inc. Common Stock|N|GNL|N|100|N|GNL
 GNL$A|Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share|N|GNLpA|N|100|N|GNL-A
 GNL$B|Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock|N|GNLpB|N|100|N|GNL-B
-GNPK|Genesis Park Acquisition Corp. Class A Ordinary Shares|N|GNPK|N|100|N|GNPK
-GNPK.U|Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|GNPK.U|N|100|N|GNPK=
-GNPK.W|Genesis Park Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|GNPK.WS|N|100|N|GNPK+
 GNR|SPDR S&P Global Natural Resources ETF|P|GNR|Y|100|N|GNR
 GNRC|Generac Holdlings Inc. Common Stock|N|GNRC|N|100|N|GNRC
 GNT|GAMCO Natural Resources, Gold & Income Trust|N|GNT|N|100|N|GNT
@@ -2897,7 +2892,6 @@ INGR|Ingredion Incorporated Common Stock|N|INGR|N|100|N|INGR
 INKM|SPDR SSgA Income Allocation ETF|P|INKM|Y|100|N|INKM
 INMU|BlackRock Intermediate Muni Income Bond ETF|P|INMU|Y|100|N|INMU
 INN|Summit Hotel Properties, Inc. Common Stock|N|INN|N|100|N|INN
-INN$D|Summit Hotel Properties, Inc. 6.45% Series D Cumulative Redeemable Preferred Stock|N|INNpD|N|100|N|INN-D
 INN$E|Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock|N|INNpE|N|100|N|INN-E
 INN$F|Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share|N|INNpF|N|100|N|INN-F
 INS|Intelligent Systems Corporation Common Stock|N|INS|N|100|N|INS
@@ -3051,7 +3045,9 @@ J|Jacobs Engineering Group Inc. Common Stock|N|J|N|100|N|J
 JAAA|Janus Henderson AAA CLO ETF|P|JAAA|Y|100|N|JAAA
 JAGG|JPMorgan U.S. Aggregate Bond ETF|P|JAGG|Y|100|N|JAGG
 JANZ|TrueShares Structured Outcome (January) ETF|Z|JANZ|Y|100|N|JANZ
+JATT|JATT Acquisition Corp Class A Ordinary Shares|N|JATT|N|100|N|JATT
 JATT.U|JATT Acquisition Corp Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant|N|JATT.U|N|100|N|JATT=
+JATT.W|JATT Acquisition Corp Warrants|N|JATT.WS|N|100|N|JATT+
 JAX|J. Alexander's Holdings, Inc. Common Stock|N|JAX|N|100|N|JAX
 JBGS|JBG SMITH Properties Common Shares |N|JBGS|N|100|N|JBGS
 JBI|Janus International Group, Inc. Common Stock|N|JBI|N|100|N|JBI
@@ -4344,7 +4340,7 @@ PPG|PPG Industries, Inc. Common Stock|N|PPG|N|100|N|PPG
 PPL|PPL Corporation Common Stock|N|PPL|N|100|N|PPL
 PPLT|Aberdeen Standard Physical Platinum Shares ETF|P|PPLT|Y|100|N|PPLT
 PPT|Putnam Premier Income Trust Common Stock|N|PPT|N|100|N|PPT
-PPTY|PPTY U.S. Diversified Real Estate ETF|P|PPTY|Y|100|N|PPTY
+PPTY|U.S. Diversified Real Estate ETF|P|PPTY|Y|100|N|PPTY
 PQDI|Principal Spectrum Tax-Advantaged Dividend Active ETF|P|PQDI|Y|100|N|PQDI
 PQIN|PGIM QMA Strategic Alpha International Equity ETF|P|PQIN|Y|100|N|PQIN
 PQLC|PGIM QMA Strategic Alpha Large-Cap Core ETF|P|PQLC|Y|100|N|PQLC
@@ -4577,6 +4573,8 @@ RCD|Invesco S&P 500 Equal Weight Consumer Discretionary ETF|P|RCD|Y|100|N|RCD
 RCG|RENN Fund, Inc Common Stock|A|RCG|N|100|N|RCG
 RCI|Rogers Communication, Inc. Common Stock|N|RCI|N|100|N|RCI
 RCL|D/B/A Royal Caribbean Cruises Ltd. Common Stock|N|RCL|N|100|N|RCL
+RCOR|Renovacor, Inc. Common Stock|A|RCOR|N|100|N|RCOR
+RCOR.W|Renovacor, Inc. Warrants|A|RCOR.WS|N|100|N|RCOR+
 RCS|PIMCO Strategic Income Fund, Inc.|N|RCS|N|100|N|RCS
 RCUS|Arcus Biosciences, Inc. Common Stock|N|RCUS|N|100|N|RCUS
 RDFI|Rareview Dynamic Fixed Income ETF|Z|RDFI|Y|100|N|RDFI
@@ -4585,6 +4583,8 @@ RDN|Radian Group Inc. Common Stock|N|RDN|N|100|N|RDN
 RDOG|ALPS ETF Trust ALPS REIT Dividend Dogs ETF|P|RDOG|Y|100|N|RDOG
 RDS.A|Royal Dutch Shell PLC Royal Dutch Shell American Depositary Shares (Each representing two Class A Ordinary Shares)|N|RDS.A|N|100|N|RDS.A
 RDS.B|Royal Dutch Shell PLC Royal Dutch Shell PLC American Depositary Shares (Each representing two Class B Ordinary Shares)|N|RDS.B|N|100|N|RDS.B
+RDW|Redwire Corporation Common Stock|N|RDW|N|100|N|RDW
+RDW.W|Redwire Corporation Redeemable Warrants|N|RDW.WS|N|100|N|RDW+
 RDY|Dr. Reddy's Laboratories Ltd Common Stock|N|RDY|N|100|N|RDY
 RE|Everest Re Group, Ltd. Common Stock|N|RE|N|100|N|RE
 REC|Emles Real Estate Credit ETF|Z|REC|Y|100|N|REC
@@ -6117,4 +6117,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0902202114:01||||||
+File Creation Time: 0907202121:31||||||
