@@ -3327,9 +3327,9 @@ SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpet
 SNV$E,SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
 SNX,SNX|Synnex Corporation Common Stock
 SO,SO|Southern Company (The) Common Stock
-SOAC,SOAC|Sustainable Opportunities Acquisition Corp. Class A Ordinary Shares
+SOAC,SOAC|TMC the metals company Inc. Common Stock
 SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
-SOAC.W,SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50
+SOAC.W,SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants
 SOGO,SOGO|Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share
 SOI,SOI|Solaris Oilfield Infrastructure, Inc. Class A Common Stock
 SOJB,SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076
@@ -4572,6 +4572,7 @@ BMTC,BMTC|Bryn Mawr Bank Corporation - Common Stock
 BNFT,BNFT|Benefitfocus, Inc. - Common Stock
 BNGO,BNGO|Bionano Genomics, Inc. - Common Stock
 BNGOW,BNGOW|Bionano Genomics, Inc. - Warrant
+BNNRU,BNNRU|Banner Acquisition Corp. - Units
 BNR,BNR|Burning Rock Biotech Limited - American Depositary Shares
 BNSO,BNSO|Bonso Electronics International, Inc. - Common Stock
 BNTC,BNTC|Benitec Biopharma Inc. - Common Stock
@@ -5224,6 +5225,7 @@ DVAX,DVAX|Dynavax Technologies Corporation - Common Stock
 DWACU,DWACU|Digital World Acquisition Corp. - Units
 DWSN,DWSN|Dawson Geophysical Company - Common Stock
 DXCM,DXCM|DexCom, Inc. - Common Stock
+DXLG,DXLG|Destination XL Group, Inc. - Common Stock
 DXPE,DXPE|DXP Enterprises, Inc. - Common Stock
 DXYN,DXYN|The Dixie Group, Inc. - Common Stock
 DYAI,DYAI|Dyadic International, Inc. - Common Stock
@@ -7478,7 +7480,6 @@ RICOW,RICOW|Agrico Acquisition Corp. - Warrant
 RIDE,RIDE|Lordstown Motors Corp. - Class A Common Stock
 RIGL,RIGL|Rigel Pharmaceuticals, Inc. - Common Stock
 RILY,RILY|B. Riley Financial, Inc. - Common Stock
-RILYH,RILYH|B. Riley Financial, Inc. - 7.375% Senior Notes Due 2023
 RILYI,RILYI|B. Riley Financial, Inc. - 6.875% Senior Notes due 2023
 RILYK,RILYK|B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026
 RILYL,RILYL|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
@@ -7847,7 +7848,7 @@ SRZNW,SRZNW|Surrozen, Inc. - Warrant
 SSAA,SSAA|Science Strategic Acquisition Corp. Alpha - Class A Common Stock
 SSAAU,SSAAU|Science Strategic Acquisition Corp. Alpha - Unit
 SSAAW,SSAAW|Science Strategic Acquisition Corp. Alpha - Warrant
-SSB,SSB|South State Corporation - Common Stock
+SSB,SSB|SouthState Corporation - Common Stock
 SSBI,SSBI|Summit State Bank - Common Stock
 SSBK,SSBK|Southern States Bancshares, Inc. - Common Stock
 SSKN,SSKN|Strata Skin Sciences, Inc. - Common Stock
@@ -8137,7 +8138,9 @@ TVACW,TVACW|Thayer Ventures Acquisition Corporation - Warrant
 TVTX,TVTX|Travere Therapeutics, Inc. - Common Stock
 TVTY,TVTY|Tivity Health, Inc. - Common Stock
 TW,TW|Tradeweb Markets Inc. - Class A Common Stock
+TWCB,TWCB|Bilander Acquisition Corp. - Class A Common Stock
 TWCBU,TWCBU|Bilander Acquisition Corp. - Unit
+TWCBW,TWCBW|Bilander Acquisition Corp. - Warrant
 TWIN,TWIN|Twin Disc, Incorporated - Common Stock
 TWLV,TWLV|Twelve Seas Investment Company II - Class A Common Stock
 TWLVU,TWLVU|Twelve Seas Investment Company II - Unit
