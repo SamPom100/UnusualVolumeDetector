@@ -517,6 +517,8 @@ BKH,BKH|Black Hills Corporation Common Stock
 BKI,BKI|Black Knight, Inc. Common Stock 
 BKN,BKN|BlackRock Investment Quality Municipal Trust Inc. (The)
 BKR,BKR|Baker Hughes Company Class A Common Stock
+BKSY,BKSY|BlackSky Technology Inc. Class A Common Stock
+BKSY.W,BKSY.W|BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock
 BKT,BKT|BlackRock Income Trust Inc. (The)
 BKTI,BKTI|BK Technologies Corporation Common Stock
 BKU,BKU|BankUnited, Inc. Common Stock
@@ -1419,6 +1421,7 @@ FISK,FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Re
 FIV,FIV|First Trust Senior Floating Rate 2022 Target Term Fund Common Shares of Beneficial Interest
 FIX,FIX|Comfort Systems USA, Inc. Common Stock
 FL,FL|Foot Locker, Inc.
+FLAG.U,FLAG.U|First Light Acquisition Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant
 FLC,FLC|Flaherty & Crumrine Total Return Fund Inc Common Stock
 FLGE,FLGE|Credit Suisse FI Large Cap Growth Enhanced ETN
 FLME,FLME|Flame Acquisition Corp. Class A Common Stock
@@ -2663,7 +2666,6 @@ NVST,NVST|Envista Holdings Corporation Common Stock
 NVT,NVT|nVent Electric plc Ordinary Shares 
 NVTA,NVTA|Invitae Corporation Common Stock
 NWG,NWG|NatWest Group plc American Depositary Shares
-NWHM,NWHM|New Home Company Inc. (The) Common Stock
 NWN,NWN|Northwest Natural Holding Company Common Stock
 NX,NX|Quanex Building Products Corporation Common Stock
 NXC,NXC|Nuveen California Select Tax-Free Income Portfolio Common Stock
@@ -3247,9 +3249,6 @@ SFB,SFB|Stifel Financial Corporation 5.20% Senior Notes due 2047
 SFBS,SFBS|ServisFirst Bancshares, Inc. Common Stock
 SFE,SFE|Safeguard Scientifics, Inc. New Common Stock
 SFL,SFL|SFL Corporation Ltd
-SFTW,SFTW|Osprey Technology Acquisition Corp. Class A Common Stock
-SFTW.U,SFTW.U|Osprey Technology Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant
-SFTW.W,SFTW.W|Osprey Technology Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock
 SFUN,SFUN|Fang Holdings Limited American Depositary Shares (Each representing Four Class A Ordinary Shares, HK$1.00 par value)
 SGFY,SGFY|Signify Health, Inc. Class A Common Stock
 SGG,SGG|iPathA Series B Bloomberg Sugar Subindex Total Return ETN
@@ -3327,9 +3326,6 @@ SNV$D,SNV$D|Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpet
 SNV$E,SNV$E|Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E
 SNX,SNX|Synnex Corporation Common Stock
 SO,SO|Southern Company (The) Common Stock
-SOAC,SOAC|TMC the metals company Inc. Common Stock
-SOAC.U,SOAC.U|Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant
-SOAC.W,SOAC.W|Sustainable Opportunities Acquisition Corp. Warrants
 SOGO,SOGO|Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share
 SOI,SOI|Solaris Oilfield Infrastructure, Inc. Class A Common Stock
 SOJB,SOJB|Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1, 2076
@@ -3592,7 +3588,9 @@ TROX,TROX|Tronox Holdings plc Ordinary Shares (UK)
 TRP,TRP|TC Energy Corporation Common Stock
 TRQ,TRQ|Turquoise Hill Resources Ltd. Ordinary Shares
 TRT,TRT|Trio-Tech International Common Stock
+TRTL,TRTL|TortoiseEcofin Acquisition Corp. III Class A Ordinary Shares
 TRTL.U,TRTL.U|TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant
+TRTL.W,TRTL.W|TortoiseEcofin Acquisition Corp. III Warrant, entitles to purchase one Class A Ordinary Share at a price of $11.50 per share
 TRTN,TRTN|Triton International Limited Common Shares
 TRTN$A,TRTN$A|Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares
 TRTN$B,TRTN$B|Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares
@@ -4390,6 +4388,7 @@ ATVCU,ATVCU|Tribe Capital Growth Corp I - Units
 ATVCW,ATVCW|Tribe Capital Growth Corp I - Warrant
 ATVI,ATVI|Activision Blizzard, Inc - Common Stock
 ATXI,ATXI|Avenue Therapeutics, Inc. - Common Stock
+ATXS,ATXS|Astria Therapeutics, Inc. - Common Stock
 ATY,ATY|AcuityAds Holdings Inc. - Common Shares
 AUB,AUB|Atlantic Union Bankshares Corporation - Common Stock
 AUBAP,AUBAP|Atlantic Union Bankshares Corporation - Depositary Shares each representing a 1/400th ownership interest in a share of 6.875%Perpetual Non-Cumulative Preferred Stock, Series A
@@ -4560,9 +4559,6 @@ BLTSU,BLTSU|Bright Lights Acquisition Corp. - Unit
 BLTSW,BLTSW|Bright Lights Acquisition Corp. - Warrant
 BLU,BLU|BELLUS Health Inc. - Common Shares
 BLUE,BLUE|bluebird bio, Inc. - Common Stock
-BLUW,BLUW|Blue Water Acquisition Corp. - Class A Common Stock
-BLUWU,BLUWU|Blue Water Acquisition Corp. - Unit
-BLUWW,BLUWW|Blue Water Acquisition Corp. - Warrant
 BMBL,BMBL|Bumble Inc. - common stock
 BMEA,BMEA|Biomea Fusion, Inc. - Common Stock
 BMRA,BMRA|Biomerica, Inc. - Common Stock
@@ -4572,6 +4568,7 @@ BMTC,BMTC|Bryn Mawr Bank Corporation - Common Stock
 BNFT,BNFT|Benefitfocus, Inc. - Common Stock
 BNGO,BNGO|Bionano Genomics, Inc. - Common Stock
 BNGOW,BNGOW|Bionano Genomics, Inc. - Warrant
+BNIXU,BNIXU|Bannix Acquisition Corp. - Unit
 BNNRU,BNNRU|Banner Acquisition Corp. - Units
 BNR,BNR|Burning Rock Biotech Limited - American Depositary Shares
 BNSO,BNSO|Bonso Electronics International, Inc. - Common Stock
@@ -4701,7 +4698,6 @@ CASH,CASH|Meta Financial Group, Inc. - Common Stock
 CASI,CASI|CASI Pharmaceuticals, Inc. - Common Stock
 CASS,CASS|Cass Information Systems, Inc - Common Stock
 CASY,CASY|Caseys General Stores, Inc. - Common Stock
-CATB,CATB|Catabasis Pharmaceuticals, Inc. - Common Stock
 CATC,CATC|Cambridge Bancorp - Common Stock
 CATY,CATY|Cathay General Bancorp - Common Stock
 CBAN,CBAN|Colony Bankcorp, Inc. - Common Stock
@@ -4855,6 +4851,8 @@ CLMT,CLMT|Calumet Specialty Products Partners, L.P. - Common units representing 
 CLNE,CLNE|Clean Energy Fuels Corp. - Common Stock
 CLNN,CLNN|Clene Inc. - Common Stock
 CLNNW,CLNNW|Clene Inc. - Warrant
+CLOE,CLOE|Clover Leaf Capital Corp. - Class A Common Stock
+CLOER,CLOER|Clover Leaf Capital Corp. - Rights
 CLOEU,CLOEU|Clover Leaf Capital Corp. - Unit
 CLOV,CLOV|Clover Health Investments, Corp.  - Class A Common stock
 CLPS,CLPS|CLPS Incorporation - Common Stock
@@ -4994,6 +4992,8 @@ CRVL,CRVL|CorVel Corp. - Common Stock
 CRVS,CRVS|Corvus Pharmaceuticals, Inc. - Common Stock
 CRWD,CRWD|CrowdStrike Holdings, Inc. - Class A Common Stock
 CRWS,CRWS|Crown Crafts, Inc. - Common Stock
+CRXT,CRXT|Clarus Therapeutics Holdings, Inc. - Common Stock
+CRXTW,CRXTW|Clarus Therapeutics Holdings, Inc. - Warrant 9/9/2026
 CRZN,CRZN|Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares
 CRZNU,CRZNU|Corazon Capital V838 Monoceros Corp - Unit
 CRZNW,CRZNW|Corazon Capital V838 Monoceros Corp - Warrant
@@ -5383,7 +5383,6 @@ EVK,EVK|Ever-Glory International Group, Inc. - Common Stock
 EVLMC,EVLMC|Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares
 EVLO,EVLO|Evelo Biosciences, Inc. - Common Stock
 EVLV,EVLV|Evolv Technologies Holdings, Inc. - Class A Common Stock
-EVLVU,EVLVU|Evolv Technologies Holdings, Inc. - Unit
 EVLVW,EVLVW|Evolv Technologies Holdings, Inc. - Warrant
 EVOJ,EVOJ|Evo Acquisition Corp. - Class A Common stock
 EVOJU,EVOJU|Evo Acquisition Corp. - Unit
@@ -5467,6 +5466,7 @@ FGEN,FGEN|FibroGen, Inc - Common Stock
 FGF,FGF|FG Financial Group, Inc.  - Common Stock
 FGFPP,FGFPP|FG Financial Group, Inc.  - 8.00% Cumulative Series A Preferred Stock
 FHB,FHB|First Hawaiian, Inc. - Common Stock
+FHLTU,FHLTU|Future Health ESG Corp. - Unit
 FHTX,FHTX|Foghorn Therapeutics Inc. - Common Stock
 FIBK,FIBK|First Interstate BancSystem, Inc. - Class A Common Stock
 FICV,FICV|Frontier Investment Corp - Class A Ordinary Shares
@@ -6625,8 +6625,8 @@ MESA,MESA|Mesa Air Group, Inc. - Common Stock
 MESO,MESO|Mesoblast Limited - American Depositary Shares
 METC,METC|Ramaco Resources, Inc. - Common Stock
 METCL,METCL|Ramaco Resources, Inc. - 9.00% Senior Notes due 2026
-METX,METX|Meten EdtechX Education Group Ltd. - Ordinary Shares
-METXW,METXW|Meten EdtechX Education Group Ltd. - Warrant
+METX,METX|Meten Holding Group Ltd. - Ordinary Shares
+METXW,METXW|Meten Holding Group Ltd. - Warrant
 MEUSW,MEUSW|23andMe Holding Co. - Warrant
 MF,MF|Missfresh Limited - American Depositary Shares
 MFH,MFH|Mercurity Fintech Holding Inc. - American Depositary Shares
@@ -6968,7 +6968,7 @@ OCC,OCC|Optical Cable Corporation - Common Stock
 OCCI,OCCI|OFS Credit Company, Inc. - Common Stock
 OCCIO,OCCIO|OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock
 OCCIP,OCCIP|OFS Credit Company, Inc. - 6.875% Series A Term Preferred Stock
-OCDX,OCDX|Ortho Clinical Diagnostics plc - Ordinary Shares
+OCDX,OCDX|Ortho Clinical Diagnostics Holdings plc - Ordinary Shares
 OCFC,OCFC|OceanFirst Financial Corp. - Common Stock
 OCFCP,OCFCP|OceanFirst Financial Corp. - Depositary Shares
 OCG,OCG|Oriental Culture Holding LTD - Ordinary Shares
@@ -7193,7 +7193,9 @@ PFIS,PFIS|Peoples Financial Services Corp.  - Common Stock
 PFLT,PFLT|PennantPark Floating Rate Capital Ltd. - Common Stock
 PFMT,PFMT|Performant Financial Corporation - Common Stock
 PFSW,PFSW|PFSweb, Inc. - Common Stock
+PFTA,PFTA|Portage Fintech Acquisition Corporation - Class A Ordinary Share
 PFTAU,PFTAU|Portage Fintech Acquisition Corporation - Unit
+PFTAW,PFTAW|Portage Fintech Acquisition Corporation - Warrant
 PFX,PFX|PhenixFIN Corporation  - Common Stock
 PFXNL,PFXNL|PhenixFIN Corporation  - Notes Due 2023
 PGC,PGC|Peapack-Gladstone Financial Corporation - Common Stock
@@ -7739,6 +7741,7 @@ SLRC,SLRC|SLR Investment Corp. - Common Stock
 SLRX,SLRX|Salarius Pharmaceuticals, Inc. - Common Stock
 SLS,SLS|SELLAS Life Sciences Group, Inc.  - Common Stock
 SLVO,SLVO|Credit Suisse Silver Shares Covered Call Exchange Traded Notes
+SLVRU,SLVRU|SilverSPAC Inc. - Unit
 SMBC,SMBC|Southern Missouri Bancorp, Inc. - Common Stock
 SMBK,SMBK|SmartFinancial, Inc. - Common Stock
 SMCI,SMCI|Super Micro Computer, Inc. - Common Stock
@@ -7821,7 +7824,6 @@ SPTKW,SPTKW|SportsTek Acquisition Corp. - Warrant
 SPTN,SPTN|SpartanNash Company - Common Stock
 SPWH,SPWH|Sportsman's Warehouse Holdings, Inc. - Common Stock
 SPWR,SPWR|SunPower Corporation - Common Stock
-SQBG,SQBG|Sequential Brands Group, Inc. - Common Stock
 SQFT,SQFT|Presidio Property Trust, Inc. - Class A Common Stock
 SQFTP,SQFTP|Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share
 SQL,SQL|SeqLL Inc. - Common stock
@@ -8051,7 +8053,9 @@ TLMDW,TLMDW|SOC Telemed, Inc. - Warrants
 TLRY,TLRY|Tilray, Inc. - Class 2 Common Stock
 TLS,TLS|Telos Corporation - Common Stock
 TLSA,TLSA|Tiziana Life Sciences plc - American Depository Share
+TMC,TMC|TMC the metals company Inc. - Common Stock
 TMCI,TMCI|Treace Medical Concepts, Inc. - Common Stock
+TMCWW,TMCWW|TMC the metals company Inc. - Warrant
 TMDI,TMDI|Titan Medical Inc. - Ordinary Shares
 TMDX,TMDX|TransMedics Group, Inc. - Common Stock
 TMKR,TMKR|Tastemaker Acquisition Corp. - Class A common stock
@@ -8066,6 +8070,7 @@ TMTSW,TMTSW|Spartacus Acquisition Corporation - Warrant
 TMUS,TMUS|T-Mobile US, Inc. - Common Stock
 TNDM,TNDM|Tandem Diabetes Care, Inc. - Common Stock
 TNGX,TNGX|Tango Therapeutics, Inc. - Common Stock
+TNT,TNT|Peak Fintech Group Inc. - common shares
 TNXP,TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock
 TNYA,TNYA|Tenaya Therapeutics, Inc. - Common Stock
 TOMZ,TOMZ|TOMI Environmental Solutions, Inc. - Common Stock
