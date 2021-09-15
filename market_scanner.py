@@ -10,6 +10,7 @@ from stocklist import NasdaqController
 from tqdm import tqdm
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
+import pandas as pd
 
 ###########################
 # THIS IS THE MAIN SCRIPT #
@@ -17,7 +18,7 @@ import multiprocessing
 
 # Change variables to your liking then run the script
 MONTH_CUTTOFF = 5 #5
-DAY_CUTTOFF = 7 #3
+DAY_CUTTOFF = 4 #3
 STD_CUTTOFF = 8 #9
 
 
@@ -34,6 +35,9 @@ class mainObj:
         sys.stdout = open(os.devnull, "w")
         data = yf.download(ticker, pastDate, currentDate)
         sys.stdout = sys.__stdout__
+        #with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+        #    print(data[["Volume"]])
+        time.sleep(.1)
         return data[["Volume"]]
 
     def find_anomalies(self, data):
