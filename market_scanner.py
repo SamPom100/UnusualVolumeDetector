@@ -12,6 +12,7 @@ from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 import pandas as pd
 
+
 ###########################
 # THIS IS THE MAIN SCRIPT #
 ###########################
@@ -20,7 +21,6 @@ import pandas as pd
 MONTH_CUTTOFF = 5 #5
 DAY_CUTTOFF = 4 #3
 STD_CUTTOFF = 8 #9
-
 
 class mainObj:
 
@@ -40,50 +40,34 @@ class mainObj:
         time.sleep(.1)
         return data[["Volume"]]
 
-    def find_anomalies(self, data):
+    def find_anomalies(self, data, currentDate):
         global STD_CUTTOFF
-        indexs = []
-        outliers = []
+        global DAY_CUTTOFF
         data_std = np.std(data['Volume'])
         data_mean = np.mean(data['Volume'])
         anomaly_cut_off = data_std * STD_CUTTOFF
         upper_limit = data_mean + anomaly_cut_off
         data.reset_index(level=0, inplace=True)
-        for i in range(len(data)):
-            temp = data['Volume'].iloc[i]
-            if temp > upper_limit:
-                indexs.append(str(data['Date'].iloc[i])[:-9])
-                outliers.append(temp)
-        d = {'Dates': indexs, 'Volume': outliers}
-        return d
+        is_outlier = data['Volume'] > upper_limit
+        is_in_three_days = ((currentDate - data['Date']) <= datetime.timedelta(days=DAY_CUTTOFF))
+        return data[is_outlier & is_in_three_days]
 
     def customPrint(self, d, tick):
         print("\n\n\n*******  " + tick.upper() + "  *******")
         print("Ticker is: "+tick.upper())
-        for i in range(len(d['Dates'])):
-            str1 = str(d['Dates'][i])
-            str2 = str(d['Volume'][i])
-            print(str1 + " - " + str2)
+        print(d)
         print("*********************\n\n\n")
 
-    def days_between(self, d1, d2):
-        d1 = datetime.datetime.strptime(d1, "%Y-%m-%d")
-        d2 = datetime.datetime.strptime(d2, "%Y-%m-%d")
-        return abs((d2 - d1).days)
-
-    def parallel_wrapper(self, x, currentDate, positive_scans):
-        global DAY_CUTTOFF
-        d = (self.find_anomalies(self.getData(x)))
-        if d['Dates']:
-            for i in range(len(d['Dates'])):
-                if self.days_between(str(currentDate)[:-9], str(d['Dates'][i])) <= DAY_CUTTOFF:
-                    self.customPrint(d, x)
-                    stonk = dict()
-                    stonk['Ticker'] = x
-                    stonk['TargetDate'] = d['Dates'][0]
-                    stonk['TargetVolume'] = str(
-                        '{:,.2f}'.format(d['Volume'][0]))[:-3]
-                    positive_scans.append(stonk)
+    def parallel_wrapper(self,x, currentDate, positive_scans):
+        d = (self.find_anomalies(self.getData(x), currentDate))
+        if d.empty:
+            return
+        self.customPrint(d, x)
+        stonk = dict()
+        stonk['Ticker'] = x
+        stonk['TargetDate'] = d['Date'].iloc[0]
+        stonk['TargetVolume'] = d['Volume'].iloc[0]
+        positive_scans.append(stonk)
 
     def main_func(self):
         StocksController = NasdaqController(True)
@@ -97,7 +81,7 @@ class mainObj:
 
         with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
-                       for x in tqdm(list_of_tickers))
+                       for x in tqdm(list_of_tickers, miniters=1))
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
