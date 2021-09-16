@@ -1995,6 +1995,7 @@ FIGS|FIGS, Inc. Class A Common Stock|N|FIGS|N|100|N|FIGS
 FIHD|UBS AG UBS AG FI Enhanced Global High Yield ETN due March 3, 2026|P|FIHD|N|100|N|FIHD
 FILL|iShares MSCI Global Energy Producers Fund|P|FILL|Y|100|N|FILL
 FINS|Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest|N|FINS|N|100|N|FINS
+FINS.V|Angel Oak Financial Strategies Income Term Trust Rights (expires October 14, 2021) When Issued|N|FINSrw|N|100|N|FINS^#
 FINV|FinVolution Group American Depositary Shares|N|FINV|N|100|N|FINV
 FIS|Fidelity National Information Services, Inc. Common Stock|N|FIS|N|100|N|FIS
 FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests|P|FISK|N|100|N|FISK
@@ -2070,6 +2071,7 @@ FLTR|VanEck Investment Grade Floating Rate ETF |P|FLTR|Y|100|N|FLTR
 FLTW|Franklin FTSE Taiwan ETF|P|FLTW|Y|100|N|FLTW
 FLUD|Franklin Liberty Ultra Short Bond ETF|P|FLUD|Y|100|N|FLUD
 FLV|American Century Focused Large Cap Value ETF|Z|FLV|Y|100|N|FLV
+FLYA.U|SOAR Technology Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|FLYA.U|N|100|N|FLYA=
 FLYT|Direxion Flight to Safety Strategy ETF|P|FLYT|Y|100|N|FLYT
 FLZA|Franklin FTSE South Africa ETF|P|FLZA|Y|100|N|FLZA
 FM|iShares MSCI Frontier and Select EM ETF|P|FM|Y|100|N|FM
@@ -2116,6 +2118,7 @@ FOE|Ferro Corporation Common Stock|N|FOE|N|100|N|FOE
 FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock|N|FOF|N|100|N|FOF
 FOMO|FOMO ETF|Z|FOMO|Y|100|N|FOMO
 FOR|Forestar Group Inc Common Stock |N|FOR|N|100|N|FOR
+FORG|ForgeRock, Inc. Class A Common Stock|N|FORG|N|100|N|FORG
 FORH|Formidable ETF|P|FORH|Y|100|N|FORH
 FOUR|Shift4 Payments, Inc. Class A Common Stock|N|FOUR|N|100|N|FOUR
 FOVL|iShares Focused Value Factor ETF|P|FOVL|Y|100|N|FOVL
@@ -2490,6 +2493,7 @@ GSUS|Goldman Sachs MarketBeta U.S. Equity ETF|Z|GSUS|Y|100|N|GSUS
 GSV|Gold Standard Ventures Corporation Common Stock (Canada)|A|GSV|N|100|N|GSV
 GSY|Invesco Ultra Short Duration ETF|P|GSY|Y|100|N|GSY
 GTE|Gran Tierra Energy Inc. Common Stock|A|GTE|N|100|N|GTE
+GTEK|Goldman Sachs Future Tech Leaders Equity ETF|P|GTEK|Y|100|N|GTEK
 GTES|Gates Industrial Corporation plc Ordinary Shares|N|GTES|N|100|N|GTES
 GTIP|Goldman Sachs Access Inflation Protected USD Bond ETF|Z|GTIP|Y|100|N|GTIP
 GTLS|Chart Industries, Inc. Common Stock|N|GTLS|N|100|N|GTLS
@@ -3359,6 +3363,8 @@ LEVI|Levi Strauss & Co Class A Common Stock|N|LEVI|N|100|N|LEVI
 LEXI|Alexis Practical Tactical ETF|P|LEXI|Y|100|N|LEXI
 LFC|China Life Insurance Company Limited American Depositary Shares|N|LFC|N|100|N|LFC
 LFEQ|VanEck Long/Flat Trend ETF|P|LFEQ|Y|100|N|LFEQ
+LFG|Archaea Energy Inc. Class A Common Stock|N|LFG|N|100|N|LFG
+LFG.W|Archaea Energy Inc. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|LFG.WS|N|100|N|LFG+
 LFT|Lument Finance Trust, Inc. Common Stock|N|LFT|N|100|N|LFT
 LFT$A|Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock|N|LFTpA|N|100|N|LFT-A
 LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares|N|LGF.A|N|100|N|LGF.A
@@ -4418,6 +4424,7 @@ PSFF|Pacer Swan SOS Fund of Funds ETF|Z|PSFF|Y|100|N|PSFF
 PSFJ|Pacer Swan SOS Flex (July) ETF|Z|PSFJ|Y|100|N|PSFJ
 PSFM|Pacer Swan SOS Flex (April) ETF|Z|PSFM|Y|100|N|PSFM
 PSI|Invesco Dynamic Semiconductors ETF|P|PSI|Y|100|N|PSI
+PSIL|AdvisorShares Psychedelics ETF|P|PSIL|Y|100|N|PSIL
 PSJ|Invesco Dynamic Software ETF|P|PSJ|Y|100|N|PSJ
 PSK|SPDR ICE Preferred Securities ETF|P|PSK|Y|100|N|PSK
 PSLV|Sprott Physical Silver Trust ETV|P|PSLV|Y|100|N|PSLV
@@ -4652,9 +4659,6 @@ RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Pr
 RHI|Robert Half International Inc. Common Stock|N|RHI|N|100|N|RHI
 RHP|Ryman Hospitality Properties, Inc. (REIT)|N|RHP|N|100|N|RHP
 RHS|Invesco S&P 500 Equal Weight Consumer Staples ETF  |P|RHS|Y|100|N|RHS
-RICE|Rice Acquisition Corp. Class A Common Stock|N|RICE|N|100|N|RICE
-RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A common stock, and one-half of one warrant|N|RICE.U|N|100|N|RICE=
-RICE.W|Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|RICE.WS|N|100|N|RICE+
 RIG|Transocean Ltd (Switzerland) Common Stock|N|RIG|N|100|N|RIG
 RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
 RIGZ|Alpha Architect ETF Trust Viridi Cleaner Energy Crypto-Mining & Semiconductor ETF|P|RIGZ|Y|100|N|RIGZ
@@ -4938,7 +4942,9 @@ SI|Silvergate Capital Corporation Class A Common Stock|N|SI|N|100|N|SI
 SI$A|Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A|N|SIpA|N|100|N|SI-A
 SID|Companhia Siderurgica Nacional S.A. Common Stock|N|SID|N|100|N|SID
 SIF|SIFCO Industries, Inc. Common Stock|A|SIF|N|100|N|SIF
+SIFI|Harbor Scientific Alpha Income ETF|P|SIFI|Y|100|N|SIFI
 SIG|Signet Jewelers Limited Common Shares|N|SIG|N|100|N|SIG
+SIHY|Harbor Scientific Alpha High-Yield ETF|P|SIHY|Y|100|N|SIHY
 SII|Sprott Inc. Common Shares|N|SII|N|100|N|SII
 SIJ|ProShares UltraShort Industrials|P|SIJ|Y|100|N|SIJ
 SIL|Global X Silver Miners ETF|P|SIL|Y|100|N|SIL
@@ -5670,7 +5676,6 @@ UTZ|Utz Brands Inc Class A Common Stock |N|UTZ|N|100|N|UTZ
 UUP|Invesco DB USD Index Bullish Fund ETF|P|UUP|Y|100|N|UUP
 UUU|Universal Security Instruments, Inc. Common Stock|A|UUU|N|100|N|UUU
 UUUU|Energy Fuels Inc Ordinary Shares (Canada)|A|UUUU|N|100|N|UUUU
-UUUU.W|Energy Fuels Inc Warrants, exercisable for one common share until September 20, 2021 at an exercise price of $2.45|A|UUUU.WS|N|100|N|UUUU+
 UVE|UNIVERSAL INSURANCE HOLDINGS INC Common Stock|N|UVE|N|100|N|UVE
 UVV|Universal Corporation Common Stock|N|UVV|N|100|N|UVV
 UVXY|ProShares Trust Ultra VIX Short Term Futures ETF|Z|UVXY|Y|100|N|UVXY
@@ -5954,7 +5959,9 @@ WPM|Wheaton Precious Metals Corp Common Shares (Canada)|N|WPM|N|100|N|WPM
 WPP|WPP plc American Depositary Shares|N|WPP|N|100|N|WPP
 WPS|iShares International Developed Property ETF|P|WPS|Y|100|N|WPS
 WQGA.U|World Quantum Growth Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant to acquire one Class A ordinary share|N|WQGA.U|N|100|N|WQGA=
+WRAC|Williams Rowland Acquisition Corp. Common Stock|N|WRAC|N|100|N|WRAC
 WRAC.U|Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|WRAC.U|N|100|N|WRAC=
+WRAC.W|Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50|N|WRAC.WS|N|100|N|WRAC+
 WRB|W.R. Berkley Corporation Common Stock|N|WRB|N|100|N|WRB
 WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058|N|WRBpE|N|100|N|WRB-E
 WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059|N|WRBpF|N|100|N|WRB-F
@@ -6131,4 +6138,4 @@ ZVIA|Zevia PBC Class A Common Stock|N|ZVIA|N|100|N|ZVIA
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0915202111:01||||||
+File Creation Time: 0916202112:11||||||

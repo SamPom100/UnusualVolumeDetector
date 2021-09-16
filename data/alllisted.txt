@@ -1411,6 +1411,7 @@ FIF,FIF|First Trust Energy Infrastructure Fund Common Shares of Beneficial Inter
 FIGS,FIGS|FIGS, Inc. Class A Common Stock
 FIHD,FIHD|UBS AG UBS AG FI Enhanced Global High Yield ETN due March 3, 2026
 FINS,FINS|Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
+FINS.V,FINS.V|Angel Oak Financial Strategies Income Term Trust Rights (expires October 14, 2021) When Issued
 FINV,FINV|FinVolution Group American Depositary Shares
 FIS,FIS|Fidelity National Information Services, Inc. Common Stock
 FISK,FISK|Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests
@@ -1429,6 +1430,7 @@ FLOW,FLOW|SPX FLOW, Inc. Common Stock
 FLR,FLR|Fluor Corporation Common Stock
 FLS,FLS|Flowserve Corporation Common Stock
 FLT,FLT|FleetCor Technologies, Inc. Common Stock
+FLYA.U,FLYA.U|SOAR Technology Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant
 FMAC,FMAC|FirstMark Horizon Acquisition Corp. Class A Common Stock
 FMAC.U,FMAC.U|FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant
 FMAC.W,FMAC.W|FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50
@@ -1453,6 +1455,7 @@ FOA.W,FOA.W|Finance of America Companies Inc. Warrants, each whole warrant exerc
 FOE,FOE|Ferro Corporation Common Stock
 FOF,FOF|Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock
 FOR,FOR|Forestar Group Inc Common Stock 
+FORG,FORG|ForgeRock, Inc. Class A Common Stock
 FOUR,FOUR|Shift4 Payments, Inc. Class A Common Stock
 FPAC,FPAC|Far Peak Acquisition Corporation Class A Ordinary Shares
 FPAC.U,FPAC.U|Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant
@@ -2176,6 +2179,8 @@ LEV,LEV|The Lion Electric Company Common Shares
 LEV.W,LEV.W|The Lion Electric Company Redeemable Warrants, each whole warrant entitles the holder to purchase one Common Share at a price of $11.50 per share
 LEVI,LEVI|Levi Strauss & Co Class A Common Stock
 LFC,LFC|China Life Insurance Company Limited American Depositary Shares
+LFG,LFG|Archaea Energy Inc. Class A Common Stock
+LFG.W,LFG.W|Archaea Energy Inc. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 LFT,LFT|Lument Finance Trust, Inc. Common Stock
 LFT$A,LFT$A|Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock
 LGF.A,LGF.A|Lions Gate Entertainment Corporation Class A Voting Shares
@@ -3090,9 +3095,6 @@ RHE,RHE|Regional Health Properties, Inc. Common Stock
 RHE$A,RHE$A|Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock
 RHI,RHI|Robert Half International Inc. Common Stock
 RHP,RHP|Ryman Hospitality Properties, Inc. (REIT)
-RICE,RICE|Rice Acquisition Corp. Class A Common Stock
-RICE.U,RICE.U|Rice Acquisition Corp. Uts, each consisting of one share of Class A common stock, and one-half of one warrant
-RICE.W,RICE.W|Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share
 RIG,RIG|Transocean Ltd (Switzerland) Common Stock
 RIO,RIO|Rio Tinto Plc Common Stock
 RIV,RIV|RiverNorth Opportunities Fund, Inc. Common Stock
@@ -3714,7 +3716,6 @@ UTL,UTL|UNITIL Corporation Common Stock
 UTZ,UTZ|Utz Brands Inc Class A Common Stock 
 UUU,UUU|Universal Security Instruments, Inc. Common Stock
 UUUU,UUUU|Energy Fuels Inc Ordinary Shares (Canada)
-UUUU.W,UUUU.W|Energy Fuels Inc Warrants, exercisable for one common share until September 20, 2021 at an exercise price of $2.45
 UVE,UVE|UNIVERSAL INSURANCE HOLDINGS INC Common Stock
 UVV,UVV|Universal Corporation Common Stock
 UWMC,UWMC|UWM Holdings Corporation Class A Common Stock
@@ -3890,7 +3891,9 @@ WPG$I,WPG$I|Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Pr
 WPM,WPM|Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP|WPP plc American Depositary Shares
 WQGA.U,WQGA.U|World Quantum Growth Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant to acquire one Class A ordinary share
+WRAC,WRAC|Williams Rowland Acquisition Corp. Common Stock
 WRAC.U,WRAC.U|Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant
+WRAC.W,WRAC.W|Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50
 WRB,WRB|W.R. Berkley Corporation Common Stock
 WRB$E,WRB$E|W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058
 WRB$F,WRB$F|W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059
@@ -4040,6 +4043,7 @@ ACQRW,ACQRW|Independence Holdings Corp. - Warrant
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc.  - Class A Common Stock
+ACT,ACT|Enact Holdings, Inc. - Common Stock
 ACTD,ACTD|ArcLight Clean Transition Corp. II - Class A Ordinary Share
 ACTDU,ACTDU|ArcLight Clean Transition Corp. II - Unit
 ACTDW,ACTDW|ArcLight Clean Transition Corp. II - Warrant
@@ -4180,7 +4184,9 @@ ALLT,ALLT|Allot Ltd. - Ordinary Shares
 ALNA,ALNA|Allena Pharmaceuticals, Inc. - Common Stock
 ALNY,ALNY|Alnylam Pharmaceuticals, Inc. - Common Stock
 ALOT,ALOT|AstroNova, Inc. - Common Stock
+ALPA,ALPA|Alpha Healthcare Acquisition Corp. III - Class A Common Stock
 ALPAU,ALPAU|Alpha Healthcare Acquisition Corp. III - Units
+ALPAW,ALPAW|Alpha Healthcare Acquisition Corp. III - Warrant
 ALPN,ALPN|Alpine Immune Sciences, Inc. - Common Stock
 ALRM,ALRM|Alarm.com Holdings, Inc. - Common Stock
 ALRN,ALRN|Aileron Therapeutics, Inc. - Common Stock
