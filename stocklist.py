@@ -15,8 +15,8 @@ class NasdaqController:
 
     def __init__(self, update=True):
 
+        #"otherlisted": "data/otherlisted.txt",
         self.filenames = {
-            "otherlisted": "data/otherlisted.txt",
             "nasdaqlisted": "data/nasdaqlisted.txt"
         }
 

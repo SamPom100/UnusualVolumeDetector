@@ -309,7 +309,9 @@ APPN|Appian Corporation - Class A Common Stock|G|N|N|100|N|N
 APPS|Digital Turbine, Inc. - Common Stock|S|N|N|100|N|N
 APR|Apria, Inc. - Common Stock|Q|N|N|100|N|N
 APRE|Aprea Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
+APTM|Alpha Partners Technology Merger Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 APTMU|Alpha Partners Technology Merger Corp. - Unit|S|N|N|100|N|N
+APTMW|Alpha Partners Technology Merger Corp. - Warrant|S|N|N|100|N|N
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100|N|N
 APTX|Aptinyx Inc. - Common Stock|Q|N|N|100|N|N
 APVO|Aptevo Therapeutics Inc. - Common Stock|S|N|N|100|N|N
@@ -547,9 +549,9 @@ BHFAL|Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058|Q|N|
 BHFAN|Brighthouse Financial, Inc. - depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C|Q|N|N|100|N|N
 BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B|Q|N|N|100|N|N
 BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A|Q|N|N|100|N|N
-BHSE|Bull Horn Holdings Corp. - Ordinary Shares|S|N|E|100|N|N
-BHSEU|Bull Horn Holdings Corp. - Unit|S|N|E|100|N|N
-BHSEW|Bull Horn Holdings Corp. - Warrants|S|N|E|100|N|N
+BHSE|Bull Horn Holdings Corp. - Ordinary Shares|S|N|N|100|N|N
+BHSEU|Bull Horn Holdings Corp. - Unit|S|N|N|100|N|N
+BHSEW|Bull Horn Holdings Corp. - Warrants|S|N|N|100|N|N
 BHTG|BioHiTech Global, Inc. - Common Stock|S|N|N|100|N|N
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100|Y|N
 BICK|First Trust BICK Index Fund|G|N|N|100|Y|N
@@ -2621,8 +2623,8 @@ KURI|Alkuri Global Acquisition Corp. - Class A common stock|S|N|N|100|N|N
 KURIU|Alkuri Global Acquisition Corp. - Unit|S|N|N|100|N|N
 KURIW|Alkuri Global Acquisition Corp. - Warrant|S|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
-KVSA|Khosla Ventures Acquisition Co. - Class A Common Stock|S|N|E|100|N|N
-KVSB|Khosla Ventures Acquisition Co. II - Class A Common Stock|S|N|E|100|N|N
+KVSA|Khosla Ventures Acquisition Co. - Class A Common Stock|S|N|N|100|N|N
+KVSB|Khosla Ventures Acquisition Co. II - Class A Common Stock|S|N|N|100|N|N
 KVSC|Khosla Ventures Acquisition Co. III - Class A Common Stock|S|N|E|100|N|N
 KXIN|Kaixin Auto Holdings - Ordinary Share|S|N|N|100|N|N
 KYMR|Kymera Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -2916,7 +2918,9 @@ MDWD|MediWound Ltd. - Ordinary Shares|G|N|N|100|N|N
 MDWT|Midwest Holding Inc. - Common Stock|S|N|N|100|N|N
 MDXG|MiMedx Group, Inc - Common Stock|S|N|N|100|N|N
 ME|23andMe Holding Co. - Common Stock|Q|N|N|100|N|N
+MEAC|Mercury Ecommerce Acquisition Corp - Class A Common Stock|S|N|N|100|N|N
 MEACU|Mercury Ecommerce Acquisition Corp - Unit|S|N|N|100|N|N
+MEACW|Mercury Ecommerce Acquisition Corp - Warrants|S|N|N|100|N|N
 MEDP|Medpace Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 MEDS|TRxADE HEALTH, Inc. - Common Stock|S|N|N|100|N|N
 MEIP|MEI Pharma, Inc. - Common Stock|S|N|N|100|N|N
@@ -4164,7 +4168,7 @@ SNDX|Syndax Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 SNES|SenesTech, Inc. - Common Stock|S|N|N|100|N|N
 SNEX|StoneX Group Inc. - Common Stock|Q|N|N|100|N|N
 SNFCA|Security National Financial Corporation - Class A Common Stock|G|N|N|100|N|N
-SNGX|Soligenix, Inc. - Common Stock|S|N|D|100|N|N
+SNGX|Soligenix, Inc. - Common Stock|S|N|N|100|N|N
 SNGXW|Soligenix, Inc. - Warrant|S|N|N|100|N|N
 SNLN|Highland/iBoxx Senior Loan ETF|G|N|N|100|Y|N
 SNOA|Sonoma Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -4240,9 +4244,6 @@ SRET|Global X SuperDividend REIT ETF|G|N|N|100|Y|N
 SREV|ServiceSource International, Inc. - Common Stock|Q|N|N|100|N|N
 SRGA|Surgalign Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SRNE|Sorrento Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-SRNG|Soaring Eagle Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
-SRNGU|Soaring Eagle Acquisition Corp. - Unit|S|N|N|100|N|N
-SRNGW|Soaring Eagle Acquisition Corp. - Warrant|S|N|N|100|N|N
 SRPT|Sarepta Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 SRRA|Sierra Oncology, Inc. - Common Stock|G|N|N|100|N|N
 SRRK|Scholar Rock Holding Corporation - Common Stock|Q|N|N|100|N|N
@@ -4413,7 +4414,7 @@ TEKKW|Tekkorp Digital Acquisition Corp. - Warrant|S|N|N|100|N|N
 TELA|TELA Bio, Inc. - Common stock|G|N|N|100|N|N
 TELL|Tellurian Inc. - Common Stock|S|N|N|100|N|N
 TENB|Tenable Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-TENX|Tenax Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+TENX|Tenax Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 TER|Teradyne, Inc. - Common Stock|Q|N|N|100|N|N
 TERN|Terns Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 TESS|TESSCO Technologies Incorporated - Common Stock|Q|N|N|100|N|N
@@ -5005,4 +5006,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0916202112:11|||||||
+File Creation Time: 0917202121:30|||||||

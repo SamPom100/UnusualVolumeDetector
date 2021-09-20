@@ -15,9 +15,12 @@ Go to the [website](https://unusualvolume.info/)
 - You can also graph any ticker's volume in grapher.py
 
 ### Controlling the Script
-- Line 17 controls the amount of months of historical volume the script gets
-- Line 75 controls the amount of days before today that it will alert you
-- Line 84 controls the number of standard deviations away from the mean volume
+- Line 21 controls the amount of months of historical volume the script gets
+- Line 22 controls the amount of days before today that it will alert you
+- Line 23 controls the number of standard deviations away from the mean volume
+- Line 116, "n-jobs" controls the number of threads the script runs on, which I lowered to avoid new rate limits
+
+
 
 <img width="1347" alt="Screen Shot 2020-08-01 at 3 24 03 AM" src="https://user-images.githubusercontent.com/28206070/89097659-8fdeda00-d3a6-11ea-88f4-6c896eaadc59.png">
 

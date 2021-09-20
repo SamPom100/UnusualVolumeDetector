@@ -11,6 +11,7 @@ from tqdm import tqdm
 from joblib import Parallel, delayed, parallel_backend
 import multiprocessing
 import pandas as pd
+import quandl
 
 ###########################
 # THIS IS THE MAIN SCRIPT #
@@ -27,18 +28,33 @@ class mainObj:
     def __init__(self):
         pass
 
+    def getDataQuandl(self,ticker,pastDate,currentDate):
+        ticker = "WIKI/"+ticker
+        mydata = quandl.get(ticker, start_date=pastDate, end_date=currentDate, rows=50)
+        mydata = mydata["Volume"]
+        return mydata
+
     def getData(self, ticker):
         global MONTH_CUTOFF
         currentDate = datetime.date.today() + datetime.timedelta(days=1)
         pastDate = currentDate - \
             dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
         sys.stdout = open(os.devnull, "w")
-        data = yf.download(ticker, pastDate, currentDate)
+        #maybe swap yahoo finance to quandl due to rate limits
+        try:
+            data = yf.download(ticker, start=pastDate, end=currentDate)
+        except:
+            data = pd.DataFrame(columns="Volume") #fix rare corrputed data download
+
+        #data = self.getDataQuandl(ticker,pastDate,currentDate)
         sys.stdout = sys.__stdout__
         #with pd.option_context('display.max_rows', None, 'display.max_columns', None):
-        #    print(data[["Volume"]])
-        time.sleep(.1)
+        #print(data[["Volume"]])
+
+        #avoid yahoo finance rate limits
+        time.sleep(1) 
         return data[["Volume"]]
+
 
     def find_anomalies(self, data):
         global STD_CUTTOFF
@@ -95,7 +111,9 @@ class mainObj:
         manager = multiprocessing.Manager()
         positive_scans = manager.list()
 
-        with parallel_backend('loky', n_jobs=multiprocessing.cpu_count()):
+        #n_jobs=multiprocessing.cpu_count()
+        #limited number of threads to avoid yahoo finance rate limits
+        with parallel_backend('loky', n_jobs=2):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                        for x in tqdm(list_of_tickers))
 
