@@ -20,7 +20,7 @@ import quandl
 # Change variables to your liking then run the script
 MONTH_CUTTOFF = 5 #5
 DAY_CUTTOFF = 4 #3
-STD_CUTTOFF = 8 #9
+STD_CUTTOFF = 9 #9
 
 
 class mainObj:
@@ -113,7 +113,7 @@ class mainObj:
 
         #n_jobs=multiprocessing.cpu_count()
         #limited number of threads to avoid yahoo finance rate limits
-        with parallel_backend('loky', n_jobs=2):
+        with parallel_backend('loky', n_jobs=1):
             Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                        for x in tqdm(list_of_tickers))
 
