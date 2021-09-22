@@ -61,7 +61,7 @@ ACQRU|Independence Holdings Corp. - Units|S|N|N|100|N|N
 ACQRW|Independence Holdings Corp. - Warrant|S|N|N|100|N|N
 ACRS|Aclaris Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
-ACST|Acasti Pharma, Inc.  - Class A Common Stock|S|N|D|100|N|N
+ACST|Acasti Pharma, Inc.  - Class A Common Stock|S|N|N|100|N|N
 ACT|Enact Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ACTD|ArcLight Clean Transition Corp. II - Class A Ordinary Share|S|N|N|100|N|N
 ACTDU|ArcLight Clean Transition Corp. II - Unit|S|N|N|100|N|N
@@ -333,6 +333,7 @@ ARCT|Arcturus Therapeutics Holdings Inc. - Common Stock|G|N|N|100|N|N
 ARDS|Aridis Pharmaceuticals Inc. - Common Stock|S|N|N|100|N|N
 ARDX|Ardelyx, Inc. - Common Stock|G|N|N|100|N|N
 AREC|American Resources Corporation - Class A Common Stock|S|N|N|100|N|N
+ARGUU|Argus Capital Corp. - Unit|G|N|N|100|N|N
 ARGX|argenx SE - American Depositary Shares|Q|N|N|100|N|N
 ARKO|ARKO Corp. - Common Stock|S|N|N|100|N|N
 ARKOW|ARKO Corp. - Warrant|S|N|N|100|N|N
@@ -350,7 +351,7 @@ ARRY|Array Technologies, Inc. - Common Stock|G|N|N|100|N|N
 ARTA|Artisan Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 ARTAU|Artisan Acquisition Corp. - Units|S|N|N|100|N|N
 ARTAW|Artisan Acquisition Corp. - Warrants|S|N|N|100|N|N
-ARTL|Artelo Biosciences, Inc. - Common Stock|S|N|N|100|N|N
+ARTL|Artelo Biosciences, Inc. - Common Stock|S|N|D|100|N|N
 ARTLW|Artelo Biosciences, Inc. - Warrant|S|N|N|100|N|N
 ARTNA|Artesian Resources Corporation - Class A Non-Voting Common Stock|Q|N|N|100|N|N
 ARTW|Art's-Way Manufacturing Co., Inc. - Common Stock|S|N|N|100|N|N
@@ -476,7 +477,6 @@ AYRO|AYRO, Inc. - Common Stock|S|N|N|100|N|N
 AYTU|Aytu BioPharma, Inc.  - Common Stock|S|N|N|100|N|N
 AZN|AstraZeneca PLC - American Depositary Shares|Q|N|N|100|N|N
 AZPN|Aspen Technology, Inc. - Common Stock|Q|N|N|100|N|N
-AZRX|AzurRx BioPharma, Inc. - Common Stock|S|N|D|100|N|N
 AZYO|Aziyo Biologics, Inc. - Class A Common Stock|G|N|N|100|N|N
 BAND|Bandwidth Inc. - Class A Common Stock|Q|N|N|100|N|N
 BANF|BancFirst Corporation - Common Stock|Q|N|N|100|N|N
@@ -1759,6 +1759,7 @@ FRPT|Freshpet, Inc. - Common Stock|G|N|N|100|N|N
 FRSG|First Reserve Sustainable Growth Corp. - Class A Common Stock|S|N|N|100|N|N
 FRSGU|First Reserve Sustainable Growth Corp. - Unit|S|N|N|100|N|N
 FRSGW|First Reserve Sustainable Growth Corp. - Warrant|S|N|N|100|N|N
+FRSH|Freshworks Inc. - Class A Common Stock|Q|N|N|100|N|N
 FRST|Primis Financial Corp. - Common Stock|G|N|N|100|N|N
 FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|N|100|N|N
 FRTA|Forterra, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1832,6 +1833,7 @@ FVC|First Trust Dorsey Wright Dynamic Focus 5 ETF|G|N|N|100|Y|N
 FVCB|FVCBankcorp, Inc. - Common Stock|S|N|N|100|N|N
 FVE|Five Star Senior Living Inc. - Common Shares|S|N|N|100|N|N
 FWAC|Fifth Wall Acquisition Corp. III - Class A Ordinary Shares|S|N|N|100|N|N
+FWBI|First Wave BioPharma, Inc. - Common Stock|S|N|D|100|N|N
 FWONA|Liberty Media Corporation - Series A Liberty Formula One Common Stock|Q|N|N|100|N|N
 FWONK|Liberty Media Corporation - Series C Liberty Formula One Common Stock|Q|N|N|100|N|N
 FWP|Forward Pharma A/S - American Depositary Shares|S|N|N|100|N|N
@@ -2139,6 +2141,7 @@ HFWA|Heritage Financial Corporation - Common Stock|Q|N|N|100|N|N
 HGBL|Heritage Global Inc. - Common Stock|S|N|N|100|N|N
 HGEN|Humanigen, Inc. - Common Stock|S|N|N|100|N|N
 HGSH|China HGS Real Estate, Inc. - Common Stock|S|N|N|100|N|N
+HHGCU|HHG Capital Corporation - Units|S|N|N|100|N|N
 HHR|HeadHunter Group PLC - American Depositary Shares|Q|N|N|100|N|N
 HIBB|Hibbett, Inc. - Common Stock|Q|N|N|100|N|N
 HIFS|Hingham Institution for Savings - Common Stock|G|N|N|100|N|N
@@ -2176,7 +2179,7 @@ HNDL|Strategy Shares Nasdaq 7HANDL Index ETF|G|N|N|100|Y|N
 HNNA|Hennessy Advisors, Inc. - Common Stock|S|N|N|100|N|N
 HNRG|Hallador Energy Company - Common Stock|S|N|N|100|N|N
 HNST|The Honest Company, Inc. - Common Stock|Q|N|N|100|N|N
-HOFT|Hooker Furniture Corporation - Common Stock|Q|N|N|100|N|N
+HOFT|Hooker Furnishings Corporation - Common Stock|Q|N|N|100|N|N
 HOFV|Hall of Fame Resort & Entertainment Company - Common Stock|S|N|N|100|N|N
 HOFVW|Hall of Fame Resort & Entertainment Company - Warrant|S|N|N|100|N|N
 HOLI|Hollysys Automation Technologies, Ltd. - Common Stock|Q|N|N|100|N|N
@@ -2419,6 +2422,7 @@ IOSP|Innospec Inc. - Common Stock|Q|N|N|100|N|N
 IOVA|Iovance Biotherapeutics, Inc. - Common Stock|G|N|N|100|N|N
 IPA|ImmunoPrecise Antibodies Ltd. - Common Stock|G|N|N|100|N|N
 IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100|N|N
+IPAXU|Inflection Point Acquisition Corp. - Units|S|N|N|100|N|N
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100|N|N
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100|N|N
 IPHA|Innate Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
@@ -4202,6 +4206,7 @@ SOXQ|Invesco PHLX Semiconductor ETF|G|N|N|100|Y|N
 SOXX|iShares Semiconductor ETF|G|N|N|100|Y|N
 SP|SP Plus Corporation - Common Stock|Q|N|N|100|N|N
 SPBC|Simplify U.S. Equity PLUS GBTC ETF|G|N|N|100|Y|N
+SPC|CrossingBridge Pre-Merger SPAC ETF|G|N|N|100|Y|N
 SPCB|SuperCom, Ltd. - Ordinary Shares|S|N|N|100|N|N
 SPFI|South Plains Financial, Inc. - Common Stock|Q|N|N|100|N|N
 SPI|SPI Energy Co., Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -4655,6 +4660,7 @@ VAQC|Vector Acquisition Corporation II - Class A Ordinary Shares|S|N|N|100|N|N
 VBFC|Village Bank and Trust Financial Corp. - Common Stock|S|N|N|100|N|N
 VBIV|VBI Vaccines, Inc. - Ordinary Shares|S|N|N|100|N|N
 VBLT|Vascular Biogenics Ltd. - Ordinary Shares|G|N|N|100|N|N
+VBNK|VersaBank - Common Shares|Q|N|N|100|N|N
 VBTX|Veritex Holdings, Inc. - Common Stock|G|N|N|100|N|N
 VC|Visteon Corporation - Common Stock|Q|N|N|100|N|N
 VCEL|Vericel Corporation - Common Stock|S|N|N|100|N|N
@@ -4936,6 +4942,7 @@ XPDIW|Power & Digital Infrastructure Acquisition Corp. - Warrant|S|N|N|100|N|N
 XPEL|XPEL, Inc. - Common Stock|S|N|N|100|N|N
 XPER|Xperi Holding Corporation - Common Stock|Q|N|N|100|N|N
 XRAY|DENTSPLY SIRONA Inc. - Common Stock|Q|N|N|100|N|N
+XRX|Xerox Holdings Corporation - Common Stock|Q|N|N|100|N|N
 XSPA|XpresSpa Group, Inc.  - Common Stock|S|N|N|100|N|N
 XT|iShares Exponential Technologies ETF|G|N|N|100|Y|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
@@ -5009,4 +5016,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0920202111:01|||||||
+File Creation Time: 0922202111:01|||||||
