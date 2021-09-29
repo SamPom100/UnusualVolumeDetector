@@ -239,6 +239,7 @@ AMOT,AMOT|Allied Motion Technologies, Inc. - Common Stock
 AMPG,AMPG|Amplitech Group, Inc. - Common Stock
 AMPGW,AMPGW|Amplitech Group, Inc. - Warrants
 AMPH,AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock
+AMPL,AMPL|Amplitude, Inc. - Class A Common Stock
 AMRK,AMRK|A-Mark Precious Metals, Inc. - Common Stock
 AMRN,AMRN|Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share
 AMRS,AMRS|Amyris, Inc. - Common Stock
@@ -702,9 +703,6 @@ CABA,CABA|Cabaletta Bio, Inc. - Common Stock
 CAC,CAC|Camden National Corporation - Common Stock
 CACC,CACC|Credit Acceptance Corporation - Common Stock
 CADL,CADL|Candel Therapeutics, Inc. - Common Stock
-CAHC,CAHC|CA Healthcare Acquisition Corp. - Class A Common Stock
-CAHCU,CAHCU|CA Healthcare Acquisition Corp. - Unit
-CAHCW,CAHCW|CA Healthcare Acquisition Corp. - Warrant
 CAKE,CAKE|The Cheesecake Factory Incorporated - Common Stock
 CALA,CALA|Calithera Biosciences, Inc. - Common Stock
 CALB,CALB|California BanCorp - Common Stock
@@ -1707,6 +1705,8 @@ GENE,GENE|Genetic Technologies Ltd - American Depositary Shares representing 600
 GEOS,GEOS|Geospace Technologies Corporation - Common Stock
 GERN,GERN|Geron Corporation - Common Stock
 GEVO,GEVO|Gevo, Inc. - Common Stock
+GFAI,GFAI|Guardforce AI Co., Limited - Ordinary Shares
+GFAIW,GFAIW|Guardforce AI Co., Limited - Warrant
 GFED,GFED|Guaranty Federal Bancshares, Inc. - Common Stock
 GGAL,GGAL|Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying
 GGGV,GGGV|G3 VRM Acquisition Corp. - Class A Common Stock
@@ -1928,6 +1928,7 @@ HCNE,HCNE|Jaws Hurricane Acquisition Corp. - Class A Common Stock
 HCNEU,HCNEU|Jaws Hurricane Acquisition Corp. - Unit
 HCNEW,HCNEW|Jaws Hurricane Acquisition Corp. - Warrant
 HCSG,HCSG|Healthcare Services Group, Inc. - Common Stock
+HCVIU,HCVIU|Hennessy Capital Investment Corp. VI - Unit
 HCWB,HCWB|HCW Biologics Inc. - Common Stock
 HDSN,HDSN|Hudson Technologies, Inc. - Common Stock
 HEAR,HEAR|Turtle Beach Corporation - Common Stock
@@ -2127,6 +2128,7 @@ IMAQR,IMAQR|International Media Acquisition Corp. - Rights
 IMAQU,IMAQU|International Media Acquisition Corp. - Unit
 IMAQW,IMAQW|International Media Acquisition Corp. - Warrants
 IMBI,IMBI|iMedia Brands, Inc. - Class A Common Stock
+IMBIL,IMBIL|iMedia Brands, Inc. - 8.5% Senior Notes Due 2026
 IMCC,IMCC|IM Cannabis Corp. - Common Shares
 IMCR,IMCR|Immunocore Holdings plc - American Depositary Shares
 IMGN,IMGN|ImmunoGen, Inc. - Common Stock
@@ -2188,6 +2190,7 @@ INVO,INVO|INVO BioScience, Inc. - Common Stock
 INVZ,INVZ|Innoviz Technologies Ltd. - Ordinary shares
 INVZW,INVZW|Innoviz Technologies Ltd. - Warrant
 INZY,INZY|Inozyme Pharma, Inc. - Common Stock
+IONM,IONM|Assure Holdings Corp. - Common Stock
 IONS,IONS|Ionis Pharmaceuticals, Inc. - Common Stock
 IOSP,IOSP|Innospec Inc. - Common Stock
 IOVA,IOVA|Iovance Biotherapeutics, Inc. - Common Stock
@@ -2505,6 +2508,8 @@ LMAOU,LMAOU|LMF Acquisition Opportunities Inc. - Unit
 LMAOW,LMAOW|LMF Acquisition Opportunities Inc. - Warrant
 LMAT,LMAT|LeMaitre Vascular, Inc. - Common Stock
 LMB,LMB|Limbach Holdings, Inc. - Common Stock
+LMDX,LMDX|LumiraDx Limited - Common stock
+LMDXW,LMDXW|LumiraDx Limited - Warrant
 LMFA,LMFA|LM Funding America, Inc. - Common Stock
 LMNL,LMNL|Liminal BioSciences Inc. - Common Shares
 LMNR,LMNR|Limoneira Co - Common Stock
@@ -2668,6 +2673,7 @@ MEACW,MEACW|Mercury Ecommerce Acquisition Corp - Warrants
 MEDP,MEDP|Medpace Holdings, Inc. - Common Stock
 MEDS,MEDS|TRxADE HEALTH, Inc. - Common Stock
 MEIP,MEIP|MEI Pharma, Inc. - Common Stock
+MEKA,MEKA|MELI Kaszek Pioneer Corp - Class A Ordinary Shares
 MELI,MELI|MercadoLibre, Inc. - Common Stock
 MEOAU,MEOAU|Minority Equality Opportunities Acquisition Inc. - Units
 MEOH,MEOH|Methanex Corporation - Common Stock
@@ -2696,6 +2702,7 @@ MGYR,MGYR|Magyar Bancorp, Inc. - Common Stock
 MHLD,MHLD|Maiden Holdings, Ltd. - Common Stock
 MICT,MICT|MICT, Inc. - Common Stock
 MIDD,MIDD|The Middleby Corporation - Common Stock
+MIGI,MIGI|Mawson Infrastructure Group Inc. - Common Stock
 MILE,MILE|Metromile, Inc. - Common Stock
 MILEW,MILEW|Metromile, Inc. - Warrant
 MIME,MIME|Mimecast Limited - Ordinary Shares
@@ -3608,7 +3615,9 @@ RUN,RUN|Sunrun Inc. - Common Stock
 RUSHA,RUSHA|Rush Enterprises, Inc. - Class A Common Stock
 RUSHB,RUSHB|Rush Enterprises, Inc. - Class B Common Stock
 RUTH,RUTH|Ruth's Hospitality Group, Inc. - Common Stock
+RVAC,RVAC|Riverview Acquisition Corp. - Class A Common Stock
 RVACU,RVACU|Riverview Acquisition Corp. - Unit
+RVACW,RVACW|Riverview Acquisition Corp. - Warrant
 RVMD,RVMD|Revolution Medicines, Inc. - Common Stock
 RVNC,RVNC|Revance Therapeutics, Inc. - Common Stock
 RVPH,RVPH|Reviva Pharmaceuticals Holdings, Inc. - Common Stock
@@ -3807,6 +3816,7 @@ SMIH,SMIH|Summit Healthcare Acquisition Corp. - Class A Ordinary Share
 SMIHU,SMIHU|Summit Healthcare Acquisition Corp. - Units
 SMIHW,SMIHW|Summit Healthcare Acquisition Corp. - Warrant
 SMIT,SMIT|Schmitt Industries, Inc. - Common Stock
+SMLR,SMLR|Semler Scientific, Inc. - Common Stock
 SMMF,SMMF|Summit Financial Group, Inc. - Common Stock
 SMMT,SMMT|Summit Therapeutics Inc.  - Common Stock
 SMPL,SMPL|The Simply Good Foods Company - Common Stock
@@ -4104,7 +4114,6 @@ TIPT,TIPT|Tiptree Inc. - Common Stock
 TIRX,TIRX|TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares
 TITN,TITN|Titan Machinery Inc. - Common Stock
 TKNO,TKNO|Alpha Teknova, Inc. - Common Stock
-TLC,TLC|Taiwan Liposome Company, Ltd. - American Depositary Shares
 TLGT,TLGT|Teligent, Inc. - Common Stock
 TLIS,TLIS|Talis Biomedical Corporation - common stock
 TLMD,TLMD|SOC Telemed, Inc. - Class A Common Stock
