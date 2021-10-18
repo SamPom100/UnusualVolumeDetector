@@ -35,25 +35,34 @@ class mainObj:
         return mydata
 
     def getData(self, ticker):
-        global MONTH_CUTOFF
-        currentDate = datetime.date.today() + datetime.timedelta(days=1)
-        pastDate = currentDate - \
-            dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
-        sys.stdout = open(os.devnull, "w")
-        #maybe swap yahoo finance to quandl due to rate limits
         try:
-            data = yf.download(ticker, start=pastDate, end=currentDate)
+            global MONTH_CUTOFF
+            currentDate = datetime.date.today() + datetime.timedelta(days=1)
+            pastDate = currentDate - \
+                dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
+            sys.stdout = open(os.devnull, "w")
+            #maybe swap yahoo finance to quandl due to rate limits
+            try:
+                data = yf.download(ticker, start=pastDate, end=currentDate)
+            except:
+                data = pd.DataFrame(columns="Volume") #fix rare corrputed data download
+
+            #data = self.getDataQuandl(ticker,pastDate,currentDate)
+            sys.stdout = sys.__stdout__
+            #with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+            #print(data[["Volume"]])
+
+            #avoid yahoo finance rate limits
+            time.sleep(1) 
+            return data[["Volume"]]
         except:
-            data = pd.DataFrame(columns="Volume") #fix rare corrputed data download
+            try:
+                self.getDataQuandl(ticker,pastDate,currentDate)
+            except:
+                return pd.DataFrame(columns = ['Volume'])
 
-        #data = self.getDataQuandl(ticker,pastDate,currentDate)
-        sys.stdout = sys.__stdout__
-        #with pd.option_context('display.max_rows', None, 'display.max_columns', None):
-        #print(data[["Volume"]])
 
-        #avoid yahoo finance rate limits
-        time.sleep(1) 
-        return data[["Volume"]]
+
 
 
     def find_anomalies(self, data):
@@ -113,9 +122,12 @@ class mainObj:
 
         #n_jobs=multiprocessing.cpu_count()
         #limited number of threads to avoid yahoo finance rate limits
-        with parallel_backend('loky', n_jobs=1):
-            Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
-                       for x in tqdm(list_of_tickers))
+        try:
+            with parallel_backend('loky', n_jobs=1):
+                Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
+                        for x in tqdm(list_of_tickers))
+        except:
+            return positive_scans
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
