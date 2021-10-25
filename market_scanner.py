@@ -53,7 +53,7 @@ class mainObj:
             #print(data[["Volume"]])
 
             #avoid yahoo finance rate limits
-            time.sleep(1) 
+            time.sleep(.2) 
             return data[["Volume"]]
         except:
             try:
@@ -123,7 +123,7 @@ class mainObj:
         #n_jobs=multiprocessing.cpu_count()
         #limited number of threads to avoid yahoo finance rate limits
         try:
-            with parallel_backend('loky', n_jobs=1):
+            with parallel_backend('loky', n_jobs=3):
                 Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                         for x in tqdm(list_of_tickers))
         except:
