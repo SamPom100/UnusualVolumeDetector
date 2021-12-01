@@ -497,6 +497,7 @@ AYRO,AYRO|AYRO, Inc. - Common Stock
 AYTU,AYTU|Aytu BioPharma, Inc.  - Common Stock
 AZN,AZN|AstraZeneca PLC - American Depositary Shares
 AZPN,AZPN|Aspen Technology, Inc. - Common Stock
+AZTA,AZTA|Azenta, Inc. - Common Stock
 AZYO,AZYO|Aziyo Biologics, Inc. - Class A Common Stock
 BAFN,BAFN|BayFirst Financial Corp. - Common Stock
 BAND,BAND|Bandwidth Inc. - Class A Common Stock
@@ -682,7 +683,6 @@ BRIVU,BRIVU|B. Riley Principal 250 Merger Corp. - Units
 BRIVW,BRIVW|B. Riley Principal 250 Merger Corp. - Warrant
 BRKL,BRKL|Brookline Bancorp, Inc. - Common Stock
 BRKR,BRKR|Bruker Corporation - Common Stock
-BRKS,BRKS|Brooks Automation, Inc. - Common Stock
 BRLI,BRLI|Brilliant Acquisition Corporation - Ordinary Shares
 BRLIR,BRLIR|Brilliant Acquisition Corporation - Rights
 BRLIU,BRLIU|Brilliant Acquisition Corporation - Unit
@@ -821,6 +821,8 @@ CDLX,CDLX|Cardlytics, Inc. - Common Stock
 CDMO,CDMO|Avid Bioservices, Inc. - Common Stock
 CDNA,CDNA|CareDx, Inc. - Common Stock
 CDNS,CDNS|Cadence Design Systems, Inc. - Common Stock
+CDRO,CDRO|Codere Online Luxembourg, S.A. - Ordinary Shares 
+CDROW,CDROW|Codere Online Luxembourg, S.A. - Warrants 
 CDTX,CDTX|Cidara Therapeutics, Inc. - Common Stock
 CDW,CDW|CDW Corporation - Common Stock
 CDXC,CDXC|ChromaDex Corporation - Common Stock
@@ -969,6 +971,7 @@ CLXT,CLXT|Calyxt, Inc. - Common Stock
 CMAX,CMAX|CareMax, Inc. - Class A Common Stock
 CMAXW,CMAXW|CareMax, Inc. - Warrant
 CMBM,CMBM|Cambium Networks Corporation - Ordinary Shares
+CMCAU,CMCAU|Capitalworks Emerging Markets Acquisition Corp - Unit
 CMCO,CMCO|Columbus McKinnon Corporation - Common Stock
 CMCSA,CMCSA|Comcast Corporation - Class A Common Stock
 CMCT,CMCT|CIM Commercial Trust Corporation - Common Stock
@@ -1217,9 +1220,6 @@ DCRNW,DCRNW|Decarbonization Plus Acquisition Corporation II - Warrant
 DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDI,DDI|DoubleDown Interactive Co., Ltd. - American Depository Shares
-DDMX,DDMX|DD3 Acquisition Corp. II - Class A Common Stock
-DDMXU,DDMXU|DD3 Acquisition Corp. II - Unit
-DDMXW,DDMXW|DD3 Acquisition Corp. II - Warrant
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
 DENN,DENN|Denny's Corporation - Common Stock
 DERM,DERM|Journey Medical Corporation - Common Stock
@@ -1416,7 +1416,10 @@ EMKR,EMKR|EMCORE Corporation - Common Stock
 EML,EML|Eastern Company (The) - Common Stock
 ENCPU,ENCPU|Energem Corp - Unit
 ENDP,ENDP|Endo International plc - Ordinary Shares
+ENER,ENER|Accretion Acquisition Corp. - Common Stock
+ENERR,ENERR|Accretion Acquisition Corp. - Right
 ENERU,ENERU|Accretion Acquisition Corp. - Unit
+ENERW,ENERW|Accretion Acquisition Corp. - Warrant
 ENFA,ENFA|890 5th Avenue Partners, Inc. - Class A Common Stock
 ENFAU,ENFAU|890 5th Avenue Partners, Inc. - Unit
 ENFAW,ENFAW|890 5th Avenue Partners, Inc. - Warrant
@@ -2071,6 +2074,7 @@ HHGCR,HHGCR|HHG Capital Corporation - Rights
 HHGCU,HHGCU|HHG Capital Corporation - Units
 HHGCW,HHGCW|HHG Capital Corporation - Warrant
 HHR,HHR|HeadHunter Group PLC - American Depositary Shares
+HHS,HHS|Harte-Hanks, Inc. - Common Stock
 HIBB,HIBB|Hibbett, Inc. - Common Stock
 HIFS,HIFS|Hingham Institution for Savings - Common Stock
 HIHO,HIHO|Highway Holdings Limited - Common Stock
@@ -3647,7 +3651,6 @@ RANI,RANI|Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPT,RAPT|RAPT Therapeutics, Inc. - Common Stock
 RARE,RARE|Ultragenyx Pharmaceutical Inc. - Common Stock
 RAVE,RAVE|Rave Restaurant Group, Inc. - Common Stock
-RAVN,RAVN|Raven Industries, Inc. - Common Stock
 RBB,RBB|RBB Bancorp - Common Stock
 RBBN,RBBN|Ribbon Communications Inc.  - Common Stock
 RBCAA,RBCAA|Republic Bancorp, Inc. - Class A Common Stock
@@ -3735,7 +3738,6 @@ RILYP,RILYP|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/
 RILYT,RILYT|B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028
 RILYZ,RILYZ|B. Riley Financial, Inc. - 5.25% Senior Notes due 2028
 RIOT,RIOT|Riot Blockchain, Inc - Common Stock
-RIVE,RIVE|Riverview Financial Corporation - Common Stock
 RIVN,RIVN|Rivian Automotive, Inc. - Class A Common Stock
 RKDA,RKDA|Arcadia Biosciences, Inc. - Common Stock
 RKLB,RKLB|Rocket Lab USA, Inc. - Common Stock
@@ -3769,6 +3771,7 @@ ROCG,ROCG|Roth CH Acquisition IV Co. - Common Stock
 ROCGU,ROCGU|Roth CH Acquisition IV Co. - Unit
 ROCGW,ROCGW|Roth CH Acquisition IV Co. - Warrant
 ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
+ROCLU,ROCLU|Roth CH Acquisition V Co. - Unit 
 ROCR,ROCR|Roth CH Acquisition III Co. - Common stock
 ROCRU,ROCRU|Roth CH Acquisition III Co. - Unit
 ROCRW,ROCRW|Roth CH Acquisition III Co. - Warrant
@@ -3922,7 +3925,9 @@ SGC,SGC|Superior Group of Companies, Inc. - Common Stock
 SGEN,SGEN|Seagen Inc.  - Common Stock
 SGH,SGH|SMART Global Holdings, Inc. - Ordinary Shares
 SGHT,SGHT|Sight Sciences, Inc. - Common Stock
+SGII,SGII|Seaport Global Acquisition II Corp. - Class A Common Stock
 SGIIU,SGIIU|Seaport Global Acquisition II Corp. - Unit
+SGIIW,SGIIW|Seaport Global Acquisition II Corp. - Warrants
 SGLB,SGLB|Sigma Labs, Inc. - Common Stock
 SGLBW,SGLBW|Sigma Labs, Inc. - Warrant
 SGMA,SGMA|SigmaTron International, Inc. - Common Stock
@@ -4326,6 +4331,7 @@ TIRX,TIRX|TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares
 TITN,TITN|Titan Machinery Inc. - Common Stock
 TIVC,TIVC|Tivic Health Systems, Inc. - Common stock
 TKNO,TKNO|Alpha Teknova, Inc. - Common Stock
+TLGYU,TLGYU|TLGY Acquisition Corporation - Unit
 TLIS,TLIS|Talis Biomedical Corporation - common stock
 TLMD,TLMD|SOC Telemed, Inc. - Class A Common Stock
 TLMDW,TLMDW|SOC Telemed, Inc. - Warrants
