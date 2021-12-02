@@ -135,9 +135,6 @@ AGBA,AGBA|AGBA Acquisition Limited - Ordinary Share
 AGBAR,AGBAR|AGBA Acquisition Limited - Right
 AGBAU,AGBAU|AGBA Acquisition Limited - Unit
 AGBAW,AGBAW|AGBA Acquisition Limited - Warrant
-AGC,AGC|Altimeter Growth Corp. - Class A Ordinary Shares
-AGCUU,AGCUU|Altimeter Growth Corp. - Unit
-AGCWW,AGCWW|Altimeter Growth Corp. - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGFY,AGFY|Agrify Corporation - Common Stock
@@ -821,8 +818,8 @@ CDLX,CDLX|Cardlytics, Inc. - Common Stock
 CDMO,CDMO|Avid Bioservices, Inc. - Common Stock
 CDNA,CDNA|CareDx, Inc. - Common Stock
 CDNS,CDNS|Cadence Design Systems, Inc. - Common Stock
-CDRO,CDRO|Codere Online Luxembourg, S.A. - Ordinary Shares 
-CDROW,CDROW|Codere Online Luxembourg, S.A. - Warrants 
+CDRO,CDRO|Codere Online Luxembourg, S.A. - Ordinary Shares
+CDROW,CDROW|Codere Online Luxembourg, S.A. - Warrants
 CDTX,CDTX|Cidara Therapeutics, Inc. - Common Stock
 CDW,CDW|CDW Corporation - Common Stock
 CDXC,CDXC|ChromaDex Corporation - Common Stock
@@ -1274,7 +1271,8 @@ DLPN,DLPN|Dolphin Entertainment, Inc. - Common Stock
 DLTH,DLTH|Duluth Holdings Inc. - Class B Common Stock
 DLTR,DLTR|Dollar Tree, Inc. - Common Stock
 DMAC,DMAC|DiaMedica Therapeutics Inc. - Common Stock
-DMAQU,DMAQU|Deep Medicine Acquisition Corp. - Unit
+DMAQ,DMAQ|Deep Medicine Acquisition Corp. - Class A Common Stock
+DMAQR,DMAQR|Deep Medicine Acquisition Corp. - Rights
 DMLP,DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests
 DMRC,DMRC|Digimarc Corporation - Common Stock
 DMTK,DMTK|DermTech, Inc. - Common Stock
@@ -1808,6 +1806,7 @@ GECC,GECC|Great Elm Capital Corp. - Common Stock
 GECCM,GECCM|Great Elm Capital Corp. - 6.75% Notes Due 2025
 GECCN,GECCN|Great Elm Capital Corp. - Notes
 GECCO,GECCO|Great Elm Capital Corp. - 5.875% Notes due 2026
+GEEXU,GEEXU|Games & Esports Experience Acquisition Corp. - Units
 GEG,GEG|Great Elm Group, Inc.  - Common Stock
 GENC,GENC|Gencor Industries Inc. - Common Stock
 GENE,GENE|Genetic Technologies Ltd - American Depositary Shares
@@ -1937,6 +1936,8 @@ GPCOW,GPCOW|Golden Path Acquisition Corporation - Warrant
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
+GRAB,GRAB|Grab Holdings Limited - Class A Ordinary Shares
+GRABW,GRABW|Grab Holdings Limited - Warrant
 GRAY,GRAY|Graybug Vision, Inc. - Common Stock
 GRBK,GRBK|Green Brick Partners, Inc. - Common Stock
 GRCL,GRCL|Gracell Biotechnologies Inc. - American Depositary Shares
@@ -2781,6 +2782,8 @@ MCAEU,MCAEU|Mountain Crest Acquisition Corp. III - Unit
 MCAF,MCAF|Mountain Crest Acquisition Corp. IV - Common Stock
 MCAFR,MCAFR|Mountain Crest Acquisition Corp. IV - Rights
 MCAFU,MCAFU|Mountain Crest Acquisition Corp. IV - Unit
+MCAG,MCAG|Mountain Crest Acquisition Corp. V - Common Stock
+MCAGR,MCAGR|Mountain Crest Acquisition Corp. V - Right
 MCAGU,MCAGU|Mountain Crest Acquisition Corp. V - Unit
 MCBC,MCBC|Macatawa Bank Corporation - Common Stock
 MCBS,MCBS|MetroCity Bankshares, Inc. - Common Stock
@@ -3766,12 +3769,13 @@ RNWK,RNWK|RealNetworks, Inc. - Common Stock
 RNWWW,RNWWW|ReNew Energy Global plc - Warrant
 RNXT,RNXT|RenovoRx, Inc. - Common Stock
 ROAD,ROAD|Construction Partners, Inc. - Common Stock
+ROCAU,ROCAU|ROC Energy Acquisition Corp. - Unit
 ROCC,ROCC|Ranger Oil Corporation - Class A Common Stock
 ROCG,ROCG|Roth CH Acquisition IV Co. - Common Stock
 ROCGU,ROCGU|Roth CH Acquisition IV Co. - Unit
 ROCGW,ROCGW|Roth CH Acquisition IV Co. - Warrant
 ROCK,ROCK|Gibraltar Industries, Inc. - Common Stock
-ROCLU,ROCLU|Roth CH Acquisition V Co. - Unit 
+ROCLU,ROCLU|Roth CH Acquisition V Co. - Unit
 ROCR,ROCR|Roth CH Acquisition III Co. - Common stock
 ROCRU,ROCRU|Roth CH Acquisition III Co. - Unit
 ROCRW,ROCRW|Roth CH Acquisition III Co. - Warrant
@@ -3997,6 +4001,7 @@ SLGG,SLGG|Super League Gaming, Inc. - Common Stock
 SLGL,SLGL|Sol-Gel Technologies Ltd. - Common Stock
 SLGN,SLGN|Silgan Holdings Inc. - Common Stock
 SLHG,SLHG|Skylight Health Group Inc. - Ordinary Shares
+SLHGP,SLHGP|Skylight Health Group Inc. - 9.25% Series A Cumulative Redeemable Perpetual Preferred Shares
 SLM,SLM|SLM Corporation - Common Stock
 SLMBP,SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B
 SLN,SLN|Silence Therapeutics Plc - American Depository Share
@@ -4508,6 +4513,7 @@ USLM,USLM|United States Lime & Minerals, Inc. - Common Stock
 USOI,USOI|Credit Suisse X-Links Crude Oil Shares Covered Call ETN
 USWS,USWS|U.S. Well Services, Inc. - Class A Common Stock
 USWSW,USWSW|U.S. Well Services, Inc. - Warrants
+UTAAU,UTAAU|UTA Acquisition Corporation - Units
 UTHR,UTHR|United Therapeutics Corporation - Common Stock
 UTMD,UTMD|Utah Medical Products, Inc. - Common Stock
 UTME,UTME|UTime Limited - Ordinary Shares
@@ -4719,7 +4725,7 @@ WLTW,WLTW|Willis Towers Watson Public Limited Company - Ordinary Shares
 WMG,WMG|Warner Music Group Corp. - Class A Common Stock
 WMPN,WMPN|William Penn Bancorporation - Common Stock
 WNEB,WNEB|Western New England Bancorp, Inc. - Common Stock
-WNW,WNW|Wunong Net Technology Company Limited - Ordinary Shares
+WNW,WNW|Meiwu Technology Company Limited - Ordinary Shares
 WOOF,WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock
 WORX,WORX|SCWorx Corp. - Common Stock
 WPRT,WPRT|Westport Fuel Systems Inc - Common Shares

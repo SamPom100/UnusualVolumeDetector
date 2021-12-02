@@ -141,9 +141,6 @@ AGBA|AGBA Acquisition Limited - Ordinary Share|S|N|N|100|N|N
 AGBAR|AGBA Acquisition Limited - Right|S|N|N|100|N|N
 AGBAU|AGBA Acquisition Limited - Unit|S|N|N|100|N|N
 AGBAW|AGBA Acquisition Limited - Warrant|S|N|N|100|N|N
-AGC|Altimeter Growth Corp. - Class A Ordinary Shares|S|N|N|100|N|N
-AGCUU|Altimeter Growth Corp. - Unit|S|N|N|100|N|N
-AGCWW|Altimeter Growth Corp. - Warrant|S|N|N|100|N|N
 AGEN|Agenus Inc. - Common Stock|S|N|N|100|N|N
 AGFS|AgroFresh Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 AGFY|Agrify Corporation - Common Stock|S|N|N|100|N|N
@@ -893,8 +890,8 @@ CDLX|Cardlytics, Inc. - Common Stock|G|N|N|100|N|N
 CDMO|Avid Bioservices, Inc. - Common Stock|S|N|N|100|N|N
 CDNA|CareDx, Inc. - Common Stock|G|N|N|100|N|N
 CDNS|Cadence Design Systems, Inc. - Common Stock|Q|N|N|100|N|N
-CDRO|Codere Online Luxembourg, S.A. - Ordinary Shares |S|N|N|100|N|N
-CDROW|Codere Online Luxembourg, S.A. - Warrants |S|N|N|100|N|N
+CDRO|Codere Online Luxembourg, S.A. - Ordinary Shares|S|N|N|100|N|N
+CDROW|Codere Online Luxembourg, S.A. - Warrants|S|N|N|100|N|N
 CDTX|Cidara Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 CDW|CDW Corporation - Common Stock|Q|N|N|100|N|N
 CDXC|ChromaDex Corporation - Common Stock|S|N|N|100|N|N
@@ -1374,7 +1371,8 @@ DLPN|Dolphin Entertainment, Inc. - Common Stock|S|N|N|100|N|N
 DLTH|Duluth Holdings Inc. - Class B Common Stock|Q|N|N|100|N|N
 DLTR|Dollar Tree, Inc. - Common Stock|Q|N|N|100|N|N
 DMAC|DiaMedica Therapeutics Inc. - Common Stock|S|N|N|100|N|N
-DMAQU|Deep Medicine Acquisition Corp. - Unit|G|N|N|100|N|N
+DMAQ|Deep Medicine Acquisition Corp. - Class A Common Stock|G|N|N|100|N|N
+DMAQR|Deep Medicine Acquisition Corp. - Rights|G|N|N|100|N|N
 DMLP|Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 DMRC|Digimarc Corporation - Common Stock|Q|N|N|100|N|N
 DMTK|DermTech, Inc. - Common Stock|S|N|N|100|N|N
@@ -2005,6 +2003,7 @@ GECC|Great Elm Capital Corp. - Common Stock|G|N|N|100|N|N
 GECCM|Great Elm Capital Corp. - 6.75% Notes Due 2025|G|N|N|100|N|N
 GECCN|Great Elm Capital Corp. - Notes|G|N|N|100|N|N
 GECCO|Great Elm Capital Corp. - 5.875% Notes due 2026|G|N|N|100|N|N
+GEEXU|Games & Esports Experience Acquisition Corp. - Units|G|N|N|100|N|N
 GEG|Great Elm Group, Inc.  - Common Stock|Q|N|N|100|N|N
 GENC|Gencor Industries Inc. - Common Stock|G|N|N|100|N|N
 GENE|Genetic Technologies Ltd - American Depositary Shares|S|N|N|100|N|N
@@ -2138,6 +2137,8 @@ GPCOW|Golden Path Acquisition Corporation - Warrant|S|N|N|100|N|N
 GPP|Green Plains Partners LP - Common Units|G|N|N|100|N|N
 GPRE|Green Plains, Inc. - Common Stock|Q|N|N|100|N|N
 GPRO|GoPro, Inc. - Class A Common Stock|Q|N|N|100|N|N
+GRAB|Grab Holdings Limited - Class A Ordinary Shares|Q|N|N|100|N|N
+GRABW|Grab Holdings Limited - Warrant|Q|N|N|100|N|N
 GRAY|Graybug Vision, Inc. - Common Stock|G|N|N|100|N|N
 GRBK|Green Brick Partners, Inc. - Common Stock|S|N|N|100|N|N
 GRCL|Gracell Biotechnologies Inc. - American Depositary Shares|Q|N|N|100|N|N
@@ -3054,6 +3055,8 @@ MCAEU|Mountain Crest Acquisition Corp. III - Unit|S|N|N|100|N|N
 MCAF|Mountain Crest Acquisition Corp. IV - Common Stock|S|N|N|100|N|N
 MCAFR|Mountain Crest Acquisition Corp. IV - Rights|S|N|N|100|N|N
 MCAFU|Mountain Crest Acquisition Corp. IV - Unit|S|N|N|100|N|N
+MCAG|Mountain Crest Acquisition Corp. V - Common Stock|G|N|N|100|N|N
+MCAGR|Mountain Crest Acquisition Corp. V - Right|G|N|N|100|N|N
 MCAGU|Mountain Crest Acquisition Corp. V - Unit|G|N|N|100|N|N
 MCBC|Macatawa Bank Corporation - Common Stock|Q|N|N|100|N|N
 MCBS|MetroCity Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4120,12 +4123,13 @@ RNWWW|ReNew Energy Global plc - Warrant|Q|N|N|100|N|N
 RNXT|RenovoRx, Inc. - Common Stock|S|N|N|100|N|N
 ROAD|Construction Partners, Inc. - Common Stock|Q|N|N|100|N|N
 ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
+ROCAU|ROC Energy Acquisition Corp. - Unit|G|N|N|100|N|N
 ROCC|Ranger Oil Corporation - Class A Common Stock|Q|N|N|100|N|N
 ROCG|Roth CH Acquisition IV Co. - Common Stock|S|N|N|100|N|N
 ROCGU|Roth CH Acquisition IV Co. - Unit|S|N|N|100|N|N
 ROCGW|Roth CH Acquisition IV Co. - Warrant|S|N|N|100|N|N
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100|N|N
-ROCLU|Roth CH Acquisition V Co. - Unit |G|N|N|100|N|N
+ROCLU|Roth CH Acquisition V Co. - Unit|G|N|N|100|N|N
 ROCR|Roth CH Acquisition III Co. - Common stock|S|N|N|100|N|N
 ROCRU|Roth CH Acquisition III Co. - Unit|S|N|N|100|N|N
 ROCRW|Roth CH Acquisition III Co. - Warrant|S|N|N|100|N|N
@@ -4361,6 +4365,7 @@ SLGG|Super League Gaming, Inc. - Common Stock|S|N|N|100|N|N
 SLGL|Sol-Gel Technologies Ltd. - Common Stock|G|N|N|100|N|N
 SLGN|Silgan Holdings Inc. - Common Stock|Q|N|N|100|N|N
 SLHG|Skylight Health Group Inc. - Ordinary Shares|S|N|N|100|N|N
+SLHGP|Skylight Health Group Inc. - 9.25% Series A Cumulative Redeemable Perpetual Preferred Shares|S|N|N|100|N|N
 SLM|SLM Corporation - Common Stock|Q|N|N|100|N|N
 SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B|Q|N|N|100|N|N
 SLN|Silence Therapeutics Plc - American Depository Share|G|N|N|100|N|N
@@ -4906,6 +4911,7 @@ USOI|Credit Suisse X-Links Crude Oil Shares Covered Call ETN|G|N|N|100|N|N
 USWS|U.S. Well Services, Inc. - Class A Common Stock|S|N|N|100|N|N
 USWSW|U.S. Well Services, Inc. - Warrants|S|N|N|100|N|N
 USXF|iShares ESG Advanced MSCI USA ETF|G|N|N|100|Y|N
+UTAAU|UTA Acquisition Corporation - Units|G|N|N|100|N|N
 UTHR|United Therapeutics Corporation - Common Stock|Q|N|N|100|N|N
 UTMD|Utah Medical Products, Inc. - Common Stock|Q|N|N|100|N|N
 UTME|UTime Limited - Ordinary Shares|S|N|N|100|N|N
@@ -5149,7 +5155,7 @@ WMG|Warner Music Group Corp. - Class A Common Stock|Q|N|N|100|N|N
 WMPN|William Penn Bancorporation - Common Stock|S|N|N|100|N|N
 WNDY|Global X Wind Energy ETF|G|N|N|100|Y|N
 WNEB|Western New England Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
-WNW|Wunong Net Technology Company Limited - Ordinary Shares|S|N|N|100|N|N
+WNW|Meiwu Technology Company Limited - Ordinary Shares|S|N|N|100|N|N
 WOOD|iShares S&P Global Timber & Forestry Index Fund|G|N|N|100|Y|N
 WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock|Q|N|N|100|N|N
 WORX|SCWorx Corp. - Common Stock|S|N|N|100|N|N
@@ -5284,4 +5290,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1201202121:32|||||||
+File Creation Time: 1202202111:01|||||||
