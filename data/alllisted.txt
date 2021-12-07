@@ -453,7 +453,9 @@ AUUD,AUUD|Auddia Inc. - Common Stock
 AUUDW,AUUDW|Auddia Inc. - Warrants
 AUVI,AUVI|Applied UV, Inc. - Common Stock
 AUVIP,AUVIP|Applied UV, Inc. - 10.5% Series A Cumulative Perpetual Preferred Stock, $0.0001 par value per share
+AVAC,AVAC|Avalon Acquisition Inc. - Class A Common Stock
 AVACU,AVACU|Avalon Acquisition Inc. - Units
+AVACW,AVACW|Avalon Acquisition Inc. - Warrant
 AVAH,AVAH|Aveanna Healthcare Holdings Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
 AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
@@ -584,6 +586,7 @@ BILI,BILI|Bilibili Inc. - American Depositary Shares
 BIMI,BIMI|BIMI International Medical Inc. - Common Stock
 BIOC,BIOC|Biocept, Inc. - Common Stock
 BIOL,BIOL|Biolase, Inc. - Common Stock
+BIOSU,BIOSU|BioPlus Acquisition Corp. - Units
 BIOT,BIOT|Biotech Acquisition Company - Class A Ordinary Shares
 BIOTU,BIOTU|Biotech Acquisition Company - Unit
 BIOTW,BIOTW|Biotech Acquisition Company - Warrant
@@ -651,6 +654,7 @@ BNR,BNR|Burning Rock Biotech Limited - American Depositary Shares
 BNSO,BNSO|Bonso Electronics International, Inc. - Common Stock
 BNTC,BNTC|Benitec Biopharma Inc. - Common Stock
 BNTX,BNTX|BioNTech SE - American Depositary Shares
+BOCNU,BOCNU|Blue Ocean Acquisition Corp - Units
 BOKF,BOKF|BOK Financial Corporation - Common Stock
 BOLT,BOLT|Bolt Biotherapeutics, Inc. - Common Stock
 BOMN,BOMN|Boston Omaha Corporation - Class A Common Stock
@@ -659,6 +663,7 @@ BOOM,BOOM|DMC Global Inc. - Common Stock
 BOSC,BOSC|B.O.S. Better Online Solutions - Ordinary Shares
 BOTJ,BOTJ|Bank of the James Financial Group, Inc. - Common Stock
 BOXL,BOXL|Boxlight Corporation - Class A Common Stock
+BPACU,BPACU|Bullpen Parlay Acquisition Company - Unit
 BPMC,BPMC|Blueprint Medicines Corporation - Common Stock
 BPOP,BPOP|Popular, Inc. - Common Stock
 BPOPM,BPOPM|Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities
@@ -752,6 +757,8 @@ BYTS,BYTS|BYTE Acquisition Corp. - Class A Ordinary Shares
 BYTSU,BYTSU|BYTE Acquisition Corp. - Units
 BYTSW,BYTSW|BYTE Acquisition Corp. - Warrants
 BZ,BZ|KANZHUN LIMITED - American Depository Shares
+BZFD,BZFD|BuzzFeed, Inc. - Class A Common Stock
+BZFDW,BZFDW|BuzzFeed, Inc. - Warrant
 BZUN,BZUN|Baozun Inc. - American Depositary Shares
 CAAS,CAAS|China Automotive Systems, Inc. - Common Stock
 CABA,CABA|Cabaletta Bio, Inc. - Common Stock
@@ -811,7 +818,9 @@ CCTSU,CCTSU|Cactus Acquisition Corp. 1 Limited - Unit
 CCXI,CCXI|ChemoCentryx, Inc. - Common Stock
 CD,CD|Chindata Group Holdings Limited - American Depositary Shares
 CDAK,CDAK|Codiak BioSciences, Inc. - Common Stock
+CDAQ,CDAQ|Compass Digital Acquisition Corp. - Class A Ordinary Shares
 CDAQU,CDAQU|Compass Digital Acquisition Corp. - Unit
+CDAQW,CDAQW|Compass Digital Acquisition Corp. - Warrant
 CDEV,CDEV|Centennial Resource Development, Inc. - Class A Common Stock
 CDK,CDK|CDK Global, Inc. - Common Stock
 CDLX,CDLX|Cardlytics, Inc. - Common Stock
@@ -831,6 +840,7 @@ CELC,CELC|Celcuity Inc. - Common Stock
 CELH,CELH|Celsius Holdings, Inc. - Common Stock
 CELU,CELU|Celularity Inc. - Class A Common Stock
 CELUW,CELUW|Celularity Inc. - Warrant
+CELZ,CELZ|Creative Medical Technology Holdings, Inc. - Common Stock
 CEMI,CEMI|Chembio Diagnostics, Inc. - Common Stock
 CENQ,CENQ|CENAQ Energy Corp. - Class A Ordinary Shares
 CENQU,CENQU|CENAQ Energy Corp. - Unit
@@ -1312,7 +1322,6 @@ DSGX,DSGX|The Descartes Systems Group Inc. - Common Stock
 DSKE,DSKE|Daseke, Inc. - Common Stock
 DSKEW,DSKEW|Daseke, Inc. - Warrant
 DSP,DSP|Viant Technology Inc. - common stock
-DSPG,DSPG|DSP Group, Inc. - Common Stock
 DSWL,DSWL|Deswell Industries, Inc. - Common Shares
 DTEA,DTEA|DAVIDsTEA Inc. - Common Stock
 DTIL,DTIL|Precision BioSciences, Inc. - Common Stock
@@ -1418,9 +1427,6 @@ ENER,ENER|Accretion Acquisition Corp. - Common Stock
 ENERR,ENERR|Accretion Acquisition Corp. - Right
 ENERU,ENERU|Accretion Acquisition Corp. - Unit
 ENERW,ENERW|Accretion Acquisition Corp. - Warrant
-ENFA,ENFA|890 5th Avenue Partners, Inc. - Class A Common Stock
-ENFAU,ENFAU|890 5th Avenue Partners, Inc. - Unit
-ENFAW,ENFAW|890 5th Avenue Partners, Inc. - Warrant
 ENG,ENG|ENGlobal Corporation - Common Stock
 ENJY,ENJY|Enjoy Technology, Inc. - Common Stock
 ENJYW,ENJYW|Enjoy Technology, Inc. - Warrant
@@ -1481,7 +1487,6 @@ ESSCR,ESSCR|East Stone Acquisition Corporation - Right
 ESSCU,ESSCU|East Stone Acquisition Corporation - Unit
 ESSCW,ESSCW|East Stone Acquisition Corporation - Warrant
 ESTA,ESTA|Establishment Labs Holdings Inc. - Common Shares
-ESXB,ESXB|Community Bankers Trust Corporation. - Common Stock
 ETAC,ETAC|E.Merge Technology Acquisition Corp. - Class A Common stock
 ETACU,ETACU|E.Merge Technology Acquisition Corp. - Unit
 ETACW,ETACW|E.Merge Technology Acquisition Corp. - Warrant
@@ -1551,7 +1556,9 @@ FATBB,FATBB|FAT Brands Inc. - Class B Common Stock
 FATBP,FATBP|FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock
 FATBW,FATBW|FAT Brands Inc. - Warrant
 FATE,FATE|Fate Therapeutics, Inc. - Common Stock
+FATP,FATP|Fat Projects Acquisition Corp - Class A Ordinary Share
 FATPU,FATPU|Fat Projects Acquisition Corp - Unit
+FATPW,FATPW|Fat Projects Acquisition Corp - Warrant
 FB,FB|Meta Platforms, Inc. - Class A Common Stock
 FBIO,FBIO|Fortress Biotech, Inc. - Common Stock
 FBIOP,FBIOP|Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock
@@ -1655,15 +1662,14 @@ FOLD,FOLD|Amicus Therapeutics, Inc. - Common Stock
 FONR,FONR|Fonar Corporation - Common Stock
 FORA,FORA|Forian Inc. - Common Stock
 FORD,FORD|Forward Industries, Inc. - Common Stock
-FORE,FORE|Foresight Acquisition Corp. - Class A Common Stock
-FOREU,FOREU|Foresight Acquisition Corp. - Unit, consisting of one share of Class A Common Stock and one-third of one redeemable warrant
-FOREW,FOREW|Foresight Acquisition Corp. - Warrant
 FORM,FORM|FormFactor, Inc. - Common Stock
 FORR,FORR|Forrester Research, Inc. - Common Stock
 FORTY,FORTY|Formula Systems (1985) Ltd. - American Depositary Shares
 FOSL,FOSL|Fossil Group, Inc. - Common Stock
 FOSLL,FOSLL|Fossil Group, Inc. - 7% Senior Notes due 2026
+FOUN,FOUN|Founder SPAC - Class A Ordinary Shares
 FOUNU,FOUNU|Founder SPAC - Units
+FOUNW,FOUNW|Founder SPAC - Warrants
 FOX,FOX|Fox Corporation - Class B Common Stock
 FOXA,FOXA|Fox Corporation - Class A Common Stock
 FOXF,FOXF|Fox Factory Holding Corp. - Common Stock
@@ -1772,7 +1778,6 @@ GAME,GAME|Engine Gaming and Media, Inc. - Common stock
 GAN,GAN|GAN Limited - Ordinary Shares
 GANX,GANX|Gain Therapeutics, Inc. - Common Stock
 GASS,GASS|StealthGas, Inc. - common stock
-GASSV,GASSV|StealthGas, Inc. - Common Stock Ex-Distribution When-Issued
 GATE,GATE|Marblegate Acquisition Corp. - Class A Common Stock
 GATEU,GATEU|Marblegate Acquisition Corp. - Unit
 GATEW,GATEW|Marblegate Acquisition Corp. - Warrant
@@ -2200,7 +2205,6 @@ IBOC,IBOC|International Bancshares Corporation - Common Stock
 IBRX,IBRX|ImmunityBio, Inc. - Common Stock
 IBTX,IBTX|Independent Bank Group, Inc - Common Stock
 ICAD,ICAD|icad inc. - Common Stock
-ICBK,ICBK|County Bancorp, Inc. - Common Stock
 ICCC,ICCC|ImmuCell Corporation - Common Stock
 ICCH,ICCH|ICC Holdings, Inc. - Common Stock
 ICCM,ICCM|IceCure Medical Ltd. - Ordinary Shares
@@ -2269,8 +2273,8 @@ IMMR,IMMR|Immersion Corporation - Common Stock
 IMNM,IMNM|Immunome, Inc. - Common Stock
 IMOS,IMOS|ChipMOS TECHNOLOGIES INC. - American Depositary Shares
 IMPL,IMPL|Impel NeuroPharma, Inc. - Common Stock
-IMPPV,IMPPV|Imperial Petroleum Inc. - Common Shares When Issued
-IMPTV,IMPTV|Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares When Issued
+IMPP,IMPP|Imperial Petroleum Inc. - Common Shares
+IMPPP,IMPPP|Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares
 IMRA,IMRA|IMARA Inc. - Common Stock
 IMRN,IMRN|Immuron Limited - American Depositary Shares
 IMRNW,IMRNW|Immuron Limited - Warrants
@@ -3405,6 +3409,8 @@ PDEX,PDEX|Pro-Dex, Inc. - Common Stock
 PDFS,PDFS|PDF Solutions, Inc. - Common Stock
 PDLB,PDLB|PDL Community Bancorp - Common Stock
 PDSB,PDSB|PDS Biotechnology Corporation - Common Stock
+PEAR,PEAR|Pear Therapeutics, Inc. - Class A Common Stock
+PEARW,PEARW|Pear Therapeutics, Inc. - Warrant
 PEBK,PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock
 PEBO,PEBO|Peoples Bancorp Inc. - Common Stock
 PECO,PECO|Phillips Edison & Company, Inc. - Common Stock
@@ -3458,6 +3464,8 @@ PHUN,PHUN|Phunware, Inc. - Common Stock
 PHUNW,PHUNW|Phunware, Inc. - Warrants
 PHVS,PHVS|Pharvaris N.V. - Ordinary Shares
 PI,PI|Impinj, Inc. - Common Stock
+PIII,PIII|P3 Health Partners Inc. - Class A Common Stock
+PIIIW,PIIIW|P3 Health Partners Inc. - Warrant
 PIK,PIK|Kidpik Corp. - Common Stock
 PINC,PINC|Premier, Inc. - Class A Common Stock
 PIRS,PIRS|Pieris Pharmaceuticals, Inc. - Common Stock
@@ -3732,6 +3740,7 @@ RICOW,RICOW|Agrico Acquisition Corp. - Warrant
 RIDE,RIDE|Lordstown Motors Corp. - Class A Common Stock
 RIGL,RIGL|Rigel Pharmaceuticals, Inc. - Common Stock
 RILY,RILY|B. Riley Financial, Inc. - Common Stock
+RILYG,RILYG|B. Riley Financial, Inc. - 5.00% Senior Notes due 2026
 RILYK,RILYK|B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026
 RILYL,RILYL|B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock
 RILYM,RILYM|B. Riley Financial, Inc. - 6.375% Senior Notes due 2025
@@ -3786,7 +3795,9 @@ ROKU,ROKU|Roku, Inc. - Class A Common Stock
 ROLL,ROLL|RBC Bearings Incorporated - Common Stock
 ROLLP,ROLLP|RBC Bearings Incorporated - 5.00% Series A Mandatory Convertible Preferred Stock
 ROOT,ROOT|Root, Inc. - common stock
+ROSE,ROSE|Rose Hill Acquisition Corporation - Class A Ordinary Shares
 ROSEU,ROSEU|Rose Hill Acquisition Corporation - Unit
+ROSEW,ROSEW|Rose Hill Acquisition Corporation - Warrant
 ROST,ROST|Ross Stores, Inc. - Common Stock
 ROVR,ROVR|Rover Group, Inc. - Class A Common Stock
 ROVRW,ROVRW|Rover Group, Inc. - Warrant
@@ -4313,9 +4324,6 @@ THCP,THCP|Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock
 THCPU,THCPU|Thunder Bridge Capital Partners IV, Inc. - Unit
 THCPW,THCPW|Thunder Bridge Capital Partners IV, Inc. - Warrant
 THFF,THFF|First Financial Corporation Indiana - Common Stock
-THMA,THMA|Thimble Point Acquisition Corp. - Class A Common Stock
-THMAU,THMAU|Thimble Point Acquisition Corp. - Unit
-THMAW,THMAW|Thimble Point Acquisition Corp. - Warrant
 THMO,THMO|ThermoGenesis Holdings, Inc. - Common Stock
 THRM,THRM|Gentherm Inc - Common Stock
 THRN,THRN|Thorne Healthtech, Inc. - Common Stock
