@@ -325,6 +325,7 @@ APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100|N|N
 APTX|Aptinyx Inc. - Common Stock|Q|N|N|100|N|N
 APVO|Aptevo Therapeutics Inc. - Common Stock|S|N|N|100|N|N
 APWC|Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share|S|N|N|100|N|N
+APXIU|APx Acquisition Corp. I - Unit|G|N|N|100|N|N
 APYX|Apyx Medical Corporation - Common Stock|Q|N|N|100|N|N
 AQB|AquaBounty Technologies, Inc. - Common Stock|S|N|N|100|N|N
 AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100|N|N
@@ -624,6 +625,7 @@ BKCH|Global X Blockchain ETF|G|N|N|100|Y|N
 BKEP|Blueknight Energy Partners L.P. - Common Units representing Limited Partner Interests|G|N|N|100|N|N
 BKEPP|Blueknight Energy Partners L.P. - Series A Preferred Units|G|N|N|100|N|N
 BKNG|Booking Holdings Inc. - Common Stock|Q|N|N|100|N|N
+BKR|Baker Hughes Company - Common Stock|Q|N|N|100|N|N
 BKSC|Bank of South Carolina Corp. - Common Stock|S|N|N|100|N|N
 BKYI|BIO-key International, Inc. - Common Stock|S|N|N|100|N|N
 BL|BlackLine, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1290,6 +1292,7 @@ DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100|N|N
 DALI|First Trust Dorsey Wright DALI 1 ETF|G|N|N|100|Y|N
 DALN|DallasNews Corporation - Series A Common Stock|S|N|N|100|N|N
 DALS|DA32 Life Science Tech Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
+DAOOU|Crypto 1 Acquisition Corp - Unit|G|N|N|100|N|N
 DAPP|VanEck Digital Transformation ETF|G|N|N|100|Y|N
 DARE|Dare Bioscience, Inc. - Common Stock|S|N|N|100|N|N
 DATS|DatChat, Inc. - Common Stock|S|N|N|100|N|N
@@ -2076,6 +2079,7 @@ GLG|TD Holdings, Inc. - Common Stock|S|N|D|100|N|N
 GLHA|Glass Houses Acquisition Corp. - Class A common stock|S|N|N|100|N|N
 GLHAU|Glass Houses Acquisition Corp. - Unit|S|N|N|100|N|N
 GLHAW|Glass Houses Acquisition Corp. - Warrant|S|N|N|100|N|N
+GLLIU|Globalink Investment Inc. - Units|G|N|N|100|N|N
 GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares|S|N|N|100|N|N
 GLNG|Golar LNG Limited - Common Shares|Q|N|N|100|N|N
 GLPG|Galapagos NV - American Depositary Shares|Q|N|N|100|N|N
@@ -2156,7 +2160,6 @@ GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100|N|N
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100|Y|N
 GRIL|Muscle Maker, Inc - Common Stock|S|N|N|100|N|N
 GRIN|Grindrod Shipping Holdings Ltd. - Ordinary Shares|Q|N|N|100|N|N
-GRMN|Garmin Ltd. - Common Stock|Q|N|N|100|N|N
 GRNQ|Greenpro Capital Corp. - Common Stock|S|N|N|100|N|N
 GROM|Grom Social Enterprises Inc. - Common Stock|S|N|N|100|N|N
 GROMW|Grom Social Enterprises Inc. - Warrants|S|N|N|100|N|N
@@ -2693,6 +2696,7 @@ JUGGW|Jaws Juggernaut Acquisition Corporation - Warrant|S|N|N|100|N|N
 JUPW|Jupiter Wellness, Inc. - Common Stock|S|N|N|100|N|N
 JUPWW|Jupiter Wellness, Inc. - Warrant|S|N|N|100|N|N
 JVA|Coffee Holding Co., Inc. - Common Stock|S|N|N|100|N|N
+JWACU|Jupiter Wellness Acquisition Corp. - Unit|G|N|N|100|N|N
 JWEL|Jowell Global Ltd. - Ordinary Shares|S|N|N|100|N|N
 JYAC|Jiya Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 JYNT|The Joint Corp. - Common Stock|S|N|N|100|N|N
@@ -2892,7 +2896,9 @@ LILMW|Lilium N.V. - Warrants|Q|N|N|100|N|N
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100|N|N
 LIND|Lindblad Expeditions Holdings Inc.  - Common Stock|S|N|N|100|N|N
 LINK|Interlink Electronics, Inc. - Common Stock|S|N|N|100|N|N
+LION|Lionheart III Corp - Class A Common Stock|G|N|N|100|N|N
 LIONU|Lionheart III Corp - Unit|G|N|N|100|N|N
+LIONW|Lionheart III Corp - Warrant|G|N|N|100|N|N
 LIQT|LiqTech International, Inc. - Common Stock|S|N|N|100|N|N
 LITE|Lumentum Holdings Inc. - Common Stock|Q|N|N|100|N|N
 LITM|Snow Lake Resources Ltd. - Common Shares|S|N|N|100|N|N
@@ -4446,7 +4452,6 @@ SNUG|Merlyn.AI Tactical Growth & Income ETF|G|N|N|100|Y|N
 SNY|Sanofi - American Depositary Shares|Q|N|N|100|N|N
 SOCL|Global X Social Media ETF|G|N|N|100|Y|N
 SOFI|SoFi Technologies, Inc.  - Common Stock|Q|N|N|100|N|N
-SOFIW|SoFi Technologies, Inc.  - Warrant|Q|N|N|100|N|N
 SOHO|Sotherly Hotels Inc. - Common Stock|G|N|N|100|N|N
 SOHOB|Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
 SOHON|Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
@@ -4945,6 +4950,7 @@ VCKAU|Vickers Vantage Corp. I - Unit|S|N|N|100|N|N
 VCKAW|Vickers Vantage Corp. I - Warrant|S|N|N|100|N|N
 VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCNX|Vaccinex, Inc. - Common Stock|S|N|N|100|N|N
+VCSA|Vacasa, Inc. - Class A Common Stock|Q|N|N|100|N|N
 VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100|Y|N
 VCTR|Victory Capital Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 VCXA|10X Capital Venture Acquisition Corp. II - Class A Ordinary Share|S|N|N|100|N|N
@@ -5297,4 +5303,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZY|Zymergen Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1206202118:02|||||||
+File Creation Time: 1207202115:42|||||||
