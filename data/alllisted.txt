@@ -80,6 +80,7 @@ ADALU,ADALU|Anthemis Digital Acquisitions I Corp - Unit
 ADALW,ADALW|Anthemis Digital Acquisitions I Corp - Warrant
 ADAP,ADAP|Adaptimmune Therapeutics plc - American Depositary Shares
 ADBE,ADBE|Adobe Inc. - Common Stock
+ADEAV,ADEAV|Xperi Holding Corporation - Common Stock Ex-distribution When Issued
 ADER,ADER|26 Capital Acquisition Corp. - Class A Common Stock
 ADERU,ADERU|26 Capital Acquisition Corp. - Unit
 ADERW,ADERW|26 Capital Acquisition Corp. - Warrant
@@ -947,9 +948,6 @@ CFLT,CFLT|Confluent, Inc. - Class A Common Stock
 CFMS,CFMS|Conformis, Inc. - Common Stock
 CFRX,CFRX|ContraFect Corporation - Common Stock
 CFSB,CFSB|CFSB Bancorp, Inc. - Common Stock
-CFVI,CFVI|CF Acquisition Corp. VI - Class A Common Stock
-CFVIU,CFVIU|CF Acquisition Corp. VI - Unit
-CFVIW,CFVIW|CF Acquisition Corp. VI - Warrant
 CG,CG|The Carlyle Group Inc. - Common Stock
 CGABL,CGABL|The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061
 CGBD,CGBD|Carlyle Secured Lending, Inc. - Common Stock
@@ -1311,7 +1309,6 @@ DCBO,DCBO|Docebo Inc. - Common Shares
 DCFC,DCFC|Tritium DCFC Limited - Ordinary Shares
 DCFCW,DCFCW|Tritium DCFC Limited - Warrant
 DCGO,DCGO|DocGo Inc. - Common Stock
-DCGOW,DCGOW|DocGo Inc. - Warrants
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
@@ -2020,6 +2017,7 @@ GLPG,GLPG|Galapagos NV - American Depositary Shares
 GLPI,GLPI|Gaming and Leisure Properties, Inc. - Common Stock
 GLRE,GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
 GLSI,GLSI|Greenwich LifeSciences, Inc. - Common stock
+GLSTU,GLSTU|Global Star Acquisition, Inc. - Unit
 GLTO,GLTO|Galecto, Inc. - Common Stock
 GLUE,GLUE|Monte Rosa Therapeutics, Inc. - Common Stock
 GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
@@ -2065,10 +2063,6 @@ GP,GP|GreenPower Motor Company Inc. - Common Shares
 GPAC,GPAC|Global Partner Acquisition Corp II - Class A Ordinary Share
 GPACU,GPACU|Global Partner Acquisition Corp II - Unit
 GPACW,GPACW|Global Partner Acquisition Corp II - Warrant
-GPCO,GPCO|Golden Path Acquisition Corporation - Ordinary Shares
-GPCOR,GPCOR|Golden Path Acquisition Corporation - Rights
-GPCOU,GPCOU|Golden Path Acquisition Corporation - Units, each consisting of one Ordinary Share, one right, and one warrant.
-GPCOW,GPCOW|Golden Path Acquisition Corporation - Warrant
 GPP,GPP|Green Plains Partners LP - Common Units
 GPRE,GPRE|Green Plains, Inc. - Common Stock
 GPRO,GPRO|GoPro, Inc. - Class A Common Stock
@@ -2231,7 +2225,6 @@ HLAHU,HLAHU|Hamilton Lane Alliance Holdings I, Inc. - Unit
 HLAHW,HLAHW|Hamilton Lane Alliance Holdings I, Inc. - Warrant
 HLBZ,HLBZ|Helbiz, Inc. - Class A Common Stock
 HLBZW,HLBZW|Helbiz, Inc. - Warrant
-HLG,HLG|Hailiang Education Group Inc. - American Depositary Shares
 HLIT,HLIT|Harmonic Inc. - Common Stock
 HLMN,HLMN|Hillman Solutions Corp. - Common Stock
 HLNE,HLNE|Hamilton Lane Incorporated - Class A Common Stock
@@ -2256,6 +2249,8 @@ HOFT,HOFT|Hooker Furnishings Corporation - Common Stock
 HOFV,HOFV|Hall of Fame Resort & Entertainment Company - Common Stock
 HOFVW,HOFVW|Hall of Fame Resort & Entertainment Company - Warrant
 HOLI,HOLI|Hollysys Automation Technologies, Ltd. - Common Stock
+HOLO,HOLO|MicroCloud Hologram Inc. - Ordinary Shares
+HOLOW,HOLOW|MicroCloud Hologram Inc. - Warrant
 HOLX,HOLX|Hologic, Inc. - Common Stock
 HON,HON|Honeywell International Inc. - Common Stock
 HONE,HONE|HarborOne Bancorp, Inc. - Common Stock
@@ -3414,6 +3409,8 @@ NWSA,NWSA|News Corporation - Class A Common Stock
 NXGL,NXGL|NexGel, Inc - Common Stock
 NXGLW,NXGLW|NexGel, Inc - Warrant
 NXGN,NXGN|NextGen Healthcare, Inc. - Common Stock
+NXL,NXL|Nexalin Technology, Inc. - Common Stock
+NXLIW,NXLIW|Nexalin Technology, Inc. - Warrant
 NXPI,NXPI|NXP Semiconductors N.V. - Common Stock
 NXPL,NXPL|NextPlat Corp - Common Stock
 NXPLW,NXPLW|NextPlat Corp - Warrants
@@ -4108,6 +4105,8 @@ RTL,RTL|The Necessity Retail REIT, Inc. - Class A Common Stock
 RTLPO,RTLPO|The Necessity Retail REIT, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock
 RTLPP,RTLPP|The Necessity Retail REIT, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock
 RUBY,RUBY|Rubius Therapeutics, Inc. - Common Stock
+RUM,RUM|Rumble Inc. - Class A Common Stock
+RUMBW,RUMBW|Rumble Inc. - Warrant
 RUN,RUN|Sunrun Inc. - Common Stock
 RUSHA,RUSHA|Rush Enterprises, Inc. - Class A Common Stock
 RUSHB,RUSHB|Rush Enterprises, Inc. - Class B Common Stock
@@ -4559,7 +4558,7 @@ SYM,SYM|Symbotic Inc. - Class A Common Stock
 SYNA,SYNA|Synaptics Incorporated - Common Stock
 SYNH,SYNH|Syneos Health, Inc. - Class A Common Stock
 SYPR,SYPR|Sypris Solutions, Inc. - Common Stock
-SYRS,SYRS|Syros Pharmaceuticals, Inc. - common stock
+SYRS,SYRS|Syros Pharmaceuticals, Inc. - Common Stock
 SYTA,SYTA|Siyata Mobile, Inc. - Common Shares
 SYTAW,SYTAW|Siyata Mobile, Inc. - Warrant
 SZZL,SZZL|Sizzle Acquisition Corp. - Common stock
@@ -4793,7 +4792,6 @@ TXMD,TXMD|TherapeuticsMD, Inc. - Common Stock
 TXN,TXN|Texas Instruments Incorporated - Common Stock
 TXRH,TXRH|Texas Roadhouse, Inc. - Common Stock
 TYDE,TYDE|Cryptyde, Inc. - Common Stock
-TYME,TYME|Tyme Technologies, Inc. - Common Stock
 TYRA,TYRA|Tyra Biosciences, Inc. - Common Stock
 TZOO,TZOO|Travelzoo - Common Stock
 TZPS,TZPS|TZP Strategies Acquisition Corp. - Class A Ordinary Share
@@ -4843,7 +4841,6 @@ UPXI,UPXI|Upexi, Inc. - Common Stock
 URBN,URBN|Urban Outfitters, Inc. - Common Stock
 URGN,URGN|UroGen Pharma Ltd. - Ordinary Shares
 UROY,UROY|Uranium Royalty Corp. - Common Stock
-USAK,USAK|USA Truck, Inc. - Common Stock
 USAP,USAP|Universal Stainless & Alloy Products, Inc. - Common Stock
 USAU,USAU|U.S. Gold Corp. - Common Stock
 USCB,USCB|USCB Financial Holdings, Inc.  - Class A Common Stock
