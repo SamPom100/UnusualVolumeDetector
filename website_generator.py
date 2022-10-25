@@ -37,6 +37,7 @@ if __name__ == "__main__":
     stonk_search = mainObj()
     stonks = stonk_search.main_func()
     stonks = stonks[:15]
+    print(stonks)
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')

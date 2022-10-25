@@ -125,7 +125,7 @@ class mainObj:
         # n_jobs=multiprocessing.cpu_count()
         # limited number of threads to avoid yahoo finance rate limits
         try:
-            with parallel_backend('loky', n_jobs=2):
+            with parallel_backend('loky', n_jobs=4):
                 Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                            for x in tqdm(list_of_tickers))
         except Exception as e:
