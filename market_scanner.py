@@ -86,7 +86,7 @@ class mainObj:
         print("\n\n\n*******  " + tick.upper() + "  *******")
         print("Ticker is: "+tick.upper())
         for i in range(len(d['Dates'])):
-            str1 = str(d['Dates'][i])
+            str1 = str(d['Dates'][i])[:-6]
             str2 = str(d['Volume'][i])
             print(str1 + " - " + str2)
         print("*********************\n\n\n")
@@ -103,7 +103,7 @@ class mainObj:
                     self.customPrint(d, x)
                     stonk = dict()
                     stonk['Ticker'] = x
-                    stonk['TargetDate'] = d['Dates'][0]
+                    stonk['TargetDate'] = d['Dates'][0][:-6]
                     stonk['TargetVolume'] = str(
                         '{:,.2f}'.format(d['Volume'][0]))[:-3]
                     positive_scans.append(stonk)
@@ -122,10 +122,9 @@ class mainObj:
         manager = multiprocessing.Manager()
         positive_scans = manager.list()
 
-        # n_jobs=multiprocessing.cpu_count()
-        # limited number of threads to avoid yahoo finance rate limits
+        cpu_count = multiprocessing.cpu_count()
         try:
-            with parallel_backend('loky', n_jobs=4):
+            with parallel_backend('loky', n_jobs=cpu_count):
                 Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
                            for x in tqdm(list_of_tickers))
         except Exception as e:
