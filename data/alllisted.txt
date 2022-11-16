@@ -69,6 +69,7 @@ ACQR,ACQR|Independence Holdings Corp. - Class A Ordinary Share
 ACQRU,ACQRU|Independence Holdings Corp. - Units
 ACQRW,ACQRW|Independence Holdings Corp. - Warrant
 ACRS,ACRS|Aclaris Therapeutics, Inc. - Common Stock
+ACRV,ACRV|Acrivon Therapeutics, Inc. - Common Stock
 ACRX,ACRX|AcelRx Pharmaceuticals, Inc. - Common Stock
 ACST,ACST|Acasti Pharma, Inc.  - Class A Common Stock
 ACT,ACT|Enact Holdings, Inc. - Common Stock
@@ -150,10 +151,8 @@ AFRI,AFRI|Forafric Global PLC - Ordinary Shares
 AFRIW,AFRIW|Forafric Global PLC - Warrants
 AFRM,AFRM|Affirm Holdings, Inc. - Class A Common Stock
 AFYA,AFYA|Afya Limited - Class A Common Shares
-AGBA,AGBA|AGBA Acquisition Limited - Ordinary Share
-AGBAR,AGBAR|AGBA Acquisition Limited - Right
-AGBAU,AGBAU|AGBA Acquisition Limited - Unit
-AGBAW,AGBAW|AGBA Acquisition Limited - Warrant
+AGBA,AGBA|AGBA Group Holding Limited - Ordinary Share
+AGBAW,AGBAW|AGBA Group Holding Limited - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
 AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGFY,AGFY|Agrify Corporation - Common Stock
@@ -214,6 +213,7 @@ AKU,AKU|Akumin Inc. - Common Shares
 AKUS,AKUS|Akouos, Inc. - Common Stock
 AKYA,AKYA|Akoya BioSciences, Inc. - Common Stock
 ALBO,ALBO|Albireo Pharma, Inc. - Common Stock
+ALBT,ALBT|Avalon GloboCare Corp. - Common Stock
 ALCO,ALCO|Alico, Inc. - Common Stock
 ALDX,ALDX|Aldeyra Therapeutics, Inc. - Common Stock
 ALEC,ALEC|Alector, Inc. - Common Stock
@@ -440,6 +440,7 @@ ASO,ASO|Academy Sports and Outdoors, Inc. - Common Stock
 ASPA,ASPA|Abri SPAC I, Inc. - Common Stock
 ASPAU,ASPAU|Abri SPAC I, Inc. - Unit
 ASPAW,ASPAW|Abri SPAC I, Inc. - Warrant
+ASPI,ASPI|ASP Isotopes Inc. - Common Stock
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
 ASPU,ASPU|Aspen Group Inc. - Common Stock
 ASRT,ASRT|Assertio Holdings, Inc. - Common Stock
@@ -459,6 +460,7 @@ ATAK,ATAK|Aurora Technology Acquisition Corp. - Class A Ordinary Shares
 ATAKR,ATAKR|Aurora Technology Acquisition Corp. - Rights
 ATAKU,ATAKU|Aurora Technology Acquisition Corp. - Unit
 ATAKW,ATAKW|Aurora Technology Acquisition Corp. - Warrants
+ATAT,ATAT|Atour Lifestyle Holdings Limited - American Depositary Shares
 ATAX,ATAX|America First Multifamily Investors, L.P. - Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
 ATCOL,ATCOL|Atlas Corp. - 7.125% Notes due 2027
 ATCX,ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock
@@ -512,7 +514,6 @@ AVACU,AVACU|Avalon Acquisition Inc. - Units
 AVACW,AVACW|Avalon Acquisition Inc. - Warrant
 AVAH,AVAH|Aveanna Healthcare Holdings Inc. - Common Stock
 AVAV,AVAV|AeroVironment, Inc. - Common Stock
-AVCO,AVCO|Avalon GloboCare Corp. - Common Stock
 AVCT,AVCT|American Virtual Cloud Technologies, Inc.  - Common Stock
 AVCTW,AVCTW|American Virtual Cloud Technologies, Inc.  - Warrant expiring 4/7/2020
 AVDL,AVDL|Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share
@@ -1058,6 +1059,7 @@ CMCTP,CMCTP|Creative Media & Community Trust Corporation - Series L Preferred St
 CME,CME|CME Group Inc. - Class A Common Stock
 CMLS,CMLS|Cumulus Media Inc. - Class A Common Stock
 CMMB,CMMB|Chemomab Therapeutics Ltd.  - American Depositary Shares
+CMND,CMND|Clearmind Medicine Inc. - Common Shares
 CMPO,CMPO|CompoSecure, Inc.  - Class A Common Stock
 CMPOW,CMPOW|CompoSecure, Inc.  - Warrant
 CMPR,CMPR|Cimpress plc - Ordinary Shares
@@ -1474,6 +1476,7 @@ EFTR,EFTR|eFFECTOR Therapeutics, Inc. - Common Stock
 EFTRW,EFTRW|eFFECTOR Therapeutics, Inc. - Warrant
 EGAN,EGAN|eGain Corporation - Common Stock
 EGBN,EGBN|Eagle Bancorp, Inc. - Common Stock
+EGHT,EGHT|8x8 Inc - Common stock
 EGIO,EGIO|Edgio, Inc. - Common Stock
 EGLE,EGLE|Eagle Bulk Shipping Inc. - Common Stock
 EGLX,EGLX|Enthusiast Gaming Holdings Inc. - Common Stock
@@ -1564,10 +1567,6 @@ ESOA,ESOA|Energy Services of America Corporation - Common Stock
 ESPR,ESPR|Esperion Therapeutics, Inc. - Common Stock
 ESQ,ESQ|Esquire Financial Holdings, Inc. - Common Stock
 ESSA,ESSA|ESSA Bancorp, Inc. - common stock
-ESSC,ESSC|East Stone Acquisition Corporation - Ordinary Shares
-ESSCR,ESSCR|East Stone Acquisition Corporation - Right
-ESSCU,ESSCU|East Stone Acquisition Corporation - Unit
-ESSCW,ESSCW|East Stone Acquisition Corporation - Warrant
 ESTA,ESTA|Establishment Labs Holdings Inc. - Common Shares
 ETNB,ETNB|89bio, Inc. - Common Stock
 ETON,ETON|Eton Pharmaceuticals, Inc. - Common Stock
@@ -1820,10 +1819,10 @@ FSV,FSV|FirstService Corporation - Common Shares
 FTAA,FTAA|FTAC Athena Acquisition Corp. - Class A Ordinary Share
 FTAAU,FTAAU|FTAC Athena Acquisition Corp. - Unit
 FTAAW,FTAAW|FTAC Athena Acquisition Corp. - Warrant
-FTAI,FTAI|Fortress Transportation and Infrastructure Investors LLC - Class A Common Stock
-FTAIN,FTAIN|Fortress Transportation and Infrastructure Investors LLC - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares
-FTAIO,FTAIO|Fortress Transportation and Infrastructure Investors LLC - 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares
-FTAIP,FTAIP|Fortress Transportation and Infrastructure Investors LLC - 8.25% Fixed-to-Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
+FTAI,FTAI|FTAI Aviation Ltd. - Common Stock
+FTAIN,FTAIN|FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares
+FTAIO,FTAIO|FTAI Aviation Ltd. - 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares
+FTAIP,FTAIP|FTAI Aviation Ltd. - 8.25% Fixed-to-Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares
 FTCI,FTCI|FTC Solar, Inc. - Common Stock
 FTCV,FTCV|FinTech Acquisition Corp. V - Class A Common Stock
 FTCVU,FTCVU|FinTech Acquisition Corp. V - Unit
@@ -1996,7 +1995,10 @@ GLPG,GLPG|Galapagos NV - American Depositary Shares
 GLPI,GLPI|Gaming and Leisure Properties, Inc. - Common Stock
 GLRE,GLRE|Greenlight Reinsurance, Ltd. - Class A Ordinary Shares
 GLSI,GLSI|Greenwich LifeSciences, Inc. - Common stock
+GLST,GLST|Global Star Acquisition, Inc. - Class A Common Stock
+GLSTR,GLSTR|Global Star Acquisition, Inc. - Right
 GLSTU,GLSTU|Global Star Acquisition, Inc. - Unit
+GLSTW,GLSTW|Global Star Acquisition, Inc. - Warrants
 GLTO,GLTO|Galecto, Inc. - Common Stock
 GLUE,GLUE|Monte Rosa Therapeutics, Inc. - Common Stock
 GLYC,GLYC|GlycoMimetics, Inc. - Common Stock
@@ -2750,6 +2752,7 @@ LEXXW,LEXXW|Lexaria Bioscience Corp. - Warrant
 LFAC,LFAC|LF Capital Acquisition Corp. II - Class A Common Stock
 LFACU,LFACU|LF Capital Acquisition Corp. II - Units
 LFACW,LFACW|LF Capital Acquisition Corp. II - Warrants
+LFCR,LFCR|Lifecore Biomedical, Inc. - Common Stock
 LFLY,LFLY|Leafly Holdings, Inc. - Common Stock
 LFLYW,LFLYW|Leafly Holdings, Inc. - Warrant
 LFMD,LFMD|LifeMD, Inc. - Common Stock
@@ -2828,7 +2831,6 @@ LMFA,LMFA|LM Funding America, Inc. - Common Stock
 LMNL,LMNL|Liminal BioSciences Inc. - Common Shares
 LMNR,LMNR|Limoneira Co - Common Stock
 LMST,LMST|Limestone Bancorp, Inc. - Common Stock
-LNDC,LNDC|Landec Corporation - Common Stock
 LNKB,LNKB|LINKBANCORP, Inc. - Common Stock
 LNSR,LNSR|LENSAR, Inc. - Common Stock
 LNT,LNT|Alliant Energy Corporation - Common Stock
@@ -3277,9 +3279,6 @@ NNAVW,NNAVW|NextNav Inc. - Warrant
 NNBR,NNBR|NN, Inc. - Common Stock
 NNDM,NNDM|Nano Dimension Ltd. - American Depositary Shares
 NNOX,NNOX|NANO-X IMAGING LTD - Ordinary Shares
-NOAC,NOAC|Natural Order Acquisition Corp. - Common Stock
-NOACU,NOACU|Natural Order Acquisition Corp. - Unit
-NOACW,NOACW|Natural Order Acquisition Corp. - Warrant
 NODK,NODK|NI Holdings, Inc. - Common Stock
 NOGN,NOGN|Nogin, Inc. - Common Stock
 NOGNW,NOGNW|Nogin, Inc. - Warrant
@@ -3366,6 +3365,8 @@ NWLI,NWLI|National Western Life Group, Inc. - Class A Common Stock
 NWPX,NWPX|Northwest Pipe Company - Common Stock
 NWS,NWS|News Corporation - Class B Common Stock
 NWSA,NWSA|News Corporation - Class A Common Stock
+NWTN,NWTN|NWTN Inc. - Class B Ordinary Shares
+NWTNW,NWTNW|NWTN Inc. - Warrant
 NXGL,NXGL|NexGel, Inc - Common Stock
 NXGLW,NXGLW|NexGel, Inc - Warrant
 NXGN,NXGN|NextGen Healthcare, Inc. - Common Stock
@@ -3703,6 +3704,7 @@ PLPC,PLPC|Preformed Line Products Company - Common Stock
 PLRX,PLRX|Pliant Therapeutics, Inc. - Common Stock
 PLSE,PLSE|Pulse Biosciences, Inc - Common Stock
 PLTK,PLTK|Playtika Holding Corp. - Common Stock
+PLTNU,PLTNU|Plutonian Acquisition Corp. - Unit
 PLUG,PLUG|Plug Power, Inc. - Common Stock
 PLUR,PLUR|Pluri Inc. - Common Stock
 PLUS,PLUS|ePlus inc. - Common Stock
@@ -3729,6 +3731,7 @@ PNRG,PNRG|PrimeEnergy Resources Corporation - Common Stock
 PNT,PNT|POINT Biopharma Global Inc.  - Common Stock
 PNTG,PNTG|The Pennant Group, Inc. - Common Stock
 POAI,POAI|Predictive Oncology Inc. - Common Stock
+POCI,POCI|Precision Optics Corporation, Inc. - Common stock
 PODD,PODD|Insulet Corporation - Common Stock
 POET,POET|POET Technologies Inc. - Common Shares
 POLA,POLA|Polar Power, Inc. - Common Stock
@@ -4138,7 +4141,6 @@ SBNYP,SBNYP|Signature Bank - Depositary shares, each representing a 1/40th owner
 SBRA,SBRA|Sabra Health Care REIT, Inc. - Common Stock
 SBSI,SBSI|Southside Bancshares, Inc. - Common Stock
 SBT,SBT|Sterling Bancorp, Inc. - Common Stock
-SBTX,SBTX|Silverback Therapeutics, Inc. - Common Stock
 SBUX,SBUX|Starbucks Corporation - Common Stock
 SCAQ,SCAQ|Stratim Cloud Acquisition Corp. - Class A Common Stock
 SCAQU,SCAQU|Stratim Cloud Acquisition Corp. - Unit
@@ -4149,6 +4151,8 @@ SCKT,SCKT|Socket Mobile, Inc. - Common Stock
 SCLE,SCLE|Broadscale Acquisition Corp. - Class A common stock
 SCLEU,SCLEU|Broadscale Acquisition Corp. - Units
 SCLEW,SCLEW|Broadscale Acquisition Corp. - Warrant
+SCLX,SCLX|Scilex Holding Company - Common Stock
+SCLXW,SCLXW|Scilex Holding Company - Warrant
 SCMA,SCMA|Seaport Calibre Materials Acquisition Corp. - Class A Common Stock
 SCMAU,SCMAU|Seaport Calibre Materials Acquisition Corp. - Unit
 SCMAW,SCMAW|Seaport Calibre Materials Acquisition Corp. - Warrant
@@ -4327,6 +4331,7 @@ SMPL,SMPL|The Simply Good Foods Company - Common Stock
 SMSI,SMSI|Smith Micro Software, Inc. - Common Stock
 SMTC,SMTC|Semtech Corporation - Common Stock
 SMTI,SMTI|Sanara MedTech Inc. - Common Stock
+SNAL,SNAL|Snail, Inc. - Class A Common Stock
 SNAX,SNAX|Stryve Foods, Inc. - Class A Common Stock
 SNAXW,SNAXW|Stryve Foods, Inc. - Warrant
 SNBR,SNBR|Sleep Number Corporation - Common Stock
@@ -4395,6 +4400,7 @@ SPPI,SPPI|Spectrum Pharmaceuticals, Inc. - Common Stock
 SPRB,SPRB|Spruce Biosciences, Inc. - Common Stock
 SPRC,SPRC|SciSparc Ltd. - Ordinary Shares
 SPRO,SPRO|Spero Therapeutics, Inc. - Common Stock
+SPRY,SPRY|ARS Pharmaceuticals, Inc. - Common Stock
 SPSC,SPSC|SPS Commerce, Inc. - Common Stock
 SPT,SPT|Sprout Social, Inc - Class A Common Stock
 SPTK,SPTK|SportsTek Acquisition Corp. - Class A Common Stock
@@ -4771,6 +4777,7 @@ UFPT,UFPT|UFP Technologies, Inc. - Common Stock
 UG,UG|United-Guardian, Inc. - Common Stock
 UGRO,UGRO|urban-gro, Inc. - Common Stock
 UHAL,UHAL|Amerco - Common Stock
+UHALB,UHALB|Amerco - Series N Non-Voting Common Stock
 UIHC,UIHC|United Insurance Holdings Corp. - Common Stock
 UK,UK|Ucommune International Ltd  - Ordinary Shares
 UKOMW,UKOMW|Ucommune International Ltd  - Warrant expiring 11/17/2025
@@ -4836,9 +4843,6 @@ VBOCW,VBOCW|Viscogliosi Brothers Acquisition Corp - Warrant
 VBTX,VBTX|Veritex Holdings, Inc. - Common Stock
 VC,VC|Visteon Corporation - Common Stock
 VCEL,VCEL|Vericel Corporation - Common Stock
-VCKA,VCKA|Vickers Vantage Corp. I - Ordinary Shares
-VCKAU,VCKAU|Vickers Vantage Corp. I - Unit
-VCKAW,VCKAW|Vickers Vantage Corp. I - Warrant
 VCNX,VCNX|Vaccinex, Inc. - Common Stock
 VCSA,VCSA|Vacasa, Inc. - Class A Common Stock
 VCTR,VCTR|Victory Capital Holdings, Inc. - Common Stock
@@ -5165,7 +5169,6 @@ ZTAQU,ZTAQU|Zimmer Energy Transition Acquisition Corp. - Units, consisting of on
 ZTAQW,ZTAQW|Zimmer Energy Transition Acquisition Corp. - Warrants
 ZTEK,ZTEK|Zentek Ltd. - common stock
 ZUMZ,ZUMZ|Zumiez Inc. - Common Stock
-ZVO,ZVO|Zovio Inc. - Common Stock
 ZVZZC,ZVZZC|NASDAQ TEST STOCK Nextshares Test Security
 ZVZZT,ZVZZT|NASDAQ TEST STOCK
 ZWRK,ZWRK|Z-Work Acquisition Corp. - Class A Common Stock
