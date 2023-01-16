@@ -127,7 +127,7 @@ AEHAU|Aesther Healthcare Acquisition Corp - Units|G|N|N|100|N|N
 AEHAW|Aesther Healthcare Acquisition Corp - Warrants|G|N|N|100|N|N
 AEHL|Antelope Enterprise Holdings Limited - Common Stock|S|N|D|100|N|N
 AEHR|Aehr Test Systems - Common Stock|S|N|N|100|N|N
-AEI|Alset Inc. - Common Stock|S|N|D|100|N|N
+AEI|Alset Inc. - Common Stock|S|N|N|100|N|N
 AEIS|Advanced Energy Industries, Inc. - Common Stock|Q|N|N|100|N|N
 AEMD|Aethlon Medical, Inc. - Common Stock|S|N|D|100|N|N
 AEP|American Electric Power Company, Inc. - Common Stock|Q|N|N|100|N|N
@@ -183,7 +183,7 @@ AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
 AIB|AIB Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 AIBBR|AIB Acquisition Corporation - Right|G|N|N|100|N|N
 AIBBU|AIB Acquisition Corporation - Unit|G|N|N|100|N|N
-AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares|G|N|D|100|N|N
+AIH|Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares|G|N|N|100|N|N
 AIHS|Senmiao Technology Limited - Common Stock|S|N|N|100|N|N
 AIMAU|Aimfinity Investment Corp. I - Unit|G|N|N|100|N|N
 AIMAW|Aimfinity Investment Corp. I - Warrant|G|N|N|100|N|N
@@ -518,8 +518,8 @@ AVACU|Avalon Acquisition Inc. - Units|G|N|N|100|N|N
 AVACW|Avalon Acquisition Inc. - Warrant|G|N|N|100|N|N
 AVAH|Aveanna Healthcare Holdings Inc. - Common Stock|Q|N|D|100|N|N
 AVAV|AeroVironment, Inc. - Common Stock|Q|N|N|100|N|N
-AVCT|American Virtual Cloud Technologies, Inc.  - Common Stock|S|N|N|100|N|N
-AVCTW|American Virtual Cloud Technologies, Inc.  - Warrant expiring 4/7/2020|S|N|N|100|N|N
+AVCT|American Virtual Cloud Technologies, Inc.  - Common Stock|S|N|D|100|N|N
+AVCTW|American Virtual Cloud Technologies, Inc.  - Warrant expiring 4/7/2020|S|N|D|100|N|N
 AVDL|Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share|G|N|N|100|N|N
 AVDX|AvidXchange Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 AVEO|AVEO Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
@@ -2731,7 +2731,7 @@ JMAC|Maxpro Capital Acquisition Corp. - Class A Common Stock|G|N|N|100|N|N
 JMACU|Maxpro Capital Acquisition Corp. - Units|G|N|N|100|N|N
 JMACW|Maxpro Capital Acquisition Corp. - Warrants|G|N|N|100|N|N
 JMSB|John Marshall Bancorp, Inc. - Common Stock|S|N|N|100|N|N
-JNCE|Jounce Therapeutics, Inc. - Common Stock|Q|N|D|100|N|N
+JNCE|Jounce Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 JOAN|JOANN, Inc. - common stock|G|N|N|100|N|N
 JOET|Virtus Terranova U.S. Quality Momentum ETF|G|N|N|100|Y|N
 JOUT|Johnson Outdoors Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -2910,7 +2910,7 @@ LEGA|Lead Edge Growth Opportunities, Ltd - Class A Ordinary Shares|S|N|D|100|N|N
 LEGAU|Lead Edge Growth Opportunities, Ltd - Units|S|N|D|100|N|N
 LEGAW|Lead Edge Growth Opportunities, Ltd - Warrant|S|N|D|100|N|N
 LEGH|Legacy Housing Corporation - Common Stock|Q|N|N|100|N|N
-LEGN|Legend Biotech Corporation - American Depositary Shares|Q|N|N|100|N|N
+LEGN|Legend Biotech Corporation - American Depositary Shares|Q|N|E|100|N|N
 LEGR|First Trust Indxx Innovative Transaction & Process ETF|G|N|N|100|Y|N
 LESL|Leslie's, Inc. - Common Stock|Q|N|N|100|N|N
 LEXX|Lexaria Bioscience Corp. - Common Stock|S|N|N|100|N|N
@@ -2945,7 +2945,7 @@ LGVC|LAMF Global Ventures Corp. I - Class A Ordinary Shares|G|N|N|100|N|N
 LGVCU|LAMF Global Ventures Corp. I - Unit|G|N|N|100|N|N
 LGVCW|LAMF Global Ventures Corp. I - Warrant|G|N|N|100|N|N
 LGVN|Longeveron Inc. - common stock|S|N|N|100|N|N
-LHCG|LHC Group - common stock|Q|N|N|100|N|N
+LHCG|LHC Group - common stock|Q|N|D|100|N|N
 LHDX|Lucira Health, Inc. - Common Stock|Q|N|D|100|N|N
 LI|Li Auto Inc. - American Depositary Shares|Q|N|N|100|N|N
 LIAN|LianBio - American Depositary Shares|G|N|N|100|N|N
@@ -4176,7 +4176,7 @@ RETA|Reata Pharmaceuticals, Inc. - Class A Common Stock|G|N|N|100|N|N
 RETO|ReTo Eco-Solutions, Inc. - Common Shares|S|N|D|100|N|N
 REUN|Reunion Neuroscience Inc. - Common Shares|Q|N|N|100|N|N
 REVB|Revelation Biosciences, Inc. - Common Stock|S|N|D|100|N|N
-REVBU|Revelation Biosciences, Inc. - Unit|S|N|D|100|N|N
+REVBU|Revelation Biosciences, Inc. - Unit|S|N|N|100|N|N
 REVBW|Revelation Biosciences, Inc. - Warrant|S|N|D|100|N|N
 REVE|Alpine Acquisition Corporation - Common Stock|S|N|N|100|N|N
 REVEU|Alpine Acquisition Corporation - Unit|S|N|N|100|N|N
@@ -4545,7 +4545,7 @@ SMID|Smith-Midland Corporation - Common Stock|S|N|N|100|N|N
 SMIH|Summit Healthcare Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 SMIHU|Summit Healthcare Acquisition Corp. - Units|S|N|N|100|N|N
 SMIHW|Summit Healthcare Acquisition Corp. - Warrant|S|N|N|100|N|N
-SMIT|Schmitt Industries, Inc. - Common Stock|S|N|H|100|N|N
+SMIT|Schmitt Industries, Inc. - Common Stock|S|N|N|100|N|N
 SMLR|Semler Scientific, Inc. - Common Stock|S|N|N|100|N|N
 SMMF|Summit Financial Group, Inc. - Common Stock|Q|N|N|100|N|N
 SMMT|Summit Therapeutics Inc.  - Common Stock|G|N|N|100|N|N
@@ -4707,7 +4707,7 @@ STXV|Strive 1000 Value ETF|G|N|N|100|Y|N
 SUMO|Sumo Logic, Inc. - Common Stock|Q|N|N|100|N|N
 SUNW|Sunworks, Inc. - Common Stock|S|N|N|100|N|N
 SUPN|Supernus Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
-SURF|Surface Oncology, Inc. - Common Stock|G|N|N|100|N|N
+SURF|Surface Oncology, Inc. - Common Stock|G|N|D|100|N|N
 SURG|SurgePays, Inc. - Common Stock|S|N|D|100|N|N
 SURGW|SurgePays, Inc. - Warrant|S|N|D|100|N|N
 SUSB|iShares ESG Aware 1-5 Year USD Corporate Bond ETF|G|N|N|100|Y|N
@@ -4997,7 +4997,7 @@ TWNK|Hostess Brands, Inc. - Class A Common Stock|S|N|N|100|N|N
 TWOU|2U, Inc. - Common Stock|Q|N|N|100|N|N
 TWST|Twist Bioscience Corporation - Common Stock|Q|N|N|100|N|N
 TXG|10x Genomics, Inc. - Common Stock|Q|N|N|100|N|N
-TXMD|TherapeuticsMD, Inc. - Common Stock|Q|N|N|100|N|N
+TXMD|TherapeuticsMD, Inc. - Common Stock|Q|N|D|100|N|N
 TXN|Texas Instruments Incorporated - Common Stock|Q|N|N|100|N|N
 TXRH|Texas Roadhouse, Inc. - Common Stock|Q|N|N|100|N|N
 TYDE|Cryptyde, Inc. - Common Stock|S|N|D|100|N|N
@@ -5472,4 +5472,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|D|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0113202311:01|||||||
+File Creation Time: 0113202321:31|||||||
