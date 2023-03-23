@@ -76,7 +76,7 @@ class mainObj:
         data.reset_index(level=0, inplace=True)
         for i in range(len(data)):
             temp = data['Volume'].iloc[i]
-            if temp > upper_limit:
+            if temp > upper_limit and temp > 10:
                 indexs.append(str(data['Date'].iloc[i])[:-9])
                 outliers.append(temp)
         d = {'Dates': indexs, 'Volume': outliers}
