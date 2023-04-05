@@ -131,7 +131,6 @@ AGAE,AGAE|Allied Gaming & Entertainment Inc. - Common Stock
 AGBA,AGBA|AGBA Group Holding Limited - Ordinary Share
 AGBAW,AGBAW|AGBA Group Holding Limited - Warrant
 AGEN,AGEN|Agenus Inc. - Common Stock
-AGFS,AGFS|AgroFresh Solutions, Inc. - Common Stock
 AGFY,AGFY|Agrify Corporation - Common Stock
 AGIL,AGIL|AgileThought, Inc. - Class A Common Stock
 AGILW,AGILW|AgileThought, Inc. - Warrant
@@ -301,6 +300,8 @@ APGN,APGN|Apexigen, Inc. - Common Stock
 APGNW,APGNW|Apexigen, Inc. - Warrant
 API,API|Agora, Inc. - ADS
 APLD,APLD|Applied Digital Corporation - Common Stock
+APLM,APLM|Apollomics Inc. - Class A Ordinary Shares
+APLMW,APLMW|Apollomics Inc. - Warrant
 APLS,APLS|Apellis Pharmaceuticals, Inc. - Common Stock
 APLT,APLT|Applied Therapeutics, Inc. - Common Stock
 APM,APM|Aptorum Group Limited - Class A Ordinary Shares
@@ -400,7 +401,6 @@ ASPAU,ASPAU|Abri SPAC I, Inc. - Unit
 ASPAW,ASPAW|Abri SPAC I, Inc. - Warrant
 ASPI,ASPI|ASP Isotopes Inc. - Common Stock
 ASPS,ASPS|Altisource Portfolio Solutions S.A. - Common Stock
-ASPU,ASPU|Aspen Group Inc. - Common Stock
 ASRT,ASRT|Assertio Holdings, Inc. - Common Stock
 ASRV,ASRV|AmeriServ Financial Inc. - Common Stock
 ASST,ASST|Asset Entities Inc. - Class B Common Stock
@@ -795,7 +795,6 @@ CACO,CACO|Caravelle International Group - Ordinary Shares
 CADL,CADL|Candel Therapeutics, Inc. - Common Stock
 CAKE,CAKE|The Cheesecake Factory Incorporated - Common Stock
 CALB,CALB|California BanCorp - Common Stock
-CALC,CALC|CalciMedica, Inc. - Common Stock
 CALM,CALM|Cal-Maine Foods, Inc. - Common Stock
 CALT,CALT|Calliditas Therapeutics AB - American Depositary Shares
 CAMP,CAMP|CalAmp Corp. - Common Stock
@@ -946,6 +945,7 @@ CHSCM,CHSCM|CHS Inc - Class B Reset Rate Cumulative Redeemable Preferred Stock, 
 CHSCN,CHSCN|CHS Inc - Preferred Class B Series 2 Reset Rate
 CHSCO,CHSCO|CHS Inc - Class B Cumulative Redeemable Preferred Stock
 CHSCP,CHSCP|CHS Inc - 8%  Cumulative Redeemable Preferred Stock
+CHSN,CHSN|Chanson International Holding - Class A Ordinary Shares
 CHTR,CHTR|Charter Communications, Inc. - Class A Common Stock
 CHUY,CHUY|Chuy's Holdings, Inc. - Common Stock
 CHW,CHW|Calamos Global Dynamic Income Fund - Closed End Fund
@@ -1238,7 +1238,6 @@ DCGO,DCGO|DocGo Inc. - Common Stock
 DCOM,DCOM|Dime Community Bancshares, Inc. - Common Stock
 DCOMP,DCOMP|Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A
 DCPH,DCPH|Deciphera Pharmaceuticals, Inc. - Common Stock
-DCT,DCT|Duck Creek Technologies, Inc. - Common Stock
 DCTH,DCTH|Delcath Systems, Inc. - Common Stock
 DDI,DDI|DoubleDown Interactive Co., Ltd. - American Depository Shares
 DDOG,DDOG|Datadog, Inc. - Class A Common Stock
@@ -1265,9 +1264,6 @@ DHCAU,DHCAU|DHC Acquisition Corp. - Unit
 DHCAW,DHCAW|DHC Acquisition Corp. - Warrant
 DHCNI,DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042
 DHCNL,DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046
-DHHC,DHHC|DiamondHead Holdings Corp. - Class A Common Stock
-DHHCU,DHHCU|DiamondHead Holdings Corp. - Unit
-DHHCW,DHHCW|DiamondHead Holdings Corp. - Warrant
 DHIL,DHIL|Diamond Hill Investment Group, Inc. - Class A Common Stock
 DIBS,DIBS|1stdibs.com, Inc. - Common Stock
 DICE,DICE|DICE Therapeutics, Inc. - Common Stock
@@ -1276,7 +1272,9 @@ DISA,DISA|Disruptive Acquisition Corporation I - Class A Ordinary Shares
 DISAU,DISAU|Disruptive Acquisition Corporation I - Unit
 DISAW,DISAW|Disruptive Acquisition Corporation I - Warrant
 DISH,DISH|DISH Network Corporation - Class A Common Stock
-DISTU,DISTU|Distoken Acquisition Corporation - Unit
+DIST,DIST|Distoken Acquisition Corporation - Ordinary Shares
+DISTR,DISTR|Distoken Acquisition Corporation - Right
+DISTW,DISTW|Distoken Acquisition Corporation - Warrant
 DJCO,DJCO|Daily Journal Corp. (S.C.) - Common Stock
 DKDCA,DKDCA|Data Knights Acquisition Corp. - Class A Common Stock
 DKDCU,DKDCU|Data Knights Acquisition Corp. - Unit
@@ -2028,8 +2026,7 @@ HILS,HILS|Hillstream BioPharma, Inc. - Common Stock
 HIMX,HIMX|Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.
 HITI,HITI|High Tide Inc. - Common Shares
 HIVE,HIVE|Hive Blockchain Technologies Ltd. - Common Shares
-HLBZ,HLBZ|Helbiz, Inc. - Class A Common Stock
-HLBZW,HLBZW|Helbiz, Inc. - Warrant
+HKIT,HKIT|Hitek Global Inc. - Ordinary Share
 HLIT,HLIT|Harmonic Inc. - Common Stock
 HLMN,HLMN|Hillman Solutions Corp. - Common Stock
 HLNE,HLNE|Hamilton Lane Incorporated - Class A Common Stock
@@ -2304,6 +2301,7 @@ ISIG,ISIG|Insignia Systems, Inc. - Common Stock
 ISPC,ISPC|iSpecimen Inc. - Common Stock
 ISPO,ISPO|Inspirato Incorporated - Class A Common Stock
 ISPOW,ISPOW|Inspirato Incorporated - Warrant
+ISPR,ISPR|Ispire Technology Inc. - Common Stock
 ISRG,ISRG|Intuitive Surgical, Inc. - Common Stock
 ISRL,ISRL|Israel Acquisitions Corp - Class A Ordinary Shares
 ISRLU,ISRLU|Israel Acquisitions Corp - Unit
@@ -2369,9 +2367,6 @@ JGGCU,JGGCU|Jaguar Global Growth Corporation I - Unit
 JGGCW,JGGCW|Jaguar Global Growth Corporation I - Warrant
 JJSF,JJSF|J & J Snack Foods Corp. - Common Stock
 JKHY,JKHY|Jack Henry & Associates, Inc. - Common Stock
-JMAC,JMAC|Maxpro Capital Acquisition Corp. - Class A Common Stock
-JMACU,JMACU|Maxpro Capital Acquisition Corp. - Units
-JMACW,JMACW|Maxpro Capital Acquisition Corp. - Warrants
 JMSB,JMSB|John Marshall Bancorp, Inc. - Common Stock
 JNCE,JNCE|Jounce Therapeutics, Inc. - Common Stock
 JOAN,JOAN|JOANN, Inc. - common stock
@@ -2733,6 +2728,8 @@ MCHX,MCHX|Marchex, Inc. - Class B Common Stock
 MCLD,MCLD|mCloud Technologies Corp. - Common Shares
 MCLDP,MCLDP|mCloud Technologies Corp. - 9.0% Series A Cumulative Perpetual Preferred Shares
 MCLDW,MCLDW|mCloud Technologies Corp. - Warrants
+MCOM,MCOM|micromobility.com Inc. - Class A Common Stock
+MCOMW,MCOMW|micromobility.com Inc. - Warrant
 MCRB,MCRB|Seres Therapeutics, Inc. - Common Stock
 MCRI,MCRI|Monarch Casino & Resort, Inc. - Common Stock
 MCVT,MCVT|Mill City Ventures III, Ltd. - Common Stock
@@ -2779,6 +2776,7 @@ MGAM,MGAM|Mobile Global Esports Inc. - Common Stock
 MGEE,MGEE|MGE Energy Inc. - Common Stock
 MGI,MGI|Moneygram International, Inc. - Common Stock
 MGIC,MGIC|Magic Software Enterprises Ltd. - Ordinary Shares
+MGIH,MGIH|Millennium Group International Holdings Limited - Ordinary Shares
 MGNI,MGNI|Magnite, Inc. - Common Stock
 MGNX,MGNX|MacroGenics, Inc. - Common Stock
 MGOL,MGOL|MGO Global Inc. - Common Stock
@@ -2887,9 +2885,6 @@ MRVI,MRVI|Maravai LifeSciences Holdings, Inc. - Class A common stock
 MRVL,MRVL|Marvell Technology, Inc. - Common Stock
 MSBI,MSBI|Midland States Bancorp, Inc. - Common Stock
 MSBIP,MSBIP|Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A
-MSDA,MSDA|MSD Acquisition Corp. - Class A Ordinary Shares
-MSDAU,MSDAU|MSD Acquisition Corp. - Unit
-MSDAW,MSDAW|MSD Acquisition Corp. - Warrant
 MSEX,MSEX|Middlesex Water Company - Common Stock
 MSFT,MSFT|Microsoft Corporation - Common Stock
 MSGM,MSGM|Motorsport Games Inc. - Class A Common Stock
@@ -3156,6 +3151,7 @@ OCGN,OCGN|Ocugen, Inc. - Common Stock
 OCS,OCS|Oculis Holding AG - Ordinary shares
 OCSAW,OCSAW|Oculis Holding AG - Warrants
 OCSL,OCSL|Oaktree Specialty Lending Corporation - Closed End Fund
+OCTO,OCTO|Eightco Holdings Inc. - Common Stock
 OCUL,OCUL|Ocular Therapeutix, Inc. - Common Stock
 OCUP,OCUP|Ocuphire Pharma, Inc. - Common Stock
 OCX,OCX|Oncocyte Corporation - Common Stock
@@ -3484,7 +3480,6 @@ PRENW,PRENW|Prenetics Global Limited - Warrant
 PRFT,PRFT|Perficient, Inc. - Common Stock
 PRFX,PRFX|PainReform Ltd. - Ordinary Shares
 PRGS,PRGS|Progress Software Corporation - Common Stock
-PRIM,PRIM|Primoris Services Corporation - Common Stock
 PRLD,PRLD|Prelude Therapeutics Incorporated - Common Stock
 PRLH,PRLH|Pearl Holdings Acquisition Corp - Class A Ordinary Shares
 PRLHU,PRLHU|Pearl Holdings Acquisition Corp - Unit
@@ -3527,7 +3522,9 @@ PTCT,PTCT|PTC Therapeutics, Inc. - Common Stock
 PTE,PTE|PolarityTE, Inc. - Common Stock
 PTEN,PTEN|Patterson-UTI Energy, Inc. - Common Stock
 PTGX,PTGX|Protagonist Therapeutics, Inc. - Common Stock
+PTHR,PTHR|Pono Capital Three, Inc. - Class A Ordinary Shares
 PTHRU,PTHRU|Pono Capital Three, Inc. - Unit
+PTHRW,PTHRW|Pono Capital Three, Inc. - Warrant
 PTIX,PTIX|Protagenic Therapeutics, Inc. - Common Stock
 PTIXW,PTIXW|Protagenic Therapeutics, Inc. - Warrant
 PTLO,PTLO|Portillo's Inc. - Class A Common Stock
@@ -3607,9 +3604,6 @@ RACYW,RACYW|Relativity Acquisition Corp. - Warrant
 RADI,RADI|Radius Global Infrastructure, Inc. - Common Stock
 RAIL,RAIL|Freightcar America, Inc. - Common Stock
 RAIN,RAIN|Rain Oncology Inc. - Common Stock
-RAM,RAM|Aries I Acquisition Corporation - Class A Ordinary Share
-RAMMU,RAMMU|Aries I Acquisition Corporation - Unit
-RAMMW,RAMMW|Aries I Acquisition Corporation - Warrant
 RAND,RAND|Rand Capital Corporation - Closed End Fund
 RANI,RANI|Rani Therapeutics Holdings, Inc. - Class A Common Stock
 RAPT,RAPT|RAPT Therapeutics, Inc. - Common Stock
@@ -3889,6 +3883,7 @@ SFR,SFR|Appreciate Holdings, Inc. - Class A Common Stock
 SFRWW,SFRWW|Appreciate Holdings, Inc. - Warrant
 SFST,SFST|Southern First Bancshares, Inc. - Common Stock
 SFT,SFT|Shift Technologies, Inc. - Class A Common Stock
+SFWL,SFWL|Shengfeng Development Limited - Class A Ordinary Shares
 SGA,SGA|Saga Communications, Inc. - Class A Common Stock
 SGBX,SGBX|Safe & Green Holdings Corp. - Common Stock
 SGC,SGC|Superior Group of Companies, Inc. - Common Stock
@@ -3917,6 +3912,7 @@ SHFS,SHFS|SHF Holdings, Inc. - Class A Common Stock
 SHFSW,SHFSW|SHF Holdings, Inc. - Warrants
 SHIP,SHIP|Seanergy Maritime Holdings Corp - Common Stock
 SHLS,SHLS|Shoals Technologies Group, Inc. - Class A Common Stock
+SHLT,SHLT|SHL Telemedicine Ltd - American Depositary Shares
 SHOO,SHOO|Steven Madden, Ltd. - Common Stock
 SHPH,SHPH|Shuttle Pharmaceuticals Holdings, Inc. - common stock
 SHUA,SHUA|SHUAA Partners Acquisition Corp I - Class A Ordinary Share
@@ -4104,7 +4100,7 @@ STEL,STEL|Stellar Bancorp, Inc. - Common Stock
 STEP,STEP|StepStone Group Inc. - Class A Common Stock
 STER,STER|Sterling Check Corp. - Common Stock
 STGW,STGW|Stagwell Inc. - Class A Common Stock
-STHOV,STHOV|Star Holdings - Shares of Beneficial Interest
+STHO,STHO|Star Holdings - Shares of Beneficial Interest
 STIM,STIM|Neuronetics, Inc. - Common Stock
 STIX,STIX|Semantix, Inc. - Ordinary Shares
 STIXW,STIXW|Semantix, Inc. - Warrant
@@ -4171,6 +4167,7 @@ SYNA,SYNA|Synaptics Incorporated - Common Stock
 SYNH,SYNH|Syneos Health, Inc. - Class A Common Stock
 SYPR,SYPR|Sypris Solutions, Inc. - Common Stock
 SYRS,SYRS|Syros Pharmaceuticals, Inc. - Common Stock
+SYT,SYT|SYLA Technologies Co., Ltd. - American Depositary Shares
 SYTA,SYTA|Siyata Mobile, Inc. - Common Shares
 SYTAW,SYTAW|Siyata Mobile, Inc. - Warrant
 SZZL,SZZL|Sizzle Acquisition Corp. - Common stock
@@ -4387,7 +4384,6 @@ TXG,TXG|10x Genomics, Inc. - Common Stock
 TXMD,TXMD|TherapeuticsMD, Inc. - Common Stock
 TXN,TXN|Texas Instruments Incorporated - Common Stock
 TXRH,TXRH|Texas Roadhouse, Inc. - Common Stock
-TYDE,TYDE|Cryptyde, Inc. - Common Stock
 TYRA,TYRA|Tyra Biosciences, Inc. - Common Stock
 TZOO,TZOO|Travelzoo - Common Stock
 UAL,UAL|United Airlines Holdings, Inc. - Common Stock
@@ -4406,6 +4402,8 @@ UFPI,UFPI|UFP Industries, Inc. - Common Stock
 UFPT,UFPT|UFP Technologies, Inc. - Common Stock
 UG,UG|United-Guardian, Inc. - Common Stock
 UGRO,UGRO|urban-gro, Inc. - Common Stock
+UHG,UHG|United Homes Group, Inc - Class A Common Stock
+UHGWW,UHGWW|United Homes Group, Inc - Warrant
 UIHC,UIHC|United Insurance Holdings Corp. - Common Stock
 UK,UK|Ucommune International Ltd  - Ordinary Shares
 UKOMW,UKOMW|Ucommune International Ltd  - Warrant expiring 11/17/2025
