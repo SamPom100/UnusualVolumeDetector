@@ -13,7 +13,7 @@ class NasdaqController:
     def getList(self):
         return exportList
 
-    def __init__(self, update=True):
+    def __init__(self, update=False):
 
         #"otherlisted": "data/otherlisted.txt",
         self.filenames = {

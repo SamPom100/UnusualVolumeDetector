@@ -109,7 +109,7 @@ class mainObj:
                     positive_scans.append(stonk)
 
     def main_func(self):
-        StocksController = NasdaqController(True)
+        StocksController = NasdaqController(False) #tmp disable while ftp is down
         list_of_tickers = StocksController.getList()
         currentDate = datetime.datetime.strptime(
             date.today().strftime("%Y-%m-%d"), "%Y-%m-%d")
