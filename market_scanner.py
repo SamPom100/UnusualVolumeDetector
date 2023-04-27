@@ -86,7 +86,7 @@ class mainObj:
         print("\n\n\n*******  " + tick.upper() + "  *******")
         print("Ticker is: "+tick.upper())
         for i in range(len(d['Dates'])):
-            str1 = str(d['Dates'][i])[:-6]
+            str1 = str(d['Dates'][i])
             str2 = str(d['Volume'][i])
             print(str1 + " - " + str2)
         print("*********************\n\n\n")
@@ -103,7 +103,7 @@ class mainObj:
                     self.customPrint(d, x)
                     stonk = dict()
                     stonk['Ticker'] = x
-                    stonk['TargetDate'] = d['Dates'][0][:-6]
+                    stonk['TargetDate'] = d['Dates'][0]
                     stonk['TargetVolume'] = str(
                         '{:,.2f}'.format(d['Volume'][0]))[:-3]
                     positive_scans.append(stonk)
