@@ -13,13 +13,15 @@ import multiprocessing
 import pandas as pd
 import quandl
 from dateutil.parser import parse
+from yfinance.exceptions import YFInvalidPeriodError
+import random
 
 ###########################
 # THIS IS THE MAIN SCRIPT #
 ###########################
 
 # Change variables to your liking then run the script
-MONTH_CUTTOFF = 5  # 5
+MONTH_CUTTOFF = 6  # 6
 DAY_CUTTOFF = 4  # 3
 STD_CUTTOFF = 9  # 9
 
@@ -39,31 +41,23 @@ class mainObj:
     def getData(self, ticker):
         try:
             global MONTH_CUTOFF
-            currentDate = datetime.date.today() + datetime.timedelta(days=1)
-            pastDate = currentDate - \
-                dateutil.relativedelta.relativedelta(months=MONTH_CUTTOFF)
+
             sys.stdout = open(os.devnull, "w")
             # maybe swap yahoo finance to quandl due to rate limits
             try:
-                data = yf.download(ticker, start=pastDate, end=currentDate)
-
-            except:
-                # fix rare corrputed data download
-                data = pd.DataFrame(columns="Volume")
-
-            #data = self.getDataQuandl(ticker,pastDate,currentDate)
+                data = yf.Ticker(ticker).history(period=str(MONTH_CUTTOFF) + "mo", raise_errors=True)
+            except (YFInvalidPeriodError) as e:
+                try:
+                    data = yf.Ticker(ticker).history(period=e.valid_ranges[-1])
+                except:
+                    return pd.DataFrame(columns=["Volume"])
             sys.stdout = sys.__stdout__
-            # with pd.option_context('display.max_rows', None, 'display.max_columns', None):
-            # print(data[["Volume"]])
 
             # avoid yahoo finance rate limits
-            time.sleep(.2)
+            time.sleep(random.uniform(0.2, 1.5))
             return data[["Volume"]]
         except:
-            try:
-                self.getDataQuandl(ticker, pastDate, currentDate)
-            except:
-                return pd.DataFrame(columns=['Volume'])
+            return pd.DataFrame(columns=["Volume"])
 
     def find_anomalies(self, data):
         global STD_CUTTOFF

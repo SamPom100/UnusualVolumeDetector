@@ -59,3 +59,8 @@ class NasdaqController:
                     global exportList
                     exportList.append(line[0])
                     all_listed.write(line[0] + "|" + line[1] + "\n")
+
+if __name__ == "__main__":
+    StocksController = NasdaqController(True)
+    print(StocksController.getList())
+    print("Refresh Done.")
