@@ -61,16 +61,16 @@
           </tr>
         </thead>
         <tbody>
-          {% for stonk in stonks %}
+          {% for stock in stocks %}
           <tr>
             <th scope="row">
               <a
-                href=" {{ 'http://robinhood.com/stocks/{}'.format(stonk['Ticker']) }}"
-                >{{stonk['Ticker']}}</a
+                href=" {{ 'http://robinhood.com/stocks/{}'.format(stock['Ticker']) }}"
+                >{{stock['Ticker']}}</a
               >
             </th>
-            <td>{{stonk['TargetDate']}}</td>
-            <td>{{stonk['TargetVolume']}}</td>
+            <td>{{stock['TargetDate']}}</td>
+            <td>{{stock['TargetVolume']}}</td>
           </tr>
           {% endfor %}
         </tbody>

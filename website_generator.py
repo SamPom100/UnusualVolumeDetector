@@ -29,15 +29,17 @@ def after_request(response):
 
 @app.route('/', methods=['GET'])
 def home():
-    return render_template('template.html', stonks=stonks)
+    return render_template('template.html', stocks=stock)
 
+
+def sort_by_volume(data):
+    def get_volume(item):
+        return int(item['TargetVolume'].replace(',', ''))
+    return sorted(data, key=get_volume, reverse=True)
 
 if __name__ == "__main__":
     os.system('git fetch')
-    stonk_search = mainObj()
-    stonks = stonk_search.main_func()
-    stonks = stonks[:15]
-    print(stonks)
+    stock = sort_by_volume(mainObj().main_func()[:15])
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/')
@@ -45,6 +47,5 @@ if __name__ == "__main__":
     os.system('git add .')
     os.system('git commit -m "updated website"')
     os.system('git push origin master')
-    # print(stonks)
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine

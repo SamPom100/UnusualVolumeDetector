@@ -1,7 +1,6 @@
 import os
 import time
 import yfinance as yf
-import dateutil.relativedelta
 from datetime import date
 import datetime
 import numpy as np
@@ -24,6 +23,7 @@ import random
 MONTH_CUTTOFF = 6  # 6
 DAY_CUTTOFF = 4  # 3
 STD_CUTTOFF = 9  # 9
+MIN_STOCK_VOLUME = 10000
 
 
 class mainObj:
@@ -61,6 +61,7 @@ class mainObj:
 
     def find_anomalies(self, data):
         global STD_CUTTOFF
+        global MIN_STOCK_VOLUME
         indexs = []
         outliers = []
         data_std = np.std(data['Volume'])
@@ -70,8 +71,8 @@ class mainObj:
         data.reset_index(level=0, inplace=True)
         for i in range(len(data)):
             temp = data['Volume'].iloc[i]
-            if temp > upper_limit and temp > 10:
-                indexs.append(str(data['Date'].iloc[i])[:-9])
+            if temp > upper_limit and temp > MIN_STOCK_VOLUME:
+                indexs.append(str(data['Date'].iloc[i])[:-15])
                 outliers.append(temp)
         d = {'Dates': indexs, 'Volume': outliers}
         return d
@@ -95,12 +96,12 @@ class mainObj:
             for i in range(len(d['Dates'])):
                 if self.days_between(str(currentDate), str(d['Dates'][i])) <= DAY_CUTTOFF:
                     self.customPrint(d, x)
-                    stonk = dict()
-                    stonk['Ticker'] = x
-                    stonk['TargetDate'] = d['Dates'][0]
-                    stonk['TargetVolume'] = str(
+                    stock = dict()
+                    stock['Ticker'] = x
+                    stock['TargetDate'] = d['Dates'][0]
+                    stock['TargetVolume'] = str(
                         '{:,.2f}'.format(d['Volume'][0]))[:-3]
-                    positive_scans.append(stonk)
+                    positive_scans.append(stock)
 
     def main_func(self):
         StocksController = NasdaqController(False) #tmp disable while ftp is down
@@ -122,7 +123,6 @@ class mainObj:
                            for x in tqdm(list_of_tickers))
         except Exception as e:
             print(e)
-            return positive_scans
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
