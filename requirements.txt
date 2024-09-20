@@ -1,5 +1,5 @@
 mplcursors==0.3
-numpy==1.18.4
+numpy==1.22.0
 yfinance==0.1.54
 tqdm==4.48.0
 joblib==0.16.0
