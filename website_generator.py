@@ -42,10 +42,10 @@ if __name__ == "__main__":
     stock = sort_by_volume(mainObj().main_func()[:15])
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
-    shutil.rmtree('build/')
+    # shutil.rmtree('build/')
     # I'm lazy :)
-    os.system('git add .')
-    os.system('git commit -m "updated website"')
-    os.system('git push origin master')
+    # os.system('git add .')
+    # os.system('git commit -m "updated website"')
+    # os.system('git push origin master')
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine

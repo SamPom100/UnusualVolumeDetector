@@ -22,8 +22,9 @@ import random
 # Change variables to your liking then run the script
 MONTH_CUTTOFF = 6  # 6
 DAY_CUTTOFF = 4  # 3
-STD_CUTTOFF = 9  # 9
+STD_CUTTOFF = 7  # 9
 MIN_STOCK_VOLUME = 10000
+MIN_PRICE = 20
 
 
 class mainObj:
@@ -52,6 +53,9 @@ class mainObj:
                 except:
                     return pd.DataFrame(columns=["Volume"])
             sys.stdout = sys.__stdout__
+
+            if data.tail(1)["Close"].values[0] < MIN_PRICE:
+                return pd.DataFrame(columns=["Volume"])
 
             # avoid yahoo finance rate limits
             time.sleep(random.uniform(0.2, 1.5))
@@ -104,7 +108,7 @@ class mainObj:
                     positive_scans.append(stock)
 
     def main_func(self):
-        StocksController = NasdaqController(False) #tmp disable while ftp is down
+        StocksController = NasdaqController(False)
         list_of_tickers = StocksController.getList()
         currentDate = datetime.date.today().strftime("%m-%d-%Y")
         start_time = time.time()

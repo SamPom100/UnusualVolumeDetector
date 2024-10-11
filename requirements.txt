@@ -1,11 +1,16 @@
+# Using a venv with python@3.10.15
+
 mplcursors==0.3
-numpy==1.18.4
-yfinance==0.1.54
+numpy==2.0.0
+yfinance==0.2.44
 tqdm==4.48.0
 joblib==0.16.0
-matplotlib==3.2.1
-Flask==1.1.2
+matplotlib==3.9.2
+Flask==2.2.2
 Flask_FlatPages==0.7.2
-pandas==1.0.3
-Frozen_Flask==0.15
-python_dateutil==2.8.1
+pandas==2.2.3
+Frozen_Flask==1.0.2
+python_dateutil==2.9.0
+Werkzeug==2.2.2
+quandl==3.7.0
+joblib==1.4.2
