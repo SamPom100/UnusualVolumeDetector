@@ -1,25 +1,6 @@
 # Unusual Volume Detector --- [Website](https://sampom100.github.io/UnusualVolumeDetector/):
 
-This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
-
-## Easiest way to see this:
-
-Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
-
-
-### How to run the script:
-- Download your favorite Python IDE. (I use VSCode)
-- Get my script from GitHub
-- Open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
-- Run the market_scanner.py and it will print out results into the terminal
-
-### Controlling the Script
-- Line 21 controls the amount of months of historical volume the script gets
-- Line 22 controls the amount of days before today that it will alert you
-- Line 23 controls the number of standard deviations away from the mean volume
-- Line 116, "n-jobs" controls the number of threads the script runs on, which I lowered to avoid new rate limits
-
-
+This scans filtered Nasdaq-listed common stocks using six months of daily volume history. It flags volume at least 5x the prior 20-session median within the last 4 days, while filtering for a minimum share price and median daily dollar volume. It helps identify unusual market activity.
 
 <img width="1347" alt="Screen Shot 2020-08-01 at 3 24 03 AM" src="https://user-images.githubusercontent.com/28206070/89097659-8fdeda00-d3a6-11ea-88f4-6c896eaadc59.png">
 
@@ -37,8 +18,3 @@ Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 [alternate website](http://165.22.228.6/)
 
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
-
-
-### Donations
-
-If you enjoy my work, please [donate here](https://www.paypal.me/SamPom100)
