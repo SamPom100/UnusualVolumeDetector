@@ -18,3 +18,7 @@ This scans filtered Nasdaq-listed common stocks using six months of daily volume
 [alternate website](http://165.22.228.6/)
 
 [alternate credit](https://www.removeddit.com/r/wallstreetbets/comments/i10mif/i_made_a_website_for_that_scanner_made_by_that/)
+
+---
+
+Created by [Sam Pomerantz](https://sampomerantz.me)
