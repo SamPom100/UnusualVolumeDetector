@@ -1,10 +1,10 @@
-# Unusual Volume Detector --- [New Website!  ](https://unusualvolume.info/):
+# Unusual Volume Detector --- [Website](https://sampom100.github.io/UnusualVolumeDetector/):
 
 This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
 
 ## Easiest way to see this:
 
-Go to the [website](https://unusualvolume.info/)
+Go to the [website](https://sampom100.github.io/UnusualVolumeDetector/)
 
 
 ### How to run the script:
@@ -12,7 +12,6 @@ Go to the [website](https://unusualvolume.info/)
 - Get my script from GitHub
 - Open the script in your IDE and install all required dependancies by typing pip install -r requirements.txt into the IDE's terminal. You can get to the the terminal on VSC by pressing CMD and ` at the same time.
 - Run the market_scanner.py and it will print out results into the terminal
-- You can also graph any ticker's volume in grapher.py
 
 ### Controlling the Script
 - Line 21 controls the amount of months of historical volume the script gets

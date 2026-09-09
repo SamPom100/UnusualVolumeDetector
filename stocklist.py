@@ -1,66 +1,83 @@
 from ftplib import FTP
 import os
-import errno
+import re
+from pathlib import Path
+from dotenv import load_dotenv
 
+load_dotenv()
+
+
+def env_bool(name, default=False):
+    return os.getenv(name, str(default)).strip().lower() in {"1", "true", "yes", "on"}
 
 # this is used to get all tickers from the market.
 
 
 exportList = []
 
+NON_COMMON_SECURITY_TYPES = (
+    r"\bdepositary\b",
+    r"\bpreferred\b",
+    r"\bwarrants?\b",
+    r"\bunits?\b",
+    r"\bright[s]?\b",
+    r"\bnotes?\b",
+    r"\bdebentures?\b",
+    r"\bbonds?\b",
+    r"\bfunds?\b",
+    r"\btrusts?\b",
+)
+
 
 class NasdaqController:
     def getList(self):
         return exportList
 
-    def __init__(self, update=False):
-
-        #"otherlisted": "data/otherlisted.txt",
+    def __init__(self, update=None):
         self.filenames = {
-            "nasdaqlisted": "data/nasdaqlisted.txt"
+            "nasdaqlisted": "data/nasdaqlisted.txt",
         }
 
-        # Update lists only if update = True
+        if update is None:
+            update = env_bool("UPDATE_TICKERS")
 
-        if update == True:
-            self.ftp = FTP("ftp.nasdaqtrader.com")
-            self.ftp.login()
+        if update:
+            with FTP("ftp.nasdaqtrader.com") as ftp:
+                ftp.login()
+                ftp.cwd("SymbolDirectory")
+                for filename, filepath in self.filenames.items():
+                    with open(filepath, "wb") as output:
+                        ftp.retrbinary("RETR " + filename + ".txt", output.write)
 
-            #print("Nasdaq Controller: Welcome message: " + self.ftp.getwelcome())
-
-            self.ftp.cwd("SymbolDirectory")
-
+        global exportList
+        exportList = []
+        symbols = set()
+        with Path("data/alllisted.txt").open("w") as all_listed:
             for filename, filepath in self.filenames.items():
-                if not os.path.exists(os.path.dirname(filepath)):
-                    try:
-                        os.makedirs(os.path.dirname(filepath))
-                    except OSError as exc:  # Guard against race condition
-                        if exc.errno != errno.EEXIST:
-                            raise
+                with open(filepath, "r") as file_reader:
+                    next(file_reader, None)
+                    for line in file_reader:
+                        fields = line.strip().split("|")
+                        if len(fields) < 2:
+                            continue
 
-                self.ftp.retrbinary("RETR " + filename +
-                                    ".txt", open(filepath, 'wb').write)
+                        symbol, security_name = fields[0].strip(), fields[1].strip()
+                        is_etf = len(fields) > 6 and fields[6] == "Y"
+                        is_test_issue = len(fields) > 3 and fields[3] == "Y"
+                        is_non_common_security = any(
+                            re.search(security_type, security_name.lower())
+                            for security_type in NON_COMMON_SECURITY_TYPES
+                        )
+                        if (not symbol or not security_name or is_etf or
+                                is_test_issue or is_non_common_security or
+                                symbol in symbols):
+                            continue
 
-        all_listed = open("data/alllisted.txt", 'w')
-
-        for filename, filepath in self.filenames.items():
-            with open(filepath, "r") as file_reader:
-                for i, line in enumerate(file_reader, 0):
-                    if i == 0:
-                        continue
-
-                    line = line.strip().split("|")
-
-                    # line[6] and line[4] is for ETFs. Let's skip those to make this faster.
-                    if line[0] == "" or line[1] == "" or (filename == 'nasdaqlisted' and line[6] == 'Y') or (filename == 'otherlisted' and line[4] == 'Y'):
-                        continue
-
-                    all_listed.write(line[0] + ",")
-                    global exportList
-                    exportList.append(line[0])
-                    all_listed.write(line[0] + "|" + line[1] + "\n")
+                        symbols.add(symbol)
+                        exportList.append(symbol)
+                        all_listed.write(symbol + "," + symbol + "|" + security_name + "\n")
 
 if __name__ == "__main__":
-    StocksController = NasdaqController(True)
+    StocksController = NasdaqController()
     print(StocksController.getList())
     print("Refresh Done.")

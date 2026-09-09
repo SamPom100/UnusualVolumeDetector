@@ -1,85 +1,98 @@
+import logging
 import os
+import sys
 import time
 import yfinance as yf
 from datetime import date
-import datetime
-import numpy as np
-import sys
 from stocklist import NasdaqController
 from tqdm import tqdm
-from joblib import Parallel, delayed, parallel_backend
-import multiprocessing
 import pandas as pd
-import quandl
 from dateutil.parser import parse
-from yfinance.exceptions import YFInvalidPeriodError
+from yfinance.exceptions import YFInvalidPeriodError, YFRateLimitError
+from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential_jitter
 import random
+from dotenv import load_dotenv
 
-###########################
-# THIS IS THE MAIN SCRIPT #
-###########################
+load_dotenv()
 
-# Change variables to your liking then run the script
-MONTH_CUTTOFF = 6  # 6
-DAY_CUTTOFF = 4  # 3
-STD_CUTTOFF = 7  # 9
-MIN_STOCK_VOLUME = 10000
-MIN_PRICE = 20
+def env_int(name, default):
+    return int(os.getenv(name, default))
 
+def env_float(name, default):
+    return float(os.getenv(name, default))
+
+logging.basicConfig(
+    stream=sys.stderr,
+    level=logging.WARNING,
+    format="%(levelname)s %(message)s",
+)
+logger = logging.getLogger(__name__)
+
+MONTH_CUTOFF = env_int("MONTH_CUTOFF", 6)
+DAY_CUTOFF = env_int("DAY_CUTOFF", 4)
+ROLLING_WINDOW = env_int("ROLLING_WINDOW", 20)
+VOLUME_MULTIPLIER = env_float("VOLUME_MULTIPLIER", 3)
+MIN_STOCK_VOLUME = env_int("MIN_STOCK_VOLUME", 10000)
+MIN_PRICE = env_int("MIN_PRICE", 20)
+MIN_MEDIAN_DOLLAR_VOLUME = env_int("MIN_MEDIAN_DOLLAR_VOLUME", 5000000)
+REQUEST_DELAY_SECONDS = env_int("REQUEST_DELAY_SECONDS", 2)
+BATCH_SIZE = env_int("BATCH_SIZE", 100)
 
 class mainObj:
-
-    def __init__(self):
-        pass
-
-    def getDataQuandl(self, ticker, pastDate, currentDate):
-        ticker = "WIKI/"+ticker
-        mydata = quandl.get(ticker, start_date=pastDate,
-                            end_date=currentDate, rows=50)
-        mydata = mydata["Volume"]
-        return mydata
+    @retry(
+        retry=retry_if_exception_type(YFRateLimitError),
+        wait=wait_exponential_jitter(initial=30, max=120),
+        stop=stop_after_attempt(3),
+        reraise=True,
+    )
+    def fetch_history(self, ticker):
+        return yf.Ticker(ticker).history(
+            period=str(MONTH_CUTOFF) + "mo", raise_errors=True
+        )
 
     def getData(self, ticker):
+        time.sleep(random.uniform(REQUEST_DELAY_SECONDS, REQUEST_DELAY_SECONDS + 1))
         try:
-            global MONTH_CUTOFF
-
-            sys.stdout = open(os.devnull, "w")
-            # maybe swap yahoo finance to quandl due to rate limits
+            data = self.fetch_history(ticker)
+        except YFInvalidPeriodError as error:
             try:
-                data = yf.Ticker(ticker).history(period=str(MONTH_CUTTOFF) + "mo", raise_errors=True)
-            except (YFInvalidPeriodError) as e:
-                try:
-                    data = yf.Ticker(ticker).history(period=e.valid_ranges[-1])
-                except:
-                    return pd.DataFrame(columns=["Volume"])
-            sys.stdout = sys.__stdout__
-
-            if data.tail(1)["Close"].values[0] < MIN_PRICE:
+                data = yf.Ticker(ticker).history(period=error.valid_ranges[-1])
+            except Exception as fallback_error:
+                logger.warning("Ticker %s failed during fallback request: %s", ticker, fallback_error)
                 return pd.DataFrame(columns=["Volume"])
-
-            # avoid yahoo finance rate limits
-            time.sleep(random.uniform(0.2, 1.5))
-            return data[["Volume"]]
-        except:
+        except Exception as error:
+            logger.warning("Ticker %s failed after retry policy: %s", ticker, error)
             return pd.DataFrame(columns=["Volume"])
 
+        if data.empty:
+            logger.warning("Ticker %s returned an empty response", ticker)
+            return pd.DataFrame(columns=["Volume"])
+
+        if "Close" not in data or "Volume" not in data:
+            logger.warning("Ticker %s returned missing columns: %s", ticker, list(data.columns))
+            return pd.DataFrame(columns=["Volume"])
+
+        if data["Close"].iloc[-1] < MIN_PRICE:
+            return pd.DataFrame(columns=["Volume"])
+
+        return data[["Close", "Volume"]]
+
+
     def find_anomalies(self, data):
-        global STD_CUTTOFF
-        global MIN_STOCK_VOLUME
-        indexs = []
-        outliers = []
-        data_std = np.std(data['Volume'])
-        data_mean = np.mean(data['Volume'])
-        anomaly_cut_off = data_std * STD_CUTTOFF
-        upper_limit = data_mean + anomaly_cut_off
-        data.reset_index(level=0, inplace=True)
-        for i in range(len(data)):
-            temp = data['Volume'].iloc[i]
-            if temp > upper_limit and temp > MIN_STOCK_VOLUME:
-                indexs.append(str(data['Date'].iloc[i])[:-15])
-                outliers.append(temp)
-        d = {'Dates': indexs, 'Volume': outliers}
-        return d
+        if data.empty:
+            return {'Dates': [], 'Volume': []}
+
+        volumes = data['Volume']
+        baseline = volumes.rolling(ROLLING_WINDOW).median().shift(1)
+        anomalies = data.loc[
+            baseline.notna()
+            & (volumes >= baseline * VOLUME_MULTIPLIER)
+            & (volumes >= MIN_STOCK_VOLUME)
+        ]
+        return {
+            'Dates': [str(index).split(' ')[0] for index in anomalies.index],
+            'Volume': anomalies['Volume'].tolist(),
+        }
 
     def customPrint(self, d, tick):
         print("\n\n\n*******  " + tick.upper() + "  *******")
@@ -93,46 +106,98 @@ class mainObj:
     def days_between(self, d1, d2):
         return abs((parse(d2) - parse(d1)).days)
 
-    def parallel_wrapper(self, x, currentDate, positive_scans):
-        global DAY_CUTTOFF
-        d = (self.find_anomalies(self.getData(x)))
-        if d['Dates']:
-            for i in range(len(d['Dates'])):
-                if self.days_between(str(currentDate), str(d['Dates'][i])) <= DAY_CUTTOFF:
-                    self.customPrint(d, x)
-                    stock = dict()
-                    stock['Ticker'] = x
-                    stock['TargetDate'] = d['Dates'][0]
-                    stock['TargetVolume'] = str(
-                        '{:,.2f}'.format(d['Volume'][0]))[:-3]
-                    positive_scans.append(stock)
+    def scan_ticker(self, ticker, current_date, positive_scans):
+        self.scan_data(ticker, self.getData(ticker), current_date, positive_scans)
+
+    def scan_data(self, ticker, data, current_date, positive_scans):
+        if data.empty or "Close" not in data or "Volume" not in data:
+            logger.warning("Ticker %s returned empty or incomplete batch data", ticker)
+            return
+        data = data.dropna(subset=["Close", "Volume"])
+        if data.empty:
+            logger.warning("Ticker %s returned no usable rows in batch data", ticker)
+            return
+        if data["Close"].iloc[-1] < MIN_PRICE:
+            return
+        median_dollar_volume = (data["Close"] * data["Volume"]).tail(ROLLING_WINDOW).median()
+        if median_dollar_volume < MIN_MEDIAN_DOLLAR_VOLUME:
+            logger.info("Ticker %s skipped for low median dollar volume: %.0f", ticker, median_dollar_volume)
+            return
+        anomalies = self.find_anomalies(data)
+        for anomaly_date, volume in zip(anomalies['Dates'], anomalies['Volume']):
+            if self.days_between(str(current_date), anomaly_date) <= DAY_CUTOFF:
+                result = {'Dates': [anomaly_date], 'Volume': [volume]}
+                self.customPrint(result, ticker)
+                chart = self.build_chart(data, anomaly_date)
+                result = {
+                    'Ticker': ticker,
+                    'TargetDate': anomaly_date,
+                    'TargetVolume': f'{volume:,.0f}',
+                    'Chart': chart,
+                }
+                if not any(
+                    item['Ticker'] == ticker and item['TargetDate'] == anomaly_date
+                    for item in positive_scans
+                ):
+                    positive_scans.append(result)
+
+    def build_chart(self, data, anomaly_date):
+        dates = [str(index).split(' ')[0] for index in data.index]
+        try:
+            anomaly_index = dates.index(anomaly_date)
+        except ValueError:
+            return []
+
+        start = max(0, anomaly_index - ROLLING_WINDOW)
+        values = data['Volume'].iloc[start:anomaly_index + 1].tolist()
+        maximum = max(values) or 1
+        return [
+            {
+                'Date': dates[index],
+                'Volume': f'{value:,.0f}',
+                'Height': max(4, round(value / maximum * 100)),
+                'IsAnomaly': index == anomaly_index,
+            }
+            for index, value in zip(range(start, anomaly_index + 1), values)
+        ]
 
     def main_func(self):
-        StocksController = NasdaqController(False)
+        StocksController = NasdaqController()
         list_of_tickers = StocksController.getList()
-        currentDate = datetime.date.today().strftime("%m-%d-%Y")
+        current_date = date.today().strftime("%m-%d-%Y")
         start_time = time.time()
+        positive_scans = []
 
-        # positive_scans = []
-        # for x in tqdm(list_of_tickers):
-        #     self.parallel_wrapper(x, currentDate, positive_scans)
+        for start in tqdm(range(0, len(list_of_tickers), BATCH_SIZE)):
+            tickers = list_of_tickers[start:start + BATCH_SIZE]
+            if start:
+                time.sleep(REQUEST_DELAY_SECONDS)
+            try:
+                batch = yf.download(
+                    tickers,
+                    period=str(MONTH_CUTOFF) + "mo",
+                    group_by="ticker",
+                    auto_adjust=False,
+                    threads=False,
+                    progress=False,
+                    timeout=15,
+                )
+            except Exception as error:
+                logger.warning("Batch starting at %s failed: %s", start, error)
+                continue
 
-        manager = multiprocessing.Manager()
-        positive_scans = manager.list()
-
-        cpu_count = multiprocessing.cpu_count()
-        try:
-            with parallel_backend('loky', n_jobs=cpu_count):
-                Parallel()(delayed(self.parallel_wrapper)(x, currentDate, positive_scans)
-                           for x in tqdm(list_of_tickers))
-        except Exception as e:
-            print(e)
+            for ticker in tickers:
+                try:
+                    data = batch[ticker][["Close", "Volume"]]
+                except (KeyError, TypeError):
+                    logger.warning("Ticker %s was missing from batch response", ticker)
+                    continue
+                self.scan_data(ticker, data, current_date, positive_scans)
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))
 
         return positive_scans
-
 
 if __name__ == '__main__':
     mainObj().main_func()

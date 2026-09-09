@@ -29,6 +29,9 @@
       h1 {font-family: 'Lexend Deca', sans-serif; text-align: center; color: white;}
       h2 {font-family: 'Lexend Deca', sans-serif; font-size: 20px; text-align: center; color: white;}
       body {color: A9A9A9; padding-bottom: 25px;}
+      .volume-chart {display: flex; align-items: end; gap: 2px; height: 42px; min-width: 130px;}
+      .volume-bar {background: #6c757d; flex: 1; min-width: 3px; border-radius: 2px 2px 0 0;}
+      .volume-bar.spike {background: #dc3545;}
       @media (max-width: 1024px) { h1 { font-size: 20vw;} }
       .transparent-box {
         opacity: 0;
@@ -49,8 +52,8 @@
     >
     <h1 class="display-3">Unusual Volume Scanner</h1>
       <h2 >
-        Get alerted when a stock's volume exceeds 10 standard deviations from the mean
-        within the last 3 days. <a href = "https://sampom100.github.io/UnusualVolumeDetector_Dynamic/">Dynamic Version.</a>
+        Scans six months of daily volume for Nasdaq-listed stocks and highlights
+        volume at least 5x the prior 20-session median within the last 4 days.
       </h2>
       <table class="mb-auto table table-hover table-dark">
         <thead>
@@ -58,6 +61,7 @@
             <th scope="col">Ticker</th>
             <th scope="col">Date</th>
             <th scope="col">Volume</th>
+            <th scope="col">Recent volume</th>
           </tr>
         </thead>
         <tbody>
@@ -65,12 +69,20 @@
           <tr>
             <th scope="row">
               <a
-                href=" {{ 'http://robinhood.com/stocks/{}'.format(stock['Ticker']) }}"
+                href="https://robinhood.com/us/en/stocks/{{ stock['Ticker'] }}/"
                 >{{stock['Ticker']}}</a
               >
             </th>
             <td>{{stock['TargetDate']}}</td>
             <td>{{stock['TargetVolume']}}</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+                {% for bar in stock['Chart'] %}
+                <span class="volume-bar{% if bar['IsAnomaly'] %} spike{% endif %}"
+                  style="height: {{bar['Height']}}%;" title="{{bar['Date']}}: {{bar['Volume']}}"></span>
+                {% endfor %}
+              </div>
+            </td>
           </tr>
           {% endfor %}
         </tbody>

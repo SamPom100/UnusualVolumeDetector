@@ -29,6 +29,9 @@
       h1 {font-family: 'Lexend Deca', sans-serif; text-align: center; color: white;}
       h2 {font-family: 'Lexend Deca', sans-serif; font-size: 20px; text-align: center; color: white;}
       body {color: A9A9A9; padding-bottom: 25px;}
+      .volume-chart {display: flex; align-items: end; gap: 2px; height: 42px; min-width: 130px;}
+      .volume-bar {background: #6c757d; flex: 1; min-width: 3px; border-radius: 2px 2px 0 0;}
+      .volume-bar.spike {background: #dc3545;}
       @media (max-width: 1024px) { h1 { font-size: 20vw;} }
       .transparent-box {
         opacity: 0;
@@ -49,8 +52,8 @@
     >
     <h1 class="display-3">Unusual Volume Scanner</h1>
       <h2 >
-        Get alerted when a stock's volume exceeds 10 standard deviations from the mean
-        within the last 3 days. <a href = "https://sampom100.github.io/UnusualVolumeDetector_Dynamic/">Dynamic Version.</a>
+        Scans six months of daily volume for Nasdaq-listed stocks and highlights
+        volume at least 5x the prior 20-session median within the last 4 days.
       </h2>
       <table class="mb-auto table table-hover table-dark">
         <thead>
@@ -58,65 +61,564 @@
             <th scope="col">Ticker</th>
             <th scope="col">Date</th>
             <th scope="col">Volume</th>
+            <th scope="col">Recent volume</th>
           </tr>
         </thead>
         <tbody>
-          
+
           <tr>
             <th scope="row">
               <a
-                href=" http://robinhood.com/stocks/SRRK"
-                >SRRK</a
+                href="https://robinhood.com/us/en/stocks/LULU/"
+                >LULU</a
               >
             </th>
-            <td>2024-10-07</td>
-            <td>42,667,700</td>
+            <td>2026-09-04</td>
+            <td>37,426,200</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 7%;" title="2026-08-07: 2,792,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 6%;" title="2026-08-10: 2,136,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 6%;" title="2026-08-11: 2,233,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-12: 2,861,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-13: 3,535,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-14: 2,988,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-17: 2,830,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-18: 3,042,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 5%;" title="2026-08-19: 1,974,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-20: 3,339,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-21: 3,247,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 7%;" title="2026-08-24: 2,743,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-25: 3,502,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-26: 3,686,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-27: 2,891,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-28: 3,921,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 36%;" title="2026-08-31: 13,645,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-09-01: 3,806,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-09-02: 3,942,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 45%;" title="2026-09-03: 16,937,300"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-04: 37,426,200"></span>
+
+              </div>
+            </td>
           </tr>
-          
+
           <tr>
             <th scope="row">
               <a
-                href=" http://robinhood.com/stocks/DOCU"
-                >DOCU</a
+                href="https://robinhood.com/us/en/stocks/DYN/"
+                >DYN</a
               >
             </th>
-            <td>2024-10-10</td>
-            <td>33,208,400</td>
+            <td>2026-09-08</td>
+            <td>17,153,500</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-08-10: 3,022,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-11: 1,398,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-12: 1,781,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-13: 1,901,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-14: 1,684,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-17: 1,317,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-18: 1,900,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-19: 1,952,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-20: 1,484,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 7%;" title="2026-08-21: 1,181,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-24: 1,370,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-25: 1,459,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-26: 1,527,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 6%;" title="2026-08-27: 1,018,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 7%;" title="2026-08-28: 1,186,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-31: 2,769,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-09-01: 1,629,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-09-02: 2,180,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-09-03: 1,453,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-09-04: 1,588,000"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-08: 17,153,500"></span>
+
+              </div>
+            </td>
           </tr>
-          
+
           <tr>
             <th scope="row">
               <a
-                href=" http://robinhood.com/stocks/FANG"
-                >FANG</a
+                href="https://robinhood.com/us/en/stocks/PHVS/"
+                >PHVS</a
               >
             </th>
-            <td>2024-10-08</td>
-            <td>10,794,600</td>
+            <td>2026-09-08</td>
+            <td>6,326,700</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-10: 982,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-11: 477,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 20%;" title="2026-08-12: 1,273,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-08-13: 738,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-14: 862,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-17: 556,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-18: 609,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-19: 1,042,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-20: 627,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-21: 515,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-24: 691,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-25: 861,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 7%;" title="2026-08-26: 448,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-08-27: 765,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-28: 478,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-31: 557,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 6%;" title="2026-09-01: 394,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 5%;" title="2026-09-02: 319,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 6%;" title="2026-09-03: 357,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-09-04: 483,600"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-08: 6,326,700"></span>
+
+              </div>
+            </td>
           </tr>
-          
+
           <tr>
             <th scope="row">
               <a
-                href=" http://robinhood.com/stocks/ALRS"
-                >ALRS</a
+                href="https://robinhood.com/us/en/stocks/AMBA/"
+                >AMBA</a
               >
             </th>
-            <td>2024-10-09</td>
-            <td>1,002,800</td>
+            <td>2026-09-04</td>
+            <td>5,201,800</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 25%;" title="2026-08-07: 1,316,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 17%;" title="2026-08-10: 898,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-11: 852,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 15%;" title="2026-08-12: 776,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-13: 551,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-14: 546,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 28%;" title="2026-08-17: 1,473,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 20%;" title="2026-08-18: 1,017,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-08-19: 935,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 15%;" title="2026-08-20: 778,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-21: 989,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 24%;" title="2026-08-24: 1,261,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-25: 593,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-08-26: 698,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-27: 718,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 26%;" title="2026-08-28: 1,329,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 17%;" title="2026-08-31: 876,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 24%;" title="2026-09-01: 1,251,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 25%;" title="2026-09-02: 1,302,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 53%;" title="2026-09-03: 2,731,100"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-04: 5,201,800"></span>
+
+              </div>
+            </td>
           </tr>
-          
+
           <tr>
             <th scope="row">
               <a
-                href=" http://robinhood.com/stocks/EXEEZ"
-                >EXEEZ</a
+                href="https://robinhood.com/us/en/stocks/TTAN/"
+                >TTAN</a
               >
             </th>
-            <td>2024-10-10</td>
-            <td>108,200</td>
+            <td>2026-09-08</td>
+            <td>4,870,500</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-08-10: 893,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 47%;" title="2026-08-11: 2,275,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 39%;" title="2026-08-12: 1,892,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 25%;" title="2026-08-13: 1,201,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-14: 934,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-17: 701,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-18: 779,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 33%;" title="2026-08-19: 1,609,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 21%;" title="2026-08-20: 1,010,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 20%;" title="2026-08-21: 964,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-08-24: 587,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-25: 920,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-08-26: 611,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 44%;" title="2026-08-27: 2,118,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 28%;" title="2026-08-28: 1,347,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-31: 759,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 17%;" title="2026-09-01: 810,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-09-02: 855,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 21%;" title="2026-09-03: 1,002,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 29%;" title="2026-09-04: 1,419,900"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-08: 4,870,500"></span>
+
+              </div>
+            </td>
           </tr>
-          
+
+          <tr>
+            <th scope="row">
+              <a
+                href="https://robinhood.com/us/en/stocks/WAFD/"
+                >WAFD</a
+              >
+            </th>
+            <td>2026-09-08</td>
+            <td>3,712,900</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-10: 610,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 15%;" title="2026-08-11: 544,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-12: 691,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-08-13: 493,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-14: 305,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-17: 369,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-18: 371,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-08-19: 655,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-20: 369,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-08-21: 414,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-08-24: 436,800"></span>
+
+                <span class="volume-bar"
+                  style="height: 10%;" title="2026-08-25: 377,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-26: 301,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-27: 286,400"></span>
+
+                <span class="volume-bar"
+                  style="height: 8%;" title="2026-08-28: 314,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-08-31: 452,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-09-01: 431,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-09-02: 473,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-09-03: 440,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-09-04: 491,300"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-08: 3,712,900"></span>
+
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <th scope="row">
+              <a
+                href="https://robinhood.com/us/en/stocks/INBX/"
+                >INBX</a
+              >
+            </th>
+            <td>2026-09-08</td>
+            <td>1,672,200</td>
+            <td>
+              <div class="volume-chart" aria-label="Recent volume history">
+
+                <span class="volume-bar"
+                  style="height: 20%;" title="2026-08-10: 337,100"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-11: 260,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-08-12: 158,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 15%;" title="2026-08-13: 251,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-08-14: 268,300"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-17: 231,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-18: 311,200"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-19: 310,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 21%;" title="2026-08-20: 351,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 13%;" title="2026-08-21: 220,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 22%;" title="2026-08-24: 373,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 31%;" title="2026-08-25: 510,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 18%;" title="2026-08-26: 302,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 19%;" title="2026-08-27: 310,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 14%;" title="2026-08-28: 241,500"></span>
+
+                <span class="volume-bar"
+                  style="height: 23%;" title="2026-08-31: 389,000"></span>
+
+                <span class="volume-bar"
+                  style="height: 16%;" title="2026-09-01: 275,600"></span>
+
+                <span class="volume-bar"
+                  style="height: 11%;" title="2026-09-02: 189,900"></span>
+
+                <span class="volume-bar"
+                  style="height: 9%;" title="2026-09-03: 151,700"></span>
+
+                <span class="volume-bar"
+                  style="height: 12%;" title="2026-09-04: 194,600"></span>
+
+                <span class="volume-bar spike"
+                  style="height: 100%;" title="2026-09-08: 1,672,200"></span>
+
+              </div>
+            </td>
+          </tr>
+
         </tbody>
 
 
@@ -140,7 +642,7 @@
                 LinkedIn
               <a>
               <a>
-                 
+
               </a>
           </span>
           <span style="margin-top: 10px; color: grey; font-size: 10px;">
