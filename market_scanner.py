@@ -168,7 +168,8 @@ class mainObj:
         start_time = time.time()
         positive_scans = []
 
-        for start in tqdm(range(0, len(list_of_tickers), BATCH_SIZE)):
+        progress = tqdm(total=len(list_of_tickers))
+        for start in range(0, len(list_of_tickers), BATCH_SIZE):
             tickers = list_of_tickers[start:start + BATCH_SIZE]
             if start:
                 time.sleep(REQUEST_DELAY_SECONDS)
@@ -184,6 +185,7 @@ class mainObj:
                 )
             except Exception as error:
                 logger.warning("Batch starting at %s failed: %s", start, error)
+                progress.update(len(tickers))
                 continue
 
             for ticker in tickers:
@@ -191,8 +193,11 @@ class mainObj:
                     data = batch[ticker][["Close", "Volume"]]
                 except (KeyError, TypeError):
                     logger.warning("Ticker %s was missing from batch response", ticker)
+                    progress.update(1)
                     continue
                 self.scan_data(ticker, data, current_date, positive_scans)
+                progress.update(1)
+        progress.close()
 
         print("\n\n\n\n--- this took %s seconds to run ---" %
               (time.time() - start_time))

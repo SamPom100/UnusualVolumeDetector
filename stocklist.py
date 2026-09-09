@@ -6,12 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
 def env_bool(name, default=False):
     return os.getenv(name, str(default)).strip().lower() in {"1", "true", "yes", "on"}
-
-# this is used to get all tickers from the market.
-
 
 exportList = []
 
