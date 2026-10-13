@@ -1,6 +1,6 @@
 # Unusual Volume Detector:
 
-## [Website Link](http://unusualvolume.sampomerantz.me/)
+## [Website Link](https://unusualvolume.sampomerantz.me/)
 
 ### Description
 This scans filtered Nasdaq-listed common stocks using six months of daily volume history. It flags volume at least 5x the prior 20-session median within the last 4 days, while filtering for a minimum share price and median daily dollar volume. It helps identify unusual market activity.
