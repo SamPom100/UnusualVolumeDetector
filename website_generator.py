@@ -31,9 +31,9 @@ def sort_by_volume(data):
     return sorted(data, key=get_volume, reverse=True)
 
 if __name__ == "__main__":
-    stock = sort_by_volume(mainObj().main_func()[:15])
+    stock = sort_by_volume(mainObj().main_func())[:15]
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
-    # shutil.rmtree('build/')
+    shutil.rmtree('build/', ignore_errors=True)
     # app.run(host='0.0.0.0', port='5000')  # run the app on LAN
     # app.run()  # run the app on your machine

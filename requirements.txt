@@ -7,7 +7,7 @@ tqdm==4.48.0
 joblib==1.4.2
 matplotlib==3.9.2
 Flask==2.2.2
-Flask_FlatPages==0.7.2
+Flask_FlatPages>=0.8.0
 pandas==2.2.3
 Frozen_Flask==1.0.2
 python_dateutil==2.9.0
