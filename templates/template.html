@@ -69,7 +69,9 @@
           <tr>
             <th scope="row">
               <a
-                href="https://robinhood.com/us/en/stocks/{{ stock['Ticker'] }}/"
+                href="https://www.google.com/finance/quote/{{ stock['Ticker'] }}:{{ stock['Exchange'] }}?window=1Y"
+                target="_blank"
+                rel="noopener noreferrer"
                 >{{stock['Ticker']}}</a
               >
             </th>

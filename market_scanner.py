@@ -39,6 +39,59 @@ REQUEST_DELAY_SECONDS = env_int("REQUEST_DELAY_SECONDS", 2)
 BATCH_SIZE = env_int("BATCH_SIZE", 100)
 
 class mainObj:
+    def __init__(self):
+        self.exchange_map = self.load_exchange_map()
+
+    def load_exchange_map(self):
+        mapping = {}
+        if os.path.exists("data/nasdaqlisted.txt"):
+            with open("data/nasdaqlisted.txt", "r") as f:
+                next(f, None)
+                for line in f:
+                    parts = line.strip().split("|")
+                    if parts and parts[0]:
+                        mapping[parts[0].strip()] = "NASDAQ"
+        if os.path.exists("data/otherlisted.txt"):
+            with open("data/otherlisted.txt", "r") as f:
+                next(f, None)
+                for line in f:
+                    parts = line.strip().split("|")
+                    if len(parts) >= 3 and parts[0]:
+                        sym = parts[0].strip()
+                        ex = parts[2].strip()
+                        if ex == "N":
+                            mapping[sym] = "NYSE"
+                        elif ex == "A":
+                            mapping[sym] = "NYSEAMERICAN"
+                        elif ex == "P":
+                            mapping[sym] = "NYSEARCA"
+                        elif ex == "Z":
+                            mapping[sym] = "BATS"
+        return mapping
+
+    def get_exchange(self, ticker):
+        if ticker in self.exchange_map:
+            return self.exchange_map[ticker]
+        try:
+            fast_ex = getattr(yf.Ticker(ticker).fast_info, "exchange", None)
+            yf_map = {
+                "NMS": "NASDAQ",
+                "NGM": "NASDAQ",
+                "NCM": "NASDAQ",
+                "NASDAQ": "NASDAQ",
+                "NYQ": "NYSE",
+                "NYSE": "NYSE",
+                "ASE": "NYSEAMERICAN",
+                "PCX": "NYSEARCA",
+                "BATS": "BATS",
+                "BTS": "BATS",
+            }
+            if fast_ex in yf_map:
+                return yf_map[fast_ex]
+        except Exception as error:
+            logger.warning("Could not determine exchange for %s: %s", ticker, error)
+        return "NASDAQ"
+
     @retry(
         retry=retry_if_exception_type(YFRateLimitError),
         wait=wait_exponential_jitter(initial=30, max=120),
@@ -131,6 +184,7 @@ class mainObj:
                 chart = self.build_chart(data, anomaly_date)
                 result = {
                     'Ticker': ticker,
+                    'Exchange': self.get_exchange(ticker),
                     'TargetDate': anomaly_date,
                     'TargetVolume': f'{volume:,.0f}',
                     'Chart': chart,

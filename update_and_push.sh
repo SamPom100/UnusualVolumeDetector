@@ -17,7 +17,7 @@ if git diff --quiet index.html data/alllisted.txt; then
     echo "[$(date -u '+%Y-%m-%d %H:%M:%S UTC')] No changes detected."
 else
     git add index.html data/alllisted.txt
-    git commit -m "chore: update daily unusual volume scan [skip ci]"
+    git commit -m "chore: update daily stocks [skip ci]"
     git push origin master
     echo "[$(date -u '+%Y-%m-%d %H:%M:%S UTC')] Successfully pushed updated scan to GitHub."
 fi
