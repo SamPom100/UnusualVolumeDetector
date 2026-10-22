@@ -30,8 +30,17 @@ def sort_by_volume(data):
         return int(item['TargetVolume'].replace(',', ''))
     return sorted(data, key=get_volume, reverse=True)
 
+def deduplicate_by_highest_volume(data):
+    seen = set()
+    unique = []
+    for item in sort_by_volume(data):
+        if item['Ticker'] not in seen:
+            seen.add(item['Ticker'])
+            unique.append(item)
+    return unique
+
 if __name__ == "__main__":
-    stock = sort_by_volume(mainObj().main_func())[:15]
+    stock = deduplicate_by_highest_volume(mainObj().main_func())[:15]
     freezer.freeze()
     copyfile('build/index.html', 'index.html')
     shutil.rmtree('build/', ignore_errors=True)

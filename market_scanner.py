@@ -177,23 +177,27 @@ class mainObj:
             logger.info("Ticker %s skipped for low median dollar volume: %.0f", ticker, median_dollar_volume)
             return
         anomalies = self.find_anomalies(data)
-        for anomaly_date, volume in zip(anomalies['Dates'], anomalies['Volume']):
-            if self.days_between(str(current_date), anomaly_date) <= DAY_CUTOFF:
-                result = {'Dates': [anomaly_date], 'Volume': [volume]}
-                self.customPrint(result, ticker)
-                chart = self.build_chart(data, anomaly_date)
-                result = {
-                    'Ticker': ticker,
-                    'Exchange': self.get_exchange(ticker),
-                    'TargetDate': anomaly_date,
-                    'TargetVolume': f'{volume:,.0f}',
-                    'Chart': chart,
-                }
-                if not any(
-                    item['Ticker'] == ticker and item['TargetDate'] == anomaly_date
-                    for item in positive_scans
-                ):
-                    positive_scans.append(result)
+        valid_anomalies = [
+            (anomaly_date, volume)
+            for anomaly_date, volume in zip(anomalies['Dates'], anomalies['Volume'])
+            if self.days_between(str(current_date), anomaly_date) <= DAY_CUTOFF
+        ]
+        if not valid_anomalies:
+            return
+
+        anomaly_date, volume = max(valid_anomalies, key=lambda x: x[1])
+        result = {'Dates': [anomaly_date], 'Volume': [volume]}
+        self.customPrint(result, ticker)
+        chart = self.build_chart(data, anomaly_date)
+        result = {
+            'Ticker': ticker,
+            'Exchange': self.get_exchange(ticker),
+            'TargetDate': anomaly_date,
+            'TargetVolume': f'{volume:,.0f}',
+            'Chart': chart,
+        }
+        if not any(item['Ticker'] == ticker for item in positive_scans):
+            positive_scans.append(result)
 
     def build_chart(self, data, anomaly_date):
         dates = [str(index).split(' ')[0] for index in data.index]
